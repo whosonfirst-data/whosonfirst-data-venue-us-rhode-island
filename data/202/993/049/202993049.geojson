@@ -1,0 +1,71 @@
+{
+  "id": 202993049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439868,41.822681,-71.439868,41.822681",
+    "geom:latitude":41.822681,
+    "geom:longitude":-71.439868,
+    "iso:country":"US",
+    "sg:address":"207 E Valley St",
+    "sg:city":"Valley",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 359 4102",
+    "sg:postcode":"68064",
+    "sg:province":"NE",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85880057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A5hqOkqlymXX0RPdZw4kG_41.822681_-71.439868@1303262940"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"95c28910fa5d20eb452a6675668c9b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":202993049
+        }
+    ],
+    "wof:id":202993049,
+    "wof:lastmodified":1449061247,
+    "wof:name":"Everett's Repair Inc",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [-71.439868,41.822681,-71.439868,41.822681],
+  "geometry": {"coordinates":[-71.439868,41.822681],"type":"Point"}
+}
