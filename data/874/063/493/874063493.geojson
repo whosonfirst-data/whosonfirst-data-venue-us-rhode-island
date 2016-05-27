@@ -1,0 +1,79 @@
+{
+  "id": 874063493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476232,41.747585,-71.476232,41.747585",
+    "geom:latitude":41.747585,
+    "geom:longitude":-71.476232,
+    "iso:country":"US",
+    "sg:address":"111 Mount View Dr",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3990",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPOnXTRHuSM0zZRo7tk7H_41.747585_-71.476232@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"7ff9c401e7b1017fe5ce2ea3be8537e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874063493
+        }
+    ],
+    "wof:id":874063493,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Cranston Tile Co Inc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.476232,
+    41.747585,
+    -71.476232,
+    41.747585
+],
+  "geometry": {"coordinates":[-71.476232,41.747585],"type":"Point"}
+}

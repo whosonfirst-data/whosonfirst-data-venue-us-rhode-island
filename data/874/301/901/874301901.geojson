@@ -1,0 +1,75 @@
+{
+  "id": 874301901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426004,41.834863,-71.426004,41.834863",
+    "geom:latitude":41.834863,
+    "geom:longitude":-71.426004,
+    "iso:country":"US",
+    "sg:address":"580 Chalkstone Avenue",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 4800",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gc6IRKeAOrjWMNiMSk4H6_41.834863_-71.426004@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315460,
+    "wof:geomhash":"936be5a0b8bcf177a35d51eaaf113bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874301901
+        }
+    ],
+    "wof:id":874301901,
+    "wof:lastmodified":1464315460,
+    "wof:name":"Murphy's Pizza",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.426004,
+    41.834863,
+    -71.426004,
+    41.834863
+],
+  "geometry": {"coordinates":[-71.42600400000001,41.834863],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874069851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.35491,41.840539,-71.35491,41.840539",
+    "geom:latitude":41.840539,
+    "geom:longitude":-71.35491,
+    "iso:country":"US",
+    "sg:address":"10 Newman Ave",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 9548",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nIbKxAH4FAAw3eyWsRDZ8_41.840539_-71.354910@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311431,
+    "wof:geomhash":"046871373931538793d1d8389f98f6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874069851
+        }
+    ],
+    "wof:id":874069851,
+    "wof:lastmodified":1464311431,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.35491,
+    41.840539,
+    -71.35491,
+    41.840539
+],
+  "geometry": {"coordinates":[-71.35491,41.840539],"type":"Point"}
+}

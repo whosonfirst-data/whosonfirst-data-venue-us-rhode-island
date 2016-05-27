@@ -1,0 +1,71 @@
+{
+  "id": 874268331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520091,41.686967,-71.520091,41.686967",
+    "geom:latitude":41.686967,
+    "geom:longitude":-71.520091,
+    "iso:country":"US",
+    "sg:address":"70 Church St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 5555",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "catholic",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n56UApzpK0429HFpoXTrR_41.686967_-71.520091@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314161,
+    "wof:geomhash":"51c0a74ef645d2eab99b41c3d6629fd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874268331
+        }
+    ],
+    "wof:id":874268331,
+    "wof:lastmodified":1464314161,
+    "wof:name":"Saint Marys Church-Crompton RI",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "church"
+    ]
+},
+  "bbox": [
+    -71.520091,
+    41.686967,
+    -71.520091,
+    41.686967
+],
+  "geometry": {"coordinates":[-71.52009099999999,41.686967],"type":"Point"}
+}

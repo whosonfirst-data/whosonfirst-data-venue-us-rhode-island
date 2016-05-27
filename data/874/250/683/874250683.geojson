@@ -1,0 +1,72 @@
+{
+  "id": 874250683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452422,41.570082,-71.452422,41.570082",
+    "geom:latitude":41.570082,
+    "geom:longitude":-71.452422,
+    "iso:country":"US",
+    "sg:address":"63 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3662",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63kZelhPDVK7m8KRM663eJ_41.570082_-71.452422@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313580,
+    "wof:geomhash":"026fa4cfe8250b10bcc22a0a7c93966f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874250683
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874250683
+        }
+    ],
+    "wof:id":874250683,
+    "wof:lastmodified":1464313580,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.452422,
+    41.570082,
+    -71.452422,
+    41.570082
+],
+  "geometry": {"coordinates":[-71.452422,41.570082],"type":"Point"}
+}

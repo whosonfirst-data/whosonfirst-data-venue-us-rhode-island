@@ -1,0 +1,82 @@
+{
+  "id": 874302289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450305,41.832654,-71.450305,41.832654",
+    "geom:latitude":41.832654,
+    "geom:longitude":-71.450305,
+    "iso:country":"US",
+    "sg:address":"1251 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 5826",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "flavor",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540501,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MLW3vdMitLJ2KdZYRruAa_41.832654_-71.450305@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315474,
+    "wof:geomhash":"3d29320a5327362a1d5a95dd26249a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540501,
+            "region_id":85688509,
+            "venue_id":874302289
+        }
+    ],
+    "wof:id":874302289,
+    "wof:lastmodified":1464315474,
+    "wof:name":"Deluise Bakery",
+    "wof:parent_id":420540501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flavor",
+        "local"
+    ]
+},
+  "bbox": [
+    -71.450305,
+    41.832654,
+    -71.450305,
+    41.832654
+],
+  "geometry": {"coordinates":[-71.450305,41.832654],"type":"Point"}
+}

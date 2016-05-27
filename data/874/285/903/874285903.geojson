@@ -1,0 +1,69 @@
+{
+  "id": 874285903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4627,41.819,-71.4627,41.819",
+    "geom:latitude":41.819,
+    "geom:longitude":-71.4627,
+    "iso:country":"US",
+    "sg:address":"571 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 2003",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OFGue3dxsthTT9UbK8x4c_41.819072_-71.462250@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314853,
+    "wof:geomhash":"a8dae74b0bf3bdeb637c33c79fb8897b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874285903
+        }
+    ],
+    "wof:id":874285903,
+    "wof:lastmodified":1464314853,
+    "wof:name":"Paul's Dry Cleaners",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -71.4627,
+    41.819,
+    -71.4627,
+    41.819
+],
+  "geometry": {"coordinates":[-71.4627,41.819],"type":"Point"}
+}

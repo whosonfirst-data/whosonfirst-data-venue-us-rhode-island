@@ -1,0 +1,71 @@
+{
+  "id": 874276021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536765,42.027014,-71.536765,42.027014",
+    "geom:latitude":42.027014,
+    "geom:longitude":-71.536765,
+    "iso:country":"US",
+    "sg:address":"19 Roberta Rd",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 5858",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fagFlAAKtDNKoQmkwr3Hh_42.027014_-71.536765@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314455,
+    "wof:geomhash":"084c7b522a45d2525ff5c24350cb472c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874276021
+        }
+    ],
+    "wof:id":874276021,
+    "wof:lastmodified":1464314455,
+    "wof:name":"Blackstone Valley Construction",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.536765,
+    42.027014,
+    -71.536765,
+    42.027014
+],
+  "geometry": {"coordinates":[-71.536765,42.027014],"type":"Point"}
+}

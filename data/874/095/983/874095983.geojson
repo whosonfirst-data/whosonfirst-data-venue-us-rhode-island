@@ -1,0 +1,69 @@
+{
+  "id": 874095983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558947,42.048961,-71.558947,42.048961",
+    "geom:latitude":42.048961,
+    "geom:longitude":-71.558947,
+    "iso:country":"US",
+    "sg:address":"14 Chestnut St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 9490",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TkYphvVBPsQYNlhV6MggF_42.048961_-71.558947@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311727,
+    "wof:geomhash":"6101e1dd265a1265a3f94186b86059cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":874095983
+        }
+    ],
+    "wof:id":874095983,
+    "wof:lastmodified":1464311727,
+    "wof:name":"Blackstone Animal Shelter",
+    "wof:parent_id":85810765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.558947,
+    42.048961,
+    -71.558947,
+    42.048961
+],
+  "geometry": {"coordinates":[-71.558947,42.048961],"type":"Point"}
+}

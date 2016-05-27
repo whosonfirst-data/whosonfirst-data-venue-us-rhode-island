@@ -1,0 +1,71 @@
+{
+  "id": 874159871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449647,41.866431,-71.449647,41.866431",
+    "geom:latitude":41.866431,
+    "geom:longitude":-71.449647,
+    "iso:country":"US",
+    "sg:address":"15 Oakcrest Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5613",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "foundry",
+        "nonferrous"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rgP0T62NxxEOrysezoyvt_41.866431_-71.449647@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312431,
+    "wof:geomhash":"c3b29bcdbca0ef08476937ee20434ba5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874159871
+        }
+    ],
+    "wof:id":874159871,
+    "wof:lastmodified":1464312431,
+    "wof:name":"Bari Cast Products",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundry",
+        "nonferrous"
+    ]
+},
+  "bbox": [
+    -71.449647,
+    41.866431,
+    -71.449647,
+    41.866431
+],
+  "geometry": {"coordinates":[-71.449647,41.866431],"type":"Point"}
+}

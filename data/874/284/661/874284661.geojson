@@ -1,0 +1,93 @@
+{
+  "id": 874284661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405998,41.8451,-71.405998,41.8451",
+    "geom:latitude":41.8451,
+    "geom:longitude":-71.405998,
+    "iso:country":"US",
+    "sg:address":"909 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 4064",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal"
+    ],
+    "sg:website":"www.umfmed.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ht9EjzaI41hCD3FFft4Hh_41.845406_-71.405749@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314801,
+    "wof:geomhash":"21854f0413691fad88538f5d6b1807e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874284661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874284661
+        }
+    ],
+    "wof:id":874284661,
+    "wof:lastmodified":1464314801,
+    "wof:name":"University Medicine Foundation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.405998,
+    41.8451,
+    -71.405998,
+    41.8451
+],
+  "geometry": {"coordinates":[-71.405998,41.8451],"type":"Point"}
+}

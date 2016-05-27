@@ -1,0 +1,81 @@
+{
+  "id": 874283537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4217,41.8241,-71.4217,41.8241",
+    "geom:latitude":41.8241,
+    "geom:longitude":-71.4217,
+    "iso:country":"US",
+    "sg:address":"44 Bradford St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 0993",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fIVTzObrZy3VUHh6vsRh4_41.824019_-71.421624@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314757,
+    "wof:geomhash":"90996b16c9914318c159fa6f5bdc9cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874283537
+        }
+    ],
+    "wof:id":874283537,
+    "wof:lastmodified":1464314757,
+    "wof:name":"Nick's Auto Body & Radiator Wk Inc",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "towing",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.4217,
+    41.8241,
+    -71.4217,
+    41.8241
+],
+  "geometry": {"coordinates":[-71.4217,41.8241],"type":"Point"}
+}

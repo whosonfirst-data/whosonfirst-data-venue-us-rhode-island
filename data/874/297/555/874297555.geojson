@@ -1,0 +1,76 @@
+{
+  "id": 874297555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425276,41.828913,-71.425276,41.828913",
+    "geom:latitude":41.828913,
+    "geom:longitude":-71.425276,
+    "iso:country":"US",
+    "sg:address":"46 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 6026",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.charleys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_471lFTe87qK9TJha46UMBd_41.828913_-71.425276@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315286,
+    "wof:geomhash":"c8c04bef7e430162e8e8b91d4cfc8a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874297555
+        }
+    ],
+    "wof:id":874297555,
+    "wof:lastmodified":1464315286,
+    "wof:name":"Charley's Grilled Subs",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.425276,
+    41.828913,
+    -71.425276,
+    41.828913
+],
+  "geometry": {"coordinates":[-71.425276,41.828913],"type":"Point"}
+}

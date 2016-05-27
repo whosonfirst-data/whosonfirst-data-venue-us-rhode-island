@@ -1,0 +1,80 @@
+{
+  "id": 874285831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421799,41.814499,-71.421799,41.814499",
+    "geom:latitude":41.814499,
+    "geom:longitude":-71.421799,
+    "iso:country":"US",
+    "sg:address":"59 Central St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 0081",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "storage",
+        "mover",
+        "commercial"
+    ],
+    "sg:website":"www.rimover.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jsljFakBlUuC66Ajt2ozU_41.815025_-71.421318@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314851,
+    "wof:geomhash":"e94af5bef2d1b7acc3fb30f771b700c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874285831
+        }
+    ],
+    "wof:id":874285831,
+    "wof:lastmodified":1464314851,
+    "wof:name":"Jones Moving & Storage Inc",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "mover",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.421799,
+    41.814499,
+    -71.421799,
+    41.814499
+],
+  "geometry": {"coordinates":[-71.42179899999999,41.814499],"type":"Point"}
+}

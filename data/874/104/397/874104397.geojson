@@ -1,0 +1,75 @@
+{
+  "id": 874104397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389081,41.826725,-71.389081,41.826725",
+    "geom:latitude":41.826725,
+    "geom:longitude":-71.389081,
+    "iso:country":"US",
+    "sg:address":"82 Pitman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 5626",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3twVBRageyCL1cf89q9DDl_41.826725_-71.389081@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311849,
+    "wof:geomhash":"23d196ba413993339759de1b715c5703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874104397
+        }
+    ],
+    "wof:id":874104397,
+    "wof:lastmodified":1464311849,
+    "wof:name":"American Home Loans",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -71.389081,
+    41.826725,
+    -71.389081,
+    41.826725
+],
+  "geometry": {"coordinates":[-71.389081,41.826725],"type":"Point"}
+}

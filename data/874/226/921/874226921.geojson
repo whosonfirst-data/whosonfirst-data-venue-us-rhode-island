@@ -1,0 +1,75 @@
+{
+  "id": 874226921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411994,41.704291,-71.411994,41.704291",
+    "geom:latitude":41.704291,
+    "geom:longitude":-71.411994,
+    "iso:country":"US",
+    "sg:address":"2448 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 3727",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AwkIibRvJQhFIy2LI6nb9_41.704291_-71.411994@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313130,
+    "wof:geomhash":"0bce8a136593c4b8661f4ad49818064f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":874226921
+        }
+    ],
+    "wof:id":874226921,
+    "wof:lastmodified":1464313130,
+    "wof:name":"Antonio's Bakery",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.411994,
+    41.704291,
+    -71.411994,
+    41.704291
+],
+  "geometry": {"coordinates":[-71.41199400000001,41.704291],"type":"Point"}
+}

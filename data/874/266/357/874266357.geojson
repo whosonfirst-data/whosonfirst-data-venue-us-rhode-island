@@ -1,0 +1,73 @@
+{
+  "id": 874266357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527383,41.483162,-71.527383,41.483162",
+    "geom:latitude":41.483162,
+    "geom:longitude":-71.527383,
+    "iso:country":"US",
+    "sg:address":"35 Campus Ave",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 1000",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rf4wRzJakXCj7pwfGbcQl_41.483162_-71.527383@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314084,
+    "wof:geomhash":"2888c15e49f30cf870532773f70dc4d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874266357
+        }
+    ],
+    "wof:id":874266357,
+    "wof:lastmodified":1464314084,
+    "wof:name":"Uri",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "university"
+    ]
+},
+  "bbox": [
+    -71.527383,
+    41.483162,
+    -71.527383,
+    41.483162
+],
+  "geometry": {"coordinates":[-71.527383,41.483162],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874028603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2915,41.538455,-71.2915,41.538455",
+    "geom:latitude":41.538455,
+    "geom:longitude":-71.2915,
+    "iso:country":"US",
+    "sg:address":"1425 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 8458",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06GGEiB3nIpeAYw1ZTFowr_41.538455_-71.291500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311030,
+    "wof:geomhash":"426f2660bc83b4c56b030c9b8860506e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874028603
+        }
+    ],
+    "wof:id":874028603,
+    "wof:lastmodified":1464311030,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.2915,
+    41.538455,
+    -71.2915,
+    41.538455
+],
+  "geometry": {"coordinates":[-71.2915,41.538455],"type":"Point"}
+}

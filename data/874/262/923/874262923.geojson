@@ -1,0 +1,73 @@
+{
+  "id": 874262923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.556907,41.485805,-71.556907,41.485805",
+    "geom:latitude":41.485805,
+    "geom:longitude":-71.556907,
+    "iso:country":"US",
+    "sg:address":"36 Frank Ave",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0680",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HAsjDoHh4cencRf4jh0rB_41.485805_-71.556907@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313955,
+    "wof:geomhash":"5d7aca42a1283b35173c3cc5d4110805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874262923
+        }
+    ],
+    "wof:id":874262923,
+    "wof:lastmodified":1464313955,
+    "wof:name":"JPM Construction",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.556907,
+    41.485805,
+    -71.556907,
+    41.485805
+],
+  "geometry": {"coordinates":[-71.556907,41.485805],"type":"Point"}
+}

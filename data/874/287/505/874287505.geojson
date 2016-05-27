@@ -1,0 +1,104 @@
+{
+  "id": 874287505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437307,41.774341,-71.437307,41.774341",
+    "geom:latitude":41.774341,
+    "geom:longitude":-71.437307,
+    "iso:country":"US",
+    "sg:address":"480 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/138817-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 3702",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GfTOwLwLSG8UruPP5uKMx_41.774341_-71.437307@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314913,
+    "wof:geomhash":"ac63cb36819d79036dff4105462ac431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874287505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874287505
+        }
+    ],
+    "wof:id":874287505,
+    "wof:lastmodified":1464314913,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.437307,
+    41.774341,
+    -71.437307,
+    41.774341
+],
+  "geometry": {"coordinates":[-71.437307,41.774341],"type":"Point"}
+}

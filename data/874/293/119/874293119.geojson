@@ -1,0 +1,69 @@
+{
+  "id": 874293119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444353,41.457458,-71.444353,41.457458",
+    "geom:latitude":41.457458,
+    "geom:longitude":-71.444353,
+    "iso:country":"US",
+    "sg:address":"20A Middlebridge Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2970",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RCPwTjyFrNBYwWYEHORi6_41.457458_-71.444353@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315127,
+    "wof:geomhash":"675e47cf3cf6ffaf553ad24dd7d1a5af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874293119
+        }
+    ],
+    "wof:id":874293119,
+    "wof:lastmodified":1464315127,
+    "wof:name":"Eagle Taxi",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.444353,
+    41.457458,
+    -71.444353,
+    41.457458
+],
+  "geometry": {"coordinates":[-71.44435300000001,41.457458],"type":"Point"}
+}

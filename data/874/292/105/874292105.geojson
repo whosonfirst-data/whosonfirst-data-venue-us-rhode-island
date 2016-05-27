@@ -1,0 +1,69 @@
+{
+  "id": 874292105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407754,41.892326,-71.407754,41.892326",
+    "geom:latitude":41.892326,
+    "geom:longitude":-71.407754,
+    "iso:country":"US",
+    "sg:address":"35 Moshassuck Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1931",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bdVtNGR2O83IZ13GUG6dY_41.892326_-71.407754@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315093,
+    "wof:geomhash":"24d56f79c6ca3beeeeea02b41ae263f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292105
+        }
+    ],
+    "wof:id":874292105,
+    "wof:lastmodified":1464315093,
+    "wof:name":"Eastland Electric",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.407754,
+    41.892326,
+    -71.407754,
+    41.892326
+],
+  "geometry": {"coordinates":[-71.407754,41.892326],"type":"Point"}
+}

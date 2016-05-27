@@ -1,0 +1,86 @@
+{
+  "id": 874271689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492061,41.707431,-71.492061,41.707431",
+    "geom:latitude":41.707431,
+    "geom:longitude":-71.492061,
+    "iso:country":"US",
+    "sg:address":"1050 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 3560",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24qz4JHFZl9uVoSbp1vH9H_41.707431_-71.492061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314281,
+    "wof:geomhash":"a87060cdba27232191ee77e814a46a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874271689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874271689
+        }
+    ],
+    "wof:id":874271689,
+    "wof:lastmodified":1464314281,
+    "wof:name":"Bald Hill Mobil",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.492061,
+    41.707431,
+    -71.492061,
+    41.707431
+],
+  "geometry": {"coordinates":[-71.49206100000001,41.707431],"type":"Point"}
+}

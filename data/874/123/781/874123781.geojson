@@ -1,0 +1,75 @@
+{
+  "id": 874123781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47496,41.727131,-71.47496,41.727131",
+    "geom:latitude":41.727131,
+    "geom:longitude":-71.47496,
+    "iso:country":"US",
+    "sg:address":"136 Lambert Lind Hwy",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 6700",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nol6wx2gAnEvRMrELeJ4y_41.727131_-71.474960@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312075,
+    "wof:geomhash":"d0708f7183e1d5323e190b58a4387159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874123781
+        }
+    ],
+    "wof:id":874123781,
+    "wof:lastmodified":1464312075,
+    "wof:name":"Ross-Simons Jewelers",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.47496,
+    41.727131,
+    -71.47496,
+    41.727131
+],
+  "geometry": {"coordinates":[-71.47496,41.727131],"type":"Point"}
+}

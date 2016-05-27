@@ -1,0 +1,69 @@
+{
+  "id": 874243565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43679,41.482524,-71.43679,41.482524",
+    "geom:latitude":41.482524,
+    "geom:longitude":-71.43679,
+    "iso:country":"US",
+    "sg:address":"1035 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1051",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1siIx5pZcFGxBgPUxyLV7h_41.482524_-71.436790@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313404,
+    "wof:geomhash":"6fd8955d854e409e5a1354b55f14f60e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874243565
+        }
+    ],
+    "wof:id":874243565,
+    "wof:lastmodified":1464313404,
+    "wof:name":"St Veronicas Chapel",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.43679,
+    41.482524,
+    -71.43679,
+    41.482524
+],
+  "geometry": {"coordinates":[-71.43679,41.482524],"type":"Point"}
+}

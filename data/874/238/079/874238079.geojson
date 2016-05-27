@@ -1,0 +1,71 @@
+{
+  "id": 874238079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293367,41.53265,-71.293367,41.53265",
+    "geom:latitude":41.53265,
+    "geom:longitude":-71.293367,
+    "iso:country":"US",
+    "sg:address":"1370 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 8086",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mlp1CdYNrC2vZbjmybqvk_41.532650_-71.293367@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"a0767e86b5c5749c35f06cccd3cd7b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874238079
+        }
+    ],
+    "wof:id":874238079,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Nails Elegance",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -71.293367,
+    41.53265,
+    -71.293367,
+    41.53265
+],
+  "geometry": {"coordinates":[-71.293367,41.53265],"type":"Point"}
+}

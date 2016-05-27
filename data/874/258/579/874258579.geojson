@@ -1,0 +1,77 @@
+{
+  "id": 874258579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.391739,41.86832,-71.391739,41.86832",
+    "geom:latitude":41.86832,
+    "geom:longitude":-71.391739,
+    "iso:country":"US",
+    "sg:address":"77 Sterry St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 4970",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IVDUWK4fLROoqr4yFhu7P_41.868320_-71.391739@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313790,
+    "wof:geomhash":"8097f596dd6c9f9acc04672b8e90fbec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874258579
+        }
+    ],
+    "wof:id":874258579,
+    "wof:lastmodified":1464313790,
+    "wof:name":"Tony's Auto Repair",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.391739,
+    41.86832,
+    -71.391739,
+    41.86832
+],
+  "geometry": {"coordinates":[-71.391739,41.86832],"type":"Point"}
+}

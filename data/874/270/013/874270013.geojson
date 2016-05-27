@@ -1,0 +1,73 @@
+{
+  "id": 874270013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.72812,41.480603,-71.72812,41.480603",
+    "geom:latitude":41.480603,
+    "geom:longitude":-71.72812,
+    "iso:country":"US",
+    "sg:address":"14 Old Depot Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2618",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KqEKxNYxTWiRZMwgvecXC_41.480603_-71.728120@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314226,
+    "wof:geomhash":"fb06dadafb604148f0ae074a575a866b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874270013
+        }
+    ],
+    "wof:id":874270013,
+    "wof:lastmodified":1464314226,
+    "wof:name":"Thomas T Bressette",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.72812,
+    41.480603,
+    -71.72812,
+    41.480603
+],
+  "geometry": {"coordinates":[-71.72812,41.480603],"type":"Point"}
+}

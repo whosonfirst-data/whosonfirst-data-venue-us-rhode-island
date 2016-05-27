@@ -1,0 +1,71 @@
+{
+  "id": 874262819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529704,41.470102,-71.529704,41.470102",
+    "geom:latitude":41.470102,
+    "geom:longitude":-71.529704,
+    "iso:country":"US",
+    "sg:address":"10 Heritage Dr",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7795",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XZo7ORb8EPGFjgvAMPgdO_41.470102_-71.529704@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313952,
+    "wof:geomhash":"9997defba034ae1d1347bdb4520110de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874262819
+        }
+    ],
+    "wof:id":874262819,
+    "wof:lastmodified":1464313952,
+    "wof:name":"RHS Builder Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.529704,
+    41.470102,
+    -71.529704,
+    41.470102
+],
+  "geometry": {"coordinates":[-71.529704,41.470102],"type":"Point"}
+}

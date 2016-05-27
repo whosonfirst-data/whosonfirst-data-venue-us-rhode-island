@@ -1,0 +1,81 @@
+{
+  "id": 874285589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450314,41.845162,-71.450314,41.845162",
+    "geom:latitude":41.845162,
+    "geom:longitude":-71.450314,
+    "iso:country":"US",
+    "sg:address":"1173 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 8264",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "convention",
+        "reporters-court",
+        "reporter",
+        "hearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60wXgcKCJ9rcvI1awJjHZg_41.845459_-71.450813@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314839,
+    "wof:geomhash":"24535a297e7dfb1caa7903a7f17da650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874285589
+        }
+    ],
+    "wof:id":874285589,
+    "wof:lastmodified":1464314839,
+    "wof:name":"Gerald A Ricci",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "reporters-court",
+        "reporter",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -71.450314,
+    41.845162,
+    -71.450314,
+    41.845162
+],
+  "geometry": {"coordinates":[-71.45031400000001,41.845162],"type":"Point"}
+}

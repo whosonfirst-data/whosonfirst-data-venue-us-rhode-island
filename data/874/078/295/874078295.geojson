@@ -1,0 +1,71 @@
+{
+  "id": 874078295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493332,41.898201,-71.493332,41.898201",
+    "geom:latitude":41.898201,
+    "geom:longitude":-71.493332,
+    "iso:country":"US",
+    "sg:address":"24 Maureen Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5577",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QiweeS3s58m5fOPu5mleL_41.898201_-71.493332@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"502ba453465a68d58f693d277466c807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874078295
+        }
+    ],
+    "wof:id":874078295,
+    "wof:lastmodified":1464311531,
+    "wof:name":"Ocean State Analytical Svc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -71.493332,
+    41.898201,
+    -71.493332,
+    41.898201
+],
+  "geometry": {"coordinates":[-71.493332,41.898201],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873985597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437529,41.865396,-71.437529,41.865396",
+    "geom:latitude":41.865396,
+    "geom:longitude":-71.437529,
+    "iso:country":"US",
+    "sg:address":"44 Irving St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7119",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h9ZGQXnasoethBEVwVGDt_41.865396_-71.437529@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310654,
+    "wof:geomhash":"ecb217a51571bc506318d1d73a7d93ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":873985597
+        }
+    ],
+    "wof:id":873985597,
+    "wof:lastmodified":1464310654,
+    "wof:name":"Energy Services",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.437529,
+    41.865396,
+    -71.437529,
+    41.865396
+],
+  "geometry": {"coordinates":[-71.437529,41.865396],"type":"Point"}
+}

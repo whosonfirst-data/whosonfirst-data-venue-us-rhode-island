@@ -1,0 +1,88 @@
+{
+  "id": 874292849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254211,41.561212,-71.254211,41.561212",
+    "geom:latitude":41.561212,
+    "geom:longitude":-71.254211,
+    "iso:country":"US",
+    "sg:address":"980 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 293 5070",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "promotion",
+        "agency",
+        "sale",
+        "promoter",
+        "tours-operators"
+    ],
+    "sg:website":"http://www.middletowncruise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GusZ9yoMaYkloPcputGfF_41.561212_-71.254211@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315118,
+    "wof:geomhash":"c851718ed074f46eae7a35bbe856c590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874292849
+        }
+    ],
+    "wof:id":874292849,
+    "wof:lastmodified":1464315118,
+    "wof:name":"Middletown Cruise & Travel",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promotion",
+        "agency",
+        "sale",
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -71.254211,
+    41.561212,
+    -71.254211,
+    41.561212
+],
+  "geometry": {"coordinates":[-71.254211,41.561212],"type":"Point"}
+}

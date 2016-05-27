@@ -1,0 +1,85 @@
+{
+  "id": 874293175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281855,41.727421,-71.281855,41.727421",
+    "geom:latitude":41.727421,
+    "geom:longitude":-71.281855,
+    "iso:country":"US",
+    "sg:address":"585 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6393",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "ophthalmology",
+        "surgeons",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hEl8FAysS3jBIgOvzFj42_41.727421_-71.281855@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315129,
+    "wof:geomhash":"159e40292cc499e3332e81d02aa638e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293175
+        }
+    ],
+    "wof:id":874293175,
+    "wof:lastmodified":1464315129,
+    "wof:name":"Lemos Jr, Lionel, OD - Koch Eye Associates",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "ophthalmology",
+        "surgeons",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.281855,
+    41.727421,
+    -71.281855,
+    41.727421
+],
+  "geometry": {"coordinates":[-71.28185499999999,41.727421],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874257907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462896,41.819233,-71.462896,41.819233",
+    "geom:latitude":41.819233,
+    "geom:longitude":-71.462896,
+    "iso:country":"US",
+    "sg:address":"553 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 1247",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wcoLZpGiF7r8nNm8r494e_41.819233_-71.462896@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313765,
+    "wof:geomhash":"750de6abef526a0d87a135f2f81649df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874257907
+        }
+    ],
+    "wof:id":874257907,
+    "wof:lastmodified":1464313765,
+    "wof:name":"LA Bella's Market",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.462896,
+    41.819233,
+    -71.462896,
+    41.819233
+],
+  "geometry": {"coordinates":[-71.462896,41.819233],"type":"Point"}
+}

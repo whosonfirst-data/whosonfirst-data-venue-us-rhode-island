@@ -1,0 +1,71 @@
+{
+  "id": 874252947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453019,41.869442,-71.453019,41.869442",
+    "geom:latitude":41.869442,
+    "geom:longitude":-71.453019,
+    "iso:country":"US",
+    "sg:address":"55 Pinewood Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0612",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oTB2k9UgprnZyRQ9aVQe3_41.869442_-71.453019@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313623,
+    "wof:geomhash":"e01ad93652cf8219eec0146a95099066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874252947
+        }
+    ],
+    "wof:id":874252947,
+    "wof:lastmodified":1464313623,
+    "wof:name":"D M Conanicus Corp",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -71.453019,
+    41.869442,
+    -71.453019,
+    41.869442
+],
+  "geometry": {"coordinates":[-71.453019,41.869442],"type":"Point"}
+}

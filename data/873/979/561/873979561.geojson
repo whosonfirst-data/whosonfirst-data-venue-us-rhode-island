@@ -1,0 +1,77 @@
+{
+  "id": 873979561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406112,41.745738,-71.406112,41.745738",
+    "geom:latitude":41.745738,
+    "geom:longitude":-71.406112,
+    "iso:country":"US",
+    "sg:address":"1130 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 6888",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uXoHaCMW7hpdzS1YvehOS_41.745738_-71.406112@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310575,
+    "wof:geomhash":"d089fbdbcca176d667e0b15e401a34f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":873979561
+        }
+    ],
+    "wof:id":873979561,
+    "wof:lastmodified":1464310575,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.406112,
+    41.745738,
+    -71.406112,
+    41.745738
+],
+  "geometry": {"coordinates":[-71.40611199999999,41.745738],"type":"Point"}
+}

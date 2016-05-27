@@ -1,0 +1,77 @@
+{
+  "id": 874256215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436108,41.802633,-71.436108,41.802633",
+    "geom:latitude":41.802633,
+    "geom:longitude":-71.436108,
+    "iso:country":"US",
+    "sg:address":"540 Huntington Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 9550",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72klGFbmh80pGol2z16NAa_41.802633_-71.436108@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313701,
+    "wof:geomhash":"65d3516f6f3cf9187c6e0aba4cc3d1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874256215
+        }
+    ],
+    "wof:id":874256215,
+    "wof:lastmodified":1464313701,
+    "wof:name":"Inner-City Auto Sales Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.436108,
+    41.802633,
+    -71.436108,
+    41.802633
+],
+  "geometry": {"coordinates":[-71.436108,41.802633],"type":"Point"}
+}

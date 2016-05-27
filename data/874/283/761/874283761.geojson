@@ -1,0 +1,65 @@
+{
+  "id": 874283761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4851,41.858101,-71.4851,41.858101",
+    "geom:latitude":41.858101,
+    "geom:longitude":-71.4851,
+    "iso:country":"US",
+    "sg:address":"2064 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7265",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:website":"www.cumberlandfarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qU3Yb2EYvLMt1tyE97Xhp_41.858280_-71.485733@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314765,
+    "wof:geomhash":"efa4c4aaf8cf7afe88d5573dffa10dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874283761
+        }
+    ],
+    "wof:id":874283761,
+    "wof:lastmodified":1464314765,
+    "wof:name":"Cumberland Farms",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.4851,
+    41.858101,
+    -71.4851,
+    41.858101
+],
+  "geometry": {"coordinates":[-71.4851,41.858101],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874286695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462869,41.645588,-71.462869,41.645588",
+    "geom:latitude":41.645588,
+    "geom:longitude":-71.462869,
+    "iso:country":"US",
+    "sg:address":"5454 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/245150-meritage/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 1255",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EOf0MsD6K3i7OUqurRVjt_41.645588_-71.462869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314880,
+    "wof:geomhash":"c83c69aaf8d575792c7c1307a03eb0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874286695
+        }
+    ],
+    "wof:id":874286695,
+    "wof:lastmodified":1464314880,
+    "wof:name":"Meritage",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.462869,
+    41.645588,
+    -71.462869,
+    41.645588
+],
+  "geometry": {"coordinates":[-71.462869,41.645588],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874296553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416184,41.821995,-71.416184,41.821995",
+    "geom:latitude":41.821995,
+    "geom:longitude":-71.416184,
+    "iso:country":"US",
+    "sg:address":"200 Washington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 2400",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49qjModwyghoTH9Eay5dO4_41.821995_-71.416184@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315251,
+    "wof:geomhash":"ce63ef958fa0c8960b2372f9d3571521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874296553
+        }
+    ],
+    "wof:id":874296553,
+    "wof:lastmodified":1464315251,
+    "wof:name":"Tini",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.416184,
+    41.821995,
+    -71.416184,
+    41.821995
+],
+  "geometry": {"coordinates":[-71.416184,41.821995],"type":"Point"}
+}

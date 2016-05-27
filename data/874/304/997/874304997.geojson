@@ -1,0 +1,82 @@
+{
+  "id": 874304997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471381,41.78811,-71.471381,41.78811",
+    "geom:latitude":41.78811,
+    "geom:longitude":-71.471381,
+    "iso:country":"US",
+    "sg:address":"80 Libera St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 9898",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "collection",
+        "garbage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSiiEcJ5h5wU58Fig0O5Y_41.788110_-71.471381@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315564,
+    "wof:geomhash":"bdfcb13f6fb46d285607601658724e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874304997
+        }
+    ],
+    "wof:id":874304997,
+    "wof:lastmodified":1464315564,
+    "wof:name":"Star Sweeping",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collection",
+        "garbage"
+    ]
+},
+  "bbox": [
+    -71.471381,
+    41.78811,
+    -71.471381,
+    41.78811
+],
+  "geometry": {"coordinates":[-71.47138099999999,41.78811],"type":"Point"}
+}

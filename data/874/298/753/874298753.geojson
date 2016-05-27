@@ -1,0 +1,69 @@
+{
+  "id": 874298753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462799,41.8606,-71.462799,41.8606",
+    "geom:latitude":41.8606,
+    "geom:longitude":-71.462799,
+    "iso:country":"US",
+    "sg:address":"464 Smithfield Rd",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6050",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VCnMUnknzuA5sO4ZGTPWD_41.860600_-71.462799@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315346,
+    "wof:geomhash":"cf3c69122ead5ee3944d23e67cf93fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874298753
+        }
+    ],
+    "wof:id":874298753,
+    "wof:lastmodified":1464315346,
+    "wof:name":"Instep Foot and Ankle Specialists",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [
+    -71.462799,
+    41.8606,
+    -71.462799,
+    41.8606
+],
+  "geometry": {"coordinates":[-71.462799,41.8606],"type":"Point"}
+}

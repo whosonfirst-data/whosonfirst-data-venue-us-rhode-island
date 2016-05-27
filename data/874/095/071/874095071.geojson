@@ -1,0 +1,71 @@
+{
+  "id": 874095071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677459,41.966585,-71.677459,41.966585",
+    "geom:latitude":41.966585,
+    "geom:longitude":-71.677459,
+    "iso:country":"US",
+    "sg:address":"89 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4751",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IejQGQhR4uwcarVqlZaLX_41.966585_-71.677459@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311713,
+    "wof:geomhash":"c07a61c1c44c60744ca23aa6fc398cad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874095071
+        }
+    ],
+    "wof:id":874095071,
+    "wof:lastmodified":1464311713,
+    "wof:name":"Mapleville Pump Station",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.677459,
+    41.966585,
+    -71.677459,
+    41.966585
+],
+  "geometry": {"coordinates":[-71.677459,41.966585],"type":"Point"}
+}

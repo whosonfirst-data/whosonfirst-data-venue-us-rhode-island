@@ -1,0 +1,75 @@
+{
+  "id": 874283983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385873,41.829638,-71.385873,41.829638",
+    "geom:latitude":41.829638,
+    "geom:longitude":-71.385873,
+    "iso:country":"US",
+    "sg:address":"55 S Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 5820",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39S7XmUFPncQpQ0ctodaBV_41.829450_-71.385244@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314773,
+    "wof:geomhash":"9795d73ae3eae73687dcb7c93cecd5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874283983
+        }
+    ],
+    "wof:id":874283983,
+    "wof:lastmodified":1464314773,
+    "wof:name":"Joseph Cambray",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -71.385873,
+    41.829638,
+    -71.385873,
+    41.829638
+],
+  "geometry": {"coordinates":[-71.385873,41.829638],"type":"Point"}
+}

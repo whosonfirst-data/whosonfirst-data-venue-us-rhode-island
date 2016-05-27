@@ -1,0 +1,71 @@
+{
+  "id": 874065379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44182,41.459396,-71.44182,41.459396",
+    "geom:latitude":41.459396,
+    "geom:longitude":-71.44182,
+    "iso:country":"US",
+    "sg:address":"5 Ridge Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 1617",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L23k1SFc9xsuiPmLDw34q_41.459396_-71.441820@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311383,
+    "wof:geomhash":"ae2d1098db2322b093cd1d603ecd520c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874065379
+        }
+    ],
+    "wof:id":874065379,
+    "wof:lastmodified":1464311383,
+    "wof:name":"J N Jordan Plumbing LLC",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.44182,
+    41.459396,
+    -71.44182,
+    41.459396
+],
+  "geometry": {"coordinates":[-71.44182000000001,41.459396],"type":"Point"}
+}

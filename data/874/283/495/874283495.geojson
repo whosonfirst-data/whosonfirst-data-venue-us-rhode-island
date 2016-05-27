@@ -1,0 +1,78 @@
+{
+  "id": 874283495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4077,41.8162,-71.4077,41.8162",
+    "geom:latitude":41.8162,
+    "geom:longitude":-71.4077,
+    "iso:country":"US",
+    "sg:address":"103 Point St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6666",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker",
+        "restaurant"
+    ],
+    "sg:website":"www.olgascupandsaucer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dHkP04W3nycnhGtrEpNHw_41.816353_-71.407950@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314756,
+    "wof:geomhash":"6856215c20d6a3c717d089779471a570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874283495
+        }
+    ],
+    "wof:id":874283495,
+    "wof:lastmodified":1464314756,
+    "wof:name":"Olga's Cup and Saucer",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.4077,
+    41.8162,
+    -71.4077,
+    41.8162
+],
+  "geometry": {"coordinates":[-71.40770000000001,41.8162],"type":"Point"}
+}

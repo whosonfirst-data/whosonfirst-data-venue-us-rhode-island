@@ -1,0 +1,80 @@
+{
+  "id": 874093115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452337,41.871724,-71.452337,41.871724",
+    "geom:latitude":41.871724,
+    "geom:longitude":-71.452337,
+    "iso:country":"US",
+    "sg:address":"24 Carriage Way",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7806",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "waste",
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76RbzHoxwxEEdhni7OLTkl_41.871724_-71.452337@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"eb40ac186b80a9f1a726b726e5475898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874093115
+        }
+    ],
+    "wof:id":874093115,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Michdan Environmental Tech",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "waste",
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -71.452337,
+    41.871724,
+    -71.452337,
+    41.871724
+],
+  "geometry": {"coordinates":[-71.452337,41.871724],"type":"Point"}
+}

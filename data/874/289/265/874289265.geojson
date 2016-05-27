@@ -1,0 +1,87 @@
+{
+  "id": 874289265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.702339,41.955916,-71.702339,41.955916",
+    "geom:latitude":41.955916,
+    "geom:longitude":-71.702339,
+    "iso:country":"US",
+    "sg:address":"60 Pascoag Main St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 8877",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cocktail",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i3wRiTgsOJko3t7YK3LyK_41.955916_-71.702339@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314987,
+    "wof:geomhash":"5389e6599b22d49d64546f04994f66ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874289265
+        }
+    ],
+    "wof:id":874289265,
+    "wof:lastmodified":1464314987,
+    "wof:name":"George's Pizza 'N Pub",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.702339,
+    41.955916,
+    -71.702339,
+    41.955916
+],
+  "geometry": {"coordinates":[-71.70233899999999,41.955916],"type":"Point"}
+}

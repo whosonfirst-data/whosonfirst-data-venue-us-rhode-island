@@ -1,0 +1,71 @@
+{
+  "id": 874036905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540761,41.869326,-71.540761,41.869326",
+    "geom:latitude":41.869326,
+    "geom:longitude":-71.540761,
+    "iso:country":"US",
+    "sg:address":"4 Maplecrest Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 729 5299",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RoET8xW8VGuFhprlkwWKt_41.869326_-71.540761@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311115,
+    "wof:geomhash":"b6d06a90f2bfe7e4f9988b36efb9b650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874036905
+        }
+    ],
+    "wof:id":874036905,
+    "wof:lastmodified":1464311115,
+    "wof:name":"Rhode Island Dance & Acrobat",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.540761,
+    41.869326,
+    -71.540761,
+    41.869326
+],
+  "geometry": {"coordinates":[-71.540761,41.869326],"type":"Point"}
+}

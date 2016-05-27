@@ -1,0 +1,69 @@
+{
+  "id": 873983753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53191,41.996606,-71.53191,41.996606",
+    "geom:latitude":41.996606,
+    "geom:longitude":-71.53191,
+    "iso:country":"US",
+    "sg:address":"22 Memorial Dr",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 6863",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fH6cYd7ly3fbcnKy1MplK_41.996606_-71.531910@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310640,
+    "wof:geomhash":"18871d579b291121462fbfba578a2742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":873983753
+        }
+    ],
+    "wof:id":873983753,
+    "wof:lastmodified":1464310640,
+    "wof:name":"Woonsocket Police Dept",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.53191,
+    41.996606,
+    -71.53191,
+    41.996606
+],
+  "geometry": {"coordinates":[-71.53191,41.996606],"type":"Point"}
+}

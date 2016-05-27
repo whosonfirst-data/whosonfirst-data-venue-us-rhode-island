@@ -1,0 +1,71 @@
+{
+  "id": 874305157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.366881,41.873954,-71.366881,41.873954",
+    "geom:latitude":41.873954,
+    "geom:longitude":-71.366881,
+    "iso:country":"US",
+    "sg:address":"70 Bacon Street Suite 2",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 223 0234",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:website":"http://www.getnetsense.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o4xhpoxczhT2BfvI3APmA_41.873954_-71.366881@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1464315569,
+    "wof:geomhash":"5a4f9520930cdb3223042cdd40abc36a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874305157
+        }
+    ],
+    "wof:id":874305157,
+    "wof:lastmodified":1464315569,
+    "wof:name":"netsense",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.366881,
+    41.873954,
+    -71.366881,
+    41.873954
+],
+  "geometry": {"coordinates":[-71.36688100000001,41.873954],"type":"Point"}
+}

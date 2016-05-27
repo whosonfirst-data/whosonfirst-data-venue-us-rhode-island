@@ -1,0 +1,73 @@
+{
+  "id": 874274903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498849,42.02982,-71.498849,42.02982",
+    "geom:latitude":42.02982,
+    "geom:longitude":-71.498849,
+    "iso:country":"US",
+    "sg:address":"748 Rathbun St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 4414",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wdtZE40Za4OH78hsYRKvB_42.029820_-71.498849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314399,
+    "wof:geomhash":"788d18de3f4dd9f238627dffe6aa5974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874274903
+        }
+    ],
+    "wof:id":874274903,
+    "wof:lastmodified":1464314399,
+    "wof:name":"First Choice Chimney Svc",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -71.498849,
+    42.02982,
+    -71.498849,
+    42.02982
+],
+  "geometry": {"coordinates":[-71.49884900000001,42.02982],"type":"Point"}
+}

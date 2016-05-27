@@ -1,0 +1,71 @@
+{
+  "id": 873980345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464636,41.403007,-71.464636,41.403007",
+    "geom:latitude":41.403007,
+    "geom:longitude":-71.464636,
+    "iso:country":"US",
+    "sg:address":"28 Fairway Ct",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 8888",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "property",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RmiDWxnRc29WxDAbgcauW_41.403007_-71.464636@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310590,
+    "wof:geomhash":"f8ed17173916b5173e7a7789be1dd2d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":873980345
+        }
+    ],
+    "wof:id":873980345,
+    "wof:lastmodified":1464310590,
+    "wof:name":"R I Realty Management Corp",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.464636,
+    41.403007,
+    -71.464636,
+    41.403007
+],
+  "geometry": {"coordinates":[-71.464636,41.403007],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874011777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502686,41.453428,-71.502686,41.453428",
+    "geom:latitude":41.453428,
+    "geom:longitude":-71.502686,
+    "iso:country":"US",
+    "sg:address":"1321 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7332",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85845577,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JX07ScBS5Q04kOcZoDmKU_41.453428_-71.502686@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310867,
+    "wof:geomhash":"0a7da32c3b7304ab2e0237a124027656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874011777
+        }
+    ],
+    "wof:id":874011777,
+    "wof:lastmodified":1464310867,
+    "wof:name":"Liberty Rental Inc",
+    "wof:parent_id":85845577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.502686,
+    41.453428,
+    -71.502686,
+    41.453428
+],
+  "geometry": {"coordinates":[-71.502686,41.453428],"type":"Point"}
+}

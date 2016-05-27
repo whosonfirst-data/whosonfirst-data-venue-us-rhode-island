@@ -1,0 +1,71 @@
+{
+  "id": 874180623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448735,41.712501,-71.448735,41.712501",
+    "geom:latitude":41.712501,
+    "geom:longitude":-71.448735,
+    "iso:country":"US",
+    "sg:address":"1329 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 4621",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:website":"www.ibew.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sGgWxW4DHbXKhpd2sE7xz_41.712501_-71.448735@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312636,
+    "wof:geomhash":"fb5d8cbfee56d748b34a0fac3ce8c12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874180623
+        }
+    ],
+    "wof:id":874180623,
+    "wof:lastmodified":1464312636,
+    "wof:name":"IBEW",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.448735,
+    41.712501,
+    -71.448735,
+    41.712501
+],
+  "geometry": {"coordinates":[-71.448735,41.712501],"type":"Point"}
+}

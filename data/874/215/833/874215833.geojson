@@ -1,0 +1,71 @@
+{
+  "id": 874215833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467651,41.833822,-71.467651,41.833822",
+    "geom:latitude":41.833822,
+    "geom:longitude":-71.467651,
+    "iso:country":"US",
+    "sg:address":"896 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 1177",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FKhTTDY7gc5Vjc3aCyF0O_41.833822_-71.467651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313012,
+    "wof:geomhash":"a66dce5c9a3c5919f67d9256343d6011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874215833
+        }
+    ],
+    "wof:id":874215833,
+    "wof:lastmodified":1464313012,
+    "wof:name":"Consumers Auto Sales",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -71.467651,
+    41.833822,
+    -71.467651,
+    41.833822
+],
+  "geometry": {"coordinates":[-71.467651,41.833822],"type":"Point"}
+}

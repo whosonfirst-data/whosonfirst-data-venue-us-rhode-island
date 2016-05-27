@@ -1,0 +1,71 @@
+{
+  "id": 874270623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.652696,41.387226,-71.652696,41.387226",
+    "geom:latitude":41.387226,
+    "geom:longitude":-71.652696,
+    "iso:country":"US",
+    "sg:address":"13 East Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 9383",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kGyIvPUCyO9voVmrbRc3M_41.387226_-71.652696@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314246,
+    "wof:geomhash":"42bae4700950ac8caa5c54fe247848f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874270623
+        }
+    ],
+    "wof:id":874270623,
+    "wof:lastmodified":1464314246,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.652696,
+    41.387226,
+    -71.652696,
+    41.387226
+],
+  "geometry": {"coordinates":[-71.65269600000001,41.387226],"type":"Point"}
+}

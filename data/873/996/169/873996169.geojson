@@ -1,0 +1,78 @@
+{
+  "id": 873996169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370743,41.813112,-71.370743,41.813112",
+    "geom:latitude":41.813112,
+    "geom:longitude":-71.370743,
+    "iso:country":"US",
+    "sg:address":"999 S Broadway",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 5000",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.bankri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PoLrG9zVQGtyiX3hWuSWJ_41.813112_-71.370743@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310733,
+    "wof:geomhash":"7173d08c1d18f12bec61b8fb321c08f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":873996169
+        }
+    ],
+    "wof:id":873996169,
+    "wof:lastmodified":1464310733,
+    "wof:name":"Bank Rhode Island",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.370743,
+    41.813112,
+    -71.370743,
+    41.813112
+],
+  "geometry": {"coordinates":[-71.370743,41.813112],"type":"Point"}
+}

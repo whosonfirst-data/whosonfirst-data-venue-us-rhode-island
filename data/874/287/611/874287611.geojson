@@ -1,0 +1,78 @@
+{
+  "id": 874287611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441496,41.79965,-71.441496,41.79965",
+    "geom:latitude":41.79965,
+    "geom:longitude":-71.441496,
+    "iso:country":"US",
+    "sg:address":"99 Garfield Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/10392-texas-roadhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 1900",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I3kAwxEIXIugnPTwFfIN8_41.799650_-71.441496@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"ac80b991438df6f7415260ede9af4a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874287611
+        }
+    ],
+    "wof:id":874287611,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Texas Roadhouse",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.441496,
+    41.79965,
+    -71.441496,
+    41.79965
+],
+  "geometry": {"coordinates":[-71.441496,41.79965],"type":"Point"}
+}

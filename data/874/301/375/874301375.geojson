@@ -1,0 +1,84 @@
+{
+  "id": 874301375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405617,41.824501,-71.405617,41.824501",
+    "geom:latitude":41.824501,
+    "geom:longitude":-71.405617,
+    "iso:country":"US",
+    "sg:address":"1 Benevolent St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7970",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rk0mPMYclaXkQCCHHHxdc_41.824501_-71.405617@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315443,
+    "wof:geomhash":"539928e791f63059e9332203f1d9f553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301375
+        }
+    ],
+    "wof:id":874301375,
+    "wof:lastmodified":1464315443,
+    "wof:name":"First Unitarian Church Of Providence",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -71.405617,
+    41.824501,
+    -71.405617,
+    41.824501
+],
+  "geometry": {"coordinates":[-71.40561700000001,41.824501],"type":"Point"}
+}

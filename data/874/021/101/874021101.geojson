@@ -1,0 +1,69 @@
+{
+  "id": 874021101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.753275,41.572538,-71.753275,41.572538",
+    "geom:latitude":41.572538,
+    "geom:longitude":-71.753275,
+    "iso:country":"US",
+    "sg:address":"50 Woody Hill Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 9588",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gN26DvWgqCBpuPbL5kd8E_41.572538_-71.753275@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310957,
+    "wof:geomhash":"29af7d8d97703fb7267d717a1128e72d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":874021101
+        }
+    ],
+    "wof:id":874021101,
+    "wof:lastmodified":1464310957,
+    "wof:name":"Exeter Volunteer Fire Dept",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.753275,
+    41.572538,
+    -71.753275,
+    41.572538
+],
+  "geometry": {"coordinates":[-71.753275,41.572538],"type":"Point"}
+}

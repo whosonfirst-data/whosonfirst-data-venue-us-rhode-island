@@ -1,0 +1,80 @@
+{
+  "id": 874283293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425003,41.817799,-71.425003,41.817799",
+    "geom:latitude":41.817799,
+    "geom:longitude":-71.425003,
+    "iso:country":"US",
+    "sg:address":"469 Washington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 2138",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "industrial",
+        "commercial",
+        "contractor"
+    ],
+    "sg:website":"www.nappabuildingcorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xPVc4ZYi46xFegWBfeKoy_41.817913_-71.425133@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314749,
+    "wof:geomhash":"fe3f9628c81f1cc94828b2da82fa3946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874283293
+        }
+    ],
+    "wof:id":874283293,
+    "wof:lastmodified":1464314749,
+    "wof:name":"Nappa Building Corp",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.425003,
+    41.817799,
+    -71.425003,
+    41.817799
+],
+  "geometry": {"coordinates":[-71.425003,41.817799],"type":"Point"}
+}

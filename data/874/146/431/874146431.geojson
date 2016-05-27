@@ -1,0 +1,78 @@
+{
+  "id": 874146431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468253,41.748443,-71.468253,41.748443",
+    "geom:latitude":41.748443,
+    "geom:longitude":-71.468253,
+    "iso:country":"US",
+    "sg:address":"645 New London Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 0402",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "sg:website":"www.army.mil",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58qdYPFZn3p1KfRYElXKrI_41.748443_-71.468253@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312297,
+    "wof:geomhash":"4c51ace9aeda3dfa6e37856374fa6fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874146431
+        }
+    ],
+    "wof:id":874146431,
+    "wof:lastmodified":1464312297,
+    "wof:name":"US Army Dept",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.468253,
+    41.748443,
+    -71.468253,
+    41.748443
+],
+  "geometry": {"coordinates":[-71.468253,41.748443],"type":"Point"}
+}

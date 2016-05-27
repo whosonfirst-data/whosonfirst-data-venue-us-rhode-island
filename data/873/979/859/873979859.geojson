@@ -1,0 +1,71 @@
+{
+  "id": 873979859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.691261,41.360588,-71.691261,41.360588",
+    "geom:latitude":41.360588,
+    "geom:longitude":-71.691261,
+    "iso:country":"US",
+    "sg:address":"5483 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 1217",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shellfish",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHjXwGRKZw5x54VUMJuwP_41.360588_-71.691261@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310581,
+    "wof:geomhash":"4d2aebac9e7db393fecf50128a2888eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":873979859
+        }
+    ],
+    "wof:id":873979859,
+    "wof:lastmodified":1464310581,
+    "wof:name":"R & L Fisheries Inc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shellfish",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.691261,
+    41.360588,
+    -71.691261,
+    41.360588
+],
+  "geometry": {"coordinates":[-71.691261,41.360588],"type":"Point"}
+}

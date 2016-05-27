@@ -1,0 +1,71 @@
+{
+  "id": 874145829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254714,41.53835,-71.254714,41.53835",
+    "geom:latitude":41.53835,
+    "geom:longitude":-71.254714,
+    "iso:country":"US",
+    "sg:address":"397 Bramans Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 5378",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JLqyvMgaZvBrk191GybdN_41.538350_-71.254714@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312292,
+    "wof:geomhash":"080b65b4eda01802c2b772cb6f08c823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874145829
+        }
+    ],
+    "wof:id":874145829,
+    "wof:lastmodified":1464312292,
+    "wof:name":"Crystal Sargent Speech Pthlgst",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -71.254714,
+    41.53835,
+    -71.254714,
+    41.53835
+],
+  "geometry": {"coordinates":[-71.25471400000001,41.53835],"type":"Point"}
+}

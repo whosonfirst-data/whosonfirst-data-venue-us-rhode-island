@@ -1,0 +1,69 @@
+{
+  "id": 874030335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435863,41.478029,-71.435863,41.478029",
+    "geom:latitude":41.478029,
+    "geom:longitude":-71.435863,
+    "iso:country":"US",
+    "sg:address":"944 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4720",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24niTmdFtHne2fkDvby8uI_41.478029_-71.435863@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311051,
+    "wof:geomhash":"a50729d39ba2038af91e2b6ee3aea9ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874030335
+        }
+    ],
+    "wof:id":874030335,
+    "wof:lastmodified":1464311051,
+    "wof:name":"Whale's Tail Cafe Inc",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -71.435863,
+    41.478029,
+    -71.435863,
+    41.478029
+],
+  "geometry": {"coordinates":[-71.435863,41.478029],"type":"Point"}
+}

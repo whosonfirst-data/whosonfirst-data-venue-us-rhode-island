@@ -1,0 +1,77 @@
+{
+  "id": 874296493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4188,41.8167,-71.4188,41.8167",
+    "geom:latitude":41.8167,
+    "geom:longitude":-71.4188,
+    "iso:country":"US",
+    "sg:address":"184 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 1010",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yGBzC97hyHZyLu9EiTVIh_41.816700_-71.418800@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315250,
+    "wof:geomhash":"92a76dbdec2b2a5a93421ad37e220330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874296493
+        }
+    ],
+    "wof:id":874296493,
+    "wof:lastmodified":1464315250,
+    "wof:name":"Diocese of Providence",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -71.4188,
+    41.8167,
+    -71.4188,
+    41.8167
+],
+  "geometry": {"coordinates":[-71.4188,41.8167],"type":"Point"}
+}

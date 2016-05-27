@@ -1,0 +1,81 @@
+{
+  "id": 874099199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405818,41.790894,-71.405818,41.790894",
+    "geom:latitude":41.790894,
+    "geom:longitude":-71.405818,
+    "iso:country":"US",
+    "sg:address":"1331 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 5173",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UNMMpx5xdAeytcOjnsAL9_41.790894_-71.405818@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311775,
+    "wof:geomhash":"c1aed57504bb38c725992e0c472ac79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874099199
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874099199
+        }
+    ],
+    "wof:id":874099199,
+    "wof:lastmodified":1464311775,
+    "wof:name":"Natalie's Fashions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.405818,
+    41.790894,
+    -71.405818,
+    41.790894
+],
+  "geometry": {"coordinates":[-71.405818,41.790894],"type":"Point"}
+}

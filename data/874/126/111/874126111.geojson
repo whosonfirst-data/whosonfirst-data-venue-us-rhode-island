@@ -1,0 +1,71 @@
+{
+  "id": 874126111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.243494,41.582731,-71.243494,41.582731",
+    "geom:latitude":41.582731,
+    "geom:longitude":-71.243494,
+    "iso:country":"US",
+    "sg:address":"39 Friends St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 8217",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53AG1eUpeN7idRCqyZUlZk_41.582731_-71.243494@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"86a0c9a5fe3af5d0825399edcc2aecad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874126111
+        }
+    ],
+    "wof:id":874126111,
+    "wof:lastmodified":1464312095,
+    "wof:name":"Anthony Furtado",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.243494,
+    41.582731,
+    -71.243494,
+    41.582731
+],
+  "geometry": {"coordinates":[-71.243494,41.582731],"type":"Point"}
+}

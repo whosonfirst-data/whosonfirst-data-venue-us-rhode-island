@@ -1,0 +1,77 @@
+{
+  "id": 874280859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.209212,41.582186,-71.209212,41.582186",
+    "geom:latitude":41.582186,
+    "geom:longitude":-71.209212,
+    "iso:country":"US",
+    "sg:address":"377 Seapowet Ave",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5529",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29pzD3CalGAxRO8uOV7at2_41.582186_-71.209212@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314658,
+    "wof:geomhash":"fdc4a7561c1964dc65282e115e34361c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874280859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874280859
+        }
+    ],
+    "wof:id":874280859,
+    "wof:lastmodified":1464314658,
+    "wof:name":"Seapower Sawmill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mill"
+    ]
+},
+  "bbox": [
+    -71.209212,
+    41.582186,
+    -71.209212,
+    41.582186
+],
+  "geometry": {"coordinates":[-71.20921199999999,41.582186],"type":"Point"}
+}

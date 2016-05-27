@@ -1,0 +1,87 @@
+{
+  "id": 874303139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459645,41.826267,-71.459645,41.826267",
+    "geom:latitude":41.826267,
+    "geom:longitude":-71.459645,
+    "iso:country":"US",
+    "sg:address":"564 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 4900",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "work-manufacturers",
+        "fabricator",
+        "work",
+        "sheet"
+    ],
+    "sg:website":"http://www.garel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540533,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jppH8PQOfJBb5gROPt8aD_41.826267_-71.459645@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315500,
+    "wof:geomhash":"44e13b96b2f5abb3cab652140a441af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540533,
+            "region_id":85688509,
+            "venue_id":874303139
+        }
+    ],
+    "wof:id":874303139,
+    "wof:lastmodified":1464315500,
+    "wof:name":"Ga Rel Manufacturing Company Inc",
+    "wof:parent_id":420540533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work-manufacturers",
+        "fabricator",
+        "work",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.459645,
+    41.826267,
+    -71.459645,
+    41.826267
+],
+  "geometry": {"coordinates":[-71.45964499999999,41.826267],"type":"Point"}
+}

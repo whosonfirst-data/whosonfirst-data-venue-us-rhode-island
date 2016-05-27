@@ -1,0 +1,80 @@
+{
+  "id": 874158361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442639,41.819184,-71.442639,41.819184",
+    "geom:latitude":41.819184,
+    "geom:longitude":-71.442639,
+    "iso:country":"US",
+    "sg:address":"114 Delaine St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 7528",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "employment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t2IGJoBKpGMr6Srbr6elD_41.819184_-71.442639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312411,
+    "wof:geomhash":"51df2e6313c9c45fad3965ad780e28b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874158361
+        }
+    ],
+    "wof:id":874158361,
+    "wof:lastmodified":1464312411,
+    "wof:name":"Youth Build Providence",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employment"
+    ]
+},
+  "bbox": [
+    -71.442639,
+    41.819184,
+    -71.442639,
+    41.819184
+],
+  "geometry": {"coordinates":[-71.442639,41.819184],"type":"Point"}
+}

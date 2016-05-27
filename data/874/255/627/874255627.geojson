@@ -1,0 +1,78 @@
+{
+  "id": 874255627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485854,41.718145,-71.485854,41.718145",
+    "geom:latitude":41.718145,
+    "geom:longitude":-71.485854,
+    "iso:country":"US",
+    "sg:address":"822 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 9900",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "furnishing",
+        "store"
+    ],
+    "sg:website":"www.menswearhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rCDMThQiyPAsJmk38YZSr_41.718145_-71.485854@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313688,
+    "wof:geomhash":"d463d0f0fa2186075e7e87ede82cac9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874255627
+        }
+    ],
+    "wof:id":874255627,
+    "wof:lastmodified":1464313688,
+    "wof:name":"Men's Wearhouse",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.485854,
+    41.718145,
+    -71.485854,
+    41.718145
+],
+  "geometry": {"coordinates":[-71.485854,41.718145],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874243447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521717,41.694689,-71.521717,41.694689",
+    "geom:latitude":41.694689,
+    "geom:longitude":-71.521717,
+    "iso:country":"US",
+    "sg:address":"1475 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2660",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xIh4ZiTPS4wXpykYNPayX_41.694689_-71.521717@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313402,
+    "wof:geomhash":"a675be02e2b7e51cfe2d1b09339d44f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874243447
+        }
+    ],
+    "wof:id":874243447,
+    "wof:lastmodified":1464313402,
+    "wof:name":"Roch's Supermarket",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.521717,
+    41.694689,
+    -71.521717,
+    41.694689
+],
+  "geometry": {"coordinates":[-71.521717,41.694689],"type":"Point"}
+}

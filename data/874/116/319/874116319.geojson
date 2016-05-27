@@ -1,0 +1,71 @@
+{
+  "id": 874116319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422789,41.888172,-71.422789,41.888172",
+    "geom:latitude":41.888172,
+    "geom:longitude":-71.422789,
+    "iso:country":"US",
+    "sg:address":"37 Westwood Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 3187",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "development",
+        "lab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yo56tzywVB2G7bcE7fCcl_41.888172_-71.422789@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312000,
+    "wof:geomhash":"ee4bdaf5a2c0cfc723d776c5ea4fc5f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874116319
+        }
+    ],
+    "wof:id":874116319,
+    "wof:lastmodified":1464312000,
+    "wof:name":"Simas Laboratories",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "lab"
+    ]
+},
+  "bbox": [
+    -71.422789,
+    41.888172,
+    -71.422789,
+    41.888172
+],
+  "geometry": {"coordinates":[-71.42278899999999,41.888172],"type":"Point"}
+}

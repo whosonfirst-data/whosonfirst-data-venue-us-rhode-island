@@ -1,0 +1,86 @@
+{
+  "id": 874270931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497529,41.432688,-71.497529,41.432688",
+    "geom:latitude":41.432688,
+    "geom:longitude":-71.497529,
+    "iso:country":"US",
+    "sg:address":"140 Kenyon Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3450",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nuVLYC3wk6VrU8bgWIehy_41.432688_-71.497529@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314256,
+    "wof:geomhash":"322e3c73b0e0fbfa3b08ea60c2c8e6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874270931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874270931
+        }
+    ],
+    "wof:id":874270931,
+    "wof:lastmodified":1464314256,
+    "wof:name":"RI Renal Institute",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.497529,
+    41.432688,
+    -71.497529,
+    41.432688
+],
+  "geometry": {"coordinates":[-71.497529,41.432688],"type":"Point"}
+}

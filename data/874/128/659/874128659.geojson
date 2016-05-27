@@ -1,0 +1,73 @@
+{
+  "id": 874128659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551082,41.482624,-71.551082,41.482624",
+    "geom:latitude":41.482624,
+    "geom:longitude":-71.551082,
+    "iso:country":"US",
+    "sg:address":"3484 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 6923",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vbm1JtFeW1bFYpUpEhWti_41.482624_-71.551082@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312117,
+    "wof:geomhash":"08b3d982c80106b1ea18a3b99702a66c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874128659
+        }
+    ],
+    "wof:id":874128659,
+    "wof:lastmodified":1464312117,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.551082,
+    41.482624,
+    -71.551082,
+    41.482624
+],
+  "geometry": {"coordinates":[-71.55108199999999,41.482624],"type":"Point"}
+}

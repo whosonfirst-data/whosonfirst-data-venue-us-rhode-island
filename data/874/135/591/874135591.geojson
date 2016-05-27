@@ -1,0 +1,71 @@
+{
+  "id": 874135591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.294092,41.541858,-71.294092,41.541858",
+    "geom:latitude":41.541858,
+    "geom:longitude":-71.294092,
+    "iso:country":"US",
+    "sg:address":"22 W View Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 7539",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l0I9VSM85MfEV7HNJAKey_41.541858_-71.294092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312196,
+    "wof:geomhash":"a7cd4a51a64352797d9164a6a45523d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874135591
+        }
+    ],
+    "wof:id":874135591,
+    "wof:lastmodified":1464312196,
+    "wof:name":"High Rez Consulting LLC",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting"
+    ]
+},
+  "bbox": [
+    -71.294092,
+    41.541858,
+    -71.294092,
+    41.541858
+],
+  "geometry": {"coordinates":[-71.29409200000001,41.541858],"type":"Point"}
+}

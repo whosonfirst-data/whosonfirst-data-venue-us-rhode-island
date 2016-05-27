@@ -1,0 +1,77 @@
+{
+  "id": 874080317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417557,41.778782,-71.417557,41.778782",
+    "geom:latitude":41.778782,
+    "geom:longitude":-71.417557,
+    "iso:country":"US",
+    "sg:address":"6 Thurston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 3126",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "trimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56lEiBdEg66LlS6bpQtKKn_41.778782_-71.417557@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311554,
+    "wof:geomhash":"1c4fc810531842d3d1ea21b43908f64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874080317
+        }
+    ],
+    "wof:id":874080317,
+    "wof:lastmodified":1464311554,
+    "wof:name":"J Tees",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "trimming"
+    ]
+},
+  "bbox": [
+    -71.417557,
+    41.778782,
+    -71.417557,
+    41.778782
+],
+  "geometry": {"coordinates":[-71.417557,41.778782],"type":"Point"}
+}

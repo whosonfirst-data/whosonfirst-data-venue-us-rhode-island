@@ -1,0 +1,69 @@
+{
+  "id": 874217719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395023,41.884895,-71.395023,41.884895",
+    "geom:latitude":41.884895,
+    "geom:longitude":-71.395023,
+    "iso:country":"US",
+    "sg:address":"551 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 4056",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iwFd4bZ903OWNaAzxgmXM_41.884895_-71.395023@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313029,
+    "wof:geomhash":"96af639af9ac6129d400c408c2477d74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874217719
+        }
+    ],
+    "wof:id":874217719,
+    "wof:lastmodified":1464313029,
+    "wof:name":"Superior Liquor",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.395023,
+    41.884895,
+    -71.395023,
+    41.884895
+],
+  "geometry": {"coordinates":[-71.39502299999999,41.884895],"type":"Point"}
+}

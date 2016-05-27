@@ -1,0 +1,71 @@
+{
+  "id": 874289823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386658,41.880686,-71.386658,41.880686",
+    "geom:latitude":41.880686,
+    "geom:longitude":-71.386658,
+    "iso:country":"US",
+    "sg:address":"106 Broad St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 599 5741",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:website":"www.chevrolet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_730iWvnKUvgO4tQJBzJqn8_41.880686_-71.386658@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315006,
+    "wof:geomhash":"df0b865d5b2f65433fa6f2b778acc16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289823
+        }
+    ],
+    "wof:id":874289823,
+    "wof:lastmodified":1464315006,
+    "wof:name":"Murphy Chevrolet Co Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.386658,
+    41.880686,
+    -71.386658,
+    41.880686
+],
+  "geometry": {"coordinates":[-71.386658,41.880686],"type":"Point"}
+}

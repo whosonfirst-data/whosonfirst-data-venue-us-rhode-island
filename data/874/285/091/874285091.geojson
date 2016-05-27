@@ -1,0 +1,79 @@
+{
+  "id": 874285091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.362297,41.8652,-71.362297,41.8652",
+    "geom:latitude":41.8652,
+    "geom:longitude":-71.362297,
+    "iso:country":"US",
+    "sg:address":"10 Pommenville St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 1495",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59w5Ai9I6BSthDZjeXy78P_41.864746_-71.362092@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314815,
+    "wof:geomhash":"585db7dbd36026f153839b6731411373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874285091
+        }
+    ],
+    "wof:id":874285091,
+    "wof:lastmodified":1464314815,
+    "wof:name":"Worcester Electrical Associates Inc",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.362297,
+    41.8652,
+    -71.362297,
+    41.8652
+],
+  "geometry": {"coordinates":[-71.362297,41.8652],"type":"Point"}
+}

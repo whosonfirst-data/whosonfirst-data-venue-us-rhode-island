@@ -1,0 +1,71 @@
+{
+  "id": 874051325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501404,41.588863,-71.501404,41.588863",
+    "geom:latitude":41.588863,
+    "geom:longitude":-71.501404,
+    "iso:country":"US",
+    "sg:address":"4019 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9642",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JemN9ljlQicAkiUxbeQ3M_41.588863_-71.501404@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311253,
+    "wof:geomhash":"777a2aaa027320ee474766a24fd9d66e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874051325
+        }
+    ],
+    "wof:id":874051325,
+    "wof:lastmodified":1464311253,
+    "wof:name":"Quaker Lane Outfitters",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.501404,
+    41.588863,
+    -71.501404,
+    41.588863
+],
+  "geometry": {"coordinates":[-71.50140399999999,41.588863],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874270681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.68147,41.388369,-71.68147,41.388369",
+    "geom:latitude":41.388369,
+    "geom:longitude":-71.68147,
+    "iso:country":"US",
+    "sg:address":"51 Quail Ln",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 5095",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37LcCL9yXLT4xvR6U0b29U_41.388369_-71.681470@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314248,
+    "wof:geomhash":"9dbb60cd9b4389c9b1b9b2aa7a2f692d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874270681
+        }
+    ],
+    "wof:id":874270681,
+    "wof:lastmodified":1464314248,
+    "wof:name":"Herbalife Distributor",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -71.68147,
+    41.388369,
+    -71.68147,
+    41.388369
+],
+  "geometry": {"coordinates":[-71.68147,41.388369],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 874003309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412255,41.841334,-71.412255,41.841334",
+    "geom:latitude":41.841334,
+    "geom:longitude":-71.412255,
+    "iso:country":"US",
+    "sg:address":"200 Corliss St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 0075",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "powder",
+        "aluminum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rzlPz24LZiRO6K7MA8GE1_41.841334_-71.412255@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310795,
+    "wof:geomhash":"136f44955caccc3043ab0759f3dac152",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874003309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874003309
+        }
+    ],
+    "wof:id":874003309,
+    "wof:lastmodified":1464310795,
+    "wof:name":"North-Star Metals Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "powder",
+        "aluminum"
+    ]
+},
+  "bbox": [
+    -71.412255,
+    41.841334,
+    -71.412255,
+    41.841334
+],
+  "geometry": {"coordinates":[-71.412255,41.841334],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874013703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.616157,41.381566,-71.616157,41.381566",
+    "geom:latitude":41.381566,
+    "geom:longitude":-71.616157,
+    "iso:country":"US",
+    "sg:address":"30 Holly Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0170",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JSk0XnnL3GUSSevWksBdx_41.381566_-71.616157@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310881,
+    "wof:geomhash":"c271a0de8b4c2f164e5666cb86db83fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874013703
+        }
+    ],
+    "wof:id":874013703,
+    "wof:lastmodified":1464310881,
+    "wof:name":"Rebecca Dexter",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.616157,
+    41.381566,
+    -71.616157,
+    41.381566
+],
+  "geometry": {"coordinates":[-71.616157,41.381566],"type":"Point"}
+}

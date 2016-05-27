@@ -1,0 +1,87 @@
+{
+  "id": 874288991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.606558,42.00089,-71.606558,42.00089",
+    "geom:latitude":42.00089,
+    "geom:longitude":-71.606558,
+    "iso:country":"US",
+    "sg:address":"245 Benedict Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 2399",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "builder",
+        "contractor",
+        "cabins",
+        "log",
+        "timber-frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OHl5r7cBAQzlHnhOePwGz_42.000890_-71.606558@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314976,
+    "wof:geomhash":"00d8ef21d9c4b875a2ec8187e8f61da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874288991
+        }
+    ],
+    "wof:id":874288991,
+    "wof:lastmodified":1464314976,
+    "wof:name":"Jim Barna Log Systems By Lodge",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "contractor",
+        "cabins",
+        "log",
+        "timber-frame"
+    ]
+},
+  "bbox": [
+    -71.606558,
+    42.00089,
+    -71.606558,
+    42.00089
+],
+  "geometry": {"coordinates":[-71.60655800000001,42.00089],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 874215247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404869,41.802887,-71.404869,41.802887",
+    "geom:latitude":41.802887,
+    "geom:longitude":-71.404869,
+    "iso:country":"US",
+    "sg:address":"67 Seymour St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 8999",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HwOLHOIiCUpzpsHxnO8U8_41.802887_-71.404869@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313007,
+    "wof:geomhash":"694cab741e489c87b8efa5590576b51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874215247
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874215247
+        }
+    ],
+    "wof:id":874215247,
+    "wof:lastmodified":1464313007,
+    "wof:name":"Precision Auto Detail",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -71.404869,
+    41.802887,
+    -71.404869,
+    41.802887
+],
+  "geometry": {"coordinates":[-71.40486900000001,41.802887],"type":"Point"}
+}

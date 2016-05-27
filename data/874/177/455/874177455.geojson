@@ -1,0 +1,71 @@
+{
+  "id": 874177455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471649,41.825245,-71.471649,41.825245",
+    "geom:latitude":41.825245,
+    "geom:longitude":-71.471649,
+    "iso:country":"US",
+    "sg:address":"539 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7181",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cqgB5rDic4gtcQcyRThpb_41.825245_-71.471649@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"46e353b5a916a1156fa1f18226bbfa84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874177455
+        }
+    ],
+    "wof:id":874177455,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Salon Lazaro",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.471649,
+    41.825245,
+    -71.471649,
+    41.825245
+],
+  "geometry": {"coordinates":[-71.471649,41.825245],"type":"Point"}
+}

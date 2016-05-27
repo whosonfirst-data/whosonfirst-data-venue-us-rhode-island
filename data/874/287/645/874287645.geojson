@@ -1,0 +1,80 @@
+{
+  "id": 874287645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458435,41.783813,-71.458435,41.783813",
+    "geom:latitude":41.783813,
+    "geom:longitude":-71.458435,
+    "iso:country":"US",
+    "sg:address":"1360 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/83100-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 3300",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eG9jxq7uhX15fm2yVzA4g_41.783813_-71.458435@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314918,
+    "wof:geomhash":"d783b60a999874da6ea0c991ab6e14db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874287645
+        }
+    ],
+    "wof:id":874287645,
+    "wof:lastmodified":1464314918,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.458435,
+    41.783813,
+    -71.458435,
+    41.783813
+],
+  "geometry": {"coordinates":[-71.45843499999999,41.783813],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874246017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453716,41.462097,-71.453716,41.462097",
+    "geom:latitude":41.462097,
+    "geom:longitude":-71.453716,
+    "iso:country":"US",
+    "sg:address":"415 Middlebridge Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4870",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "specialist",
+        "pulmonary",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42xHT6IykZsRofHQvK3fsJ_41.462097_-71.453716@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313454,
+    "wof:geomhash":"011e8a6d401df4899f95f025c85585ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874246017
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874246017
+        }
+    ],
+    "wof:id":874246017,
+    "wof:lastmodified":1464313454,
+    "wof:name":"William M Corrao MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "specialist",
+        "pulmonary",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.453716,
+    41.462097,
+    -71.453716,
+    41.462097
+],
+  "geometry": {"coordinates":[-71.453716,41.462097],"type":"Point"}
+}

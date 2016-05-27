@@ -1,0 +1,88 @@
+{
+  "id": 874100719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479212,41.464441,-71.479212,41.464441",
+    "geom:latitude":41.464441,
+    "geom:longitude":-71.479212,
+    "iso:country":"US",
+    "sg:address":"552 Saugatucket Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1213",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mI0Gwvp13OOSAu93rVDRi_41.464441_-71.479212@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311803,
+    "wof:geomhash":"d6c2b3db88f787722c89917a88a9f975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874100719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874100719
+        }
+    ],
+    "wof:id":874100719,
+    "wof:lastmodified":1464311803,
+    "wof:name":"F/V Reaper Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.479212,
+    41.464441,
+    -71.479212,
+    41.464441
+],
+  "geometry": {"coordinates":[-71.479212,41.464441],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874187033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529388,41.467045,-71.529388,41.467045",
+    "geom:latitude":41.467045,
+    "geom:longitude":-71.529388,
+    "iso:country":"US",
+    "sg:address":"28 N Pasture Ln",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1433",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jfIaSMw7ACW8KNwd7IKeC_41.467045_-71.529388@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312709,
+    "wof:geomhash":"80e4b0d3b6913e020a69f87e69b68757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874187033
+        }
+    ],
+    "wof:id":874187033,
+    "wof:lastmodified":1464312709,
+    "wof:name":"Integrated Business Consulting",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -71.529388,
+    41.467045,
+    -71.529388,
+    41.467045
+],
+  "geometry": {"coordinates":[-71.529388,41.467045],"type":"Point"}
+}

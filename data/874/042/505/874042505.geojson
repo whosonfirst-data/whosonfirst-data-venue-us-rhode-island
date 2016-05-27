@@ -1,0 +1,71 @@
+{
+  "id": 874042505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431758,41.788114,-71.431758,41.788114",
+    "geom:latitude":41.788114,
+    "geom:longitude":-71.431758,
+    "iso:country":"US",
+    "sg:address":"355 Reservoir Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 3390",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:website":"www.radioshack.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rZvC6RtRjMgTOy9BSySh5_41.788114_-71.431758@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311170,
+    "wof:geomhash":"5282a6931119a359856e7d49afabfd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874042505
+        }
+    ],
+    "wof:id":874042505,
+    "wof:lastmodified":1464311170,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.431758,
+    41.788114,
+    -71.431758,
+    41.788114
+],
+  "geometry": {"coordinates":[-71.431758,41.788114],"type":"Point"}
+}

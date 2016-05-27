@@ -1,0 +1,75 @@
+{
+  "id": 873991509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477554,41.832701,-71.477554,41.832701",
+    "geom:latitude":41.832701,
+    "geom:longitude":-71.477554,
+    "iso:country":"US",
+    "sg:address":"3 Fairmount Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 934 2288",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JZEamGIqDwwbzlSHFDLpI_41.832701_-71.477554@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310700,
+    "wof:geomhash":"c68b05c3ed11c4731c6f2ee679072738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":873991509
+        }
+    ],
+    "wof:id":873991509,
+    "wof:lastmodified":1464310700,
+    "wof:name":"T & K Cleaning Svc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.477554,
+    41.832701,
+    -71.477554,
+    41.832701
+],
+  "geometry": {"coordinates":[-71.477554,41.832701],"type":"Point"}
+}

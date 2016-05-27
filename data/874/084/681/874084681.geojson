@@ -1,0 +1,79 @@
+{
+  "id": 874084681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411209,41.810226,-71.411209,41.810226",
+    "geom:latitude":41.810226,
+    "geom:longitude":-71.411209,
+    "iso:country":"US",
+    "sg:address":"120 Dudley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 4464",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qDMzJb5i3cWWlNeyS2VEA_41.810226_-71.411209@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311606,
+    "wof:geomhash":"9fa1a7f4abd6effe03e7659ec82f1d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874084681
+        }
+    ],
+    "wof:id":874084681,
+    "wof:lastmodified":1464311606,
+    "wof:name":"Enzer & Associates Prof",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.411209,
+    41.810226,
+    -71.411209,
+    41.810226
+],
+  "geometry": {"coordinates":[-71.411209,41.810226],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874260629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.258736,41.672174,-71.258736,41.672174",
+    "geom:latitude":41.672174,
+    "geom:longitude":-71.258736,
+    "iso:country":"US",
+    "sg:address":"301 Metacom Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 9885",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0czs4bHYHforM9ltOn5oFn_41.672174_-71.258736@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313879,
+    "wof:geomhash":"81e2a751c4205d6bd031b5d6b253eaee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874260629
+        }
+    ],
+    "wof:id":874260629,
+    "wof:lastmodified":1464313879,
+    "wof:name":"Franco Brothers Garage Inc",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.258736,
+    41.672174,
+    -71.258736,
+    41.672174
+],
+  "geometry": {"coordinates":[-71.258736,41.672174],"type":"Point"}
+}

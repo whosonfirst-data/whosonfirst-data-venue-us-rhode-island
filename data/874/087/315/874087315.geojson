@@ -1,0 +1,77 @@
+{
+  "id": 874087315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427208,41.711666,-71.427208,41.711666",
+    "geom:latitude":41.711666,
+    "geom:longitude":-71.427208,
+    "iso:country":"US",
+    "sg:address":"325 Strawberry Field Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 468 1010",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QIoHg7zZJRSL37VUuDAQg_41.711666_-71.427208@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311634,
+    "wof:geomhash":"184b7168b4620686fb1645e1b2680772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":874087315
+        }
+    ],
+    "wof:id":874087315,
+    "wof:lastmodified":1464311634,
+    "wof:name":"Warwick Main Office",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.427208,
+    41.711666,
+    -71.427208,
+    41.711666
+],
+  "geometry": {"coordinates":[-71.42720799999999,41.711666],"type":"Point"}
+}

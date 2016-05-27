@@ -1,0 +1,77 @@
+{
+  "id": 873989021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448883,41.665139,-71.448883,41.665139",
+    "geom:latitude":41.665139,
+    "geom:longitude":-71.448883,
+    "iso:country":"US",
+    "sg:address":"42 Ladd St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 398 0571",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "hydrant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nC0V8xwGPLNc4FEmCrrFH_41.665139_-71.448883@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310683,
+    "wof:geomhash":"5c656e8fb247434c3ae3ad844414c68d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":873989021
+        }
+    ],
+    "wof:id":873989021,
+    "wof:lastmodified":1464310683,
+    "wof:name":"Todays Art Studio",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "hydrant"
+    ]
+},
+  "bbox": [
+    -71.448883,
+    41.665139,
+    -71.448883,
+    41.665139
+],
+  "geometry": {"coordinates":[-71.448883,41.665139],"type":"Point"}
+}

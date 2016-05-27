@@ -1,0 +1,69 @@
+{
+  "id": 874085671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467662,41.641683,-71.467662,41.641683",
+    "geom:latitude":41.641683,
+    "geom:longitude":-71.467662,
+    "iso:country":"US",
+    "sg:address":"5732 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 2384",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ChejOb1EXUL5jSWH4jm9D_41.641683_-71.467662@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311617,
+    "wof:geomhash":"11cf568c92449993f165dd6de97c72b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874085671
+        }
+    ],
+    "wof:id":874085671,
+    "wof:lastmodified":1464311617,
+    "wof:name":"Greenwich Bay Animal Hospital",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.467662,
+    41.641683,
+    -71.467662,
+    41.641683
+],
+  "geometry": {"coordinates":[-71.467662,41.641683],"type":"Point"}
+}

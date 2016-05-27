@@ -1,0 +1,71 @@
+{
+  "id": 874239649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43856,41.804348,-71.43856,41.804348",
+    "geom:latitude":41.804348,
+    "geom:longitude":-71.43856,
+    "iso:country":"US",
+    "sg:address":"775 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 5359",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ug5leVejxNBq6UuazMN2X_41.804348_-71.438560@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313333,
+    "wof:geomhash":"8fb122add5c167c7ef87fdb16b9a7762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874239649
+        }
+    ],
+    "wof:id":874239649,
+    "wof:lastmodified":1464313333,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43856,
+    41.804348,
+    -71.43856,
+    41.804348
+],
+  "geometry": {"coordinates":[-71.43856,41.804348],"type":"Point"}
+}

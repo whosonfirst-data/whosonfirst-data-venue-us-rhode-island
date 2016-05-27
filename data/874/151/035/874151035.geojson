@@ -1,0 +1,71 @@
+{
+  "id": 874151035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453256,41.415178,-71.453256,41.415178",
+    "geom:latitude":41.415178,
+    "geom:longitude":-71.453256,
+    "iso:country":"US",
+    "sg:address":"86 Hazard Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7795",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OxP9V6sZErZvjUH9d2xqD_41.415178_-71.453256@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312338,
+    "wof:geomhash":"44f8c6f3bce313f1c102ad33cbf8d810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874151035
+        }
+    ],
+    "wof:id":874151035,
+    "wof:lastmodified":1464312338,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.453256,
+    41.415178,
+    -71.453256,
+    41.415178
+],
+  "geometry": {"coordinates":[-71.453256,41.415178],"type":"Point"}
+}

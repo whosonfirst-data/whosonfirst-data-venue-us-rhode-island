@@ -1,0 +1,73 @@
+{
+  "id": 874167879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254292,41.589679,-71.254292,41.589679",
+    "geom:latitude":41.589679,
+    "geom:longitude":-71.254292,
+    "iso:country":"US",
+    "sg:address":"51 Middle Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0265",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "owner",
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LZAG51PrElcG4BCxBTU81_41.589679_-71.254292@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312506,
+    "wof:geomhash":"4ce0567e1e54399b621a53903b6e6aef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874167879
+        }
+    ],
+    "wof:id":874167879,
+    "wof:lastmodified":1464312506,
+    "wof:name":"Anthony House Apartments",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.254292,
+    41.589679,
+    -71.254292,
+    41.589679
+],
+  "geometry": {"coordinates":[-71.25429200000001,41.589679],"type":"Point"}
+}

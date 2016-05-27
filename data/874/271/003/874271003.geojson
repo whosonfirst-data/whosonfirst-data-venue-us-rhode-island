@@ -1,0 +1,71 @@
+{
+  "id": 874271003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660187,41.982477,-71.660187,41.982477",
+    "geom:latitude":41.982477,
+    "geom:longitude":-71.660187,
+    "iso:country":"US",
+    "sg:address":"33 Waterfront Cir",
+    "sg:city":"Glendale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 8592",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UTMB5WwRcs8disepbERE6_41.982477_-71.660187@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314259,
+    "wof:geomhash":"3147e8d10c472f08517b610d21b5d5e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874271003
+        }
+    ],
+    "wof:id":874271003,
+    "wof:lastmodified":1464314259,
+    "wof:name":"J T Electrical Construction",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.660187,
+    41.982477,
+    -71.660187,
+    41.982477
+],
+  "geometry": {"coordinates":[-71.66018699999999,41.982477],"type":"Point"}
+}

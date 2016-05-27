@@ -1,0 +1,73 @@
+{
+  "id": 874239261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424232,41.865863,-71.424232,41.865863",
+    "geom:latitude":41.865863,
+    "geom:longitude":-71.424232,
+    "iso:country":"US",
+    "sg:address":"1029 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 6636",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "precious",
+        "metal",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61RmZmrznXcP7xxl1Se6Lt_41.865863_-71.424232@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313326,
+    "wof:geomhash":"2c94c800dbb59c5a0a59d9c85bbc560b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874239261
+        }
+    ],
+    "wof:id":874239261,
+    "wof:lastmodified":1464313326,
+    "wof:name":"Greg Jewelry",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "metal",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.424232,
+    41.865863,
+    -71.424232,
+    41.865863
+],
+  "geometry": {"coordinates":[-71.424232,41.865863],"type":"Point"}
+}

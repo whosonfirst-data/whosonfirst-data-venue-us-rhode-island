@@ -1,0 +1,78 @@
+{
+  "id": 874015639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252446,41.579761,-71.252446,41.579761",
+    "geom:latitude":41.579761,
+    "geom:longitude":-71.252446,
+    "iso:country":"US",
+    "sg:address":"1698 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 6889",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil",
+        "burner",
+        "furnace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oMqRaLyU9032e7I2ZJ135_41.579761_-71.252446@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310896,
+    "wof:geomhash":"c40259dfd83e7f4c8c222845d16f55d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874015639
+        }
+    ],
+    "wof:id":874015639,
+    "wof:lastmodified":1464310896,
+    "wof:name":"Lauder's Oil",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "burner",
+        "furnace"
+    ]
+},
+  "bbox": [
+    -71.252446,
+    41.579761,
+    -71.252446,
+    41.579761
+],
+  "geometry": {"coordinates":[-71.25244600000001,41.579761],"type":"Point"}
+}

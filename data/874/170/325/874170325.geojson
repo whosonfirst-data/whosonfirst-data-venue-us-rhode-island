@@ -1,0 +1,88 @@
+{
+  "id": 874170325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444624,41.778639,-71.444624,41.778639",
+    "geom:latitude":41.778639,
+    "geom:longitude":-71.444624,
+    "iso:country":"US",
+    "sg:address":"780 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 0546",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cdc9nDf7CRxGnpzE2hciH_41.778639_-71.444624@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312530,
+    "wof:geomhash":"bf3c6e2d9b136f555defb9e05ebe8feb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874170325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874170325
+        }
+    ],
+    "wof:id":874170325,
+    "wof:lastmodified":1464312530,
+    "wof:name":"Providence Financial Network",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.444624,
+    41.778639,
+    -71.444624,
+    41.778639
+],
+  "geometry": {"coordinates":[-71.444624,41.778639],"type":"Point"}
+}

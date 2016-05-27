@@ -1,0 +1,75 @@
+{
+  "id": 874100837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440103,41.731285,-71.440103,41.731285",
+    "geom:latitude":41.731285,
+    "geom:longitude":-71.440103,
+    "iso:country":"US",
+    "sg:address":"99 Airway Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 921 1383",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vGWnFUDK7gzwpQBiccvJ6_41.731285_-71.440103@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311805,
+    "wof:geomhash":"c07c7d754df72511ef3d3072d5e29c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874100837
+        }
+    ],
+    "wof:id":874100837,
+    "wof:lastmodified":1464311805,
+    "wof:name":"Extreme Communications",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -71.440103,
+    41.731285,
+    -71.440103,
+    41.731285
+],
+  "geometry": {"coordinates":[-71.44010299999999,41.731285],"type":"Point"}
+}

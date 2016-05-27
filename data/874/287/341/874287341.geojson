@@ -1,0 +1,72 @@
+{
+  "id": 874287341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521278,41.991457,-71.521278,41.991457",
+    "geom:latitude":41.991457,
+    "geom:longitude":-71.521278,
+    "iso:country":"US",
+    "sg:address":"375 Providence St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/woonsocket/236102-ronzio-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 767 2085",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VHOGbosl7Z90Y6pZXpdPs_41.991457_-71.521278@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314902,
+    "wof:geomhash":"8deefb323e88a64954b96d0fde1b5711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874287341
+        }
+    ],
+    "wof:id":874287341,
+    "wof:lastmodified":1464314902,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.521278,
+    41.991457,
+    -71.521278,
+    41.991457
+],
+  "geometry": {"coordinates":[-71.521278,41.991457],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874096289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.1725,41.550684,-71.1725,41.550684",
+    "geom:latitude":41.550684,
+    "geom:longitude":-71.1725,
+    "iso:country":"US",
+    "sg:address":"41 Pachet Brook Rd",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 8399",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EklImI8amhglbo4CZ4POT_41.550684_-71.172500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311732,
+    "wof:geomhash":"6a24cef9c687c36fb26da71c56ce0622",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874096289
+        }
+    ],
+    "wof:id":874096289,
+    "wof:lastmodified":1464311732,
+    "wof:name":"Gas Master Inc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution"
+    ]
+},
+  "bbox": [
+    -71.1725,
+    41.550684,
+    -71.1725,
+    41.550684
+],
+  "geometry": {"coordinates":[-71.1725,41.550684],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874279309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499708,41.481803,-71.499708,41.481803",
+    "geom:latitude":41.481803,
+    "geom:longitude":-71.499708,
+    "iso:country":"US",
+    "sg:address":"630 Rose Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2645",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TXRIo07izRTvYQIaSAUU4_41.481803_-71.499708@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314582,
+    "wof:geomhash":"dd119fe56add41f05eaf7a04387db2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874279309
+        }
+    ],
+    "wof:id":874279309,
+    "wof:lastmodified":1464314582,
+    "wof:name":"AM Construction Co",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.499708,
+    41.481803,
+    -71.499708,
+    41.481803
+],
+  "geometry": {"coordinates":[-71.499708,41.481803],"type":"Point"}
+}

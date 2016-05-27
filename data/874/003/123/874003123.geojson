@@ -1,0 +1,69 @@
+{
+  "id": 874003123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536635,41.90434,-71.536635,41.90434",
+    "geom:latitude":41.90434,
+    "geom:longitude":-71.536635,
+    "iso:country":"US",
+    "sg:address":"264 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1066",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pjJgOGawvbjaxd5ArUe5S_41.904340_-71.536635@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310793,
+    "wof:geomhash":"6d2cdfb64e33740612f7acaad8a7e2ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874003123
+        }
+    ],
+    "wof:id":874003123,
+    "wof:lastmodified":1464310793,
+    "wof:name":"Smithfield Waste Water Plant",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.536635,
+    41.90434,
+    -71.536635,
+    41.90434
+],
+  "geometry": {"coordinates":[-71.536635,41.90434],"type":"Point"}
+}

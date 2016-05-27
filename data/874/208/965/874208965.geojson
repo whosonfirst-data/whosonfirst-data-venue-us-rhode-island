@@ -1,0 +1,77 @@
+{
+  "id": 874208965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40126,41.852973,-71.40126,41.852973",
+    "geom:latitude":41.852973,
+    "geom:longitude":-71.40126,
+    "iso:country":"US",
+    "sg:address":"1215 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 9570",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6csafVQWcRTUjChTptrceO_41.852973_-71.401260@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312938,
+    "wof:geomhash":"94298944e2bc5373c2c95e9778b7b8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874208965
+        }
+    ],
+    "wof:id":874208965,
+    "wof:lastmodified":1464312938,
+    "wof:name":"Amerada Hess Corporation",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.40126,
+    41.852973,
+    -71.40126,
+    41.852973
+],
+  "geometry": {"coordinates":[-71.40125999999999,41.852973],"type":"Point"}
+}

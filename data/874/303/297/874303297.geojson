@@ -1,0 +1,69 @@
+{
+  "id": 874303297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485802,41.858299,-71.485802,41.858299",
+    "geom:latitude":41.858299,
+    "geom:longitude":-71.485802,
+    "iso:country":"US",
+    "sg:address":"2072 Smith St Ofc",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5985",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yNpH2y3yQNpXFLbHPFOlx_41.858299_-71.485802@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315505,
+    "wof:geomhash":"d6a1d97662fb8f084e7960b80766f992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303297
+        }
+    ],
+    "wof:id":874303297,
+    "wof:lastmodified":1464315505,
+    "wof:name":"Brook Village Apts",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.485802,
+    41.858299,
+    -71.485802,
+    41.858299
+],
+  "geometry": {"coordinates":[-71.48580200000001,41.858299],"type":"Point"}
+}

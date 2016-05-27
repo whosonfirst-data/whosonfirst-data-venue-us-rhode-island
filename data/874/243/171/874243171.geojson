@@ -1,0 +1,83 @@
+{
+  "id": 874243171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402933,41.772782,-71.402933,41.772782",
+    "geom:latitude":41.772782,
+    "geom:longitude":-71.402933,
+    "iso:country":"US",
+    "sg:address":"29 Harding Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 4400",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "storage",
+        "trucking",
+        "commercial",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30vyznoVTZSglD93jyhufd_41.772782_-71.402933@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313397,
+    "wof:geomhash":"ffb13ad5b2eab7b92df727e32a9b2838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874243171
+        }
+    ],
+    "wof:id":874243171,
+    "wof:lastmodified":1464313397,
+    "wof:name":"Gentle Giant Moving Co",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "storage",
+        "trucking",
+        "commercial",
+        "local"
+    ]
+},
+  "bbox": [
+    -71.402933,
+    41.772782,
+    -71.402933,
+    41.772782
+],
+  "geometry": {"coordinates":[-71.402933,41.772782],"type":"Point"}
+}

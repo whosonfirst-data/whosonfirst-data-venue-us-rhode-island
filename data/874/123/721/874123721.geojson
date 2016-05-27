@@ -1,0 +1,75 @@
+{
+  "id": 874123721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.576674,41.494471,-71.576674,41.494471",
+    "geom:latitude":41.494471,
+    "geom:longitude":-71.576674,
+    "iso:country":"US",
+    "sg:address":"71 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0458",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "snowplowing",
+        "contractor",
+        "doe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0evc4C2oQZEbCsVgF2ndPu_41.494471_-71.576674@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312074,
+    "wof:geomhash":"798b3ba4e9d6400340265d30902ecfc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874123721
+        }
+    ],
+    "wof:id":874123721,
+    "wof:lastmodified":1464312074,
+    "wof:name":"Charles D Kenyon Excavation",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "snowplowing",
+        "contractor",
+        "doe"
+    ]
+},
+  "bbox": [
+    -71.576674,
+    41.494471,
+    -71.576674,
+    41.494471
+],
+  "geometry": {"coordinates":[-71.576674,41.494471],"type":"Point"}
+}

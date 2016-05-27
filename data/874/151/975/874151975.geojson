@@ -1,0 +1,71 @@
+{
+  "id": 874151975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502034,41.866636,-71.502034,41.866636",
+    "geom:latitude":41.866636,
+    "geom:longitude":-71.502034,
+    "iso:country":"US",
+    "sg:address":"159 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5900",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23IvvrUUJ79cSwmYrO49x5_41.866636_-71.502034@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312346,
+    "wof:geomhash":"16e3305e2a3e4c2fcb5b216100949d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874151975
+        }
+    ],
+    "wof:id":874151975,
+    "wof:lastmodified":1464312346,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.502034,
+    41.866636,
+    -71.502034,
+    41.866636
+],
+  "geometry": {"coordinates":[-71.50203399999999,41.866636],"type":"Point"}
+}

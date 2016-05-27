@@ -1,0 +1,89 @@
+{
+  "id": 874087977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403137,41.806937,-71.403137,41.806937",
+    "geom:latitude":41.806937,
+    "geom:longitude":-71.403137,
+    "iso:country":"US",
+    "sg:address":"242 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 3730",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "marine"
+    ],
+    "sg:website":"www.prometmarineservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xKGukBvOLJAuoGQoBgubl_41.806937_-71.403137@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311641,
+    "wof:geomhash":"c47a9b3986a5a6cede03ce77b5db8784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874087977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874087977
+        }
+    ],
+    "wof:id":874087977,
+    "wof:lastmodified":1464311641,
+    "wof:name":"Promet Marine Svc Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "marine"
+    ]
+},
+  "bbox": [
+    -71.403137,
+    41.806937,
+    -71.403137,
+    41.806937
+],
+  "geometry": {"coordinates":[-71.403137,41.806937],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874287865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43643,41.732418,-71.43643,41.732418",
+    "geom:latitude":41.732418,
+    "geom:longitude":-71.43643,
+    "iso:country":"US",
+    "sg:address":"1800 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/54460-walts-roast-beef/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 0374",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jb2vAxorukc9Vuv5DbHvU_41.732505_-71.436685@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314930,
+    "wof:geomhash":"96afc8bcb8a4156bd21a997440118dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874287865
+        }
+    ],
+    "wof:id":874287865,
+    "wof:lastmodified":1464314930,
+    "wof:name":"Walts Roast Beef",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.43643,
+    41.732418,
+    -71.43643,
+    41.732418
+],
+  "geometry": {"coordinates":[-71.43643,41.732418],"type":"Point"}
+}

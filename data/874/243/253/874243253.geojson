@@ -1,0 +1,69 @@
+{
+  "id": 874243253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443451,41.494683,-71.443451,41.494683",
+    "geom:latitude":41.494683,
+    "geom:longitude":-71.443451,
+    "iso:country":"US",
+    "sg:address":"81 Edgewater Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 829 2009",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HmwqzdB6XryLFcPH7WJdO_41.494683_-71.443451@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313399,
+    "wof:geomhash":"2e5507a308879a1d2a356fa0bda40ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874243253
+        }
+    ],
+    "wof:id":874243253,
+    "wof:lastmodified":1464313399,
+    "wof:name":"James Cook Painting",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.443451,
+    41.494683,
+    -71.443451,
+    41.494683
+],
+  "geometry": {"coordinates":[-71.443451,41.494683],"type":"Point"}
+}

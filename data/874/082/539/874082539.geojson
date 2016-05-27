@@ -1,0 +1,73 @@
+{
+  "id": 874082539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302628,41.739848,-71.302628,41.739848",
+    "geom:latitude":41.739848,
+    "geom:longitude":-71.302628,
+    "iso:country":"US",
+    "sg:address":"6 Stratford Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7582",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "eating",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SFgjtpgyph0gfnOYelaul_41.739848_-71.302628@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311584,
+    "wof:geomhash":"6eba8b6e67e557639c52c8ba0aed0eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874082539
+        }
+    ],
+    "wof:id":874082539,
+    "wof:lastmodified":1464311584,
+    "wof:name":"Red Lessons Restaurant",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "eating",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.302628,
+    41.739848,
+    -71.302628,
+    41.739848
+],
+  "geometry": {"coordinates":[-71.302628,41.739848],"type":"Point"}
+}

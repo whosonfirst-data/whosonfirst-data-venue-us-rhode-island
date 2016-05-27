@@ -1,0 +1,71 @@
+{
+  "id": 874258751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500999,42.021797,-71.500999,42.021797",
+    "geom:latitude":42.021797,
+    "geom:longitude":-71.500999,
+    "iso:country":"US",
+    "sg:address":"660 Rathbun St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10hTW6cnb13CyGbJoGPLWk_42.021797_-71.500999@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313816,
+    "wof:geomhash":"6957dc3c90e771a6f049467c365bafe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874258751
+        }
+    ],
+    "wof:id":874258751,
+    "wof:lastmodified":1464313816,
+    "wof:name":"Gabes Auto Body",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.500999,
+    42.021797,
+    -71.500999,
+    42.021797
+],
+  "geometry": {"coordinates":[-71.50099899999999,42.021797],"type":"Point"}
+}

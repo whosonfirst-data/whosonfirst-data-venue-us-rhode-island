@@ -1,0 +1,71 @@
+{
+  "id": 874276503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547478,41.729119,-71.547478,41.729119",
+    "geom:latitude":41.729119,
+    "geom:longitude":-71.547478,
+    "iso:country":"US",
+    "sg:address":"8 Hill St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 1669",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jR3XQltGTxctFjsIdvagp_41.729119_-71.547478@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314478,
+    "wof:geomhash":"4344f27cbe03a0479af0a422375ee994",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874276503
+        }
+    ],
+    "wof:id":874276503,
+    "wof:lastmodified":1464314478,
+    "wof:name":"Norman Chapdelaine Excavating",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.547478,
+    41.729119,
+    -71.547478,
+    41.729119
+],
+  "geometry": {"coordinates":[-71.547478,41.729119],"type":"Point"}
+}

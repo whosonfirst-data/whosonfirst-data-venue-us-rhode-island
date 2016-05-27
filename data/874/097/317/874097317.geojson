@@ -1,0 +1,71 @@
+{
+  "id": 874097317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546509,41.717649,-71.546509,41.717649",
+    "geom:latitude":41.717649,
+    "geom:longitude":-71.546509,
+    "iso:country":"US",
+    "sg:address":"24 Hornbeam Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 736 5506",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GaH33jmTFxK3zelj9ctYX_41.717649_-71.546509@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311747,
+    "wof:geomhash":"adb116159c41c763067a43232c48f724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874097317
+        }
+    ],
+    "wof:id":874097317,
+    "wof:lastmodified":1464311747,
+    "wof:name":"D Gorman Landscaping Inc",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.546509,
+    41.717649,
+    -71.546509,
+    41.717649
+],
+  "geometry": {"coordinates":[-71.546509,41.717649],"type":"Point"}
+}

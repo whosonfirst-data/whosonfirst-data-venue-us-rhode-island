@@ -1,0 +1,90 @@
+{
+  "id": 874284785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406403,41.844601,-71.406403,41.844601",
+    "geom:latitude":41.844601,
+    "geom:longitude":-71.406403,
+    "iso:country":"US",
+    "sg:address":"887 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 5890",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "nightlife",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OkEVB6hBFdOG4tfrpERG8_41.844702_-71.406143@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314805,
+    "wof:geomhash":"9a0b9eff5e4258947ece19bdc0d9c4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874284785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874284785
+        }
+    ],
+    "wof:id":874284785,
+    "wof:lastmodified":1464314805,
+    "wof:name":"Snub's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "nightlife",
+        "night"
+    ]
+},
+  "bbox": [
+    -71.406403,
+    41.844601,
+    -71.406403,
+    41.844601
+],
+  "geometry": {"coordinates":[-71.406403,41.844601],"type":"Point"}
+}

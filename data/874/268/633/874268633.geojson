@@ -1,0 +1,73 @@
+{
+  "id": 874268633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271873,41.575474,-71.271873,41.575474",
+    "geom:latitude":41.575474,
+    "geom:longitude":-71.271873,
+    "iso:country":"US",
+    "sg:address":"1630 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2626",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ycApckaRSRKhQ0WICTesK_41.575474_-71.271873@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314176,
+    "wof:geomhash":"15b1e1e146059b2fb5535e9544d683cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874268633
+        }
+    ],
+    "wof:id":874268633,
+    "wof:lastmodified":1464314176,
+    "wof:name":"Valley View Motors",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.271873,
+    41.575474,
+    -71.271873,
+    41.575474
+],
+  "geometry": {"coordinates":[-71.271873,41.575474],"type":"Point"}
+}

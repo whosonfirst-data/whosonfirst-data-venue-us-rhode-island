@@ -1,0 +1,71 @@
+{
+  "id": 874075043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501171,41.875884,-71.501171,41.875884",
+    "geom:latitude":41.875884,
+    "geom:longitude":-71.501171,
+    "iso:country":"US",
+    "sg:address":"14 Maple Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7938",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V01E17tgGNfOHbYpDAYPy_41.875884_-71.501171@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311503,
+    "wof:geomhash":"731f91be6d90d86cd7826e90df5e9777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874075043
+        }
+    ],
+    "wof:id":874075043,
+    "wof:lastmodified":1464311503,
+    "wof:name":"Gilbert Electric & Constr Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.501171,
+    41.875884,
+    -71.501171,
+    41.875884
+],
+  "geometry": {"coordinates":[-71.501171,41.875884],"type":"Point"}
+}

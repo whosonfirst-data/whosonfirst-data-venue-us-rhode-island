@@ -1,0 +1,69 @@
+{
+  "id": 874303999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.342517,41.75899,-71.342517,41.75899",
+    "geom:latitude":41.75899,
+    "geom:longitude":-71.342517,
+    "iso:country":"US",
+    "sg:address":"1086 Willett Ave Unit 5",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 437 4786",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e1HDz6vtx0mJFKvQcc06l_41.758990_-71.342517@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315528,
+    "wof:geomhash":"7e63f1bad8c583dd9a2f52db80d78348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874303999
+        }
+    ],
+    "wof:id":874303999,
+    "wof:lastmodified":1464315528,
+    "wof:name":"Lola Tans Corp",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -71.342517,
+    41.75899,
+    -71.342517,
+    41.75899
+],
+  "geometry": {"coordinates":[-71.342517,41.75899],"type":"Point"}
+}

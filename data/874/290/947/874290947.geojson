@@ -1,0 +1,75 @@
+{
+  "id": 874290947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3508,41.861,-71.3508,41.861",
+    "geom:latitude":41.861,
+    "geom:longitude":-71.3508,
+    "iso:country":"US",
+    "sg:address":"675 Beverage Hill Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 5332",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NAm7gjWVyypZsSoX1wVTt_41.861000_-71.350800@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315043,
+    "wof:geomhash":"3f419690b7231da1a761215e71b74eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874290947
+        }
+    ],
+    "wof:id":874290947,
+    "wof:lastmodified":1464315043,
+    "wof:name":"Stop & Shop Pharmacy",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.3508,
+    41.861,
+    -71.3508,
+    41.861
+],
+  "geometry": {"coordinates":[-71.35080000000001,41.861],"type":"Point"}
+}

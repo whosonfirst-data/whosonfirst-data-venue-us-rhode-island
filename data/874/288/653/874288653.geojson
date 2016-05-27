@@ -1,0 +1,71 @@
+{
+  "id": 874288653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.623757,41.380952,-71.623757,41.380952",
+    "geom:latitude":41.380952,
+    "geom:longitude":-71.623757,
+    "iso:country":"US",
+    "sg:address":"14 Charlestown Beach Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 5400",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y0QE3qWuEDhHxVLXX4JFB_41.380952_-71.623757@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314963,
+    "wof:geomhash":"fcf6f0b85a334d4d9ecd039003bba049",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288653
+        }
+    ],
+    "wof:id":874288653,
+    "wof:lastmodified":1464314963,
+    "wof:name":"Mutley's Grooming Salon",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.623757,
+    41.380952,
+    -71.623757,
+    41.380952
+],
+  "geometry": {"coordinates":[-71.623757,41.380952],"type":"Point"}
+}

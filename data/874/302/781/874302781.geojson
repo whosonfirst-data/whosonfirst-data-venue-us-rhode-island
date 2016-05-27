@@ -1,0 +1,70 @@
+{
+  "id": 874302781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464897,41.822601,-71.464897,41.822601",
+    "geom:latitude":41.822601,
+    "geom:longitude":-71.464897,
+    "iso:country":"US",
+    "sg:address":"208 King Philip St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 1700",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.citylightselectrical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sCKkEx7tR5ICNdL0AdYbM_41.822601_-71.464897@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315489,
+    "wof:geomhash":"d4f98e168017e81760c53b95e5c95296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874302781
+        }
+    ],
+    "wof:id":874302781,
+    "wof:lastmodified":1464315489,
+    "wof:name":"City Lights Electrical",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.464897,
+    41.822601,
+    -71.464897,
+    41.822601
+],
+  "geometry": {"coordinates":[-71.46489699999999,41.822601],"type":"Point"}
+}

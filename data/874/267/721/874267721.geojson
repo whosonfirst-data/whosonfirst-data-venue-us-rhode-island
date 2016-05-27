@@ -1,0 +1,84 @@
+{
+  "id": 874267721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425232,41.766262,-71.425232,41.766262",
+    "geom:latitude":41.766262,
+    "geom:longitude":-71.425232,
+    "iso:country":"US",
+    "sg:address":"1559 Elmwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 780 0990",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gZmpqKEM40Bi4X1Ms9L3J_41.766262_-71.425232@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314140,
+    "wof:geomhash":"8eb867832e1e7c2f5fd33140b5f963ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874267721
+        }
+    ],
+    "wof:id":874267721,
+    "wof:lastmodified":1464314140,
+    "wof:name":"Northeast Office Equipment LLC",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -71.425232,
+    41.766262,
+    -71.425232,
+    41.766262
+],
+  "geometry": {"coordinates":[-71.42523199999999,41.766262],"type":"Point"}
+}

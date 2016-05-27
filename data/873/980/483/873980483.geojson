@@ -1,0 +1,71 @@
+{
+  "id": 873980483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453368,41.813549,-71.453368,41.813549",
+    "geom:latitude":41.813549,
+    "geom:longitude":-71.453368,
+    "iso:country":"US",
+    "sg:address":"433 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 6379",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "confectionery",
+        "candy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JZayyBDtvqQTsOgfdZFAd_41.813549_-71.453368@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310592,
+    "wof:geomhash":"eb1f52c6817faa66b57b80f4b5dc1563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":873980483
+        }
+    ],
+    "wof:id":873980483,
+    "wof:lastmodified":1464310592,
+    "wof:name":"Jane Arden Candies",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery",
+        "candy"
+    ]
+},
+  "bbox": [
+    -71.453368,
+    41.813549,
+    -71.453368,
+    41.813549
+],
+  "geometry": {"coordinates":[-71.453368,41.813549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874093349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433727,41.940665,-71.433727,41.940665",
+    "geom:latitude":41.940665,
+    "geom:longitude":-71.433727,
+    "iso:country":"US",
+    "sg:address":"1600 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3670",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pKRHknuU4tL6IFBhNYGgj_41.940665_-71.433727@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311697,
+    "wof:geomhash":"e664e9366b3b6ff7c88dcc458f31eb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874093349
+        }
+    ],
+    "wof:id":874093349,
+    "wof:lastmodified":1464311697,
+    "wof:name":"New England Car & Van Wash",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.433727,
+    41.940665,
+    -71.433727,
+    41.940665
+],
+  "geometry": {"coordinates":[-71.433727,41.940665],"type":"Point"}
+}

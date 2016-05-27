@@ -1,0 +1,69 @@
+{
+  "id": 874298747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453697,41.862999,-71.453697,41.862999",
+    "geom:latitude":41.862999,
+    "geom:longitude":-71.453697,
+    "iso:country":"US",
+    "sg:address":"1701 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VaBLrdw3ubDU7o80wI0qK_41.862999_-71.453697@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315346,
+    "wof:geomhash":"1651523eafd72f3a5c943cb617d40fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874298747
+        }
+    ],
+    "wof:id":874298747,
+    "wof:lastmodified":1464315346,
+    "wof:name":"Rizzo Auto Rental",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -71.453697,
+    41.862999,
+    -71.453697,
+    41.862999
+],
+  "geometry": {"coordinates":[-71.45369700000001,41.862999],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873999157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250945,41.571055,-71.250945,41.571055",
+    "geom:latitude":41.571055,
+    "geom:longitude":-71.250945,
+    "iso:country":"US",
+    "sg:address":"1350 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2551",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O6fSx52fd2DHZdmDK9KqS_41.571055_-71.250945@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310754,
+    "wof:geomhash":"730bc81b72eb4e602989f92fd197b6ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873999157
+        }
+    ],
+    "wof:id":873999157,
+    "wof:lastmodified":1464310754,
+    "wof:name":"Henry Cotta",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -71.250945,
+    41.571055,
+    -71.250945,
+    41.571055
+],
+  "geometry": {"coordinates":[-71.250945,41.571055],"type":"Point"}
+}

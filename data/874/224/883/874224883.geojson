@@ -1,0 +1,71 @@
+{
+  "id": 874224883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503889,41.881786,-71.503889,41.881786",
+    "geom:latitude":41.881786,
+    "geom:longitude":-71.503889,
+    "iso:country":"US",
+    "sg:address":"40 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4646",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NxRKxpEcVQCH08u24OaKF_41.881786_-71.503889@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313111,
+    "wof:geomhash":"1acf053b5bd8c00db7b83643f6a8351a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874224883
+        }
+    ],
+    "wof:id":874224883,
+    "wof:lastmodified":1464313111,
+    "wof:name":"Elm Brook Home",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.503889,
+    41.881786,
+    -71.503889,
+    41.881786
+],
+  "geometry": {"coordinates":[-71.503889,41.881786],"type":"Point"}
+}

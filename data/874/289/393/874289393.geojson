@@ -1,0 +1,75 @@
+{
+  "id": 874289393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3936,41.860199,-71.3936,41.860199",
+    "geom:latitude":41.860199,
+    "geom:longitude":-71.3936,
+    "iso:country":"US",
+    "sg:address":"150 Dartmouth St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 1615",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vBlKhEYQxBDr2jZeN6rd2_41.860199_-71.393600@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314992,
+    "wof:geomhash":"b3a3572fd60532319df13e98c99afd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874289393
+        }
+    ],
+    "wof:id":874289393,
+    "wof:lastmodified":1464314992,
+    "wof:name":"Geneva Plaza Apts",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.3936,
+    41.860199,
+    -71.3936,
+    41.860199
+],
+  "geometry": {"coordinates":[-71.39360000000001,41.860199],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874165343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.587662,41.681743,-71.587662,41.681743",
+    "geom:latitude":41.681743,
+    "geom:longitude":-71.587662,
+    "iso:country":"US",
+    "sg:address":"17 Reservoir Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 4138",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rqWwn2QrEu2wbxkhcLHNn_41.681743_-71.587662@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312483,
+    "wof:geomhash":"5e056ce14f85a1594fbd8d858c01d486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874165343
+        }
+    ],
+    "wof:id":874165343,
+    "wof:lastmodified":1464312483,
+    "wof:name":"Service Master Co",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -71.587662,
+    41.681743,
+    -71.587662,
+    41.681743
+],
+  "geometry": {"coordinates":[-71.58766199999999,41.681743],"type":"Point"}
+}

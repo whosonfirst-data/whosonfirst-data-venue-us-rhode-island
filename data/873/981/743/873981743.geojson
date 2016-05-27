@@ -1,0 +1,71 @@
+{
+  "id": 873981743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257515,41.573178,-71.257515,41.573178",
+    "geom:latitude":41.573178,
+    "geom:longitude":-71.257515,
+    "iso:country":"US",
+    "sg:address":"155 Schoolhouse Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 1116",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wlNcgtRz20NoyVCflYExy_41.573178_-71.257515@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310615,
+    "wof:geomhash":"bb5315d9d0b2b0b17988e0ddbaafd851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873981743
+        }
+    ],
+    "wof:id":873981743,
+    "wof:lastmodified":1464310615,
+    "wof:name":"Brennan Construction Septic",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.257515,
+    41.573178,
+    -71.257515,
+    41.573178
+],
+  "geometry": {"coordinates":[-71.257515,41.573178],"type":"Point"}
+}

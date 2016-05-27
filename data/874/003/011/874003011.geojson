@@ -1,0 +1,88 @@
+{
+  "id": 874003011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509879,41.441043,-71.509879,41.441043",
+    "geom:latitude":41.441043,
+    "geom:longitude":-71.509879,
+    "iso:country":"US",
+    "sg:address":"40 Rockland Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 1718",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3webbOqe51yVWve7Y08YwE_41.441043_-71.509879@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310792,
+    "wof:geomhash":"08c7205eb57cbefb075037dddd92c03b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874003011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874003011
+        }
+    ],
+    "wof:id":874003011,
+    "wof:lastmodified":1464310792,
+    "wof:name":"Specs & Biospecs LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.509879,
+    41.441043,
+    -71.509879,
+    41.441043
+],
+  "geometry": {"coordinates":[-71.509879,41.441043],"type":"Point"}
+}

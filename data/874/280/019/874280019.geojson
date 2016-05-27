@@ -1,0 +1,72 @@
+{
+  "id": 874280019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500997,41.686519,-71.500997,41.686519",
+    "geom:latitude":41.686519,
+    "geom:longitude":-71.500997,
+    "iso:country":"US",
+    "sg:address":"375 Quaker Ln",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 3336",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "sg:website":"www.pepboys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rpTdm6SvcEqBxCezVFtCD_41.686519_-71.500997@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314611,
+    "wof:geomhash":"b736a0b7ca263b152f3d1cedf5a85b97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874280019
+        }
+    ],
+    "wof:id":874280019,
+    "wof:lastmodified":1464314611,
+    "wof:name":"Pep Boys Supercenter",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.500997,
+    41.686519,
+    -71.500997,
+    41.686519
+],
+  "geometry": {"coordinates":[-71.500997,41.686519],"type":"Point"}
+}

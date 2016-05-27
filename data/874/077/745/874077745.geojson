@@ -1,0 +1,71 @@
+{
+  "id": 874077745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527123,41.899498,-71.527123,41.899498",
+    "geom:latitude":41.899498,
+    "geom:longitude":-71.527123,
+    "iso:country":"US",
+    "sg:address":"14 Kane Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2798",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SDnRtqZXY3qHi5Zdphy4N_41.899498_-71.527123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311526,
+    "wof:geomhash":"c3fdd638ea6257d1c2846dca95fb9b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874077745
+        }
+    ],
+    "wof:id":874077745,
+    "wof:lastmodified":1464311526,
+    "wof:name":"Rtg Machine Tool Co Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.527123,
+    41.899498,
+    -71.527123,
+    41.899498
+],
+  "geometry": {"coordinates":[-71.527123,41.899498],"type":"Point"}
+}

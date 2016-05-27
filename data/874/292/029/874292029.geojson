@@ -1,0 +1,69 @@
+{
+  "id": 874292029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430857,41.936114,-71.430857,41.936114",
+    "geom:latitude":41.936114,
+    "geom:longitude":-71.430857,
+    "iso:country":"US",
+    "sg:address":"51 Front St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 335 4567",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o2ZsvndgndNWAypY9H87l_41.936114_-71.430857@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315090,
+    "wof:geomhash":"bbd4b63315c3b4144949aaafbc7812a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874292029
+        }
+    ],
+    "wof:id":874292029,
+    "wof:lastmodified":1464315090,
+    "wof:name":"The River Lofts At Ashton Mill",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.430857,
+    41.936114,
+    -71.430857,
+    41.936114
+],
+  "geometry": {"coordinates":[-71.430857,41.936114],"type":"Point"}
+}

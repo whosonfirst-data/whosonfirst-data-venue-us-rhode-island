@@ -1,0 +1,75 @@
+{
+  "id": 874208011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396652,41.848612,-71.396652,41.848612",
+    "geom:latitude":41.848612,
+    "geom:longitude":-71.396652,
+    "iso:country":"US",
+    "sg:address":"58 Burlington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 3081",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gq9HVTK9a5yx6TbVSrZCF_41.848612_-71.396652@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312929,
+    "wof:geomhash":"82683e58f5f711e2eb75de345346106d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874208011
+        }
+    ],
+    "wof:id":874208011,
+    "wof:lastmodified":1464312929,
+    "wof:name":"Hebrew Free Loan Assn",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.396652,
+    41.848612,
+    -71.396652,
+    41.848612
+],
+  "geometry": {"coordinates":[-71.396652,41.848612],"type":"Point"}
+}

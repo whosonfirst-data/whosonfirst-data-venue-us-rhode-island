@@ -1,0 +1,80 @@
+{
+  "id": 874288297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.348827,41.751329,-71.348827,41.751329",
+    "geom:latitude":41.751329,
+    "geom:longitude":-71.348827,
+    "iso:country":"US",
+    "sg:address":"101 Narragansett Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 0304",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "detailers",
+        "erectors",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cC86gCgrabyXTzMjsG6OG_41.751329_-71.348827@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314946,
+    "wof:geomhash":"99773efdb8e666f846a146a1fd875c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874288297
+        }
+    ],
+    "wof:id":874288297,
+    "wof:lastmodified":1464314946,
+    "wof:name":"Marine Metal Fabricators Of Rhode Island, Inc",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "detailers",
+        "erectors",
+        "structural"
+    ]
+},
+  "bbox": [
+    -71.348827,
+    41.751329,
+    -71.348827,
+    41.751329
+],
+  "geometry": {"coordinates":[-71.348827,41.751329],"type":"Point"}
+}

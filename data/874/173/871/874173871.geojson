@@ -1,0 +1,75 @@
+{
+  "id": 874173871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531441,41.864716,-71.531441,41.864716",
+    "geom:latitude":41.864716,
+    "geom:longitude":-71.531441,
+    "iso:country":"US",
+    "sg:address":"38 Sanderson Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 4383",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "top",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VeFxt7Jck6xeVtWIKzMbr_41.864716_-71.531441@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312566,
+    "wof:geomhash":"e5d37aa031a8011fafd0786e93064981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874173871
+        }
+    ],
+    "wof:id":874173871,
+    "wof:lastmodified":1464312566,
+    "wof:name":"Rt 5 Auto Repair",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "top",
+        "paint"
+    ]
+},
+  "bbox": [
+    -71.531441,
+    41.864716,
+    -71.531441,
+    41.864716
+],
+  "geometry": {"coordinates":[-71.531441,41.864716],"type":"Point"}
+}

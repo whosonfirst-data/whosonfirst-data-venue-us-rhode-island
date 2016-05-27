@@ -1,0 +1,71 @@
+{
+  "id": 874199757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.159743,41.574953,-71.159743,41.574953",
+    "geom:latitude":41.574953,
+    "geom:longitude":-71.159743,
+    "iso:country":"US",
+    "sg:address":"803 Lake Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 418 9918",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QRkuBS38B8NMwyztVDSx7_41.574953_-71.159743@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312841,
+    "wof:geomhash":"373330dd4cf584b9bc9dc66f436c5a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874199757
+        }
+    ],
+    "wof:id":874199757,
+    "wof:lastmodified":1464312841,
+    "wof:name":"G & S Electrical Svc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.159743,
+    41.574953,
+    -71.159743,
+    41.574953
+],
+  "geometry": {"coordinates":[-71.15974300000001,41.574953],"type":"Point"}
+}

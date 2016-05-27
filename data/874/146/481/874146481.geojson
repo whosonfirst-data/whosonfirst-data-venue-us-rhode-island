@@ -1,0 +1,73 @@
+{
+  "id": 874146481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564959,41.479996,-71.564959,41.479996",
+    "geom:latitude":41.479996,
+    "geom:longitude":-71.564959,
+    "iso:country":"US",
+    "sg:address":"351 Liberty Ln",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 0875",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qBAjekz2vJQuowavd9HOT_41.479996_-71.564959@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312297,
+    "wof:geomhash":"76965840fa60041e7e89839ed83bea78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874146481
+        }
+    ],
+    "wof:id":874146481,
+    "wof:lastmodified":1464312297,
+    "wof:name":"Landscape Solutions LLC",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.564959,
+    41.479996,
+    -71.564959,
+    41.479996
+],
+  "geometry": {"coordinates":[-71.564959,41.479996],"type":"Point"}
+}

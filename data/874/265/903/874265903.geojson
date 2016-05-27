@@ -1,0 +1,75 @@
+{
+  "id": 874265903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.315588,41.486741,-71.315588,41.486741",
+    "geom:latitude":41.486741,
+    "geom:longitude":-71.315588,
+    "iso:country":"US",
+    "sg:address":"30 Bowens Wharf",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0000",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cHEI0vLmzmmasc3c0iQQE_41.486741_-71.315588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314068,
+    "wof:geomhash":"4f346cd40257d9e0946a7baf75fe5b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874265903
+        }
+    ],
+    "wof:id":874265903,
+    "wof:lastmodified":1464314068,
+    "wof:name":"Adirondack II",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.315588,
+    41.486741,
+    -71.315588,
+    41.486741
+],
+  "geometry": {"coordinates":[-71.31558800000001,41.486741],"type":"Point"}
+}

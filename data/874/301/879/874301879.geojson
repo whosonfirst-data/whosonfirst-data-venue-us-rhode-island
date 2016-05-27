@@ -1,0 +1,75 @@
+{
+  "id": 874301879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443199,41.832802,-71.443199,41.832802",
+    "geom:latitude":41.832802,
+    "geom:longitude":-71.443199,
+    "iso:country":"US",
+    "sg:address":"8 Fallon Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 553 2020",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UlnFReW1jLrf7blA1tedc_41.832802_-71.443199@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315459,
+    "wof:geomhash":"51955dc4f2b384210a462b58e1a9ea62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874301879
+        }
+    ],
+    "wof:id":874301879,
+    "wof:lastmodified":1464315459,
+    "wof:name":"Eyewear Outlet",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -71.443199,
+    41.832802,
+    -71.443199,
+    41.832802
+],
+  "geometry": {"coordinates":[-71.44319900000001,41.832802],"type":"Point"}
+}

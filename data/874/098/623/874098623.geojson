@@ -1,0 +1,69 @@
+{
+  "id": 874098623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575041,41.493404,-71.575041,41.493404",
+    "geom:latitude":41.493404,
+    "geom:longitude":-71.575041,
+    "iso:country":"US",
+    "sg:address":"32 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2629",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CcHlDNMYpjCM6y0lwANcC_41.493404_-71.575041@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311765,
+    "wof:geomhash":"f1a36114f846e7507111f1cf60a99b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874098623
+        }
+    ],
+    "wof:id":874098623,
+    "wof:lastmodified":1464311765,
+    "wof:name":"David Dinucci Builders LLC",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.575041,
+    41.493404,
+    -71.575041,
+    41.493404
+],
+  "geometry": {"coordinates":[-71.575041,41.493404],"type":"Point"}
+}

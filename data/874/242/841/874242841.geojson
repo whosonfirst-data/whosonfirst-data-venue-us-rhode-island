@@ -1,0 +1,69 @@
+{
+  "id": 874242841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198479,41.546144,-71.198479,41.546144",
+    "geom:latitude":41.546144,
+    "geom:longitude":-71.198479,
+    "iso:country":"US",
+    "sg:address":"62 W Main Rd",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 4134",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YDhJNMhRVketVbHe6O3YY_41.546144_-71.198479@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313392,
+    "wof:geomhash":"d547da65924d3cefaab1c2a72c515eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874242841
+        }
+    ],
+    "wof:id":874242841,
+    "wof:lastmodified":1464313392,
+    "wof:name":"Arrow Landscape Maintenance",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.198479,
+    41.546144,
+    -71.198479,
+    41.546144
+],
+  "geometry": {"coordinates":[-71.19847900000001,41.546144],"type":"Point"}
+}

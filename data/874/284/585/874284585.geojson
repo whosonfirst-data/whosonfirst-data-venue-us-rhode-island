@@ -1,0 +1,79 @@
+{
+  "id": 874284585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268261,41.716326,-71.268261,41.716326",
+    "geom:latitude":41.716326,
+    "geom:longitude":-71.268261,
+    "iso:country":"US",
+    "sg:address":"633 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0795",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "assistant",
+        "physician"
+    ],
+    "sg:website":"http://www.preferredhealthcare.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dC5xsy4kJudGSaTlYmrzN_41.716155_-71.268204@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314793,
+    "wof:geomhash":"9730afbd2fa71d4bbb1252e316fbb22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874284585
+        }
+    ],
+    "wof:id":874284585,
+    "wof:lastmodified":1464314793,
+    "wof:name":"Preferred Health Care Services",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "assistant",
+        "physician"
+    ]
+},
+  "bbox": [
+    -71.268261,
+    41.716326,
+    -71.268261,
+    41.716326
+],
+  "geometry": {"coordinates":[-71.268261,41.716326],"type":"Point"}
+}

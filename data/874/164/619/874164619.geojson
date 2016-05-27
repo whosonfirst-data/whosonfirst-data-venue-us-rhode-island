@@ -1,0 +1,73 @@
+{
+  "id": 874164619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.258937,41.557386,-71.258937,41.557386",
+    "geom:latitude":41.557386,
+    "geom:longitude":-71.258937,
+    "iso:country":"US",
+    "sg:address":"300 Carriage Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 5373",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZlnWLVuHAcWpL7MPzL12T_41.557386_-71.258937@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312475,
+    "wof:geomhash":"649016c592ea95fffbf4810a68e76c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874164619
+        }
+    ],
+    "wof:id":874164619,
+    "wof:lastmodified":1464312475,
+    "wof:name":"Atlantic Plumbing & Heating",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.258937,
+    41.557386,
+    -71.258937,
+    41.557386
+],
+  "geometry": {"coordinates":[-71.258937,41.557386],"type":"Point"}
+}

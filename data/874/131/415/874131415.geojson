@@ -1,0 +1,81 @@
+{
+  "id": 874131415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432364,41.866445,-71.432364,41.866445",
+    "geom:latitude":41.866445,
+    "geom:longitude":-71.432364,
+    "iso:country":"US",
+    "sg:address":"7 Ivan St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8400",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.concordhomecare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hYXE2eopqVyiA80n1YwOi_41.866445_-71.432364@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312154,
+    "wof:geomhash":"4c968a635ea4c02e58644a9dad9605f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874131415
+        }
+    ],
+    "wof:id":874131415,
+    "wof:lastmodified":1464312154,
+    "wof:name":"Concord Health Services Inc",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.432364,
+    41.866445,
+    -71.432364,
+    41.866445
+],
+  "geometry": {"coordinates":[-71.43236400000001,41.866445],"type":"Point"}
+}

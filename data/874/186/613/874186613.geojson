@@ -1,0 +1,82 @@
+{
+  "id": 874186613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45546,41.653378,-71.45546,41.653378",
+    "geom:latitude":41.653378,
+    "geom:longitude":-71.45546,
+    "iso:country":"US",
+    "sg:address":"845 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 7800",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appraisal",
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vTAlzthMvEfH0B7y5pZSL_41.653378_-71.455460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312706,
+    "wof:geomhash":"213307ad307bf8407bafdf9752f5b9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874186613
+        }
+    ],
+    "wof:id":874186613,
+    "wof:lastmodified":1464312706,
+    "wof:name":"Appraisal Resource Company",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraisal",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.45546,
+    41.653378,
+    -71.45546,
+    41.653378
+],
+  "geometry": {"coordinates":[-71.45546,41.653378],"type":"Point"}
+}

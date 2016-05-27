@@ -1,0 +1,93 @@
+{
+  "id": 874288243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.303968,41.737245,-71.303968,41.737245",
+    "geom:latitude":41.737245,
+    "geom:longitude":-71.303968,
+    "iso:country":"US",
+    "sg:address":"186 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 0102",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich",
+        "take",
+        "italian"
+    ],
+    "sg:website":"http://www.dangelos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AUjcrTvn4WGNBlQ2bG7tm_41.737245_-71.303968@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314944,
+    "wof:geomhash":"31836ce344c697ce32add6166f36dc59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874288243
+        }
+    ],
+    "wof:id":874288243,
+    "wof:lastmodified":1464314944,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich",
+        "take",
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.303968,
+    41.737245,
+    -71.303968,
+    41.737245
+],
+  "geometry": {"coordinates":[-71.303968,41.737245],"type":"Point"}
+}

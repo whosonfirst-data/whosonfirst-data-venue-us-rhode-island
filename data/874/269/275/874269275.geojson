@@ -1,0 +1,71 @@
+{
+  "id": 874269275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461932,41.86913,-71.461932,41.86913",
+    "geom:latitude":41.86913,
+    "geom:longitude":-71.461932,
+    "iso:country":"US",
+    "sg:address":"1650 Douglas Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7420",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vxXhQvZtPQ1rqZXFXL61q_41.869130_-71.461932@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314199,
+    "wof:geomhash":"6b4417bdb7396d4484ea7f968acf7451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874269275
+        }
+    ],
+    "wof:id":874269275,
+    "wof:lastmodified":1464314199,
+    "wof:name":"Douglas Landscaping Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.461932,
+    41.86913,
+    -71.461932,
+    41.86913
+],
+  "geometry": {"coordinates":[-71.461932,41.86913],"type":"Point"}
+}

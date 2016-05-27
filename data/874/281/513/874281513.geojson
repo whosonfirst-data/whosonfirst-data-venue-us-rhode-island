@@ -1,0 +1,79 @@
+{
+  "id": 874281513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422512,41.809844,-71.422512,41.809844",
+    "geom:latitude":41.809844,
+    "geom:longitude":-71.422512,
+    "iso:country":"US",
+    "sg:address":"59 W Friendship St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 0930",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HPDhcHBbkfRuUQeGwloCU_41.809844_-71.422512@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314691,
+    "wof:geomhash":"648ab36d339958a831c8ba68edc51431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874281513
+        }
+    ],
+    "wof:id":874281513,
+    "wof:lastmodified":1464314691,
+    "wof:name":"Navedo's Auto Body Clinic",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.422512,
+    41.809844,
+    -71.422512,
+    41.809844
+],
+  "geometry": {"coordinates":[-71.422512,41.809844],"type":"Point"}
+}

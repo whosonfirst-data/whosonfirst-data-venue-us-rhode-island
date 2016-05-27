@@ -1,0 +1,71 @@
+{
+  "id": 874253447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27524,41.668923,-71.27524,41.668923",
+    "geom:latitude":41.668923,
+    "geom:longitude":-71.27524,
+    "iso:country":"US",
+    "sg:address":"35 Church St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 9300",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yocky8v7xWCWXNkeAT3Ma_41.668923_-71.275240@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313634,
+    "wof:geomhash":"bfb838a2d043a4430efd34b97ebfb887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874253447
+        }
+    ],
+    "wof:id":874253447,
+    "wof:lastmodified":1464313634,
+    "wof:name":"Holmes Consulting Group LTD",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.27524,
+    41.668923,
+    -71.27524,
+    41.668923
+],
+  "geometry": {"coordinates":[-71.27524,41.668923],"type":"Point"}
+}

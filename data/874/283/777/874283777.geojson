@@ -1,0 +1,88 @@
+{
+  "id": 874283777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.357517,41.816814,-71.357517,41.816814",
+    "geom:latitude":41.816814,
+    "geom:longitude":-71.357517,
+    "iso:country":"US",
+    "sg:address":"610 Waterman Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 7870",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village",
+        "medical",
+        "center",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S9A02hx8KhTwvjMcpper5_41.816594_-71.356955@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314766,
+    "wof:geomhash":"0a0fa8f8ef267b279f8fb9341199909f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874283777
+        }
+    ],
+    "wof:id":874283777,
+    "wof:lastmodified":1464314766,
+    "wof:name":"East Providence Senior Medical Center",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village",
+        "medical",
+        "center",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -71.357517,
+    41.816814,
+    -71.357517,
+    41.816814
+],
+  "geometry": {"coordinates":[-71.357517,41.816814],"type":"Point"}
+}

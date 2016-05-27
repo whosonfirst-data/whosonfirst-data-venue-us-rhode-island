@@ -1,0 +1,71 @@
+{
+  "id": 874208593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523131,41.485094,-71.523131,41.485094",
+    "geom:latitude":41.485094,
+    "geom:longitude":-71.523131,
+    "iso:country":"US",
+    "sg:address":"100 Fortin Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 3722",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UWW6Efey2X8oAHE6DIhFp_41.485094_-71.523131@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312935,
+    "wof:geomhash":"7561620b648064586779bdc01f111a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874208593
+        }
+    ],
+    "wof:id":874208593,
+    "wof:lastmodified":1464312935,
+    "wof:name":"Suburban Cleaners",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.523131,
+    41.485094,
+    -71.523131,
+    41.485094
+],
+  "geometry": {"coordinates":[-71.52313100000001,41.485094],"type":"Point"}
+}

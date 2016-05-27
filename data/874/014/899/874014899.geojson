@@ -1,0 +1,71 @@
+{
+  "id": 874014899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273046,41.693456,-71.273046,41.693456",
+    "geom:latitude":41.693456,
+    "geom:longitude":-71.273046,
+    "iso:country":"US",
+    "sg:address":"65 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4490",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bfdH2SYJIBj0pQRyQD4bC_41.693456_-71.273046@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310890,
+    "wof:geomhash":"5651167e587e39740f8fc60a76e6ea5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874014899
+        }
+    ],
+    "wof:id":874014899,
+    "wof:lastmodified":1464310890,
+    "wof:name":"Superlube Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.273046,
+    41.693456,
+    -71.273046,
+    41.693456
+],
+  "geometry": {"coordinates":[-71.27304599999999,41.693456],"type":"Point"}
+}

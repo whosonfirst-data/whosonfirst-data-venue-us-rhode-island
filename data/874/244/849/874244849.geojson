@@ -1,0 +1,73 @@
+{
+  "id": 874244849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458277,41.587845,-71.458277,41.587845",
+    "geom:latitude":41.587845,
+    "geom:longitude":-71.458277,
+    "iso:country":"US",
+    "sg:address":"7805 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 8294",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "eye"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VDYlB7qq1jnjuEZOkEgi3_41.587845_-71.458277@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313432,
+    "wof:geomhash":"06d8e47d641e876a7038954f39c1b219",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874244849
+        }
+    ],
+    "wof:id":874244849,
+    "wof:lastmodified":1464313432,
+    "wof:name":"Koch Eye Associates",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "eye"
+    ]
+},
+  "bbox": [
+    -71.458277,
+    41.587845,
+    -71.458277,
+    41.587845
+],
+  "geometry": {"coordinates":[-71.458277,41.587845],"type":"Point"}
+}

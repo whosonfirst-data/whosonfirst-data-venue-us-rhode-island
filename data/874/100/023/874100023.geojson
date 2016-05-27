@@ -1,0 +1,71 @@
+{
+  "id": 874100023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.642915,41.378256,-71.642915,41.378256",
+    "geom:latitude":41.378256,
+    "geom:longitude":-71.642915,
+    "iso:country":"US",
+    "sg:address":"71 Grays Point Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6599",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ayuF8E8SzRDT7HRm8OdFD_41.378256_-71.642915@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311793,
+    "wof:geomhash":"e92ff9d8f64d54cb607e3092d4ac1014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874100023
+        }
+    ],
+    "wof:id":874100023,
+    "wof:lastmodified":1464311793,
+    "wof:name":"Grays Point Investments LLC",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -71.642915,
+    41.378256,
+    -71.642915,
+    41.378256
+],
+  "geometry": {"coordinates":[-71.642915,41.378256],"type":"Point"}
+}

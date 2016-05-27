@@ -1,0 +1,71 @@
+{
+  "id": 874119517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522755,41.484395,-71.522755,41.484395",
+    "geom:latitude":41.484395,
+    "geom:longitude":-71.522755,
+    "iso:country":"US",
+    "sg:address":"60 Fortin Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 9040",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p6bbH0eov32c8yfnCRUVN_41.484395_-71.522755@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312030,
+    "wof:geomhash":"1aa3912a6268c0fcaae7eed7b2995edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874119517
+        }
+    ],
+    "wof:id":874119517,
+    "wof:lastmodified":1464312030,
+    "wof:name":"Hair Waves Salon Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.522755,
+    41.484395,
+    -71.522755,
+    41.484395
+],
+  "geometry": {"coordinates":[-71.522755,41.484395],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874244211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495127,41.886323,-71.495127,41.886323",
+    "geom:latitude":41.886323,
+    "geom:longitude":-71.495127,
+    "iso:country":"US",
+    "sg:address":"8 Varin Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6954",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PTqhTEvleqlFy7yNNpHOw_41.886323_-71.495127@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313420,
+    "wof:geomhash":"63c23dd8ddf178669e849c36d2ce0fbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874244211
+        }
+    ],
+    "wof:id":874244211,
+    "wof:lastmodified":1464313420,
+    "wof:name":"Jj Enterprise Cleaning I",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.495127,
+    41.886323,
+    -71.495127,
+    41.886323
+],
+  "geometry": {"coordinates":[-71.495127,41.886323],"type":"Point"}
+}

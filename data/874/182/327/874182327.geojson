@@ -1,0 +1,89 @@
+{
+  "id": 874182327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439878,41.782188,-71.439878,41.782188",
+    "geom:latitude":41.782188,
+    "geom:longitude":-71.439878,
+    "iso:country":"US",
+    "sg:address":"615 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8500",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.jdbyrider.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dD3z4PY2jix4xOeaNCDio_41.782188_-71.439878@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312654,
+    "wof:geomhash":"c21f9c1d0a34170f1d3d76878a71f805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874182327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874182327
+        }
+    ],
+    "wof:id":874182327,
+    "wof:lastmodified":1464312654,
+    "wof:name":"J D Byrider Auto Sales",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.439878,
+    41.782188,
+    -71.439878,
+    41.782188
+],
+  "geometry": {"coordinates":[-71.43987799999999,41.782188],"type":"Point"}
+}

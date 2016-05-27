@@ -1,0 +1,71 @@
+{
+  "id": 874004269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569606,41.480464,-71.569606,41.480464",
+    "geom:latitude":41.480464,
+    "geom:longitude":-71.569606,
+    "iso:country":"US",
+    "sg:address":"551 Liberty Ln",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1893",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ccUbpBzcRFkrdot3xlSE4_41.480464_-71.569606@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310806,
+    "wof:geomhash":"12e90b11e1289ab72efd5053c7414706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874004269
+        }
+    ],
+    "wof:id":874004269,
+    "wof:lastmodified":1464310806,
+    "wof:name":"Ocean State Tree Svc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -71.569606,
+    41.480464,
+    -71.569606,
+    41.480464
+],
+  "geometry": {"coordinates":[-71.56960599999999,41.480464],"type":"Point"}
+}

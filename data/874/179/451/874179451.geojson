@@ -1,0 +1,77 @@
+{
+  "id": 874179451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436911,41.833286,-71.436911,41.833286",
+    "geom:latitude":41.833286,
+    "geom:longitude":-71.436911,
+    "iso:country":"US",
+    "sg:address":"877 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 2145",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HVJO03MRXZk7fIrmQSUpU_41.833286_-71.436911@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312625,
+    "wof:geomhash":"c8f271a8b94531989699cc114d630875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874179451
+        }
+    ],
+    "wof:id":874179451,
+    "wof:lastmodified":1464312625,
+    "wof:name":"Stephen T Mernoff MD",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.436911,
+    41.833286,
+    -71.436911,
+    41.833286
+],
+  "geometry": {"coordinates":[-71.43691099999999,41.833286],"type":"Point"}
+}

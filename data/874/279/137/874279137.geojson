@@ -1,0 +1,69 @@
+{
+  "id": 874279137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.142144,41.492421,-71.142144,41.492421",
+    "geom:latitude":41.492421,
+    "geom:longitude":-71.142144,
+    "iso:country":"US",
+    "sg:address":"140 S Shore Rd",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 9974",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846741,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6COgpMMQyIgRIJBfXy8ZSG_41.492421_-71.142144@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314576,
+    "wof:geomhash":"dc5afc1c4ef0db11d8b3f390159151d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846741,
+            "region_id":85688509,
+            "venue_id":874279137
+        }
+    ],
+    "wof:id":874279137,
+    "wof:lastmodified":1464314576,
+    "wof:name":"Town Of Little Compton Beach",
+    "wof:parent_id":85846741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.142144,
+    41.492421,
+    -71.142144,
+    41.492421
+],
+  "geometry": {"coordinates":[-71.142144,41.492421],"type":"Point"}
+}

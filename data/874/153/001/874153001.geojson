@@ -1,0 +1,71 @@
+{
+  "id": 874153001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272461,41.674709,-71.272461,41.674709",
+    "geom:latitude":41.674709,
+    "geom:longitude":-71.272461,
+    "iso:country":"US",
+    "sg:address":"576 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 1879",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "food",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Z7PLPFghf2eOPgsV82xQ_41.674709_-71.272461@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312356,
+    "wof:geomhash":"b3c89a48452420a7315a8e192a766ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874153001
+        }
+    ],
+    "wof:id":874153001,
+    "wof:lastmodified":1464312356,
+    "wof:name":"Gerbs Pumpkin Seed Co",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.272461,
+    41.674709,
+    -71.272461,
+    41.674709
+],
+  "geometry": {"coordinates":[-71.27246100000001,41.674709],"type":"Point"}
+}

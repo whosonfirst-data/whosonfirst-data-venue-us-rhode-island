@@ -1,0 +1,73 @@
+{
+  "id": 874093081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499479,41.87675,-71.499479,41.87675",
+    "geom:latitude":41.87675,
+    "geom:longitude":-71.499479,
+    "iso:country":"US",
+    "sg:address":"352 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 9733",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48GT70PKG8Z3uJIR3X86Rv_41.876750_-71.499479@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"854b8f00db40fc8d526270d98fbc808e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874093081
+        }
+    ],
+    "wof:id":874093081,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Family Companion Pet Salon",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.499479,
+    41.87675,
+    -71.499479,
+    41.87675
+],
+  "geometry": {"coordinates":[-71.49947899999999,41.87675],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874257025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520702,41.992792,-71.520702,41.992792",
+    "geom:latitude":41.992792,
+    "geom:longitude":-71.520702,
+    "iso:country":"US",
+    "sg:address":"74 Broad St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 8672",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oiK0MG3rzk9fLMBrEMBTj_41.992792_-71.520702@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313722,
+    "wof:geomhash":"9d2146a6e4120eecd121866b23b450a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874257025
+        }
+    ],
+    "wof:id":874257025,
+    "wof:lastmodified":1464313722,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.520702,
+    41.992792,
+    -71.520702,
+    41.992792
+],
+  "geometry": {"coordinates":[-71.520702,41.992792],"type":"Point"}
+}

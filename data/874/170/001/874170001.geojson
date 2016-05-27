@@ -1,0 +1,88 @@
+{
+  "id": 874170001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438691,41.791754,-71.438691,41.791754",
+    "geom:latitude":41.791754,
+    "geom:longitude":-71.438691,
+    "iso:country":"US",
+    "sg:address":"75 Russe St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 9790",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dmcf2DwLQeerGZSiaDPsm_41.791754_-71.438691@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312526,
+    "wof:geomhash":"cc9db9a42083d1ebdcf0b9793ae6c0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874170001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874170001
+        }
+    ],
+    "wof:id":874170001,
+    "wof:lastmodified":1464312526,
+    "wof:name":"Malone Plumbing & Heating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.438691,
+    41.791754,
+    -71.438691,
+    41.791754
+],
+  "geometry": {"coordinates":[-71.43869100000001,41.791754],"type":"Point"}
+}

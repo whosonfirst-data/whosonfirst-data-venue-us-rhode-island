@@ -1,0 +1,73 @@
+{
+  "id": 874020867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441148,41.93545,-71.441148,41.93545",
+    "geom:latitude":41.93545,
+    "geom:longitude":-71.441148,
+    "iso:country":"US",
+    "sg:address":"616 George Washington Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1840",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DPNghufKLkfd938ydPK82_41.935450_-71.441148@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310955,
+    "wof:geomhash":"20dfafdbd373be28ea0c8200b94c24b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874020867
+        }
+    ],
+    "wof:id":874020867,
+    "wof:lastmodified":1464310955,
+    "wof:name":"Press Express Cleaners Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.441148,
+    41.93545,
+    -71.441148,
+    41.93545
+],
+  "geometry": {"coordinates":[-71.441148,41.93545],"type":"Point"}
+}

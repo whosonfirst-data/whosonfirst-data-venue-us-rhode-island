@@ -1,0 +1,75 @@
+{
+  "id": 874282199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415695,41.706595,-71.415695,41.706595",
+    "geom:latitude":41.706595,
+    "geom:longitude":-71.415695,
+    "iso:country":"US",
+    "sg:address":"1001 Sandy Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 9163",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x4tiqafUJJcKk5ubAVSRC_41.706595_-71.415695@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314714,
+    "wof:geomhash":"6a951cc05a3180b8206ecec5dba74d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":874282199
+        }
+    ],
+    "wof:id":874282199,
+    "wof:lastmodified":1464314714,
+    "wof:name":"Dave's Cafe",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -71.415695,
+    41.706595,
+    -71.415695,
+    41.706595
+],
+  "geometry": {"coordinates":[-71.415695,41.706595],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874130647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395143,41.885034,-71.395143,41.885034",
+    "geom:latitude":41.885034,
+    "geom:longitude":-71.395143,
+    "iso:country":"US",
+    "sg:address":"535 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 9689",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "independent",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73xiOFRwskoUguWbxgieaU_41.885034_-71.395143@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312145,
+    "wof:geomhash":"6ec50f2acfca777d107f28fe64cc121b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874130647
+        }
+    ],
+    "wof:id":874130647,
+    "wof:lastmodified":1464312145,
+    "wof:name":"Stanley's Restaurant",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.395143,
+    41.885034,
+    -71.395143,
+    41.885034
+],
+  "geometry": {"coordinates":[-71.395143,41.885034],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874303309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490426,41.866203,-71.490426,41.866203",
+    "geom:latitude":41.866203,
+    "geom:longitude":-71.490426,
+    "iso:country":"US",
+    "sg:address":"180 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0038",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.greystonelofts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0egBtvyjZFSqvtupCNMssQ_41.866203_-71.490426@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315506,
+    "wof:geomhash":"4dec1f7a89782ae89c5936a3e36bec18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303309
+        }
+    ],
+    "wof:id":874303309,
+    "wof:lastmodified":1464315506,
+    "wof:name":"Greystone Lofts",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.490426,
+    41.866203,
+    -71.490426,
+    41.866203
+],
+  "geometry": {"coordinates":[-71.490426,41.866203],"type":"Point"}
+}

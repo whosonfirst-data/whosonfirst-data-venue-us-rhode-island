@@ -1,0 +1,75 @@
+{
+  "id": 874160097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.368501,41.820085,-71.368501,41.820085",
+    "geom:latitude":41.820085,
+    "geom:longitude":-71.368501,
+    "iso:country":"US",
+    "sg:address":"789 Broadway",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 5995",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NujKV7s20WvaDwyf7id7M_41.820085_-71.368501@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312433,
+    "wof:geomhash":"afc0d57ac4787ce2da4e63ddc0fe5b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874160097
+        }
+    ],
+    "wof:id":874160097,
+    "wof:lastmodified":1464312433,
+    "wof:name":"Dialysis Center-East Prvdnc",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.368501,
+    41.820085,
+    -71.368501,
+    41.820085
+],
+  "geometry": {"coordinates":[-71.36850099999999,41.820085],"type":"Point"}
+}

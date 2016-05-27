@@ -1,0 +1,77 @@
+{
+  "id": 874257485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405305,41.771081,-71.405305,41.771081",
+    "geom:latitude":41.771081,
+    "geom:longitude":-71.405305,
+    "iso:country":"US",
+    "sg:address":"206 Warwick Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 1133",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_483dK6tkjLLGVyENYMmD1D_41.771081_-71.405305@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313746,
+    "wof:geomhash":"d9fba935aeb62895355ee718fda379bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874257485
+        }
+    ],
+    "wof:id":874257485,
+    "wof:lastmodified":1464313746,
+    "wof:name":"Cranston Physical Therapy Ctr",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.405305,
+    41.771081,
+    -71.405305,
+    41.771081
+],
+  "geometry": {"coordinates":[-71.405305,41.771081],"type":"Point"}
+}

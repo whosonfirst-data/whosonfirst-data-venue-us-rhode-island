@@ -1,0 +1,65 @@
+{
+  "id": 874281895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274098,41.704568,-71.274098,41.704568",
+    "geom:latitude":41.704568,
+    "geom:longitude":-71.274098,
+    "iso:country":"US",
+    "sg:address":"66 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2140",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:website":"www.trimackplastics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aw0ImnzK5Y1uTaNontqn1_41.704568_-71.274098@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314703,
+    "wof:geomhash":"c7639c0d7c6bc4d3e169bf63ae18bb58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874281895
+        }
+    ],
+    "wof:id":874281895,
+    "wof:lastmodified":1464314703,
+    "wof:name":"Tri Mack Plastics Mfg Corp",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.274098,
+    41.704568,
+    -71.274098,
+    41.704568
+],
+  "geometry": {"coordinates":[-71.274098,41.704568],"type":"Point"}
+}

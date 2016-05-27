@@ -1,0 +1,70 @@
+{
+  "id": 874287233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.805465,41.356776,-71.805465,41.356776",
+    "geom:latitude":41.356776,
+    "geom:longitude":-71.805465,
+    "iso:country":"US",
+    "sg:address":"18 Post Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/westerly/215021-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 4270",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AHsWZR1NyNDQEDfgMxSmY_41.356776_-71.805465@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314898,
+    "wof:geomhash":"e1671f874fe47179cb8bdf01e0235ff3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874287233
+        }
+    ],
+    "wof:id":874287233,
+    "wof:lastmodified":1464314898,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.805465,
+    41.356776,
+    -71.805465,
+    41.356776
+],
+  "geometry": {"coordinates":[-71.805465,41.356776],"type":"Point"}
+}

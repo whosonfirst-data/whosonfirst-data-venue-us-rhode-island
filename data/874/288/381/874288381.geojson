@@ -1,0 +1,85 @@
+{
+  "id": 874288381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275101,41.674198,-71.275101,41.674198",
+    "geom:latitude":41.674198,
+    "geom:longitude":-71.275101,
+    "iso:country":"US",
+    "sg:address":"75 Franklin St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 9832",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cake",
+        "wedding",
+        "bakers-wholesale",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hqw36ERUXGwrrw6tFNqGN_41.674198_-71.275101@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314953,
+    "wof:geomhash":"4d8cb5b933d3472f5b91a73a6db6fa9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288381
+        }
+    ],
+    "wof:id":874288381,
+    "wof:lastmodified":1464314953,
+    "wof:name":"Batista Bakery & Pastry Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "wedding",
+        "bakers-wholesale",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.275101,
+    41.674198,
+    -71.275101,
+    41.674198
+],
+  "geometry": {"coordinates":[-71.27510100000001,41.674198],"type":"Point"}
+}

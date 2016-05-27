@@ -1,0 +1,70 @@
+{
+  "id": 874286601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278488,41.672364,-71.278488,41.672364",
+    "geom:latitude":41.672364,
+    "geom:longitude":-71.278488,
+    "iso:country":"US",
+    "sg:address":"382 Thames St ",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/bristol/292430-hourglass-brasserie/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 396 9811",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "french"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FooP2rUSNLy8JSV2Ey8FG_41.672364_-71.278488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314877,
+    "wof:geomhash":"aeef0c23af56de46d2fef051a483e9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874286601
+        }
+    ],
+    "wof:id":874286601,
+    "wof:lastmodified":1464314877,
+    "wof:name":"Hourglass Brasserie",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "french"
+    ]
+},
+  "bbox": [
+    -71.278488,
+    41.672364,
+    -71.278488,
+    41.672364
+],
+  "geometry": {"coordinates":[-71.278488,41.672364],"type":"Point"}
+}

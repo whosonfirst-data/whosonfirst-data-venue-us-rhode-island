@@ -1,0 +1,71 @@
+{
+  "id": 874264371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.256614,41.731755,-71.256614,41.731755",
+    "geom:latitude":41.731755,
+    "geom:longitude":-71.256614,
+    "iso:country":"US",
+    "sg:address":"23 Detroit Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0919",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OBoe972eFN5g6eXOvDYUq_41.731755_-71.256614@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314003,
+    "wof:geomhash":"4a776b7038ad4ea0f8a10a2fc6f7f521",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874264371
+        }
+    ],
+    "wof:id":874264371,
+    "wof:lastmodified":1464314003,
+    "wof:name":"Vacuum Service Center",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -71.256614,
+    41.731755,
+    -71.256614,
+    41.731755
+],
+  "geometry": {"coordinates":[-71.256614,41.731755],"type":"Point"}
+}

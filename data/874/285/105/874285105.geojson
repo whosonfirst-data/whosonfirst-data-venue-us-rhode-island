@@ -1,0 +1,71 @@
+{
+  "id": 874285105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.351196,41.844898,-71.351196,41.844898",
+    "geom:latitude":41.844898,
+    "geom:longitude":-71.351196,
+    "iso:country":"US",
+    "sg:address":"42 Bishop Ave",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 2338",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:website":"www.stmargaretsch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AnawwBMtUrD8m0PY4mnVv_41.845230_-71.351372@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314815,
+    "wof:geomhash":"c98bd23f611ea98834bd452c4a0ba540",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874285105
+        }
+    ],
+    "wof:id":874285105,
+    "wof:lastmodified":1464314815,
+    "wof:name":"St Margaret's School",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.351196,
+    41.844898,
+    -71.351196,
+    41.844898
+],
+  "geometry": {"coordinates":[-71.351196,41.844898],"type":"Point"}
+}

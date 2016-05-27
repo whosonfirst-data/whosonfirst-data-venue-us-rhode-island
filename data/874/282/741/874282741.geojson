@@ -1,0 +1,82 @@
+{
+  "id": 874282741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437762,41.777034,-71.437762,41.777034",
+    "geom:latitude":41.777034,
+    "geom:longitude":-71.437762,
+    "iso:country":"US",
+    "sg:address":"396 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 6116",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:website":"http://www.cranstonlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UetdzBYejd38a2SQHv6Sr_41.777403_-71.437710@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314732,
+    "wof:geomhash":"5efe6a9c715ea5f4c70993a66b968230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874282741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874282741
+        }
+    ],
+    "wof:id":874282741,
+    "wof:lastmodified":1464314732,
+    "wof:name":"Auburn Branch Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.437762,
+    41.777034,
+    -71.437762,
+    41.777034
+],
+  "geometry": {"coordinates":[-71.43776200000001,41.777034],"type":"Point"}
+}

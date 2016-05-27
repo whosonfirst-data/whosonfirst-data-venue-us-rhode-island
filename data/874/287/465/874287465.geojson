@@ -1,0 +1,78 @@
+{
+  "id": 874287465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395565,41.848227,-71.395565,41.848227",
+    "geom:latitude":41.848227,
+    "geom:longitude":-71.395565,
+    "iso:country":"US",
+    "sg:address":"776 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/274864-blaze/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 277 2529",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60nPwfLzrk6TgDo1UtGM8g_41.848227_-71.395565@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314912,
+    "wof:geomhash":"91fe9b0c6fc47cd8eb890dd4ebd9139c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874287465
+        }
+    ],
+    "wof:id":874287465,
+    "wof:lastmodified":1464314912,
+    "wof:name":"Blaze",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.395565,
+    41.848227,
+    -71.395565,
+    41.848227
+],
+  "geometry": {"coordinates":[-71.395565,41.848227],"type":"Point"}
+}

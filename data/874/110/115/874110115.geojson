@@ -1,0 +1,77 @@
+{
+  "id": 874110115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400832,41.78067,-71.400832,41.78067",
+    "geom:latitude":41.78067,
+    "geom:longitude":-71.400832,
+    "iso:country":"US",
+    "sg:address":"1704 Broad St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1613",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3heG8DnvUvHl6O0E5CilID_41.780670_-71.400832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311922,
+    "wof:geomhash":"e4e9aac1be58d92b466c8646eb41c657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874110115
+        }
+    ],
+    "wof:id":874110115,
+    "wof:lastmodified":1464311922,
+    "wof:name":"Standard Dental Laboratory Co",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.400832,
+    41.78067,
+    -71.400832,
+    41.78067
+],
+  "geometry": {"coordinates":[-71.40083199999999,41.78067],"type":"Point"}
+}

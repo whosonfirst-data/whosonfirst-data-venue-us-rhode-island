@@ -1,0 +1,69 @@
+{
+  "id": 873997837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508908,41.578111,-71.508908,41.578111",
+    "geom:latitude":41.578111,
+    "geom:longitude":-71.508908,
+    "iso:country":"US",
+    "sg:address":"1540 Ten Rod Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3797",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I68vMU9TNtDXSoezz0OZi_41.578111_-71.508908@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310745,
+    "wof:geomhash":"8fe14676febd75bebb926be99df5bc69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":873997837
+        }
+    ],
+    "wof:id":873997837,
+    "wof:lastmodified":1464310745,
+    "wof:name":"Automotive Works Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.508908,
+    41.578111,
+    -71.508908,
+    41.578111
+],
+  "geometry": {"coordinates":[-71.50890800000001,41.578111],"type":"Point"}
+}

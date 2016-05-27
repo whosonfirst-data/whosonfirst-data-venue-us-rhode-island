@@ -1,0 +1,71 @@
+{
+  "id": 874058241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.630798,41.377182,-71.630798,41.377182",
+    "geom:latitude":41.377182,
+    "geom:longitude":-71.630798,
+    "iso:country":"US",
+    "sg:address":"149 N Niantic Dr",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 213 6388",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MKd9Pi9wiXuKBdR0olv89_41.377182_-71.630798@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311319,
+    "wof:geomhash":"e0f6b3dda91cd24a4509c13175037cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874058241
+        }
+    ],
+    "wof:id":874058241,
+    "wof:lastmodified":1464311319,
+    "wof:name":"Wynne Physical Therapy Svc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.630798,
+    41.377182,
+    -71.630798,
+    41.377182
+],
+  "geometry": {"coordinates":[-71.630798,41.377182],"type":"Point"}
+}

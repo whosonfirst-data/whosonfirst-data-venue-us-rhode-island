@@ -1,0 +1,78 @@
+{
+  "id": 874269793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536429,41.876815,-71.536429,41.876815",
+    "geom:latitude":41.876815,
+    "geom:longitude":-71.536429,
+    "iso:country":"US",
+    "sg:address":"10 Cedar Swamp Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6720",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H80eyZ2tEAMkdvkqQ49eN_41.876815_-71.536429@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314219,
+    "wof:geomhash":"01fbaf1b185f966cc8168ec30025b5d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874269793
+        }
+    ],
+    "wof:id":874269793,
+    "wof:lastmodified":1464314219,
+    "wof:name":"Art Pegasus & Frame",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.536429,
+    41.876815,
+    -71.536429,
+    41.876815
+],
+  "geometry": {"coordinates":[-71.536429,41.876815],"type":"Point"}
+}

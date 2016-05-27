@@ -1,0 +1,74 @@
+{
+  "id": 874021639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419304,42.002575,-71.419304,42.002575",
+    "geom:latitude":42.002575,
+    "geom:longitude":-71.419304,
+    "iso:country":"US",
+    "sg:address":"4288 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 5053",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfr",
+        "ice",
+        "cream"
+    ],
+    "sg:website":"www.icecreampie.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822571,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ytcl3LClvyufGKoq5yqwy_42.002575_-71.419304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310961,
+    "wof:geomhash":"f3de9ff2b1201f1f72eb81f37ec169c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822571,
+            "region_id":85688509,
+            "venue_id":874021639
+        }
+    ],
+    "wof:id":874021639,
+    "wof:lastmodified":1464310961,
+    "wof:name":"Ice Cream Machine Co",
+    "wof:parent_id":85822571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfr",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.419304,
+    42.002575,
+    -71.419304,
+    42.002575
+],
+  "geometry": {"coordinates":[-71.419304,42.002575],"type":"Point"}
+}

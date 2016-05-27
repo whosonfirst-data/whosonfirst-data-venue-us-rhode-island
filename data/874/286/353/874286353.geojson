@@ -1,0 +1,70 @@
+{
+  "id": 874286353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453499,41.8325,-71.453499,41.8325",
+    "geom:latitude":41.8325,
+    "geom:longitude":-71.453499,
+    "iso:country":"US",
+    "sg:address":"1348 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 1818",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540501,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g3DwYZjVQOA4dRg5jr4fm_41.832381_-71.453026@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314868,
+    "wof:geomhash":"a83c70d1930ce6abf4c46af0114f090f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540501,
+            "region_id":85688509,
+            "venue_id":874286353
+        }
+    ],
+    "wof:id":874286353,
+    "wof:lastmodified":1464314868,
+    "wof:name":"Sam's Food Store",
+    "wof:parent_id":420540501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.453499,
+    41.8325,
+    -71.453499,
+    41.8325
+],
+  "geometry": {"coordinates":[-71.45349899999999,41.8325],"type":"Point"}
+}

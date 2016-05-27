@@ -1,0 +1,75 @@
+{
+  "id": 874043261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423348,41.863224,-71.423348,41.863224",
+    "geom:latitude":41.863224,
+    "geom:longitude":-71.423348,
+    "iso:country":"US",
+    "sg:address":"930 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 6633",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d7pITnhoUgPGziuiSq6qG_41.863224_-71.423348@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311178,
+    "wof:geomhash":"a5b9d53cb1368662c591db40a8e8c089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874043261
+        }
+    ],
+    "wof:id":874043261,
+    "wof:lastmodified":1464311178,
+    "wof:name":"Mariville Police Dept",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.423348,
+    41.863224,
+    -71.423348,
+    41.863224
+],
+  "geometry": {"coordinates":[-71.423348,41.863224],"type":"Point"}
+}

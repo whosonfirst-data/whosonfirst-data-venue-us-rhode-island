@@ -1,0 +1,86 @@
+{
+  "id": 874259197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45241,41.570143,-71.45241,41.570143",
+    "geom:latitude":41.570143,
+    "geom:longitude":-71.45241,
+    "iso:country":"US",
+    "sg:address":"61 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3375",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "structural",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vYWLX3jOL3EWNa1yoJTv1_41.570143_-71.452410@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313831,
+    "wof:geomhash":"7da885200d3151ae882d32f7d63eb2be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874259197
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874259197
+        }
+    ],
+    "wof:id":874259197,
+    "wof:lastmodified":1464313831,
+    "wof:name":"Northeast Steel Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "structural",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.45241,
+    41.570143,
+    -71.45241,
+    41.570143
+],
+  "geometry": {"coordinates":[-71.45241,41.570143],"type":"Point"}
+}

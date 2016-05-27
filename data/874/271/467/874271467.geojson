@@ -1,0 +1,69 @@
+{
+  "id": 874271467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488525,41.410859,-71.488525,41.410859",
+    "geom:latitude":41.410859,
+    "geom:longitude":-71.488525,
+    "iso:country":"US",
+    "sg:address":"3 Ilex Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3545",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44GtuH6eCHY3W3X8pUT3H5_41.410859_-71.488525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314273,
+    "wof:geomhash":"7ffdfef71372542de131357b4b5937bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874271467
+        }
+    ],
+    "wof:id":874271467,
+    "wof:lastmodified":1464314273,
+    "wof:name":"Mar Construction Inc",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.488525,
+    41.410859,
+    -71.488525,
+    41.410859
+],
+  "geometry": {"coordinates":[-71.488525,41.410859],"type":"Point"}
+}

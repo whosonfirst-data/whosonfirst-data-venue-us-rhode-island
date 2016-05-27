@@ -1,0 +1,77 @@
+{
+  "id": 873980579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447607,41.576062,-71.447607,41.576062",
+    "geom:latitude":41.576062,
+    "geom:longitude":-71.447607,
+    "iso:country":"US",
+    "sg:address":"153 Pleasant St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2326",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N3qie4tTEpbAUT3C4hnFK_41.576062_-71.447607@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310594,
+    "wof:geomhash":"21b67d2d49a5533c8ab7c77dbc25c36d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":873980579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":873980579
+        }
+    ],
+    "wof:id":873980579,
+    "wof:lastmodified":1464310594,
+    "wof:name":"Richard D Breault Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.447607,
+    41.576062,
+    -71.447607,
+    41.576062
+],
+  "geometry": {"coordinates":[-71.447607,41.576062],"type":"Point"}
+}

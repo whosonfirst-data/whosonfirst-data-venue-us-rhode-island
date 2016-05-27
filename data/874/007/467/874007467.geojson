@@ -1,0 +1,71 @@
+{
+  "id": 874007467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277152,41.670294,-71.277152,41.670294",
+    "geom:latitude":41.670294,
+    "geom:longitude":-71.277152,
+    "iso:country":"US",
+    "sg:address":"31 State St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2233",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kM6kdA3dJQDt7YcHueSGS_41.670294_-71.277152@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310836,
+    "wof:geomhash":"7b23c05c546b2212c0c4be685f58bf2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874007467
+        }
+    ],
+    "wof:id":874007467,
+    "wof:lastmodified":1464310836,
+    "wof:name":"Bristol Building Co LLC",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.277152,
+    41.670294,
+    -71.277152,
+    41.670294
+],
+  "geometry": {"coordinates":[-71.277152,41.670294],"type":"Point"}
+}

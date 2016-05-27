@@ -1,0 +1,77 @@
+{
+  "id": 874039883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434479,41.824279,-71.434479,41.824279",
+    "geom:latitude":41.824279,
+    "geom:longitude":-71.434479,
+    "iso:country":"US",
+    "sg:address":"536 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 4600",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JQLP1hVUA9Wf2n2xbXE1l_41.824279_-71.434479@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311142,
+    "wof:geomhash":"ea575606f6034c7c036e71b91c094c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874039883
+        }
+    ],
+    "wof:id":874039883,
+    "wof:lastmodified":1464311142,
+    "wof:name":"Energy Source",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.434479,
+    41.824279,
+    -71.434479,
+    41.824279
+],
+  "geometry": {"coordinates":[-71.434479,41.824279],"type":"Point"}
+}

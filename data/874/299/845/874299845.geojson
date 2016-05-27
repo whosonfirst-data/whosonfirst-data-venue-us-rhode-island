@@ -1,0 +1,81 @@
+{
+  "id": 874299845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405526,41.845481,-71.405526,41.845481",
+    "geom:latitude":41.845481,
+    "geom:longitude":-71.405526,
+    "iso:country":"US",
+    "sg:address":"909 N Main St Ste 1",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 2002",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Si9R9Q3el2YboWpJax06P_41.845481_-71.405526@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315384,
+    "wof:geomhash":"d18dde23f3fdfd6f262930d586623f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874299845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874299845
+        }
+    ],
+    "wof:id":874299845,
+    "wof:lastmodified":1464315384,
+    "wof:name":"Smith Jean MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.405526,
+    41.845481,
+    -71.405526,
+    41.845481
+],
+  "geometry": {"coordinates":[-71.40552599999999,41.845481],"type":"Point"}
+}

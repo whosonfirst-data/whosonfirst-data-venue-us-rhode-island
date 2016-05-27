@@ -1,0 +1,80 @@
+{
+  "id": 874064409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470525,41.827226,-71.470525,41.827226",
+    "geom:latitude":41.827226,
+    "geom:longitude":-71.470525,
+    "iso:country":"US",
+    "sg:address":"19 Dyerville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 6363",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "dealer",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EXw2KGdZryV9Lo7DpwZaN_41.827226_-71.470525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311375,
+    "wof:geomhash":"b5bc039ba3885ad6ce0bde3cf0bb60aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874064409
+        }
+    ],
+    "wof:id":874064409,
+    "wof:lastmodified":1464311375,
+    "wof:name":"Rick's Truck & Auto Repairing",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.470525,
+    41.827226,
+    -71.470525,
+    41.827226
+],
+  "geometry": {"coordinates":[-71.47052499999999,41.827226],"type":"Point"}
+}

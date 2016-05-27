@@ -1,0 +1,71 @@
+{
+  "id": 874090983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648228,41.96251,-71.648228,41.96251",
+    "geom:latitude":41.96251,
+    "geom:longitude":-71.648228,
+    "iso:country":"US",
+    "sg:address":"1376 Broncos Hwy",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 0300",
+    "sg:postcode":"02858",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eV0rorq2hsIwg00nDlfOc_41.962510_-71.648228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311674,
+    "wof:geomhash":"c42ec0d2d905bb171a457d08c9fd1e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874090983
+        }
+    ],
+    "wof:id":874090983,
+    "wof:lastmodified":1464311674,
+    "wof:name":"Northern Ri Internal Med Assn",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.648228,
+    41.96251,
+    -71.648228,
+    41.96251
+],
+  "geometry": {"coordinates":[-71.648228,41.96251],"type":"Point"}
+}

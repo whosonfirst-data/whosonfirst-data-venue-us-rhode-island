@@ -1,0 +1,86 @@
+{
+  "id": 874283969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437557,41.750216,-71.437557,41.750216",
+    "geom:latitude":41.750216,
+    "geom:longitude":-71.437557,
+    "iso:country":"US",
+    "sg:address":"115 Maple St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 6905",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "precision",
+        "hardware",
+        "equipment",
+        "test",
+        "store"
+    ],
+    "sg:website":"http://www.imtsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35c9B6evXSIQ6k2wSKrktH_41.750323_-71.437754@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314772,
+    "wof:geomhash":"131a22c70e3b356de4c6716d3b313edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874283969
+        }
+    ],
+    "wof:id":874283969,
+    "wof:lastmodified":1464314772,
+    "wof:name":"International Machine & Tool Corporation",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "precision",
+        "hardware",
+        "equipment",
+        "test",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.437557,
+    41.750216,
+    -71.437557,
+    41.750216
+],
+  "geometry": {"coordinates":[-71.437557,41.750216],"type":"Point"}
+}

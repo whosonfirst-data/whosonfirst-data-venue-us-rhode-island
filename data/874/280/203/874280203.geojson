@@ -1,0 +1,71 @@
+{
+  "id": 874280203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397883,41.889681,-71.397883,41.889681",
+    "geom:latitude":41.889681,
+    "geom:longitude":-71.397883,
+    "iso:country":"US",
+    "sg:address":"157 Valley St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 8271",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fAqd1kbjmlor0hahJNAuZ_41.889681_-71.397883@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314618,
+    "wof:geomhash":"c45c8fa6c8d7c985647674dc7135306c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874280203
+        }
+    ],
+    "wof:id":874280203,
+    "wof:lastmodified":1464314618,
+    "wof:name":"A & B Bakers Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.397883,
+    41.889681,
+    -71.397883,
+    41.889681
+],
+  "geometry": {"coordinates":[-71.39788299999999,41.889681],"type":"Point"}
+}

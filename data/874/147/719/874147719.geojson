@@ -1,0 +1,81 @@
+{
+  "id": 874147719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42631,41.801964,-71.42631,41.801964",
+    "geom:latitude":41.801964,
+    "geom:longitude":-71.42631,
+    "iso:country":"US",
+    "sg:address":"383 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 4555",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KMKCW4Ahvff7hrPfb950M_41.801964_-71.426310@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312308,
+    "wof:geomhash":"60fcbfdd200cfb966148c87daa48a25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874147719
+        }
+    ],
+    "wof:id":874147719,
+    "wof:lastmodified":1464312308,
+    "wof:name":"Or Kan",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.42631,
+    41.801964,
+    -71.42631,
+    41.801964
+],
+  "geometry": {"coordinates":[-71.42631,41.801964],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874237181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.259377,41.739097,-71.259377,41.739097",
+    "geom:latitude":41.739097,
+    "geom:longitude":-71.259377,
+    "iso:country":"US",
+    "sg:address":"43 Kinnicutt Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8245",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "vegetable",
+        "farm",
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IHcQ2dT5GaYsCCELdnd5a_41.739097_-71.259377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313284,
+    "wof:geomhash":"eda0f170e331c2fe6ef2c114abc3f23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874237181
+        }
+    ],
+    "wof:id":874237181,
+    "wof:lastmodified":1464313284,
+    "wof:name":"Frerichs Farm",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "farm",
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -71.259377,
+    41.739097,
+    -71.259377,
+    41.739097
+],
+  "geometry": {"coordinates":[-71.259377,41.739097],"type":"Point"}
+}

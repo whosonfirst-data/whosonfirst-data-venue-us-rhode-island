@@ -1,0 +1,77 @@
+{
+  "id": 874201979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501137,41.688933,-71.501137,41.688933",
+    "geom:latitude":41.688933,
+    "geom:longitude":-71.501137,
+    "iso:country":"US",
+    "sg:address":"222 Quaker Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2195",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "legal",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01vPZqaxcfnQTrWizfYJOV_41.688933_-71.501137@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312863,
+    "wof:geomhash":"bd4388889a69557ccd3a3f95398ee8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874201979
+        }
+    ],
+    "wof:id":874201979,
+    "wof:lastmodified":1464312863,
+    "wof:name":"Department of Public Defender",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "economic",
+        "legal",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.501137,
+    41.688933,
+    -71.501137,
+    41.688933
+],
+  "geometry": {"coordinates":[-71.501137,41.688933],"type":"Point"}
+}

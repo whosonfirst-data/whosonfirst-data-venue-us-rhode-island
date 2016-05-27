@@ -1,0 +1,83 @@
+{
+  "id": 874287935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39924,41.713678,-71.39924,41.713678",
+    "geom:latitude":41.713678,
+    "geom:longitude":-71.39924,
+    "iso:country":"US",
+    "sg:address":"2323 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/245010-picassos-pizza--pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 5030",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868715,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gNlaU1zLVhrWgLO2tciSz_41.714273_-71.399344@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314933,
+    "wof:geomhash":"19e86a0365e70657cdb83cf83373ce26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85868715,
+            "region_id":85688509,
+            "venue_id":874287935
+        }
+    ],
+    "wof:id":874287935,
+    "wof:lastmodified":1464314933,
+    "wof:name":"Picasso's Pizza & Pub",
+    "wof:parent_id":85868715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.39924,
+    41.713678,
+    -71.39924,
+    41.713678
+],
+  "geometry": {"coordinates":[-71.39924000000001,41.713678],"type":"Point"}
+}

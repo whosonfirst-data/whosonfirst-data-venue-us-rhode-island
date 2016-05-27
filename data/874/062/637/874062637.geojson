@@ -1,0 +1,84 @@
+{
+  "id": 874062637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464965,41.78217,-71.464965,41.78217",
+    "geom:latitude":41.78217,
+    "geom:longitude":-71.464965,
+    "iso:country":"US",
+    "sg:address":"1744 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 5050",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cologne",
+        "boutique",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ItbrMG7y0CGJgomiheU9P_41.782170_-71.464965@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"f3d3898b6ea6f400e015b998b21b6796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874062637
+        }
+    ],
+    "wof:id":874062637,
+    "wof:lastmodified":1464311359,
+    "wof:name":"Joe's Place Inc",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cologne",
+        "boutique",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -71.464965,
+    41.78217,
+    -71.464965,
+    41.78217
+],
+  "geometry": {"coordinates":[-71.46496500000001,41.78217],"type":"Point"}
+}

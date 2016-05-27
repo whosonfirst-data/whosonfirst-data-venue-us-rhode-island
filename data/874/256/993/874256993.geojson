@@ -1,0 +1,73 @@
+{
+  "id": 874256993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275519,41.482443,-71.275519,41.482443",
+    "geom:latitude":41.482443,
+    "geom:longitude":-71.275519,
+    "iso:country":"US",
+    "sg:address":"629 Wolcott Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 0671",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12AmQJd4mncFBJF9nLW76k_41.482443_-71.275519@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313721,
+    "wof:geomhash":"bac7be51cd858474ad438bc0f3053084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874256993
+        }
+    ],
+    "wof:id":874256993,
+    "wof:lastmodified":1464313721,
+    "wof:name":"John Milnes Co Inc",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.275519,
+    41.482443,
+    -71.275519,
+    41.482443
+],
+  "geometry": {"coordinates":[-71.275519,41.482443],"type":"Point"}
+}

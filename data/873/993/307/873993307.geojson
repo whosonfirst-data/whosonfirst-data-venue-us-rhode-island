@@ -1,0 +1,73 @@
+{
+  "id": 873993307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482872,41.825139,-71.482872,41.825139",
+    "geom:latitude":41.825139,
+    "geom:longitude":-71.482872,
+    "iso:country":"US",
+    "sg:address":"1 Niverville St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 5561",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kahS391zgcrmiqE6NLaN6_41.825139_-71.482872@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310714,
+    "wof:geomhash":"2c78f24a88720fb102a5518574ac7d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":873993307
+        }
+    ],
+    "wof:id":873993307,
+    "wof:lastmodified":1464310714,
+    "wof:name":"Lane & Sons Concrete Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.482872,
+    41.825139,
+    -71.482872,
+    41.825139
+],
+  "geometry": {"coordinates":[-71.482872,41.825139],"type":"Point"}
+}

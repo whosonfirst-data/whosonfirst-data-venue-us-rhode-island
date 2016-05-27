@@ -1,0 +1,71 @@
+{
+  "id": 874249939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.59006,41.500255,-71.59006,41.500255",
+    "geom:latitude":41.500255,
+    "geom:longitude":-71.59006,
+    "iso:country":"US",
+    "sg:address":"351 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 7014",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MVuHTQoU2f7s24k3qqFmY_41.500255_-71.590060@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313565,
+    "wof:geomhash":"97bf10cfa6eac1fcae330b34525de42e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874249939
+        }
+    ],
+    "wof:id":874249939,
+    "wof:lastmodified":1464313565,
+    "wof:name":"Bill Smith Building Co",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.59006,
+    41.500255,
+    -71.59006,
+    41.500255
+],
+  "geometry": {"coordinates":[-71.59005999999999,41.500255],"type":"Point"}
+}

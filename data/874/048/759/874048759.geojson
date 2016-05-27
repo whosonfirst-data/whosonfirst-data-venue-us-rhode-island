@@ -1,0 +1,71 @@
+{
+  "id": 874048759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4724,41.826969,-71.4724,41.826969",
+    "geom:latitude":41.826969,
+    "geom:longitude":-71.4724,
+    "iso:country":"US",
+    "sg:address":"580 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7930",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TS1ndAiYligwKGVsWSDHz_41.826969_-71.472400@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311230,
+    "wof:geomhash":"ca380097263970f3c2b3ae53b3361b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874048759
+        }
+    ],
+    "wof:id":874048759,
+    "wof:lastmodified":1464311230,
+    "wof:name":"Ace Auto Service Motor Sales",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.4724,
+    41.826969,
+    -71.4724,
+    41.826969
+],
+  "geometry": {"coordinates":[-71.47239999999999,41.826969],"type":"Point"}
+}

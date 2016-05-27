@@ -1,0 +1,71 @@
+{
+  "id": 874059931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677935,41.967751,-71.677935,41.967751",
+    "geom:latitude":41.967751,
+    "geom:longitude":-71.677935,
+    "iso:country":"US",
+    "sg:address":"45 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 5600",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22TtEFwADcQl9bU1Njen1W_41.967751_-71.677935@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311335,
+    "wof:geomhash":"d8e94960e07040b72e1e63dfec96dd4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874059931
+        }
+    ],
+    "wof:id":874059931,
+    "wof:lastmodified":1464311335,
+    "wof:name":"St Patricks Catholic Church",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.677935,
+    41.967751,
+    -71.677935,
+    41.967751
+],
+  "geometry": {"coordinates":[-71.67793500000001,41.967751],"type":"Point"}
+}

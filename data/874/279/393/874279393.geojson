@@ -1,0 +1,71 @@
+{
+  "id": 874279393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.606435,41.981802,-71.606435,41.981802",
+    "geom:latitude":41.981802,
+    "geom:longitude":-71.606435,
+    "iso:country":"US",
+    "sg:address":"2822 Victory Hwy",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 7741",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jPkpQt2Ul5V5PT0SfnF7S_41.981802_-71.606435@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314585,
+    "wof:geomhash":"78a53c5cf0c9a7f89d0abf0ec5a8a4f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874279393
+        }
+    ],
+    "wof:id":874279393,
+    "wof:lastmodified":1464314585,
+    "wof:name":"Jasons Trucking",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.606435,
+    41.981802,
+    -71.606435,
+    41.981802
+],
+  "geometry": {"coordinates":[-71.606435,41.981802],"type":"Point"}
+}

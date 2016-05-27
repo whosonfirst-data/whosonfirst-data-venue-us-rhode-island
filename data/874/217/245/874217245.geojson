@@ -1,0 +1,76 @@
+{
+  "id": 874217245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537797,41.723577,-71.537797,41.723577",
+    "geom:latitude":41.723577,
+    "geom:longitude":-71.537797,
+    "iso:country":"US",
+    "sg:address":"14 Howard Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 5625",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78eJV2DBIKgauMFWjWs1Ue_41.723577_-71.537797@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313025,
+    "wof:geomhash":"7520f7de8743d164bcb2574a44ab45de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874217245
+        }
+    ],
+    "wof:id":874217245,
+    "wof:lastmodified":1464313025,
+    "wof:name":"Mc Graw's Woodworking",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -71.537797,
+    41.723577,
+    -71.537797,
+    41.723577
+],
+  "geometry": {"coordinates":[-71.537797,41.723577],"type":"Point"}
+}

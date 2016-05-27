@@ -1,0 +1,69 @@
+{
+  "id": 874225509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.240028,41.516075,-71.240028,41.516075",
+    "geom:latitude":41.516075,
+    "geom:longitude":-71.240028,
+    "iso:country":"US",
+    "sg:address":"76 Peckham Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 9599",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N7XGCMMPBn1A5Oqm5ef87_41.516075_-71.240028@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313116,
+    "wof:geomhash":"3a4da828df7b62b2adf38ded531df4d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874225509
+        }
+    ],
+    "wof:id":874225509,
+    "wof:lastmodified":1464313116,
+    "wof:name":"Blank Painting Contracting",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.240028,
+    41.516075,
+    -71.240028,
+    41.516075
+],
+  "geometry": {"coordinates":[-71.240028,41.516075],"type":"Point"}
+}

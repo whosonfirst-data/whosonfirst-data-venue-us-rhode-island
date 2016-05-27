@@ -1,0 +1,71 @@
+{
+  "id": 874260949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.25523,41.572406,-71.25523,41.572406",
+    "geom:latitude":41.572406,
+    "geom:longitude":-71.25523,
+    "iso:country":"US",
+    "sg:address":"59 Gildas Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 7771",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17oEpfxTVPpZEPpvbIB5N0_41.572406_-71.255230@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313889,
+    "wof:geomhash":"1a1135555c10dba49b32b2cb5116664b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874260949
+        }
+    ],
+    "wof:id":874260949,
+    "wof:lastmodified":1464313889,
+    "wof:name":"Mark Hassel",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -71.25523,
+    41.572406,
+    -71.25523,
+    41.572406
+],
+  "geometry": {"coordinates":[-71.25523,41.572406],"type":"Point"}
+}

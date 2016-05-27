@@ -1,0 +1,71 @@
+{
+  "id": 874288265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.306549,41.738731,-71.306549,41.738731",
+    "geom:latitude":41.738731,
+    "geom:longitude":-71.306549,
+    "iso:country":"US",
+    "sg:address":"1 Waseca Ave # 3",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2469",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OFDpW4S78cleuIxiNO7Fm_41.738731_-71.306549@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314945,
+    "wof:geomhash":"7371a7eb0d9870b36b24c65c7888aba3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874288265
+        }
+    ],
+    "wof:id":874288265,
+    "wof:lastmodified":1464314945,
+    "wof:name":"Toys Ahoy",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.306549,
+    41.738731,
+    -71.306549,
+    41.738731
+],
+  "geometry": {"coordinates":[-71.306549,41.738731],"type":"Point"}
+}

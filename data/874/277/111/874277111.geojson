@@ -1,0 +1,75 @@
+{
+  "id": 874277111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446566,41.701033,-71.446566,41.701033",
+    "geom:latitude":41.701033,
+    "geom:longitude":-71.446566,
+    "iso:country":"US",
+    "sg:address":"177 Villa Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 5346",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ch8icGiOAeG78tyMr9h4F_41.701033_-71.446566@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314505,
+    "wof:geomhash":"7da3e0908a392facb5adc5a2035a1a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874277111
+        }
+    ],
+    "wof:id":874277111,
+    "wof:lastmodified":1464314505,
+    "wof:name":"Giles Appraisal Svc",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.446566,
+    41.701033,
+    -71.446566,
+    41.701033
+],
+  "geometry": {"coordinates":[-71.446566,41.701033],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874162727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438676,41.82991,-71.438676,41.82991",
+    "geom:latitude":41.82991,
+    "geom:longitude":-71.438676,
+    "iso:country":"US",
+    "sg:address":"117 Harold St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 6636",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MeHwd3ZwzlWl59tZOXlPx_41.829910_-71.438676@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312457,
+    "wof:geomhash":"d95b1779ac22770b0f779337391dcbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874162727
+        }
+    ],
+    "wof:id":874162727,
+    "wof:lastmodified":1464312457,
+    "wof:name":"Nemo Auto Sales",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.438676,
+    41.82991,
+    -71.438676,
+    41.82991
+],
+  "geometry": {"coordinates":[-71.438676,41.82991],"type":"Point"}
+}

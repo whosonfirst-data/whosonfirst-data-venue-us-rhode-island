@@ -1,0 +1,71 @@
+{
+  "id": 874304385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507942,41.89565,-71.507942,41.89565",
+    "geom:latitude":41.89565,
+    "geom:longitude":-71.507942,
+    "iso:country":"US",
+    "sg:address":"7 Rawson Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 7846",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "printers-equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O7nxyCc5c2qIbVHEPAc3V_41.895650_-71.507942@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315543,
+    "wof:geomhash":"dff5ce88f341b6d88aa1b068cbd22b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874304385
+        }
+    ],
+    "wof:id":874304385,
+    "wof:lastmodified":1464315543,
+    "wof:name":"Initial Impressions",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printers-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.507942,
+    41.89565,
+    -71.507942,
+    41.89565
+],
+  "geometry": {"coordinates":[-71.507942,41.89565],"type":"Point"}
+}

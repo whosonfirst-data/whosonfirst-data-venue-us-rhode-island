@@ -1,0 +1,71 @@
+{
+  "id": 874018375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271489,41.57677,-71.271489,41.57677",
+    "geom:latitude":41.57677,
+    "geom:longitude":-71.271489,
+    "iso:country":"US",
+    "sg:address":"1627 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 9840",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c0egylYxnMMqSEIcdXuyY_41.576770_-71.271489@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310931,
+    "wof:geomhash":"8f21b7ad9cb89f8fc0c368982a24e25c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874018375
+        }
+    ],
+    "wof:id":874018375,
+    "wof:lastmodified":1464310931,
+    "wof:name":"Mane Mart",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.271489,
+    41.57677,
+    -71.271489,
+    41.57677
+],
+  "geometry": {"coordinates":[-71.271489,41.57677],"type":"Point"}
+}

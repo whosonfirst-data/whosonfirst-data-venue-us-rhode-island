@@ -1,0 +1,83 @@
+{
+  "id": 874088261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.282791,41.514545,-71.282791,41.514545",
+    "geom:latitude":41.514545,
+    "geom:longitude":-71.282791,
+    "iso:country":"US",
+    "sg:address":"1 Trimble Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 5606",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cn8KdNJLiFCVgFbiBtoA8_41.514545_-71.282791@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311643,
+    "wof:geomhash":"9945e12c3593825c72613042154b704a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874088261
+        }
+    ],
+    "wof:id":874088261,
+    "wof:lastmodified":1464311643,
+    "wof:name":"Enterprise Auto Body Shop",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile",
+        "paint"
+    ]
+},
+  "bbox": [
+    -71.282791,
+    41.514545,
+    -71.282791,
+    41.514545
+],
+  "geometry": {"coordinates":[-71.282791,41.514545],"type":"Point"}
+}

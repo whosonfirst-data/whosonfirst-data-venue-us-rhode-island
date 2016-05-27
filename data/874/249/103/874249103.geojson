@@ -1,0 +1,75 @@
+{
+  "id": 874249103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446226,41.807216,-71.446226,41.807216",
+    "geom:latitude":41.807216,
+    "geom:longitude":-71.446226,
+    "iso:country":"US",
+    "sg:address":"306 Union Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 0450",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KqNEuFDXQOudK4PvLNZbY_41.807216_-71.446226@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313533,
+    "wof:geomhash":"8b677253560b8363696ab3ef504f3ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874249103
+        }
+    ],
+    "wof:id":874249103,
+    "wof:lastmodified":1464313533,
+    "wof:name":"Union Avenue Pub",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.446226,
+    41.807216,
+    -71.446226,
+    41.807216
+],
+  "geometry": {"coordinates":[-71.446226,41.807216],"type":"Point"}
+}

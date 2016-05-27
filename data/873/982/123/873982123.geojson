@@ -1,0 +1,82 @@
+{
+  "id": 873982123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405614,41.904704,-71.405614,41.904704",
+    "geom:latitude":41.904704,
+    "geom:longitude":-71.405614,
+    "iso:country":"US",
+    "sg:address":"25 Lower Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8471",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "forming",
+        "design",
+        "industrial",
+        "metal",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gnmqES9MdZ8pJ0jGreWo7_41.904704_-71.405614@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310621,
+    "wof:geomhash":"65adc651b60fe205de2bb4053c07615c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":873982123
+        }
+    ],
+    "wof:id":873982123,
+    "wof:lastmodified":1464310621,
+    "wof:name":"Metal Machinery Specialty Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forming",
+        "design",
+        "industrial",
+        "metal",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -71.405614,
+    41.904704,
+    -71.405614,
+    41.904704
+],
+  "geometry": {"coordinates":[-71.405614,41.904704],"type":"Point"}
+}

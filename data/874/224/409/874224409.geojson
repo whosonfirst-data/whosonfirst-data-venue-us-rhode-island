@@ -1,0 +1,77 @@
+{
+  "id": 874224409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464094,41.785423,-71.464094,41.785423",
+    "geom:latitude":41.785423,
+    "geom:longitude":-71.464094,
+    "iso:country":"US",
+    "sg:address":"1650 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 6484",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "transmission",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4S77Vs6pejkXhlb1NFSAGV_41.785423_-71.464094@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313106,
+    "wof:geomhash":"9b7361b5286c2cf25e76fdd5de8f31a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874224409
+        }
+    ],
+    "wof:id":874224409,
+    "wof:lastmodified":1464313106,
+    "wof:name":"J & J Transmissions",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.464094,
+    41.785423,
+    -71.464094,
+    41.785423
+],
+  "geometry": {"coordinates":[-71.464094,41.785423],"type":"Point"}
+}

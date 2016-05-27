@@ -1,0 +1,80 @@
+{
+  "id": 874274917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43092,41.938863,-71.43092,41.938863",
+    "geom:latitude":41.938863,
+    "geom:longitude":-71.43092,
+    "iso:country":"US",
+    "sg:address":"95 Scott Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 8060",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "programming",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J9ghRj03AVrWf3XxGBk6u_41.938863_-71.430920@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314400,
+    "wof:geomhash":"3ed29ab55e3b2185a983972d48aee1c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874274917
+        }
+    ],
+    "wof:id":874274917,
+    "wof:lastmodified":1464314400,
+    "wof:name":"Global Voice Connection System",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "programming",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.43092,
+    41.938863,
+    -71.43092,
+    41.938863
+],
+  "geometry": {"coordinates":[-71.43092,41.938863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874291479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442029,41.953139,-71.442029,41.953139",
+    "geom:latitude":41.953139,
+    "geom:longitude":-71.442029,
+    "iso:country":"US",
+    "sg:address":"2170 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3500",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f7dkH7LNeAtSdrn4uGwpz_41.953139_-71.442029@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315069,
+    "wof:geomhash":"8ffeac5060f46a85a8f23d94e141cd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291479
+        }
+    ],
+    "wof:id":874291479,
+    "wof:lastmodified":1464315069,
+    "wof:name":"Douglas Wine and Spirit",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.442029,
+    41.953139,
+    -71.442029,
+    41.953139
+],
+  "geometry": {"coordinates":[-71.44202900000001,41.953139],"type":"Point"}
+}

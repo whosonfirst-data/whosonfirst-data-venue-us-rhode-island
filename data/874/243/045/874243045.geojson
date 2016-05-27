@@ -1,0 +1,79 @@
+{
+  "id": 874243045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42357,41.777293,-71.42357,41.777293",
+    "geom:latitude":41.777293,
+    "geom:longitude":-71.42357,
+    "iso:country":"US",
+    "sg:address":"80 Hathaway St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 1665",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NEs1OMR6DbP1fOiGBv5ft_41.777293_-71.423570@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313395,
+    "wof:geomhash":"8eade47141494d11f5752945006c6194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874243045
+        }
+    ],
+    "wof:id":874243045,
+    "wof:lastmodified":1464313395,
+    "wof:name":"Fielding Electric",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.42357,
+    41.777293,
+    -71.42357,
+    41.777293
+],
+  "geometry": {"coordinates":[-71.42357,41.777293],"type":"Point"}
+}

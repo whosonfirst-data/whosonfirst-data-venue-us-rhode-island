@@ -1,0 +1,69 @@
+{
+  "id": 874003417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27767,41.671764,-71.27767,41.671764",
+    "geom:latitude":41.671764,
+    "geom:longitude":-71.27767,
+    "iso:country":"US",
+    "sg:address":"36 Bradford St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 9636",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OU6LLeiJieoONaHeI53iW_41.671764_-71.277670@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310797,
+    "wof:geomhash":"b1ba9b692484c0b7b96c98ae7f7ca23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874003417
+        }
+    ],
+    "wof:id":874003417,
+    "wof:lastmodified":1464310797,
+    "wof:name":"Michael J Allen DDS",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.27767,
+    41.671764,
+    -71.27767,
+    41.671764
+],
+  "geometry": {"coordinates":[-71.27767,41.671764],"type":"Point"}
+}

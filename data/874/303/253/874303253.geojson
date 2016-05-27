@@ -1,0 +1,69 @@
+{
+  "id": 874303253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490303,41.866199,-71.490303,41.866199",
+    "geom:latitude":41.866199,
+    "geom:longitude":-71.490303,
+    "iso:country":"US",
+    "sg:address":"170 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2200",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TjHXSPfGY1pxlp2wezLeJ_41.866199_-71.490303@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315504,
+    "wof:geomhash":"63ab3ea7b6ed320505838ff3d7295900",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303253
+        }
+    ],
+    "wof:id":874303253,
+    "wof:lastmodified":1464315504,
+    "wof:name":"White Hall Apartments",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.490303,
+    41.866199,
+    -71.490303,
+    41.866199
+],
+  "geometry": {"coordinates":[-71.490303,41.866199],"type":"Point"}
+}

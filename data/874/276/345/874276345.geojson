@@ -1,0 +1,69 @@
+{
+  "id": 874276345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.790525,41.377409,-71.790525,41.377409",
+    "geom:latitude":41.377409,
+    "geom:longitude":-71.790525,
+    "iso:country":"US",
+    "sg:address":"4 Lakeside Dr",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 9851",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sonqzf3QivY2lSy3tDPgW_41.377409_-71.790525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314471,
+    "wof:geomhash":"1fa4bcca586d05121ab5b3af9cd0c5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874276345
+        }
+    ],
+    "wof:id":874276345,
+    "wof:lastmodified":1464314471,
+    "wof:name":"Rohdin Buillding & Design",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.790525,
+    41.377409,
+    -71.790525,
+    41.377409
+],
+  "geometry": {"coordinates":[-71.790525,41.377409],"type":"Point"}
+}

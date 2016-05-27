@@ -1,0 +1,79 @@
+{
+  "id": 874186671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46788,41.731442,-71.46788,41.731442",
+    "geom:latitude":41.731442,
+    "geom:longitude":-71.46788,
+    "iso:country":"US",
+    "sg:address":"39 North St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 8728",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "exhaust",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lJyC3VfPGxUwKyDvUMx3C_41.731442_-71.467880@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312706,
+    "wof:geomhash":"0aa34398daa1c2a073060cf16189e2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874186671
+        }
+    ],
+    "wof:id":874186671,
+    "wof:lastmodified":1464312706,
+    "wof:name":"Grease Busters Exhaust CL",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "exhaust",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.46788,
+    41.731442,
+    -71.46788,
+    41.731442
+],
+  "geometry": {"coordinates":[-71.46787999999999,41.731442],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874062087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460539,41.577342,-71.460539,41.577342",
+    "geom:latitude":41.577342,
+    "geom:longitude":-71.460539,
+    "iso:country":"US",
+    "sg:address":"8205 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 1982",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tN6S7fXZd02slRClSjFkl_41.577342_-71.460539@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311354,
+    "wof:geomhash":"fb6bea97ac681d9c808038daee72171c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874062087
+        }
+    ],
+    "wof:id":874062087,
+    "wof:lastmodified":1464311354,
+    "wof:name":"Edge Realty Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.460539,
+    41.577342,
+    -71.460539,
+    41.577342
+],
+  "geometry": {"coordinates":[-71.460539,41.577342],"type":"Point"}
+}

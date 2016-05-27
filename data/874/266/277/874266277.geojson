@@ -1,0 +1,73 @@
+{
+  "id": 874266277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473526,41.828213,-71.473526,41.828213",
+    "geom:latitude":41.828213,
+    "geom:longitude":-71.473526,
+    "iso:country":"US",
+    "sg:address":"50 King St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 0339",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UpqtqrcueAi9y14Z9FK8d_41.828213_-71.473526@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314080,
+    "wof:geomhash":"52863954ef49153723cdb7cffb0b8759",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874266277
+        }
+    ],
+    "wof:id":874266277,
+    "wof:lastmodified":1464314080,
+    "wof:name":"Ultimate Shine Car Detailing",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.473526,
+    41.828213,
+    -71.473526,
+    41.828213
+],
+  "geometry": {"coordinates":[-71.47352600000001,41.828213],"type":"Point"}
+}

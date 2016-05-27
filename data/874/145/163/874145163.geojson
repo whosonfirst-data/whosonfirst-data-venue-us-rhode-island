@@ -1,0 +1,75 @@
+{
+  "id": 874145163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558357,41.654366,-71.558357,41.654366",
+    "geom:latitude":41.654366,
+    "geom:longitude":-71.558357,
+    "iso:country":"US",
+    "sg:address":"5 Division Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 7759",
+    "sg:postcode":"02817",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "jobbing",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KtWsFncirTfQouVuVOtd8_41.654366_-71.558357@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312281,
+    "wof:geomhash":"660e98b69120faa6172e237057454136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874145163
+        }
+    ],
+    "wof:id":874145163,
+    "wof:lastmodified":1464312281,
+    "wof:name":"Advanced Precision Products",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "jobbing",
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.558357,
+    41.654366,
+    -71.558357,
+    41.654366
+],
+  "geometry": {"coordinates":[-71.558357,41.654366],"type":"Point"}
+}

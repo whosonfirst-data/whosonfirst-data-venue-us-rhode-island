@@ -1,0 +1,77 @@
+{
+  "id": 873998823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463898,41.729888,-71.463898,41.729888",
+    "geom:latitude":41.729888,
+    "geom:longitude":-71.463898,
+    "iso:country":"US",
+    "sg:address":"25 Stafford St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2452",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CaJCofSaoS3TRet9F079m_41.729888_-71.463898@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310752,
+    "wof:geomhash":"5264b6aede7c1dafb06fd1dcccf6d8ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":873998823
+        }
+    ],
+    "wof:id":873998823,
+    "wof:lastmodified":1464310752,
+    "wof:name":"West Bay Electric Inc",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.463898,
+    41.729888,
+    -71.463898,
+    41.729888
+],
+  "geometry": {"coordinates":[-71.463898,41.729888],"type":"Point"}
+}

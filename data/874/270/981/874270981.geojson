@@ -1,0 +1,86 @@
+{
+  "id": 874270981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409208,41.794879,-71.409208,41.794879",
+    "geom:latitude":41.794879,
+    "geom:longitude":-71.409208,
+    "iso:country":"US",
+    "sg:address":"153 Byfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 9072",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "candle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eO1RYN5J3jR1nYuEUVplC_41.794879_-71.409208@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314258,
+    "wof:geomhash":"bb4f8cda6a64482c3c71166fd60bc33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874270981
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874270981
+        }
+    ],
+    "wof:id":874270981,
+    "wof:lastmodified":1464314258,
+    "wof:name":"Red Moon Candle Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle"
+    ]
+},
+  "bbox": [
+    -71.409208,
+    41.794879,
+    -71.409208,
+    41.794879
+],
+  "geometry": {"coordinates":[-71.40920800000001,41.794879],"type":"Point"}
+}

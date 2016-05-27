@@ -1,0 +1,70 @@
+{
+  "id": 874299405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44888,41.864731,-71.44888,41.864731",
+    "geom:latitude":41.864731,
+    "geom:longitude":-71.44888,
+    "iso:country":"US",
+    "sg:address":"1601 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 6868",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "chinese"
+    ],
+    "sg:website":"www.kenwok.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XQQlNjijB8RDEtO8u7v92_41.864731_-71.448880@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315367,
+    "wof:geomhash":"9e831ca369a98bb60ed856e52e5bc343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299405
+        }
+    ],
+    "wof:id":874299405,
+    "wof:lastmodified":1464315367,
+    "wof:name":"Ken Wok",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.44888,
+    41.864731,
+    -71.44888,
+    41.864731
+],
+  "geometry": {"coordinates":[-71.44888,41.864731],"type":"Point"}
+}

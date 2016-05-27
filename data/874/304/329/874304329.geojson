@@ -1,0 +1,69 @@
+{
+  "id": 874304329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483498,41.918598,-71.483498,41.918598",
+    "geom:latitude":41.918598,
+    "geom:longitude":-71.483498,
+    "iso:country":"US",
+    "sg:address":"380 Jenckes Hill Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 8503",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6npy5IGIDrBaeDKstHJnbZ_41.918598_-71.483498@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315541,
+    "wof:geomhash":"1b44f257bdf93a2788dcffd703534e2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874304329
+        }
+    ],
+    "wof:id":874304329,
+    "wof:lastmodified":1464315541,
+    "wof:name":"Hawthorne Aviation",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.483498,
+    41.918598,
+    -71.483498,
+    41.918598
+],
+  "geometry": {"coordinates":[-71.483498,41.918598],"type":"Point"}
+}

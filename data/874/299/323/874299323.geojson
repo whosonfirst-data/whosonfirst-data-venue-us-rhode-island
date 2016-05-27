@@ -1,0 +1,69 @@
+{
+  "id": 874299323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458801,41.862202,-71.458801,41.862202",
+    "geom:latitude":41.862202,
+    "geom:longitude":-71.458801,
+    "iso:country":"US",
+    "sg:address":"1804 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1292",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lH4Q40osCawijfW6xZSCM_41.862202_-71.458801@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315365,
+    "wof:geomhash":"1c10c0a978ba016894422a7f861d825b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299323
+        }
+    ],
+    "wof:id":874299323,
+    "wof:lastmodified":1464315365,
+    "wof:name":"Barone Nicholas D Orthdont",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -71.458801,
+    41.862202,
+    -71.458801,
+    41.862202
+],
+  "geometry": {"coordinates":[-71.45880099999999,41.862202],"type":"Point"}
+}

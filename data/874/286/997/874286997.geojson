@@ -1,0 +1,73 @@
+{
+  "id": 874286997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280232,41.730171,-71.280232,41.730171",
+    "geom:latitude":41.730171,
+    "geom:longitude":-71.280232,
+    "iso:country":"US",
+    "sg:address":"65 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warren/224858-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7exL8ul70NcFJNcDnRThRn_41.730171_-71.280232@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"a5d62afd9469cc5b2b768e88864adb47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874286997
+        }
+    ],
+    "wof:id":874286997,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.280232,
+    41.730171,
+    -71.280232,
+    41.730171
+],
+  "geometry": {"coordinates":[-71.280232,41.730171],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874288479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278503,41.692777,-71.278503,41.692777",
+    "geom:latitude":41.692777,
+    "geom:longitude":-71.278503,
+    "iso:country":"US",
+    "sg:address":"10 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3067",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V4LoggEhjOi3bECQaidk3_41.692777_-71.278503@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314958,
+    "wof:geomhash":"96ed3e09e3cf2ec8ded36fd536fa7564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288479
+        }
+    ],
+    "wof:id":874288479,
+    "wof:lastmodified":1464314958,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.278503,
+    41.692777,
+    -71.278503,
+    41.692777
+],
+  "geometry": {"coordinates":[-71.278503,41.692777],"type":"Point"}
+}

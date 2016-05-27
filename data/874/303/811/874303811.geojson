@@ -1,0 +1,75 @@
+{
+  "id": 874303811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.354378,41.824431,-71.354378,41.824431",
+    "geom:latitude":41.824431,
+    "geom:longitude":-71.354378,
+    "iso:country":"US",
+    "sg:address":"10 Office Pkwy",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 5151",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809611,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Svggj77CXfEg2G9jXjpas_41.824431_-71.354378@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315522,
+    "wof:geomhash":"cd30466fb42b2912f7143962383243ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85809611,
+            "region_id":85688509,
+            "venue_id":874303811
+        }
+    ],
+    "wof:id":874303811,
+    "wof:lastmodified":1464315522,
+    "wof:name":"Parkway Towers",
+    "wof:parent_id":85809611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.354378,
+    41.824431,
+    -71.354378,
+    41.824431
+],
+  "geometry": {"coordinates":[-71.354378,41.824431],"type":"Point"}
+}

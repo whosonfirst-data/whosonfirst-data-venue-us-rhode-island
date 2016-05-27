@@ -1,0 +1,76 @@
+{
+  "id": 874287897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436109,41.753377,-71.436109,41.753377",
+    "geom:latitude":41.753377,
+    "geom:longitude":-71.436109,
+    "iso:country":"US",
+    "sg:address":"24 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/219126-bickfords-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 9660",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bs5XtyqfkoJDcAnscmRw0_41.753843_-71.436422@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314932,
+    "wof:geomhash":"709ffe6081bb48e8c2f91e669aeb62ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874287897
+        }
+    ],
+    "wof:id":874287897,
+    "wof:lastmodified":1464314932,
+    "wof:name":"Bickford's Family Restaurant",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.436109,
+    41.753377,
+    -71.436109,
+    41.753377
+],
+  "geometry": {"coordinates":[-71.436109,41.753377],"type":"Point"}
+}

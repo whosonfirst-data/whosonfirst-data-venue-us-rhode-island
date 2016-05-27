@@ -1,0 +1,71 @@
+{
+  "id": 873981617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299362,41.530724,-71.299362,41.530724",
+    "geom:latitude":41.530724,
+    "geom:longitude":-71.299362,
+    "iso:country":"US",
+    "sg:address":"70 Corporate Pl",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 1888",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bIIQauhC5oy1fyGsNDg4Y_41.530724_-71.299362@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310613,
+    "wof:geomhash":"f0a293a866cea68ab3f454b29fe2f1f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":873981617
+        }
+    ],
+    "wof:id":873981617,
+    "wof:lastmodified":1464310613,
+    "wof:name":"Growing Children Rhode Island",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.299362,
+    41.530724,
+    -71.299362,
+    41.530724
+],
+  "geometry": {"coordinates":[-71.299362,41.530724],"type":"Point"}
+}

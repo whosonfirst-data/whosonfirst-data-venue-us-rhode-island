@@ -1,0 +1,80 @@
+{
+  "id": 874034671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514817,41.456142,-71.514817,41.456142",
+    "geom:latitude":41.456142,
+    "geom:longitude":-71.514817,
+    "iso:country":"US",
+    "sg:address":"132 Asa Pond Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5515",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85845577,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IkRWyCrowFtOxV4R9ha9g_41.456142_-71.514817@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311091,
+    "wof:geomhash":"ed031c9e1a0285aa2b9045569f93dc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874034671
+        }
+    ],
+    "wof:id":874034671,
+    "wof:lastmodified":1464311091,
+    "wof:name":"South Kingstown Dog Pound",
+    "wof:parent_id":85845577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.514817,
+    41.456142,
+    -71.514817,
+    41.456142
+],
+  "geometry": {"coordinates":[-71.51481699999999,41.456142],"type":"Point"}
+}

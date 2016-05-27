@@ -1,0 +1,75 @@
+{
+  "id": 874287775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501965,41.58617,-71.501965,41.58617",
+    "geom:latitude":41.58617,
+    "geom:longitude":-71.501965,
+    "iso:country":"US",
+    "sg:address":"4120 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-kingstown/245100-greggs-restaurant--pubs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 5700",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6afSmcYHIJ16MGikRo9ene_41.586291_-71.502049@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314927,
+    "wof:geomhash":"8a66dc2f17d940cea24b95728daf82ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874287775
+        }
+    ],
+    "wof:id":874287775,
+    "wof:lastmodified":1464314927,
+    "wof:name":"Gregg's Restaurant & Pubs",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.501965,
+    41.58617,
+    -71.501965,
+    41.58617
+],
+  "geometry": {"coordinates":[-71.501965,41.58617],"type":"Point"}
+}

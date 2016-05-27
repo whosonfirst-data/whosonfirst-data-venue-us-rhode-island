@@ -1,0 +1,71 @@
+{
+  "id": 874264237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495,41.905795,-71.495,41.905795",
+    "geom:latitude":41.905795,
+    "geom:longitude":-71.495,
+    "iso:country":"US",
+    "sg:address":"3 Karen Ann Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9094",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KvwgSBi7CsxeHSYSFZXKc_41.905795_-71.495000@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313999,
+    "wof:geomhash":"94cd05a3e72adb2a4b97dc8a9c13eca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874264237
+        }
+    ],
+    "wof:id":874264237,
+    "wof:lastmodified":1464313999,
+    "wof:name":"Orlando Electric Corp",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.495,
+    41.905795,
+    -71.495,
+    41.905795
+],
+  "geometry": {"coordinates":[-71.495,41.905795],"type":"Point"}
+}

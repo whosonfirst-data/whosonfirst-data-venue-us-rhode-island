@@ -1,0 +1,85 @@
+{
+  "id": 874106945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482471,41.480756,-71.482471,41.480756",
+    "geom:latitude":41.480756,
+    "geom:longitude":-71.482471,
+    "iso:country":"US",
+    "sg:address":"1470 Broad Rock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 8792",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85845577,
+        102191575,
+        404488343,
+        101720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zVQeYfOzPvEPAgbh7GYPu_41.480756_-71.482471@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311882,
+    "wof:geomhash":"57d4ee2fa21cd81f2a73abff6ceaef74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874106945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874106945
+        }
+    ],
+    "wof:id":874106945,
+    "wof:lastmodified":1464311882,
+    "wof:name":"Elisha W Doolittle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.482471,
+    41.480756,
+    -71.482471,
+    41.480756
+],
+  "geometry": {"coordinates":[-71.482471,41.480756],"type":"Point"}
+}

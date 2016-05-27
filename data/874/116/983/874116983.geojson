@@ -1,0 +1,71 @@
+{
+  "id": 874116983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.58918,41.675239,-71.58918,41.675239",
+    "geom:latitude":41.675239,
+    "geom:longitude":-71.58918,
+    "iso:country":"US",
+    "sg:address":"1 Viero Ln",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 4560",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2esmEcppqy8gHIPya2PspX_41.675239_-71.589180@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312006,
+    "wof:geomhash":"f531bbd3975cb9b9467b14e7dd25be00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874116983
+        }
+    ],
+    "wof:id":874116983,
+    "wof:lastmodified":1464312006,
+    "wof:name":"Evergreen Estates",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.58918,
+    41.675239,
+    -71.58918,
+    41.675239
+],
+  "geometry": {"coordinates":[-71.58918,41.675239],"type":"Point"}
+}

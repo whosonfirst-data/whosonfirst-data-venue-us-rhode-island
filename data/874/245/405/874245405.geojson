@@ -1,0 +1,73 @@
+{
+  "id": 874245405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679885,41.888737,-71.679885,41.888737",
+    "geom:latitude":41.888737,
+    "geom:longitude":-71.679885,
+    "iso:country":"US",
+    "sg:address":"48 Angel Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3369",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855139,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dkz4KVMxRnu71x03QoWzM_41.888737_-71.679885@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313442,
+    "wof:geomhash":"b5ea668e6f95e727f6a6b677adf4e5ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85855139,
+            "region_id":85688509,
+            "venue_id":874245405
+        }
+    ],
+    "wof:id":874245405,
+    "wof:lastmodified":1464313442,
+    "wof:name":"Hawkes Plumbing & Heating Co",
+    "wof:parent_id":85855139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.679885,
+    41.888737,
+    -71.679885,
+    41.888737
+],
+  "geometry": {"coordinates":[-71.679885,41.888737],"type":"Point"}
+}

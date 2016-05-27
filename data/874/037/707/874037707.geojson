@@ -1,0 +1,69 @@
+{
+  "id": 874037707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280318,41.705089,-71.280318,41.705089",
+    "geom:latitude":41.705089,
+    "geom:longitude":-71.280318,
+    "iso:country":"US",
+    "sg:address":"4 Dolly Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 2333",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BrWAx40wRKjI8yXqpUoH5_41.705089_-71.280318@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311123,
+    "wof:geomhash":"f02a098d941eb38cd566c5dab6c8733f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874037707
+        }
+    ],
+    "wof:id":874037707,
+    "wof:lastmodified":1464311123,
+    "wof:name":"Greg Doyle Canteen Ltd",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.280318,
+    41.705089,
+    -71.280318,
+    41.705089
+],
+  "geometry": {"coordinates":[-71.28031799999999,41.705089],"type":"Point"}
+}

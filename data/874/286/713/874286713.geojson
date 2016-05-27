@@ -1,0 +1,74 @@
+{
+  "id": 874286713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.552591,41.527768,-71.552591,41.527768",
+    "geom:latitude":41.527768,
+    "geom:longitude":-71.552591,
+    "iso:country":"US",
+    "sg:address":"567 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/exeter/139888-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7994",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16JcumxurheRNQTQGnudMR_41.527768_-71.552591@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314880,
+    "wof:geomhash":"7467bed3b8da84eae73d084643d929eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874286713
+        }
+    ],
+    "wof:id":874286713,
+    "wof:lastmodified":1464314880,
+    "wof:name":"Subway",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.552591,
+    41.527768,
+    -71.552591,
+    41.527768
+],
+  "geometry": {"coordinates":[-71.55259100000001,41.527768],"type":"Point"}
+}

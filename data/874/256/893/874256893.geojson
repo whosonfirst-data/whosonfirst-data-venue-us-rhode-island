@@ -1,0 +1,75 @@
+{
+  "id": 874256893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508123,41.8688,-71.508123,41.8688",
+    "geom:latitude":41.8688,
+    "geom:longitude":-71.508123,
+    "iso:country":"US",
+    "sg:address":"275 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 7590",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vx3A2Xc6hjhV7YVKuPSgf_41.868800_-71.508123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313717,
+    "wof:geomhash":"6199cb5c90c7203561df59a92257b183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874256893
+        }
+    ],
+    "wof:id":874256893,
+    "wof:lastmodified":1464313717,
+    "wof:name":"X Citement Video",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.508123,
+    41.8688,
+    -71.508123,
+    41.8688
+],
+  "geometry": {"coordinates":[-71.508123,41.8688],"type":"Point"}
+}

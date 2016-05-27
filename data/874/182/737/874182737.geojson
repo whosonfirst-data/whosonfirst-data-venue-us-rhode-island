@@ -1,0 +1,69 @@
+{
+  "id": 874182737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477732,41.388969,-71.477732,41.388969",
+    "geom:latitude":41.388969,
+    "geom:longitude":-71.477732,
+    "iso:country":"US",
+    "sg:address":"19 Saint James Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 3200",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZEi3GAoa6mvaKCm5ORT7f_41.388969_-71.477732@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312657,
+    "wof:geomhash":"631aa6f0f9566420a8752216d0c13daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874182737
+        }
+    ],
+    "wof:id":874182737,
+    "wof:lastmodified":1464312657,
+    "wof:name":"Thomas McCauley",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.477732,
+    41.388969,
+    -71.477732,
+    41.388969
+],
+  "geometry": {"coordinates":[-71.477732,41.388969],"type":"Point"}
+}

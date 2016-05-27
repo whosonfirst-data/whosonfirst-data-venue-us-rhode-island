@@ -1,0 +1,69 @@
+{
+  "id": 874121891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615043,41.97924,-71.615043,41.97924",
+    "geom:latitude":41.97924,
+    "geom:longitude":-71.615043,
+    "iso:country":"US",
+    "sg:address":"669 Douglas Tpke",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 0994",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nwrpTgwG5bInuKBW9bcqq_41.979240_-71.615043@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312058,
+    "wof:geomhash":"26a0e91c02dc111272f7f4aca0bd2fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874121891
+        }
+    ],
+    "wof:id":874121891,
+    "wof:lastmodified":1464312058,
+    "wof:name":"G L Lapierre & Co",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -71.615043,
+    41.97924,
+    -71.615043,
+    41.97924
+],
+  "geometry": {"coordinates":[-71.615043,41.97924],"type":"Point"}
+}

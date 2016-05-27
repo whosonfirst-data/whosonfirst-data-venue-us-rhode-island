@@ -1,0 +1,73 @@
+{
+  "id": 874273531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459924,41.81849,-71.459924,41.81849",
+    "geom:latitude":41.81849,
+    "geom:longitude":-71.459924,
+    "iso:country":"US",
+    "sg:address":"129 Alverson Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 6889",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yF1LSGSHnUZuuSJGBFosu_41.818490_-71.459924@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314346,
+    "wof:geomhash":"a44e9dfed03918bbf3fd1f1b862b953a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874273531
+        }
+    ],
+    "wof:id":874273531,
+    "wof:lastmodified":1464314346,
+    "wof:name":"Mr Fire Alarm",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.459924,
+    41.81849,
+    -71.459924,
+    41.81849
+],
+  "geometry": {"coordinates":[-71.459924,41.81849],"type":"Point"}
+}

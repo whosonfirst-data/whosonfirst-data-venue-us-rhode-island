@@ -1,0 +1,69 @@
+{
+  "id": 874023607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398405,41.890936,-71.398405,41.890936",
+    "geom:latitude":41.890936,
+    "geom:longitude":-71.398405,
+    "iso:country":"US",
+    "sg:address":"534 Hunt St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 1570",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lOTwJypvmxfExoGUhzPN7_41.890936_-71.398405@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"4186487b66afccb166dc3c2897c4c48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874023607
+        }
+    ],
+    "wof:id":874023607,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Hunt Street Pub",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.398405,
+    41.890936,
+    -71.398405,
+    41.890936
+],
+  "geometry": {"coordinates":[-71.398405,41.890936],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874268353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40805,41.904633,-71.40805,41.904633",
+    "geom:latitude":41.904633,
+    "geom:longitude":-71.40805,
+    "iso:country":"US",
+    "sg:address":"204 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 1234",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NGYccA6rYE75rlxZE4jDz_41.904633_-71.408050@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314162,
+    "wof:geomhash":"87a44f855167c9b5a1d4b70c742099e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874268353
+        }
+    ],
+    "wof:id":874268353,
+    "wof:lastmodified":1464314162,
+    "wof:name":"Travel Advisors International",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -71.40805,
+    41.904633,
+    -71.40805,
+    41.904633
+],
+  "geometry": {"coordinates":[-71.40805,41.904633],"type":"Point"}
+}

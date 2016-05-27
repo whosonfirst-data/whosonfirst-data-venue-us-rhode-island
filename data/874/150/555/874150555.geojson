@@ -1,0 +1,73 @@
+{
+  "id": 874150555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506628,42.026828,-71.506628,42.026828",
+    "geom:latitude":42.026828,
+    "geom:longitude":-71.506628,
+    "iso:country":"US",
+    "sg:address":"86 Edgewater Dr",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 876 9600",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NCv59raDGDzQpOCliufAB_42.026828_-71.506628@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312333,
+    "wof:geomhash":"0a22edab2ea62a523c3fe74fd96923ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874150555
+        }
+    ],
+    "wof:id":874150555,
+    "wof:lastmodified":1464312333,
+    "wof:name":"ASAP Medical Supply",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.506628,
+    42.026828,
+    -71.506628,
+    42.026828
+],
+  "geometry": {"coordinates":[-71.50662800000001,42.026828],"type":"Point"}
+}

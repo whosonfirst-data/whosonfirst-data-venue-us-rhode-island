@@ -1,0 +1,73 @@
+{
+  "id": 874266693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470296,41.834236,-71.470296,41.834236",
+    "geom:latitude":41.834236,
+    "geom:longitude":-71.470296,
+    "iso:country":"US",
+    "sg:address":"25 Devereux Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 0039",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ry3a3qhStGqBxdAt30ZQ4_41.834236_-71.470296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314095,
+    "wof:geomhash":"751528c16e1174870b91ff99bbb3d2b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874266693
+        }
+    ],
+    "wof:id":874266693,
+    "wof:lastmodified":1464314095,
+    "wof:name":"Focus Title",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "title"
+    ]
+},
+  "bbox": [
+    -71.470296,
+    41.834236,
+    -71.470296,
+    41.834236
+],
+  "geometry": {"coordinates":[-71.470296,41.834236],"type":"Point"}
+}

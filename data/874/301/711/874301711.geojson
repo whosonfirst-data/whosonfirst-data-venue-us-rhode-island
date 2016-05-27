@@ -1,0 +1,81 @@
+{
+  "id": 874301711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424683,41.83202,-71.424683,41.83202",
+    "geom:latitude":41.83202,
+    "geom:longitude":-71.424683,
+    "iso:country":"US",
+    "sg:address":"65 Bath St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 8380",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment"
+    ],
+    "sg:website":"http://www.nortonsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cEUsIdhy09Mcd2Mj8nPmc_41.832020_-71.424683@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315454,
+    "wof:geomhash":"5172af1743ab4427bf1f2ff28d0fadcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874301711
+        }
+    ],
+    "wof:id":874301711,
+    "wof:lastmodified":1464315454,
+    "wof:name":"Norton Supply Company, Inc.",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -71.424683,
+    41.83202,
+    -71.424683,
+    41.83202
+],
+  "geometry": {"coordinates":[-71.424683,41.83202],"type":"Point"}
+}

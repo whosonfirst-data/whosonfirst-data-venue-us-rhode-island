@@ -1,0 +1,70 @@
+{
+  "id": 874287679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275807,41.668469,-71.275807,41.668469",
+    "geom:latitude":41.668469,
+    "geom:longitude":-71.275807,
+    "iso:country":"US",
+    "sg:address":"365 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/bristol/12055-leos-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 9300",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FFrLu0xg1yM6aVqdLgM87_41.668147_-71.275688@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314919,
+    "wof:geomhash":"42c211f48f6a9b40890db181a6404dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874287679
+        }
+    ],
+    "wof:id":874287679,
+    "wof:lastmodified":1464314919,
+    "wof:name":"Leo's Ristorante",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.275807,
+    41.668469,
+    -71.275807,
+    41.668469
+],
+  "geometry": {"coordinates":[-71.275807,41.668469],"type":"Point"}
+}

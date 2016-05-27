@@ -1,0 +1,71 @@
+{
+  "id": 874264063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450546,41.864054,-71.450546,41.864054",
+    "geom:latitude":41.864054,
+    "geom:longitude":-71.450546,
+    "iso:country":"US",
+    "sg:address":"1669 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3577",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oUxDF3zmR289UuBlH06xf_41.864054_-71.450546@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313993,
+    "wof:geomhash":"733fb18bec9f67fb09abe00d4bb0b9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874264063
+        }
+    ],
+    "wof:id":874264063,
+    "wof:lastmodified":1464313993,
+    "wof:name":"Dexter Cleaners",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.450546,
+    41.864054,
+    -71.450546,
+    41.864054
+],
+  "geometry": {"coordinates":[-71.450546,41.864054],"type":"Point"}
+}

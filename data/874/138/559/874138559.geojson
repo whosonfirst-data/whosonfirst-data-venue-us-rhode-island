@@ -1,0 +1,71 @@
+{
+  "id": 874138559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492679,41.376927,-71.492679,41.376927",
+    "geom:latitude":41.376927,
+    "geom:longitude":-71.492679,
+    "iso:country":"US",
+    "sg:address":"63 Saltaire Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3702",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70cbxzZGd40sW3qHdyVzIc_41.376927_-71.492679@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312223,
+    "wof:geomhash":"ff5c48aa4f3b737e5fd3e09258ed9043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874138559
+        }
+    ],
+    "wof:id":874138559,
+    "wof:lastmodified":1464312223,
+    "wof:name":"Lowden Properties",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.492679,
+    41.376927,
+    -71.492679,
+    41.376927
+],
+  "geometry": {"coordinates":[-71.492679,41.376927],"type":"Point"}
+}

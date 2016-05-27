@@ -1,0 +1,88 @@
+{
+  "id": 874271371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496418,41.698889,-71.496418,41.698889",
+    "geom:latitude":41.698889,
+    "geom:longitude":-71.496418,
+    "iso:country":"US",
+    "sg:address":"1316 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 6600",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W8d96I8PXvtV7VibS1Wx6_41.698889_-71.496418@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314270,
+    "wof:geomhash":"cbe031c23757ae890e84e982c37b3cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874271371
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874271371
+        }
+    ],
+    "wof:id":874271371,
+    "wof:lastmodified":1464314270,
+    "wof:name":"Land Rover Warwick",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.496418,
+    41.698889,
+    -71.496418,
+    41.698889
+],
+  "geometry": {"coordinates":[-71.49641800000001,41.698889],"type":"Point"}
+}

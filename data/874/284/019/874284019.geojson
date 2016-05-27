@@ -1,0 +1,75 @@
+{
+  "id": 874284019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447403,41.813999,-71.447403,41.813999",
+    "geom:latitude":41.813999,
+    "geom:longitude":-71.447403,
+    "iso:country":"US",
+    "sg:address":"271 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 4400",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BgYJe1Mcc54w3kEXofGmi_41.813763_-71.447978@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314774,
+    "wof:geomhash":"2665839e1338699db54358d3f2deb867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874284019
+        }
+    ],
+    "wof:id":874284019,
+    "wof:lastmodified":1464314774,
+    "wof:name":"Restaurant Shopping 2",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.447403,
+    41.813999,
+    -71.447403,
+    41.813999
+],
+  "geometry": {"coordinates":[-71.44740299999999,41.813999],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874186125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403046,41.806641,-71.403046,41.806641",
+    "geom:latitude":41.806641,
+    "geom:longitude":-71.403046,
+    "iso:country":"US",
+    "sg:address":"255 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1324",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q6NVz5wDckNGwIwGqUtMd_41.806641_-71.403046@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312701,
+    "wof:geomhash":"e2532f607d0a1350f97896c7625d0fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874186125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874186125
+        }
+    ],
+    "wof:id":874186125,
+    "wof:lastmodified":1464312701,
+    "wof:name":"Adult Video & News",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.403046,
+    41.806641,
+    -71.403046,
+    41.806641
+],
+  "geometry": {"coordinates":[-71.403046,41.806641],"type":"Point"}
+}

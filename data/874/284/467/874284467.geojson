@@ -1,0 +1,80 @@
+{
+  "id": 874284467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.388603,41.8274,-71.388603,41.8274",
+    "geom:latitude":41.8274,
+    "geom:longitude":-71.388603,
+    "iso:country":"US",
+    "sg:address":"150 E Manning St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 2020",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "physician"
+    ],
+    "sg:website":"www.rieyeinstitute.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43m2S7utK8Ow3J9AGlwfV9_41.827469_-71.388130@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314790,
+    "wof:geomhash":"f68065ed677d70c4c24ef4128f021863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874284467
+        }
+    ],
+    "wof:id":874284467,
+    "wof:lastmodified":1464314790,
+    "wof:name":"Ophthalmology Inc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "physician"
+    ]
+},
+  "bbox": [
+    -71.388603,
+    41.8274,
+    -71.388603,
+    41.8274
+],
+  "geometry": {"coordinates":[-71.388603,41.8274],"type":"Point"}
+}

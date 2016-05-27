@@ -1,0 +1,71 @@
+{
+  "id": 874179025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512597,42.020133,-71.512597,42.020133",
+    "geom:latitude":42.020133,
+    "geom:longitude":-71.512597,
+    "iso:country":"US",
+    "sg:address":"37 Farm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u40IPK6DIN55Ic3AFwd1l_42.020133_-71.512597@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312620,
+    "wof:geomhash":"ffbd3390b781f7bb838d305aa8c87523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874179025
+        }
+    ],
+    "wof:id":874179025,
+    "wof:lastmodified":1464312620,
+    "wof:name":"Edward Plasse Constructn",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.512597,
+    42.020133,
+    -71.512597,
+    42.020133
+],
+  "geometry": {"coordinates":[-71.512597,42.020133],"type":"Point"}
+}

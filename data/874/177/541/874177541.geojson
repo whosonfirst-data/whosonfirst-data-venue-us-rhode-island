@@ -1,0 +1,82 @@
+{
+  "id": 874177541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429597,41.818519,-71.429597,41.818519",
+    "geom:latitude":41.818519,
+    "geom:longitude":-71.429597,
+    "iso:country":"US",
+    "sg:address":"55 Grant St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 3435",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "woodworker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79NT56ObnTANub4zxNaOuq_41.818519_-71.429597@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312601,
+    "wof:geomhash":"6af6cc703f2a78b9fb7bf51f6714bc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874177541
+        }
+    ],
+    "wof:id":874177541,
+    "wof:lastmodified":1464312601,
+    "wof:name":"Woodworking Concepts Inc",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "woodworker"
+    ]
+},
+  "bbox": [
+    -71.429597,
+    41.818519,
+    -71.429597,
+    41.818519
+],
+  "geometry": {"coordinates":[-71.429597,41.818519],"type":"Point"}
+}

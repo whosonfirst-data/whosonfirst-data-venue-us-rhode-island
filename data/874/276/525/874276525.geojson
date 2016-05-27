@@ -1,0 +1,71 @@
+{
+  "id": 874276525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.749298,41.490051,-71.749298,41.490051",
+    "geom:latitude":41.490051,
+    "geom:longitude":-71.749298,
+    "iso:country":"US",
+    "sg:address":"63 Canonchet Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7346",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0f1drL9dJ1Ky2WsXWQG8Lm_41.490051_-71.749298@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314479,
+    "wof:geomhash":"63a56f379480f49ed656903531bb232d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874276525
+        }
+    ],
+    "wof:id":874276525,
+    "wof:lastmodified":1464314479,
+    "wof:name":"St Elizabeth's Church",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.749298,
+    41.490051,
+    -71.749298,
+    41.490051
+],
+  "geometry": {"coordinates":[-71.749298,41.490051],"type":"Point"}
+}

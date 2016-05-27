@@ -1,0 +1,84 @@
+{
+  "id": 874288913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553114,41.523737,-71.553114,41.523737",
+    "geom:latitude":41.523737,
+    "geom:longitude":-71.553114,
+    "iso:country":"US",
+    "sg:address":"567 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5559",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lunch",
+        "brunch",
+        "cafeteria",
+        "espresso",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F5jlxa9EuAjmREAetZ3Ho_41.523737_-71.553114@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314974,
+    "wof:geomhash":"5647b932679ee85f93eb4730ac73f878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874288913
+        }
+    ],
+    "wof:id":874288913,
+    "wof:lastmodified":1464314974,
+    "wof:name":"Celestial Cafe",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lunch",
+        "brunch",
+        "cafeteria",
+        "espresso",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.553114,
+    41.523737,
+    -71.553114,
+    41.523737
+],
+  "geometry": {"coordinates":[-71.55311399999999,41.523737],"type":"Point"}
+}

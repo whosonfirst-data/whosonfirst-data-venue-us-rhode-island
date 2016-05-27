@@ -1,0 +1,71 @@
+{
+  "id": 874144861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523774,41.47183,-71.523774,41.47183",
+    "geom:latitude":41.47183,
+    "geom:longitude":-71.523774,
+    "iso:country":"US",
+    "sg:address":"70 Locust Dr",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3334",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pump"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DMgQTUQnQIUjSdLIyopTh_41.471830_-71.523774@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312279,
+    "wof:geomhash":"6bb488945a7f41db3122ce6c64e8ab9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874144861
+        }
+    ],
+    "wof:id":874144861,
+    "wof:lastmodified":1464312279,
+    "wof:name":"D & S Pump & Supply",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump"
+    ]
+},
+  "bbox": [
+    -71.523774,
+    41.47183,
+    -71.523774,
+    41.47183
+],
+  "geometry": {"coordinates":[-71.523774,41.47183],"type":"Point"}
+}

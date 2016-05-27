@@ -1,0 +1,72 @@
+{
+  "id": 874292879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.253752,41.562508,-71.253752,41.562508",
+    "geom:latitude":41.562508,
+    "geom:longitude":-71.253752,
+    "iso:country":"US",
+    "sg:address":"1050 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 1900",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.invidiasalonspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EY7mHO4jdA6QB09O1Cvc8_41.562508_-71.253752@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"7fa04033e89abf461fb750b14540b5b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874292879
+        }
+    ],
+    "wof:id":874292879,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Invidia Salon & Spa",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -71.253752,
+    41.562508,
+    -71.253752,
+    41.562508
+],
+  "geometry": {"coordinates":[-71.25375200000001,41.562508],"type":"Point"}
+}

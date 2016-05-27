@@ -1,0 +1,81 @@
+{
+  "id": 874050549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404418,41.802822,-71.404418,41.802822",
+    "geom:latitude":41.802822,
+    "geom:longitude":-71.404418,
+    "iso:country":"US",
+    "sg:address":"60 Seymour St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 7270",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0APDiB22Z2AKGTt58K4Lgb_41.802822_-71.404418@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311246,
+    "wof:geomhash":"1cf1b18de8b872764dd312026767e86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874050549
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874050549
+        }
+    ],
+    "wof:id":874050549,
+    "wof:lastmodified":1464311246,
+    "wof:name":"Irving James",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.404418,
+    41.802822,
+    -71.404418,
+    41.802822
+],
+  "geometry": {"coordinates":[-71.40441800000001,41.802822],"type":"Point"}
+}

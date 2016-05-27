@@ -1,0 +1,66 @@
+{
+  "id": 874289239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296846,41.549941,-71.296846,41.549941",
+    "geom:latitude":41.549941,
+    "geom:longitude":-71.296846,
+    "iso:country":"US",
+    "sg:address":"140 Green Ln",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 843 8294",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ovleAs5GZ4CHNQR0FabEg_41.549941_-71.296846@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314986,
+    "wof:geomhash":"97c4304e65434cefed783691049da5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874289239
+        }
+    ],
+    "wof:id":874289239,
+    "wof:lastmodified":1464314986,
+    "wof:name":"Roger's Taxi",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.296846,
+    41.549941,
+    -71.296846,
+    41.549941
+],
+  "geometry": {"coordinates":[-71.296846,41.549941],"type":"Point"}
+}

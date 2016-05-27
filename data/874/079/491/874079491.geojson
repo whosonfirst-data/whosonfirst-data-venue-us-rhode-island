@@ -1,0 +1,71 @@
+{
+  "id": 874079491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.375709,41.501582,-71.375709,41.501582",
+    "geom:latitude":41.501582,
+    "geom:longitude":-71.375709,
+    "iso:country":"US",
+    "sg:address":"20 Arnold Ave",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 1070",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h1kmof5w3veJVFr4xMSxu_41.501582_-71.375709@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311547,
+    "wof:geomhash":"0dca7bc2e1631e9ec8032327a612ff71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874079491
+        }
+    ],
+    "wof:id":874079491,
+    "wof:lastmodified":1464311547,
+    "wof:name":"AMC Electric",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.375709,
+    41.501582,
+    -71.375709,
+    41.501582
+],
+  "geometry": {"coordinates":[-71.375709,41.501582],"type":"Point"}
+}

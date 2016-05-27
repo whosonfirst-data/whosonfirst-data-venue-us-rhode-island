@@ -1,0 +1,71 @@
+{
+  "id": 874158447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561943,41.682246,-71.561943,41.682246",
+    "geom:latitude":41.682246,
+    "geom:longitude":-71.561943,
+    "iso:country":"US",
+    "sg:address":"710 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1155",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lPpNzP99Lms2XnDFESNKk_41.682246_-71.561943@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312417,
+    "wof:geomhash":"1d399413d07578223da762f2a7a2a629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874158447
+        }
+    ],
+    "wof:id":874158447,
+    "wof:lastmodified":1464312417,
+    "wof:name":"Tiogue Avenue Gulf Inc",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.561943,
+    41.682246,
+    -71.561943,
+    41.682246
+],
+  "geometry": {"coordinates":[-71.561943,41.682246],"type":"Point"}
+}

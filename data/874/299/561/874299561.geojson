@@ -1,0 +1,74 @@
+{
+  "id": 874299561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448303,41.864399,-71.448303,41.864399",
+    "geom:latitude":41.864399,
+    "geom:longitude":-71.448303,
+    "iso:country":"US",
+    "sg:address":"1590 Mineral Spring Ave",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1924",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RGjntUv5eC78cKoVNXVbC_41.864399_-71.448303@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315373,
+    "wof:geomhash":"0da9311955f48ab8dda264f75ceaaf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299561
+        }
+    ],
+    "wof:id":874299561,
+    "wof:lastmodified":1464315373,
+    "wof:name":"Shores Market",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.448303,
+    41.864399,
+    -71.448303,
+    41.864399
+],
+  "geometry": {"coordinates":[-71.448303,41.864399],"type":"Point"}
+}

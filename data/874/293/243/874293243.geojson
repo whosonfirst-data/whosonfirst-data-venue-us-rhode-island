@@ -1,0 +1,87 @@
+{
+  "id": 874293243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445665,41.731458,-71.445665,41.731458",
+    "geom:latitude":41.731458,
+    "geom:longitude":-71.445665,
+    "iso:country":"US",
+    "sg:address":"25 Graystone St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 7776",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ],
+    "sg:website":"http://iyp.scottslawnservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vxi8acR8k4cBaeaTon4tA_41.731458_-71.445665@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315132,
+    "wof:geomhash":"4a01f9967d7c35620fdc92e9f87d03a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874293243
+        }
+    ],
+    "wof:id":874293243,
+    "wof:lastmodified":1464315132,
+    "wof:name":"Scotts LawnService",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "landscape",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.445665,
+    41.731458,
+    -71.445665,
+    41.731458
+],
+  "geometry": {"coordinates":[-71.44566500000001,41.731458],"type":"Point"}
+}

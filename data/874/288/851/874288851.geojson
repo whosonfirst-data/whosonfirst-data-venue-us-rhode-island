@@ -1,0 +1,74 @@
+{
+  "id": 874288851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.768512,41.911502,-71.768512,41.911502",
+    "geom:latitude":41.911502,
+    "geom:longitude":-71.768512,
+    "iso:country":"US",
+    "sg:address":"50 Willie Woodhead Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 0266",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855567,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u9OTm6RSd7tQMj8pv8FLK_41.911502_-71.768512@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314971,
+    "wof:geomhash":"cab31b66cd92ff552c9593778c36a152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85855567,
+            "region_id":85688509,
+            "venue_id":874288851
+        }
+    ],
+    "wof:id":874288851,
+    "wof:lastmodified":1464314971,
+    "wof:name":"Debug Pest Control Inc",
+    "wof:parent_id":85855567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.768512,
+    41.911502,
+    -71.768512,
+    41.911502
+],
+  "geometry": {"coordinates":[-71.768512,41.911502],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874286651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565493,41.690423,-71.565493,41.690423",
+    "geom:latitude":41.690423,
+    "geom:longitude":-71.565493,
+    "iso:country":"US",
+    "sg:address":"1146 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/coventry/58361-silver-lake-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 7810",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76y5yTRDfj6LRa90aJcLx9_41.690423_-71.565493@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314878,
+    "wof:geomhash":"c08f2c00a4ae4b38f4caa06a6b8348f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874286651
+        }
+    ],
+    "wof:id":874286651,
+    "wof:lastmodified":1464314878,
+    "wof:name":"Silver Lake Pizza",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.565493,
+    41.690423,
+    -71.565493,
+    41.690423
+],
+  "geometry": {"coordinates":[-71.565493,41.690423],"type":"Point"}
+}

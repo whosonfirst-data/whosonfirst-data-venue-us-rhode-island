@@ -1,0 +1,69 @@
+{
+  "id": 874288769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.657112,41.382,-71.657112,41.382",
+    "geom:latitude":41.382,
+    "geom:longitude":-71.657112,
+    "iso:country":"US",
+    "sg:address":"4740 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9535",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mqgXHXzg6CjmRKwk7Ju2L_41.382000_-71.657112@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314968,
+    "wof:geomhash":"e81dad283b8937a418ee7ef1deaf1924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288769
+        }
+    ],
+    "wof:id":874288769,
+    "wof:lastmodified":1464314968,
+    "wof:name":"Robinson Matthew",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.657112,
+    41.382,
+    -71.657112,
+    41.382
+],
+  "geometry": {"coordinates":[-71.657112,41.382],"type":"Point"}
+}

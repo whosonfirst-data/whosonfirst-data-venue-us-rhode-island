@@ -1,0 +1,74 @@
+{
+  "id": 874288869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.759646,41.858147,-71.759646,41.858147",
+    "geom:latitude":41.858147,
+    "geom:longitude":-71.759646,
+    "iso:country":"US",
+    "sg:address":"1203 Reynolds Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 3631",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "order",
+        "online"
+    ],
+    "sg:website":"http://www.najecki.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837631,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aWTwKvr4lGanGRWuGcGj1_41.858147_-71.759646@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314972,
+    "wof:geomhash":"ec63d5799893bc1b95b2d3b189dbbb89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85837631,
+            "region_id":85688509,
+            "venue_id":874288869
+        }
+    ],
+    "wof:id":874288869,
+    "wof:lastmodified":1464314972,
+    "wof:name":"Najecki Reproductions",
+    "wof:parent_id":85837631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [
+    -71.759646,
+    41.858147,
+    -71.759646,
+    41.858147
+],
+  "geometry": {"coordinates":[-71.759646,41.858147],"type":"Point"}
+}

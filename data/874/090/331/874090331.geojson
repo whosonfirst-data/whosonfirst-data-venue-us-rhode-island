@@ -1,0 +1,71 @@
+{
+  "id": 874090331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.576608,41.494416,-71.576608,41.494416",
+    "geom:latitude":41.494416,
+    "geom:longitude":-71.576608,
+    "iso:country":"US",
+    "sg:address":"69 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 8300",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAEK6knF2El8Pr80yfHHi_41.494416_-71.576608@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311666,
+    "wof:geomhash":"a7fa6107d9cc3e84fed7cb66e1a001f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874090331
+        }
+    ],
+    "wof:id":874090331,
+    "wof:lastmodified":1464311666,
+    "wof:name":"S K Disposal",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.576608,
+    41.494416,
+    -71.576608,
+    41.494416
+],
+  "geometry": {"coordinates":[-71.57660799999999,41.494416],"type":"Point"}
+}

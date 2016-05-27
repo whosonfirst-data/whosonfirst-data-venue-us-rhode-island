@@ -1,0 +1,71 @@
+{
+  "id": 874064365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549311,41.915903,-71.549311,41.915903",
+    "geom:latitude":41.915903,
+    "geom:longitude":-71.549311,
+    "iso:country":"US",
+    "sg:address":"20 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0606",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ewkTQexAl8EXOmoxeEkXl_41.915903_-71.549311@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311374,
+    "wof:geomhash":"f77076b9b4111c6a28ef4b14089dbf21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874064365
+        }
+    ],
+    "wof:id":874064365,
+    "wof:lastmodified":1464311374,
+    "wof:name":"Gilbert & Jones Co",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "plating"
+    ]
+},
+  "bbox": [
+    -71.549311,
+    41.915903,
+    -71.549311,
+    41.915903
+],
+  "geometry": {"coordinates":[-71.549311,41.915903],"type":"Point"}
+}

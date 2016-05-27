@@ -1,0 +1,78 @@
+{
+  "id": 874287457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400858,41.849866,-71.400858,41.849866",
+    "geom:latitude":41.849866,
+    "geom:longitude":-71.400858,
+    "iso:country":"US",
+    "sg:address":"80 Highland Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/245064-papa-ginos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 1880",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32awCFgy9ZfTyVCN6M2eTS_41.849866_-71.400858@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314911,
+    "wof:geomhash":"63af5381e9e71826d03acfe5e6121a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874287457
+        }
+    ],
+    "wof:id":874287457,
+    "wof:lastmodified":1464314911,
+    "wof:name":"Papa Gino's Pizza",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.400858,
+    41.849866,
+    -71.400858,
+    41.849866
+],
+  "geometry": {"coordinates":[-71.400858,41.849866],"type":"Point"}
+}

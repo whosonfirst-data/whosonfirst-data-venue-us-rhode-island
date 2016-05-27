@@ -1,0 +1,71 @@
+{
+  "id": 874031905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678572,41.966236,-71.678572,41.966236",
+    "geom:latitude":41.966236,
+    "geom:longitude":-71.678572,
+    "iso:country":"US",
+    "sg:address":"461 Chapel St",
+    "sg:city":"Block Island",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 466 9876",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surfboard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60SjLAwSxtYxcP7UjB1JBW_41.966236_-71.678572@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311065,
+    "wof:geomhash":"b1e4e36b449c2dade287785ec68b9617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874031905
+        }
+    ],
+    "wof:id":874031905,
+    "wof:lastmodified":1464311065,
+    "wof:name":"Blockhead Surf Shop",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surfboard"
+    ]
+},
+  "bbox": [
+    -71.678572,
+    41.966236,
+    -71.678572,
+    41.966236
+],
+  "geometry": {"coordinates":[-71.678572,41.966236],"type":"Point"}
+}

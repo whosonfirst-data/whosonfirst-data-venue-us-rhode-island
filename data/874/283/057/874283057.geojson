@@ -1,0 +1,82 @@
+{
+  "id": 874283057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488458,41.713912,-71.488458,41.713912",
+    "geom:latitude":41.713912,
+    "geom:longitude":-71.488458,
+    "iso:country":"US",
+    "sg:address":"900 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:website":"http://locators.bankofamerica.com/a/BC-13513",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IGNK72LXhSbucwMorEhWi_41.714540_-71.488048@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314742,
+    "wof:geomhash":"8c05f039981ecb07a941eb09fb0bc5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874283057
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874283057
+        }
+    ],
+    "wof:id":874283057,
+    "wof:lastmodified":1464314742,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.488458,
+    41.713912,
+    -71.488458,
+    41.713912
+],
+  "geometry": {"coordinates":[-71.48845799999999,41.713912],"type":"Point"}
+}

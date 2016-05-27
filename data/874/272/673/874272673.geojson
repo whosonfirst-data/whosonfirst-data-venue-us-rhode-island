@@ -1,0 +1,69 @@
+{
+  "id": 874272673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349527,41.749066,-71.349527,41.749066",
+    "geom:latitude":41.749066,
+    "geom:longitude":-71.349527,
+    "iso:country":"US",
+    "sg:address":"147 Bay Spring Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 2500",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JOTpsf6hVLb3cbiCsFjjk_41.749066_-71.349527@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314318,
+    "wof:geomhash":"dc428579fa9412ec7c315fdfaf3cf768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874272673
+        }
+    ],
+    "wof:id":874272673,
+    "wof:lastmodified":1464314318,
+    "wof:name":"Bay Spring Village",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -71.349527,
+    41.749066,
+    -71.349527,
+    41.749066
+],
+  "geometry": {"coordinates":[-71.34952699999999,41.749066],"type":"Point"}
+}

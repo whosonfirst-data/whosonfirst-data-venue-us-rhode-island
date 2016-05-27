@@ -1,0 +1,71 @@
+{
+  "id": 874279337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284859,41.729553,-71.284859,41.729553",
+    "geom:latitude":41.729553,
+    "geom:longitude":-71.284859,
+    "iso:country":"US",
+    "sg:address":"38 State St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 4414",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HxbdIuMI92nt49rz3qDia_41.729553_-71.284859@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314583,
+    "wof:geomhash":"6a7a07a80a3480bd6e96fbea85c112fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874279337
+        }
+    ],
+    "wof:id":874279337,
+    "wof:lastmodified":1464314583,
+    "wof:name":"Michael's Dental Lab",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.284859,
+    41.729553,
+    -71.284859,
+    41.729553
+],
+  "geometry": {"coordinates":[-71.284859,41.729553],"type":"Point"}
+}

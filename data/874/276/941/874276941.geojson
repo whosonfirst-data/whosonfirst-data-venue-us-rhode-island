@@ -1,0 +1,78 @@
+{
+  "id": 874276941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438083,41.491545,-71.438083,41.491545",
+    "geom:latitude":41.491545,
+    "geom:longitude":-71.438083,
+    "iso:country":"US",
+    "sg:address":"1175 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 9920",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dG7cokquzb7wvihZyEq6V_41.491545_-71.438083@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314494,
+    "wof:geomhash":"e51f745a3d7a598e57bd5673ea59b648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874276941
+        }
+    ],
+    "wof:id":874276941,
+    "wof:lastmodified":1464314494,
+    "wof:name":"Coffee N' Bagel Connection",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.438083,
+    41.491545,
+    -71.438083,
+    41.491545
+],
+  "geometry": {"coordinates":[-71.43808300000001,41.491545],"type":"Point"}
+}

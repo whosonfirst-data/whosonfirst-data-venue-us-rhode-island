@@ -1,0 +1,82 @@
+{
+  "id": 874042971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424955,41.824883,-71.424955,41.824883",
+    "geom:latitude":41.824883,
+    "geom:longitude":-71.424955,
+    "iso:country":"US",
+    "sg:address":"115 Cedar St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 4552",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2v5JHz047IcVrRrfJsPu_41.824883_-71.424955@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311176,
+    "wof:geomhash":"97da94e539a5a2685fadcc47c7446c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874042971
+        }
+    ],
+    "wof:id":874042971,
+    "wof:lastmodified":1464311176,
+    "wof:name":"Rehabilitation & Re-Employment",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -71.424955,
+    41.824883,
+    -71.424955,
+    41.824883
+],
+  "geometry": {"coordinates":[-71.424955,41.824883],"type":"Point"}
+}

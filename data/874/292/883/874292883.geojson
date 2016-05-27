@@ -1,0 +1,69 @@
+{
+  "id": 874292883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261639,41.553726,-71.261639,41.553726",
+    "geom:latitude":41.553726,
+    "geom:longitude":-71.261639,
+    "iso:country":"US",
+    "sg:address":"38 Storm King Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 345 5815",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TwHLW1VcLUmj8C821uMnn_41.553726_-71.261639@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"f9fb4fa4d556a6a237122c6c271d2c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874292883
+        }
+    ],
+    "wof:id":874292883,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Paul Laparle",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.261639,
+    41.553726,
+    -71.261639,
+    41.553726
+],
+  "geometry": {"coordinates":[-71.261639,41.553726],"type":"Point"}
+}

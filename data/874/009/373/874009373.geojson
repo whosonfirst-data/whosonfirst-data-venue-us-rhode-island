@@ -1,0 +1,79 @@
+{
+  "id": 874009373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478763,41.747581,-71.478763,41.747581",
+    "geom:latitude":41.747581,
+    "geom:longitude":-71.478763,
+    "iso:country":"US",
+    "sg:address":"880 Oaklawn Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 2317",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59HAe9g2iCqMR5ncmvS1cE_41.747581_-71.478763@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310851,
+    "wof:geomhash":"d0f7fa6ace4a692a7c61431c747aff16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874009373
+        }
+    ],
+    "wof:id":874009373,
+    "wof:lastmodified":1464310851,
+    "wof:name":"E Cash Atm Svc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -71.478763,
+    41.747581,
+    -71.478763,
+    41.747581
+],
+  "geometry": {"coordinates":[-71.478763,41.747581],"type":"Point"}
+}

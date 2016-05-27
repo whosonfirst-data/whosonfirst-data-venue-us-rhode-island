@@ -1,0 +1,75 @@
+{
+  "id": 874260411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.797265,41.404114,-71.797265,41.404114",
+    "geom:latitude":41.404114,
+    "geom:longitude":-71.797265,
+    "iso:country":"US",
+    "sg:address":"26 Main St",
+    "sg:city":"Ashaway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 377 8697",
+    "sg:postcode":"02804",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842951,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N0VmbG4td6vDBxJz878v9_41.404114_-71.797265@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313872,
+    "wof:geomhash":"67192842b1d7eccc9dc7bf56c10de828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":85842951,
+            "region_id":85688509,
+            "venue_id":874260411
+        }
+    ],
+    "wof:id":874260411,
+    "wof:lastmodified":1464313872,
+    "wof:name":"Trombino Towing & Storage",
+    "wof:parent_id":85842951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.797265,
+    41.404114,
+    -71.797265,
+    41.404114
+],
+  "geometry": {"coordinates":[-71.797265,41.404114],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874284713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275969,41.66951,-71.275969,41.66951",
+    "geom:latitude":41.66951,
+    "geom:longitude":-71.275969,
+    "iso:country":"US",
+    "sg:address":"10 Court St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3630",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "professional",
+        "counselors-licensed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KGu5iGvxCQx4RBL0yp1ee_41.669586_-71.275346@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314803,
+    "wof:geomhash":"e617ef1004c588716f3c901a85da0659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874284713
+        }
+    ],
+    "wof:id":874284713,
+    "wof:lastmodified":1464314803,
+    "wof:name":"Substance Abuse Task Force",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professional",
+        "counselors-licensed"
+    ]
+},
+  "bbox": [
+    -71.275969,
+    41.66951,
+    -71.275969,
+    41.66951
+],
+  "geometry": {"coordinates":[-71.275969,41.66951],"type":"Point"}
+}

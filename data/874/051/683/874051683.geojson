@@ -1,0 +1,71 @@
+{
+  "id": 874051683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307098,41.749606,-71.307098,41.749606",
+    "geom:latitude":41.749606,
+    "geom:longitude":-71.307098,
+    "iso:country":"US",
+    "sg:address":"10 Plymouth Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0623",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bm6TBne88YyhsVdFPqFSr_41.749606_-71.307098@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311257,
+    "wof:geomhash":"d4e13d5cec5c4a277a095b98564d3584",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874051683
+        }
+    ],
+    "wof:id":874051683,
+    "wof:lastmodified":1464311257,
+    "wof:name":"H20 Properties LLC",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.307098,
+    41.749606,
+    -71.307098,
+    41.749606
+],
+  "geometry": {"coordinates":[-71.307098,41.749606],"type":"Point"}
+}

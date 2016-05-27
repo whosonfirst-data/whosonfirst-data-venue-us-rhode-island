@@ -1,0 +1,75 @@
+{
+  "id": 874269109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414031,41.799709,-71.414031,41.799709",
+    "geom:latitude":41.799709,
+    "geom:longitude":-71.414031,
+    "iso:country":"US",
+    "sg:address":"200 Gordon Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 8868",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58ET5b1C6Mpi7AZEFjdEV4_41.799709_-71.414031@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314194,
+    "wof:geomhash":"6caedaaf622ba70e7ee8ba5651b45072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874269109
+        }
+    ],
+    "wof:id":874269109,
+    "wof:lastmodified":1464314194,
+    "wof:name":"Oxford Gardens",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.414031,
+    41.799709,
+    -71.414031,
+    41.799709
+],
+  "geometry": {"coordinates":[-71.41403099999999,41.799709],"type":"Point"}
+}

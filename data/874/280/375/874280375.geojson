@@ -1,0 +1,75 @@
+{
+  "id": 874280375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.362077,41.767479,-71.362077,41.767479",
+    "geom:latitude":41.767479,
+    "geom:longitude":-71.362077,
+    "iso:country":"US",
+    "sg:address":"22 North St",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 1846",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bG6CrBZo7w3DL9cQoKhTg_41.767479_-71.362077@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314628,
+    "wof:geomhash":"c29f6d248da50ea25df360e53470d900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874280375
+        }
+    ],
+    "wof:id":874280375,
+    "wof:lastmodified":1464314628,
+    "wof:name":"Cabo Verde Transportation Co",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.362077,
+    41.767479,
+    -71.362077,
+    41.767479
+],
+  "geometry": {"coordinates":[-71.362077,41.767479],"type":"Point"}
+}

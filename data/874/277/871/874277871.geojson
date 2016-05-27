@@ -1,0 +1,82 @@
+{
+  "id": 874277871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385745,41.845004,-71.385745,41.845004",
+    "geom:latitude":41.845004,
+    "geom:longitude":-71.385745,
+    "iso:country":"US",
+    "sg:address":"18 Glen Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 6859",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26pSZr8rhQCS2h4oUPFxQl_41.845004_-71.385745@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314535,
+    "wof:geomhash":"11e86b7225db731efa5a8fb1fa9c62e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874277871
+        }
+    ],
+    "wof:id":874277871,
+    "wof:lastmodified":1464314535,
+    "wof:name":"Management Engineers Company",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -71.385745,
+    41.845004,
+    -71.385745,
+    41.845004
+],
+  "geometry": {"coordinates":[-71.385745,41.845004],"type":"Point"}
+}

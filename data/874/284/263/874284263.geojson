@@ -1,0 +1,77 @@
+{
+  "id": 874284263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3713,41.886101,-71.3713,41.886101",
+    "geom:latitude":41.886101,
+    "geom:longitude":-71.3713,
+    "iso:country":"US",
+    "sg:address":"54 Sabin St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 2298",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q5kgSSWi8C88ZByxlbuz3_41.886290_-71.371698@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314783,
+    "wof:geomhash":"d4ee705c9ea75e6927589448804ae0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874284263
+        }
+    ],
+    "wof:id":874284263,
+    "wof:lastmodified":1464314783,
+    "wof:name":"Popeye's Pizza & Restaurant",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.3713,
+    41.886101,
+    -71.3713,
+    41.886101
+],
+  "geometry": {"coordinates":[-71.37130000000001,41.886101],"type":"Point"}
+}

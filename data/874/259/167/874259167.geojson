@@ -1,0 +1,69 @@
+{
+  "id": 874259167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281822,41.730223,-71.281822,41.730223",
+    "geom:latitude":41.730223,
+    "geom:longitude":-71.281822,
+    "iso:country":"US",
+    "sg:address":"7 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0888",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tqCIDYgheWdff6STJ1tBh_41.730223_-71.281822@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313830,
+    "wof:geomhash":"52137130bde40df67462dd1d64759f70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874259167
+        }
+    ],
+    "wof:id":874259167,
+    "wof:lastmodified":1464313830,
+    "wof:name":"Book By Book",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.281822,
+    41.730223,
+    -71.281822,
+    41.730223
+],
+  "geometry": {"coordinates":[-71.28182200000001,41.730223],"type":"Point"}
+}

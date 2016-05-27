@@ -1,0 +1,87 @@
+{
+  "id": 874287285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505834,41.712571,-71.505834,41.712571",
+    "geom:latitude":41.712571,
+    "geom:longitude":-71.505834,
+    "iso:country":"US",
+    "sg:address":"283 Providence St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/138924-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2434",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85844759,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZWoJhZCTi9ShEaLCl16AE_41.712571_-71.505834@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314900,
+    "wof:geomhash":"9b07851a45bbda9633c9436baa84b951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874287285
+        }
+    ],
+    "wof:id":874287285,
+    "wof:lastmodified":1464314900,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85844759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.505834,
+    41.712571,
+    -71.505834,
+    41.712571
+],
+  "geometry": {"coordinates":[-71.50583399999999,41.712571],"type":"Point"}
+}

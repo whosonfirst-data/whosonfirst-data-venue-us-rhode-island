@@ -1,0 +1,74 @@
+{
+  "id": 874293177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.265869,41.729191,-71.265869,41.729191",
+    "geom:latitude":41.729191,
+    "geom:longitude":-71.265869,
+    "iso:country":"US",
+    "sg:address":"450 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2022",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "sg:website":"http://www.bcwa-ri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RTUw5ZG1sC5uFYo2YneNU_41.729191_-71.265869@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315129,
+    "wof:geomhash":"ecbbd5d61db215ca0a8c7d111088aadf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874293177
+        }
+    ],
+    "wof:id":874293177,
+    "wof:lastmodified":1464315129,
+    "wof:name":"Bristol County Water Authority",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.265869,
+    41.729191,
+    -71.265869,
+    41.729191
+],
+  "geometry": {"coordinates":[-71.265869,41.729191],"type":"Point"}
+}

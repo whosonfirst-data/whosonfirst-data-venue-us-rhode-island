@@ -1,0 +1,71 @@
+{
+  "id": 874245025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431978,41.869966,-71.431978,41.869966",
+    "geom:latitude":41.869966,
+    "geom:longitude":-71.431978,
+    "iso:country":"US",
+    "sg:address":"18 Reade St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 3836",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SwYyK4haQzOWIhG4Dy78e_41.869966_-71.431978@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313435,
+    "wof:geomhash":"efdf3e674b2f5714f49982f053b5b9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874245025
+        }
+    ],
+    "wof:id":874245025,
+    "wof:lastmodified":1464313435,
+    "wof:name":"Grand View Realty Inc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.431978,
+    41.869966,
+    -71.431978,
+    41.869966
+],
+  "geometry": {"coordinates":[-71.431978,41.869966],"type":"Point"}
+}

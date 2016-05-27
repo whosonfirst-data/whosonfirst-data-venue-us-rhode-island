@@ -1,0 +1,71 @@
+{
+  "id": 874073613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.212081,41.628008,-71.212081,41.628008",
+    "geom:latitude":41.628008,
+    "geom:longitude":-71.212081,
+    "iso:country":"US",
+    "sg:address":"1740 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 6661",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:website":"www.bankofnewport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69DFyemcjFdZ87m3FkoStA_41.628008_-71.212081@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311488,
+    "wof:geomhash":"0c01d143aad12605250f3450b9a6a869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874073613
+        }
+    ],
+    "wof:id":874073613,
+    "wof:lastmodified":1464311488,
+    "wof:name":"Bank Of Newport",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.212081,
+    41.628008,
+    -71.212081,
+    41.628008
+],
+  "geometry": {"coordinates":[-71.212081,41.628008],"type":"Point"}
+}

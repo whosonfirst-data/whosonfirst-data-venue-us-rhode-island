@@ -1,0 +1,71 @@
+{
+  "id": 874256907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.234991,41.517331,-71.234991,41.517331",
+    "geom:latitude":41.517331,
+    "geom:longitude":-71.234991,
+    "iso:country":"US",
+    "sg:address":"46 Indian Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 2328",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "picture",
+        "frame"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gs7qRaNe0z7PTcOEmo0tA_41.517331_-71.234991@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313718,
+    "wof:geomhash":"089f82c7ae6fa819765aef8ccad633c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874256907
+        }
+    ],
+    "wof:id":874256907,
+    "wof:lastmodified":1464313718,
+    "wof:name":"Viewpoint",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame"
+    ]
+},
+  "bbox": [
+    -71.234991,
+    41.517331,
+    -71.234991,
+    41.517331
+],
+  "geometry": {"coordinates":[-71.23499099999999,41.517331],"type":"Point"}
+}

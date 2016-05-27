@@ -1,0 +1,71 @@
+{
+  "id": 874238097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452812,41.841808,-71.452812,41.841808",
+    "geom:latitude":41.841808,
+    "geom:longitude":-71.452812,
+    "iso:country":"US",
+    "sg:address":"610 Mount Pleasant Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 222 6942",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nw8T95SqucPEmiafsHZjA_41.841808_-71.452812@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"f1ed765a9f8684433fe96b053a5332a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874238097
+        }
+    ],
+    "wof:id":874238097,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Children Youth & Families Dept",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -71.452812,
+    41.841808,
+    -71.452812,
+    41.841808
+],
+  "geometry": {"coordinates":[-71.45281199999999,41.841808],"type":"Point"}
+}

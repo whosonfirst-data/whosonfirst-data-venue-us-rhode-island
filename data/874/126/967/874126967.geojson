@@ -1,0 +1,73 @@
+{
+  "id": 874126967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546606,41.697136,-71.546606,41.697136",
+    "geom:latitude":41.697136,
+    "geom:longitude":-71.546606,
+    "iso:country":"US",
+    "sg:address":"623 Washington St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0111",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iJvu37m05bh5EAmNn4dtG_41.697136_-71.546606@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312102,
+    "wof:geomhash":"baae39b76c58c981a2bf9068be8e8c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874126967
+        }
+    ],
+    "wof:id":874126967,
+    "wof:lastmodified":1464312102,
+    "wof:name":"American Tool Company",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.546606,
+    41.697136,
+    -71.546606,
+    41.697136
+],
+  "geometry": {"coordinates":[-71.546606,41.697136],"type":"Point"}
+}

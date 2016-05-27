@@ -1,0 +1,73 @@
+{
+  "id": 874172363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.618431,41.983163,-71.618431,41.983163",
+    "geom:latitude":41.983163,
+    "geom:longitude":-71.618431,
+    "iso:country":"US",
+    "sg:address":"864 Douglas Tpke",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 710 9440",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HweBh4Ls5ZmflThV1qbiL_41.983163_-71.618431@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312553,
+    "wof:geomhash":"a9cdb8c234018175aaca2e19ca26d017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874172363
+        }
+    ],
+    "wof:id":874172363,
+    "wof:lastmodified":1464312553,
+    "wof:name":"Langlois Lab",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.618431,
+    41.983163,
+    -71.618431,
+    41.983163
+],
+  "geometry": {"coordinates":[-71.618431,41.983163],"type":"Point"}
+}

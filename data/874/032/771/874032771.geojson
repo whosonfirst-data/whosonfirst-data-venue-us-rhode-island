@@ -1,0 +1,84 @@
+{
+  "id": 874032771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195106,41.617909,-71.195106,41.617909",
+    "geom:latitude":41.617909,
+    "geom:longitude":-71.195106,
+    "iso:country":"US",
+    "sg:address":"168 Old Bulgarmarsh Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5778",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "control"
+    ],
+    "sg:website":"www.atlantacal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vubKkZBJN5XIbETZ0JAzH_41.617909_-71.195106@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311073,
+    "wof:geomhash":"845b33471a6474c6ce96199e46d10d39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874032771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874032771
+        }
+    ],
+    "wof:id":874032771,
+    "wof:lastmodified":1464311073,
+    "wof:name":"Atlantic Instrument & Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control"
+    ]
+},
+  "bbox": [
+    -71.195106,
+    41.617909,
+    -71.195106,
+    41.617909
+],
+  "geometry": {"coordinates":[-71.195106,41.617909],"type":"Point"}
+}

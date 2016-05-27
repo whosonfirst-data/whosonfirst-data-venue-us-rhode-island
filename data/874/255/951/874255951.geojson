@@ -1,0 +1,71 @@
+{
+  "id": 874255951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531356,41.867469,-71.531356,41.867469",
+    "geom:latitude":41.867469,
+    "geom:longitude":-71.531356,
+    "iso:country":"US",
+    "sg:address":"19 Sanderson Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 0630",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rdZKB7hj43rj57vzUr1FM_41.867469_-71.531356@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313696,
+    "wof:geomhash":"f036baf1198ab97def073f83e344807a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874255951
+        }
+    ],
+    "wof:id":874255951,
+    "wof:lastmodified":1464313696,
+    "wof:name":"Pastry Land Bakery Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.531356,
+    41.867469,
+    -71.531356,
+    41.867469
+],
+  "geometry": {"coordinates":[-71.531356,41.867469],"type":"Point"}
+}

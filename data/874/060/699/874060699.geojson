@@ -1,0 +1,77 @@
+{
+  "id": 874060699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420398,41.827521,-71.420398,41.827521",
+    "geom:latitude":41.827521,
+    "geom:longitude":-71.420398,
+    "iso:country":"US",
+    "sg:address":"50 Harris Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 4313",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77coR8MP0BFMh1yT3vBua9_41.827521_-71.420398@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311341,
+    "wof:geomhash":"354a56ce5b96501113c281aa65180d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874060699
+        }
+    ],
+    "wof:id":874060699,
+    "wof:lastmodified":1464311341,
+    "wof:name":"US Defense Logistics Agency",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.420398,
+    41.827521,
+    -71.420398,
+    41.827521
+],
+  "geometry": {"coordinates":[-71.42039800000001,41.827521],"type":"Point"}
+}

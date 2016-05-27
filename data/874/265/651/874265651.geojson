@@ -1,0 +1,80 @@
+{
+  "id": 874265651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397257,41.749834,-71.397257,41.749834",
+    "geom:latitude":41.749834,
+    "geom:longitude":-71.397257,
+    "iso:country":"US",
+    "sg:address":"211 N Country Club Dr",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 1435",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840949,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CxACuWSRMmBI1mZ8lQFLF_41.749834_-71.397257@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314059,
+    "wof:geomhash":"d7f084d83a72409712505579db01c0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85840949,
+            "region_id":85688509,
+            "venue_id":874265651
+        }
+    ],
+    "wof:id":874265651,
+    "wof:lastmodified":1464314059,
+    "wof:name":"Paul's Appliance Repairs",
+    "wof:parent_id":85840949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.397257,
+    41.749834,
+    -71.397257,
+    41.749834
+],
+  "geometry": {"coordinates":[-71.397257,41.749834],"type":"Point"}
+}

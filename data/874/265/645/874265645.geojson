@@ -1,0 +1,81 @@
+{
+  "id": 874265645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277475,41.692748,-71.277475,41.692748",
+    "geom:latitude":41.692748,
+    "geom:longitude":-71.277475,
+    "iso:country":"US",
+    "sg:address":"14 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8600",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "newspaper",
+        "publishing",
+        "periodical",
+        "syndicate"
+    ],
+    "sg:website":"www.projo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uPiPGktBn6kf0DrGFyfbx_41.692748_-71.277475@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314059,
+    "wof:geomhash":"c08af315474020e0e6a0dc9172c57178",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874265645
+        }
+    ],
+    "wof:id":874265645,
+    "wof:lastmodified":1464314059,
+    "wof:name":"Providence Journal Company",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing",
+        "periodical",
+        "syndicate"
+    ]
+},
+  "bbox": [
+    -71.277475,
+    41.692748,
+    -71.277475,
+    41.692748
+],
+  "geometry": {"coordinates":[-71.277475,41.692748],"type":"Point"}
+}

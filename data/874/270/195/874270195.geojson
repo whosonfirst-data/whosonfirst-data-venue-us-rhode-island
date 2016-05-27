@@ -1,0 +1,77 @@
+{
+  "id": 874270195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302071,41.50903,-71.302071,41.50903",
+    "geom:latitude":41.50903,
+    "geom:longitude":-71.302071,
+    "iso:country":"US",
+    "sg:address":"136 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 1118",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h8viJPUqmZUZRsDPL5Cjn_41.509030_-71.302071@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314233,
+    "wof:geomhash":"65ce3c6a10fa6a164ab14c52d0542892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874270195
+        }
+    ],
+    "wof:id":874270195,
+    "wof:lastmodified":1464314233,
+    "wof:name":"Off The Curb",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.302071,
+    41.50903,
+    -71.302071,
+    41.50903
+],
+  "geometry": {"coordinates":[-71.302071,41.50903],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874293241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456841,41.72464,-71.456841,41.72464",
+    "geom:latitude":41.72464,
+    "geom:longitude":-71.456841,
+    "iso:country":"US",
+    "sg:address":"175 Metro Center Blvd # 1",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 3400",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MJUhWRG9wINnFUyaFYUBt_41.724640_-71.456841@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315131,
+    "wof:geomhash":"fcbfb81e33a9f8dcd449ecacbef69586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874293241
+        }
+    ],
+    "wof:id":874293241,
+    "wof:lastmodified":1464315131,
+    "wof:name":"Mitkem Laboratories",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.456841,
+    41.72464,
+    -71.456841,
+    41.72464
+],
+  "geometry": {"coordinates":[-71.456841,41.72464],"type":"Point"}
+}

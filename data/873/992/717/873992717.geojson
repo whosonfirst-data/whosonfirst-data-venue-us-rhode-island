@@ -1,0 +1,71 @@
+{
+  "id": 873992717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530207,41.390713,-71.530207,41.390713",
+    "geom:latitude":41.390713,
+    "geom:longitude":-71.530207,
+    "iso:country":"US",
+    "sg:address":"68 Potter Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 8383",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kHZW3EVvxCyacPzMJpHzo_41.390713_-71.530207@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310710,
+    "wof:geomhash":"cb8275ff670c3bb0a5f50a581a763b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":873992717
+        }
+    ],
+    "wof:id":873992717,
+    "wof:lastmodified":1464310710,
+    "wof:name":"Attics Cleaned",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.530207,
+    41.390713,
+    -71.530207,
+    41.390713
+],
+  "geometry": {"coordinates":[-71.530207,41.390713],"type":"Point"}
+}

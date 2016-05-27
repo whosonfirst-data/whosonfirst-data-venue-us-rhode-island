@@ -1,0 +1,71 @@
+{
+  "id": 874025129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535146,41.868188,-71.535146,41.868188",
+    "geom:latitude":41.868188,
+    "geom:longitude":-71.535146,
+    "iso:country":"US",
+    "sg:address":"24 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 9964",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lplbWhRzEmDsDxYdwR5yt_41.868188_-71.535146@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310998,
+    "wof:geomhash":"0d24e8ee4dbefc24890301f823924f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874025129
+        }
+    ],
+    "wof:id":874025129,
+    "wof:lastmodified":1464310998,
+    "wof:name":"Boyle & Fogarty Construction",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.535146,
+    41.868188,
+    -71.535146,
+    41.868188
+],
+  "geometry": {"coordinates":[-71.535146,41.868188],"type":"Point"}
+}

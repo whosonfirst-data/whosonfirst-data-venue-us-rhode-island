@@ -1,0 +1,76 @@
+{
+  "id": 874298435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413101,41.823799,-71.413101,41.823799",
+    "geom:latitude":41.823799,
+    "geom:longitude":-71.413101,
+    "iso:country":"US",
+    "sg:address":"55 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 9590",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E3NiSbgeDg27axTLHumXj_41.823799_-71.413101@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315326,
+    "wof:geomhash":"50c4410c7f79ce0a30121f12c91de9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874298435
+        }
+    ],
+    "wof:id":874298435,
+    "wof:lastmodified":1464315326,
+    "wof:name":"Subway Sandwiches of Downtown Providence",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.413101,
+    41.823799,
+    -71.413101,
+    41.823799
+],
+  "geometry": {"coordinates":[-71.413101,41.823799],"type":"Point"}
+}

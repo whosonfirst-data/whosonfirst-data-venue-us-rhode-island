@@ -1,0 +1,91 @@
+{
+  "id": 874002659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409623,41.841487,-71.409623,41.841487",
+    "geom:latitude":41.841487,
+    "geom:longitude":-71.409623,
+    "iso:country":"US",
+    "sg:address":"30 Livingstone St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 6310",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.grodencenter.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YvQe9rciXrhNBoDQ5sHlr_41.841487_-71.409623@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310787,
+    "wof:geomhash":"9b979cdaa8969c7b4ca85e26b7010bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874002659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874002659
+        }
+    ],
+    "wof:id":874002659,
+    "wof:lastmodified":1464310787,
+    "wof:name":"Livingston Center-Early Chldhd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.409623,
+    41.841487,
+    -71.409623,
+    41.841487
+],
+  "geometry": {"coordinates":[-71.409623,41.841487],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874268763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429543,41.846214,-71.429543,41.846214",
+    "geom:latitude":41.846214,
+    "geom:longitude":-71.429543,
+    "iso:country":"US",
+    "sg:address":"389 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 8000",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNpCHMr9AJmdECBloHcUE_41.846214_-71.429543@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314181,
+    "wof:geomhash":"235f1b9bf8a5faeab392c0faa4b1a9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874268763
+        }
+    ],
+    "wof:id":874268763,
+    "wof:lastmodified":1464314181,
+    "wof:name":"Lewis Electronic Repairs",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -71.429543,
+    41.846214,
+    -71.429543,
+    41.846214
+],
+  "geometry": {"coordinates":[-71.429543,41.846214],"type":"Point"}
+}

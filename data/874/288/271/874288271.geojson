@@ -1,0 +1,78 @@
+{
+  "id": 874288271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.329789,41.759525,-71.329789,41.759525",
+    "geom:latitude":41.759525,
+    "geom:longitude":-71.329789,
+    "iso:country":"US",
+    "sg:address":"16 Frederick Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 761 7501",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mdSonG4AmUdJPaVOyUNSc_41.759525_-71.329789@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314945,
+    "wof:geomhash":"49b5c135802367a4413d06d66becafb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874288271
+        }
+    ],
+    "wof:id":874288271,
+    "wof:lastmodified":1464314945,
+    "wof:name":"Metro United Communications",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -71.329789,
+    41.759525,
+    -71.329789,
+    41.759525
+],
+  "geometry": {"coordinates":[-71.32978900000001,41.759525],"type":"Point"}
+}

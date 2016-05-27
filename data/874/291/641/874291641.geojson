@@ -1,0 +1,87 @@
+{
+  "id": 874291641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414858,41.946596,-71.414858,41.946596",
+    "geom:latitude":41.946596,
+    "geom:longitude":-71.414858,
+    "iso:country":"US",
+    "sg:address":"126 Angell Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0303",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "educational",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0smTeF7SVsRKVoI4JoptCC_41.946596_-71.414858@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315077,
+    "wof:geomhash":"daa673e29ce1690a4224e53565396fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291641
+        }
+    ],
+    "wof:id":874291641,
+    "wof:lastmodified":1464315077,
+    "wof:name":"Hand In Hand Christian Preschool",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "educational",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.414858,
+    41.946596,
+    -71.414858,
+    41.946596
+],
+  "geometry": {"coordinates":[-71.414858,41.946596],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 874259461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394928,41.864792,-71.394928,41.864792",
+    "geom:latitude":41.864792,
+    "geom:longitude":-71.394928,
+    "iso:country":"US",
+    "sg:address":"452 West Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 6983",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "windows",
+        "carpentry",
+        "contractor"
+    ],
+    "sg:website":"www.bestviewwindows.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uHwQX8SoBbycrh2kPQqc8_41.864792_-71.394928@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313840,
+    "wof:geomhash":"a6c1aa9c44b8daf9020eb11deb175ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874259461
+        }
+    ],
+    "wof:id":874259461,
+    "wof:lastmodified":1464313840,
+    "wof:name":"Best View Windows Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.394928,
+    41.864792,
+    -71.394928,
+    41.864792
+],
+  "geometry": {"coordinates":[-71.39492799999999,41.864792],"type":"Point"}
+}

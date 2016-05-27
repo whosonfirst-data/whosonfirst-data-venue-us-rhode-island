@@ -1,0 +1,73 @@
+{
+  "id": 874100541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271081,41.666247,-71.271081,41.666247",
+    "geom:latitude":41.666247,
+    "geom:longitude":-71.271081,
+    "iso:country":"US",
+    "sg:address":"81 Union St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9768",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bHwk5XyNWosFhBSX9aPZf_41.666247_-71.271081@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311802,
+    "wof:geomhash":"bdff8f71e03d187959e32668f3b50078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874100541
+        }
+    ],
+    "wof:id":874100541,
+    "wof:lastmodified":1464311802,
+    "wof:name":"Thomas Cole House",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.271081,
+    41.666247,
+    -71.271081,
+    41.666247
+],
+  "geometry": {"coordinates":[-71.271081,41.666247],"type":"Point"}
+}

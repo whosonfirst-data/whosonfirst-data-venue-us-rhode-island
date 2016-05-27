@@ -1,0 +1,73 @@
+{
+  "id": 873993515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390087,41.527498,-71.390087,41.527498",
+    "geom:latitude":41.527498,
+    "geom:longitude":-71.390087,
+    "iso:country":"US",
+    "sg:address":"88 Spindrift St",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 480 1399",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zvY1YSt3xqw5lPVOqeuh3_41.527498_-71.390087@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310715,
+    "wof:geomhash":"951d5e6182efd90121f4ffa588cd94a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":873993515
+        }
+    ],
+    "wof:id":873993515,
+    "wof:lastmodified":1464310715,
+    "wof:name":"Max's Lawn Care",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance",
+        "grounds"
+    ]
+},
+  "bbox": [
+    -71.390087,
+    41.527498,
+    -71.390087,
+    41.527498
+],
+  "geometry": {"coordinates":[-71.39008699999999,41.527498],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874283105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437202,41.855099,-71.437202,41.855099",
+    "geom:latitude":41.855099,
+    "geom:longitude":-71.437202,
+    "iso:country":"US",
+    "sg:address":"936 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 4430",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.oceanstatecomputers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lXxzh4lkckBYkwdE7pLOk_41.854878_-71.437166@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314743,
+    "wof:geomhash":"97baff3a97136a13a1a3a0b698a32641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874283105
+        }
+    ],
+    "wof:id":874283105,
+    "wof:lastmodified":1464314743,
+    "wof:name":"Ocean State Computers",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.437202,
+    41.855099,
+    -71.437202,
+    41.855099
+],
+  "geometry": {"coordinates":[-71.437202,41.855099],"type":"Point"}
+}

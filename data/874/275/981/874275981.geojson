@@ -1,0 +1,71 @@
+{
+  "id": 874275981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578027,41.834433,-71.578027,41.834433",
+    "geom:latitude":41.834433,
+    "geom:longitude":-71.578027,
+    "iso:country":"US",
+    "sg:address":"33 Danielson Pike",
+    "sg:city":"North Scituate",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 7486",
+    "sg:postcode":"02857",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847203,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20GaxV8NWDgAem9LFO3dct_41.834433_-71.578027@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314453,
+    "wof:geomhash":"d183583c304e0127e4a43e525f8b303b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847203,
+            "region_id":85688509,
+            "venue_id":874275981
+        }
+    ],
+    "wof:id":874275981,
+    "wof:lastmodified":1464314453,
+    "wof:name":"Ear Nose Throat & Allergy Inc",
+    "wof:parent_id":85847203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.578027,
+    41.834433,
+    -71.578027,
+    41.834433
+],
+  "geometry": {"coordinates":[-71.57802700000001,41.834433],"type":"Point"}
+}

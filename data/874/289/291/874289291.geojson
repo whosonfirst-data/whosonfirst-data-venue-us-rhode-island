@@ -1,0 +1,84 @@
+{
+  "id": 874289291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.706975,41.959269,-71.706975,41.959269",
+    "geom:latitude":41.959269,
+    "geom:longitude":-71.706975,
+    "iso:country":"US",
+    "sg:address":"160 Church St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3089",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33MvYnDigPlyu0BOMezh6d_41.959269_-71.706975@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314988,
+    "wof:geomhash":"9e3cf3bcb5f7eb92e443d310db7113ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874289291
+        }
+    ],
+    "wof:id":874289291,
+    "wof:lastmodified":1464314988,
+    "wof:name":"Jensco Machine",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.706975,
+    41.959269,
+    -71.706975,
+    41.959269
+],
+  "geometry": {"coordinates":[-71.706975,41.959269],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874299759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429996,41.875526,-71.429996,41.875526",
+    "geom:latitude":41.875526,
+    "geom:longitude":-71.429996,
+    "iso:country":"US",
+    "sg:address":"1 Randall Sq Ste 306",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 7546",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BI1NVUWGtvK8sIby76yWE_41.875526_-71.429996@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315380,
+    "wof:geomhash":"e4b798aff69138792e0788f2506c528b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299759
+        }
+    ],
+    "wof:id":874299759,
+    "wof:lastmodified":1464315380,
+    "wof:name":"Kuperman-Beade Marina",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -71.429996,
+    41.875526,
+    -71.429996,
+    41.875526
+],
+  "geometry": {"coordinates":[-71.429996,41.875526],"type":"Point"}
+}

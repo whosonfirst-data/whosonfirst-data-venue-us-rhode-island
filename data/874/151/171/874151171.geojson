@@ -1,0 +1,73 @@
+{
+  "id": 874151171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433259,41.488745,-71.433259,41.488745",
+    "geom:latitude":41.488745,
+    "geom:longitude":-71.433259,
+    "iso:country":"US",
+    "sg:address":"90 Dean Knauss Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3993",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "system",
+        "purification"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zaf1gW4zTj3lk772NN3yF_41.488745_-71.433259@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312339,
+    "wof:geomhash":"73cd0d7c445f9356404a364c5e6251cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874151171
+        }
+    ],
+    "wof:id":874151171,
+    "wof:lastmodified":1464312339,
+    "wof:name":"Water Purification",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "system",
+        "purification"
+    ]
+},
+  "bbox": [
+    -71.433259,
+    41.488745,
+    -71.433259,
+    41.488745
+],
+  "geometry": {"coordinates":[-71.43325900000001,41.488745],"type":"Point"}
+}

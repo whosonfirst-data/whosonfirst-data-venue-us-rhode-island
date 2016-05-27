@@ -1,0 +1,71 @@
+{
+  "id": 874100599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456718,41.848085,-71.456718,41.848085",
+    "geom:latitude":41.848085,
+    "geom:longitude":-71.456718,
+    "iso:country":"US",
+    "sg:address":"1351 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5520",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YORQoooAnHgX7qtF0PVtU_41.848085_-71.456718@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311802,
+    "wof:geomhash":"add884d393217dfa878995bbd7efa34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874100599
+        }
+    ],
+    "wof:id":874100599,
+    "wof:lastmodified":1464311802,
+    "wof:name":"New England Physical Therapy",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.456718,
+    41.848085,
+    -71.456718,
+    41.848085
+],
+  "geometry": {"coordinates":[-71.456718,41.848085],"type":"Point"}
+}

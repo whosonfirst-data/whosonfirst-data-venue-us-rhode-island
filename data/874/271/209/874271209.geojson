@@ -1,0 +1,77 @@
+{
+  "id": 874271209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434056,41.828524,-71.434056,41.828524",
+    "geom:latitude":41.828524,
+    "geom:longitude":-71.434056,
+    "iso:country":"US",
+    "sg:address":"480 Valley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 0803",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ReDn8B9mKpl0ofQ7GdQyU_41.828524_-71.434056@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314265,
+    "wof:geomhash":"3591fff75e27dc6fc023f64fe4b9a172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874271209
+        }
+    ],
+    "wof:id":874271209,
+    "wof:lastmodified":1464314265,
+    "wof:name":"Parkway Auto Sales",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.434056,
+    41.828524,
+    -71.434056,
+    41.828524
+],
+  "geometry": {"coordinates":[-71.434056,41.828524],"type":"Point"}
+}

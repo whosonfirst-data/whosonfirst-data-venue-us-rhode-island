@@ -1,0 +1,79 @@
+{
+  "id": 874280649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413704,41.707285,-71.413704,41.707285",
+    "geom:latitude":41.707285,
+    "geom:longitude":-71.413704,
+    "iso:country":"US",
+    "sg:address":"925 Sandy Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 2000",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6G7iEeX8pAYkAcnySmYAdY_41.707285_-71.413704@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314645,
+    "wof:geomhash":"38fb7f15a311dc2694c917a31425a5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":874280649
+        }
+    ],
+    "wof:id":874280649,
+    "wof:lastmodified":1464314645,
+    "wof:name":"Warwick City Emergency Mgmt",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.413704,
+    41.707285,
+    -71.413704,
+    41.707285
+],
+  "geometry": {"coordinates":[-71.413704,41.707285],"type":"Point"}
+}

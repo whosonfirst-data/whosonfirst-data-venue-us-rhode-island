@@ -1,0 +1,71 @@
+{
+  "id": 874288263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.311971,41.757649,-71.311971,41.757649",
+    "geom:latitude":41.757649,
+    "geom:longitude":-71.311971,
+    "iso:country":"US",
+    "sg:address":"15 Teed Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 6868",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refrigeration",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ANWSEzOwdMYSzecBNtz9T_41.757649_-71.311971@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314945,
+    "wof:geomhash":"54719f99406e098fdd3c3b47a35057de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874288263
+        }
+    ],
+    "wof:id":874288263,
+    "wof:lastmodified":1464314945,
+    "wof:name":"Polar Refrigeration",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.311971,
+    41.757649,
+    -71.311971,
+    41.757649
+],
+  "geometry": {"coordinates":[-71.311971,41.757649],"type":"Point"}
+}

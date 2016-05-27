@@ -1,0 +1,84 @@
+{
+  "id": 874153365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28318,41.518395,-71.28318,41.518395",
+    "geom:latitude":41.518395,
+    "geom:longitude":-71.28318,
+    "iso:country":"US",
+    "sg:address":"1151 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 9911",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tile",
+        "marble",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cIrD6PxQ35A5SkFWTgZgC_41.518395_-71.283180@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312359,
+    "wof:geomhash":"af209961b8cb8652a682b84d3705da20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874153365
+        }
+    ],
+    "wof:id":874153365,
+    "wof:lastmodified":1464312359,
+    "wof:name":"Newport Tile & Marble Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "marble",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.28318,
+    41.518395,
+    -71.28318,
+    41.518395
+],
+  "geometry": {"coordinates":[-71.28318,41.518395],"type":"Point"}
+}

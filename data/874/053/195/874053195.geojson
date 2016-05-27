@@ -1,0 +1,69 @@
+{
+  "id": 874053195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565293,41.690398,-71.565293,41.690398",
+    "geom:latitude":41.690398,
+    "geom:longitude":-71.565293,
+    "iso:country":"US",
+    "sg:address":"1146 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0189",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tZBLxOWdWPkYOE6FiHSAt_41.690398_-71.565293@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311270,
+    "wof:geomhash":"430e2d9a79941a1349a2c7b4b5b46d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874053195
+        }
+    ],
+    "wof:id":874053195,
+    "wof:lastmodified":1464311270,
+    "wof:name":"Valley Repair",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related"
+    ]
+},
+  "bbox": [
+    -71.565293,
+    41.690398,
+    -71.565293,
+    41.690398
+],
+  "geometry": {"coordinates":[-71.565293,41.690398],"type":"Point"}
+}

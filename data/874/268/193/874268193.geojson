@@ -1,0 +1,70 @@
+{
+  "id": 874268193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653245,41.38563,-71.653245,41.38563",
+    "geom:latitude":41.38563,
+    "geom:longitude":-71.653245,
+    "iso:country":"US",
+    "sg:address":"4680 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 213 6037",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "sg:website":"www.timhortons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FES6XkHe0AjgIxWhLGF5P_41.385630_-71.653245@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314156,
+    "wof:geomhash":"e0e0a50e047769c2c378d7c856551f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874268193
+        }
+    ],
+    "wof:id":874268193,
+    "wof:lastmodified":1464314156,
+    "wof:name":"Tim Hortons",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.653245,
+    41.38563,
+    -71.653245,
+    41.38563
+],
+  "geometry": {"coordinates":[-71.653245,41.38563],"type":"Point"}
+}

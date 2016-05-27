@@ -1,0 +1,69 @@
+{
+  "id": 874001543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605308,41.38606,-71.605308,41.38606",
+    "geom:latitude":41.38606,
+    "geom:longitude":-71.605308,
+    "iso:country":"US",
+    "sg:address":"46 Canterbury Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2228",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRoLkRhkNN46x8d1MM2GN_41.386060_-71.605308@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310771,
+    "wof:geomhash":"667793d75d41be01f0d325c43d5f5a0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874001543
+        }
+    ],
+    "wof:id":874001543,
+    "wof:lastmodified":1464310771,
+    "wof:name":"Joes Barber Salon",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.605308,
+    41.38606,
+    -71.605308,
+    41.38606
+],
+  "geometry": {"coordinates":[-71.60530799999999,41.38606],"type":"Point"}
+}

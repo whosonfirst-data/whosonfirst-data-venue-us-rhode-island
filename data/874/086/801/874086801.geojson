@@ -1,0 +1,71 @@
+{
+  "id": 874086801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.552927,42.042176,-71.552927,42.042176",
+    "geom:latitude":42.042176,
+    "geom:longitude":-71.552927,
+    "iso:country":"US",
+    "sg:address":"86 Milk St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 5455",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nSFFzKQ44rTzPEZBUiFsq_42.042176_-71.552927@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311628,
+    "wof:geomhash":"c42f85d025c8b337d57bb66ce1864809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":874086801
+        }
+    ],
+    "wof:id":874086801,
+    "wof:lastmodified":1464311628,
+    "wof:name":"J W Campbell Construction Inc",
+    "wof:parent_id":85810765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.552927,
+    42.042176,
+    -71.552927,
+    42.042176
+],
+  "geometry": {"coordinates":[-71.552927,42.042176],"type":"Point"}
+}

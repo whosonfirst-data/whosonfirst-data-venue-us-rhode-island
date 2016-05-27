@@ -1,0 +1,71 @@
+{
+  "id": 873982763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568849,41.680592,-71.568849,41.680592",
+    "geom:latitude":41.680592,
+    "geom:longitude":-71.568849,
+    "iso:country":"US",
+    "sg:address":"936 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 3300",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cV6XSV5MKOe0kp70NGZ0r_41.680592_-71.568849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310630,
+    "wof:geomhash":"dae89b23300cf699fc86b16e2a363108",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":873982763
+        }
+    ],
+    "wof:id":873982763,
+    "wof:lastmodified":1464310630,
+    "wof:name":"L & S Automotive",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.568849,
+    41.680592,
+    -71.568849,
+    41.680592
+],
+  "geometry": {"coordinates":[-71.568849,41.680592],"type":"Point"}
+}

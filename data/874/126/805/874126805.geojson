@@ -1,0 +1,79 @@
+{
+  "id": 874126805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447144,41.796825,-71.447144,41.796825",
+    "geom:latitude":41.796825,
+    "geom:longitude":-71.447144,
+    "iso:country":"US",
+    "sg:address":"1 Fay St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 3336",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5n6VOncmLex8WXBdIsokgq_41.796825_-71.447144@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312101,
+    "wof:geomhash":"e0594ff7d1e853c018eb3db3b29a9ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874126805
+        }
+    ],
+    "wof:id":874126805,
+    "wof:lastmodified":1464312101,
+    "wof:name":"A 1 Moving Storage Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.447144,
+    41.796825,
+    -71.447144,
+    41.796825
+],
+  "geometry": {"coordinates":[-71.44714399999999,41.796825],"type":"Point"}
+}

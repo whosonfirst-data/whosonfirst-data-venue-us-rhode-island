@@ -1,0 +1,77 @@
+{
+  "id": 874260113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40496,41.763802,-71.40496,41.763802",
+    "geom:latitude":41.763802,
+    "geom:longitude":-71.40496,
+    "iso:country":"US",
+    "sg:address":"441 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4000",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805471,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sP3ls5q1jhCAeFWFZN1gJ_41.763802_-71.404960@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313862,
+    "wof:geomhash":"1c2ea2dd9a4935414d10524ead24ee4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85805471,
+            "region_id":85688509,
+            "venue_id":874260113
+        }
+    ],
+    "wof:id":874260113,
+    "wof:lastmodified":1464313862,
+    "wof:name":"Press Express Cleaners",
+    "wof:parent_id":85805471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.40496,
+    41.763802,
+    -71.40496,
+    41.763802
+],
+  "geometry": {"coordinates":[-71.40496,41.763802],"type":"Point"}
+}

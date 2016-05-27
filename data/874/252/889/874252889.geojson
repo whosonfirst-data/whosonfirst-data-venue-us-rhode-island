@@ -1,0 +1,80 @@
+{
+  "id": 874252889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.301063,41.515808,-71.301063,41.515808",
+    "geom:latitude":41.515808,
+    "geom:longitude":-71.301063,
+    "iso:country":"US",
+    "sg:address":"356 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 4233",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49KNwK4e68Fv8mT52tk3Ig_41.515808_-71.301063@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313622,
+    "wof:geomhash":"d1adf8a6119738459bfa8a4989ecdac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874252889
+        }
+    ],
+    "wof:id":874252889,
+    "wof:lastmodified":1464313622,
+    "wof:name":"Middletown Mobile",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.301063,
+    41.515808,
+    -71.301063,
+    41.515808
+],
+  "geometry": {"coordinates":[-71.301063,41.515808],"type":"Point"}
+}

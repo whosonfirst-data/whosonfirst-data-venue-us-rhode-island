@@ -1,0 +1,74 @@
+{
+  "id": 874016241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510566,41.53185,-71.510566,41.53185",
+    "geom:latitude":41.53185,
+    "geom:longitude":-71.510566,
+    "iso:country":"US",
+    "sg:address":"757 Indian Corner Rd",
+    "sg:city":"Slocum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3100",
+    "sg:postcode":"02877",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sod",
+        "sodding"
+    ],
+    "sg:website":"www.sodco.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W9sumQEhWti7G68Vnq34Z_41.531850_-71.510566@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310901,
+    "wof:geomhash":"1780c46e055c88988b5a4c7a4c005985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874016241
+        }
+    ],
+    "wof:id":874016241,
+    "wof:lastmodified":1464310901,
+    "wof:name":"Sodco",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sod",
+        "sodding"
+    ]
+},
+  "bbox": [
+    -71.510566,
+    41.53185,
+    -71.510566,
+    41.53185
+],
+  "geometry": {"coordinates":[-71.510566,41.53185],"type":"Point"}
+}

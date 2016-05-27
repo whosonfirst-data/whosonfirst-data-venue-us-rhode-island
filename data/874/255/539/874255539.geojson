@@ -1,0 +1,71 @@
+{
+  "id": 874255539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467485,41.819897,-71.467485,41.819897",
+    "geom:latitude":41.819897,
+    "geom:longitude":-71.467485,
+    "iso:country":"US",
+    "sg:address":"675 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 6407",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PgsxbMvsMVpS7sazUrnKa_41.819897_-71.467485@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313687,
+    "wof:geomhash":"6aaaad64b20957082adcef755a102b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874255539
+        }
+    ],
+    "wof:id":874255539,
+    "wof:lastmodified":1464313687,
+    "wof:name":"Westminster Auto Repair",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.467485,
+    41.819897,
+    -71.467485,
+    41.819897
+],
+  "geometry": {"coordinates":[-71.467485,41.819897],"type":"Point"}
+}

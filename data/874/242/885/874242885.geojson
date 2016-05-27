@@ -1,0 +1,77 @@
+{
+  "id": 874242885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416595,41.799758,-71.416595,41.799758",
+    "geom:latitude":41.799758,
+    "geom:longitude":-71.416595,
+    "iso:country":"US",
+    "sg:address":"908 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 6055",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yj44jHKv2NQYfq8qimmhR_41.799758_-71.416595@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313392,
+    "wof:geomhash":"66a88952e452d2190d672e45ea25ef53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874242885
+        }
+    ],
+    "wof:id":874242885,
+    "wof:lastmodified":1464313392,
+    "wof:name":"San Maguel Transportation Inc",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -71.416595,
+    41.799758,
+    -71.416595,
+    41.799758
+],
+  "geometry": {"coordinates":[-71.416595,41.799758],"type":"Point"}
+}

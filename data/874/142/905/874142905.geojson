@@ -1,0 +1,71 @@
+{
+  "id": 874142905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367256,41.551913,-71.367256,41.551913",
+    "geom:latitude":41.551913,
+    "geom:longitude":-71.367256,
+    "iso:country":"US",
+    "sg:address":"95 America Way",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 1404",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Dxjn9SuqTkvktQu2rMt9M_41.551913_-71.367256@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312261,
+    "wof:geomhash":"0ec0835dd99b632b49496ba07ac75a8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874142905
+        }
+    ],
+    "wof:id":874142905,
+    "wof:lastmodified":1464312261,
+    "wof:name":"Thermal Structures Inc",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.367256,
+    41.551913,
+    -71.367256,
+    41.551913
+],
+  "geometry": {"coordinates":[-71.367256,41.551913],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 874287803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.366847,41.886719,-71.366847,41.886719",
+    "geom:latitude":41.886719,
+    "geom:longitude":-71.366847,
+    "iso:country":"US",
+    "sg:address":"372 Cottage St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/pawtucket/138863-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 5878",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Vv6df9nXBxAaJa6kZJUgu_41.887234_-71.366149@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314928,
+    "wof:geomhash":"93d52f662497367b71215a6683e3c167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874287803
+        }
+    ],
+    "wof:id":874287803,
+    "wof:lastmodified":1464314928,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.366847,
+    41.886719,
+    -71.366847,
+    41.886719
+],
+  "geometry": {"coordinates":[-71.36684700000001,41.886719],"type":"Point"}
+}

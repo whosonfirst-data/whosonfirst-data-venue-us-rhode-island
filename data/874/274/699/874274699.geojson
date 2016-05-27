@@ -1,0 +1,75 @@
+{
+  "id": 874274699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456519,41.714446,-71.456519,41.714446",
+    "geom:latitude":41.714446,
+    "geom:longitude":-71.456519,
+    "iso:country":"US",
+    "sg:address":"1035 Main Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 3330",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQVQsRl1nu9aG9G0HR2gx_41.714446_-71.456519@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314392,
+    "wof:geomhash":"303d3c82f07288a9af85b1c80abaf51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874274699
+        }
+    ],
+    "wof:id":874274699,
+    "wof:lastmodified":1464314392,
+    "wof:name":"Ronald J Morton Family Dntstry",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.456519,
+    41.714446,
+    -71.456519,
+    41.714446
+],
+  "geometry": {"coordinates":[-71.456519,41.714446],"type":"Point"}
+}

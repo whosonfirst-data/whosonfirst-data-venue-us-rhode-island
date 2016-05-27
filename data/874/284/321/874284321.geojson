@@ -1,0 +1,78 @@
+{
+  "id": 874284321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411102,41.8922,-71.411102,41.8922",
+    "geom:latitude":41.8922,
+    "geom:longitude":-71.411102,
+    "iso:country":"US",
+    "sg:address":"1208 Smithfield Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 9753",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tDf21ygE7dRLIuu19c1o0_41.892373_-71.411318@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314785,
+    "wof:geomhash":"2564704943af4ce7ef11302c0e64e139",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874284321
+        }
+    ],
+    "wof:id":874284321,
+    "wof:lastmodified":1464314785,
+    "wof:name":"Automotive Services & Technology",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.411102,
+    41.8922,
+    -71.411102,
+    41.8922
+],
+  "geometry": {"coordinates":[-71.411102,41.8922],"type":"Point"}
+}

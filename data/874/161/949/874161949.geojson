@@ -1,0 +1,69 @@
+{
+  "id": 874161949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274499,41.736338,-71.274499,41.736338",
+    "geom:latitude":41.736338,
+    "geom:longitude":-71.274499,
+    "iso:country":"US",
+    "sg:address":"292 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0999",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0E8JDt0ZjehC0fAnYiJ7j1_41.736338_-71.274499@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312450,
+    "wof:geomhash":"7614d1d5652415d173de8ae3fe946401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874161949
+        }
+    ],
+    "wof:id":874161949,
+    "wof:lastmodified":1464312450,
+    "wof:name":"Dupont Auto",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.274499,
+    41.736338,
+    -71.274499,
+    41.736338
+],
+  "geometry": {"coordinates":[-71.27449900000001,41.736338],"type":"Point"}
+}

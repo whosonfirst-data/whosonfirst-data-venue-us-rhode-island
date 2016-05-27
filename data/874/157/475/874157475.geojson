@@ -1,0 +1,77 @@
+{
+  "id": 874157475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.315489,41.500065,-71.315489,41.500065",
+    "geom:latitude":41.500065,
+    "geom:longitude":-71.315489,
+    "iso:country":"US",
+    "sg:address":"4 Evarts St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 3599",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vS7I73YS3pnLUhEtUMxfv_41.500065_-71.315489@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312403,
+    "wof:geomhash":"9b02c1ebf62a7a13f043af4b59fa5c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874157475
+        }
+    ],
+    "wof:id":874157475,
+    "wof:lastmodified":1464312403,
+    "wof:name":"JV Electric Co Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.315489,
+    41.500065,
+    -71.315489,
+    41.500065
+],
+  "geometry": {"coordinates":[-71.315489,41.500065],"type":"Point"}
+}

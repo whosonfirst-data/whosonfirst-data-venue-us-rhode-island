@@ -1,0 +1,71 @@
+{
+  "id": 874018723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509743,41.690183,-71.509743,41.690183",
+    "geom:latitude":41.690183,
+    "geom:longitude":-71.509743,
+    "iso:country":"US",
+    "sg:address":"77 Coit Ave",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 0614",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jdsM1nK570LvppyPbBXHr_41.690183_-71.509743@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310934,
+    "wof:geomhash":"62b5ca574b0f1bd449c45167a5a6193c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874018723
+        }
+    ],
+    "wof:id":874018723,
+    "wof:lastmodified":1464310934,
+    "wof:name":"B & K Lawncare",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.509743,
+    41.690183,
+    -71.509743,
+    41.690183
+],
+  "geometry": {"coordinates":[-71.509743,41.690183],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874100267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407226,41.808974,-71.407226,41.808974",
+    "geom:latitude":41.808974,
+    "geom:longitude":-71.407226,
+    "iso:country":"US",
+    "sg:address":"695 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 1924",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uWkYn2KTjNzzERH7ys16T_41.808974_-71.407226@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311797,
+    "wof:geomhash":"ed5084f0f69bc94923b6c20aa0bee3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874100267
+        }
+    ],
+    "wof:id":874100267,
+    "wof:lastmodified":1464311797,
+    "wof:name":"Vein Treatment Ctr",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.407226,
+    41.808974,
+    -71.407226,
+    41.808974
+],
+  "geometry": {"coordinates":[-71.40722599999999,41.808974],"type":"Point"}
+}

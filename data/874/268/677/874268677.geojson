@@ -1,0 +1,85 @@
+{
+  "id": 874268677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41193,41.817652,-71.41193,41.817652",
+    "geom:latitude":41.817652,
+    "geom:longitude":-71.41193,
+    "iso:country":"US",
+    "sg:address":"55 Claverick St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 277 0800",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "business",
+        "for"
+    ],
+    "sg:website":"www.cweprovidence.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IGcfwiurnL6AZaOtEix9N_41.817652_-71.411930@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314178,
+    "wof:geomhash":"e6b74305aa5db35c78fd362990b715e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874268677
+        }
+    ],
+    "wof:id":874268677,
+    "wof:lastmodified":1464314178,
+    "wof:name":"Center For Women & Enteprise",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business",
+        "for"
+    ]
+},
+  "bbox": [
+    -71.41193,
+    41.817652,
+    -71.41193,
+    41.817652
+],
+  "geometry": {"coordinates":[-71.41193,41.817652],"type":"Point"}
+}

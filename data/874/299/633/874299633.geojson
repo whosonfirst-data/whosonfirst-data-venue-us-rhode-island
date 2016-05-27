@@ -1,0 +1,70 @@
+{
+  "id": 874299633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412892,41.858344,-71.412892,41.858344",
+    "geom:latitude":41.858344,
+    "geom:longitude":-71.412892,
+    "iso:country":"US",
+    "sg:address":"66 Marisa Ln",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 1000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YK2YOeR6zpqym1S2Yo9io_41.858344_-71.412892@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315376,
+    "wof:geomhash":"123ad82acf1509a5dcdb10108dbc304d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299633
+        }
+    ],
+    "wof:id":874299633,
+    "wof:lastmodified":1464315376,
+    "wof:name":"Citizens Auto Body",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.412892,
+    41.858344,
+    -71.412892,
+    41.858344
+],
+  "geometry": {"coordinates":[-71.412892,41.858344],"type":"Point"}
+}

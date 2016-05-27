@@ -1,0 +1,71 @@
+{
+  "id": 874112781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.669913,41.375153,-71.669913,41.375153",
+    "geom:latitude":41.375153,
+    "geom:longitude":-71.669913,
+    "iso:country":"US",
+    "sg:address":"5209 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 315 2680",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ntc3dV0u4T2egfkNqqqpJ_41.375153_-71.669913@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311965,
+    "wof:geomhash":"fc0afedbb7f805c812971dc4195e959c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874112781
+        }
+    ],
+    "wof:id":874112781,
+    "wof:lastmodified":1464311965,
+    "wof:name":"Charlestown Landscaping",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.669913,
+    41.375153,
+    -71.669913,
+    41.375153
+],
+  "geometry": {"coordinates":[-71.66991299999999,41.375153],"type":"Point"}
+}

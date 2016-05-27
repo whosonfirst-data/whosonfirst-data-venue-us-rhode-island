@@ -1,0 +1,75 @@
+{
+  "id": 874286553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444504,41.818001,-71.444504,41.818001",
+    "geom:latitude":41.818001,
+    "geom:longitude":-71.444504,
+    "iso:country":"US",
+    "sg:address":"80 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 3651",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wmiteo6zgrqZj6dCePod0_41.818020_-71.445004@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314875,
+    "wof:geomhash":"a7b9a2e70235adc732d2df9da3fdf9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874286553
+        }
+    ],
+    "wof:id":874286553,
+    "wof:lastmodified":1464314875,
+    "wof:name":"Price Right",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.444504,
+    41.818001,
+    -71.444504,
+    41.818001
+],
+  "geometry": {"coordinates":[-71.44450399999999,41.818001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874005523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530122,41.453819,-71.530122,41.453819",
+    "geom:latitude":41.453819,
+    "geom:longitude":-71.530122,
+    "iso:country":"US",
+    "sg:address":"761 Curtis Corner Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3137",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27RKYS4ld4GWvBlHrN5YMr_41.453819_-71.530122@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"3ec498056cf76fbdd3443ee0b8bfe349",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874005523
+        }
+    ],
+    "wof:id":874005523,
+    "wof:lastmodified":1464310820,
+    "wof:name":"J Gilbert Builders Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.530122,
+    41.453819,
+    -71.530122,
+    41.453819
+],
+  "geometry": {"coordinates":[-71.53012200000001,41.453819],"type":"Point"}
+}

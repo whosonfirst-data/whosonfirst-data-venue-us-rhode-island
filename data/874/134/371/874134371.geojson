@@ -1,0 +1,72 @@
+{
+  "id": 874134371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454601,41.568126,-71.454601,41.568126",
+    "geom:latitude":41.568126,
+    "geom:longitude":-71.454601,
+    "iso:country":"US",
+    "sg:address":"70 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5711",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CDzN9ckUVTdX0bFzyQbcR_41.568126_-71.454601@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312185,
+    "wof:geomhash":"7d41b9f18c17291354e30a775a929a00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874134371
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874134371
+        }
+    ],
+    "wof:id":874134371,
+    "wof:lastmodified":1464312185,
+    "wof:name":"Maya Realty LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.454601,
+    41.568126,
+    -71.454601,
+    41.568126
+],
+  "geometry": {"coordinates":[-71.454601,41.568126],"type":"Point"}
+}

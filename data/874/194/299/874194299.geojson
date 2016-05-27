@@ -1,0 +1,75 @@
+{
+  "id": 874194299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.361849,41.82139,-71.361849,41.82139",
+    "geom:latitude":41.82139,
+    "geom:longitude":-71.361849,
+    "iso:country":"US",
+    "sg:address":"10 Goldsmith Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 3586",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809611,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KDIp2wskPqXujDwLzyc0H_41.821390_-71.361849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312782,
+    "wof:geomhash":"44fb9d95d92b3d0cc3bd980f9b760f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85809611,
+            "region_id":85688509,
+            "venue_id":874194299
+        }
+    ],
+    "wof:id":874194299,
+    "wof:lastmodified":1464312782,
+    "wof:name":"United Automotive Service Inc",
+    "wof:parent_id":85809611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.361849,
+    41.82139,
+    -71.361849,
+    41.82139
+],
+  "geometry": {"coordinates":[-71.36184900000001,41.82139],"type":"Point"}
+}

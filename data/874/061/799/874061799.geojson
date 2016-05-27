@@ -1,0 +1,77 @@
+{
+  "id": 874061799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451126,41.575325,-71.451126,41.575325",
+    "geom:latitude":41.575325,
+    "geom:longitude":-71.451126,
+    "iso:country":"US",
+    "sg:address":"52 Ocean Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2530",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RrA71Hp4vBMSAFU9XRmC2_41.575325_-71.451126@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311351,
+    "wof:geomhash":"bea01b9ef0d4b8e73956f70eb3f73ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874061799
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874061799
+        }
+    ],
+    "wof:id":874061799,
+    "wof:lastmodified":1464311351,
+    "wof:name":"Magic Mirror",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.451126,
+    41.575325,
+    -71.451126,
+    41.575325
+],
+  "geometry": {"coordinates":[-71.451126,41.575325],"type":"Point"}
+}

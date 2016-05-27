@@ -1,0 +1,71 @@
+{
+  "id": 874261167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524515,41.475425,-71.524515,41.475425",
+    "geom:latitude":41.475425,
+    "geom:longitude":-71.524515,
+    "iso:country":"US",
+    "sg:address":"1640 South Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1140",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JIdJiXU5xBefpkgaWumRc_41.475425_-71.524515@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313897,
+    "wof:geomhash":"6e8032ab6c9b880097410793574eff86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874261167
+        }
+    ],
+    "wof:id":874261167,
+    "wof:lastmodified":1464313897,
+    "wof:name":"Thomas W Vignali CPA",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -71.524515,
+    41.475425,
+    -71.524515,
+    41.475425
+],
+  "geometry": {"coordinates":[-71.52451499999999,41.475425],"type":"Point"}
+}

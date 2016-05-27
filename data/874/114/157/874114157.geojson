@@ -1,0 +1,71 @@
+{
+  "id": 874114157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.584173,42.001361,-71.584173,42.001361",
+    "geom:latitude":42.001361,
+    "geom:longitude":-71.584173,
+    "iso:country":"US",
+    "sg:address":"18 Edward Ave",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 6323",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iAqQjeUbKLgB9655Dw9zp_42.001361_-71.584173@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311978,
+    "wof:geomhash":"791662523dcc2ee26978cedd9fbbed26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874114157
+        }
+    ],
+    "wof:id":874114157,
+    "wof:lastmodified":1464311978,
+    "wof:name":"New England Striping",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -71.584173,
+    42.001361,
+    -71.584173,
+    42.001361
+],
+  "geometry": {"coordinates":[-71.58417300000001,42.001361],"type":"Point"}
+}

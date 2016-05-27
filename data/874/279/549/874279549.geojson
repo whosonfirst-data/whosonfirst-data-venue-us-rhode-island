@@ -1,0 +1,69 @@
+{
+  "id": 874279549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483602,41.557192,-71.483602,41.557192",
+    "geom:latitude":41.557192,
+    "geom:longitude":-71.483602,
+    "iso:country":"US",
+    "sg:address":"500 Oak Hill Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3263",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lY5VWeJflwbbN1RCXNEJq_41.557192_-71.483602@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314591,
+    "wof:geomhash":"c14ff2ab58a1f0a1f928df4d1eecb071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874279549
+        }
+    ],
+    "wof:id":874279549,
+    "wof:lastmodified":1464314591,
+    "wof:name":"Oak Hill Pumping Station",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.483602,
+    41.557192,
+    -71.483602,
+    41.557192
+],
+  "geometry": {"coordinates":[-71.483602,41.557192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874183879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495234,41.967879,-71.495234,41.967879",
+    "geom:latitude":41.967879,
+    "geom:longitude":-71.495234,
+    "iso:country":"US",
+    "sg:address":"1141 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 3101",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23jlcHS0wYz833JOI3b3HP_41.967879_-71.495234@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312676,
+    "wof:geomhash":"5a60db4a283245041d9bb58a1696a2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874183879
+        }
+    ],
+    "wof:id":874183879,
+    "wof:lastmodified":1464312676,
+    "wof:name":"D H Keene Septic Svc",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.495234,
+    41.967879,
+    -71.495234,
+    41.967879
+],
+  "geometry": {"coordinates":[-71.495234,41.967879],"type":"Point"}
+}

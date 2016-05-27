@@ -1,0 +1,81 @@
+{
+  "id": 874203433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447364,41.776737,-71.447364,41.776737",
+    "geom:latitude":41.776737,
+    "geom:longitude":-71.447364,
+    "iso:country":"US",
+    "sg:address":"868 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 9933",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j0ZdlXqFDqnmslM6pLQ78_41.776737_-71.447364@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312878,
+    "wof:geomhash":"8809c5ee341142022fedd10093ce0fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874203433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874203433
+        }
+    ],
+    "wof:id":874203433,
+    "wof:lastmodified":1464312878,
+    "wof:name":"Envisions Eyecare Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.447364,
+    41.776737,
+    -71.447364,
+    41.776737
+],
+  "geometry": {"coordinates":[-71.44736399999999,41.776737],"type":"Point"}
+}

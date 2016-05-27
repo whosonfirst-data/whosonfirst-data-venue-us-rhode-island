@@ -1,0 +1,71 @@
+{
+  "id": 874258509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281176,41.713698,-71.281176,41.713698",
+    "geom:latitude":41.713698,
+    "geom:longitude":-71.281176,
+    "iso:country":"US",
+    "sg:address":"8 Baggy Wrinkle Cove",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1476",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_065CX3uFkWSR5myAolJA5g_41.713698_-71.281176@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313788,
+    "wof:geomhash":"e4f8f418c083c0b26cc6ebb3dc14d3c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874258509
+        }
+    ],
+    "wof:id":874258509,
+    "wof:lastmodified":1464313788,
+    "wof:name":"D S Welding Services Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.281176,
+    41.713698,
+    -71.281176,
+    41.713698
+],
+  "geometry": {"coordinates":[-71.281176,41.713698],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874226243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363136,41.71646,-71.363136,41.71646",
+    "geom:latitude":41.71646,
+    "geom:longitude":-71.363136,
+    "iso:country":"US",
+    "sg:address":"30 Foster St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 2555",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844795,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VWIFiE4a3GGKj4iu71ahM_41.716460_-71.363136@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313123,
+    "wof:geomhash":"bc4748580d5e4d970efe41d54c32adea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85844795,
+            "region_id":85688509,
+            "venue_id":874226243
+        }
+    ],
+    "wof:id":874226243,
+    "wof:lastmodified":1464313123,
+    "wof:name":"Primary Mortgage Corp",
+    "wof:parent_id":85844795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -71.363136,
+    41.71646,
+    -71.363136,
+    41.71646
+],
+  "geometry": {"coordinates":[-71.363136,41.71646],"type":"Point"}
+}

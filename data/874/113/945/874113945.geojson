@@ -1,0 +1,71 @@
+{
+  "id": 874113945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.588992,41.430307,-71.588992,41.430307",
+    "geom:latitude":41.430307,
+    "geom:longitude":-71.588992,
+    "iso:country":"US",
+    "sg:address":"360 Sand Trail Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2225",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3y3smftyZE4rrKc1dBE864_41.430307_-71.588992@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311976,
+    "wof:geomhash":"2b9776ed9584439a665b5d8fe919afc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874113945
+        }
+    ],
+    "wof:id":874113945,
+    "wof:lastmodified":1464311976,
+    "wof:name":"Northeast Granite",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.588992,
+    41.430307,
+    -71.588992,
+    41.430307
+],
+  "geometry": {"coordinates":[-71.588992,41.430307],"type":"Point"}
+}

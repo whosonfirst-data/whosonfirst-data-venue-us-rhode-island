@@ -1,0 +1,91 @@
+{
+  "id": 874280435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490436,41.441216,-71.490436,41.441216",
+    "geom:latitude":41.441216,
+    "geom:longitude":-71.490436,
+    "iso:country":"US",
+    "sg:address":"58 Main St",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5390",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HESDwGjKwjmWHyMhpNpqM_41.441216_-71.490436@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314631,
+    "wof:geomhash":"c52355b57840c0faf1ace38d8e7265dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874280435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874280435
+        }
+    ],
+    "wof:id":874280435,
+    "wof:lastmodified":1464314631,
+    "wof:name":"Wakefield Music Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.490436,
+    41.441216,
+    -71.490436,
+    41.441216
+],
+  "geometry": {"coordinates":[-71.490436,41.441216],"type":"Point"}
+}

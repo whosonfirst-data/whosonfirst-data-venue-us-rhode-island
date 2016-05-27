@@ -1,0 +1,75 @@
+{
+  "id": 874250121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485359,41.722981,-71.485359,41.722981",
+    "geom:latitude":41.722981,
+    "geom:longitude":-71.485359,
+    "iso:country":"US",
+    "sg:address":"53 Carr's Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 486 5933",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43AtK4e1qjHH1aMleA77Gb_41.722981_-71.485359@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313568,
+    "wof:geomhash":"f629b9b0207ec36377887f82023b77ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874250121
+        }
+    ],
+    "wof:id":874250121,
+    "wof:lastmodified":1464313568,
+    "wof:name":"Two Dogs Cleaning Inc",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.485359,
+    41.722981,
+    -71.485359,
+    41.722981
+],
+  "geometry": {"coordinates":[-71.485359,41.722981],"type":"Point"}
+}

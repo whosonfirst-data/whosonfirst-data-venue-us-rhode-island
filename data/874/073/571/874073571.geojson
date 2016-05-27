@@ -1,0 +1,79 @@
+{
+  "id": 874073571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506653,42.00222,-71.506653,42.00222",
+    "geom:latitude":42.00222,
+    "geom:longitude":-71.506653,
+    "iso:country":"US",
+    "sg:address":"55 Hamlet Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 9500",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QdW5KVSiuQZ6eWowmfXF4_42.002220_-71.506653@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311487,
+    "wof:geomhash":"6a89f1959070e72aaf2e60982b9569c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874073571
+        }
+    ],
+    "wof:id":874073571,
+    "wof:lastmodified":1464311487,
+    "wof:name":"David B Stoll MD",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.506653,
+    42.00222,
+    -71.506653,
+    42.00222
+],
+  "geometry": {"coordinates":[-71.506653,42.00222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874277909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.310426,41.481483,-71.310426,41.481483",
+    "geom:latitude":41.481483,
+    "geom:longitude":-71.310426,
+    "iso:country":"US",
+    "sg:address":"35 King St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 7426",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:website":"www.edwardkinghouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i743i34aOfATe6JDJ2HEy_41.481483_-71.310426@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314536,
+    "wof:geomhash":"86cecb83e45afc95aaf4cc992dbfa276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874277909
+        }
+    ],
+    "wof:id":874277909,
+    "wof:lastmodified":1464314536,
+    "wof:name":"King Edward House",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.310426,
+    41.481483,
+    -71.310426,
+    41.481483
+],
+  "geometry": {"coordinates":[-71.31042600000001,41.481483],"type":"Point"}
+}

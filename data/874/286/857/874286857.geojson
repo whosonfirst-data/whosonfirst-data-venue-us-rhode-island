@@ -1,0 +1,80 @@
+{
+  "id": 874286857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452977,41.571483,-71.452977,41.571483",
+    "geom:latitude":41.571483,
+    "geom:longitude":-71.452977,
+    "iso:country":"US",
+    "sg:address":"16 W Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-kingstown/249065-tavern-by-the-sea/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 5771",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MXpSHMXUSJQa16GoE7keq_41.571483_-71.452977@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314885,
+    "wof:geomhash":"09f7cdbb014ef3cdb53407d418c5c5ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874286857
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874286857
+        }
+    ],
+    "wof:id":874286857,
+    "wof:lastmodified":1464314885,
+    "wof:name":"Tavern By The Sea",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.452977,
+    41.571483,
+    -71.452977,
+    41.571483
+],
+  "geometry": {"coordinates":[-71.452977,41.571483],"type":"Point"}
+}

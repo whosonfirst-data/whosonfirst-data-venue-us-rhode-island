@@ -1,0 +1,75 @@
+{
+  "id": 874263273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430344,41.82376,-71.430344,41.82376",
+    "geom:latitude":41.82376,
+    "geom:longitude":-71.430344,
+    "iso:country":"US",
+    "sg:address":"400 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 0820",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GsXSC4f1dVEqaQvqqFhHg_41.823760_-71.430344@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313967,
+    "wof:geomhash":"ceea57cc25fa9d98a5fc49091945c869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874263273
+        }
+    ],
+    "wof:id":874263273,
+    "wof:lastmodified":1464313967,
+    "wof:name":"Problem Pregnancy-Providence",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.430344,
+    41.82376,
+    -71.430344,
+    41.82376
+],
+  "geometry": {"coordinates":[-71.43034400000001,41.82376],"type":"Point"}
+}

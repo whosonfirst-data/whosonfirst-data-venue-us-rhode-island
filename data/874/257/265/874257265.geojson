@@ -1,0 +1,75 @@
+{
+  "id": 874257265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.644015,41.389928,-71.644015,41.389928",
+    "geom:latitude":41.389928,
+    "geom:longitude":-71.644015,
+    "iso:country":"US",
+    "sg:address":"35 Indian Trl",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9008",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "satellite",
+        "audio",
+        "video",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ArV4QgKZi3rgrGpv4ROot_41.389928_-71.644015@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313734,
+    "wof:geomhash":"90ee4f56a64fb8571397ab9b5cb25a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874257265
+        }
+    ],
+    "wof:id":874257265,
+    "wof:lastmodified":1464313734,
+    "wof:name":"South County Satellite",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "satellite",
+        "audio",
+        "video",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.644015,
+    41.389928,
+    -71.644015,
+    41.389928
+],
+  "geometry": {"coordinates":[-71.644015,41.389928],"type":"Point"}
+}

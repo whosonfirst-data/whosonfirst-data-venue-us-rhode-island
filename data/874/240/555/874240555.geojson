@@ -1,0 +1,75 @@
+{
+  "id": 874240555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398858,41.823484,-71.398858,41.823484",
+    "geom:latitude":41.823484,
+    "geom:longitude":-71.398858,
+    "iso:country":"US",
+    "sg:address":"250 Brook St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 5257",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qoSwAYzoDqSboVY8Y1AmJ_41.823484_-71.398858@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313350,
+    "wof:geomhash":"a3d7f1b63bf7bdb0ba40638becd26130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874240555
+        }
+    ],
+    "wof:id":874240555,
+    "wof:lastmodified":1464313350,
+    "wof:name":"Universal Laudromat",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.398858,
+    41.823484,
+    -71.398858,
+    41.823484
+],
+  "geometry": {"coordinates":[-71.398858,41.823484],"type":"Point"}
+}

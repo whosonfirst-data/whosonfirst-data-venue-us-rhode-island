@@ -1,0 +1,73 @@
+{
+  "id": 874099885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571229,41.6922,-71.571229,41.6922",
+    "geom:latitude":41.6922,
+    "geom:longitude":-71.571229,
+    "iso:country":"US",
+    "sg:address":"1333 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 5348",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pOPqcHpHEH5bThclgycSo_41.692200_-71.571229@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311791,
+    "wof:geomhash":"9d882ab542e2350c2e525b8577e45af4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874099885
+        }
+    ],
+    "wof:id":874099885,
+    "wof:lastmodified":1464311791,
+    "wof:name":"George's Automotive Repair",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.571229,
+    41.6922,
+    -71.571229,
+    41.6922
+],
+  "geometry": {"coordinates":[-71.571229,41.6922],"type":"Point"}
+}

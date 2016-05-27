@@ -1,0 +1,69 @@
+{
+  "id": 873985389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50827,41.868687,-71.50827,41.868687",
+    "geom:latitude":41.868687,
+    "geom:longitude":-71.50827,
+    "iso:country":"US",
+    "sg:address":"266 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 3200",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KjmWB9eZXqDqjCf6L7ilj_41.868687_-71.508270@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"d09ba82878789e190d1a70cc25ae013f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":873985389
+        }
+    ],
+    "wof:id":873985389,
+    "wof:lastmodified":1464310653,
+    "wof:name":"N Veltri Survey Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -71.50827,
+    41.868687,
+    -71.50827,
+    41.868687
+],
+  "geometry": {"coordinates":[-71.50827,41.868687],"type":"Point"}
+}

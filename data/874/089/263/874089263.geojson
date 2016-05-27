@@ -1,0 +1,81 @@
+{
+  "id": 874089263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451141,41.792778,-71.451141,41.792778",
+    "geom:latitude":41.792778,
+    "geom:longitude":-71.451141,
+    "iso:country":"US",
+    "sg:address":"1225 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 0450",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j1BCYcpflfdYSBZAwMs3I_41.792778_-71.451141@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311653,
+    "wof:geomhash":"0a14b808cf8d46fb01ea8a9d0ca6ce3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874089263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874089263
+        }
+    ],
+    "wof:id":874089263,
+    "wof:lastmodified":1464311653,
+    "wof:name":"International Insurance Agcy",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.451141,
+    41.792778,
+    -71.451141,
+    41.792778
+],
+  "geometry": {"coordinates":[-71.45114100000001,41.792778],"type":"Point"}
+}

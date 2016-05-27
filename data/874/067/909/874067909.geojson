@@ -1,0 +1,71 @@
+{
+  "id": 874067909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520429,41.388549,-71.520429,41.388549",
+    "geom:latitude":41.388549,
+    "geom:longitude":-71.520429,
+    "iso:country":"US",
+    "sg:address":"39 Summer St",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 580 9841",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u0PpXd173sSOAlik981Qc_41.388549_-71.520429@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311407,
+    "wof:geomhash":"09b1614dabd2c733c2e64a149252a237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874067909
+        }
+    ],
+    "wof:id":874067909,
+    "wof:lastmodified":1464311407,
+    "wof:name":"A Perri & Sons Septic Svc",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.520429,
+    41.388549,
+    -71.520429,
+    41.388549
+],
+  "geometry": {"coordinates":[-71.52042899999999,41.388549],"type":"Point"}
+}

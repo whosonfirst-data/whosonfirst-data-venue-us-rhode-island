@@ -1,0 +1,71 @@
+{
+  "id": 874303359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462997,41.8507,-71.462997,41.8507",
+    "geom:latitude":41.8507,
+    "geom:longitude":-71.462997,
+    "iso:country":"US",
+    "sg:address":"1545 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1550",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TpLR3e9V0wzLu1oBbc7jA_41.850700_-71.462997@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315507,
+    "wof:geomhash":"84768b5bf05374e67799e80fcdadb9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303359
+        }
+    ],
+    "wof:id":874303359,
+    "wof:lastmodified":1464315507,
+    "wof:name":"Correia Philip DDS",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.462997,
+    41.8507,
+    -71.462997,
+    41.8507
+],
+  "geometry": {"coordinates":[-71.462997,41.8507],"type":"Point"}
+}

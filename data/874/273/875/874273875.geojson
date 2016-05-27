@@ -1,0 +1,78 @@
+{
+  "id": 874273875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402173,41.888989,-71.402173,41.888989",
+    "geom:latitude":41.888989,
+    "geom:longitude":-71.402173,
+    "iso:country":"US",
+    "sg:address":"900 Lonsdale Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 2722",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "coating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_391ITX99eE3xc2VILnouWG_41.888989_-71.402173@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314363,
+    "wof:geomhash":"5fd4ce2e071f0b05ef97dae8e2321ff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874273875
+        }
+    ],
+    "wof:id":874273875,
+    "wof:lastmodified":1464314363,
+    "wof:name":"Metal Spraying Co Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "coating"
+    ]
+},
+  "bbox": [
+    -71.402173,
+    41.888989,
+    -71.402173,
+    41.888989
+],
+  "geometry": {"coordinates":[-71.402173,41.888989],"type":"Point"}
+}

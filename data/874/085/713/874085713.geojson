@@ -1,0 +1,70 @@
+{
+  "id": 874085713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395123,41.848837,-71.395123,41.848837",
+    "geom:latitude":41.848837,
+    "geom:longitude":-71.395123,
+    "iso:country":"US",
+    "sg:address":"810 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8962",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H2kjLRQFT1kvjr8YDto8V_41.848837_-71.395123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311617,
+    "wof:geomhash":"285ee0c88e1635823aeba94ea7b991f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874085713
+        }
+    ],
+    "wof:id":874085713,
+    "wof:lastmodified":1464311617,
+    "wof:name":"Gallery Cafe",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.395123,
+    41.848837,
+    -71.395123,
+    41.848837
+],
+  "geometry": {"coordinates":[-71.395123,41.848837],"type":"Point"}
+}

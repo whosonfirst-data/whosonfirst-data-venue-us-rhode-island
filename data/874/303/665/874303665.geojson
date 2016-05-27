@@ -1,0 +1,79 @@
+{
+  "id": 874303665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.375569,41.815449,-71.375569,41.815449",
+    "geom:latitude":41.815449,
+    "geom:longitude":-71.375569,
+    "iso:country":"US",
+    "sg:address":"208 Warren Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 4386",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05yoo1sKs6VBAtIONsiCz3_41.815449_-71.375569@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315517,
+    "wof:geomhash":"13606a39a567504b3abaa6474ed66b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874303665
+        }
+    ],
+    "wof:id":874303665,
+    "wof:lastmodified":1464315517,
+    "wof:name":"Warren Avenue Liquor Mart",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.375569,
+    41.815449,
+    -71.375569,
+    41.815449
+],
+  "geometry": {"coordinates":[-71.375569,41.815449],"type":"Point"}
+}

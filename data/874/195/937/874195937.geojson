@@ -1,0 +1,69 @@
+{
+  "id": 874195937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513278,41.889041,-71.513278,41.889041",
+    "geom:latitude":41.889041,
+    "geom:longitude":-71.513278,
+    "iso:country":"US",
+    "sg:address":"113 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2674",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TbJF0rqpH23KAcX7S54eD_41.889041_-71.513278@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312804,
+    "wof:geomhash":"9cfb827c7b63fc57bf45739a60143ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874195937
+        }
+    ],
+    "wof:id":874195937,
+    "wof:lastmodified":1464312804,
+    "wof:name":"General Auto Maintenance",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.513278,
+    41.889041,
+    -71.513278,
+    41.889041
+],
+  "geometry": {"coordinates":[-71.513278,41.889041],"type":"Point"}
+}

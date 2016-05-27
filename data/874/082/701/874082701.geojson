@@ -1,0 +1,69 @@
+{
+  "id": 874082701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432577,41.870927,-71.432577,41.870927",
+    "geom:latitude":41.870927,
+    "geom:longitude":-71.432577,
+    "iso:country":"US",
+    "sg:address":"8 Sudbury St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 524 3077",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GTRkOKXEtPGwGGD3CFNbB_41.870927_-71.432577@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311586,
+    "wof:geomhash":"e7ff78fe8268b0477f948dac4b1a4d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874082701
+        }
+    ],
+    "wof:id":874082701,
+    "wof:lastmodified":1464311586,
+    "wof:name":"ML Tradeworks",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.432577,
+    41.870927,
+    -71.432577,
+    41.870927
+],
+  "geometry": {"coordinates":[-71.43257699999999,41.870927],"type":"Point"}
+}

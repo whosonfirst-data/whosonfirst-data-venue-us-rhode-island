@@ -1,0 +1,71 @@
+{
+  "id": 874049755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227341,41.642703,-71.227341,41.642703",
+    "geom:latitude":41.642703,
+    "geom:longitude":-71.227341,
+    "iso:country":"US",
+    "sg:address":"143 Foxboro Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 6263",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xTcs3inc8eLhuU6uqQGHt_41.642703_-71.227341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311238,
+    "wof:geomhash":"3d3d3cd49274506542ac5f6d7c944f0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874049755
+        }
+    ],
+    "wof:id":874049755,
+    "wof:lastmodified":1464311238,
+    "wof:name":"Compuguide LLC",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.227341,
+    41.642703,
+    -71.227341,
+    41.642703
+],
+  "geometry": {"coordinates":[-71.227341,41.642703],"type":"Point"}
+}

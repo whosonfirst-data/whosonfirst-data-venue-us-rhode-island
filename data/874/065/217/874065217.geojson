@@ -1,0 +1,75 @@
+{
+  "id": 874065217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434158,41.856162,-71.434158,41.856162",
+    "geom:latitude":41.856162,
+    "geom:longitude":-71.434158,
+    "iso:country":"US",
+    "sg:address":"100 Houghton St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 784 6363",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_171ZI72E0pJBSqK4WlN8Br_41.856162_-71.434158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311381,
+    "wof:geomhash":"5680929534ec4579d6ac84eeab259445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874065217
+        }
+    ],
+    "wof:id":874065217,
+    "wof:lastmodified":1464311381,
+    "wof:name":"Pro Mail Inc",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail"
+    ]
+},
+  "bbox": [
+    -71.434158,
+    41.856162,
+    -71.434158,
+    41.856162
+],
+  "geometry": {"coordinates":[-71.434158,41.856162],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874198073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.237823,41.549573,-71.237823,41.549573",
+    "geom:latitude":41.549573,
+    "geom:longitude":-71.237823,
+    "iso:country":"US",
+    "sg:address":"232 Taylor Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 619 2101",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "financing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lx7a7mtDACLWSCpgCs0m4_41.549573_-71.237823@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312826,
+    "wof:geomhash":"658b264bd63591b15fc809784fca323f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874198073
+        }
+    ],
+    "wof:id":874198073,
+    "wof:lastmodified":1464312826,
+    "wof:name":"Source Capital",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "financing"
+    ]
+},
+  "bbox": [
+    -71.237823,
+    41.549573,
+    -71.237823,
+    41.549573
+],
+  "geometry": {"coordinates":[-71.23782300000001,41.549573],"type":"Point"}
+}

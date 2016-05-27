@@ -1,0 +1,79 @@
+{
+  "id": 874264291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450584,41.571616,-71.450584,41.571616",
+    "geom:latitude":41.571616,
+    "geom:longitude":-71.450584,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 7273",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AUyE5x4gkKlArH01LKzPu_41.571616_-71.450584@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314000,
+    "wof:geomhash":"fa03780c4abebaf9684f5cc5c32ee7e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874264291
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874264291
+        }
+    ],
+    "wof:id":874264291,
+    "wof:lastmodified":1464314000,
+    "wof:name":"Shaggy Chic Pet Boutique",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.450584,
+    41.571616,
+    -71.450584,
+    41.571616
+],
+  "geometry": {"coordinates":[-71.45058400000001,41.571616],"type":"Point"}
+}

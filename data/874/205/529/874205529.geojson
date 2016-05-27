@@ -1,0 +1,71 @@
+{
+  "id": 874205529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.208282,41.640744,-71.208282,41.640744",
+    "geom:latitude":41.640744,
+    "geom:longitude":-71.208282,
+    "iso:country":"US",
+    "sg:address":"35 Pierce Ave",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5029",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UsW6OZCQbIK7LZUL4IkzZ_41.640744_-71.208282@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312900,
+    "wof:geomhash":"a8731deb52296c323ee85526417a6651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874205529
+        }
+    ],
+    "wof:id":874205529,
+    "wof:lastmodified":1464312900,
+    "wof:name":"Carl Briggs",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -71.208282,
+    41.640744,
+    -71.208282,
+    41.640744
+],
+  "geometry": {"coordinates":[-71.208282,41.640744],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874259813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466633,41.890785,-71.466633,41.890785",
+    "geom:latitude":41.890785,
+    "geom:longitude":-71.466633,
+    "iso:country":"US",
+    "sg:address":"210 Angell Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 2772",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Jben7OoyRHcCCoqx88EX_41.890785_-71.466633@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313852,
+    "wof:geomhash":"de6df2626df3c23848ac6e373f15c324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874259813
+        }
+    ],
+    "wof:id":874259813,
+    "wof:lastmodified":1464313852,
+    "wof:name":"Dent Concepts",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.466633,
+    41.890785,
+    -71.466633,
+    41.890785
+],
+  "geometry": {"coordinates":[-71.466633,41.890785],"type":"Point"}
+}

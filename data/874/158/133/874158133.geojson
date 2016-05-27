@@ -1,0 +1,79 @@
+{
+  "id": 874158133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40495,41.78984,-71.40495,41.78984",
+    "geom:latitude":41.78984,
+    "geom:longitude":-71.40495,
+    "iso:country":"US",
+    "sg:address":"1343 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1230",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51nZph20voKTnyjvUS9RMR_41.789840_-71.404950@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312409,
+    "wof:geomhash":"0dbe94536585bd2e979549897c8bf295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874158133
+        }
+    ],
+    "wof:id":874158133,
+    "wof:lastmodified":1464312409,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.40495,
+    41.78984,
+    -71.40495,
+    41.78984
+],
+  "geometry": {"coordinates":[-71.40495,41.78984],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874115769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293818,41.53131,-71.293818,41.53131",
+    "geom:latitude":41.53131,
+    "geom:longitude":-71.293818,
+    "iso:country":"US",
+    "sg:address":"1180 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 7432",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vp7dBBdOzlALTGGee0uqp_41.531310_-71.293818@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311994,
+    "wof:geomhash":"4c69548b46d856a4905093420b86c308",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874115769
+        }
+    ],
+    "wof:id":874115769,
+    "wof:lastmodified":1464311994,
+    "wof:name":"Bruce Beard Automotive Inc",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.293818,
+    41.53131,
+    -71.293818,
+    41.53131
+],
+  "geometry": {"coordinates":[-71.293818,41.53131],"type":"Point"}
+}

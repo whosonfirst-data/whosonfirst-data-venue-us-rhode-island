@@ -1,0 +1,79 @@
+{
+  "id": 874197741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.198481,41.653345,-71.198481,41.653345",
+    "geom:latitude":41.653345,
+    "geom:longitude":-71.198481,
+    "iso:country":"US",
+    "sg:address":"793 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 2440",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bke0mB78QTDGoAhwQLEry_41.653345_-71.198481@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312823,
+    "wof:geomhash":"66728dd483d6ab1b2fb747e0114572a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874197741
+        }
+    ],
+    "wof:id":874197741,
+    "wof:lastmodified":1464312823,
+    "wof:name":"T & T Auto Repair",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.198481,
+    41.653345,
+    -71.198481,
+    41.653345
+],
+  "geometry": {"coordinates":[-71.198481,41.653345],"type":"Point"}
+}

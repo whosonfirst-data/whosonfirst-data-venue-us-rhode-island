@@ -1,0 +1,82 @@
+{
+  "id": 874293137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285359,41.73008,-71.285359,41.73008",
+    "geom:latitude":41.73008,
+    "geom:longitude":-71.285359,
+    "iso:country":"US",
+    "sg:address":"64 Church St Unit 3",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7004",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "disposal",
+        "waste",
+        "collection",
+        "garbage",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xvnBab4hl8R0tJb8VSpFt_41.730080_-71.285359@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315128,
+    "wof:geomhash":"e714c1899e82bb2329c3015becc5d5e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293137
+        }
+    ],
+    "wof:id":874293137,
+    "wof:lastmodified":1464315128,
+    "wof:name":"Pro Act Microbial Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste",
+        "collection",
+        "garbage",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -71.285359,
+    41.73008,
+    -71.285359,
+    41.73008
+],
+  "geometry": {"coordinates":[-71.285359,41.73008],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874301251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.387988,41.829906,-71.387988,41.829906",
+    "geom:latitude":41.829906,
+    "geom:longitude":-71.387988,
+    "iso:country":"US",
+    "sg:address":"210 Wayland Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 5216",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f5qDAZR0K5X9rH1N8PNml_41.829906_-71.387988@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315439,
+    "wof:geomhash":"590c0e9b283c9a9361d2389d6ccc14e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874301251
+        }
+    ],
+    "wof:id":874301251,
+    "wof:lastmodified":1464315439,
+    "wof:name":"Wayland Sq Wine & Spirits Inc",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.387988,
+    41.829906,
+    -71.387988,
+    41.829906
+],
+  "geometry": {"coordinates":[-71.38798800000001,41.829906],"type":"Point"}
+}

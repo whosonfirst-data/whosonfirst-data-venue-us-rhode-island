@@ -1,0 +1,71 @@
+{
+  "id": 874248567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.260067,41.677067,-71.260067,41.677067",
+    "geom:latitude":41.677067,
+    "geom:longitude":-71.260067,
+    "iso:country":"US",
+    "sg:address":"281 Franklin St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 0733",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zseBXkLziHo9C2ij7yiuZ_41.677067_-71.260067@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313513,
+    "wof:geomhash":"8677796b9988dd1f8fc15adefe44f37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874248567
+        }
+    ],
+    "wof:id":874248567,
+    "wof:lastmodified":1464313513,
+    "wof:name":"Parker Marine Sales",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.260067,
+    41.677067,
+    -71.260067,
+    41.677067
+],
+  "geometry": {"coordinates":[-71.26006700000001,41.677067],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874274729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307319,41.738261,-71.307319,41.738261",
+    "geom:latitude":41.738261,
+    "geom:longitude":-71.307319,
+    "iso:country":"US",
+    "sg:address":"1 Waseca Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8567",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.moviegallery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vr30tBjZQED7CrAeQMTG8_41.738261_-71.307319@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314394,
+    "wof:geomhash":"19a865344082cc840bfc14c536580b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874274729
+        }
+    ],
+    "wof:id":874274729,
+    "wof:lastmodified":1464314394,
+    "wof:name":"Movie Gallery",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.307319,
+    41.738261,
+    -71.307319,
+    41.738261
+],
+  "geometry": {"coordinates":[-71.30731900000001,41.738261],"type":"Point"}
+}

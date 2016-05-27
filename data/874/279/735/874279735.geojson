@@ -1,0 +1,80 @@
+{
+  "id": 874279735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439006,41.727899,-71.439006,41.727899",
+    "geom:latitude":41.727899,
+    "geom:longitude":-71.439006,
+    "iso:country":"US",
+    "sg:address":"28 Alhambra Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 8450",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "sg:website":"www.dollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2euv7uzyLW4vZErKfvAch9_41.727899_-71.439006@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314601,
+    "wof:geomhash":"cbbf61828d8aebb53ee6f0452cd31fe4",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874279735
+        }
+    ],
+    "wof:id":874279735,
+    "wof:lastmodified":1464314601,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.439006,
+    41.727899,
+    -71.439006,
+    41.727899
+],
+  "geometry": {"coordinates":[-71.43900600000001,41.727899],"type":"Point"}
+}

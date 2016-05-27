@@ -1,0 +1,69 @@
+{
+  "id": 874281327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.630376,41.378649,-71.630376,41.378649",
+    "geom:latitude":41.378649,
+    "geom:longitude":-71.630376,
+    "iso:country":"US",
+    "sg:address":"123 N Niantic Dr",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3188",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44RZWWgYMGTOIqfzlxl29I_41.378649_-71.630376@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314684,
+    "wof:geomhash":"8abf83c8626fae34424f390cdba1a4ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874281327
+        }
+    ],
+    "wof:id":874281327,
+    "wof:lastmodified":1464314684,
+    "wof:name":"Adcare Hospital",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.630376,
+    41.378649,
+    -71.630376,
+    41.378649
+],
+  "geometry": {"coordinates":[-71.630376,41.378649],"type":"Point"}
+}

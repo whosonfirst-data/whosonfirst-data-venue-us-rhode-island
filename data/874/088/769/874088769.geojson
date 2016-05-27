@@ -1,0 +1,71 @@
+{
+  "id": 874088769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4776,41.391048,-71.4776,41.391048",
+    "geom:latitude":41.391048,
+    "geom:longitude":-71.4776,
+    "iso:country":"US",
+    "sg:address":"31 Glendale Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 9066",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dJNLJneewfGrvZ1qXVv1j_41.391048_-71.477600@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311648,
+    "wof:geomhash":"cfff1b1767fd8ca46d9ead8e7be5b668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874088769
+        }
+    ],
+    "wof:id":874088769,
+    "wof:lastmodified":1464311648,
+    "wof:name":"Duke Tours Inc",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -71.4776,
+    41.391048,
+    -71.4776,
+    41.391048
+],
+  "geometry": {"coordinates":[-71.4776,41.391048],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874073165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430228,41.732811,-71.430228,41.732811",
+    "geom:latitude":41.732811,
+    "geom:longitude":-71.430228,
+    "iso:country":"US",
+    "sg:address":"561 Airport Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 4000",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IPLiIYkhZM9cjkDSGsaFA_41.732811_-71.430228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311481,
+    "wof:geomhash":"8a858fe94d2a0bfcb633d859a3aa3251",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874073165
+        }
+    ],
+    "wof:id":874073165,
+    "wof:lastmodified":1464311481,
+    "wof:name":"Rhode Island Airport Corp",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.430228,
+    41.732811,
+    -71.430228,
+    41.732811
+],
+  "geometry": {"coordinates":[-71.430228,41.732811],"type":"Point"}
+}

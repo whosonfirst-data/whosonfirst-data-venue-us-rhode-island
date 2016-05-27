@@ -1,0 +1,75 @@
+{
+  "id": 874288379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271495,41.664673,-71.271495,41.664673",
+    "geom:latitude":41.664673,
+    "geom:longitude":-71.271495,
+    "iso:country":"US",
+    "sg:address":"95 High St 1",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 7733",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QbnRAubxq6McMMeoVZuao_41.664673_-71.271495@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314953,
+    "wof:geomhash":"fd44485513bf6ca2f997e80257fd25d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874288379
+        }
+    ],
+    "wof:id":874288379,
+    "wof:lastmodified":1464314953,
+    "wof:name":"Preferred Pet Services Inc",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -71.271495,
+    41.664673,
+    -71.271495,
+    41.664673
+],
+  "geometry": {"coordinates":[-71.271495,41.664673],"type":"Point"}
+}

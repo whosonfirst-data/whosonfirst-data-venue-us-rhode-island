@@ -1,0 +1,80 @@
+{
+  "id": 874287795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.354612,41.870006,-71.354612,41.870006",
+    "geom:latitude":41.870006,
+    "geom:longitude":-71.354612,
+    "iso:country":"US",
+    "sg:address":"448 Newport Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/pawtucket/83108-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 2000",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WhVxKW0FModBgKbKzf1M2_41.870163_-71.354296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314928,
+    "wof:geomhash":"bfe6c56a452dffd24c9e7efd1e60d9a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874287795
+        }
+    ],
+    "wof:id":874287795,
+    "wof:lastmodified":1464314928,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.354612,
+    41.870006,
+    -71.354612,
+    41.870006
+],
+  "geometry": {"coordinates":[-71.354612,41.870006],"type":"Point"}
+}

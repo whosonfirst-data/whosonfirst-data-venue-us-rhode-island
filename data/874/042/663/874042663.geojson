@@ -1,0 +1,69 @@
+{
+  "id": 874042663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492195,41.868852,-71.492195,41.868852",
+    "geom:latitude":41.868852,
+    "geom:longitude":-71.492195,
+    "iso:country":"US",
+    "sg:address":"242 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5570",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oYshs8Gg2JUXLjIbAqxIV_41.868852_-71.492195@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311171,
+    "wof:geomhash":"33050330ae16c2c9179af606d4ed696c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874042663
+        }
+    ],
+    "wof:id":874042663,
+    "wof:lastmodified":1464311171,
+    "wof:name":"Waterman Apartments",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.492195,
+    41.868852,
+    -71.492195,
+    41.868852
+],
+  "geometry": {"coordinates":[-71.492195,41.868852],"type":"Point"}
+}

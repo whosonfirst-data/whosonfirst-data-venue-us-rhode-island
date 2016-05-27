@@ -1,0 +1,92 @@
+{
+  "id": 874293095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469791,41.457251,-71.469791,41.457251",
+    "geom:latitude":41.457251,
+    "geom:longitude":-71.469791,
+    "iso:country":"US",
+    "sg:address":"15 Commons Corner Way",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4578",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grill",
+        "style",
+        "bar",
+        "family",
+        "american"
+    ],
+    "sg:website":"http://www.applebees.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76fYd5Db4tUuLc5bigUpg6_41.457251_-71.469791@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315127,
+    "wof:geomhash":"ec592b144fffa5ec0fedd17e1312229c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293095
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874293095
+        }
+    ],
+    "wof:id":874293095,
+    "wof:lastmodified":1464315127,
+    "wof:name":"Applebee's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "style",
+        "bar",
+        "family",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.469791,
+    41.457251,
+    -71.469791,
+    41.457251
+],
+  "geometry": {"coordinates":[-71.469791,41.457251],"type":"Point"}
+}

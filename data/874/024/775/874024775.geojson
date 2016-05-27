@@ -1,0 +1,75 @@
+{
+  "id": 874024775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.733941,41.490158,-71.733941,41.490158",
+    "geom:latitude":41.490158,
+    "geom:longitude":-71.733941,
+    "iso:country":"US",
+    "sg:address":"866 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2484",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QB5KubvjYvvpZoQ0iUfo4_41.490158_-71.733941@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310994,
+    "wof:geomhash":"44540b926913dc1ad0a512c9816c4e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874024775
+        }
+    ],
+    "wof:id":874024775,
+    "wof:lastmodified":1464310994,
+    "wof:name":"Ma & Pa's Country Cookin",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "prod",
+        "cookie"
+    ]
+},
+  "bbox": [
+    -71.733941,
+    41.490158,
+    -71.733941,
+    41.490158
+],
+  "geometry": {"coordinates":[-71.733941,41.490158],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873997991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451088,41.813731,-71.451088,41.813731",
+    "geom:latitude":41.813731,
+    "geom:longitude":-71.451088,
+    "iso:country":"US",
+    "sg:address":"403 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 437 6319",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qtq8ogy0HxQgDEczbzA08_41.813731_-71.451088@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310747,
+    "wof:geomhash":"7bdcd731b1a4884b2c1e822503dc524a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":873997991
+        }
+    ],
+    "wof:id":873997991,
+    "wof:lastmodified":1464310747,
+    "wof:name":"Azteca Bakery",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.451088,
+    41.813731,
+    -71.451088,
+    41.813731
+],
+  "geometry": {"coordinates":[-71.451088,41.813731],"type":"Point"}
+}

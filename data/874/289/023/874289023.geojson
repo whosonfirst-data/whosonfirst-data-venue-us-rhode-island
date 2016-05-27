@@ -1,0 +1,75 @@
+{
+  "id": 874289023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.713357,41.511398,-71.713357,41.511398",
+    "geom:latitude":41.511398,
+    "geom:longitude":-71.713357,
+    "iso:country":"US",
+    "sg:address":"15 Thelma Dr",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 1351",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13DvANNzhzyQi8YcEzE6sp_41.511398_-71.713357@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314978,
+    "wof:geomhash":"c4e276eb1e88ce5af724086e66197c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874289023
+        }
+    ],
+    "wof:id":874289023,
+    "wof:lastmodified":1464314978,
+    "wof:name":"Chariho Regional School District",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.713357,
+    41.511398,
+    -71.713357,
+    41.511398
+],
+  "geometry": {"coordinates":[-71.713357,41.511398],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873988961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542115,41.886643,-71.542115,41.886643",
+    "geom:latitude":41.886643,
+    "geom:longitude":-71.542115,
+    "iso:country":"US",
+    "sg:address":"119 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5359",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6suBPvjaYS8jN60KqqAqkc_41.886643_-71.542115@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310683,
+    "wof:geomhash":"89f9ae8080f6246edd89f0d65ea5be93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":873988961
+        }
+    ],
+    "wof:id":873988961,
+    "wof:lastmodified":1464310683,
+    "wof:name":"Daves Towing Service Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.542115,
+    41.886643,
+    -71.542115,
+    41.886643
+],
+  "geometry": {"coordinates":[-71.542115,41.886643],"type":"Point"}
+}

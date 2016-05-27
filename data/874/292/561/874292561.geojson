@@ -1,0 +1,70 @@
+{
+  "id": 874292561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4375,41.927601,-71.4375,41.927601",
+    "geom:latitude":41.927601,
+    "geom:longitude":-71.4375,
+    "iso:country":"US",
+    "sg:address":"83 Old River Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0990",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.rhodypainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85843525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CU3CN3f1Yd7DqQpIImFK9_41.927601_-71.437500@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315109,
+    "wof:geomhash":"02b7e9f25d9a6ed9c18ca3c6e73c3828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85843525,
+            "region_id":85688509,
+            "venue_id":874292561
+        }
+    ],
+    "wof:id":874292561,
+    "wof:lastmodified":1464315109,
+    "wof:name":"Rhody Painting",
+    "wof:parent_id":85843525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.4375,
+    41.927601,
+    -71.4375,
+    41.927601
+],
+  "geometry": {"coordinates":[-71.4375,41.927601],"type":"Point"}
+}

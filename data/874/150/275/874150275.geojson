@@ -1,0 +1,69 @@
+{
+  "id": 874150275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.774408,41.919636,-71.774408,41.919636",
+    "geom:latitude":41.919636,
+    "geom:longitude":-71.774408,
+    "iso:country":"US",
+    "sg:address":"2410 Putnam Pike",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2422",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855567,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_328KTasPePdgSVYPgplUsG_41.919636_-71.774408@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"525c21dc22b10ed056298a4aa9b29040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85855567,
+            "region_id":85688509,
+            "venue_id":874150275
+        }
+    ],
+    "wof:id":874150275,
+    "wof:lastmodified":1464312331,
+    "wof:name":"West Glocester Fire Dept",
+    "wof:parent_id":85855567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.774408,
+    41.919636,
+    -71.774408,
+    41.919636
+],
+  "geometry": {"coordinates":[-71.77440799999999,41.919636],"type":"Point"}
+}

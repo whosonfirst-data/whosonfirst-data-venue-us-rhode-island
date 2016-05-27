@@ -1,0 +1,74 @@
+{
+  "id": 874162841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407919,41.904744,-71.407919,41.904744",
+    "geom:latitude":41.904744,
+    "geom:longitude":-71.407919,
+    "iso:country":"US",
+    "sg:address":"208 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8462",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S8Qdn8QQHN4cAS1f60lAv_41.904744_-71.407919@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312458,
+    "wof:geomhash":"18d41201eb257bee4a5679b3a2290741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874162841
+        }
+    ],
+    "wof:id":874162841,
+    "wof:lastmodified":1464312458,
+    "wof:name":"Lincoln Laundromat Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.407919,
+    41.904744,
+    -71.407919,
+    41.904744
+],
+  "geometry": {"coordinates":[-71.40791900000001,41.904744],"type":"Point"}
+}

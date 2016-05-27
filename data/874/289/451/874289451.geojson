@@ -1,0 +1,84 @@
+{
+  "id": 874289451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.377639,41.891473,-71.377639,41.891473",
+    "geom:latitude":41.891473,
+    "geom:longitude":-71.377639,
+    "iso:country":"US",
+    "sg:address":"93 Abram St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 533 0142",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TSKynDcmodeZZ6Mc00fPb_41.891473_-71.377639@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314993,
+    "wof:geomhash":"42be33ea2a6c32ebfba3cf867c85c338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289451
+        }
+    ],
+    "wof:id":874289451,
+    "wof:lastmodified":1464314993,
+    "wof:name":"Airport Express Direct",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport",
+        "limo"
+    ]
+},
+  "bbox": [
+    -71.377639,
+    41.891473,
+    -71.377639,
+    41.891473
+],
+  "geometry": {"coordinates":[-71.377639,41.891473],"type":"Point"}
+}

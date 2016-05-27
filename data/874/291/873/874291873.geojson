@@ -1,0 +1,77 @@
+{
+  "id": 874291873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426367,41.932552,-71.426367,41.932552",
+    "geom:latitude":41.932552,
+    "geom:longitude":-71.426367,
+    "iso:country":"US",
+    "sg:address":"23 Ashton Park Way Unit A",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 8888",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "automobile"
+    ],
+    "sg:website":"http://www.swisslineprecision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X0aY4aw9JDhJnv4ASgIOp_41.932552_-71.426367@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315085,
+    "wof:geomhash":"b13700ce4e08980b90ef345717274263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291873
+        }
+    ],
+    "wof:id":874291873,
+    "wof:lastmodified":1464315085,
+    "wof:name":"Swissline Products, Inc.",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.426367,
+    41.932552,
+    -71.426367,
+    41.932552
+],
+  "geometry": {"coordinates":[-71.426367,41.932552],"type":"Point"}
+}

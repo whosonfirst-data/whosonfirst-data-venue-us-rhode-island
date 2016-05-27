@@ -1,0 +1,89 @@
+{
+  "id": 874288069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400557,41.827499,-71.400557,41.827499",
+    "geom:latitude":41.827499,
+    "geom:longitude":-71.400557,
+    "iso:country":"US",
+    "sg:address":"216 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/184339-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 279 2637",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gvZPYdMkUKzOTP1rczQux_41.827448_-71.400639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314938,
+    "wof:geomhash":"0afb1a548e7ea01ad7247966554f8fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874288069
+        }
+    ],
+    "wof:id":874288069,
+    "wof:lastmodified":1464314938,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.400557,
+    41.827499,
+    -71.400557,
+    41.827499
+],
+  "geometry": {"coordinates":[-71.40055700000001,41.827499],"type":"Point"}
+}

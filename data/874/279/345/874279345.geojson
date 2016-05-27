@@ -1,0 +1,77 @@
+{
+  "id": 874279345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40449,41.755674,-71.40449,41.755674",
+    "geom:latitude":41.755674,
+    "geom:longitude":-71.40449,
+    "iso:country":"US",
+    "sg:address":"685 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 2424",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h50ALYNqaVaCrFLKid734_41.755674_-71.404490@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314584,
+    "wof:geomhash":"8381195020b6e9610b8d0ffac82616f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874279345
+        }
+    ],
+    "wof:id":874279345,
+    "wof:lastmodified":1464314584,
+    "wof:name":"Car Works Autocare Inc",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.40449,
+    41.755674,
+    -71.40449,
+    41.755674
+],
+  "geometry": {"coordinates":[-71.40449,41.755674],"type":"Point"}
+}

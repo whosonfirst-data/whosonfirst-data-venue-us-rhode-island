@@ -1,0 +1,77 @@
+{
+  "id": 874222711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.371651,41.892662,-71.371651,41.892662",
+    "geom:latitude":41.892662,
+    "geom:longitude":-71.371651,
+    "iso:country":"US",
+    "sg:address":"1 Benefit St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 9614",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wG7lmFS3yZQVwQKicjnqC_41.892662_-71.371651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313091,
+    "wof:geomhash":"1aac4bf48963140e20c681862bc59d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874222711
+        }
+    ],
+    "wof:id":874222711,
+    "wof:lastmodified":1464313091,
+    "wof:name":"Benefit Street Pub",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.371651,
+    41.892662,
+    -71.371651,
+    41.892662
+],
+  "geometry": {"coordinates":[-71.371651,41.892662],"type":"Point"}
+}

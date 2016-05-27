@@ -1,0 +1,72 @@
+{
+  "id": 874240213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451063,41.571686,-71.451063,41.571686",
+    "geom:latitude":41.571686,
+    "geom:longitude":-71.451063,
+    "iso:country":"US",
+    "sg:address":"14 Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2420",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rdDdsU5J3wKE8lgWqxMqN_41.571686_-71.451063@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313344,
+    "wof:geomhash":"5961128ff877eca225d7c200a69a3e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874240213
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874240213
+        }
+    ],
+    "wof:id":874240213,
+    "wof:lastmodified":1464313344,
+    "wof:name":"Browne & Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.451063,
+    41.571686,
+    -71.451063,
+    41.571686
+],
+  "geometry": {"coordinates":[-71.451063,41.571686],"type":"Point"}
+}

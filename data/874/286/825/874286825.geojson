@@ -1,0 +1,88 @@
+{
+  "id": 874286825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302067,41.509863,-71.302067,41.509863",
+    "geom:latitude":41.509863,
+    "geom:longitude":-71.302067,
+    "iso:country":"US",
+    "sg:address":"159 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/95075-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 9818",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Adr6PPEijFv404lyF9q3d_41.509863_-71.302067@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314884,
+    "wof:geomhash":"02f0656f6a34ab899398fc5a7203508d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874286825
+        }
+    ],
+    "wof:id":874286825,
+    "wof:lastmodified":1464314884,
+    "wof:name":"IHOP",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -71.302067,
+    41.509863,
+    -71.302067,
+    41.509863
+],
+  "geometry": {"coordinates":[-71.30206699999999,41.509863],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874183481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445631,41.662231,-71.445631,41.662231",
+    "geom:latitude":41.662231,
+    "geom:longitude":-71.445631,
+    "iso:country":"US",
+    "sg:address":"10 Water St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 7700",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QVP4hPmLEoN3IBhCQi1OJ_41.662231_-71.445631@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312671,
+    "wof:geomhash":"b3800e02ea85cb780e74e5f9987f00eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874183481
+        }
+    ],
+    "wof:id":874183481,
+    "wof:lastmodified":1464312671,
+    "wof:name":"East Greenwich Yacht Club",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.445631,
+    41.662231,
+    -71.445631,
+    41.662231
+],
+  "geometry": {"coordinates":[-71.44563100000001,41.662231],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874064587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270146,41.533296,-71.270146,41.533296",
+    "geom:latitude":41.533296,
+    "geom:longitude":-71.270146,
+    "iso:country":"US",
+    "sg:address":"1105 E Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 1263",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U1x8da4R0fpraXtpQG7R7_41.533296_-71.270146@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311376,
+    "wof:geomhash":"a73d42f5fc15ed1b575a8fd7ddd51cf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874064587
+        }
+    ],
+    "wof:id":874064587,
+    "wof:lastmodified":1464311376,
+    "wof:name":"Boulevard Nurseries Inc",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -71.270146,
+    41.533296,
+    -71.270146,
+    41.533296
+],
+  "geometry": {"coordinates":[-71.270146,41.533296],"type":"Point"}
+}

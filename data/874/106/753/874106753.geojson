@@ -1,0 +1,71 @@
+{
+  "id": 874106753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540527,41.908561,-71.540527,41.908561",
+    "geom:latitude":41.908561,
+    "geom:longitude":-71.540527,
+    "iso:country":"US",
+    "sg:address":"375 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4830",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FuMOWmsCXhvcJ032KplHn_41.908561_-71.540527@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311880,
+    "wof:geomhash":"26749df236c004406c9d15b71517f0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874106753
+        }
+    ],
+    "wof:id":874106753,
+    "wof:lastmodified":1464311880,
+    "wof:name":"A & W Auto Svc Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.540527,
+    41.908561,
+    -71.540527,
+    41.908561
+],
+  "geometry": {"coordinates":[-71.540527,41.908561],"type":"Point"}
+}

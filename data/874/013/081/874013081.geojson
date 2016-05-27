@@ -1,0 +1,77 @@
+{
+  "id": 874013081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499428,41.669392,-71.499428,41.669392",
+    "geom:latitude":41.669392,
+    "geom:longitude":-71.499428,
+    "iso:country":"US",
+    "sg:address":"1190 Quaker Ln",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9733",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540483,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7apBW1yadqa4gOaLKCCd7B_41.669392_-71.499428@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310877,
+    "wof:geomhash":"c0301babd2cdfe3bb1e5168dab21bc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540483,
+            "region_id":85688509,
+            "venue_id":874013081
+        }
+    ],
+    "wof:id":874013081,
+    "wof:lastmodified":1464310877,
+    "wof:name":"Texaco",
+    "wof:parent_id":420540483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.499428,
+    41.669392,
+    -71.499428,
+    41.669392
+],
+  "geometry": {"coordinates":[-71.49942799999999,41.669392],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874130741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271187,41.698119,-71.271187,41.698119",
+    "geom:latitude":41.698119,
+    "geom:longitude":-71.271187,
+    "iso:country":"US",
+    "sg:address":"19 Broadcommon Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 0500",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B2chWT05nbDD4dPhUyrpV_41.698119_-71.271187@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312146,
+    "wof:geomhash":"38aac752ddc6731654340cbf5ffff801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874130741
+        }
+    ],
+    "wof:id":874130741,
+    "wof:lastmodified":1464312146,
+    "wof:name":"Machine Works Enterprises",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.271187,
+    41.698119,
+    -71.271187,
+    41.698119
+],
+  "geometry": {"coordinates":[-71.271187,41.698119],"type":"Point"}
+}

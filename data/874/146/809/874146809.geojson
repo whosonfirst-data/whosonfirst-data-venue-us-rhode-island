@@ -1,0 +1,69 @@
+{
+  "id": 874146809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.579085,41.998466,-71.579085,41.998466",
+    "geom:latitude":41.998466,
+    "geom:longitude":-71.579085,
+    "iso:country":"US",
+    "sg:address":"63 Church St",
+    "sg:city":"Slatersville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 0946",
+    "sg:postcode":"02876",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yAE0JcNvAZZC6KFpsRMq6_41.998466_-71.579085@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312300,
+    "wof:geomhash":"3e95afb126538a1fbc2aab77d0fc26c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874146809
+        }
+    ],
+    "wof:id":874146809,
+    "wof:lastmodified":1464312300,
+    "wof:name":"St John The Evangelists Church",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.579085,
+    41.998466,
+    -71.579085,
+    41.998466
+],
+  "geometry": {"coordinates":[-71.57908500000001,41.998466],"type":"Point"}
+}

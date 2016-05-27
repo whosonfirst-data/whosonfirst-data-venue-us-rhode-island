@@ -1,0 +1,71 @@
+{
+  "id": 874265101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308285,41.753665,-71.308285,41.753665",
+    "geom:latitude":41.753665,
+    "geom:longitude":-71.308285,
+    "iso:country":"US",
+    "sg:address":"18 Evergreen St",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0780",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nJ6xmUFcwz7nx4K4iAk5b_41.753665_-71.308285@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314040,
+    "wof:geomhash":"e5177a00266cf63f9e607bf4b3ab3238",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874265101
+        }
+    ],
+    "wof:id":874265101,
+    "wof:lastmodified":1464314040,
+    "wof:name":"Martin Brothers Constr Co",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.308285,
+    41.753665,
+    -71.308285,
+    41.753665
+],
+  "geometry": {"coordinates":[-71.308285,41.753665],"type":"Point"}
+}

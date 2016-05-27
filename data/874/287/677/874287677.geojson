@@ -1,0 +1,81 @@
+{
+  "id": 874287677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309333,41.740715,-71.309333,41.740715",
+    "geom:latitude":41.740715,
+    "geom:longitude":-71.309333,
+    "iso:country":"US",
+    "sg:address":"296 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/barrington/234101-newport-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2212",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YGOwNWGjZwrOaAQpGsSU0_41.741086_-71.309463@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314919,
+    "wof:geomhash":"39093686800c57686a45afd8c2cfdd51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874287677
+        }
+    ],
+    "wof:id":874287677,
+    "wof:lastmodified":1464314919,
+    "wof:name":"Newport Creamery",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.309333,
+    41.740715,
+    -71.309333,
+    41.740715
+],
+  "geometry": {"coordinates":[-71.309333,41.740715],"type":"Point"}
+}

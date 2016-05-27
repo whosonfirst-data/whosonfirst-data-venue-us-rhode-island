@@ -1,0 +1,75 @@
+{
+  "id": 874037717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400721,41.779329,-71.400721,41.779329",
+    "geom:latitude":41.779329,
+    "geom:longitude":-71.400721,
+    "iso:country":"US",
+    "sg:address":"1725 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 6270",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b3J3Ch6wfp4QrN7eEE5zl_41.779329_-71.400721@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311123,
+    "wof:geomhash":"ff98c4157b76b3f6b02f5937e6dc7c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874037717
+        }
+    ],
+    "wof:id":874037717,
+    "wof:lastmodified":1464311123,
+    "wof:name":"John Di Orio MD",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.400721,
+    41.779329,
+    -71.400721,
+    41.779329
+],
+  "geometry": {"coordinates":[-71.400721,41.779329],"type":"Point"}
+}

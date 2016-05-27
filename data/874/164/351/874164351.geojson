@@ -1,0 +1,81 @@
+{
+  "id": 874164351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41056,41.802256,-71.41056,41.802256",
+    "geom:latitude":41.802256,
+    "geom:longitude":-71.41056,
+    "iso:country":"US",
+    "sg:address":"199 Oxford St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 9381",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_105sT3r2I85yjRaUcizlwe_41.802256_-71.410560@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312472,
+    "wof:geomhash":"e85141bbe4b87bb5624657d5cfcbba72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874164351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874164351
+        }
+    ],
+    "wof:id":874164351,
+    "wof:lastmodified":1464312472,
+    "wof:name":"Mary E Fogarty Elementary Schl",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41056,
+    41.802256,
+    -71.41056,
+    41.802256
+],
+  "geometry": {"coordinates":[-71.41056,41.802256],"type":"Point"}
+}

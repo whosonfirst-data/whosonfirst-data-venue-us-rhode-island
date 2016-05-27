@@ -1,0 +1,77 @@
+{
+  "id": 874224713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386746,41.816318,-71.386746,41.816318",
+    "geom:latitude":41.816318,
+    "geom:longitude":-71.386746,
+    "iso:country":"US",
+    "sg:address":"10 Pier Rd",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 3527",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ONXlbnpD0QG3f9A6z0cJs_41.816318_-71.386746@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313109,
+    "wof:geomhash":"6d3633e2108aa2ed918dc0f467d0e161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874224713
+        }
+    ],
+    "wof:id":874224713,
+    "wof:lastmodified":1464313109,
+    "wof:name":"Tony's Auto & Radiator Repair",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.386746,
+    41.816318,
+    -71.386746,
+    41.816318
+],
+  "geometry": {"coordinates":[-71.386746,41.816318],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874302623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454002,41.825001,-71.454002,41.825001",
+    "geom:latitude":41.825001,
+    "geom:longitude":-71.454002,
+    "iso:country":"US",
+    "sg:address":"425 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6514",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540533,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O4f4jBmApSqPWo5gRCai0_41.825001_-71.454002@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315484,
+    "wof:geomhash":"1e23e2e67c4c4ec32ac28d35f2e6d85a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540533,
+            "region_id":85688509,
+            "venue_id":874302623
+        }
+    ],
+    "wof:id":874302623,
+    "wof:lastmodified":1464315484,
+    "wof:name":"Sanchez Liquors",
+    "wof:parent_id":420540533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.454002,
+    41.825001,
+    -71.454002,
+    41.825001
+],
+  "geometry": {"coordinates":[-71.454002,41.825001],"type":"Point"}
+}

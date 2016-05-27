@@ -1,0 +1,71 @@
+{
+  "id": 874277377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427844,41.885062,-71.427844,41.885062",
+    "geom:latitude":41.885062,
+    "geom:longitude":-71.427844,
+    "iso:country":"US",
+    "sg:address":"8 Lakeview Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 3359",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "hockey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZBr3G8tgP71gSs1slcJUA_41.885062_-71.427844@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314514,
+    "wof:geomhash":"8722e33ddfb1efb19f7b84d6a4a51a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874277377
+        }
+    ],
+    "wof:id":874277377,
+    "wof:lastmodified":1464314514,
+    "wof:name":"Lincoln Youth Hockey",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "hockey"
+    ]
+},
+  "bbox": [
+    -71.427844,
+    41.885062,
+    -71.427844,
+    41.885062
+],
+  "geometry": {"coordinates":[-71.42784399999999,41.885062],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874102557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48407,41.861129,-71.48407,41.861129",
+    "geom:latitude":41.861129,
+    "geom:longitude":-71.48407,
+    "iso:country":"US",
+    "sg:address":"100 Morgan Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1130",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yivqQIdG78xLsA9iI3qqj_41.861129_-71.484070@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311826,
+    "wof:geomhash":"5ea76762908b2c8494d4edf53f5c9d6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874102557
+        }
+    ],
+    "wof:id":874102557,
+    "wof:lastmodified":1464311826,
+    "wof:name":"Greystone Elementary School",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.48407,
+    41.861129,
+    -71.48407,
+    41.861129
+],
+  "geometry": {"coordinates":[-71.48407,41.861129],"type":"Point"}
+}

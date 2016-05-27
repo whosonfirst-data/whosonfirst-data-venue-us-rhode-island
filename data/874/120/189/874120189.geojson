@@ -1,0 +1,71 @@
+{
+  "id": 874120189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.239951,41.723255,-71.239951,41.723255",
+    "geom:latitude":41.723255,
+    "geom:longitude":-71.239951,
+    "iso:country":"US",
+    "sg:address":"12 Barton Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1010",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yacht",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53V7P5S1nX46oOHSTaF1dH_41.723255_-71.239951@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"809ee6a5636883d0ba2794ebb647886f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874120189
+        }
+    ],
+    "wof:id":874120189,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Davidson Yachts",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.239951,
+    41.723255,
+    -71.239951,
+    41.723255
+],
+  "geometry": {"coordinates":[-71.239951,41.723255],"type":"Point"}
+}

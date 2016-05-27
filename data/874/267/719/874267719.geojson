@@ -1,0 +1,88 @@
+{
+  "id": 874267719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444277,41.776643,-71.444277,41.776643",
+    "geom:latitude":41.776643,
+    "geom:longitude":-71.444277,
+    "iso:country":"US",
+    "sg:address":"60 Shirley Blvd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 0032",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Md2FYVnpZ0cUsfHRI74ts_41.776643_-71.444277@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314140,
+    "wof:geomhash":"2c398a912eb1c56c6279a4b594c787a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874267719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874267719
+        }
+    ],
+    "wof:id":874267719,
+    "wof:lastmodified":1464314140,
+    "wof:name":"Body Mind Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.444277,
+    41.776643,
+    -71.444277,
+    41.776643
+],
+  "geometry": {"coordinates":[-71.444277,41.776643],"type":"Point"}
+}

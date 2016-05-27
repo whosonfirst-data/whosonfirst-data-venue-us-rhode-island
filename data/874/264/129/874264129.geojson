@@ -1,0 +1,71 @@
+{
+  "id": 874264129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505948,41.870127,-71.505948,41.870127",
+    "geom:latitude":41.870127,
+    "geom:longitude":-71.505948,
+    "iso:country":"US",
+    "sg:address":"30 Julien St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 0979",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KRt3G0qVw2HTY15lQx2L7_41.870127_-71.505948@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313995,
+    "wof:geomhash":"8d5cd9e4a0c3699937130a102f4ec89b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874264129
+        }
+    ],
+    "wof:id":874264129,
+    "wof:lastmodified":1464313995,
+    "wof:name":"J Pascale Truck",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.505948,
+    41.870127,
+    -71.505948,
+    41.870127
+],
+  "geometry": {"coordinates":[-71.505948,41.870127],"type":"Point"}
+}

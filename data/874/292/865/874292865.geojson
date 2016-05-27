@@ -1,0 +1,80 @@
+{
+  "id": 874292865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.222812,41.644075,-71.222812,41.644075",
+    "geom:latitude":41.644075,
+    "geom:longitude":-71.222812,
+    "iso:country":"US",
+    "sg:address":"933 Anthony Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4673",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RRVJ6De9tSHsPAaqPuMQL_41.644075_-71.222812@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"08105a3e1a8e9e418d507b6dbc23a361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874292865
+        }
+    ],
+    "wof:id":874292865,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Common Fence Point Community Hall Inc",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.222812,
+    41.644075,
+    -71.222812,
+    41.644075
+],
+  "geometry": {"coordinates":[-71.222812,41.644075],"type":"Point"}
+}

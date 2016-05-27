@@ -1,0 +1,75 @@
+{
+  "id": 874108437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515259,42.031898,-71.515259,42.031898",
+    "geom:latitude":42.031898,
+    "geom:longitude":-71.515259,
+    "iso:country":"US",
+    "sg:address":"23 Pickering Rd",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IFlGYpTqifz3FEYRwGMq5_42.031898_-71.515259@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311898,
+    "wof:geomhash":"d13ec21543f5bec5a3114b583e8232be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874108437
+        }
+    ],
+    "wof:id":874108437,
+    "wof:lastmodified":1464311898,
+    "wof:name":"Kibbles Klips Dog Cat Grooming",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -71.515259,
+    42.031898,
+    -71.515259,
+    42.031898
+],
+  "geometry": {"coordinates":[-71.515259,42.031898],"type":"Point"}
+}

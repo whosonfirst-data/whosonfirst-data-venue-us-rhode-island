@@ -1,0 +1,79 @@
+{
+  "id": 874262405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455917,41.560818,-71.455917,41.560818",
+    "geom:latitude":41.560818,
+    "geom:longitude":-71.455917,
+    "iso:country":"US",
+    "sg:address":"59 Cedar Glen",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 267 0051",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v4vai1vP0jMgytGKeIDfn_41.560818_-71.455917@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313939,
+    "wof:geomhash":"fb4e883385c7b185e505cf04c200de20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874262405
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874262405
+        }
+    ],
+    "wof:id":874262405,
+    "wof:lastmodified":1464313939,
+    "wof:name":"US Aviation Finance LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "finance"
+    ]
+},
+  "bbox": [
+    -71.455917,
+    41.560818,
+    -71.455917,
+    41.560818
+],
+  "geometry": {"coordinates":[-71.455917,41.560818],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874181435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.262492,41.648149,-71.262492,41.648149",
+    "geom:latitude":41.648149,
+    "geom:longitude":-71.262492,
+    "iso:country":"US",
+    "sg:address":"65 Ferry Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6909",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d1cfd2IxKxOdz3AUjxuJm_41.648149_-71.262492@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"043aed97038d35bf72a77722191fe55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874181435
+        }
+    ],
+    "wof:id":874181435,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Columban Fathers",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.262492,
+    41.648149,
+    -71.262492,
+    41.648149
+],
+  "geometry": {"coordinates":[-71.26249199999999,41.648149],"type":"Point"}
+}

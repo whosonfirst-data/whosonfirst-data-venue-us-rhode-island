@@ -1,0 +1,86 @@
+{
+  "id": 874288211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770915,41.41552,-71.770915,41.41552",
+    "geom:latitude":41.41552,
+    "geom:longitude":-71.770915,
+    "iso:country":"US",
+    "sg:address":"109 Ashaway Rd",
+    "sg:city":"Ashaway",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 2766",
+    "sg:postcode":"02804",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "camps-recreational",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540583,
+        102191575,
+        404488387,
+        85633793,
+        101720611,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OAttHBzUcKXK7rmLRSt1f_41.415520_-71.770915@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314943,
+    "wof:geomhash":"08eed2adf4320a7de306976e101ed96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488387,
+            "locality_id":101720611,
+            "neighbourhood_id":420540583,
+            "region_id":85688509,
+            "venue_id":874288211
+        }
+    ],
+    "wof:id":874288211,
+    "wof:lastmodified":1464314943,
+    "wof:name":"Holly Tree Camper Park",
+    "wof:parent_id":420540583,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "camps-recreational",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -71.770915,
+    41.41552,
+    -71.770915,
+    41.41552
+],
+  "geometry": {"coordinates":[-71.770915,41.41552],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874095805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.583918,41.497566,-71.583918,41.497566",
+    "geom:latitude":41.497566,
+    "geom:longitude":-71.583918,
+    "iso:country":"US",
+    "sg:address":"191 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5780",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "print",
+        "commercial",
+        "lithographic",
+        "typesetting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jREDd5Jj5ai1vFKqTqaY4_41.497566_-71.583918@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311722,
+    "wof:geomhash":"6e35c60d877014e7dca3d55d52538fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874095805
+        }
+    ],
+    "wof:id":874095805,
+    "wof:lastmodified":1464311722,
+    "wof:name":"ABC Printing",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "commercial",
+        "lithographic",
+        "typesetting"
+    ]
+},
+  "bbox": [
+    -71.583918,
+    41.497566,
+    -71.583918,
+    41.497566
+],
+  "geometry": {"coordinates":[-71.583918,41.497566],"type":"Point"}
+}

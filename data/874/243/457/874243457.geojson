@@ -1,0 +1,71 @@
+{
+  "id": 874243457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471602,41.8398,-71.471602,41.8398",
+    "geom:latitude":41.8398,
+    "geom:longitude":-71.471602,
+    "iso:country":"US",
+    "sg:address":"23 Metcalf Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1266",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u5JgTu69hHKcny8YZhWyu_41.839800_-71.471602@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313402,
+    "wof:geomhash":"4c4c06e5a222402621135256a1654d68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874243457
+        }
+    ],
+    "wof:id":874243457,
+    "wof:lastmodified":1464313402,
+    "wof:name":"JC Remodeling",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.471602,
+    41.8398,
+    -71.471602,
+    41.8398
+],
+  "geometry": {"coordinates":[-71.471602,41.8398],"type":"Point"}
+}

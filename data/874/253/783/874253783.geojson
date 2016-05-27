@@ -1,0 +1,77 @@
+{
+  "id": 874253783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456504,41.563658,-71.456504,41.563658",
+    "geom:latitude":41.563658,
+    "geom:longitude":-71.456504,
+    "iso:country":"US",
+    "sg:address":"164 Atherton Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 7025",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uXao2fsUHEx3omoMHLWqL_41.563658_-71.456504@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"888a80eea9064971ad32f667f1bf8b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874253783
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874253783
+        }
+    ],
+    "wof:id":874253783,
+    "wof:lastmodified":1464313641,
+    "wof:name":"Allied Financial Planners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory"
+    ]
+},
+  "bbox": [
+    -71.456504,
+    41.563658,
+    -71.456504,
+    41.563658
+],
+  "geometry": {"coordinates":[-71.456504,41.563658],"type":"Point"}
+}

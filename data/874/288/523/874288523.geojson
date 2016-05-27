@@ -1,0 +1,89 @@
+{
+  "id": 874288523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271231,41.671669,-71.271231,41.671669",
+    "geom:latitude":41.671669,
+    "geom:longitude":-71.271231,
+    "iso:country":"US",
+    "sg:address":"356 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1249",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ],
+    "sg:website":"http://www.hrblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28pWewOLGdIyrxnRmkMuIk_41.671669_-71.271231@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314959,
+    "wof:geomhash":"a547cdba16cbc48b2106ffcfc7d2a919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288523
+        }
+    ],
+    "wof:id":874288523,
+    "wof:lastmodified":1464314959,
+    "wof:name":"H&R Block",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ]
+},
+  "bbox": [
+    -71.271231,
+    41.671669,
+    -71.271231,
+    41.671669
+],
+  "geometry": {"coordinates":[-71.271231,41.671669],"type":"Point"}
+}

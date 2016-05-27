@@ -1,0 +1,75 @@
+{
+  "id": 874282087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.383701,41.829204,-71.383701,41.829204",
+    "geom:latitude":41.829204,
+    "geom:longitude":-71.383701,
+    "iso:country":"US",
+    "sg:address":"111 S Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 2870",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tUut2Xg4AL39fMNxYPczQ_41.829204_-71.383701@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314710,
+    "wof:geomhash":"18ef4f272f88e969b9a9347e9b3ac45d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874282087
+        }
+    ],
+    "wof:id":874282087,
+    "wof:lastmodified":1464314710,
+    "wof:name":"Bethany Home Of Rhode Island",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.383701,
+    41.829204,
+    -71.383701,
+    41.829204
+],
+  "geometry": {"coordinates":[-71.383701,41.829204],"type":"Point"}
+}

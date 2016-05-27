@@ -1,0 +1,84 @@
+{
+  "id": 874010833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425461,41.76453,-71.425461,41.76453",
+    "geom:latitude":41.76453,
+    "geom:longitude":-71.425461,
+    "iso:country":"US",
+    "sg:address":"1600 Elmwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3850",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "fish",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jPQRxI4jAvnQB8RWuHZQc_41.764530_-71.425461@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310861,
+    "wof:geomhash":"5e2c2a18a134ae0ceb555882e4e3fb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874010833
+        }
+    ],
+    "wof:id":874010833,
+    "wof:lastmodified":1464310861,
+    "wof:name":"Paivas Shellfish Wholesale Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "fish",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -71.425461,
+    41.76453,
+    -71.425461,
+    41.76453
+],
+  "geometry": {"coordinates":[-71.425461,41.76453],"type":"Point"}
+}

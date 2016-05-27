@@ -1,0 +1,73 @@
+{
+  "id": 873998993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.34877,41.745103,-71.34877,41.745103",
+    "geom:latitude":41.745103,
+    "geom:longitude":-71.34877,
+    "iso:country":"US",
+    "sg:address":"71 Spring Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 1688",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mLP1vaOAegbEIwxsbgiaG_41.745103_-71.348770@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"304da7cf17f3aa096664c13ad05043ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":873998993
+        }
+    ],
+    "wof:id":873998993,
+    "wof:lastmodified":1464310753,
+    "wof:name":"New England Ladder",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.34877,
+    41.745103,
+    -71.34877,
+    41.745103
+],
+  "geometry": {"coordinates":[-71.34877,41.745103],"type":"Point"}
+}

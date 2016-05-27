@@ -1,0 +1,76 @@
+{
+  "id": 873999677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309109,41.486938,-71.309109,41.486938",
+    "geom:latitude":41.486938,
+    "geom:longitude":-71.309109,
+    "iso:country":"US",
+    "sg:address":"50 Bellevue Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0292",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "rental"
+    ],
+    "sg:website":"www.redwoodlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25HHpenCroMOMlQxfYPslZ_41.486938_-71.309109@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"3dae64cfa96eab5a5eb10d7f3d6393d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873999677
+        }
+    ],
+    "wof:id":873999677,
+    "wof:lastmodified":1464310758,
+    "wof:name":"Redwood Library",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.309109,
+    41.486938,
+    -71.309109,
+    41.486938
+],
+  "geometry": {"coordinates":[-71.30910900000001,41.486938],"type":"Point"}
+}

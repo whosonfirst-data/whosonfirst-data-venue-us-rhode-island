@@ -1,0 +1,73 @@
+{
+  "id": 874253615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296295,41.541615,-71.296295,41.541615",
+    "geom:latitude":41.541615,
+    "geom:longitude":-71.296295,
+    "iso:country":"US",
+    "sg:address":"156 W View Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 845 6709",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MAtiqIUHJYLGODJ0mevIx_41.541615_-71.296295@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313638,
+    "wof:geomhash":"1569e13695f49e963c3c4785eed1b96f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874253615
+        }
+    ],
+    "wof:id":874253615,
+    "wof:lastmodified":1464313638,
+    "wof:name":"Norman E Hitchcock",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "college"
+    ]
+},
+  "bbox": [
+    -71.296295,
+    41.541615,
+    -71.296295,
+    41.541615
+],
+  "geometry": {"coordinates":[-71.296295,41.541615],"type":"Point"}
+}

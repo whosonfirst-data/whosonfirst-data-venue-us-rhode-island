@@ -1,0 +1,83 @@
+{
+  "id": 874235047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473171,41.445551,-71.473171,41.445551",
+    "geom:latitude":41.445551,
+    "geom:longitude":-71.473171,
+    "iso:country":"US",
+    "sg:address":"62 Summit Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5995",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39RtbgXmni56U7aaHmDSIQ_41.445551_-71.473171@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313240,
+    "wof:geomhash":"5597c8eaa01c28461576c1de4a78decc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874235047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874235047
+        }
+    ],
+    "wof:id":874235047,
+    "wof:lastmodified":1464313240,
+    "wof:name":"Narragansett Toy Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.473171,
+    41.445551,
+    -71.473171,
+    41.445551
+],
+  "geometry": {"coordinates":[-71.47317099999999,41.445551],"type":"Point"}
+}

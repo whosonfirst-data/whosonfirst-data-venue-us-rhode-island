@@ -1,0 +1,69 @@
+{
+  "id": 874290605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413002,41.8783,-71.413002,41.8783",
+    "geom:latitude":41.8783,
+    "geom:longitude":-71.413002,
+    "iso:country":"US",
+    "sg:address":"708 Weeden St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 8180",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hc0TrutpEjFFRW8uMTx9z_41.878300_-71.413002@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315032,
+    "wof:geomhash":"0b7be69582ab59c1b9cac4c30c0e47cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874290605
+        }
+    ],
+    "wof:id":874290605,
+    "wof:lastmodified":1464315032,
+    "wof:name":"H & R Electric Contractor Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.413002,
+    41.8783,
+    -71.413002,
+    41.8783
+],
+  "geometry": {"coordinates":[-71.41300200000001,41.8783],"type":"Point"}
+}

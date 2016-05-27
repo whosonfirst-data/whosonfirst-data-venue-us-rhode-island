@@ -1,0 +1,92 @@
+{
+  "id": 874257909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405434,41.803444,-71.405434,41.803444",
+    "geom:latitude":41.803444,
+    "geom:longitude":-71.405434,
+    "iso:country":"US",
+    "sg:address":"75 Oxford St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 1234",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tool",
+        "parts",
+        "findings",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WZ3QV8XPM40MrOjQbiynI_41.803444_-71.405434@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313765,
+    "wof:geomhash":"59570d07d8f5237c8bfa3cacfe9602a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874257909
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874257909
+        }
+    ],
+    "wof:id":874257909,
+    "wof:lastmodified":1464313765,
+    "wof:name":"Roland & Whytock Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts",
+        "findings",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.405434,
+    41.803444,
+    -71.405434,
+    41.803444
+],
+  "geometry": {"coordinates":[-71.405434,41.803444],"type":"Point"}
+}

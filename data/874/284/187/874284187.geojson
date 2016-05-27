@@ -1,0 +1,71 @@
+{
+  "id": 874284187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461601,41.818901,-71.461601,41.818901",
+    "geom:latitude":41.818901,
+    "geom:longitude":-71.461601,
+    "iso:country":"US",
+    "sg:address":"527 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6820",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cosmetic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lwPQAInj1vxIn1Ho3tLbE_41.819004_-71.461292@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314780,
+    "wof:geomhash":"07124a414a33dcf3d3e3e058a62986b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874284187
+        }
+    ],
+    "wof:id":874284187,
+    "wof:lastmodified":1464314780,
+    "wof:name":"Miatta's Beauty Supply",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.461601,
+    41.818901,
+    -71.461601,
+    41.818901
+],
+  "geometry": {"coordinates":[-71.461601,41.818901],"type":"Point"}
+}

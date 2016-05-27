@@ -1,0 +1,77 @@
+{
+  "id": 874281835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.803499,41.386216,-71.803499,41.386216",
+    "geom:latitude":41.386216,
+    "geom:longitude":-71.803499,
+    "iso:country":"US",
+    "sg:address":"20 Frontage Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 8801",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842951,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vkun1YwZK7sgacreHdFVe_41.386216_-71.803499@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314701,
+    "wof:geomhash":"ceab681407970ecdc3bb8198615109fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":85842951,
+            "region_id":85688509,
+            "venue_id":874281835
+        }
+    ],
+    "wof:id":874281835,
+    "wof:lastmodified":1464314701,
+    "wof:name":"Ashaway Service Ctr",
+    "wof:parent_id":85842951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.803499,
+    41.386216,
+    -71.803499,
+    41.386216
+],
+  "geometry": {"coordinates":[-71.803499,41.386216],"type":"Point"}
+}

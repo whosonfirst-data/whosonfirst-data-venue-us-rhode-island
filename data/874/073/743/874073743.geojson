@@ -1,0 +1,71 @@
+{
+  "id": 874073743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445829,41.878765,-71.445829,41.878765",
+    "geom:latitude":41.878765,
+    "geom:longitude":-71.445829,
+    "iso:country":"US",
+    "sg:address":"15 Paddock Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 2060",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56irMpykyXEgHRJlaQNFhB_41.878765_-71.445829@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311490,
+    "wof:geomhash":"49a77007accfeef11c4a2f91fa4002f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874073743
+        }
+    ],
+    "wof:id":874073743,
+    "wof:lastmodified":1464311490,
+    "wof:name":"C Johnson Contractors",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.445829,
+    41.878765,
+    -71.445829,
+    41.878765
+],
+  "geometry": {"coordinates":[-71.445829,41.878765],"type":"Point"}
+}

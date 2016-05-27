@@ -1,0 +1,69 @@
+{
+  "id": 874075335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270959,41.667404,-71.270959,41.667404",
+    "geom:latitude":41.667404,
+    "geom:longitude":-71.270959,
+    "iso:country":"US",
+    "sg:address":"5 Williams St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0470",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KtCrpV02K8Q9T3ZCPwIE1_41.667404_-71.270959@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311505,
+    "wof:geomhash":"cde83f74d3baa407a8220d283f05bed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874075335
+        }
+    ],
+    "wof:id":874075335,
+    "wof:lastmodified":1464311505,
+    "wof:name":"Goodson Enterprises Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.270959,
+    41.667404,
+    -71.270959,
+    41.667404
+],
+  "geometry": {"coordinates":[-71.270959,41.667404],"type":"Point"}
+}

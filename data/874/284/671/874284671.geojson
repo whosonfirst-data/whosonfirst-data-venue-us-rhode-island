@@ -1,0 +1,82 @@
+{
+  "id": 874284671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.7295,41.481701,-71.7295,41.481701",
+    "geom:latitude":41.481701,
+    "geom:longitude":-71.7295,
+    "iso:country":"US",
+    "sg:address":"335 Woodville Alton Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2512",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "performing",
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I4joqQ9RUBr3VFYPKlKND_41.481460_-71.729331@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314801,
+    "wof:geomhash":"5a9a3dd6faad3e3dfadcbec681186374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874284671
+        }
+    ],
+    "wof:id":874284671,
+    "wof:lastmodified":1464314801,
+    "wof:name":"South County Movement Center",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "performing",
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.7295,
+    41.481701,
+    -71.7295,
+    41.481701
+],
+  "geometry": {"coordinates":[-71.7295,41.481701],"type":"Point"}
+}

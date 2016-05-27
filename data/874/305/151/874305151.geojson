@@ -1,0 +1,82 @@
+{
+  "id": 874305151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389651,41.830538,-71.389651,41.830538",
+    "geom:latitude":41.830538,
+    "geom:longitude":-71.389651,
+    "iso:country":"US",
+    "sg:address":"10 Elmgrove Ave. Second Floor",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 402 2824",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "social-crm",
+        "crm",
+        "saas",
+        "small-business"
+    ],
+    "sg:website":"http://batchblue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jTe51y9S6yvkKZLaONf9Z_41.830538_-71.389651@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1464315569,
+    "wof:geomhash":"df8f9da034a163738fe29ae2e28ed395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874305151
+        }
+    ],
+    "wof:id":874305151,
+    "wof:lastmodified":1464315569,
+    "wof:name":"BatchBlue Software",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social-crm",
+        "crm",
+        "saas",
+        "small-business"
+    ]
+},
+  "bbox": [
+    -71.389651,
+    41.830538,
+    -71.389651,
+    41.830538
+],
+  "geometry": {"coordinates":[-71.389651,41.830538],"type":"Point"}
+}

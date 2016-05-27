@@ -1,0 +1,71 @@
+{
+  "id": 874273171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386434,41.829699,-71.386434,41.829699",
+    "geom:latitude":41.829699,
+    "geom:longitude":-71.386434,
+    "iso:country":"US",
+    "sg:address":"15 S Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 2295",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hBYXceo3KIpPR1PHOrK1I_41.829699_-71.386434@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314334,
+    "wof:geomhash":"e65d76b96e4a58ef211a19b8ebcc0b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874273171
+        }
+    ],
+    "wof:id":874273171,
+    "wof:lastmodified":1464314334,
+    "wof:name":"Subway Sandwiches & Salads",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.386434,
+    41.829699,
+    -71.386434,
+    41.829699
+],
+  "geometry": {"coordinates":[-71.38643399999999,41.829699],"type":"Point"}
+}

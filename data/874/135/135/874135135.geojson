@@ -1,0 +1,71 @@
+{
+  "id": 874135135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478424,41.655035,-71.478424,41.655035",
+    "geom:latitude":41.655035,
+    "geom:longitude":-71.478424,
+    "iso:country":"US",
+    "sg:address":"800 Old Greenwich Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 4430",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TnwsKUCOE8zncrHEEDvh2_41.655035_-71.478424@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312192,
+    "wof:geomhash":"835a6a60bb85ecbb4e190a9c34f9b459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874135135
+        }
+    ],
+    "wof:id":874135135,
+    "wof:lastmodified":1464312192,
+    "wof:name":"Turner Waste",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.478424,
+    41.655035,
+    -71.478424,
+    41.655035
+],
+  "geometry": {"coordinates":[-71.478424,41.655035],"type":"Point"}
+}

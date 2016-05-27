@@ -1,0 +1,69 @@
+{
+  "id": 874235603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277351,41.730559,-71.277351,41.730559",
+    "geom:latitude":41.730559,
+    "geom:longitude":-71.277351,
+    "iso:country":"US",
+    "sg:address":"155 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8616",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W3GSftOlXy26XUyJmffdl_41.730559_-71.277351@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313254,
+    "wof:geomhash":"89b53d1eab3e9e5186641a10e834dd4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874235603
+        }
+    ],
+    "wof:id":874235603,
+    "wof:lastmodified":1464313254,
+    "wof:name":"J J's Cleansers",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.277351,
+    41.730559,
+    -71.277351,
+    41.730559
+],
+  "geometry": {"coordinates":[-71.277351,41.730559],"type":"Point"}
+}

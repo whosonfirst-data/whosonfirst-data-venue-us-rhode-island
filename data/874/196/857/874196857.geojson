@@ -1,0 +1,69 @@
+{
+  "id": 874196857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566962,41.488367,-71.566962,41.488367",
+    "geom:latitude":41.488367,
+    "geom:longitude":-71.566962,
+    "iso:country":"US",
+    "sg:address":"3934 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8771",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NC4JxfbRiAMOoxfXfioNZ_41.488367_-71.566962@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312813,
+    "wof:geomhash":"1a9a7dde49adc080616c75b290d2b29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874196857
+        }
+    ],
+    "wof:id":874196857,
+    "wof:lastmodified":1464312813,
+    "wof:name":"Ken & Barbara Trucking",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.566962,
+    41.488367,
+    -71.566962,
+    41.488367
+],
+  "geometry": {"coordinates":[-71.566962,41.488367],"type":"Point"}
+}

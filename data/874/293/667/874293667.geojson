@@ -1,0 +1,72 @@
+{
+  "id": 874293667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515732,41.9855,-71.515732,41.9855",
+    "geom:latitude":41.9855,
+    "geom:longitude":-71.515732,
+    "iso:country":"US",
+    "sg:address":"1300 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 6435",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.acutabovehair.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75mmNTeyHZRKr4z0toxdwM_41.985500_-71.515732@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315145,
+    "wof:geomhash":"5dcd6bc140d777e94bfbaef2d84c41b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874293667
+        }
+    ],
+    "wof:id":874293667,
+    "wof:lastmodified":1464315145,
+    "wof:name":"A Cut Above Hair Salon",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -71.515732,
+    41.9855,
+    -71.515732,
+    41.9855
+],
+  "geometry": {"coordinates":[-71.515732,41.9855],"type":"Point"}
+}

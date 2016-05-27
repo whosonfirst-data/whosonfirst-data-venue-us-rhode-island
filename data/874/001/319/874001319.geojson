@@ -1,0 +1,71 @@
+{
+  "id": 874001319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252508,41.580273,-71.252508,41.580273",
+    "geom:latitude":41.580273,
+    "geom:longitude":-71.252508,
+    "iso:country":"US",
+    "sg:address":"1818 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 3030",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ultrasound",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0L5RnmuZDY8QptJPKKfpNH_41.580273_-71.252508@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310770,
+    "wof:geomhash":"4c601aacc7c84b71c7ae1a5e6c1c1f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874001319
+        }
+    ],
+    "wof:id":874001319,
+    "wof:lastmodified":1464310770,
+    "wof:name":"Peek-A-Boo",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ultrasound",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -71.252508,
+    41.580273,
+    -71.252508,
+    41.580273
+],
+  "geometry": {"coordinates":[-71.25250800000001,41.580273],"type":"Point"}
+}

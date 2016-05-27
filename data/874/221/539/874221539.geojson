@@ -1,0 +1,78 @@
+{
+  "id": 874221539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495502,41.873723,-71.495502,41.873723",
+    "geom:latitude":41.873723,
+    "geom:longitude":-71.495502,
+    "iso:country":"US",
+    "sg:address":"307 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0510",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "management",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RkkumYzXgAen8rV7JHznS_41.873723_-71.495502@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313079,
+    "wof:geomhash":"a9c4c617320c149783ea67c3d44811f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874221539
+        }
+    ],
+    "wof:id":874221539,
+    "wof:lastmodified":1464313079,
+    "wof:name":"E Smithfield Water District",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "management",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.495502,
+    41.873723,
+    -71.495502,
+    41.873723
+],
+  "geometry": {"coordinates":[-71.495502,41.873723],"type":"Point"}
+}

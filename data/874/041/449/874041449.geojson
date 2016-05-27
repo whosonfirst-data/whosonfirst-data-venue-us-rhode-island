@@ -1,0 +1,71 @@
+{
+  "id": 874041449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.337273,41.745351,-71.337273,41.745351",
+    "geom:latitude":41.745351,
+    "geom:longitude":-71.337273,
+    "iso:country":"US",
+    "sg:address":"64 Prospect St",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 2033",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "work",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wmI7sJSs5PmvN743puL1b_41.745351_-71.337273@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311156,
+    "wof:geomhash":"2e37c635d866e6b28e31d2260cb99a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874041449
+        }
+    ],
+    "wof:id":874041449,
+    "wof:lastmodified":1464311156,
+    "wof:name":"Shelving Concepts Inc",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -71.337273,
+    41.745351,
+    -71.337273,
+    41.745351
+],
+  "geometry": {"coordinates":[-71.337273,41.745351],"type":"Point"}
+}

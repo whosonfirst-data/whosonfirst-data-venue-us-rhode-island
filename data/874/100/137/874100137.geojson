@@ -1,0 +1,71 @@
+{
+  "id": 874100137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509307,41.865551,-71.509307,41.865551",
+    "geom:latitude":41.865551,
+    "geom:longitude":-71.509307,
+    "iso:country":"US",
+    "sg:address":"1 Victoria St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 437 8055",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32RtPlV59HuhyCuIRgtOEM_41.865551_-71.509307@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311795,
+    "wof:geomhash":"37adb510387e60595d8adf1dd1e8ea0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874100137
+        }
+    ],
+    "wof:id":874100137,
+    "wof:lastmodified":1464311795,
+    "wof:name":"Ri Construction Svc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.509307,
+    41.865551,
+    -71.509307,
+    41.865551
+],
+  "geometry": {"coordinates":[-71.50930700000001,41.865551],"type":"Point"}
+}

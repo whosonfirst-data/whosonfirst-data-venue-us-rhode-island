@@ -1,0 +1,79 @@
+{
+  "id": 874121721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423634,41.754492,-71.423634,41.754492",
+    "geom:latitude":41.754492,
+    "geom:longitude":-71.423634,
+    "iso:country":"US",
+    "sg:address":"1950 Elmwood Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2643",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "lab",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dyvMAEmltqV8PUqZPM1nO_41.754492_-71.423634@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312056,
+    "wof:geomhash":"4d380219a61b1a4b6f04fe706fe1d60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874121721
+        }
+    ],
+    "wof:id":874121721,
+    "wof:lastmodified":1464312056,
+    "wof:name":"Dvm Lab Inc",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "lab",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -71.423634,
+    41.754492,
+    -71.423634,
+    41.754492
+],
+  "geometry": {"coordinates":[-71.42363400000001,41.754492],"type":"Point"}
+}

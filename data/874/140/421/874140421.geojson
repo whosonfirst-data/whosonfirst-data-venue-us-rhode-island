@@ -1,0 +1,73 @@
+{
+  "id": 874140421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.554559,41.485944,-71.554559,41.485944",
+    "geom:latitude":41.485944,
+    "geom:longitude":-71.554559,
+    "iso:country":"US",
+    "sg:address":"31 Taber Ave",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9000",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09loIW0w4Zh2jfTbIQ8b3s_41.485944_-71.554559@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312238,
+    "wof:geomhash":"5f6ae2d001b238fb7fe8232df256849f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874140421
+        }
+    ],
+    "wof:id":874140421,
+    "wof:lastmodified":1464312238,
+    "wof:name":"Integra Gero Psychiatry",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.554559,
+    41.485944,
+    -71.554559,
+    41.485944
+],
+  "geometry": {"coordinates":[-71.554559,41.485944],"type":"Point"}
+}

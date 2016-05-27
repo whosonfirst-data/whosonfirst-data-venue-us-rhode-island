@@ -1,0 +1,71 @@
+{
+  "id": 874269501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.628041,41.498752,-71.628041,41.498752",
+    "geom:latitude":41.498752,
+    "geom:longitude":-71.628041,
+    "iso:country":"US",
+    "sg:address":"12 Thorpe Ln",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 9598",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RMVHzRFDAFZR3ksDdDdAf_41.498752_-71.628041@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314209,
+    "wof:geomhash":"1355e40387144640ea4a0adac6149bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874269501
+        }
+    ],
+    "wof:id":874269501,
+    "wof:lastmodified":1464314209,
+    "wof:name":"Coastal Painting",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.628041,
+    41.498752,
+    -71.628041,
+    41.498752
+],
+  "geometry": {"coordinates":[-71.628041,41.498752],"type":"Point"}
+}

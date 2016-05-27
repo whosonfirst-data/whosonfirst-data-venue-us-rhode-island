@@ -1,0 +1,85 @@
+{
+  "id": 874302413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417964,41.840698,-71.417964,41.840698",
+    "geom:latitude":41.840698,
+    "geom:longitude":-71.417964,
+    "iso:country":"US",
+    "sg:address":"10 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 7000",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bag",
+        "paper-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.admiralpkg.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qXXNje0k9BjWFBHPAxRbo_41.840698_-71.417964@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315477,
+    "wof:geomhash":"947417b9385909957cce6c5c7dee6e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874302413
+        }
+    ],
+    "wof:id":874302413,
+    "wof:lastmodified":1464315477,
+    "wof:name":"Admiral Packaging, Inc.",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bag",
+        "paper-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.417964,
+    41.840698,
+    -71.417964,
+    41.840698
+],
+  "geometry": {"coordinates":[-71.417964,41.840698],"type":"Point"}
+}

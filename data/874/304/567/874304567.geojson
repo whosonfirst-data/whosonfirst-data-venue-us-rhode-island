@@ -1,0 +1,71 @@
+{
+  "id": 874304567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482063,41.836673,-71.482063,41.836673",
+    "geom:latitude":41.836673,
+    "geom:longitude":-71.482063,
+    "iso:country":"US",
+    "sg:address":"2 Cherry Hill Rd",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2086",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TFIvAvZY1FVmKkRtoRfl2_41.836673_-71.482063@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315549,
+    "wof:geomhash":"3b52732d0228e026fe611e1005bc57cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304567
+        }
+    ],
+    "wof:id":874304567,
+    "wof:lastmodified":1464315549,
+    "wof:name":"Cherry Hill Daycare",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.482063,
+    41.836673,
+    -71.482063,
+    41.836673
+],
+  "geometry": {"coordinates":[-71.482063,41.836673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874051847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.598659,41.671045,-71.598659,41.671045",
+    "geom:latitude":41.671045,
+    "geom:longitude":-71.598659,
+    "iso:country":"US",
+    "sg:address":"1910 Nooseneck Hill Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 0326",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ryannV13BQu7Qs7O3ne3A_41.671045_-71.598659@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"cb8e37b3de46193092fe9f816990d516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874051847
+        }
+    ],
+    "wof:id":874051847,
+    "wof:lastmodified":1464311258,
+    "wof:name":"Bill T's Auto & Truck Repair",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.598659,
+    41.671045,
+    -71.598659,
+    41.671045
+],
+  "geometry": {"coordinates":[-71.598659,41.671045],"type":"Point"}
+}

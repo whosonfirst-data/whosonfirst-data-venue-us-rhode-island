@@ -1,0 +1,71 @@
+{
+  "id": 874271991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523189,41.471676,-71.523189,41.471676",
+    "geom:latitude":41.471676,
+    "geom:longitude":-71.523189,
+    "iso:country":"US",
+    "sg:address":"55 Locust Dr",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5843",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hypnotist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G5vL5j5Lt2ncVvNDA2EgL_41.471676_-71.523189@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314291,
+    "wof:geomhash":"e3225a3162f88c80c64fa6143d585892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874271991
+        }
+    ],
+    "wof:id":874271991,
+    "wof:lastmodified":1464314291,
+    "wof:name":"Able Hypnosis Ctr",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hypnotist"
+    ]
+},
+  "bbox": [
+    -71.523189,
+    41.471676,
+    -71.523189,
+    41.471676
+],
+  "geometry": {"coordinates":[-71.523189,41.471676],"type":"Point"}
+}

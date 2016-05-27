@@ -1,0 +1,75 @@
+{
+  "id": 874109965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463606,41.786776,-71.463606,41.786776",
+    "geom:latitude":41.786776,
+    "geom:longitude":-71.463606,
+    "iso:country":"US",
+    "sg:address":"1594 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 9840",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSc7YGepfJR5mHEyQpdUH_41.786776_-71.463606@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311919,
+    "wof:geomhash":"10398b10cadd6ee489c310dc30f4de97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874109965
+        }
+    ],
+    "wof:id":874109965,
+    "wof:lastmodified":1464311919,
+    "wof:name":"Solitro's Bakery",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.463606,
+    41.786776,
+    -71.463606,
+    41.786776
+],
+  "geometry": {"coordinates":[-71.463606,41.786776],"type":"Point"}
+}

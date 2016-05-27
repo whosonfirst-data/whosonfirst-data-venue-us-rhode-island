@@ -1,0 +1,74 @@
+{
+  "id": 874098579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411963,41.887237,-71.411963,41.887237",
+    "geom:latitude":41.887237,
+    "geom:longitude":-71.411963,
+    "iso:country":"US",
+    "sg:address":"100 Middle St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 0183",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "datum",
+        "programing",
+        "custom"
+    ],
+    "sg:website":"www.creatcomp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Z5NTvaRpXRK3OxTCst667_41.887237_-71.411963@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311764,
+    "wof:geomhash":"85a45777def40f512f2a4792dbe64c5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874098579
+        }
+    ],
+    "wof:id":874098579,
+    "wof:lastmodified":1464311764,
+    "wof:name":"Creative Computing Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum",
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.411963,
+    41.887237,
+    -71.411963,
+    41.887237
+],
+  "geometry": {"coordinates":[-71.411963,41.887237],"type":"Point"}
+}

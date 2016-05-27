@@ -1,0 +1,75 @@
+{
+  "id": 874009781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386198,41.808432,-71.386198,41.808432",
+    "geom:latitude":41.808432,
+    "geom:longitude":-71.386198,
+    "iso:country":"US",
+    "sg:address":"450 Veterans Memorial Pkwy",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 5600",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jLm5tzHiIbzXtJDSsactu_41.808432_-71.386198@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310854,
+    "wof:geomhash":"d94829afa83964f38418a3a5fe9af244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874009781
+        }
+    ],
+    "wof:id":874009781,
+    "wof:lastmodified":1464310854,
+    "wof:name":"Pulmonary Function Tstg Assoc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.386198,
+    41.808432,
+    -71.386198,
+    41.808432
+],
+  "geometry": {"coordinates":[-71.38619799999999,41.808432],"type":"Point"}
+}

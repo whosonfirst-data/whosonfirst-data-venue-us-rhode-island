@@ -1,0 +1,73 @@
+{
+  "id": 874275977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496476,41.865665,-71.496476,41.865665",
+    "geom:latitude":41.865665,
+    "geom:longitude":-71.496476,
+    "iso:country":"US",
+    "sg:address":"41 Johnson Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 4401",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5i7g6xijmjTSh1F2zKma6K_41.865665_-71.496476@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314452,
+    "wof:geomhash":"34286a6468e3ff437bb449bcd28289c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874275977
+        }
+    ],
+    "wof:id":874275977,
+    "wof:lastmodified":1464314452,
+    "wof:name":"Ricci's Truck Paint & Auto Bdy",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.496476,
+    41.865665,
+    -71.496476,
+    41.865665
+],
+  "geometry": {"coordinates":[-71.496476,41.865665],"type":"Point"}
+}

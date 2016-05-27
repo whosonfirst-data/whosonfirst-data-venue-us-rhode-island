@@ -1,0 +1,91 @@
+{
+  "id": 874101909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480416,41.427709,-71.480416,41.427709",
+    "geom:latitude":41.427709,
+    "geom:longitude":-71.480416,
+    "iso:country":"US",
+    "sg:address":"30 Walts Way",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3964",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tackle",
+        "fishing"
+    ],
+    "sg:website":"www.trawlworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E3wMM0jcOTtckM1I1dkmx_41.427709_-71.480416@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311817,
+    "wof:geomhash":"56c023c25289919c39c93db0d2fce27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874101909
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874101909
+        }
+    ],
+    "wof:id":874101909,
+    "wof:lastmodified":1464311817,
+    "wof:name":"Trawlworks Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.480416,
+    41.427709,
+    -71.480416,
+    41.427709
+],
+  "geometry": {"coordinates":[-71.48041600000001,41.427709],"type":"Point"}
+}

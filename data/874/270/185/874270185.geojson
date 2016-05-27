@@ -1,0 +1,71 @@
+{
+  "id": 874270185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770755,41.366667,-71.770755,41.366667",
+    "geom:latitude":41.366667,
+    "geom:longitude":-71.770755,
+    "iso:country":"US",
+    "sg:address":"7 Sweet Corn Ln",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 9080",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lEKZzGwULrMbQf4EujxaM_41.366667_-71.770755@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314232,
+    "wof:geomhash":"56b34df306030c44739ab1633dc334a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874270185
+        }
+    ],
+    "wof:id":874270185,
+    "wof:lastmodified":1464314232,
+    "wof:name":"Sanitation By Quint Perry",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.770755,
+    41.366667,
+    -71.770755,
+    41.366667
+],
+  "geometry": {"coordinates":[-71.77075499999999,41.366667],"type":"Point"}
+}

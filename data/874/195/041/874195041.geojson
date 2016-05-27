@@ -1,0 +1,71 @@
+{
+  "id": 874195041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461496,41.819042,-71.461496,41.819042",
+    "geom:latitude":41.819042,
+    "geom:longitude":-71.461496,
+    "iso:country":"US",
+    "sg:address":"521 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 2242",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lcKKqPJ77uq4VXBgokxvH_41.819042_-71.461496@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"48f5e2dc4b428ec0db2c7f9b55de4266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874195041
+        }
+    ],
+    "wof:id":874195041,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Viva USA Cellular",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.461496,
+    41.819042,
+    -71.461496,
+    41.819042
+],
+  "geometry": {"coordinates":[-71.461496,41.819042],"type":"Point"}
+}

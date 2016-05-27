@@ -1,0 +1,69 @@
+{
+  "id": 874283875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309902,41.741707,-71.309902,41.741707",
+    "geom:latitude":41.741707,
+    "geom:longitude":-71.309902,
+    "iso:country":"US",
+    "sg:address":"312 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1616",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wy688oV3MW0L5gG0KpIvj_41.741772_-71.310153@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314769,
+    "wof:geomhash":"a50c647cd4cfa5dc51c941eed8332a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874283875
+        }
+    ],
+    "wof:id":874283875,
+    "wof:lastmodified":1464314769,
+    "wof:name":"Kozy Kitchen",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.309902,
+    41.741707,
+    -71.309902,
+    41.741707
+],
+  "geometry": {"coordinates":[-71.30990199999999,41.741707],"type":"Point"}
+}

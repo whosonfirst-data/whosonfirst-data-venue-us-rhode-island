@@ -1,0 +1,73 @@
+{
+  "id": 874171787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535705,41.568419,-71.535705,41.568419",
+    "geom:latitude":41.568419,
+    "geom:longitude":-71.535705,
+    "iso:country":"US",
+    "sg:address":"20 Oak Hill Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 8227",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kh4gvANhUcrRI4ZD2WhAb_41.568419_-71.535705@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312547,
+    "wof:geomhash":"3b948c0e0296c60a4ace759bd614a1e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874171787
+        }
+    ],
+    "wof:id":874171787,
+    "wof:lastmodified":1464312547,
+    "wof:name":"O'Neill Painting Co",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.535705,
+    41.568419,
+    -71.535705,
+    41.568419
+],
+  "geometry": {"coordinates":[-71.53570499999999,41.568419],"type":"Point"}
+}

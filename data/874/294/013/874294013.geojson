@@ -1,0 +1,65 @@
+{
+  "id": 874294013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575516,41.519881,-71.575516,41.519881",
+    "geom:latitude":41.519881,
+    "geom:longitude":-71.575516,
+    "iso:country":"US",
+    "sg:address":"418 Kingston Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0003",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DeOw8JwGCqbuBiTaXcoBY_41.519881_-71.575516@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315157,
+    "wof:geomhash":"a8ea62a18e493741a57ba0587696ce9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874294013
+        }
+    ],
+    "wof:id":874294013,
+    "wof:lastmodified":1464315157,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.575516,
+    41.519881,
+    -71.575516,
+    41.519881
+],
+  "geometry": {"coordinates":[-71.57551599999999,41.519881],"type":"Point"}
+}

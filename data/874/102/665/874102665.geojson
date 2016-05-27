@@ -1,0 +1,69 @@
+{
+  "id": 874102665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276711,41.673899,-71.276711,41.673899",
+    "geom:latitude":41.673899,
+    "geom:longitude":-71.276711,
+    "iso:country":"US",
+    "sg:address":"57 Franklin St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3130",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LBvgo2f7YRBt9T6Tcxe6f_41.673899_-71.276711@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"55b60eb706d36c270b62df957f83eb7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874102665
+        }
+    ],
+    "wof:id":874102665,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Wendela R Jiskoot",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -71.276711,
+    41.673899,
+    -71.276711,
+    41.673899
+],
+  "geometry": {"coordinates":[-71.27671100000001,41.673899],"type":"Point"}
+}

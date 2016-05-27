@@ -1,0 +1,73 @@
+{
+  "id": 874193041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4447,41.932266,-71.4447,41.932266",
+    "geom:latitude":41.932266,
+    "geom:longitude":-71.4447,
+    "iso:country":"US",
+    "sg:address":"132 Old River Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1060",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vWpB61rX0ITzdGFPPCQDv_41.932266_-71.444700@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"c3579309eda74f9614b7813fe7c4715f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874193041
+        }
+    ],
+    "wof:id":874193041,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Orthopedic Associates Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.4447,
+    41.932266,
+    -71.4447,
+    41.932266
+],
+  "geometry": {"coordinates":[-71.4447,41.932266],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874304597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490235,41.860803,-71.490235,41.860803",
+    "geom:latitude":41.860803,
+    "geom:longitude":-71.490235,
+    "iso:country":"US",
+    "sg:address":"39 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 404 0111",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GhjruTn2JOFeikhoAn05Z_41.860803_-71.490235@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315550,
+    "wof:geomhash":"2651eebf1f0d6774ae4414c122a593bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304597
+        }
+    ],
+    "wof:id":874304597,
+    "wof:lastmodified":1464315550,
+    "wof:name":"Ernesto's Gourmet",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.490235,
+    41.860803,
+    -71.490235,
+    41.860803
+],
+  "geometry": {"coordinates":[-71.490235,41.860803],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874132923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447643,41.813899,-71.447643,41.813899",
+    "geom:latitude":41.813899,
+    "geom:longitude":-71.447643,
+    "iso:country":"US",
+    "sg:address":"292 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 7666",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17KsArvzWm9X0yvckdpINM_41.813899_-71.447643@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312172,
+    "wof:geomhash":"7870729870e457b9c18efe76c5febb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874132923
+        }
+    ],
+    "wof:id":874132923,
+    "wof:lastmodified":1464312172,
+    "wof:name":"Plainfield Auto Sales Inc",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -71.447643,
+    41.813899,
+    -71.447643,
+    41.813899
+],
+  "geometry": {"coordinates":[-71.447643,41.813899],"type":"Point"}
+}

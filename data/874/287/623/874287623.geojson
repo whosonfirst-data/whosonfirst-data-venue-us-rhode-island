@@ -1,0 +1,82 @@
+{
+  "id": 874287623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457933,41.764004,-71.457933,41.764004",
+    "geom:latitude":41.764004,
+    "geom:longitude":-71.457933,
+    "iso:country":"US",
+    "sg:address":"24 Midway Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/54016-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 4424",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wM1tfWpvNdE1ZmXuMHwpi_41.764004_-71.457933@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"8c0a93b109904afdbf3201680bde7cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874287623
+        }
+    ],
+    "wof:id":874287623,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.457933,
+    41.764004,
+    -71.457933,
+    41.764004
+],
+  "geometry": {"coordinates":[-71.457933,41.764004],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874018043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546192,41.694598,-71.546192,41.694598",
+    "geom:latitude":41.694598,
+    "geom:longitude":-71.546192,
+    "iso:country":"US",
+    "sg:address":"34 Taft St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 3538",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B6KTiQacbiSXBv3VuTuFJ_41.694598_-71.546192@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310928,
+    "wof:geomhash":"b28dff7dfd8716bd036dfd2b755bcef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874018043
+        }
+    ],
+    "wof:id":874018043,
+    "wof:lastmodified":1464310928,
+    "wof:name":"MAB Consulting Svc",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.546192,
+    41.694598,
+    -71.546192,
+    41.694598
+],
+  "geometry": {"coordinates":[-71.546192,41.694598],"type":"Point"}
+}

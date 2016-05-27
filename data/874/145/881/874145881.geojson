@@ -1,0 +1,79 @@
+{
+  "id": 874145881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581225,41.425873,-71.581225,41.425873",
+    "geom:latitude":41.425873,
+    "geom:longitude":-71.581225,
+    "iso:country":"US",
+    "sg:address":"426 Leisure Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8290",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369,
+        85852775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ONEe7zNHjmdEt8YTemmb7_41.425873_-71.581225@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312293,
+    "wof:geomhash":"dd6d1ff5ce9789ae3a20f62e6bc73c30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874145881
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85852775,
+            "region_id":85688509,
+            "venue_id":874145881
+        }
+    ],
+    "wof:id":874145881,
+    "wof:lastmodified":1464312293,
+    "wof:name":"Classic Painting Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.581225,
+    41.425873,
+    -71.581225,
+    41.425873
+],
+  "geometry": {"coordinates":[-71.581225,41.425873],"type":"Point"}
+}

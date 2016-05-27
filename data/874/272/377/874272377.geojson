@@ -1,0 +1,71 @@
+{
+  "id": 874272377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47405,41.832611,-71.47405,41.832611",
+    "geom:latitude":41.832611,
+    "geom:longitude":-71.47405,
+    "iso:country":"US",
+    "sg:address":"703 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 5130",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N6cn4C0R83RClCyg2hiPW_41.832611_-71.474050@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314308,
+    "wof:geomhash":"d8e734dc5ff9744f18ba4228e708edcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874272377
+        }
+    ],
+    "wof:id":874272377,
+    "wof:lastmodified":1464314308,
+    "wof:name":"Saigon Nails",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.47405,
+    41.832611,
+    -71.47405,
+    41.832611
+],
+  "geometry": {"coordinates":[-71.47405000000001,41.832611],"type":"Point"}
+}

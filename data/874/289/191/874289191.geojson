@@ -1,0 +1,82 @@
+{
+  "id": 874289191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274868,41.508673,-71.274868,41.508673",
+    "geom:latitude":41.508673,
+    "geom:longitude":-71.274868,
+    "iso:country":"US",
+    "sg:address":"654 Green End Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 5454",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2prXUx8Elfx2jvBko0KjFa_41.508673_-71.274868@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314984,
+    "wof:geomhash":"f09960aeb83870221e262df58f4c56ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874289191
+        }
+    ],
+    "wof:id":874289191,
+    "wof:lastmodified":1464314984,
+    "wof:name":"Project Headstart",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.274868,
+    41.508673,
+    -71.274868,
+    41.508673
+],
+  "geometry": {"coordinates":[-71.274868,41.508673],"type":"Point"}
+}

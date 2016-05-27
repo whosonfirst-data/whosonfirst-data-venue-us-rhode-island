@@ -1,0 +1,75 @@
+{
+  "id": 874171623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421559,41.778952,-71.421559,41.778952",
+    "geom:latitude":41.778952,
+    "geom:longitude":-71.421559,
+    "iso:country":"US",
+    "sg:address":"63 Sawyer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2755",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33ZFxhRKE7RhmpbCrvxwAy_41.778952_-71.421559@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312546,
+    "wof:geomhash":"4f9fff4665cf0c94c451b9ffd0eb948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874171623
+        }
+    ],
+    "wof:id":874171623,
+    "wof:lastmodified":1464312546,
+    "wof:name":"Nightingale Plumbing Heating",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.421559,
+    41.778952,
+    -71.421559,
+    41.778952
+],
+  "geometry": {"coordinates":[-71.421559,41.778952],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874280265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484862,41.857864,-71.484862,41.857864",
+    "geom:latitude":41.857864,
+    "geom:longitude":-71.484862,
+    "iso:country":"US",
+    "sg:address":"2000 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0900",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "town",
+        "hall",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BRilhGUKwXtjj6Qu6KNSp_41.857864_-71.484862@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314621,
+    "wof:geomhash":"3379160773208c7e70bfa298ab50a843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874280265
+        }
+    ],
+    "wof:id":874280265,
+    "wof:lastmodified":1464314621,
+    "wof:name":"North Providence Town Hall",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "hall",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.484862,
+    41.857864,
+    -71.484862,
+    41.857864
+],
+  "geometry": {"coordinates":[-71.48486200000001,41.857864],"type":"Point"}
+}

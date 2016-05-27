@@ -1,0 +1,75 @@
+{
+  "id": 874165755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293415,41.53192,-71.293415,41.53192",
+    "geom:latitude":41.53192,
+    "geom:longitude":-71.293415,
+    "iso:country":"US",
+    "sg:address":"1199 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 842 6800",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WlwLsnFjUAQDuPQB7CVTz_41.531920_-71.293415@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312487,
+    "wof:geomhash":"267b6be0e7ff23e2f02839872907d82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874165755
+        }
+    ],
+    "wof:id":874165755,
+    "wof:lastmodified":1464312487,
+    "wof:name":"Dent'n Chip",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.293415,
+    41.53192,
+    -71.293415,
+    41.53192
+],
+  "geometry": {"coordinates":[-71.293415,41.53192],"type":"Point"}
+}

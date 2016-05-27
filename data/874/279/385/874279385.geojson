@@ -1,0 +1,71 @@
+{
+  "id": 874279385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.259799,41.712523,-71.259799,41.712523",
+    "geom:latitude":41.712523,
+    "geom:longitude":-71.259799,
+    "iso:country":"US",
+    "sg:address":"44 Butterworth Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4233",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NQQTcUJK7XiuBSuwQ08qR_41.712523_-71.259799@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314585,
+    "wof:geomhash":"b921a0b109cd8bf4f9ee275a01488cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874279385
+        }
+    ],
+    "wof:id":874279385,
+    "wof:lastmodified":1464314585,
+    "wof:name":"J E Jordan",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.259799,
+    41.712523,
+    -71.259799,
+    41.712523
+],
+  "geometry": {"coordinates":[-71.259799,41.712523],"type":"Point"}
+}

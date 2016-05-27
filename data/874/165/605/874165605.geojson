@@ -1,0 +1,69 @@
+{
+  "id": 874165605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542639,41.895878,-71.542639,41.895878",
+    "geom:latitude":41.895878,
+    "geom:longitude":-71.542639,
+    "iso:country":"US",
+    "sg:address":"4 Halsey Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4830",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FbKKWoWDnrOFSHTgLjXHV_41.895878_-71.542639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312486,
+    "wof:geomhash":"d9fafae6aa16b1252c5bbdab6e213bf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874165605
+        }
+    ],
+    "wof:id":874165605,
+    "wof:lastmodified":1464312486,
+    "wof:name":"A & W Service",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.542639,
+    41.895878,
+    -71.542639,
+    41.895878
+],
+  "geometry": {"coordinates":[-71.54263899999999,41.895878],"type":"Point"}
+}

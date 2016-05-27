@@ -1,0 +1,87 @@
+{
+  "id": 874286669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492715,41.625419,-71.492715,41.625419",
+    "geom:latitude":41.625419,
+    "geom:longitude":-71.492715,
+    "iso:country":"US",
+    "sg:address":"2611 S County Trl",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/138827-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 7065",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820691,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76VjT5AK7JO95F21Vm8rKh_41.625419_-71.492715@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314879,
+    "wof:geomhash":"f78296c389cdb156b574c451d2b27c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85820691,
+            "region_id":85688509,
+            "venue_id":874286669
+        }
+    ],
+    "wof:id":874286669,
+    "wof:lastmodified":1464314879,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85820691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.492715,
+    41.625419,
+    -71.492715,
+    41.625419
+],
+  "geometry": {"coordinates":[-71.492715,41.625419],"type":"Point"}
+}

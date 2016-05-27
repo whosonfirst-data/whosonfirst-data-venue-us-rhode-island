@@ -1,0 +1,71 @@
+{
+  "id": 874017191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460968,41.939358,-71.460968,41.939358",
+    "geom:latitude":41.939358,
+    "geom:longitude":-71.460968,
+    "iso:country":"US",
+    "sg:address":"20 Blackstone Valley Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 2443",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MkC0W7EzudMulSdGaIpnN_41.939358_-71.460968@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310915,
+    "wof:geomhash":"cbd108d6f587e901277b57d7c46d31c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874017191
+        }
+    ],
+    "wof:id":874017191,
+    "wof:lastmodified":1464310915,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.460968,
+    41.939358,
+    -71.460968,
+    41.939358
+],
+  "geometry": {"coordinates":[-71.46096799999999,41.939358],"type":"Point"}
+}

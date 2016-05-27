@@ -1,0 +1,84 @@
+{
+  "id": 874268123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420733,41.814513,-71.420733,41.814513",
+    "geom:latitude":41.814513,
+    "geom:longitude":-71.420733,
+    "iso:country":"US",
+    "sg:address":"260 Pearl St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7292",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tile",
+        "retail",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rJxnn3G0BBD2pYymgDiU0_41.814513_-71.420733@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314154,
+    "wof:geomhash":"06f38fd376c186ddf5dc00e39cf0982d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874268123
+        }
+    ],
+    "wof:id":874268123,
+    "wof:lastmodified":1464314154,
+    "wof:name":"Bannon Tile Distributors Inc",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "retail",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -71.420733,
+    41.814513,
+    -71.420733,
+    41.814513
+],
+  "geometry": {"coordinates":[-71.420733,41.814513],"type":"Point"}
+}

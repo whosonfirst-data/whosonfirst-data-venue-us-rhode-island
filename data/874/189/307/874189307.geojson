@@ -1,0 +1,71 @@
+{
+  "id": 874189307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523827,41.401911,-71.523827,41.401911",
+    "geom:latitude":41.401911,
+    "geom:longitude":-71.523827,
+    "iso:country":"US",
+    "sg:address":"59 Schooner Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2929",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hilDDfy4Txmiv5CaMpqvq_41.401911_-71.523827@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"d6ee715d7ff37a5c3dad81a7a6893a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874189307
+        }
+    ],
+    "wof:id":874189307,
+    "wof:lastmodified":1464312734,
+    "wof:name":"South Shore Plumbing",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.523827,
+    41.401911,
+    -71.523827,
+    41.401911
+],
+  "geometry": {"coordinates":[-71.523827,41.401911],"type":"Point"}
+}

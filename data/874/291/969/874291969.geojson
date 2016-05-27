@@ -1,0 +1,81 @@
+{
+  "id": 874291969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399536,41.935809,-71.399536,41.935809",
+    "geom:latitude":41.935809,
+    "geom:longitude":-71.399536,
+    "iso:country":"US",
+    "sg:address":"1668 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 8828",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "traditional",
+        "american",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"www.goodtimesri.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mJxsRzjKAovD5LGlY6EvU_41.935809_-71.399536@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315088,
+    "wof:geomhash":"288c140b32232fec38ee9e30c0e63f18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291969
+        }
+    ],
+    "wof:id":874291969,
+    "wof:lastmodified":1464315088,
+    "wof:name":"Good Times Pub & Restaurant",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "traditional",
+        "american",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.399536,
+    41.935809,
+    -71.399536,
+    41.935809
+],
+  "geometry": {"coordinates":[-71.399536,41.935809],"type":"Point"}
+}

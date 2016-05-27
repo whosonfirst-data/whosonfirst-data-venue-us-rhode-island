@@ -1,0 +1,70 @@
+{
+  "id": 873996967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483425,41.386805,-71.483425,41.386805",
+    "geom:latitude":41.386805,
+    "geom:longitude":-71.483425,
+    "iso:country":"US",
+    "sg:address":"94 Judith Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4220",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XCQd662H5XUeXKPdT3gmB_41.386805_-71.483425@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310739,
+    "wof:geomhash":"beea01887a9291be5bb500e1919be1d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":873996967
+        }
+    ],
+    "wof:id":873996967,
+    "wof:lastmodified":1464310739,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.483425,
+    41.386805,
+    -71.483425,
+    41.386805
+],
+  "geometry": {"coordinates":[-71.483425,41.386805],"type":"Point"}
+}

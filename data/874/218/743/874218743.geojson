@@ -1,0 +1,88 @@
+{
+  "id": 874218743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481139,41.464155,-71.481139,41.464155",
+    "geom:latitude":41.464155,
+    "geom:longitude":-71.481139,
+    "iso:country":"US",
+    "sg:address":"610 Saugatucket Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0552",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x38inkXzFwd2b424w8mez_41.464155_-71.481139@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313040,
+    "wof:geomhash":"e32c6a155520bb4cf04ac845091081e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874218743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874218743
+        }
+    ],
+    "wof:id":874218743,
+    "wof:lastmodified":1464313040,
+    "wof:name":"Carpenter Excavating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.481139,
+    41.464155,
+    -71.481139,
+    41.464155
+],
+  "geometry": {"coordinates":[-71.481139,41.464155],"type":"Point"}
+}

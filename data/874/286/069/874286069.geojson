@@ -1,0 +1,71 @@
+{
+  "id": 874286069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399021,41.888509,-71.399021,41.888509",
+    "geom:latitude":41.888509,
+    "geom:longitude":-71.399021,
+    "iso:country":"US",
+    "sg:address":"870 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 9700",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xial0rLXkkuJNa4KdLN2y_41.888344_-71.398847@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314859,
+    "wof:geomhash":"da36a5fb04192785345144cc407cd652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874286069
+        }
+    ],
+    "wof:id":874286069,
+    "wof:lastmodified":1464314859,
+    "wof:name":"Cellular Express",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.399021,
+    41.888509,
+    -71.399021,
+    41.888509
+],
+  "geometry": {"coordinates":[-71.399021,41.888509],"type":"Point"}
+}

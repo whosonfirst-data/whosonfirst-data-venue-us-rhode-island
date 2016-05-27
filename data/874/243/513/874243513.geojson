@@ -1,0 +1,69 @@
+{
+  "id": 874243513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54493,41.894852,-71.54493,41.894852",
+    "geom:latitude":41.894852,
+    "geom:longitude":-71.54493,
+    "iso:country":"US",
+    "sg:address":"1 Clarence Thurber Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 0474",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l1xE9XJy0cDHktP27IO0M_41.894852_-71.544930@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313403,
+    "wof:geomhash":"c48fb38810a7b434a3824f720e3b62ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874243513
+        }
+    ],
+    "wof:id":874243513,
+    "wof:lastmodified":1464313403,
+    "wof:name":"Nastar Communications",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.54493,
+    41.894852,
+    -71.54493,
+    41.894852
+],
+  "geometry": {"coordinates":[-71.54492999999999,41.894852],"type":"Point"}
+}

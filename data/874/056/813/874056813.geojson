@@ -1,0 +1,77 @@
+{
+  "id": 874056813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442135,41.731484,-71.442135,41.731484",
+    "geom:latitude":41.731484,
+    "geom:longitude":-71.442135,
+    "iso:country":"US",
+    "sg:address":"615 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 6865",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yBgkdpuH4dh5pJE8a2HFp_41.731484_-71.442135@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311308,
+    "wof:geomhash":"0ea3d0c3d13522e422e9ea36821c9b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874056813
+        }
+    ],
+    "wof:id":874056813,
+    "wof:lastmodified":1464311308,
+    "wof:name":"David Lowe MD",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.442135,
+    41.731484,
+    -71.442135,
+    41.731484
+],
+  "geometry": {"coordinates":[-71.44213499999999,41.731484],"type":"Point"}
+}

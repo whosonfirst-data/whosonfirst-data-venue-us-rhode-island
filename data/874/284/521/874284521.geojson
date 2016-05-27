@@ -1,0 +1,91 @@
+{
+  "id": 874284521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402313,41.805119,-71.402313,41.805119",
+    "geom:latitude":41.805119,
+    "geom:longitude":-71.402313,
+    "iso:country":"US",
+    "sg:address":"299 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 9200",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"http://www.travelersautobody.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48FJ6XoXKObzw4D7OjL6OQ_41.804607_-71.402107@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314791,
+    "wof:geomhash":"b71087e3ff5ef5d1bcc1ac2d57d7aa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874284521
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874284521
+        }
+    ],
+    "wof:id":874284521,
+    "wof:lastmodified":1464314791,
+    "wof:name":"Travelers Auto Body Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.402313,
+    41.805119,
+    -71.402313,
+    41.805119
+],
+  "geometry": {"coordinates":[-71.40231300000001,41.805119],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874113051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516493,41.714112,-71.516493,41.714112",
+    "geom:latitude":41.714112,
+    "geom:longitude":-71.516493,
+    "iso:country":"US",
+    "sg:address":"90 Hay St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 2470",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85844759,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wdrw0emLnOUYX7QZHJKd8_41.714112_-71.516493@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311968,
+    "wof:geomhash":"1a4dc0c97396679b3f01cd5b3c54fc13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874113051
+        }
+    ],
+    "wof:id":874113051,
+    "wof:lastmodified":1464311968,
+    "wof:name":"Safety Compliance Office",
+    "wof:parent_id":85844759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquefied",
+        "gas",
+        "petroleum"
+    ]
+},
+  "bbox": [
+    -71.516493,
+    41.714112,
+    -71.516493,
+    41.714112
+],
+  "geometry": {"coordinates":[-71.516493,41.714112],"type":"Point"}
+}

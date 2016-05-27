@@ -1,0 +1,90 @@
+{
+  "id": 874293287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478645,41.704868,-71.478645,41.704868",
+    "geom:latitude":41.704868,
+    "geom:longitude":-71.478645,
+    "iso:country":"US",
+    "sg:address":"470 Toll Gate Rd Ste 105",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 4350",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CUGxcYXHgejbgvzk1EITw_41.704868_-71.478645@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315133,
+    "wof:geomhash":"69a20d98bd28ad47f0f066c13283e7d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874293287
+        }
+    ],
+    "wof:id":874293287,
+    "wof:lastmodified":1464315133,
+    "wof:name":"Oceanstate Primary Care L",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.478645,
+    41.704868,
+    -71.478645,
+    41.704868
+],
+  "geometry": {"coordinates":[-71.478645,41.704868],"type":"Point"}
+}

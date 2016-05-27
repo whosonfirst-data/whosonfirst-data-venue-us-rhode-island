@@ -1,0 +1,88 @@
+{
+  "id": 874054633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455344,41.787095,-71.455344,41.787095",
+    "geom:latitude":41.787095,
+    "geom:longitude":-71.455344,
+    "iso:country":"US",
+    "sg:address":"11 Cedar St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 9663",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_754Okj69pVsqKL3xlu0PMk_41.787095_-71.455344@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311289,
+    "wof:geomhash":"720e4d232edfc5db904ba31f6ba0ed81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874054633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874054633
+        }
+    ],
+    "wof:id":874054633,
+    "wof:lastmodified":1464311289,
+    "wof:name":"Tavares & Sons Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.455344,
+    41.787095,
+    -71.455344,
+    41.787095
+],
+  "geometry": {"coordinates":[-71.455344,41.787095],"type":"Point"}
+}

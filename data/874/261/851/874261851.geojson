@@ -1,0 +1,71 @@
+{
+  "id": 874261851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458242,41.58723,-71.458242,41.58723",
+    "geom:latitude":41.58723,
+    "geom:longitude":-71.458242,
+    "iso:country":"US",
+    "sg:address":"7726 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 6575",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_410ISGiBDlYQh5qMvuuDwf_41.587230_-71.458242@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313920,
+    "wof:geomhash":"77d8cbe3be3976fd21de8ba45837e23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874261851
+        }
+    ],
+    "wof:id":874261851,
+    "wof:lastmodified":1464313920,
+    "wof:name":"MAJIK Coffee Co Inc",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -71.458242,
+    41.58723,
+    -71.458242,
+    41.58723
+],
+  "geometry": {"coordinates":[-71.458242,41.58723],"type":"Point"}
+}

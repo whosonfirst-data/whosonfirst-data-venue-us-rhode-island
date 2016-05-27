@@ -1,0 +1,88 @@
+{
+  "id": 874287129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404432,41.756203,-71.404432,41.756203",
+    "geom:latitude":41.756203,
+    "geom:longitude":-71.404432,
+    "iso:country":"US",
+    "sg:address":"701 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/278552-laziza-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 921 3386",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VGiUIYiY7uhLYSGpTdk4m_41.756203_-71.404432@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314895,
+    "wof:geomhash":"9dc0cbe4f7ec8269b4f36005c83ffde7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874287129
+        }
+    ],
+    "wof:id":874287129,
+    "wof:lastmodified":1464314895,
+    "wof:name":"Laziza Pizza",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.404432,
+    41.756203,
+    -71.404432,
+    41.756203
+],
+  "geometry": {"coordinates":[-71.404432,41.756203],"type":"Point"}
+}

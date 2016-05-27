@@ -1,0 +1,78 @@
+{
+  "id": 874282349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458717,41.759399,-71.458717,41.759399",
+    "geom:latitude":41.759399,
+    "geom:longitude":-71.458717,
+    "iso:country":"US",
+    "sg:address":"201 Hillside Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 278 6060",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "saving"
+    ],
+    "sg:website":"http://www.bofa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Akjv3Qu4OZryTUNES3Ya4_41.758934_-71.458821@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314719,
+    "wof:geomhash":"ea950f88ecc4fee6e6d73f4e058ec7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874282349
+        }
+    ],
+    "wof:id":874282349,
+    "wof:lastmodified":1464314719,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "saving"
+    ]
+},
+  "bbox": [
+    -71.458717,
+    41.759399,
+    -71.458717,
+    41.759399
+],
+  "geometry": {"coordinates":[-71.45871699999999,41.759399],"type":"Point"}
+}

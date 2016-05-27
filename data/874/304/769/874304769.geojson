@@ -1,0 +1,72 @@
+{
+  "id": 874304769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47338,41.830136,-71.47338,41.830136",
+    "geom:latitude":41.830136,
+    "geom:longitude":-71.47338,
+    "iso:country":"US",
+    "sg:address":"648 Killingly Street",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 0110",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"www.shannonmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ium7ekauZVLgfAkCQlR68_41.830136_-71.473380@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315556,
+    "wof:geomhash":"6742df4c5dcb5bc3e6d96a5cbd02803b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304769
+        }
+    ],
+    "wof:id":874304769,
+    "wof:lastmodified":1464315556,
+    "wof:name":"Shannon Motors",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -71.47338,
+    41.830136,
+    -71.47338,
+    41.830136
+],
+  "geometry": {"coordinates":[-71.47338000000001,41.830136],"type":"Point"}
+}

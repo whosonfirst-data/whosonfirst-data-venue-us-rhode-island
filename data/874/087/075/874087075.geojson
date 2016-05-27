@@ -1,0 +1,88 @@
+{
+  "id": 874087075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453242,41.797407,-71.453242,41.797407",
+    "geom:latitude":41.797407,
+    "geom:longitude":-71.453242,
+    "iso:country":"US",
+    "sg:address":"21 Cliff Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 8830",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jya8Qz8KkZopm6y1gxUbt_41.797407_-71.453242@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311631,
+    "wof:geomhash":"0fd631541c0e9da37681e4f29d176db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874087075
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874087075
+        }
+    ],
+    "wof:id":874087075,
+    "wof:lastmodified":1464311631,
+    "wof:name":"Calef Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.453242,
+    41.797407,
+    -71.453242,
+    41.797407
+],
+  "geometry": {"coordinates":[-71.453242,41.797407],"type":"Point"}
+}

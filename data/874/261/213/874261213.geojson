@@ -1,0 +1,78 @@
+{
+  "id": 874261213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.572356,41.87814,-71.572356,41.87814",
+    "geom:latitude":41.87814,
+    "geom:longitude":-71.572356,
+    "iso:country":"US",
+    "sg:address":"735 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 1200",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.havenhealthcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24FnVQcyoDUMJ89XpFcTsa_41.878140_-71.572356@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313898,
+    "wof:geomhash":"81a4fb4d75183452099fdd376e318f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874261213
+        }
+    ],
+    "wof:id":874261213,
+    "wof:lastmodified":1464313898,
+    "wof:name":"Haven Health Ctr Of Greenville",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.572356,
+    41.87814,
+    -71.572356,
+    41.87814
+],
+  "geometry": {"coordinates":[-71.572356,41.87814],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874284945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403,41.892799,-71.403,41.892799",
+    "geom:latitude":41.892799,
+    "geom:longitude":-71.403,
+    "iso:country":"US",
+    "sg:address":"1054 Lonsdale Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 2340",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XcJm5JGN1mNcBy14KADH7_41.892554_-71.403131@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314811,
+    "wof:geomhash":"560489d8f00bae326189cca58fdf93b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874284945
+        }
+    ],
+    "wof:id":874284945,
+    "wof:lastmodified":1464314811,
+    "wof:name":"AAA Locksmith Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.403,
+    41.892799,
+    -71.403,
+    41.892799
+],
+  "geometry": {"coordinates":[-71.40300000000001,41.892799],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874052179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.241665,41.550477,-71.241665,41.550477",
+    "geom:latitude":41.550477,
+    "geom:longitude":-71.241665,
+    "iso:country":"US",
+    "sg:address":"53 Sandy Point Farm Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0111",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wTS2e0mEonnQVMgSY45Pf_41.550477_-71.241665@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"1e21235a44fe009b0eb75d4e6c2daf55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874052179
+        }
+    ],
+    "wof:id":874052179,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Sandypoint Farm Condominiums",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -71.241665,
+    41.550477,
+    -71.241665,
+    41.550477
+],
+  "geometry": {"coordinates":[-71.241665,41.550477],"type":"Point"}
+}

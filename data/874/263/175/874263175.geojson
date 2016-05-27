@@ -1,0 +1,71 @@
+{
+  "id": 874263175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.528915,41.570018,-71.528915,41.570018",
+    "geom:latitude":41.570018,
+    "geom:longitude":-71.528915,
+    "iso:country":"US",
+    "sg:address":"33 Pinoak Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 4944",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pmjVieB00r7ETHPtkDIcD_41.570018_-71.528915@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313964,
+    "wof:geomhash":"cfda5fc3a9e535274e18625b24916cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874263175
+        }
+    ],
+    "wof:id":874263175,
+    "wof:lastmodified":1464313964,
+    "wof:name":"Greenwich Woodworkers",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.528915,
+    41.570018,
+    -71.528915,
+    41.570018
+],
+  "geometry": {"coordinates":[-71.528915,41.570018],"type":"Point"}
+}

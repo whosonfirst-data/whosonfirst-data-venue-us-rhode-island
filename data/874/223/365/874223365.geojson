@@ -1,0 +1,69 @@
+{
+  "id": 874223365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521786,41.87159,-71.521786,41.87159",
+    "geom:latitude":41.87159,
+    "geom:longitude":-71.521786,
+    "iso:country":"US",
+    "sg:address":"21 Levi Ln",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 6511",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Yme6D2B4Ve2hFWa8S6viS_41.871590_-71.521786@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313097,
+    "wof:geomhash":"b07158bb1c36bd00d52f278b3f45c1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874223365
+        }
+    ],
+    "wof:id":874223365,
+    "wof:lastmodified":1464313097,
+    "wof:name":"Boriquen Auto Service",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.521786,
+    41.87159,
+    -71.521786,
+    41.87159
+],
+  "geometry": {"coordinates":[-71.52178600000001,41.87159],"type":"Point"}
+}

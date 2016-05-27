@@ -1,0 +1,75 @@
+{
+  "id": 874175789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515248,41.988673,-71.515248,41.988673",
+    "geom:latitude":41.988673,
+    "geom:longitude":-71.515248,
+    "iso:country":"US",
+    "sg:address":"1069 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 356 4690",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FbynGnj9IAPxaT1OHRoaP_41.988673_-71.515248@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312586,
+    "wof:geomhash":"1bc4c173a08b58a07be440e82f24b76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874175789
+        }
+    ],
+    "wof:id":874175789,
+    "wof:lastmodified":1464312586,
+    "wof:name":"Park Ave Ice Cream",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.515248,
+    41.988673,
+    -71.515248,
+    41.988673
+],
+  "geometry": {"coordinates":[-71.515248,41.988673],"type":"Point"}
+}

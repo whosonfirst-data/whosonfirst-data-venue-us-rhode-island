@@ -1,0 +1,71 @@
+{
+  "id": 874292235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408699,41.893501,-71.408699,41.893501",
+    "geom:latitude":41.893501,
+    "geom:longitude":-71.408699,
+    "iso:country":"US",
+    "sg:address":"95 Walker St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 1750",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VEflHrl4INHNO30FxbWHp_41.893501_-71.408699@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315098,
+    "wof:geomhash":"6f76098b39d401f88ee9af6e432ca099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292235
+        }
+    ],
+    "wof:id":874292235,
+    "wof:lastmodified":1464315098,
+    "wof:name":"Preece Mark H DDS",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.408699,
+    41.893501,
+    -71.408699,
+    41.893501
+],
+  "geometry": {"coordinates":[-71.408699,41.893501],"type":"Point"}
+}

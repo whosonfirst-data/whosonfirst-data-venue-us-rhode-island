@@ -1,0 +1,77 @@
+{
+  "id": 874301491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401055,41.830135,-71.401055,41.830135",
+    "geom:latitude":41.830135,
+    "geom:longitude":-71.401055,
+    "iso:country":"US",
+    "sg:address":"300 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 952 8337",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45rWoDELOV2K6NglPXYnGP_41.830135_-71.401055@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315447,
+    "wof:geomhash":"4cbe530072641c9969433f2943c03610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301491
+        }
+    ],
+    "wof:id":874301491,
+    "wof:lastmodified":1464315447,
+    "wof:name":"Thayer Street District Management Authority",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "property"
+    ]
+},
+  "bbox": [
+    -71.401055,
+    41.830135,
+    -71.401055,
+    41.830135
+],
+  "geometry": {"coordinates":[-71.401055,41.830135],"type":"Point"}
+}

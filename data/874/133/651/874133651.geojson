@@ -1,0 +1,69 @@
+{
+  "id": 874133651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435621,41.491492,-71.435621,41.491492",
+    "geom:latitude":41.491492,
+    "geom:longitude":-71.435621,
+    "iso:country":"US",
+    "sg:address":"31 Sextant Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 0456",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GY2N5NdX4E73srxvT3sfS_41.491492_-71.435621@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312178,
+    "wof:geomhash":"939d9a92b05d89ed03a4735c1c70dea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874133651
+        }
+    ],
+    "wof:id":874133651,
+    "wof:lastmodified":1464312178,
+    "wof:name":"Efortress",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -71.435621,
+    41.491492,
+    -71.435621,
+    41.491492
+],
+  "geometry": {"coordinates":[-71.435621,41.491492],"type":"Point"}
+}

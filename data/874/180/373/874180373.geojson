@@ -1,0 +1,71 @@
+{
+  "id": 874180373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456973,41.495886,-71.456973,41.495886",
+    "geom:latitude":41.495886,
+    "geom:longitude":-71.456973,
+    "iso:country":"US",
+    "sg:address":"3055 Tower Hill Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2516",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hzDW3DaAfdTHyWSZq6pT4_41.495886_-71.456973@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312634,
+    "wof:geomhash":"c19e0e1c39a77f3f87dfb8af874dd75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874180373
+        }
+    ],
+    "wof:id":874180373,
+    "wof:lastmodified":1464312634,
+    "wof:name":"Coachman Motor Inn",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.456973,
+    41.495886,
+    -71.456973,
+    41.495886
+],
+  "geometry": {"coordinates":[-71.456973,41.495886],"type":"Point"}
+}

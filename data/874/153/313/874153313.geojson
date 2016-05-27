@@ -1,0 +1,69 @@
+{
+  "id": 874153313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545714,41.697142,-71.545714,41.697142",
+    "geom:latitude":41.697142,
+    "geom:longitude":-71.545714,
+    "iso:country":"US",
+    "sg:address":"600 Washington St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 0858",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOfZh7KW0bHtekTevzJt5_41.697142_-71.545714@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312359,
+    "wof:geomhash":"7830655a46b974f7d57f7dc5d3d723a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874153313
+        }
+    ],
+    "wof:id":874153313,
+    "wof:lastmodified":1464312359,
+    "wof:name":"Coventry Wine & Liquor Inc",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.545714,
+    41.697142,
+    -71.545714,
+    41.697142
+],
+  "geometry": {"coordinates":[-71.545714,41.697142],"type":"Point"}
+}

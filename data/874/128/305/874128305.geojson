@@ -1,0 +1,69 @@
+{
+  "id": 874128305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.65983,41.547291,-71.65983,41.547291",
+    "geom:latitude":41.547291,
+    "geom:longitude":-71.65983,
+    "iso:country":"US",
+    "sg:address":"115 New London Tpke",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2389",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O4C0XPQ53Nu1QnR3iKlx4_41.547291_-71.659830@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312114,
+    "wof:geomhash":"baa6a320fb89d3fe23f0bdcc91f8e113",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874128305
+        }
+    ],
+    "wof:id":874128305,
+    "wof:lastmodified":1464312114,
+    "wof:name":"Animal Health House Calls",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.65983,
+    41.547291,
+    -71.65983,
+    41.547291
+],
+  "geometry": {"coordinates":[-71.65983,41.547291],"type":"Point"}
+}

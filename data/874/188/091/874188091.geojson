@@ -1,0 +1,90 @@
+{
+  "id": 874188091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436211,41.777454,-71.436211,41.777454",
+    "geom:latitude":41.777454,
+    "geom:longitude":-71.436211,
+    "iso:country":"US",
+    "sg:address":"1 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 7297",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_569f98WNnx1aQoQkAmAqev_41.777454_-71.436211@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312720,
+    "wof:geomhash":"7f3c0a7faf144bdc6608f7222fefbe8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874188091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874188091
+        }
+    ],
+    "wof:id":874188091,
+    "wof:lastmodified":1464312720,
+    "wof:name":"2 Paws Up",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.436211,
+    41.777454,
+    -71.436211,
+    41.777454
+],
+  "geometry": {"coordinates":[-71.436211,41.777454],"type":"Point"}
+}

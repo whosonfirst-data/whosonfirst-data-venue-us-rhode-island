@@ -1,0 +1,75 @@
+{
+  "id": 874265675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458194,41.80146,-71.458194,41.80146",
+    "geom:latitude":41.80146,
+    "geom:longitude":-71.458194,
+    "iso:country":"US",
+    "sg:address":"446 Dyer Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 2900",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23WSgFWmZVAsuzOe3vyGA0_41.801460_-71.458194@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314060,
+    "wof:geomhash":"c567c36d45e598eee49fd9e9e2832782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874265675
+        }
+    ],
+    "wof:id":874265675,
+    "wof:lastmodified":1464314060,
+    "wof:name":"Fleet Auto Body Inc",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.458194,
+    41.80146,
+    -71.458194,
+    41.80146
+],
+  "geometry": {"coordinates":[-71.45819400000001,41.80146],"type":"Point"}
+}

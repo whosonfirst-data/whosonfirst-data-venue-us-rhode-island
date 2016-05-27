@@ -1,0 +1,71 @@
+{
+  "id": 874126093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.751675,41.353946,-71.751675,41.353946",
+    "geom:latitude":41.353946,
+    "geom:longitude":-71.751675,
+    "iso:country":"US",
+    "sg:address":"22 Castle Way",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 8373",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FiuZdTj7b1MBmbLy7kDy1_41.353946_-71.751675@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312095,
+    "wof:geomhash":"039453762d6c6a501e3040ea591d628a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874126093
+        }
+    ],
+    "wof:id":874126093,
+    "wof:lastmodified":1464312095,
+    "wof:name":"Tri-Lock Locksmithing Svc",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.751675,
+    41.353946,
+    -71.751675,
+    41.353946
+],
+  "geometry": {"coordinates":[-71.75167500000001,41.353946],"type":"Point"}
+}

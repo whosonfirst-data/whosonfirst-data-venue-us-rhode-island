@@ -1,0 +1,75 @@
+{
+  "id": 874148687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.552261,41.871269,-71.552261,41.871269",
+    "geom:latitude":41.871269,
+    "geom:longitude":-71.552261,
+    "iso:country":"US",
+    "sg:address":"1 Smith Ave",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 2260",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UGTLP0PESBArSomD86BnF_41.871269_-71.552261@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312317,
+    "wof:geomhash":"1a959c24da2812be06a276de2ebcdbc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874148687
+        }
+    ],
+    "wof:id":874148687,
+    "wof:lastmodified":1464312317,
+    "wof:name":"St Thomas Episcopal Church",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.552261,
+    41.871269,
+    -71.552261,
+    41.871269
+],
+  "geometry": {"coordinates":[-71.552261,41.871269],"type":"Point"}
+}

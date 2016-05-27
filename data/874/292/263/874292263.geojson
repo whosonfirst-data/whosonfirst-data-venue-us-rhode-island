@@ -1,0 +1,79 @@
+{
+  "id": 874292263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457359,41.937809,-71.457359,41.937809",
+    "geom:latitude":41.937809,
+    "geom:longitude":-71.457359,
+    "iso:country":"US",
+    "sg:address":"6 Blackstone Valley Pl Bldg 7",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 886 4251",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://providence.citysearch.com/profile/external/604374842/lincoln_ri/std_test_express_lincoln.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QfYUCM7r0E9UDVG9eh737_41.937809_-71.457359@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315098,
+    "wof:geomhash":"d61d22007634407168c3b3fc9076bca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292263
+        }
+    ],
+    "wof:id":874292263,
+    "wof:lastmodified":1464315098,
+    "wof:name":"STD Test Express Lincoln",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.457359,
+    41.937809,
+    -71.457359,
+    41.937809
+],
+  "geometry": {"coordinates":[-71.457359,41.937809],"type":"Point"}
+}

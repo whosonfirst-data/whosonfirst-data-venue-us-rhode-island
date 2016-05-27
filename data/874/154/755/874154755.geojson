@@ -1,0 +1,81 @@
+{
+  "id": 874154755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446098,41.824852,-71.446098,41.824852",
+    "geom:latitude":41.824852,
+    "geom:longitude":-71.446098,
+    "iso:country":"US",
+    "sg:address":"886 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 0022",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sK51LKluy9WzyGO8BDG9z_41.824852_-71.446098@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312374,
+    "wof:geomhash":"bbe1c6a3497dd8679ea6b6dd17ea46af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874154755
+        }
+    ],
+    "wof:id":874154755,
+    "wof:lastmodified":1464312374,
+    "wof:name":"Pito's Moving Co",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "mover",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.446098,
+    41.824852,
+    -71.446098,
+    41.824852
+],
+  "geometry": {"coordinates":[-71.44609800000001,41.824852],"type":"Point"}
+}

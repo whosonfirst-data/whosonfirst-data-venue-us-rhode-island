@@ -1,0 +1,71 @@
+{
+  "id": 874077843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455376,41.869875,-71.455376,41.869875",
+    "geom:latitude":41.869875,
+    "geom:longitude":-71.455376,
+    "iso:country":"US",
+    "sg:address":"17 Conifer Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3380",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "announcement",
+        "invitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WUeGpbsvtRbNX5x5W7oY8_41.869875_-71.455376@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311527,
+    "wof:geomhash":"83aaa39510a63190fb4bd8335462a7f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874077843
+        }
+    ],
+    "wof:id":874077843,
+    "wof:lastmodified":1464311527,
+    "wof:name":"Special Occasions",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "announcement",
+        "invitation"
+    ]
+},
+  "bbox": [
+    -71.455376,
+    41.869875,
+    -71.455376,
+    41.869875
+],
+  "geometry": {"coordinates":[-71.455376,41.869875],"type":"Point"}
+}

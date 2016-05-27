@@ -1,0 +1,75 @@
+{
+  "id": 873983805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500983,41.867133,-71.500983,41.867133",
+    "geom:latitude":41.867133,
+    "geom:longitude":-71.500983,
+    "iso:country":"US",
+    "sg:address":"5 Mowry Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 1800",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "room",
+        "unit",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6637CeZ4US2E0eV1L207Ak_41.867133_-71.500983@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310640,
+    "wof:geomhash":"8f6532a2c35dfe35b4ca128ed1740c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":873983805
+        }
+    ],
+    "wof:id":873983805,
+    "wof:lastmodified":1464310640,
+    "wof:name":"Sundog of New England LLC",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "room",
+        "unit",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -71.500983,
+    41.867133,
+    -71.500983,
+    41.867133
+],
+  "geometry": {"coordinates":[-71.50098300000001,41.867133],"type":"Point"}
+}

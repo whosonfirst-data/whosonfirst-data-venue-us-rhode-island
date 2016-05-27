@@ -1,0 +1,79 @@
+{
+  "id": 874260249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445757,41.866589,-71.445757,41.866589",
+    "geom:latitude":41.866589,
+    "geom:longitude":-71.445757,
+    "iso:country":"US",
+    "sg:address":"20 Friendship St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3010",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "system",
+        "contractor",
+        "water",
+        "sewer",
+        "drainage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y8xpY8j4HP1zLDdKoPejW_41.866589_-71.445757@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313866,
+    "wof:geomhash":"f3cbbe5f48659eb15439354b58e8b22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874260249
+        }
+    ],
+    "wof:id":874260249,
+    "wof:lastmodified":1464313866,
+    "wof:name":"Almonte & Sons Corp",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "system",
+        "contractor",
+        "water",
+        "sewer",
+        "drainage"
+    ]
+},
+  "bbox": [
+    -71.445757,
+    41.866589,
+    -71.445757,
+    41.866589
+],
+  "geometry": {"coordinates":[-71.445757,41.866589],"type":"Point"}
+}

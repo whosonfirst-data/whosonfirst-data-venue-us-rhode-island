@@ -1,0 +1,77 @@
+{
+  "id": 874076489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461392,41.740188,-71.461392,41.740188",
+    "geom:latitude":41.740188,
+    "geom:longitude":-71.461392,
+    "iso:country":"US",
+    "sg:address":"1580 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 0158",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VXJgk0pUmAsNFP7h30lRA_41.740188_-71.461392@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311515,
+    "wof:geomhash":"868ce36e4833652f51f68747df600a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874076489
+        }
+    ],
+    "wof:id":874076489,
+    "wof:lastmodified":1464311515,
+    "wof:name":"Carlow Orthopedic & Prosthetic",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.461392,
+    41.740188,
+    -71.461392,
+    41.740188
+],
+  "geometry": {"coordinates":[-71.461392,41.740188],"type":"Point"}
+}

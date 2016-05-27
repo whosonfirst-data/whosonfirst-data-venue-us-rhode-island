@@ -1,0 +1,80 @@
+{
+  "id": 874250707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.266602,41.59148,-71.266602,41.59148",
+    "geom:latitude":41.59148,
+    "geom:longitude":-71.266602,
+    "iso:country":"US",
+    "sg:address":"1038 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4832",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "merchandise",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xOsWtcb6h9w5EDGrkKPOR_41.591480_-71.266602@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313580,
+    "wof:geomhash":"a4579d4690a31f475faca1afc2e612fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874250707
+        }
+    ],
+    "wof:id":874250707,
+    "wof:lastmodified":1464313580,
+    "wof:name":"Swim Shop",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "merchandise",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -71.266602,
+    41.59148,
+    -71.266602,
+    41.59148
+],
+  "geometry": {"coordinates":[-71.26660200000001,41.59148],"type":"Point"}
+}

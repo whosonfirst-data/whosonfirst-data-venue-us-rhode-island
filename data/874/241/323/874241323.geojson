@@ -1,0 +1,71 @@
+{
+  "id": 874241323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296499,41.540955,-71.296499,41.540955",
+    "geom:latitude":41.540955,
+    "geom:longitude":-71.296499,
+    "iso:country":"US",
+    "sg:address":"4 Squantum Ct",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 1461",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BgK6fzJ6t2GP2PjqN6Alk_41.540955_-71.296499@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313364,
+    "wof:geomhash":"7987e7293d6b07b659694df8c13eaee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874241323
+        }
+    ],
+    "wof:id":874241323,
+    "wof:lastmodified":1464313364,
+    "wof:name":"Dreammaker Bath & Kitchen",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.296499,
+    41.540955,
+    -71.296499,
+    41.540955
+],
+  "geometry": {"coordinates":[-71.296499,41.540955],"type":"Point"}
+}

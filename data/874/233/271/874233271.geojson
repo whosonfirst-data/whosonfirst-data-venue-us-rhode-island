@@ -1,0 +1,71 @@
+{
+  "id": 874233271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52641,41.998166,-71.52641,41.998166",
+    "geom:latitude":41.998166,
+    "geom:longitude":-71.52641,
+    "iso:country":"US",
+    "sg:address":"212 Mason St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 356 4456",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UfhWMzuRDOxx2grGqRZzQ_41.998166_-71.526410@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313204,
+    "wof:geomhash":"f3e891b11ed042af6b1a450c1e888e35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874233271
+        }
+    ],
+    "wof:id":874233271,
+    "wof:lastmodified":1464313204,
+    "wof:name":"G & R Construction",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.52641,
+    41.998166,
+    -71.52641,
+    41.998166
+],
+  "geometry": {"coordinates":[-71.52641,41.998166],"type":"Point"}
+}

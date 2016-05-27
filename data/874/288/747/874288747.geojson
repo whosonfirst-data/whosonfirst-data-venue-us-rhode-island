@@ -1,0 +1,87 @@
+{
+  "id": 874288747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.646642,41.385821,-71.646642,41.385821",
+    "geom:latitude":41.385821,
+    "geom:longitude":-71.646642,
+    "iso:country":"US",
+    "sg:address":"4860 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0410",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "lunch",
+        "brunch",
+        "espresso",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O81kIROEYJigInZEH0EUY_41.385821_-71.646642@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314967,
+    "wof:geomhash":"6ce584a9753a1ab29a1057b2656ef408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288747
+        }
+    ],
+    "wof:id":874288747,
+    "wof:lastmodified":1464314967,
+    "wof:name":"Bess Eaton Coffee Shop & Bkry",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "lunch",
+        "brunch",
+        "espresso",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.646642,
+    41.385821,
+    -71.646642,
+    41.385821
+],
+  "geometry": {"coordinates":[-71.646642,41.385821],"type":"Point"}
+}

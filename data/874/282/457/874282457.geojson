@@ -1,0 +1,71 @@
+{
+  "id": 874282457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407501,41.9189,-71.407501,41.9189",
+    "geom:latitude":41.9189,
+    "geom:longitude":-71.407501,
+    "iso:country":"US",
+    "sg:address":"405 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 4170",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "restaurant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gKq06zRp5fQSkG6L0NVuy_41.919127_-71.407371@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314722,
+    "wof:geomhash":"97542d058dff6954267671b40260f2e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874282457
+        }
+    ],
+    "wof:id":874282457,
+    "wof:lastmodified":1464314722,
+    "wof:name":"Cantina Di Marco",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.407501,
+    41.9189,
+    -71.407501,
+    41.9189
+],
+  "geometry": {"coordinates":[-71.407501,41.9189],"type":"Point"}
+}

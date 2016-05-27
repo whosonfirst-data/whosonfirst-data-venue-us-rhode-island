@@ -1,0 +1,81 @@
+{
+  "id": 874296001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4154,41.82743,-71.4154,41.82743",
+    "geom:latitude":41.82743,
+    "geom:longitude":-71.4154,
+    "iso:country":"US",
+    "sg:address":"1 Finance Way",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 1040",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "sg:website":"waterplaceri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QCnh0zm1nPrpZNDgJ1lfp_41.827430_-71.415400@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315228,
+    "wof:geomhash":"229efd49debe7e24f620efd3cf525f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874296001
+        }
+    ],
+    "wof:id":874296001,
+    "wof:lastmodified":1464315228,
+    "wof:name":"Waterplace Restaurant",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.4154,
+    41.82743,
+    -71.4154,
+    41.82743
+],
+  "geometry": {"coordinates":[-71.41540000000001,41.82743],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874135565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435738,41.753026,-71.435738,41.753026",
+    "geom:latitude":41.753026,
+    "geom:longitude":-71.435738,
+    "iso:country":"US",
+    "sg:address":"1 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 5500",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sFG2J9DdnsJDPafBMOZDq_41.753026_-71.435738@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312196,
+    "wof:geomhash":"71866ea325266cf32a748c3fc88d1bd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874135565
+        }
+    ],
+    "wof:id":874135565,
+    "wof:lastmodified":1464312196,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.435738,
+    41.753026,
+    -71.435738,
+    41.753026
+],
+  "geometry": {"coordinates":[-71.435738,41.753026],"type":"Point"}
+}

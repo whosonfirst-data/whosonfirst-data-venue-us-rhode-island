@@ -1,0 +1,69 @@
+{
+  "id": 874260005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.365586,41.569968,-71.365586,41.569968",
+    "geom:latitude":41.569968,
+    "geom:longitude":-71.365586,
+    "iso:country":"US",
+    "sg:address":"1046 E Shore Rd",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 0024",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GKEh2DVJwE38XfRxlGV7V_41.569968_-71.365586@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313858,
+    "wof:geomhash":"a24af191cec886311b7288af0d0c6557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874260005
+        }
+    ],
+    "wof:id":874260005,
+    "wof:lastmodified":1464313858,
+    "wof:name":"Joseph J Oliviera Masonry",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.365586,
+    41.569968,
+    -71.365586,
+    41.569968
+],
+  "geometry": {"coordinates":[-71.36558599999999,41.569968],"type":"Point"}
+}

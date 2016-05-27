@@ -1,0 +1,71 @@
+{
+  "id": 874298663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453796,41.863201,-71.453796,41.863201",
+    "geom:latitude":41.863201,
+    "geom:longitude":-71.453796,
+    "iso:country":"US",
+    "sg:address":"1702 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6350",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FAv5ewLMr08AlNmcLN6wv_41.863201_-71.453796@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315338,
+    "wof:geomhash":"75b9ee70977d82ed44f05db7c3088ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874298663
+        }
+    ],
+    "wof:id":874298663,
+    "wof:lastmodified":1464315338,
+    "wof:name":"Captain's Catch",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.453796,
+    41.863201,
+    -71.453796,
+    41.863201
+],
+  "geometry": {"coordinates":[-71.453796,41.863201],"type":"Point"}
+}

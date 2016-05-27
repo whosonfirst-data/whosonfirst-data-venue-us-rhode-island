@@ -1,0 +1,72 @@
+{
+  "id": 874079297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233969,41.635592,-71.233969,41.635592",
+    "geom:latitude":41.635592,
+    "geom:longitude":-71.233969,
+    "iso:country":"US",
+    "sg:address":"170 Anthony Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 1070",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "sg:website":"www.dot.state.ri.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AK8MSh7FJizjfFdsyecFN_41.635592_-71.233969@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311545,
+    "wof:geomhash":"c416c490c4af44d9fbf8f53dd8cbbb2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874079297
+        }
+    ],
+    "wof:id":874079297,
+    "wof:lastmodified":1464311545,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.233969,
+    41.635592,
+    -71.233969,
+    41.635592
+],
+  "geometry": {"coordinates":[-71.233969,41.635592],"type":"Point"}
+}

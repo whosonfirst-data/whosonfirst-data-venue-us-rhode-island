@@ -1,0 +1,74 @@
+{
+  "id": 874288595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.700905,41.349025,-71.700905,41.349025",
+    "geom:latitude":41.349025,
+    "geom:longitude":-71.700905,
+    "iso:country":"US",
+    "sg:address":"Off East Beach Road",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beach"
+    ],
+    "sg:website":"www.riparks.com/eastbeach.htm",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854971,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AHLq54mHQeO14RjpLwpmJ_41.349025_-71.700905@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314961,
+    "wof:geomhash":"293248d3ee02415a7f8e8404e17ed575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85854971,
+            "region_id":85688509,
+            "venue_id":874288595
+        }
+    ],
+    "wof:id":874288595,
+    "wof:lastmodified":1464314961,
+    "wof:name":"East Beach",
+    "wof:parent_id":85854971,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beach"
+    ]
+},
+  "bbox": [
+    -71.700905,
+    41.349025,
+    -71.700905,
+    41.349025
+],
+  "geometry": {"coordinates":[-71.70090500000001,41.349025],"type":"Point"}
+}

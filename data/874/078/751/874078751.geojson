@@ -1,0 +1,73 @@
+{
+  "id": 874078751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.621957,41.402875,-71.621957,41.402875",
+    "geom:latitude":41.402875,
+    "geom:longitude":-71.621957,
+    "iso:country":"US",
+    "sg:address":"139 Old Coach Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 741 3369",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jPfSVNxL64GFNpD4i0bZB_41.402875_-71.621957@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"0c248321562f305039a27b44001b0a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874078751
+        }
+    ],
+    "wof:id":874078751,
+    "wof:lastmodified":1464311540,
+    "wof:name":"Charlestown Seashell",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.621957,
+    41.402875,
+    -71.621957,
+    41.402875
+],
+  "geometry": {"coordinates":[-71.62195699999999,41.402875],"type":"Point"}
+}

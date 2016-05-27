@@ -1,0 +1,86 @@
+{
+  "id": 873981119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531571,41.867116,-71.531571,41.867116",
+    "geom:latitude":41.867116,
+    "geom:longitude":-71.531571,
+    "iso:country":"US",
+    "sg:address":"19 Commerce St",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5151",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "arts",
+        "club",
+        "instruction",
+        "gymnasium",
+        "martial",
+        "health",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bzyFJLAU6Qw68ZBJurfhT_41.867116_-71.531571@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310604,
+    "wof:geomhash":"041e22a84fc02cf78db9b5d2574b40df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":873981119
+        }
+    ],
+    "wof:id":873981119,
+    "wof:lastmodified":1464310604,
+    "wof:name":"Rondeau's Kickboxing & Fitness",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arts",
+        "club",
+        "instruction",
+        "gymnasium",
+        "martial",
+        "health",
+        "studio"
+    ]
+},
+  "bbox": [
+    -71.531571,
+    41.867116,
+    -71.531571,
+    41.867116
+],
+  "geometry": {"coordinates":[-71.531571,41.867116],"type":"Point"}
+}

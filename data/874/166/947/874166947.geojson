@@ -1,0 +1,71 @@
+{
+  "id": 874166947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280496,41.537401,-71.280496,41.537401",
+    "geom:latitude":41.537401,
+    "geom:longitude":-71.280496,
+    "iso:country":"US",
+    "sg:address":"305 Oliphant Ln",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 4625",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kv3vNRVPE3qjVLkikly7s_41.537401_-71.280496@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312497,
+    "wof:geomhash":"3b28417e16bca2ad92b9b29e44af9337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874166947
+        }
+    ],
+    "wof:id":874166947,
+    "wof:lastmodified":1464312497,
+    "wof:name":"Viking Cleaners",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.280496,
+    41.537401,
+    -71.280496,
+    41.537401
+],
+  "geometry": {"coordinates":[-71.280496,41.537401],"type":"Point"}
+}

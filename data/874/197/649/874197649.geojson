@@ -1,0 +1,73 @@
+{
+  "id": 874197649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467443,41.833834,-71.467443,41.833834",
+    "geom:latitude":41.833834,
+    "geom:longitude":-71.467443,
+    "iso:country":"US",
+    "sg:address":"904 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8129",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RnD15uBBaUWSHqw1ZdvQh_41.833834_-71.467443@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"4a9a822b0c2b1dc6fbdea7ef87757f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874197649
+        }
+    ],
+    "wof:id":874197649,
+    "wof:lastmodified":1464312822,
+    "wof:name":"Johnstons Foreign Car Center",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.467443,
+    41.833834,
+    -71.467443,
+    41.833834
+],
+  "geometry": {"coordinates":[-71.467443,41.833834],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874111991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558828,42.04793,-71.558828,42.04793",
+    "geom:latitude":42.04793,
+    "geom:longitude":-71.558828,
+    "iso:country":"US",
+    "sg:address":"26 Chestnut St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 634 8608",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35fm1yb39amDm5lXYkbai0_42.047930_-71.558828@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311957,
+    "wof:geomhash":"b1c0c00eece5c0a857e3c9dfb0da65f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":874111991
+        }
+    ],
+    "wof:id":874111991,
+    "wof:lastmodified":1464311957,
+    "wof:name":"Manzola Carpentry",
+    "wof:parent_id":85810765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -71.558828,
+    42.04793,
+    -71.558828,
+    42.04793
+],
+  "geometry": {"coordinates":[-71.55882800000001,42.04793],"type":"Point"}
+}

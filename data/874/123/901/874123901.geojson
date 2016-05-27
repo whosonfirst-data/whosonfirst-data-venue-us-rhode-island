@@ -1,0 +1,88 @@
+{
+  "id": 874123901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482151,41.442352,-71.482151,41.442352",
+    "geom:latitude":41.442352,
+    "geom:longitude":-71.482151,
+    "iso:country":"US",
+    "sg:address":"84 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6500",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qvhRX0iEIoIgixnIdI5y9_41.442352_-71.482151@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312076,
+    "wof:geomhash":"20ef0e21517317cf4bfbd2dba3297d79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874123901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874123901
+        }
+    ],
+    "wof:id":874123901,
+    "wof:lastmodified":1464312076,
+    "wof:name":"Fred W Smith Dodge-Chrysler",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.482151,
+    41.442352,
+    -71.482151,
+    41.442352
+],
+  "geometry": {"coordinates":[-71.482151,41.442352],"type":"Point"}
+}

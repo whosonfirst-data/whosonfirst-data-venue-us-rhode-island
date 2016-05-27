@@ -1,0 +1,77 @@
+{
+  "id": 874168509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436425,41.80613,-71.436425,41.80613",
+    "geom:latitude":41.80613,
+    "geom:longitude":-71.436425,
+    "iso:country":"US",
+    "sg:address":"662 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 1469",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LWoRMnlC3wMhFOcLcdKEU_41.806130_-71.436425@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312512,
+    "wof:geomhash":"010ce64f3ee748566641f85fca8769ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874168509
+        }
+    ],
+    "wof:id":874168509,
+    "wof:lastmodified":1464312512,
+    "wof:name":"Francisco Duran",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.436425,
+    41.80613,
+    -71.436425,
+    41.80613
+],
+  "geometry": {"coordinates":[-71.436425,41.80613],"type":"Point"}
+}

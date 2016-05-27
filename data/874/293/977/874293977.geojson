@@ -1,0 +1,71 @@
+{
+  "id": 874293977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.69788,41.513944,-71.69788,41.513944",
+    "geom:latitude":41.513944,
+    "geom:longitude":-71.69788,
+    "iso:country":"US",
+    "sg:address":"1187 Main",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2563",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d89Cc0mr2pUh9FC8NZM3Y_41.513944_-71.697880@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315156,
+    "wof:geomhash":"a2a1e0397c498c8f96daf44982f46c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874293977
+        }
+    ],
+    "wof:id":874293977,
+    "wof:lastmodified":1464315156,
+    "wof:name":"Cvs Pharmacy",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.69788,
+    41.513944,
+    -71.69788,
+    41.513944
+],
+  "geometry": {"coordinates":[-71.69788,41.513944],"type":"Point"}
+}

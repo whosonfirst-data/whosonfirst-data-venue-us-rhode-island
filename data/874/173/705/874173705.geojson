@@ -1,0 +1,69 @@
+{
+  "id": 874173705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399628,41.888387,-71.399628,41.888387",
+    "geom:latitude":41.888387,
+    "geom:longitude":-71.399628,
+    "iso:country":"US",
+    "sg:address":"6 Crossman St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 6131",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SBCB411hO5QJqy4gOAonv_41.888387_-71.399628@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312565,
+    "wof:geomhash":"e10f9340ec527c27ecc3179dbe5419ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874173705
+        }
+    ],
+    "wof:id":874173705,
+    "wof:lastmodified":1464312565,
+    "wof:name":"P Jay's Pub Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.399628,
+    41.888387,
+    -71.399628,
+    41.888387
+],
+  "geometry": {"coordinates":[-71.39962800000001,41.888387],"type":"Point"}
+}

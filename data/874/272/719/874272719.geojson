@@ -1,0 +1,75 @@
+{
+  "id": 874272719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461587,41.75647,-71.461587,41.75647",
+    "geom:latitude":41.75647,
+    "geom:longitude":-71.461587,
+    "iso:country":"US",
+    "sg:address":"300 New London Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 462 7289",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZKxHpGlpxiw475ZM5g2vi_41.756470_-71.461587@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314320,
+    "wof:geomhash":"7ca66afab6988f205f9dbb82e9b2b902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874272719
+        }
+    ],
+    "wof:id":874272719,
+    "wof:lastmodified":1464314320,
+    "wof:name":"Rhode Island Training",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -71.461587,
+    41.75647,
+    -71.461587,
+    41.75647
+],
+  "geometry": {"coordinates":[-71.46158699999999,41.75647],"type":"Point"}
+}

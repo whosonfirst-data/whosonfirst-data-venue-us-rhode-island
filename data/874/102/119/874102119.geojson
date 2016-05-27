@@ -1,0 +1,77 @@
+{
+  "id": 874102119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452292,41.657126,-71.452292,41.657126",
+    "geom:latitude":41.657126,
+    "geom:longitude":-71.452292,
+    "iso:country":"US",
+    "sg:address":"537 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 6867",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLr4JrSzh3E30uVdvhOIU_41.657126_-71.452292@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311819,
+    "wof:geomhash":"11b2863fd4ae12b0cdb3e7925d695d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874102119
+        }
+    ],
+    "wof:id":874102119,
+    "wof:lastmodified":1464311819,
+    "wof:name":"Roly Poly Sandwich Shop",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.452292,
+    41.657126,
+    -71.452292,
+    41.657126
+],
+  "geometry": {"coordinates":[-71.452292,41.657126],"type":"Point"}
+}

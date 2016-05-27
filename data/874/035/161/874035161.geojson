@@ -1,0 +1,71 @@
+{
+  "id": 874035161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532328,41.998595,-71.532328,41.998595",
+    "geom:latitude":41.998595,
+    "geom:longitude":-71.532328,
+    "iso:country":"US",
+    "sg:address":"357 9th Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 6134",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g5Dk86wjMaAEAZQ97mIDg_41.998595_-71.532328@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311095,
+    "wof:geomhash":"fdb15ad062cfa3ac913e0d539e1ce9a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874035161
+        }
+    ],
+    "wof:id":874035161,
+    "wof:lastmodified":1464311095,
+    "wof:name":"Plasse Electric",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.532328,
+    41.998595,
+    -71.532328,
+    41.998595
+],
+  "geometry": {"coordinates":[-71.53232800000001,41.998595],"type":"Point"}
+}

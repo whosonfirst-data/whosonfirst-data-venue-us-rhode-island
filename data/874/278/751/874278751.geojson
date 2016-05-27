@@ -1,0 +1,77 @@
+{
+  "id": 874278751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452835,41.568591,-71.452835,41.568591",
+    "geom:latitude":41.568591,
+    "geom:longitude":-71.452835,
+    "iso:country":"US",
+    "sg:address":"1 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Toys & Hobbies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 2670",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wholesaler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NT0d1XZpEiOQLy4IZZnMJ_41.568591_-71.452835@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314564,
+    "wof:geomhash":"ce2271a9bac3e3372fa16dda7b03584a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874278751
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874278751
+        }
+    ],
+    "wof:id":874278751,
+    "wof:lastmodified":1464314564,
+    "wof:name":"Great River Outfitters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wholesaler"
+    ]
+},
+  "bbox": [
+    -71.452835,
+    41.568591,
+    -71.452835,
+    41.568591
+],
+  "geometry": {"coordinates":[-71.45283499999999,41.568591],"type":"Point"}
+}

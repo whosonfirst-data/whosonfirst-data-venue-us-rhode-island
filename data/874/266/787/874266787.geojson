@@ -1,0 +1,71 @@
+{
+  "id": 874266787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273436,41.729635,-71.273436,41.729635",
+    "geom:latitude":41.729635,
+    "geom:longitude":-71.273436,
+    "iso:country":"US",
+    "sg:address":"260 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3403",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A4F2JXZiIQdOF3d8sqjbZ_41.729635_-71.273436@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314098,
+    "wof:geomhash":"721c2221ad858a7b7aa30ff426b9cf32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874266787
+        }
+    ],
+    "wof:id":874266787,
+    "wof:lastmodified":1464314098,
+    "wof:name":"Emers & Cohen",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.273436,
+    41.729635,
+    -71.273436,
+    41.729635
+],
+  "geometry": {"coordinates":[-71.273436,41.729635],"type":"Point"}
+}

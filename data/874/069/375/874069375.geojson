@@ -1,0 +1,77 @@
+{
+  "id": 874069375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444346,41.830714,-71.444346,41.830714",
+    "geom:latitude":41.830714,
+    "geom:longitude":-71.444346,
+    "iso:country":"US",
+    "sg:address":"218 Academy Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 6608",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QqrMQPYVlacQnV4ZgLctm_41.830714_-71.444346@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311426,
+    "wof:geomhash":"f813b7f7a5c4a8024698097522390b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874069375
+        }
+    ],
+    "wof:id":874069375,
+    "wof:lastmodified":1464311426,
+    "wof:name":"Natural Healing",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -71.444346,
+    41.830714,
+    -71.444346,
+    41.830714
+],
+  "geometry": {"coordinates":[-71.444346,41.830714],"type":"Point"}
+}

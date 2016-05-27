@@ -1,0 +1,73 @@
+{
+  "id": 874280773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50399,41.867205,-71.50399,41.867205",
+    "geom:latitude":41.867205,
+    "geom:longitude":-71.50399,
+    "iso:country":"US",
+    "sg:address":"244 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0808",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I8Sdycf9nQqloW7henH7q_41.867205_-71.503990@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314653,
+    "wof:geomhash":"1519fee10cb13271321c4f36f6791d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874280773
+        }
+    ],
+    "wof:id":874280773,
+    "wof:lastmodified":1464314653,
+    "wof:name":"Giovanni S Auto Sales",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.50399,
+    41.867205,
+    -71.50399,
+    41.867205
+],
+  "geometry": {"coordinates":[-71.50399,41.867205],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874239191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533939,41.58177,-71.533939,41.58177",
+    "geom:latitude":41.58177,
+    "geom:longitude":-71.533939,
+    "iso:country":"US",
+    "sg:address":"95 Brookridge Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1060",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s2vbMK6Ds3KSM2vy2sFLw_41.581770_-71.533939@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313325,
+    "wof:geomhash":"96bb9f96c863d209ca2936dc04156e67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874239191
+        }
+    ],
+    "wof:id":874239191,
+    "wof:lastmodified":1464313325,
+    "wof:name":"Simpson Builders",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.533939,
+    41.58177,
+    -71.533939,
+    41.58177
+],
+  "geometry": {"coordinates":[-71.533939,41.58177],"type":"Point"}
+}

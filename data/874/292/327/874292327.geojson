@@ -1,0 +1,71 @@
+{
+  "id": 874292327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407303,41.894199,-71.407303,41.894199",
+    "geom:latitude":41.894199,
+    "geom:longitude":-71.407303,
+    "iso:country":"US",
+    "sg:address":"65 Walker St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 7725",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LQ9Lsnaj7MP2ScHtbBIMy_41.894199_-71.407303@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315101,
+    "wof:geomhash":"974bcbf9a283e96919550c92db0a8e5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292327
+        }
+    ],
+    "wof:id":874292327,
+    "wof:lastmodified":1464315101,
+    "wof:name":"Supreme Auto Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.407303,
+    41.894199,
+    -71.407303,
+    41.894199
+],
+  "geometry": {"coordinates":[-71.407303,41.894199],"type":"Point"}
+}

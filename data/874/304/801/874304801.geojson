@@ -1,0 +1,71 @@
+{
+  "id": 874304801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472799,41.828339,-71.472799,41.828339",
+    "geom:latitude":41.828339,
+    "geom:longitude":-71.472799,
+    "iso:country":"US",
+    "sg:address":"620 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 5090",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jGp7UW4gkG1l94okhGkcM_41.828339_-71.472799@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315557,
+    "wof:geomhash":"10b1c882a4097e95c44b17dccb81414a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304801
+        }
+    ],
+    "wof:id":874304801,
+    "wof:lastmodified":1464315557,
+    "wof:name":"Johnston's Centerstage Dance",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -71.472799,
+    41.828339,
+    -71.472799,
+    41.828339
+],
+  "geometry": {"coordinates":[-71.47279899999999,41.828339],"type":"Point"}
+}

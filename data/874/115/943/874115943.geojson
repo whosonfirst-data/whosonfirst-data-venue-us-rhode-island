@@ -1,0 +1,71 @@
+{
+  "id": 874115943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.242794,41.57584,-71.242794,41.57584",
+    "geom:latitude":41.57584,
+    "geom:longitude":-71.242794,
+    "iso:country":"US",
+    "sg:address":"72 Kerr Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 2747",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nSW4vBM1ljBKzFZjgPLxd_41.575840_-71.242794@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311996,
+    "wof:geomhash":"002cbd73cafd5ced52bffb7728687620",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874115943
+        }
+    ],
+    "wof:id":874115943,
+    "wof:lastmodified":1464311996,
+    "wof:name":"Aquidneck Landscape Svc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.242794,
+    41.57584,
+    -71.242794,
+    41.57584
+],
+  "geometry": {"coordinates":[-71.242794,41.57584],"type":"Point"}
+}

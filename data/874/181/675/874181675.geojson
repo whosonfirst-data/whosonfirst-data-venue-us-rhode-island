@@ -1,0 +1,71 @@
+{
+  "id": 874181675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449278,41.869282,-71.449278,41.869282",
+    "geom:latitude":41.869282,
+    "geom:longitude":-71.449278,
+    "iso:country":"US",
+    "sg:address":"21 Patricia Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 5129",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gHFCP114mQsVNlJMNpiiz_41.869282_-71.449278@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312648,
+    "wof:geomhash":"f97dd7385a9ff99de7f0bc64e3b280d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874181675
+        }
+    ],
+    "wof:id":874181675,
+    "wof:lastmodified":1464312648,
+    "wof:name":"Millennia Technologies Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.449278,
+    41.869282,
+    -71.449278,
+    41.869282
+],
+  "geometry": {"coordinates":[-71.44927800000001,41.869282],"type":"Point"}
+}

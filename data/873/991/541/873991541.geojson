@@ -1,0 +1,75 @@
+{
+  "id": 873991541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.233529,41.622565,-71.233529,41.622565",
+    "geom:latitude":41.622565,
+    "geom:longitude":-71.233529,
+    "iso:country":"US",
+    "sg:address":"33 Gormley Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 265 9680",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16xoMUJGETKGL1F0yPtJgk_41.622565_-71.233529@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310700,
+    "wof:geomhash":"556ad0ec62360834a10cb6ad80f0f7ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":873991541
+        }
+    ],
+    "wof:id":873991541,
+    "wof:lastmodified":1464310700,
+    "wof:name":"Artistic Painting Plus",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.233529,
+    41.622565,
+    -71.233529,
+    41.622565
+],
+  "geometry": {"coordinates":[-71.233529,41.622565],"type":"Point"}
+}

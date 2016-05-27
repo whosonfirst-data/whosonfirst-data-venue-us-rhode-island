@@ -1,0 +1,75 @@
+{
+  "id": 874018029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426429,41.795049,-71.426429,41.795049",
+    "geom:latitude":41.795049,
+    "geom:longitude":-71.426429,
+    "iso:country":"US",
+    "sg:address":"77 Reservoir Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 1092",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q916b450kmxk7qMCH8N7f_41.795049_-71.426429@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310927,
+    "wof:geomhash":"05d0fb611df83391991b41aab172d9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874018029
+        }
+    ],
+    "wof:id":874018029,
+    "wof:lastmodified":1464310927,
+    "wof:name":"Super Stop & Shop",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.426429,
+    41.795049,
+    -71.426429,
+    41.795049
+],
+  "geometry": {"coordinates":[-71.426429,41.795049],"type":"Point"}
+}

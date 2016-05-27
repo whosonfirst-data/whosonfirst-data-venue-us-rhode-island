@@ -1,0 +1,70 @@
+{
+  "id": 874286641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547629,41.696129,-71.547629,41.696129",
+    "geom:latitude":41.696129,
+    "geom:longitude":-71.547629,
+    "iso:country":"US",
+    "sg:address":"637 Washington St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/coventry/58394-a-pagliarinis-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 5555",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bhIFYRDdutYfHjNMFXPcv_41.696129_-71.547629@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314878,
+    "wof:geomhash":"a206333643f2ab537d3f7e221744213d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874286641
+        }
+    ],
+    "wof:id":874286641,
+    "wof:lastmodified":1464314878,
+    "wof:name":"A. Pagliarini's Family Restaurant",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.547629,
+    41.696129,
+    -71.547629,
+    41.696129
+],
+  "geometry": {"coordinates":[-71.547629,41.696129],"type":"Point"}
+}

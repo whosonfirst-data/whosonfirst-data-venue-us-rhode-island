@@ -1,0 +1,86 @@
+{
+  "id": 874241231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437099,41.772617,-71.437099,41.772617",
+    "geom:latitude":41.772617,
+    "geom:longitude":-71.437099,
+    "iso:country":"US",
+    "sg:address":"539 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2783",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42rpsCL918X6X7duJij3gv_41.772617_-71.437099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313363,
+    "wof:geomhash":"9dc1cc2c0c5bf1e92a4db38c95e30bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874241231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874241231
+        }
+    ],
+    "wof:id":874241231,
+    "wof:lastmodified":1464313363,
+    "wof:name":"All Occasions By Gini",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.437099,
+    41.772617,
+    -71.437099,
+    41.772617
+],
+  "geometry": {"coordinates":[-71.437099,41.772617],"type":"Point"}
+}

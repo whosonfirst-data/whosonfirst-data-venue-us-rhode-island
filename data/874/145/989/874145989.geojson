@@ -1,0 +1,71 @@
+{
+  "id": 874145989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.714238,41.515373,-71.714238,41.515373",
+    "geom:latitude":41.515373,
+    "geom:longitude":-71.714238,
+    "iso:country":"US",
+    "sg:address":"5 Fairview Ave",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2839",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xo0T6ZfRPTSMko8njloet_41.515373_-71.714238@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312293,
+    "wof:geomhash":"46c52f030358aaeb8f1d328908d88ce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874145989
+        }
+    ],
+    "wof:id":874145989,
+    "wof:lastmodified":1464312293,
+    "wof:name":"Hope Valley Ambulance Squad",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.714238,
+    41.515373,
+    -71.714238,
+    41.515373
+],
+  "geometry": {"coordinates":[-71.71423799999999,41.515373],"type":"Point"}
+}

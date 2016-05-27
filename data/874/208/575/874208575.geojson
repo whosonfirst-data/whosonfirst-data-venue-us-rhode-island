@@ -1,0 +1,71 @@
+{
+  "id": 874208575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481548,41.823237,-71.481548,41.823237",
+    "geom:latitude":41.823237,
+    "geom:longitude":-71.481548,
+    "iso:country":"US",
+    "sg:address":"153 Borden Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 9211",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQhDOJFnWz9vUTuJ393Q5_41.823237_-71.481548@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312934,
+    "wof:geomhash":"fdf0d50e431e81cd11bf77a22d852c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874208575
+        }
+    ],
+    "wof:id":874208575,
+    "wof:lastmodified":1464312934,
+    "wof:name":"BP Systems",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.481548,
+    41.823237,
+    -71.481548,
+    41.823237
+],
+  "geometry": {"coordinates":[-71.481548,41.823237],"type":"Point"}
+}

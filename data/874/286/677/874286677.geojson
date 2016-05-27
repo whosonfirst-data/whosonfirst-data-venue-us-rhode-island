@@ -1,0 +1,74 @@
+{
+  "id": 874286677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493097,41.662857,-71.493097,41.662857",
+    "geom:latitude":41.662857,
+    "geom:longitude":-71.493097,
+    "iso:country":"US",
+    "sg:address":"1000 Division Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/53334-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 541 9088",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E14pkgLEmwTcNIShWflLz_41.662857_-71.493097@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314879,
+    "wof:geomhash":"637ae45f0f4c8bed9a339f5643b507fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874286677
+        }
+    ],
+    "wof:id":874286677,
+    "wof:lastmodified":1464314879,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.493097,
+    41.662857,
+    -71.493097,
+    41.662857
+],
+  "geometry": {"coordinates":[-71.49309700000001,41.662857],"type":"Point"}
+}

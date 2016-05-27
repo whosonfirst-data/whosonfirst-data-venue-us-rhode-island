@@ -1,0 +1,69 @@
+{
+  "id": 874259607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47216,41.395122,-71.47216,41.395122",
+    "geom:latitude":41.395122,
+    "geom:longitude":-71.47216,
+    "iso:country":"US",
+    "sg:address":"51 Middle Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0001",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SbS2266AKlJr0nRvUK8Tm_41.395122_-71.472160@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313845,
+    "wof:geomhash":"e04d4fab5135b5a39a69d4f414eab048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874259607
+        }
+    ],
+    "wof:id":874259607,
+    "wof:lastmodified":1464313845,
+    "wof:name":"Black Point Bed and Breakfast",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.47216,
+    41.395122,
+    -71.47216,
+    41.395122
+],
+  "geometry": {"coordinates":[-71.47216,41.395122],"type":"Point"}
+}

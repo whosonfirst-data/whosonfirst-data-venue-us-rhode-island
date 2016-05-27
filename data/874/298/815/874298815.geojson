@@ -1,0 +1,83 @@
+{
+  "id": 874298815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431556,41.836943,-71.431556,41.836943",
+    "geom:latitude":41.836943,
+    "geom:longitude":-71.431556,
+    "iso:country":"US",
+    "sg:address":"617 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7700",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "housing",
+        "apartment"
+    ],
+    "sg:website":"www.ristudentrentals.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JuR1gqJc9Fgtk75PeDqA9_41.836943_-71.431556@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315348,
+    "wof:geomhash":"c255845efa2c06560ab1aa1c5ae2668b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874298815
+        }
+    ],
+    "wof:id":874298815,
+    "wof:lastmodified":1464315348,
+    "wof:name":"RI Student Rentals",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.431556,
+    41.836943,
+    -71.431556,
+    41.836943
+],
+  "geometry": {"coordinates":[-71.431556,41.836943],"type":"Point"}
+}

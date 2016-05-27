@@ -1,0 +1,69 @@
+{
+  "id": 874178601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.491464,41.869634,-71.491464,41.869634",
+    "geom:latitude":41.869634,
+    "geom:longitude":-71.491464,
+    "iso:country":"US",
+    "sg:address":"9 Autumn Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 2302",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63ScJ3gy14zDJPh3Ih71F7_41.869634_-71.491464@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312614,
+    "wof:geomhash":"e8dba14b7d4743004a8c9efbac5a5a80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874178601
+        }
+    ],
+    "wof:id":874178601,
+    "wof:lastmodified":1464312614,
+    "wof:name":"House Doctor",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.491464,
+    41.869634,
+    -71.491464,
+    41.869634
+],
+  "geometry": {"coordinates":[-71.49146399999999,41.869634],"type":"Point"}
+}

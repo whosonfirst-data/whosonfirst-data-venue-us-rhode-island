@@ -1,0 +1,79 @@
+{
+  "id": 874256367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398979,41.746233,-71.398979,41.746233",
+    "geom:latitude":41.746233,
+    "geom:longitude":-71.398979,
+    "iso:country":"US",
+    "sg:address":"1064 Narragansett Pkwy",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 9943",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pq0dCFr9AAGIIrLYbUpBx_41.746233_-71.398979@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313704,
+    "wof:geomhash":"f043ee347eb9287bacf17507e9e52166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874256367
+        }
+    ],
+    "wof:id":874256367,
+    "wof:lastmodified":1464313704,
+    "wof:name":"Wager Trucking",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.398979,
+    41.746233,
+    -71.398979,
+    41.746233
+],
+  "geometry": {"coordinates":[-71.398979,41.746233],"type":"Point"}
+}

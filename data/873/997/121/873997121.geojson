@@ -1,0 +1,79 @@
+{
+  "id": 873997121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522306,41.687941,-71.522306,41.687941",
+    "geom:latitude":41.687941,
+    "geom:longitude":-71.522306,
+    "iso:country":"US",
+    "sg:address":"1606 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 8996",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YQv5jUHK5J5Qodp9Y3NUg_41.687941_-71.522306@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"fcc4ec695e1457e351c1f7b42b209f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":873997121
+        }
+    ],
+    "wof:id":873997121,
+    "wof:lastmodified":1464310740,
+    "wof:name":"Paul Davis Systems-Ocean State",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -71.522306,
+    41.687941,
+    -71.522306,
+    41.687941
+],
+  "geometry": {"coordinates":[-71.522306,41.687941],"type":"Point"}
+}

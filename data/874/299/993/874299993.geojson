@@ -1,0 +1,117 @@
+{
+  "id": 874299993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400082,41.793357,-71.400082,41.793357",
+    "geom:latitude":41.793357,
+    "geom:longitude":-71.400082,
+    "iso:country":"US",
+    "sg:address":"42 Baker St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 339 7690",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "consumer",
+        "fixture",
+        "equipment",
+        "lamp",
+        "lighting",
+        "shade",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oBvjLnZuKKfYyNjQ64op5_41.793357_-71.400082@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315389,
+    "wof:geomhash":"ebdf2a55868d8f1ef8692dee1be8a538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874299993
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874299993
+        }
+    ],
+    "wof:id":874299993,
+    "wof:lastmodified":1464315389,
+    "wof:name":"Lightworld",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "consumer",
+        "fixture",
+        "equipment",
+        "lamp",
+        "lighting",
+        "shade",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.400082,
+    41.793357,
+    -71.400082,
+    41.793357
+],
+  "geometry": {"coordinates":[-71.400082,41.793357],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874248909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.624375,41.998942,-71.624375,41.998942",
+    "geom:latitude":41.998942,
+    "geom:longitude":-71.624375,
+    "iso:country":"US",
+    "sg:address":"369 Mount Pleasant Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 8030",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jrujrqYszzzv0kXY292Fd_41.998942_-71.624375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313527,
+    "wof:geomhash":"604c75a52408030174727482beac148b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874248909
+        }
+    ],
+    "wof:id":874248909,
+    "wof:lastmodified":1464313527,
+    "wof:name":"Surity Laundry",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -71.624375,
+    41.998942,
+    -71.624375,
+    41.998942
+],
+  "geometry": {"coordinates":[-71.624375,41.998942],"type":"Point"}
+}

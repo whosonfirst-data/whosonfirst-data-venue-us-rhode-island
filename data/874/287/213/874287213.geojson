@@ -1,0 +1,71 @@
+{
+  "id": 874287213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.764692,41.352372,-71.764692,41.352372",
+    "geom:latitude":41.352372,
+    "geom:longitude":-71.764692,
+    "iso:country":"US",
+    "sg:address":"262 Post Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/westerly/201255-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3E4DCZQa77xn01iPUYp8tT_41.352372_-71.764692@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314897,
+    "wof:geomhash":"353aa422856b7ca8e6063c78528b90f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874287213
+        }
+    ],
+    "wof:id":874287213,
+    "wof:lastmodified":1464314897,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.764692,
+    41.352372,
+    -71.764692,
+    41.352372
+],
+  "geometry": {"coordinates":[-71.764692,41.352372],"type":"Point"}
+}

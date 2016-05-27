@@ -1,0 +1,79 @@
+{
+  "id": 874254193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439399,41.836464,-71.439399,41.836464",
+    "geom:latitude":41.836464,
+    "geom:longitude":-71.439399,
+    "iso:country":"US",
+    "sg:address":"315 River Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 5811",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yHcqdH0GBVzcuDOzVNncl_41.836464_-71.439399@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313651,
+    "wof:geomhash":"a6048cb9b0d24b024492f30198268a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874254193
+        }
+    ],
+    "wof:id":874254193,
+    "wof:lastmodified":1464313651,
+    "wof:name":"Robertos Trucking",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.439399,
+    41.836464,
+    -71.439399,
+    41.836464
+],
+  "geometry": {"coordinates":[-71.43939899999999,41.836464],"type":"Point"}
+}

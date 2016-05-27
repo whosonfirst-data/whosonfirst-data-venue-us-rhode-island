@@ -1,0 +1,86 @@
+{
+  "id": 874283385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421411,41.833551,-71.421411,41.833551",
+    "geom:latitude":41.833551,
+    "geom:longitude":-71.421411,
+    "iso:country":"US",
+    "sg:address":"290 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 8300",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supply",
+        "transmission",
+        "automobile",
+        "parts",
+        "accessories-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.portlandtransmission.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2430BMWtYwdhVbbxIJvFcO_41.833362_-71.421172@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314752,
+    "wof:geomhash":"4b7c897c706796cb5932c5e7b0ddf970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874283385
+        }
+    ],
+    "wof:id":874283385,
+    "wof:lastmodified":1464314752,
+    "wof:name":"Portland Transmission Co",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "transmission",
+        "automobile",
+        "parts",
+        "accessories-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.421411,
+    41.833551,
+    -71.421411,
+    41.833551
+],
+  "geometry": {"coordinates":[-71.42141100000001,41.833551],"type":"Point"}
+}

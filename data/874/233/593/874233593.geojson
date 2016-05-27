@@ -1,0 +1,75 @@
+{
+  "id": 874233593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389689,41.829193,-71.389689,41.829193",
+    "geom:latitude":41.829193,
+    "geom:longitude":-71.389689,
+    "iso:country":"US",
+    "sg:address":"104 Medway St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9116",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7051zEB0lN2ikuhjUUIkrF_41.829193_-71.389689@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313211,
+    "wof:geomhash":"409be1fd5107b31aa55509a8bd85a37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874233593
+        }
+    ],
+    "wof:id":874233593,
+    "wof:lastmodified":1464313211,
+    "wof:name":"Medway Parking Lot LTD",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.389689,
+    41.829193,
+    -71.389689,
+    41.829193
+],
+  "geometry": {"coordinates":[-71.389689,41.829193],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874279829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254542,41.588731,-71.254542,41.588731",
+    "geom:latitude":41.588731,
+    "geom:longitude":-71.254542,
+    "iso:country":"US",
+    "sg:address":"85 Middle Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0803",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LrrleMrhYrNBJMgfmk0bi_41.588731_-71.254542@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314605,
+    "wof:geomhash":"4ad0a1d10f109bf2c1dbef4b552aa690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874279829
+        }
+    ],
+    "wof:id":874279829,
+    "wof:lastmodified":1464314605,
+    "wof:name":"Portsmouth Veterinary Clinic",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.254542,
+    41.588731,
+    -71.254542,
+    41.588731
+],
+  "geometry": {"coordinates":[-71.254542,41.588731],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874010219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494719,41.847563,-71.494719,41.847563",
+    "geom:latitude":41.847563,
+    "geom:longitude":-71.494719,
+    "iso:country":"US",
+    "sg:address":"12 Brenda Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 9111",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gf99aas4NtVvs1TALYgKu_41.847563_-71.494719@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310857,
+    "wof:geomhash":"b8764aeef461fd92b2b0722a3700ff44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874010219
+        }
+    ],
+    "wof:id":874010219,
+    "wof:lastmodified":1464310857,
+    "wof:name":"Top To Bottom Cleaning Service",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.494719,
+    41.847563,
+    -71.494719,
+    41.847563
+],
+  "geometry": {"coordinates":[-71.494719,41.847563],"type":"Point"}
+}

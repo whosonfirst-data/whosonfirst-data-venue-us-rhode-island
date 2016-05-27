@@ -1,0 +1,76 @@
+{
+  "id": 874235999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463815,41.870741,-71.463815,41.870741",
+    "geom:latitude":41.870741,
+    "geom:longitude":-71.463815,
+    "iso:country":"US",
+    "sg:address":"1671 Douglas Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5190",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PgibsBcwCwVRNyV6aLFwQ_41.870741_-71.463815@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313261,
+    "wof:geomhash":"ba70011680ad4749d4bf196fbb4d66d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874235999
+        }
+    ],
+    "wof:id":874235999,
+    "wof:lastmodified":1464313261,
+    "wof:name":"Geneva Sportsman Club",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -71.463815,
+    41.870741,
+    -71.463815,
+    41.870741
+],
+  "geometry": {"coordinates":[-71.463815,41.870741],"type":"Point"}
+}

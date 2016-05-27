@@ -1,0 +1,73 @@
+{
+  "id": 873988729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540795,41.875373,-71.540795,41.875373",
+    "geom:latitude":41.875373,
+    "geom:longitude":-71.540795,
+    "iso:country":"US",
+    "sg:address":"21 Continental Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 2353",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "rod",
+        "installation",
+        "lightning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iJnKfJGoL0k9vHLEpaYfK_41.875373_-71.540795@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310681,
+    "wof:geomhash":"676a569a73870e18044eec396ec7c2c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":873988729
+        }
+    ],
+    "wof:id":873988729,
+    "wof:lastmodified":1464310681,
+    "wof:name":"Kevin F Flynn Installation Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rod",
+        "installation",
+        "lightning"
+    ]
+},
+  "bbox": [
+    -71.540795,
+    41.875373,
+    -71.540795,
+    41.875373
+],
+  "geometry": {"coordinates":[-71.540795,41.875373],"type":"Point"}
+}

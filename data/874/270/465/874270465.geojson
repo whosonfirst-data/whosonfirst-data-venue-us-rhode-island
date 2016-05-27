@@ -1,0 +1,73 @@
+{
+  "id": 874270465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53613,41.565134,-71.53613,41.565134",
+    "geom:latitude":41.565134,
+    "geom:longitude":-71.53613,
+    "iso:country":"US",
+    "sg:address":"252 South Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9632",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51UjiywSEouym39uJEvOSL_41.565134_-71.536130@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314241,
+    "wof:geomhash":"04c3574cfc61159a9d5da4bf05fd4974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874270465
+        }
+    ],
+    "wof:id":874270465,
+    "wof:lastmodified":1464314241,
+    "wof:name":"D Lewis & Son Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "system",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.53613,
+    41.565134,
+    -71.53613,
+    41.565134
+],
+  "geometry": {"coordinates":[-71.53613,41.565134],"type":"Point"}
+}

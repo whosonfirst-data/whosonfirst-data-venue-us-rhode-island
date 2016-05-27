@@ -1,0 +1,77 @@
+{
+  "id": 874283923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549606,41.915779,-71.549606,41.915779",
+    "geom:latitude":41.915779,
+    "geom:longitude":-71.549606,
+    "iso:country":"US",
+    "sg:address":"13 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 3638",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "repair",
+        "precision",
+        "shop",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zGQ2edqLSNxd7yzChz2TL_41.915791_-71.549606@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314771,
+    "wof:geomhash":"7bd4c7e488c0c34bef4130a0835bce09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874283923
+        }
+    ],
+    "wof:id":874283923,
+    "wof:lastmodified":1464314771,
+    "wof:name":"Ultra Precision Machining",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "repair",
+        "precision",
+        "shop",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.549606,
+    41.915779,
+    -71.549606,
+    41.915779
+],
+  "geometry": {"coordinates":[-71.549606,41.915779],"type":"Point"}
+}

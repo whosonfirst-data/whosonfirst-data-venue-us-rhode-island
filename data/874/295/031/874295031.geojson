@@ -1,0 +1,75 @@
+{
+  "id": 874295031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408401,41.8237,-71.408401,41.8237",
+    "geom:latitude":41.8237,
+    "geom:longitude":-71.408401,
+    "iso:country":"US",
+    "sg:address":"123 Dyer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4940",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vdHPYcaTsv5ACEOZjfc98_41.823700_-71.408401@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315196,
+    "wof:geomhash":"42e6d8beb57d3a8ceda11eb41e2f55b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874295031
+        }
+    ],
+    "wof:id":874295031,
+    "wof:lastmodified":1464315196,
+    "wof:name":"Capaldi V F Construction Corp",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.408401,
+    41.8237,
+    -71.408401,
+    41.8237
+],
+  "geometry": {"coordinates":[-71.408401,41.8237],"type":"Point"}
+}

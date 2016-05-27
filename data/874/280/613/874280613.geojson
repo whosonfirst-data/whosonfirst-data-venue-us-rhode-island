@@ -1,0 +1,69 @@
+{
+  "id": 874280613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49623,41.871543,-71.49623,41.871543",
+    "geom:latitude":41.871543,
+    "geom:longitude":-71.49623,
+    "iso:country":"US",
+    "sg:address":"17 Chamberlain St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7069",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_458HWmGIr6ywZRebjIZElr_41.871543_-71.496230@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314642,
+    "wof:geomhash":"1eebbe51b43aa8bbee12f9749a94fd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874280613
+        }
+    ],
+    "wof:id":874280613,
+    "wof:lastmodified":1464314642,
+    "wof:name":"Statewide Developing",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.49623,
+    41.871543,
+    -71.49623,
+    41.871543
+],
+  "geometry": {"coordinates":[-71.49623,41.871543],"type":"Point"}
+}

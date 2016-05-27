@@ -1,0 +1,72 @@
+{
+  "id": 874110415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447907,41.571458,-71.447907,41.571458",
+    "geom:latitude":41.571458,
+    "geom:longitude":-71.447907,
+    "iso:country":"US",
+    "sg:address":"59 Washington St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 9795",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i96pEjwKFT9WHOFkE5XLk_41.571458_-71.447907@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311928,
+    "wof:geomhash":"46c878b25d6ed0c2eb10264d5df73947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874110415
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874110415
+        }
+    ],
+    "wof:id":874110415,
+    "wof:lastmodified":1464311928,
+    "wof:name":"Stone's Selected Properties",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.447907,
+    41.571458,
+    -71.447907,
+    41.571458
+],
+  "geometry": {"coordinates":[-71.447907,41.571458],"type":"Point"}
+}

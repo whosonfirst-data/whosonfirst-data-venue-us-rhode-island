@@ -1,0 +1,78 @@
+{
+  "id": 874286833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299737,41.51897,-71.299737,41.51897",
+    "geom:latitude":41.51897,
+    "geom:longitude":-71.299737,
+    "iso:country":"US",
+    "sg:address":"619 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/69991-papa-ginos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 324 4212",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56v7deNiQZFMsKsl7HmtYO_41.518970_-71.299737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314884,
+    "wof:geomhash":"f2ee050e857bee2b83825865a1acefda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874286833
+        }
+    ],
+    "wof:id":874286833,
+    "wof:lastmodified":1464314884,
+    "wof:name":"Papa Gino's",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.299737,
+    41.51897,
+    -71.299737,
+    41.51897
+],
+  "geometry": {"coordinates":[-71.29973699999999,41.51897],"type":"Point"}
+}

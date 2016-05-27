@@ -1,0 +1,77 @@
+{
+  "id": 874179017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457095,41.559193,-71.457095,41.559193",
+    "geom:latitude":41.559193,
+    "geom:longitude":-71.457095,
+    "iso:country":"US",
+    "sg:address":"585 Annaquatucket Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7729",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bFXI0ZvKyDGFMYWNvHpaP_41.559193_-71.457095@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312620,
+    "wof:geomhash":"33d2b3ed9a5b6df0b51c4004b2e628a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874179017
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874179017
+        }
+    ],
+    "wof:id":874179017,
+    "wof:lastmodified":1464312620,
+    "wof:name":"Rhode Island Clam Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.457095,
+    41.559193,
+    -71.457095,
+    41.559193
+],
+  "geometry": {"coordinates":[-71.457095,41.559193],"type":"Point"}
+}

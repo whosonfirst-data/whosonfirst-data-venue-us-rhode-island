@@ -1,0 +1,71 @@
+{
+  "id": 874064213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501061,41.687135,-71.501061,41.687135",
+    "geom:latitude":41.687135,
+    "geom:longitude":-71.501061,
+    "iso:country":"US",
+    "sg:address":"405 Quaker Ln",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1500",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gYkhOb9hHnIpMaQ4uHeuz_41.687135_-71.501061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311373,
+    "wof:geomhash":"5636093e78c539845fa5f71ec671a805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874064213
+        }
+    ],
+    "wof:id":874064213,
+    "wof:lastmodified":1464311373,
+    "wof:name":"Tarbox",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.501061,
+    41.687135,
+    -71.501061,
+    41.687135
+],
+  "geometry": {"coordinates":[-71.50106100000001,41.687135],"type":"Point"}
+}

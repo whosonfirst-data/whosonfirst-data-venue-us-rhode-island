@@ -1,0 +1,90 @@
+{
+  "id": 874304317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502119,41.875673,-71.502119,41.875673",
+    "geom:latitude":41.875673,
+    "geom:longitude":-71.502119,
+    "iso:country":"US",
+    "sg:address":"15 Oak St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4604",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "used",
+        "machinery-new",
+        "machinery-rebuild",
+        "equipment",
+        "equipment-repairing"
+    ],
+    "sg:website":"http://www.mechanicsmachineworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tjEImOGBo9ZQFLONzrNuH_41.875673_-71.502119@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315541,
+    "wof:geomhash":"865162b767f1d668c13b5ffdffeea7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304317
+        }
+    ],
+    "wof:id":874304317,
+    "wof:lastmodified":1464315541,
+    "wof:name":"Mechanics Machine Works Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "used",
+        "machinery-new",
+        "machinery-rebuild",
+        "equipment",
+        "equipment-repairing"
+    ]
+},
+  "bbox": [
+    -71.502119,
+    41.875673,
+    -71.502119,
+    41.875673
+],
+  "geometry": {"coordinates":[-71.50211899999999,41.875673],"type":"Point"}
+}

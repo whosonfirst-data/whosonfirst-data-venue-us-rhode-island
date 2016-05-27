@@ -1,0 +1,71 @@
+{
+  "id": 874250567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501475,41.876113,-71.501475,41.876113",
+    "geom:latitude":41.876113,
+    "geom:longitude":-71.501475,
+    "iso:country":"US",
+    "sg:address":"25 Maple Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 9899",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "stampings",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rr5nOu5AqMr9jAZoraM32_41.876113_-71.501475@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313578,
+    "wof:geomhash":"d237f63c8ae8cf366ad9d8f5cd1ceb9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874250567
+        }
+    ],
+    "wof:id":874250567,
+    "wof:lastmodified":1464313578,
+    "wof:name":"New England Copperworks",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stampings",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.501475,
+    41.876113,
+    -71.501475,
+    41.876113
+],
+  "geometry": {"coordinates":[-71.501475,41.876113],"type":"Point"}
+}

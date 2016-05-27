@@ -1,0 +1,66 @@
+{
+  "id": 874303487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476804,41.844619,-71.476804,41.844619",
+    "geom:latitude":41.844619,
+    "geom:longitude":-71.476804,
+    "iso:country":"US",
+    "sg:address":"329 Woonasquatucket Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 4919",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZrTusgFu0xzfre1FtGe66_41.844619_-71.476804@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315511,
+    "wof:geomhash":"597c138d1ad759055a755accffc80bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874303487
+        }
+    ],
+    "wof:id":874303487,
+    "wof:lastmodified":1464315511,
+    "wof:name":"Sunflower Convenience Store",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.476804,
+    41.844619,
+    -71.476804,
+    41.844619
+],
+  "geometry": {"coordinates":[-71.476804,41.844619],"type":"Point"}
+}

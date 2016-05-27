@@ -1,0 +1,71 @@
+{
+  "id": 874113541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464498,41.86112,-71.464498,41.86112",
+    "geom:latitude":41.86112,
+    "geom:longitude":-71.464498,
+    "iso:country":"US",
+    "sg:address":"1871 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 5533",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ApDbtyDceznMviGcbBcKE_41.861120_-71.464498@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"9feee0bb43fdec6fddf1221ac86f9ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874113541
+        }
+    ],
+    "wof:id":874113541,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Enterprise Rent-A-Car 4914",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.464498,
+    41.86112,
+    -71.464498,
+    41.86112
+],
+  "geometry": {"coordinates":[-71.46449800000001,41.86112],"type":"Point"}
+}

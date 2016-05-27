@@ -1,0 +1,75 @@
+{
+  "id": 874282999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415497,41.881599,-71.415497,41.881599",
+    "geom:latitude":41.881599,
+    "geom:longitude":-71.415497,
+    "iso:country":"US",
+    "sg:address":"791 Smithfield Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 6007",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EqNLaAJIsAEPfGwGn0FT6_41.881278_-71.415587@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314740,
+    "wof:geomhash":"93cde70cd9ee74fd2e74a17dc910a2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874282999
+        }
+    ],
+    "wof:id":874282999,
+    "wof:lastmodified":1464314740,
+    "wof:name":"Antonio's Cafe",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.415497,
+    41.881599,
+    -71.415497,
+    41.881599
+],
+  "geometry": {"coordinates":[-71.415497,41.881599],"type":"Point"}
+}

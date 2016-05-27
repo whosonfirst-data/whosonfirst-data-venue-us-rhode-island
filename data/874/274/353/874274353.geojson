@@ -1,0 +1,77 @@
+{
+  "id": 874274353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450676,41.826782,-71.450676,41.826782",
+    "geom:latitude":41.826782,
+    "geom:longitude":-71.450676,
+    "iso:country":"US",
+    "sg:address":"41 Yale Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 4550",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JKVdeGVpAuZjLpkABu6Wl_41.826782_-71.450676@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314380,
+    "wof:geomhash":"7357ab5e94853edb4b5d430d8ee545e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874274353
+        }
+    ],
+    "wof:id":874274353,
+    "wof:lastmodified":1464314380,
+    "wof:name":"Crown Dental Lab Inc",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.450676,
+    41.826782,
+    -71.450676,
+    41.826782
+],
+  "geometry": {"coordinates":[-71.450676,41.826782],"type":"Point"}
+}

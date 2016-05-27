@@ -1,0 +1,84 @@
+{
+  "id": 874159845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423768,41.777331,-71.423768,41.777331",
+    "geom:latitude":41.777331,
+    "geom:longitude":-71.423768,
+    "iso:country":"US",
+    "sg:address":"70 Hathaway St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 4663",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08szxiEll1ygev1ufraeKh_41.777331_-71.423768@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312430,
+    "wof:geomhash":"82d0275d7254b4b5c3f5cd25f039ce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874159845
+        }
+    ],
+    "wof:id":874159845,
+    "wof:lastmodified":1464312430,
+    "wof:name":"Beacon Construction Corp",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.423768,
+    41.777331,
+    -71.423768,
+    41.777331
+],
+  "geometry": {"coordinates":[-71.423768,41.777331],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874287697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445915,41.664088,-71.445915,41.664088",
+    "geom:latitude":41.664088,
+    "geom:longitude":-71.445915,
+    "iso:country":"US",
+    "sg:address":"43 Division St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/58423-pals-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9701",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gSGlJjRXLTHvLEywinumB_41.664087_-71.446304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314919,
+    "wof:geomhash":"5bd5a91b48d1a00fd501fe4b2c631e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874287697
+        }
+    ],
+    "wof:id":874287697,
+    "wof:lastmodified":1464314919,
+    "wof:name":"Pal's Restaurant",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.445915,
+    41.664088,
+    -71.445915,
+    41.664088
+],
+  "geometry": {"coordinates":[-71.445915,41.664088],"type":"Point"}
+}

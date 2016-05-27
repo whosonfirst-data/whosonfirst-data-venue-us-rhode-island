@@ -1,0 +1,74 @@
+{
+  "id": 874287841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523477,41.485169,-71.523477,41.485169",
+    "geom:latitude":41.485169,
+    "geom:longitude":-71.523477,
+    "iso:country":"US",
+    "sg:address":"99 Fortin Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/139898-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4490",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C9bkHT8ZlCxGACn83Wnlx_41.485176_-71.523166@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314929,
+    "wof:geomhash":"165c1021acb24e2ee6a4c3493ee00874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874287841
+        }
+    ],
+    "wof:id":874287841,
+    "wof:lastmodified":1464314929,
+    "wof:name":"Subway",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.523477,
+    41.485169,
+    -71.523477,
+    41.485169
+],
+  "geometry": {"coordinates":[-71.523477,41.485169],"type":"Point"}
+}

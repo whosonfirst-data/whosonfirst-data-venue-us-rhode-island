@@ -1,0 +1,71 @@
+{
+  "id": 874207735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444318,41.867512,-71.444318,41.867512",
+    "geom:latitude":41.867512,
+    "geom:longitude":-71.444318,
+    "iso:country":"US",
+    "sg:address":"20 Benjamin Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7217",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KMZesj4uDoMOVChx1KfYa_41.867512_-71.444318@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312927,
+    "wof:geomhash":"56dc2b2c804c92b0c166daf1a979a9e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874207735
+        }
+    ],
+    "wof:id":874207735,
+    "wof:lastmodified":1464312927,
+    "wof:name":"Enterprise Electric",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.444318,
+    41.867512,
+    -71.444318,
+    41.867512
+],
+  "geometry": {"coordinates":[-71.444318,41.867512],"type":"Point"}
+}

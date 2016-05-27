@@ -1,0 +1,73 @@
+{
+  "id": 874121343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.269881,41.724057,-71.269881,41.724057",
+    "geom:latitude":41.724057,
+    "geom:longitude":-71.269881,
+    "iso:country":"US",
+    "sg:address":"489 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 4830",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30a94ioWbHuaIGlm6uup24_41.724057_-71.269881@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312053,
+    "wof:geomhash":"0a22ed2a24eb31168fb510ef49c87577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874121343
+        }
+    ],
+    "wof:id":874121343,
+    "wof:lastmodified":1464312053,
+    "wof:name":"Metacom Auto Sales Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.269881,
+    41.724057,
+    -71.269881,
+    41.724057
+],
+  "geometry": {"coordinates":[-71.269881,41.724057],"type":"Point"}
+}

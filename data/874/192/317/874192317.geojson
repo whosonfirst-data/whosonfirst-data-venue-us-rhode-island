@@ -1,0 +1,90 @@
+{
+  "id": 874192317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41762,41.880244,-71.41762,41.880244",
+    "geom:latitude":41.880244,
+    "geom:longitude":-71.41762,
+    "iso:country":"US",
+    "sg:address":"14 Almy St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 9683",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fiber",
+        "installation",
+        "telecommunication",
+        "cable",
+        "system",
+        "optics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Xs94sHm1JV1rlGon1gVf_41.880244_-71.417620@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312762,
+    "wof:geomhash":"fab4423c5dbc7a1ec55f62fa8d772416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874192317
+        }
+    ],
+    "wof:id":874192317,
+    "wof:lastmodified":1464312762,
+    "wof:name":"Third Millennium Communication",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fiber",
+        "installation",
+        "telecommunication",
+        "cable",
+        "system",
+        "optics"
+    ]
+},
+  "bbox": [
+    -71.41762,
+    41.880244,
+    -71.41762,
+    41.880244
+],
+  "geometry": {"coordinates":[-71.41762,41.880244],"type":"Point"}
+}

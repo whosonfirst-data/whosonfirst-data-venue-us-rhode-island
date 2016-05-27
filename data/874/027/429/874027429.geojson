@@ -1,0 +1,71 @@
+{
+  "id": 874027429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.295158,41.728372,-71.295158,41.728372",
+    "geom:latitude":41.728372,
+    "geom:longitude":-71.295158,
+    "iso:country":"US",
+    "sg:address":"61 Ferry Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 5353",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bonvxTqA5YKWo8U9shxFy_41.728372_-71.295158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311020,
+    "wof:geomhash":"ef14db3e0a2ecc7735d605a35d93c5cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874027429
+        }
+    ],
+    "wof:id":874027429,
+    "wof:lastmodified":1464311020,
+    "wof:name":"Oldport Homes",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.295158,
+    41.728372,
+    -71.295158,
+    41.728372
+],
+  "geometry": {"coordinates":[-71.295158,41.728372],"type":"Point"}
+}

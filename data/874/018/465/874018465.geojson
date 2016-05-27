@@ -1,0 +1,77 @@
+{
+  "id": 874018465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285292,41.527265,-71.285292,41.527265",
+    "geom:latitude":41.527265,
+    "geom:longitude":-71.285292,
+    "iso:country":"US",
+    "sg:address":"210 Airport Access Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 4538",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102522713,
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ak1iREFNDDJQ0gMfwbgEd_41.527265_-71.285292@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310932,
+    "wof:geomhash":"b30147a3f39f0e0c59ab55dda6867b6e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522713,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874018465
+        }
+    ],
+    "wof:id":874018465,
+    "wof:lastmodified":1464310932,
+    "wof:name":"Sullbro Trucking",
+    "wof:parent_id":102522713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.285292,
+    41.527265,
+    -71.285292,
+    41.527265
+],
+  "geometry": {"coordinates":[-71.285292,41.527265],"type":"Point"}
+}

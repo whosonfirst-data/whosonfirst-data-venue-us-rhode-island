@@ -1,0 +1,71 @@
+{
+  "id": 874131143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.319191,41.749278,-71.319191,41.749278",
+    "geom:latitude":41.749278,
+    "geom:longitude":-71.319191,
+    "iso:country":"US",
+    "sg:address":"509 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 1031",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n1dD8pO29SnfmiAjeGV7v_41.749278_-71.319191@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312151,
+    "wof:geomhash":"cd34e2715536b41bace2d5c4ab3d9cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874131143
+        }
+    ],
+    "wof:id":874131143,
+    "wof:lastmodified":1464312151,
+    "wof:name":"A Good Times Limousine Service",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.319191,
+    41.749278,
+    -71.319191,
+    41.749278
+],
+  "geometry": {"coordinates":[-71.319191,41.749278],"type":"Point"}
+}

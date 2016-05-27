@@ -1,0 +1,79 @@
+{
+  "id": 874275909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421106,41.774788,-71.421106,41.774788",
+    "geom:latitude":41.774788,
+    "geom:longitude":-71.421106,
+    "iso:country":"US",
+    "sg:address":"22 Prospect St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 8855",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUi6nkLnV8KOAqVgBsaYt_41.774788_-71.421106@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314449,
+    "wof:geomhash":"b767cf50c44b2afff2d3e24474b11265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874275909
+        }
+    ],
+    "wof:id":874275909,
+    "wof:lastmodified":1464314449,
+    "wof:name":"Callaghan Reporting Svc",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -71.421106,
+    41.774788,
+    -71.421106,
+    41.774788
+],
+  "geometry": {"coordinates":[-71.42110599999999,41.774788],"type":"Point"}
+}

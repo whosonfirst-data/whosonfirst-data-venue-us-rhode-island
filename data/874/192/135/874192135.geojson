@@ -1,0 +1,71 @@
+{
+  "id": 874192135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.618329,41.389653,-71.618329,41.389653",
+    "geom:latitude":41.389653,
+    "geom:longitude":-71.618329,
+    "iso:country":"US",
+    "sg:address":"3835 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 5266",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ifglPJZPmAynIDhmEs2CB_41.389653_-71.618329@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312760,
+    "wof:geomhash":"4198ac70ea788e8430baeb9a68429c1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874192135
+        }
+    ],
+    "wof:id":874192135,
+    "wof:lastmodified":1464312760,
+    "wof:name":"Charlestown Fence Co",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.618329,
+    41.389653,
+    -71.618329,
+    41.389653
+],
+  "geometry": {"coordinates":[-71.618329,41.389653],"type":"Point"}
+}

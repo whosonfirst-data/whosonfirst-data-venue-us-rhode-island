@@ -1,0 +1,69 @@
+{
+  "id": 874291297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400902,41.882198,-71.400902,41.882198",
+    "geom:latitude":41.882198,
+    "geom:longitude":-71.400902,
+    "iso:country":"US",
+    "sg:address":"27 Clifton St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 6609",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ah7lEHK2mcxfkBfOasHwH_41.882198_-71.400902@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315060,
+    "wof:geomhash":"1f56b2b9932f3943c54dd0c06d35a344",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874291297
+        }
+    ],
+    "wof:id":874291297,
+    "wof:lastmodified":1464315060,
+    "wof:name":"Phillco Electric",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.400902,
+    41.882198,
+    -71.400902,
+    41.882198
+],
+  "geometry": {"coordinates":[-71.400902,41.882198],"type":"Point"}
+}

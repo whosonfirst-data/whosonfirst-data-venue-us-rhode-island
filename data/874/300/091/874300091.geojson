@@ -1,0 +1,89 @@
+{
+  "id": 874300091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401732,41.83893,-71.401732,41.83893",
+    "geom:latitude":41.83893,
+    "geom:longitude":-71.401732,
+    "iso:country":"US",
+    "sg:address":"160 Doyle Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 276 7665",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "sg:website":"www.atlantisri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JATKY9CgpI9S8TUiHylKp_41.838930_-71.401732@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315392,
+    "wof:geomhash":"7fe0059a9853c6275417c7bde96649d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874300091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874300091
+        }
+    ],
+    "wof:id":874300091,
+    "wof:lastmodified":1464315392,
+    "wof:name":"Atlantis Pool Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -71.401732,
+    41.83893,
+    -71.401732,
+    41.83893
+],
+  "geometry": {"coordinates":[-71.401732,41.83893],"type":"Point"}
+}

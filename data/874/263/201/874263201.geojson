@@ -1,0 +1,77 @@
+{
+  "id": 874263201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458233,41.430791,-71.458233,41.430791",
+    "geom:latitude":41.430791,
+    "geom:longitude":-71.458233,
+    "iso:country":"US",
+    "sg:address":"18 Kingstown Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3440",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WhOwGyosSGjACuL0mRj7t_41.430791_-71.458233@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313964,
+    "wof:geomhash":"b54184cf02bb92d55bab1fc8d502ea4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874263201
+        }
+    ],
+    "wof:id":874263201,
+    "wof:lastmodified":1464313964,
+    "wof:name":"Flowerthyme",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "flower"
+    ]
+},
+  "bbox": [
+    -71.458233,
+    41.430791,
+    -71.458233,
+    41.430791
+],
+  "geometry": {"coordinates":[-71.45823300000001,41.430791],"type":"Point"}
+}

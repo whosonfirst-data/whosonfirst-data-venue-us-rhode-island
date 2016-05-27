@@ -1,0 +1,79 @@
+{
+  "id": 874110355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489603,41.724881,-71.489603,41.724881",
+    "geom:latitude":41.724881,
+    "geom:longitude":-71.489603,
+    "iso:country":"US",
+    "sg:address":"43 Aster St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 7500",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M3BVNEqCzSdRG1ulwW7A6_41.724881_-71.489603@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311926,
+    "wof:geomhash":"4128a7eff15945670c4792c58473406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874110355
+        }
+    ],
+    "wof:id":874110355,
+    "wof:lastmodified":1464311926,
+    "wof:name":"Reliable Auto Sales",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.489603,
+    41.724881,
+    -71.489603,
+    41.724881
+],
+  "geometry": {"coordinates":[-71.489603,41.724881],"type":"Point"}
+}

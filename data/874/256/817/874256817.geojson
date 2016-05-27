@@ -1,0 +1,87 @@
+{
+  "id": 874256817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183707,41.625727,-71.183707,41.625727",
+    "geom:latitude":41.625727,
+    "geom:longitude":-71.183707,
+    "iso:country":"US",
+    "sg:address":"1635 Fish Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 9900",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recycled",
+        "stone",
+        "quarry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I4lwcHCo3CEv4KfKpSYZN_41.625727_-71.183707@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313715,
+    "wof:geomhash":"ce4ff93f43de969a0b05f5772a35e94f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874256817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874256817
+        }
+    ],
+    "wof:id":874256817,
+    "wof:lastmodified":1464313715,
+    "wof:name":"Viking Stone Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycled",
+        "stone",
+        "quarry"
+    ]
+},
+  "bbox": [
+    -71.183707,
+    41.625727,
+    -71.183707,
+    41.625727
+],
+  "geometry": {"coordinates":[-71.183707,41.625727],"type":"Point"}
+}

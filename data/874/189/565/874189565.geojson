@@ -1,0 +1,73 @@
+{
+  "id": 874189565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512287,41.467741,-71.512287,41.467741",
+    "geom:latitude":41.467741,
+    "geom:longitude":-71.512287,
+    "iso:country":"US",
+    "sg:address":"1936 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7000",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tIw5IsjJZAcxSYarEsAQ7_41.467741_-71.512287@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312736,
+    "wof:geomhash":"4de8e3250dac5454b294c136db061234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874189565
+        }
+    ],
+    "wof:id":874189565,
+    "wof:lastmodified":1464312736,
+    "wof:name":"B & G Construction Co",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.512287,
+    41.467741,
+    -71.512287,
+    41.467741
+],
+  "geometry": {"coordinates":[-71.512287,41.467741],"type":"Point"}
+}

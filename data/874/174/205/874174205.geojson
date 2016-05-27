@@ -1,0 +1,71 @@
+{
+  "id": 874174205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.55217,41.911076,-71.55217,41.911076",
+    "geom:latitude":41.911076,
+    "geom:longitude":-71.55217,
+    "iso:country":"US",
+    "sg:address":"86 Log Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1047",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73g5cyp5hCY0KAmYTIXTAc_41.911076_-71.552170@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312570,
+    "wof:geomhash":"5474d3ce7f89d6c43bd6526b635fce6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874174205
+        }
+    ],
+    "wof:id":874174205,
+    "wof:lastmodified":1464312570,
+    "wof:name":"Pam Labrie",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -71.55217,
+    41.911076,
+    -71.55217,
+    41.911076
+],
+  "geometry": {"coordinates":[-71.55217,41.911076],"type":"Point"}
+}

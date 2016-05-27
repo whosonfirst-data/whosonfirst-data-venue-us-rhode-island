@@ -1,0 +1,69 @@
+{
+  "id": 874272155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275343,41.702017,-71.275343,41.702017",
+    "geom:latitude":41.702017,
+    "geom:longitude":-71.275343,
+    "iso:country":"US",
+    "sg:address":"6 Kevin Ct",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2907",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u51Cfp0zn9c5NHt5y9ph1_41.702017_-71.275343@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314301,
+    "wof:geomhash":"89bb652ae249e7da9256a5432b774869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874272155
+        }
+    ],
+    "wof:id":874272155,
+    "wof:lastmodified":1464314301,
+    "wof:name":"CMF Plumbing & Heating",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.275343,
+    41.702017,
+    -71.275343,
+    41.702017
+],
+  "geometry": {"coordinates":[-71.27534300000001,41.702017],"type":"Point"}
+}

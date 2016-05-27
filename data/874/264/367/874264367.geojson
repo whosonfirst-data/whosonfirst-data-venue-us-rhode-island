@@ -1,0 +1,70 @@
+{
+  "id": 874264367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434385,41.490461,-71.434385,41.490461",
+    "geom:latitude":41.490461,
+    "geom:longitude":-71.434385,
+    "iso:country":"US",
+    "sg:address":"10 Dean Knauss Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8900",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.ceimic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fuPvx5ycIEpCyLadSC2Aj_41.490461_-71.434385@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314003,
+    "wof:geomhash":"abd290ed17376dc1c6c70fbc6fe4b457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874264367
+        }
+    ],
+    "wof:id":874264367,
+    "wof:lastmodified":1464314003,
+    "wof:name":"Ceimic Corp",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.434385,
+    41.490461,
+    -71.434385,
+    41.490461
+],
+  "geometry": {"coordinates":[-71.43438500000001,41.490461],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874240117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418979,41.69326,-71.418979,41.69326",
+    "geom:latitude":41.69326,
+    "geom:longitude":-71.418979,
+    "iso:country":"US",
+    "sg:address":"40 Asylum Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 734 3690",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808683,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KxFcJ2MY3iVz6NLDXvKQb_41.693260_-71.418979@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313342,
+    "wof:geomhash":"2185648dad37ba2ae33a4cbc0c957c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85808683,
+            "region_id":85688509,
+            "venue_id":874240117
+        }
+    ],
+    "wof:id":874240117,
+    "wof:lastmodified":1464313342,
+    "wof:name":"Park Elementary School",
+    "wof:parent_id":85808683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.418979,
+    41.69326,
+    -71.418979,
+    41.69326
+],
+  "geometry": {"coordinates":[-71.41897899999999,41.69326],"type":"Point"}
+}

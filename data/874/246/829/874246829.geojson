@@ -1,0 +1,73 @@
+{
+  "id": 874246829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531378,41.867096,-71.531378,41.867096",
+    "geom:latitude":41.867096,
+    "geom:longitude":-71.531378,
+    "iso:country":"US",
+    "sg:address":"15 Commerce St",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 3400",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instrument",
+        "optical",
+        "lense"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45RSEzTCTcAKilc5bra1sk_41.867096_-71.531378@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313468,
+    "wof:geomhash":"f0ec73f4955f9fda86fd9b93c18b4964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874246829
+        }
+    ],
+    "wof:id":874246829,
+    "wof:lastmodified":1464313468,
+    "wof:name":"Crown Optical Co",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "optical",
+        "lense"
+    ]
+},
+  "bbox": [
+    -71.531378,
+    41.867096,
+    -71.531378,
+    41.867096
+],
+  "geometry": {"coordinates":[-71.531378,41.867096],"type":"Point"}
+}

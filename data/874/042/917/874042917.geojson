@@ -1,0 +1,72 @@
+{
+  "id": 874042917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275794,41.725746,-71.275794,41.725746",
+    "geom:latitude":41.725746,
+    "geom:longitude":-71.275794,
+    "iso:country":"US",
+    "sg:address":"160 Franklin St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 8500",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bathroom",
+        "remodeling"
+    ],
+    "sg:website":"www.bathfitter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IYhSbTdrb8Zg1OESJwytd_41.725746_-71.275794@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311174,
+    "wof:geomhash":"3dea04abfcdbd19ab4a68369b20124e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874042917
+        }
+    ],
+    "wof:id":874042917,
+    "wof:lastmodified":1464311174,
+    "wof:name":"Bath Fitter",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -71.275794,
+    41.725746,
+    -71.275794,
+    41.725746
+],
+  "geometry": {"coordinates":[-71.275794,41.725746],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874221973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566115,41.690311,-71.566115,41.690311",
+    "geom:latitude":41.690311,
+    "geom:longitude":-71.566115,
+    "iso:country":"US",
+    "sg:address":"1132 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 3290",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LfVJmH3y1FRU4JybJrdtt_41.690311_-71.566115@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313083,
+    "wof:geomhash":"96cb42f4a977cbde105b5352f853391f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874221973
+        }
+    ],
+    "wof:id":874221973,
+    "wof:lastmodified":1464313083,
+    "wof:name":"Security Lock & Door Inc",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.566115,
+    41.690311,
+    -71.566115,
+    41.690311
+],
+  "geometry": {"coordinates":[-71.566115,41.690311],"type":"Point"}
+}

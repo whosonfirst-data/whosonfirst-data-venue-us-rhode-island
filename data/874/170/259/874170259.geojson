@@ -1,0 +1,69 @@
+{
+  "id": 874170259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.260556,41.545831,-71.260556,41.545831",
+    "geom:latitude":41.545831,
+    "geom:longitude":-71.260556,
+    "iso:country":"US",
+    "sg:address":"367 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4630",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rQF1WdjGylSsIdADET7WZ_41.545831_-71.260556@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312529,
+    "wof:geomhash":"80ca01bfb5d48e28c16e7cb5c7383175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874170259
+        }
+    ],
+    "wof:id":874170259,
+    "wof:lastmodified":1464312529,
+    "wof:name":"Trinity Cemetery",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.260556,
+    41.545831,
+    -71.260556,
+    41.545831
+],
+  "geometry": {"coordinates":[-71.26055599999999,41.545831],"type":"Point"}
+}

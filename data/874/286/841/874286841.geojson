@@ -1,0 +1,72 @@
+{
+  "id": 874286841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464675,41.557874,-71.464675,41.557874",
+    "geom:latitude":41.557874,
+    "geom:longitude":-71.464675,
+    "iso:country":"US",
+    "sg:address":"565 Tower Hill Rd",
+    "sg:city":"N Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-kingstown/245058-oak-hill-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3282",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sPcWHwBzQcVjAgOvSTEOI_41.557874_-71.464675@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314884,
+    "wof:geomhash":"cb5599ac81fbb5eec7bfb22ab6ed281e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874286841
+        }
+    ],
+    "wof:id":874286841,
+    "wof:lastmodified":1464314884,
+    "wof:name":"Oak Hill Tavern",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.464675,
+    41.557874,
+    -71.464675,
+    41.557874
+],
+  "geometry": {"coordinates":[-71.464675,41.557874],"type":"Point"}
+}

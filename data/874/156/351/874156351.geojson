@@ -1,0 +1,75 @@
+{
+  "id": 874156351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395951,41.847239,-71.395951,41.847239",
+    "geom:latitude":41.847239,
+    "geom:longitude":-71.395951,
+    "iso:country":"US",
+    "sg:address":"742 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 0110",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15rDXe2BVUFVmfwI01DjIj_41.847239_-71.395951@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312392,
+    "wof:geomhash":"afcbd86a955f51a21f6d16f28921245a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874156351
+        }
+    ],
+    "wof:id":874156351,
+    "wof:lastmodified":1464312392,
+    "wof:name":"Ye Old Book Shoppe",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.395951,
+    41.847239,
+    -71.395951,
+    41.847239
+],
+  "geometry": {"coordinates":[-71.395951,41.847239],"type":"Point"}
+}

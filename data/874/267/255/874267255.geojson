@@ -1,0 +1,82 @@
+{
+  "id": 874267255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498566,41.435275,-71.498566,41.435275",
+    "geom:latitude":41.435275,
+    "geom:longitude":-71.498566,
+    "iso:country":"US",
+    "sg:address":"243 Kenyon Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9381",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:website":"www.kenyonavefloral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QJ6F6pvGClDoZn3WwfFEV_41.435275_-71.498566@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314117,
+    "wof:geomhash":"15be73afb5e7cabd94196ffb0a450393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874267255
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874267255
+        }
+    ],
+    "wof:id":874267255,
+    "wof:lastmodified":1464314117,
+    "wof:name":"Kenyon Avenue Floral Co Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.498566,
+    41.435275,
+    -71.498566,
+    41.435275
+],
+  "geometry": {"coordinates":[-71.498566,41.435275],"type":"Point"}
+}

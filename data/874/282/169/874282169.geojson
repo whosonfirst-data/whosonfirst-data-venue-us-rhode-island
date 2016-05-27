@@ -1,0 +1,71 @@
+{
+  "id": 874282169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.774707,41.460397,-71.774707,41.460397",
+    "geom:latitude":41.460397,
+    "geom:longitude":-71.774707,
+    "iso:country":"US",
+    "sg:address":"406 Woodville Rd",
+    "sg:city":"Hopkinton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 377 7750",
+    "sg:postcode":"02833",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63OIY7mf1xWCe6HqrfT7XW_41.460397_-71.774707@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314713,
+    "wof:geomhash":"5185f4e305a195fde6d6d83671446533",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874282169
+        }
+    ],
+    "wof:id":874282169,
+    "wof:lastmodified":1464314713,
+    "wof:name":"Hopkinton Police Dept",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.774707,
+    41.460397,
+    -71.774707,
+    41.460397
+],
+  "geometry": {"coordinates":[-71.77470700000001,41.460397],"type":"Point"}
+}

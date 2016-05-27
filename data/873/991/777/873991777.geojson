@@ -1,0 +1,75 @@
+{
+  "id": 873991777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393028,41.858287,-71.393028,41.858287",
+    "geom:latitude":41.858287,
+    "geom:longitude":-71.393028,
+    "iso:country":"US",
+    "sg:address":"61 Dartmouth St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 0042",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DQ4rJw3AyyCGXurWhlJ45_41.858287_-71.393028@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310704,
+    "wof:geomhash":"7cea807de984640537aa7531ed5da495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":873991777
+        }
+    ],
+    "wof:id":873991777,
+    "wof:lastmodified":1464310704,
+    "wof:name":"Digital Spectrums Inc",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -71.393028,
+    41.858287,
+    -71.393028,
+    41.858287
+],
+  "geometry": {"coordinates":[-71.393028,41.858287],"type":"Point"}
+}

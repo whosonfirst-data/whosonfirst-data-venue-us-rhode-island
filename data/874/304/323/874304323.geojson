@@ -1,0 +1,71 @@
+{
+  "id": 874304323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513618,41.885502,-71.513618,41.885502",
+    "geom:latitude":41.885502,
+    "geom:longitude":-71.513618,
+    "iso:country":"US",
+    "sg:address":"231 Old County Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0453",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cjfi1DwLsVB0jWr3CuhRa_41.885502_-71.513618@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315541,
+    "wof:geomhash":"6fa4794e574f9be6861e990101ebf22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874304323
+        }
+    ],
+    "wof:id":874304323,
+    "wof:lastmodified":1464315541,
+    "wof:name":"Lily & Co Publishing",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -71.513618,
+    41.885502,
+    -71.513618,
+    41.885502
+],
+  "geometry": {"coordinates":[-71.51361799999999,41.885502],"type":"Point"}
+}

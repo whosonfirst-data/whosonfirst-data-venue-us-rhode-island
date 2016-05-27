@@ -1,0 +1,70 @@
+{
+  "id": 874165903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542124,41.893767,-71.542124,41.893767",
+    "geom:latitude":41.893767,
+    "geom:longitude":-71.542124,
+    "iso:country":"US",
+    "sg:address":"171 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5577",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "sg:website":"www.horizonbay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QoaAFFTnxXpndGhjcyBY5_41.893767_-71.542124@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312489,
+    "wof:geomhash":"6023e5ad5b6005fb763060616bfd3bf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874165903
+        }
+    ],
+    "wof:id":874165903,
+    "wof:lastmodified":1464312489,
+    "wof:name":"North Bay Manor",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.542124,
+    41.893767,
+    -71.542124,
+    41.893767
+],
+  "geometry": {"coordinates":[-71.542124,41.893767],"type":"Point"}
+}

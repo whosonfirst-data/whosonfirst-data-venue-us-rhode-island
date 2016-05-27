@@ -1,0 +1,73 @@
+{
+  "id": 874282443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475933,41.833912,-71.475933,41.833912",
+    "geom:latitude":41.833912,
+    "geom:longitude":-71.475933,
+    "iso:country":"US",
+    "sg:address":"86 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 7318",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FP8HZkhEaxsYUZJ09OeWT_41.834015_-71.475830@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314722,
+    "wof:geomhash":"9cb7d866ff2e63fcea7bf12d630e31bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874282443
+        }
+    ],
+    "wof:id":874282443,
+    "wof:lastmodified":1464314722,
+    "wof:name":"Scott's Garage",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.475933,
+    41.833912,
+    -71.475933,
+    41.833912
+],
+  "geometry": {"coordinates":[-71.475933,41.833912],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874069733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.357445,41.771072,-71.357445,41.771072",
+    "geom:latitude":41.771072,
+    "geom:longitude":-71.357445,
+    "iso:country":"US",
+    "sg:address":"50 Turner Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 0091",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xNEq7r3E410q39i6f7lgO_41.771072_-71.357445@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311429,
+    "wof:geomhash":"0e52b8a6e5a7aa6f4a9d6229e17e3c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874069733
+        }
+    ],
+    "wof:id":874069733,
+    "wof:lastmodified":1464311429,
+    "wof:name":"Mike's Auto Repair",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.357445,
+    41.771072,
+    -71.357445,
+    41.771072
+],
+  "geometry": {"coordinates":[-71.357445,41.771072],"type":"Point"}
+}

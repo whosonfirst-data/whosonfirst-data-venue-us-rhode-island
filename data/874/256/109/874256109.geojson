@@ -1,0 +1,77 @@
+{
+  "id": 874256109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457968,41.6577,-71.457968,41.6577",
+    "geom:latitude":41.6577,
+    "geom:longitude":-71.457968,
+    "iso:country":"US",
+    "sg:address":"176 1st Ave",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 3962",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lXLjcnrNEoLJV6eVTZ5tl_41.657700_-71.457968@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313699,
+    "wof:geomhash":"6df54b4fc851f25cfa4f4b12455c958c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874256109
+        }
+    ],
+    "wof:id":874256109,
+    "wof:lastmodified":1464313699,
+    "wof:name":"East Greenwich Post Office",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.457968,
+    41.6577,
+    -71.457968,
+    41.6577
+],
+  "geometry": {"coordinates":[-71.45796799999999,41.6577],"type":"Point"}
+}

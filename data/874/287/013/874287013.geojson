@@ -1,0 +1,78 @@
+{
+  "id": 874287013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437499,41.729835,-71.437499,41.729835",
+    "geom:latitude":41.729835,
+    "geom:longitude":-71.437499,
+    "iso:country":"US",
+    "sg:address":"1910 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/244794-atwood-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 223 0300",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d5qHy9elvloHzi299XDvM_41.729835_-71.437499@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"3cfde43df1c2447ed42502da5db3759f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874287013
+        }
+    ],
+    "wof:id":874287013,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Atwood Grille",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.437499,
+    41.729835,
+    -71.437499,
+    41.729835
+],
+  "geometry": {"coordinates":[-71.437499,41.729835],"type":"Point"}
+}

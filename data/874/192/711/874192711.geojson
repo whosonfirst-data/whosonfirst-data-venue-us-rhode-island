@@ -1,0 +1,71 @@
+{
+  "id": 874192711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541421,41.867367,-71.541421,41.867367",
+    "geom:latitude":41.867367,
+    "geom:longitude":-71.541421,
+    "iso:country":"US",
+    "sg:address":"21 Maplecrest Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 1857",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XteEmLvWz22MxWaXIT4l4_41.867367_-71.541421@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312768,
+    "wof:geomhash":"8276fcd59bd93854d49c182d5d60caaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874192711
+        }
+    ],
+    "wof:id":874192711,
+    "wof:lastmodified":1464312768,
+    "wof:name":"New England Landscape",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.541421,
+    41.867367,
+    -71.541421,
+    41.867367
+],
+  "geometry": {"coordinates":[-71.541421,41.867367],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874283871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462898,41.850601,-71.462898,41.850601",
+    "geom:latitude":41.850601,
+    "geom:longitude":-71.462898,
+    "iso:country":"US",
+    "sg:address":"1543 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2010",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "optician",
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wqcKTIvN6KPDTyBPXPDSD_41.850826_-71.463066@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314769,
+    "wof:geomhash":"eebf43c18e81f19ee56860e7f5c26a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874283871
+        }
+    ],
+    "wof:id":874283871,
+    "wof:lastmodified":1464314769,
+    "wof:name":"Lonardo Opticians Inc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician",
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -71.462898,
+    41.850601,
+    -71.462898,
+    41.850601
+],
+  "geometry": {"coordinates":[-71.462898,41.850601],"type":"Point"}
+}

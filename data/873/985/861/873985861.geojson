@@ -1,0 +1,73 @@
+{
+  "id": 873985861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461189,41.869883,-71.461189,41.869883",
+    "geom:latitude":41.869883,
+    "geom:longitude":-71.461189,
+    "iso:country":"US",
+    "sg:address":"69 Douglas Ter",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4100",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pRcHAzlKFRJA5HpMwFzxS_41.869883_-71.461189@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310661,
+    "wof:geomhash":"94c04f0dde765af538b8ef051488b33c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":873985861
+        }
+    ],
+    "wof:id":873985861,
+    "wof:lastmodified":1464310661,
+    "wof:name":"Ringer Communications",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.461189,
+    41.869883,
+    -71.461189,
+    41.869883
+],
+  "geometry": {"coordinates":[-71.461189,41.869883],"type":"Point"}
+}

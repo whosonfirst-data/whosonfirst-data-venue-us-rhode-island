@@ -1,0 +1,71 @@
+{
+  "id": 874194531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545153,41.921264,-71.545153,41.921264",
+    "geom:latitude":41.921264,
+    "geom:longitude":-71.545153,
+    "iso:country":"US",
+    "sg:address":"10 Levesque Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2887",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Pu4lsF5i7eIYlSFDAoDgH_41.921264_-71.545153@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312785,
+    "wof:geomhash":"599fc4057b778653552dba2a9430b61d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874194531
+        }
+    ],
+    "wof:id":874194531,
+    "wof:lastmodified":1464312785,
+    "wof:name":"New England Live Audio Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.545153,
+    41.921264,
+    -71.545153,
+    41.921264
+],
+  "geometry": {"coordinates":[-71.545153,41.921264],"type":"Point"}
+}

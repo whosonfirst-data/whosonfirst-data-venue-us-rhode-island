@@ -1,0 +1,81 @@
+{
+  "id": 874211963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432929,41.773,-71.432929,41.773",
+    "geom:latitude":41.773,
+    "geom:longitude":-71.432929,
+    "iso:country":"US",
+    "sg:address":"286 Orchard St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 7891",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EhvJnfpnGgXeBqTkXwJ4h_41.773000_-71.432929@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312973,
+    "wof:geomhash":"e811790707b27ad7243d6ebae51aa9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874211963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874211963
+        }
+    ],
+    "wof:id":874211963,
+    "wof:lastmodified":1464312973,
+    "wof:name":"Tiffany Realty Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.432929,
+    41.773,
+    -71.432929,
+    41.773
+],
+  "geometry": {"coordinates":[-71.432929,41.773],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874232177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471324,41.556543,-71.471324,41.556543",
+    "geom:latitude":41.556543,
+    "geom:longitude":-71.471324,
+    "iso:country":"US",
+    "sg:address":"141 Oak Hill Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2218",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79vtYUOJhj8xOTRPyCIkUe_41.556543_-71.471324@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313189,
+    "wof:geomhash":"ec2e7bfaa860437e85807de7276158a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874232177
+        }
+    ],
+    "wof:id":874232177,
+    "wof:lastmodified":1464313189,
+    "wof:name":"C & J Forms Inc",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.471324,
+    41.556543,
+    -71.471324,
+    41.556543
+],
+  "geometry": {"coordinates":[-71.471324,41.556543],"type":"Point"}
+}

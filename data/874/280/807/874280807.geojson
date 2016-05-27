@@ -1,0 +1,75 @@
+{
+  "id": 874280807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424809,41.795729,-71.424809,41.795729",
+    "geom:latitude":41.795729,
+    "geom:longitude":-71.424809,
+    "iso:country":"US",
+    "sg:address":"598 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 1066",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AOqXqUGmpeGIijJPVqlGy_41.795729_-71.424809@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314655,
+    "wof:geomhash":"0e615ac46dc991dae4d1a7226277916f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874280807
+        }
+    ],
+    "wof:id":874280807,
+    "wof:lastmodified":1464314655,
+    "wof:name":"National Liquors",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.424809,
+    41.795729,
+    -71.424809,
+    41.795729
+],
+  "geometry": {"coordinates":[-71.424809,41.795729],"type":"Point"}
+}

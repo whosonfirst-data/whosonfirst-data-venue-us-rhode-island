@@ -1,0 +1,71 @@
+{
+  "id": 874037291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285579,41.735848,-71.285579,41.735848",
+    "geom:latitude":41.735848,
+    "geom:longitude":-71.285579,
+    "iso:country":"US",
+    "sg:address":"50 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8857",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ay9mVVAhXjF1GQVwWB5o7_41.735848_-71.285579@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311119,
+    "wof:geomhash":"67ac5e737082d6d44b80298d714553f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874037291
+        }
+    ],
+    "wof:id":874037291,
+    "wof:lastmodified":1464311119,
+    "wof:name":"Gil's Automotive Svc Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.285579,
+    41.735848,
+    -71.285579,
+    41.735848
+],
+  "geometry": {"coordinates":[-71.285579,41.735848],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 874292313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46012,41.95518,-71.46012,41.95518",
+    "geom:latitude":41.95518,
+    "geom:longitude":-71.46012,
+    "iso:country":"US",
+    "sg:address":"16 Edelweiss Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3049",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813219,
+        102191575,
+        404488361,
+        85633793,
+        101720599,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zJaHQghyDRZd1uhec81Yi_41.955180_-71.460120@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315100,
+    "wof:geomhash":"444ace3354264d0ada0a43127d6eb413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488361,
+            "locality_id":101720599,
+            "neighbourhood_id":85813219,
+            "region_id":85688509,
+            "venue_id":874292313
+        }
+    ],
+    "wof:id":874292313,
+    "wof:lastmodified":1464315100,
+    "wof:name":"Associates Inc Lincoln Pediatric",
+    "wof:parent_id":85813219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.46012,
+    41.95518,
+    -71.46012,
+    41.95518
+],
+  "geometry": {"coordinates":[-71.46012,41.95518],"type":"Point"}
+}

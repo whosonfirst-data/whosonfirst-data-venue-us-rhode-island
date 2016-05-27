@@ -1,0 +1,73 @@
+{
+  "id": 874207109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473282,41.830669,-71.473282,41.830669",
+    "geom:latitude":41.830669,
+    "geom:longitude":-71.473282,
+    "iso:country":"US",
+    "sg:address":"648 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 4111",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D3ZgR8qkZJVKDFnScQega_41.830669_-71.473282@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312921,
+    "wof:geomhash":"bc8802fc4180276f160c87b1c01b488b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874207109
+        }
+    ],
+    "wof:id":874207109,
+    "wof:lastmodified":1464312921,
+    "wof:name":"AAMCO Electric",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.473282,
+    41.830669,
+    -71.473282,
+    41.830669
+],
+  "geometry": {"coordinates":[-71.473282,41.830669],"type":"Point"}
+}

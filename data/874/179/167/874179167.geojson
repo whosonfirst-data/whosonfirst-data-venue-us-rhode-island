@@ -1,0 +1,73 @@
+{
+  "id": 874179167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498875,42.024844,-71.498875,42.024844",
+    "geom:latitude":42.024844,
+    "geom:longitude":-71.498875,
+    "iso:country":"US",
+    "sg:address":"83 Miller Ave",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 9033",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Myx1LQgs2w6D9ThVF9rNa_42.024844_-71.498875@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"613dfbafe8dfcf38542803ec0a319697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874179167
+        }
+    ],
+    "wof:id":874179167,
+    "wof:lastmodified":1464312622,
+    "wof:name":"D P Electric",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.498875,
+    42.024844,
+    -71.498875,
+    42.024844
+],
+  "geometry": {"coordinates":[-71.498875,42.024844],"type":"Point"}
+}

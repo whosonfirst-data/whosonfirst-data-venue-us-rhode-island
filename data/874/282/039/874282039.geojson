@@ -1,0 +1,71 @@
+{
+  "id": 874282039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503594,42.022623,-71.503594,42.022623",
+    "geom:latitude":42.022623,
+    "geom:longitude":-71.503594,
+    "iso:country":"US",
+    "sg:address":"13 Champlain Ave",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 6620",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ekntOVyFFBOU04nIvRqGs_42.022623_-71.503594@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314708,
+    "wof:geomhash":"2a721d7128e9760594a9acae19be27d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874282039
+        }
+    ],
+    "wof:id":874282039,
+    "wof:lastmodified":1464314708,
+    "wof:name":"Carey Construction",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -71.503594,
+    42.022623,
+    -71.503594,
+    42.022623
+],
+  "geometry": {"coordinates":[-71.50359400000001,42.022623],"type":"Point"}
+}

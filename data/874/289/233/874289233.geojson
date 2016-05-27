@@ -1,0 +1,75 @@
+{
+  "id": 874289233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271936,41.520133,-71.271936,41.520133",
+    "geom:latitude":41.520133,
+    "geom:longitude":-71.271936,
+    "iso:country":"US",
+    "sg:address":"9 Berkeley Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 1104",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jyKKYkOT3GMSXoUEOBkY0_41.520133_-71.271936@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314986,
+    "wof:geomhash":"45b96f9609775793157a36b0844798c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874289233
+        }
+    ],
+    "wof:id":874289233,
+    "wof:lastmodified":1464314986,
+    "wof:name":"Police Department",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.271936,
+    41.520133,
+    -71.271936,
+    41.520133
+],
+  "geometry": {"coordinates":[-71.271936,41.520133],"type":"Point"}
+}

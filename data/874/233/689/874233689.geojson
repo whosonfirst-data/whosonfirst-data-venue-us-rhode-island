@@ -1,0 +1,69 @@
+{
+  "id": 874233689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457382,41.85313,-71.457382,41.85313",
+    "geom:latitude":41.85313,
+    "geom:longitude":-71.457382,
+    "iso:country":"US",
+    "sg:address":"14 Sherman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0055",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Z1VEfcNtBqgn9PJgNn6MU_41.853130_-71.457382@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313213,
+    "wof:geomhash":"e5b78e84339fc1d45933b454f59478d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874233689
+        }
+    ],
+    "wof:id":874233689,
+    "wof:lastmodified":1464313213,
+    "wof:name":"A Personal Limousine Service",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -71.457382,
+    41.85313,
+    -71.457382,
+    41.85313
+],
+  "geometry": {"coordinates":[-71.457382,41.85313],"type":"Point"}
+}

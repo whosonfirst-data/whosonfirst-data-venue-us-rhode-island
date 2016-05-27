@@ -1,0 +1,71 @@
+{
+  "id": 874217825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455407,41.429074,-71.455407,41.429074",
+    "geom:latitude":41.429074,
+    "geom:longitude":-71.455407,
+    "iso:country":"US",
+    "sg:address":"40 Ocean Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0700",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:website":"www.thecoastguardhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cN583RxKUdLS2C8NPiG3l_41.429074_-71.455407@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313030,
+    "wof:geomhash":"1e991e232986ce87a1d637494acfeab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874217825
+        }
+    ],
+    "wof:id":874217825,
+    "wof:lastmodified":1464313030,
+    "wof:name":"Coast Guard House",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.455407,
+    41.429074,
+    -71.455407,
+    41.429074
+],
+  "geometry": {"coordinates":[-71.45540699999999,41.429074],"type":"Point"}
+}

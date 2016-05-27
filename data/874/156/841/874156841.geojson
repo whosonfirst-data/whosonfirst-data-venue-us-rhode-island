@@ -1,0 +1,71 @@
+{
+  "id": 874156841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.681824,41.96677,-71.681824,41.96677",
+    "geom:latitude":41.96677,
+    "geom:longitude":-71.681824,
+    "iso:country":"US",
+    "sg:address":"25 Kennedy Ln",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 5785",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBQJMiHcGJl3DtZjQ2HeA_41.966770_-71.681824@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312397,
+    "wof:geomhash":"c00e79be3eb1dab69fac3205420ee2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874156841
+        }
+    ],
+    "wof:id":874156841,
+    "wof:lastmodified":1464312397,
+    "wof:name":"Anytime Plumbing Service",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.681824,
+    41.96677,
+    -71.681824,
+    41.96677
+],
+  "geometry": {"coordinates":[-71.68182400000001,41.96677],"type":"Point"}
+}

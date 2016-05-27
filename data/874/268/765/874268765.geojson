@@ -1,0 +1,69 @@
+{
+  "id": 874268765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457557,41.869158,-71.457557,41.869158",
+    "geom:latitude":41.869158,
+    "geom:longitude":-71.457557,
+    "iso:country":"US",
+    "sg:address":"46 Countryside Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5762",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hx2SEF0WaCFf2Gddh68oy_41.869158_-71.457557@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314182,
+    "wof:geomhash":"603d4cd0b44c6656d1519ea473b92592",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874268765
+        }
+    ],
+    "wof:id":874268765,
+    "wof:lastmodified":1464314182,
+    "wof:name":"C Rocchio Landscaping Co",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.457557,
+    41.869158,
+    -71.457557,
+    41.869158
+],
+  "geometry": {"coordinates":[-71.45755699999999,41.869158],"type":"Point"}
+}

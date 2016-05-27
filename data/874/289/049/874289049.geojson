@@ -1,0 +1,72 @@
+{
+  "id": 874289049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686498,41.510909,-71.686498,41.510909",
+    "geom:latitude":41.510909,
+    "geom:longitude":-71.686498,
+    "iso:country":"US",
+    "sg:address":"21 Kingstown Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 6001",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kDBeCoXlf2OTgDryhPwE5_41.510909_-71.686498@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314979,
+    "wof:geomhash":"082aab1d29efda031125ff7c31b0632b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874289049
+        }
+    ],
+    "wof:id":874289049,
+    "wof:lastmodified":1464314979,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.686498,
+    41.510909,
+    -71.686498,
+    41.510909
+],
+  "geometry": {"coordinates":[-71.686498,41.510909],"type":"Point"}
+}

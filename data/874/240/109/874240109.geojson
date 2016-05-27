@@ -1,0 +1,71 @@
+{
+  "id": 874240109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506032,41.867891,-71.506032,41.867891",
+    "geom:latitude":41.867891,
+    "geom:longitude":-71.506032,
+    "iso:country":"US",
+    "sg:address":"258 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 7570",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "merchandise",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YsiHSPD5AmKt2hFPUIuIn_41.867891_-71.506032@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313342,
+    "wof:geomhash":"eeca7f53c879aa463ca419476e0fda8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874240109
+        }
+    ],
+    "wof:id":874240109,
+    "wof:lastmodified":1464313342,
+    "wof:name":"Parts Plus Auto Store",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.506032,
+    41.867891,
+    -71.506032,
+    41.867891
+],
+  "geometry": {"coordinates":[-71.506032,41.867891],"type":"Point"}
+}

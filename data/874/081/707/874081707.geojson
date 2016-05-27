@@ -1,0 +1,71 @@
+{
+  "id": 874081707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.566799,41.681221,-71.566799,41.681221",
+    "geom:latitude":41.681221,
+    "geom:longitude":-71.566799,
+    "iso:country":"US",
+    "sg:address":"801 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 5599",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44PXAaDDtqvAQSbppEOTDi_41.681221_-71.566799@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311572,
+    "wof:geomhash":"3e5c3af323ebcdc1a46570e4c33392e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874081707
+        }
+    ],
+    "wof:id":874081707,
+    "wof:lastmodified":1464311572,
+    "wof:name":"Tracy Ciccone Performing Arts",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.566799,
+    41.681221,
+    -71.566799,
+    41.681221
+],
+  "geometry": {"coordinates":[-71.566799,41.681221],"type":"Point"}
+}

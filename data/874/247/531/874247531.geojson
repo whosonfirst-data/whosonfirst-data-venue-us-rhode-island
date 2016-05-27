@@ -1,0 +1,69 @@
+{
+  "id": 874247531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531388,41.866971,-71.531388,41.866971",
+    "geom:latitude":41.866971,
+    "geom:longitude":-71.531388,
+    "iso:country":"US",
+    "sg:address":"29 Sanderson Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 1099",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1caEenmLM0T4U60HqNByGZ_41.866971_-71.531388@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313484,
+    "wof:geomhash":"ec21c785397e4558c5a5152618046f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874247531
+        }
+    ],
+    "wof:id":874247531,
+    "wof:lastmodified":1464313484,
+    "wof:name":"David Gremza DDS",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.531388,
+    41.866971,
+    -71.531388,
+    41.866971
+],
+  "geometry": {"coordinates":[-71.53138800000001,41.866971],"type":"Point"}
+}

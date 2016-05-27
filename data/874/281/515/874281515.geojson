@@ -1,0 +1,79 @@
+{
+  "id": 874281515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455876,41.556585,-71.455876,41.556585",
+    "geom:latitude":41.556585,
+    "geom:longitude":-71.455876,
+    "iso:country":"US",
+    "sg:address":"120 Lantern Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1641",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "technology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U6iilHnLBXDfDKhPmasbB_41.556585_-71.455876@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314691,
+    "wof:geomhash":"69ce4a421c392835c8b5343db93fd933",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874281515
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874281515
+        }
+    ],
+    "wof:id":874281515,
+    "wof:lastmodified":1464314691,
+    "wof:name":"Charlton Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "technology"
+    ]
+},
+  "bbox": [
+    -71.455876,
+    41.556585,
+    -71.455876,
+    41.556585
+],
+  "geometry": {"coordinates":[-71.455876,41.556585],"type":"Point"}
+}

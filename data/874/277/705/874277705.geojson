@@ -1,0 +1,72 @@
+{
+  "id": 874277705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525663,41.480279,-71.525663,41.480279",
+    "geom:latitude":41.480279,
+    "geom:longitude":-71.525663,
+    "iso:country":"US",
+    "sg:address":"2610 Kingstown Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5330",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.kingcongchurch.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZuUXbDuMZ1hUNpbfg69Dq_41.480279_-71.525663@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314529,
+    "wof:geomhash":"d4c88b72a1ab97fa59a40a6ab66aa651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874277705
+        }
+    ],
+    "wof:id":874277705,
+    "wof:lastmodified":1464314529,
+    "wof:name":"Kingston Congregational Church",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.525663,
+    41.480279,
+    -71.525663,
+    41.480279
+],
+  "geometry": {"coordinates":[-71.52566299999999,41.480279],"type":"Point"}
+}

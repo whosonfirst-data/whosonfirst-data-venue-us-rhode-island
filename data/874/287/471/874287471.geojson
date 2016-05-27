@@ -1,0 +1,78 @@
+{
+  "id": 874287471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421576,41.812009,-71.421576,41.812009",
+    "geom:latitude":41.812009,
+    "geom:longitude":-71.421576,
+    "iso:country":"US",
+    "sg:address":"420 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/176632-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 2424",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EUZwFNymtZ3c4SpW4hA7m_41.812009_-71.421576@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314912,
+    "wof:geomhash":"3a9f77247ca04053b11264ad5c8eb5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874287471
+        }
+    ],
+    "wof:id":874287471,
+    "wof:lastmodified":1464314912,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -71.421576,
+    41.812009,
+    -71.421576,
+    41.812009
+],
+  "geometry": {"coordinates":[-71.421576,41.812009],"type":"Point"}
+}

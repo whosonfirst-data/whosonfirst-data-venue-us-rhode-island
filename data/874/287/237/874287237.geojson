@@ -1,0 +1,76 @@
+{
+  "id": 874287237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770998,41.351748,-71.770998,41.351748",
+    "geom:latitude":41.351748,
+    "geom:longitude":-71.770998,
+    "iso:country":"US",
+    "sg:address":"224 Post Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/westerly/84813-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 2045",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xIEeSuRyFHv0wplGTH3Fz_41.351748_-71.770998@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314898,
+    "wof:geomhash":"094b9b6cf9615e2575664802e4025237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874287237
+        }
+    ],
+    "wof:id":874287237,
+    "wof:lastmodified":1464314898,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.770998,
+    41.351748,
+    -71.770998,
+    41.351748
+],
+  "geometry": {"coordinates":[-71.77099800000001,41.351748],"type":"Point"}
+}

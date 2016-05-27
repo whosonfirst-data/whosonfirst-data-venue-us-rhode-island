@@ -1,0 +1,97 @@
+{
+  "id": 874293203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272369,41.750204,-71.272369,41.750204",
+    "geom:latitude":41.750204,
+    "geom:longitude":-71.272369,
+    "iso:country":"US",
+    "sg:address":"2 New Industrial Way",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0213",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "shop",
+        "supply",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "service-equipment",
+        "painting",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GoQtGhB2SRzC4w89skYjF_41.750204_-71.272369@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315130,
+    "wof:geomhash":"a25e2d00d33694de5333c255e287525f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874293203
+        }
+    ],
+    "wof:id":874293203,
+    "wof:lastmodified":1464315130,
+    "wof:name":"Choice Collision Center",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "shop",
+        "supply",
+        "automobile",
+        "supply-wholesale",
+        "equipment",
+        "service-equipment",
+        "painting",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.272369,
+    41.750204,
+    -71.272369,
+    41.750204
+],
+  "geometry": {"coordinates":[-71.272369,41.750204],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874096269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42431,41.847738,-71.42431,41.847738",
+    "geom:latitude":41.847738,
+    "geom:longitude":-71.42431,
+    "iso:country":"US",
+    "sg:address":"111 Yorkshire St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 7740",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B5tVBd25nbvIg1fI8Fi2Z_41.847738_-71.424310@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311732,
+    "wof:geomhash":"d7ef08cf90607934ede0dc8b6606768a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874096269
+        }
+    ],
+    "wof:id":874096269,
+    "wof:lastmodified":1464311732,
+    "wof:name":"Malo Moving Co",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.42431,
+    41.847738,
+    -71.42431,
+    41.847738
+],
+  "geometry": {"coordinates":[-71.42431000000001,41.847738],"type":"Point"}
+}

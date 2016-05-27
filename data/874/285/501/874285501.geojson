@@ -1,0 +1,70 @@
+{
+  "id": 874285501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440804,41.949277,-71.440804,41.949277",
+    "geom:latitude":41.949277,
+    "geom:longitude":-71.440804,
+    "iso:country":"US",
+    "sg:address":"1998 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1225",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VRP1opnPYzPLszKxcPvJ6_41.949107_-71.440590@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314832,
+    "wof:geomhash":"cebae8434de1579afc28461b0e8a91c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874285501
+        }
+    ],
+    "wof:id":874285501,
+    "wof:lastmodified":1464314832,
+    "wof:name":"Cvs/Pharmacy",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.440804,
+    41.949277,
+    -71.440804,
+    41.949277
+],
+  "geometry": {"coordinates":[-71.440804,41.949277],"type":"Point"}
+}

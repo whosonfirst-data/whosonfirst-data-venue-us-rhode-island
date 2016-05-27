@@ -1,0 +1,73 @@
+{
+  "id": 874231255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.625888,41.382046,-71.625888,41.382046",
+    "geom:latitude":41.382046,
+    "geom:longitude":-71.625888,
+    "iso:country":"US",
+    "sg:address":"2183 Matunuck Schoolhouse Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0120",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KBLm2VyFO9a4RMeRePEmD_41.382046_-71.625888@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313177,
+    "wof:geomhash":"23199ae2e01dc8ce7174e98db49c9152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874231255
+        }
+    ],
+    "wof:id":874231255,
+    "wof:lastmodified":1464313177,
+    "wof:name":"Charlestown Gallery",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.625888,
+    41.382046,
+    -71.625888,
+    41.382046
+],
+  "geometry": {"coordinates":[-71.625888,41.382046],"type":"Point"}
+}

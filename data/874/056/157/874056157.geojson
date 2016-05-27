@@ -1,0 +1,75 @@
+{
+  "id": 874056157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.724867,41.4996,-71.724867,41.4996",
+    "geom:latitude":41.4996,
+    "geom:longitude":-71.724867,
+    "iso:country":"US",
+    "sg:address":"894 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 1166",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VTIFu2OjBhJCZlMWd6zlN_41.499600_-71.724867@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311302,
+    "wof:geomhash":"4808c12704fa8ddc3209ab2ad61169b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874056157
+        }
+    ],
+    "wof:id":874056157,
+    "wof:lastmodified":1464311302,
+    "wof:name":"Hope Valley Auto Body",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.724867,
+    41.4996,
+    -71.724867,
+    41.4996
+],
+  "geometry": {"coordinates":[-71.724867,41.4996],"type":"Point"}
+}

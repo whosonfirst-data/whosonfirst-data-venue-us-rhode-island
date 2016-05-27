@@ -1,0 +1,69 @@
+{
+  "id": 874267617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479177,41.821817,-71.479177,41.821817",
+    "geom:latitude":41.821817,
+    "geom:longitude":-71.479177,
+    "iso:country":"US",
+    "sg:address":"12 Whittier Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 3171",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BXJC8FoiyMz1WDmFvo6aD_41.821817_-71.479177@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314137,
+    "wof:geomhash":"5a5303c269caffed40ea320b8c85e8cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874267617
+        }
+    ],
+    "wof:id":874267617,
+    "wof:lastmodified":1464314137,
+    "wof:name":"Brewster AD",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.479177,
+    41.821817,
+    -71.479177,
+    41.821817
+],
+  "geometry": {"coordinates":[-71.47917700000001,41.821817],"type":"Point"}
+}

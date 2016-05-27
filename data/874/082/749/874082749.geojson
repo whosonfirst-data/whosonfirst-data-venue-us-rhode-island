@@ -1,0 +1,75 @@
+{
+  "id": 874082749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39608,41.78914,-71.39608,41.78914",
+    "geom:latitude":41.78914,
+    "geom:longitude":-71.39608,
+    "iso:country":"US",
+    "sg:address":"963 Narragansett Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 7280",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bV7J650NfwddVd8KtWX5t_41.789140_-71.396080@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311587,
+    "wof:geomhash":"3ccb2728b29a5d16d6d58f246767ec3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874082749
+        }
+    ],
+    "wof:id":874082749,
+    "wof:lastmodified":1464311587,
+    "wof:name":"Barbosa Liquors",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.39608,
+    41.78914,
+    -71.39608,
+    41.78914
+],
+  "geometry": {"coordinates":[-71.39608,41.78914],"type":"Point"}
+}

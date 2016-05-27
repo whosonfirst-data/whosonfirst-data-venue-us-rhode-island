@@ -1,0 +1,75 @@
+{
+  "id": 874239531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363213,41.777512,-71.363213,41.777512",
+    "geom:latitude":41.777512,
+    "geom:longitude":-71.363213,
+    "iso:country":"US",
+    "sg:address":"51 Bullocks Point Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 2420",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dtV0cNEN025KM3audGIZ3_41.777512_-71.363213@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313331,
+    "wof:geomhash":"99bd800aa07db076e8c930f265bcd50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874239531
+        }
+    ],
+    "wof:id":874239531,
+    "wof:lastmodified":1464313331,
+    "wof:name":"Bay View Health Svc",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.363213,
+    41.777512,
+    -71.363213,
+    41.777512
+],
+  "geometry": {"coordinates":[-71.363213,41.777512],"type":"Point"}
+}

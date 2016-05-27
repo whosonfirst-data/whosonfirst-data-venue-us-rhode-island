@@ -1,0 +1,87 @@
+{
+  "id": 874286891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435472,41.943549,-71.435472,41.943549",
+    "geom:latitude":41.943549,
+    "geom:longitude":-71.435472,
+    "iso:country":"US",
+    "sg:address":"1700 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cumberland/138821-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 4207",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45A1W96TLuHdsy0j1I1wnK_41.943549_-71.435472@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314886,
+    "wof:geomhash":"6b2a615a369eb0537f55aa044a7fafeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874286891
+        }
+    ],
+    "wof:id":874286891,
+    "wof:lastmodified":1464314886,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.435472,
+    41.943549,
+    -71.435472,
+    41.943549
+],
+  "geometry": {"coordinates":[-71.435472,41.943549],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874230747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400727,41.840465,-71.400727,41.840465",
+    "geom:latitude":41.840465,
+    "geom:longitude":-71.400727,
+    "iso:country":"US",
+    "sg:address":"88 Mount Hope Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 6158",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79wu7b2vOYKFcDn8yaRb5c_41.840465_-71.400727@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313172,
+    "wof:geomhash":"fd89510fb040b31b3a91c68d289e6337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874230747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874230747
+        }
+    ],
+    "wof:id":874230747,
+    "wof:lastmodified":1464313172,
+    "wof:name":"R I School For Deaf",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.400727,
+    41.840465,
+    -71.400727,
+    41.840465
+],
+  "geometry": {"coordinates":[-71.400727,41.840465],"type":"Point"}
+}

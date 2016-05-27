@@ -1,0 +1,69 @@
+{
+  "id": 874144615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.266892,41.660067,-71.266892,41.660067",
+    "geom:latitude":41.660067,
+    "geom:longitude":-71.266892,
+    "iso:country":"US",
+    "sg:address":"1 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0022",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OSsU0zxnUaPmOnT3DB141_41.660067_-71.266892@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312277,
+    "wof:geomhash":"4c888883e3aa9cd09a59c42d8a50e94f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874144615
+        }
+    ],
+    "wof:id":874144615,
+    "wof:lastmodified":1464312277,
+    "wof:name":"Golden Shears Beauty Salon",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.266892,
+    41.660067,
+    -71.266892,
+    41.660067
+],
+  "geometry": {"coordinates":[-71.266892,41.660067],"type":"Point"}
+}

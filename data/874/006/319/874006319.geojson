@@ -1,0 +1,77 @@
+{
+  "id": 874006319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441332,41.807726,-71.441332,41.807726",
+    "geom:latitude":41.807726,
+    "geom:longitude":-71.441332,
+    "iso:country":"US",
+    "sg:address":"349 Huntington Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 1450",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62xVOZOXerSa1tjaBsk1xM_41.807726_-71.441332@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"3bfe1770564333371f09ad3e308b5239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874006319
+        }
+    ],
+    "wof:id":874006319,
+    "wof:lastmodified":1464310827,
+    "wof:name":"Kodak",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -71.441332,
+    41.807726,
+    -71.441332,
+    41.807726
+],
+  "geometry": {"coordinates":[-71.441332,41.807726],"type":"Point"}
+}

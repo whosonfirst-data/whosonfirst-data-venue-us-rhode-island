@@ -1,0 +1,71 @@
+{
+  "id": 874099841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.682304,41.968389,-71.682304,41.968389",
+    "geom:latitude":41.968389,
+    "geom:longitude":-71.682304,
+    "iso:country":"US",
+    "sg:address":"41 Foster St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3391",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "flagging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iM7oNxsWJymS7RJoiijOn_41.968389_-71.682304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311791,
+    "wof:geomhash":"1f1a3c5cef7015102c91fe55ab7391a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874099841
+        }
+    ],
+    "wof:id":874099841,
+    "wof:lastmodified":1464311791,
+    "wof:name":"R&D Flagging Service",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flagging"
+    ]
+},
+  "bbox": [
+    -71.682304,
+    41.968389,
+    -71.682304,
+    41.968389
+],
+  "geometry": {"coordinates":[-71.682304,41.968389],"type":"Point"}
+}

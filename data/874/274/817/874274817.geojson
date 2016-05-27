@@ -1,0 +1,75 @@
+{
+  "id": 874274817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470072,41.728367,-71.470072,41.728367",
+    "geom:latitude":41.728367,
+    "geom:longitude":-71.470072,
+    "iso:country":"US",
+    "sg:address":"133 Central St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 276 0009",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yjM52mYxQfx1i7XW1JBeK_41.728367_-71.470072@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314396,
+    "wof:geomhash":"d48746cc36f6ca67bbc076ace51dbdbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874274817
+        }
+    ],
+    "wof:id":874274817,
+    "wof:lastmodified":1464314396,
+    "wof:name":"Coutu Brothers Movers",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -71.470072,
+    41.728367,
+    -71.470072,
+    41.728367
+],
+  "geometry": {"coordinates":[-71.470072,41.728367],"type":"Point"}
+}

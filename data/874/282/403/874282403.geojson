@@ -1,0 +1,75 @@
+{
+  "id": 874282403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393435,41.841262,-71.393435,41.841262",
+    "geom:latitude":41.841262,
+    "geom:longitude":-71.393435,
+    "iso:country":"US",
+    "sg:address":"101 Sessions St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 9344",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "middle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CY4UvALuagf3qkjxAUWGj_41.841150_-71.393470@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314721,
+    "wof:geomhash":"bc393960a0b2fb6e6f85198f71874f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874282403
+        }
+    ],
+    "wof:id":874282403,
+    "wof:lastmodified":1464314721,
+    "wof:name":"Nathan Bishop Middle School",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle"
+    ]
+},
+  "bbox": [
+    -71.393435,
+    41.841262,
+    -71.393435,
+    41.841262
+],
+  "geometry": {"coordinates":[-71.393435,41.841262],"type":"Point"}
+}

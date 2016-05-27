@@ -1,0 +1,71 @@
+{
+  "id": 874179655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.729251,41.472641,-71.729251,41.472641",
+    "geom:latitude":41.472641,
+    "geom:longitude":-71.729251,
+    "iso:country":"US",
+    "sg:address":"10 Wicasta Farm Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 4678",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JMcxiy7vs9l6a76J0wIFL_41.472641_-71.729251@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312626,
+    "wof:geomhash":"b5fcef0d667a0669458db028f847705e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874179655
+        }
+    ],
+    "wof:id":874179655,
+    "wof:lastmodified":1464312626,
+    "wof:name":"Dubs Liquors LLC",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.729251,
+    41.472641,
+    -71.729251,
+    41.472641
+],
+  "geometry": {"coordinates":[-71.729251,41.472641],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874078347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493277,41.714546,-71.493277,41.714546",
+    "geom:latitude":41.714546,
+    "geom:longitude":-71.493277,
+    "iso:country":"US",
+    "sg:address":"66 Levesque St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 4114",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VBlSlIwZg18YIxp7rAkQX_41.714546_-71.493277@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311531,
+    "wof:geomhash":"3e489ca04fbdf3f4ef20e27b6de6d0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874078347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874078347
+        }
+    ],
+    "wof:id":874078347,
+    "wof:lastmodified":1464311531,
+    "wof:name":"Allinson-Lama",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.493277,
+    41.714546,
+    -71.493277,
+    41.714546
+],
+  "geometry": {"coordinates":[-71.49327700000001,41.714546],"type":"Point"}
+}

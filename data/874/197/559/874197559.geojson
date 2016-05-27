@@ -1,0 +1,71 @@
+{
+  "id": 874197559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558153,41.714078,-71.558153,41.714078",
+    "geom:latitude":41.714078,
+    "geom:longitude":-71.558153,
+    "iso:country":"US",
+    "sg:address":"555 Knotty Oak Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2265",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GAIL5lCqVrtjPsTJXUfd8_41.714078_-71.558153@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312821,
+    "wof:geomhash":"2e0b076cda137784694e6f38dfd5a8c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874197559
+        }
+    ],
+    "wof:id":874197559,
+    "wof:lastmodified":1464312821,
+    "wof:name":"C & A Trucking",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.558153,
+    41.714078,
+    -71.558153,
+    41.714078
+],
+  "geometry": {"coordinates":[-71.558153,41.714078],"type":"Point"}
+}

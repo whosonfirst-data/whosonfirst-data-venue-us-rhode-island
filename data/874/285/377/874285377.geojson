@@ -1,0 +1,69 @@
+{
+  "id": 874285377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443294,41.958688,-71.443294,41.958688",
+    "geom:latitude":41.958688,
+    "geom:longitude":-71.443294,
+    "iso:country":"US",
+    "sg:address":"2376 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 658 1782",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oOtkErA51zjWemS2Rei6a_41.958815_-71.443301@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314826,
+    "wof:geomhash":"82c8b12063dad289757755991869c45a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874285377
+        }
+    ],
+    "wof:id":874285377,
+    "wof:lastmodified":1464314826,
+    "wof:name":"Deluxe Cleaners",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -71.443294,
+    41.958688,
+    -71.443294,
+    41.958688
+],
+  "geometry": {"coordinates":[-71.44329399999999,41.958688],"type":"Point"}
+}

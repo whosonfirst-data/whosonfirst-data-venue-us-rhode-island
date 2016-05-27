@@ -1,0 +1,90 @@
+{
+  "id": 874263607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435952,41.77813,-71.435952,41.77813",
+    "geom:latitude":41.77813,
+    "geom:longitude":-71.435952,
+    "iso:country":"US",
+    "sg:address":"22 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8704",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "register",
+        "cash",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A91UpC1xG568mt3Tc2CBh_41.778130_-71.435952@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313978,
+    "wof:geomhash":"829af5e5d8776caf2bc8d46bc9dfe663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874263607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874263607
+        }
+    ],
+    "wof:id":874263607,
+    "wof:lastmodified":1464313978,
+    "wof:name":"Merchants Cash Register",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "register",
+        "cash",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.435952,
+    41.77813,
+    -71.435952,
+    41.77813
+],
+  "geometry": {"coordinates":[-71.435952,41.77813],"type":"Point"}
+}

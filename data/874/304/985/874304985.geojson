@@ -1,0 +1,101 @@
+{
+  "id": 874304985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46196,41.783341,-71.46196,41.783341",
+    "geom:latitude":41.783341,
+    "geom:longitude":-71.46196,
+    "iso:country":"US",
+    "sg:address":"1425 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 4411",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gas-industrial",
+        "propane",
+        "bulk",
+        "medical-cylinder",
+        "helium",
+        "welding"
+    ],
+    "sg:website":"http://www.cranstonwelding.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Pq5tcpMFLyJyxaHW0y3q_41.783341_-71.461960@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315563,
+    "wof:geomhash":"59a2066fc2109de939529a2357f8357b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874304985
+        }
+    ],
+    "wof:id":874304985,
+    "wof:lastmodified":1464315563,
+    "wof:name":"Cranston Welding Supply-cws Gases",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas-industrial",
+        "propane",
+        "bulk",
+        "medical-cylinder",
+        "helium",
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.46196,
+    41.783341,
+    -71.46196,
+    41.783341
+],
+  "geometry": {"coordinates":[-71.46196,41.783341],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874286593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261812,41.647231,-71.261812,41.647231",
+    "geom:latitude":41.647231,
+    "geom:longitude":-71.261812,
+    "iso:country":"US",
+    "sg:address":"1 Old Ferry Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/bristol/123005-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 4591",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pOms8iFIceLhM0f0aOWak_41.647231_-71.261812@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314876,
+    "wof:geomhash":"b260f11e760c7b0e0d217f908c38b7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874286593
+        }
+    ],
+    "wof:id":874286593,
+    "wof:lastmodified":1464314876,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.261812,
+    41.647231,
+    -71.261812,
+    41.647231
+],
+  "geometry": {"coordinates":[-71.26181200000001,41.647231],"type":"Point"}
+}

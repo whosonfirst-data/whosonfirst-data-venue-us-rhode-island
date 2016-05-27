@@ -1,0 +1,80 @@
+{
+  "id": 874097175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524601,41.480135,-71.524601,41.480135",
+    "geom:latitude":41.480135,
+    "geom:longitude":-71.524601,
+    "iso:country":"US",
+    "sg:address":"2587 Kingstown Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2195",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OPGtyaDRyMUeGkJhgKFoA_41.480135_-71.524601@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311746,
+    "wof:geomhash":"2ae33c49c2085b1a32142cdc4dc1c95a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874097175
+        }
+    ],
+    "wof:id":874097175,
+    "wof:lastmodified":1464311746,
+    "wof:name":"South County Art Association",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.524601,
+    41.480135,
+    -71.524601,
+    41.480135
+],
+  "geometry": {"coordinates":[-71.524601,41.480135],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874304389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.548507,41.916354,-71.548507,41.916354",
+    "geom:latitude":41.916354,
+    "geom:longitude":-71.548507,
+    "iso:country":"US",
+    "sg:address":"3 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 399 9939",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42Z46dWVUKNOGV1hqymJuO_41.916354_-71.548507@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315543,
+    "wof:geomhash":"03334dfc0c4358fddfc059837403e63d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874304389
+        }
+    ],
+    "wof:id":874304389,
+    "wof:lastmodified":1464315543,
+    "wof:name":"Cryan Landscape Contractors",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.548507,
+    41.916354,
+    -71.548507,
+    41.916354
+],
+  "geometry": {"coordinates":[-71.548507,41.916354],"type":"Point"}
+}

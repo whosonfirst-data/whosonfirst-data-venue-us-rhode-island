@@ -1,0 +1,92 @@
+{
+  "id": 874298271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427611,41.823666,-71.427611,41.823666",
+    "geom:latitude":41.823666,
+    "geom:longitude":-71.427611,
+    "iso:country":"US",
+    "sg:address":"294 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 2253",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cake",
+        "dessert",
+        "pastry",
+        "wedding"
+    ],
+    "sg:website":"www.nancysfanciescakes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yUaMn2i6KgzzeXAwzVDsY_41.823666_-71.427611@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315319,
+    "wof:geomhash":"cbf052661b1ebc0f9371228a500b8115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874298271
+        }
+    ],
+    "wof:id":874298271,
+    "wof:lastmodified":1464315319,
+    "wof:name":"Nancy's Fancies",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "dessert",
+        "pastry",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -71.427611,
+    41.823666,
+    -71.427611,
+    41.823666
+],
+  "geometry": {"coordinates":[-71.427611,41.823666],"type":"Point"}
+}

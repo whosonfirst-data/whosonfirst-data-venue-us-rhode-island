@@ -1,0 +1,81 @@
+{
+  "id": 874041625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401669,41.801076,-71.401669,41.801076",
+    "geom:latitude":41.801076,
+    "geom:longitude":-71.401669,
+    "iso:country":"US",
+    "sg:address":"15 Thurbers Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7631",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jgcWh3ZesAtinjATKI77g_41.801076_-71.401669@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311163,
+    "wof:geomhash":"e4617c025ea65052819dba6b149ba94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874041625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874041625
+        }
+    ],
+    "wof:id":874041625,
+    "wof:lastmodified":1464311163,
+    "wof:name":"Amazing Superstores",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.401669,
+    41.801076,
+    -71.401669,
+    41.801076
+],
+  "geometry": {"coordinates":[-71.401669,41.801076],"type":"Point"}
+}

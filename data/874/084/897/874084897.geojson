@@ -1,0 +1,81 @@
+{
+  "id": 874084897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49705,41.438963,-71.49705,41.438963",
+    "geom:latitude":41.438963,
+    "geom:longitude":-71.49705,
+    "iso:country":"US",
+    "sg:address":"12 Blanchard Pl",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 8017",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vAhomUMxaavwm3ri867SL_41.438963_-71.497050@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311608,
+    "wof:geomhash":"83d6e4d4aba70a5d4b144fcf26befcfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874084897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874084897
+        }
+    ],
+    "wof:id":874084897,
+    "wof:lastmodified":1464311608,
+    "wof:name":"PC Computer Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.49705,
+    41.438963,
+    -71.49705,
+    41.438963
+],
+  "geometry": {"coordinates":[-71.49705,41.438963],"type":"Point"}
+}

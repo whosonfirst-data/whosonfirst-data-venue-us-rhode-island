@@ -1,0 +1,71 @@
+{
+  "id": 874174145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569713,41.402458,-71.569713,41.402458",
+    "geom:latitude":41.402458,
+    "geom:longitude":-71.569713,
+    "iso:country":"US",
+    "sg:address":"180 Red House Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4314",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zwtM4MEOBkqeeCJ9tWWjK_41.402458_-71.569713@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312570,
+    "wof:geomhash":"07d4bd7f49a086297416aaab21073f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874174145
+        }
+    ],
+    "wof:id":874174145,
+    "wof:lastmodified":1464312570,
+    "wof:name":"Paul J Flynn Excavating",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.569713,
+    41.402458,
+    -71.569713,
+    41.402458
+],
+  "geometry": {"coordinates":[-71.56971299999999,41.402458],"type":"Point"}
+}

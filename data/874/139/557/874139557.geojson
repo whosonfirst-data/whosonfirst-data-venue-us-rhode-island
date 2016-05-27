@@ -1,0 +1,79 @@
+{
+  "id": 874139557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458341,41.431517,-71.458341,41.431517",
+    "geom:latitude":41.431517,
+    "geom:longitude":-71.458341,
+    "iso:country":"US",
+    "sg:address":"17 Pier Market Pl",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3066",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "e"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zsgqBKGOR3JegFmRj3qrY_41.431517_-71.458341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312231,
+    "wof:geomhash":"de0d90c07caca63ae0a39723d797bf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874139557
+        }
+    ],
+    "wof:id":874139557,
+    "wof:lastmodified":1464312231,
+    "wof:name":"Narragansett Pier Apartments",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "e"
+    ]
+},
+  "bbox": [
+    -71.458341,
+    41.431517,
+    -71.458341,
+    41.431517
+],
+  "geometry": {"coordinates":[-71.458341,41.431517],"type":"Point"}
+}

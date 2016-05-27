@@ -1,0 +1,73 @@
+{
+  "id": 874238261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284608,41.72968,-71.284608,41.72968",
+    "geom:latitude":41.72968,
+    "geom:longitude":-71.284608,
+    "iso:country":"US",
+    "sg:address":"47 State St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1135",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C9AlCpfmpLOvEFi434jZV_41.729680_-71.284608@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313307,
+    "wof:geomhash":"4ac2879153dfbd74672adf56ad6efaf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874238261
+        }
+    ],
+    "wof:id":874238261,
+    "wof:lastmodified":1464313307,
+    "wof:name":"Phone Doktor",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.284608,
+    41.72968,
+    -71.284608,
+    41.72968
+],
+  "geometry": {"coordinates":[-71.28460800000001,41.72968],"type":"Point"}
+}

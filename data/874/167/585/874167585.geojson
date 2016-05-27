@@ -1,0 +1,82 @@
+{
+  "id": 874167585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541512,41.885287,-71.541512,41.885287",
+    "geom:latitude":41.885287,
+    "geom:longitude":-71.541512,
+    "iso:country":"US",
+    "sg:address":"141 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4620",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "florist",
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i7JXAJIdDe61VU0YnxMf2_41.885287_-71.541512@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312503,
+    "wof:geomhash":"3ac3e139ed2b5d2c210fb22674015dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874167585
+        }
+    ],
+    "wof:id":874167585,
+    "wof:lastmodified":1464312503,
+    "wof:name":"Pleasant View Orchards",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist",
+        "shipper"
+    ]
+},
+  "bbox": [
+    -71.541512,
+    41.885287,
+    -71.541512,
+    41.885287
+],
+  "geometry": {"coordinates":[-71.541512,41.885287],"type":"Point"}
+}

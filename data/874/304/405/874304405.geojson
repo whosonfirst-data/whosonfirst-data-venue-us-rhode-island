@@ -1,0 +1,80 @@
+{
+  "id": 874304405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547236,41.899651,-71.547236,41.899651",
+    "geom:latitude":41.899651,
+    "geom:longitude":-71.547236,
+    "iso:country":"US",
+    "sg:address":"46 Log Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8600",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aZK7T5YrrWlM7mVNACUSY_41.899651_-71.547236@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315543,
+    "wof:geomhash":"2ef657dff27bff099bd85c5381cb9095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874304405
+        }
+    ],
+    "wof:id":874304405,
+    "wof:lastmodified":1464315543,
+    "wof:name":"Precision Auto Paint & Detail Incorporated",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.547236,
+    41.899651,
+    -71.547236,
+    41.899651
+],
+  "geometry": {"coordinates":[-71.547236,41.899651],"type":"Point"}
+}

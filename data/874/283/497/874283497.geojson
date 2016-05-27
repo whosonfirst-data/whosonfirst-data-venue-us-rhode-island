@@ -1,0 +1,75 @@
+{
+  "id": 874283497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.387199,41.870998,-71.387199,41.870998",
+    "geom:latitude":41.870998,
+    "geom:longitude":-71.387199,
+    "iso:country":"US",
+    "sg:address":"224 East Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 9022",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dmWymrJMXirxsfLqBO6FY_41.871604_-71.386806@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314756,
+    "wof:geomhash":"05fcdb7c996ae1195412b7c17d93cada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874283497
+        }
+    ],
+    "wof:id":874283497,
+    "wof:lastmodified":1464314756,
+    "wof:name":"Mr USA 1 Hour Cleaner",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -71.387199,
+    41.870998,
+    -71.387199,
+    41.870998
+],
+  "geometry": {"coordinates":[-71.387199,41.870998],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874263653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419234,41.522938,-71.419234,41.522938",
+    "geom:latitude":41.522938,
+    "geom:longitude":-71.419234,
+    "iso:country":"US",
+    "sg:address":"35 Curtis Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4084",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QpDCzwLEmDlv2D3wVMoo0_41.522938_-71.419234@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313979,
+    "wof:geomhash":"340825fa90fe4ea72a4c65e4bf904f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":874263653
+        }
+    ],
+    "wof:id":874263653,
+    "wof:lastmodified":1464313979,
+    "wof:name":"Have Truck Will Haul",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.419234,
+    41.522938,
+    -71.419234,
+    41.522938
+],
+  "geometry": {"coordinates":[-71.419234,41.522938],"type":"Point"}
+}

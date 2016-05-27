@@ -1,0 +1,76 @@
+{
+  "id": 874081555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457695,41.854144,-71.457695,41.854144",
+    "geom:latitude":41.854144,
+    "geom:longitude":-71.457695,
+    "iso:country":"US",
+    "sg:address":"200 High Service Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 3448",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MpdKzqA03va7RyL8KgLSq_41.854144_-71.457695@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311570,
+    "wof:geomhash":"6759e9a0d3217235d6fec0fdcf4ca5f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874081555
+        }
+    ],
+    "wof:id":874081555,
+    "wof:lastmodified":1464311570,
+    "wof:name":"St Joseph Health Services RI",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.457695,
+    41.854144,
+    -71.457695,
+    41.854144
+],
+  "geometry": {"coordinates":[-71.457695,41.854144],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874281383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436139,41.806716,-71.436139,41.806716",
+    "geom:latitude":41.806716,
+    "geom:longitude":-71.436139,
+    "iso:country":"US",
+    "sg:address":"627 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 8861",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XtthDiC44rW1XYv8AVrtm_41.806716_-71.436139@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314686,
+    "wof:geomhash":"b796d22556f31599daeceb0679baf2c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874281383
+        }
+    ],
+    "wof:id":874281383,
+    "wof:lastmodified":1464314686,
+    "wof:name":"Providence Rescue Mission",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -71.436139,
+    41.806716,
+    -71.436139,
+    41.806716
+],
+  "geometry": {"coordinates":[-71.436139,41.806716],"type":"Point"}
+}

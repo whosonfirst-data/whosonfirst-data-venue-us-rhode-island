@@ -1,0 +1,69 @@
+{
+  "id": 874071921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542783,42.01748,-71.542783,42.01748",
+    "geom:latitude":42.01748,
+    "geom:longitude":-71.542783,
+    "iso:country":"US",
+    "sg:address":"202 Main St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 1362",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RdmwBX3gXRYHXToC5MJJ1_42.017480_-71.542783@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311460,
+    "wof:geomhash":"dfe195f3e098ca8daf0b0458cd563a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874071921
+        }
+    ],
+    "wof:id":874071921,
+    "wof:lastmodified":1464311460,
+    "wof:name":"Family Grocer",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.542783,
+    42.01748,
+    -71.542783,
+    42.01748
+],
+  "geometry": {"coordinates":[-71.542783,42.01748],"type":"Point"}
+}

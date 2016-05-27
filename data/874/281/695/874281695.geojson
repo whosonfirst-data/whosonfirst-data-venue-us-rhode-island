@@ -1,0 +1,77 @@
+{
+  "id": 874281695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.371486,41.811401,-71.371486,41.811401",
+    "geom:latitude":41.811401,
+    "geom:longitude":-71.371486,
+    "iso:country":"US",
+    "sg:address":"1053 S Broadway",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 5551",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7361Z7rKKaQOCktAOFqB4p_41.811401_-71.371486@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314697,
+    "wof:geomhash":"a540204ee755fa52ba8a57f98f4dd468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874281695
+        }
+    ],
+    "wof:id":874281695,
+    "wof:lastmodified":1464314697,
+    "wof:name":"Broadway Medical Treatment Ctr",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.371486,
+    41.811401,
+    -71.371486,
+    41.811401
+],
+  "geometry": {"coordinates":[-71.371486,41.811401],"type":"Point"}
+}

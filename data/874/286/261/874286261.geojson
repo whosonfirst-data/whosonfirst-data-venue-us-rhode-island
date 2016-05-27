@@ -1,0 +1,83 @@
+{
+  "id": 874286261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394517,41.849647,-71.394517,41.849647",
+    "geom:latitude":41.849647,
+    "geom:longitude":-71.394517,
+    "iso:country":"US",
+    "sg:address":"831 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 6664",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner",
+        "plant",
+        "drycleaning",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BEYG9ymvPwoal3m1zm91X_41.849500_-71.394651@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314866,
+    "wof:geomhash":"69e4acfe4043653c92c8e5698d848949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874286261
+        }
+    ],
+    "wof:id":874286261,
+    "wof:lastmodified":1464314866,
+    "wof:name":"Eden Park Cleaners",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plant",
+        "drycleaning",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -71.394517,
+    41.849647,
+    -71.394517,
+    41.849647
+],
+  "geometry": {"coordinates":[-71.39451699999999,41.849647],"type":"Point"}
+}

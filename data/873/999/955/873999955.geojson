@@ -1,0 +1,77 @@
+{
+  "id": 873999955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390221,41.862664,-71.390221,41.862664",
+    "geom:latitude":41.862664,
+    "geom:longitude":-71.390221,
+    "iso:country":"US",
+    "sg:address":"9 Kenilworth Way",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 2927",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aA1H4b97gQ68wW4LVnMjh_41.862664_-71.390221@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"fc855ab3a81705510685ae7401bc1551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":873999955
+        }
+    ],
+    "wof:id":873999955,
+    "wof:lastmodified":1464310760,
+    "wof:name":"Mansion House",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -71.390221,
+    41.862664,
+    -71.390221,
+    41.862664
+],
+  "geometry": {"coordinates":[-71.390221,41.862664],"type":"Point"}
+}

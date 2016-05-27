@@ -1,0 +1,73 @@
+{
+  "id": 873983881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.287725,41.693289,-71.287725,41.693289",
+    "geom:latitude":41.693289,
+    "geom:longitude":-71.287725,
+    "iso:country":"US",
+    "sg:address":"12 Cherry Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2720",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YjuORZPreowd2zUVN4yRe_41.693289_-71.287725@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310641,
+    "wof:geomhash":"09008cdd8d9caa47d99a767940df02e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":873983881
+        }
+    ],
+    "wof:id":873983881,
+    "wof:lastmodified":1464310641,
+    "wof:name":"Cabral Floor Refinishing",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.287725,
+    41.693289,
+    -71.287725,
+    41.693289
+],
+  "geometry": {"coordinates":[-71.28772499999999,41.693289],"type":"Point"}
+}

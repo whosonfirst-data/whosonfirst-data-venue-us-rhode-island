@@ -1,0 +1,71 @@
+{
+  "id": 874240825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501668,42.018687,-71.501668,42.018687",
+    "geom:latitude":42.018687,
+    "geom:longitude":-71.501668,
+    "iso:country":"US",
+    "sg:address":"630 Rathbun St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 7206",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eJXjPv5TrjrPlZfF8mhSP_42.018687_-71.501668@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313355,
+    "wof:geomhash":"a9efe57447f593e97c5c92e0790f218b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874240825
+        }
+    ],
+    "wof:id":874240825,
+    "wof:lastmodified":1464313355,
+    "wof:name":"St Theresa's Rectory",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -71.501668,
+    42.018687,
+    -71.501668,
+    42.018687
+],
+  "geometry": {"coordinates":[-71.501668,42.018687],"type":"Point"}
+}

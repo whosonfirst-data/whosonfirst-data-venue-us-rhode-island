@@ -1,0 +1,90 @@
+{
+  "id": 873992001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452441,41.789759,-71.452441,41.789759",
+    "geom:latitude":41.789759,
+    "geom:longitude":-71.452441,
+    "iso:country":"US",
+    "sg:address":"10 Gansett Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 6070",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v1z6ZlHPnGEFxmmn8Crm7_41.789759_-71.452441@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310705,
+    "wof:geomhash":"16d45adafbf21a67d767cf1f7c67f728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873992001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":873992001
+        }
+    ],
+    "wof:id":873992001,
+    "wof:lastmodified":1464310705,
+    "wof:name":"Harold Crook's Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.452441,
+    41.789759,
+    -71.452441,
+    41.789759
+],
+  "geometry": {"coordinates":[-71.45244099999999,41.789759],"type":"Point"}
+}

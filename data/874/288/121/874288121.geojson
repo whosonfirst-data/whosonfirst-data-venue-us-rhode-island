@@ -1,0 +1,76 @@
+{
+  "id": 874288121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441221,41.815588,-71.441221,41.815588",
+    "geom:latitude":41.815588,
+    "geom:longitude":-71.441221,
+    "iso:country":"US",
+    "sg:address":"38 Dike St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/12061-wes-rib-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 9090",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ggEnuaXfU3246X3TZdvMW_41.815523_-71.441417@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314940,
+    "wof:geomhash":"ffbc30b3cdab4136e1b753bc1aa56843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874288121
+        }
+    ],
+    "wof:id":874288121,
+    "wof:lastmodified":1464314940,
+    "wof:name":"Wes' Rib House",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.441221,
+    41.815588,
+    -71.441221,
+    41.815588
+],
+  "geometry": {"coordinates":[-71.441221,41.815588],"type":"Point"}
+}

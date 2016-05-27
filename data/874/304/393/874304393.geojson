@@ -1,0 +1,71 @@
+{
+  "id": 874304393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520742,41.878811,-71.520742,41.878811",
+    "geom:latitude":41.878811,
+    "geom:longitude":-71.520742,
+    "iso:country":"US",
+    "sg:address":"125 Mountaindale Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 651 2295",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vGbmWHA6pQmx2PFtS4EeQ_41.878811_-71.520742@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315543,
+    "wof:geomhash":"945b2badf89fd6622d40a6964b39c01f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874304393
+        }
+    ],
+    "wof:id":874304393,
+    "wof:lastmodified":1464315543,
+    "wof:name":"Laferriere Classic Cars",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -71.520742,
+    41.878811,
+    -71.520742,
+    41.878811
+],
+  "geometry": {"coordinates":[-71.520742,41.878811],"type":"Point"}
+}

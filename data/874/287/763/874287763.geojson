@@ -1,0 +1,76 @@
+{
+  "id": 874287763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284217,41.492644,-71.284217,41.492644",
+    "geom:latitude":41.492644,
+    "geom:longitude":-71.284217,
+    "iso:country":"US",
+    "sg:address":"116 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/245135-eastons-point/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0001",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K2fFFOCawQBxswzqkoiG7_41.492104_-71.284206@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314927,
+    "wof:geomhash":"597e1583ad08dae4a82c8de0bb42bc01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874287763
+        }
+    ],
+    "wof:id":874287763,
+    "wof:lastmodified":1464314927,
+    "wof:name":"Easton's Point",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.284217,
+    41.492644,
+    -71.284217,
+    41.492644
+],
+  "geometry": {"coordinates":[-71.284217,41.492644],"type":"Point"}
+}

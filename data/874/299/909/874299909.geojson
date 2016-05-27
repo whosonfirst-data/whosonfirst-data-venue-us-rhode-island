@@ -1,0 +1,82 @@
+{
+  "id": 874299909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403099,41.850101,-71.403099,41.850101",
+    "geom:latitude":41.850101,
+    "geom:longitude":-71.403099,
+    "iso:country":"US",
+    "sg:address":"1076 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 2460",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nutritionist",
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U53IwfuzhKp7hEQ2Ez4bk_41.850101_-71.403099@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315386,
+    "wof:geomhash":"b129b742970606507591187f14471c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874299909
+        }
+    ],
+    "wof:id":874299909,
+    "wof:lastmodified":1464315386,
+    "wof:name":"Cardiology Assoc of Rhode Island Inc",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist",
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -71.403099,
+    41.850101,
+    -71.403099,
+    41.850101
+],
+  "geometry": {"coordinates":[-71.403099,41.850101],"type":"Point"}
+}

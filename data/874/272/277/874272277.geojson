@@ -1,0 +1,71 @@
+{
+  "id": 874272277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458704,41.818493,-71.458704,41.818493",
+    "geom:latitude":41.818493,
+    "geom:longitude":-71.458704,
+    "iso:country":"US",
+    "sg:address":"412 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 263 9960",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eyn6D6TdF6uxGoyyPnAEl_41.818493_-71.458704@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314305,
+    "wof:geomhash":"febe4f29563dfeb44e7de7a14273bc3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874272277
+        }
+    ],
+    "wof:id":874272277,
+    "wof:lastmodified":1464314305,
+    "wof:name":"D & J Construction Inc",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.458704,
+    41.818493,
+    -71.458704,
+    41.818493
+],
+  "geometry": {"coordinates":[-71.458704,41.818493],"type":"Point"}
+}

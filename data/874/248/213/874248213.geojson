@@ -1,0 +1,75 @@
+{
+  "id": 874248213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503521,42.022611,-71.503521,42.022611",
+    "geom:latitude":42.022611,
+    "geom:longitude":-71.503521,
+    "iso:country":"US",
+    "sg:address":"15 Champlain Ave",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 9196",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OTR7otIwQxblTuwEkamPx_42.022611_-71.503521@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313500,
+    "wof:geomhash":"922df4940a52c493cf4b4bbe98cc68e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874248213
+        }
+    ],
+    "wof:id":874248213,
+    "wof:lastmodified":1464313500,
+    "wof:name":"Satellite TV Communications",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.503521,
+    42.022611,
+    -71.503521,
+    42.022611
+],
+  "geometry": {"coordinates":[-71.50352100000001,42.022611],"type":"Point"}
+}

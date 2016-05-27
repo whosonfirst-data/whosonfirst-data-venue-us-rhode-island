@@ -1,0 +1,73 @@
+{
+  "id": 874041913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.708695,41.512443,-71.708695,41.512443",
+    "geom:latitude":41.512443,
+    "geom:longitude":-71.708695,
+    "iso:country":"US",
+    "sg:address":"1115 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2299",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6znO3Bne5ki99JKE94LZhZ_41.512443_-71.708695@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311165,
+    "wof:geomhash":"9ad6b5d4ebf2b9adfa5eea7ba605b99f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874041913
+        }
+    ],
+    "wof:id":874041913,
+    "wof:lastmodified":1464311165,
+    "wof:name":"CBMS Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.708695,
+    41.512443,
+    -71.708695,
+    41.512443
+],
+  "geometry": {"coordinates":[-71.70869500000001,41.512443],"type":"Point"}
+}

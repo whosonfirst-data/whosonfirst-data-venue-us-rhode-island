@@ -1,0 +1,71 @@
+{
+  "id": 873999743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464588,41.833821,-71.464588,41.833821",
+    "geom:latitude":41.833821,
+    "geom:longitude":-71.464588,
+    "iso:country":"US",
+    "sg:address":"1703 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7000",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EiSnJKz523iCQgIclET5j_41.833821_-71.464588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310758,
+    "wof:geomhash":"7daa10672eebd2ccafdcc595d22c1caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":873999743
+        }
+    ],
+    "wof:id":873999743,
+    "wof:lastmodified":1464310758,
+    "wof:name":"Catherine E Graziano",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.464588,
+    41.833821,
+    -71.464588,
+    41.833821
+],
+  "geometry": {"coordinates":[-71.46458800000001,41.833821],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874287997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400076,41.81938,-71.400076,41.81938",
+    "geom:latitude":41.81938,
+    "geom:longitude":-71.400076,
+    "iso:country":"US",
+    "sg:address":"166 Wickenden St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/261109-fellini-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 6737",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yu9b2EkPD9J9qRVEswOeJ_41.819234_-71.400245@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314935,
+    "wof:geomhash":"7917d7ca9fc383e759cc77779eeb04e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874287997
+        }
+    ],
+    "wof:id":874287997,
+    "wof:lastmodified":1464314935,
+    "wof:name":"Fellini Pizzeria",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.400076,
+    41.81938,
+    -71.400076,
+    41.81938
+],
+  "geometry": {"coordinates":[-71.400076,41.81938],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 874291911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442044,41.949973,-71.442044,41.949973",
+    "geom:latitude":41.949973,
+    "geom:longitude":-71.442044,
+    "iso:country":"US",
+    "sg:address":"2000 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 9855",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "blind",
+        "store",
+        "shade",
+        "carpeting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YqWsYc3tRe8UAAoE2aSjz_41.949973_-71.442044@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315086,
+    "wof:geomhash":"af03339ae7bcedf9efc5ff1db3f36fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291911
+        }
+    ],
+    "wof:id":874291911,
+    "wof:lastmodified":1464315086,
+    "wof:name":"Depault Hardware",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blind",
+        "store",
+        "shade",
+        "carpeting"
+    ]
+},
+  "bbox": [
+    -71.442044,
+    41.949973,
+    -71.442044,
+    41.949973
+],
+  "geometry": {"coordinates":[-71.442044,41.949973],"type":"Point"}
+}

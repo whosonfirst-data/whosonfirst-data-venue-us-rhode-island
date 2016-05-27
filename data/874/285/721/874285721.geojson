@@ -1,0 +1,76 @@
+{
+  "id": 874285721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400581,41.828976,-71.400581,41.828976",
+    "geom:latitude":41.828976,
+    "geom:longitude":-71.400581,
+    "iso:country":"US",
+    "sg:address":"267 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 6423",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.niceslice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CukmaPRMIXPocCfMf3IPg_41.828701_-71.400667@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314847,
+    "wof:geomhash":"ac1a4a272f0ab250f0813dc148b84509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874285721
+        }
+    ],
+    "wof:id":874285721,
+    "wof:lastmodified":1464314847,
+    "wof:name":"Nice Slice",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.400581,
+    41.828976,
+    -71.400581,
+    41.828976
+],
+  "geometry": {"coordinates":[-71.400581,41.828976],"type":"Point"}
+}

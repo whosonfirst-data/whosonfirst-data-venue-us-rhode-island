@@ -1,0 +1,71 @@
+{
+  "id": 874277863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.260552,41.728274,-71.260552,41.728274",
+    "geom:latitude":41.728274,
+    "geom:longitude":-71.260552,
+    "iso:country":"US",
+    "sg:address":"10 Orchard Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3427",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Yu860PLU5AbCRDnjo95JY_41.728274_-71.260552@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314534,
+    "wof:geomhash":"b29418df9f58243b7d1a541933b3cfd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874277863
+        }
+    ],
+    "wof:id":874277863,
+    "wof:lastmodified":1464314534,
+    "wof:name":"Ralph Chace",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.260552,
+    41.728274,
+    -71.260552,
+    41.728274
+],
+  "geometry": {"coordinates":[-71.260552,41.728274],"type":"Point"}
+}

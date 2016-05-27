@@ -1,0 +1,71 @@
+{
+  "id": 874275711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519679,41.911563,-71.519679,41.911563",
+    "geom:latitude":41.911563,
+    "geom:longitude":-71.519679,
+    "iso:country":"US",
+    "sg:address":"37 Thurber Blvd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 2645",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tRi1XLT7dl2YGYdrepGki_41.911563_-71.519679@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314438,
+    "wof:geomhash":"35d8326e6b6c17b7f30be41f44425dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874275711
+        }
+    ],
+    "wof:id":874275711,
+    "wof:lastmodified":1464314438,
+    "wof:name":"Certus Financial",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.519679,
+    41.911563,
+    -71.519679,
+    41.911563
+],
+  "geometry": {"coordinates":[-71.519679,41.911563],"type":"Point"}
+}

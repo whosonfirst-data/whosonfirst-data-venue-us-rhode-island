@@ -1,0 +1,75 @@
+{
+  "id": 874279551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557448,41.877669,-71.557448,41.877669",
+    "geom:latitude":41.877669,
+    "geom:longitude":-71.557448,
+    "iso:country":"US",
+    "sg:address":"50 Austin Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 9115",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IWhRyzvCIIZCrydm7aawM_41.877669_-71.557448@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314591,
+    "wof:geomhash":"7a789a31924604e5f884479b99b1cf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874279551
+        }
+    ],
+    "wof:id":874279551,
+    "wof:lastmodified":1464314591,
+    "wof:name":"Cable Connections",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -71.557448,
+    41.877669,
+    -71.557448,
+    41.877669
+],
+  "geometry": {"coordinates":[-71.55744799999999,41.877669],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874267685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415871,41.820552,-71.415871,41.820552",
+    "geom:latitude":41.820552,
+    "geom:longitude":-71.415871,
+    "iso:country":"US",
+    "sg:address":"444 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 459 1000",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JLdTMkTdjf04IiT4r1RTr_41.820552_-71.415871@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314139,
+    "wof:geomhash":"6b6d8be80de2165c1710443e333c0ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874267685
+        }
+    ],
+    "wof:id":874267685,
+    "wof:lastmodified":1464314139,
+    "wof:name":"Blue Cross",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -71.415871,
+    41.820552,
+    -71.415871,
+    41.820552
+],
+  "geometry": {"coordinates":[-71.415871,41.820552],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 874287011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493537,41.704801,-71.493537,41.704801",
+    "geom:latitude":41.704801,
+    "geom:longitude":-71.493537,
+    "iso:country":"US",
+    "sg:address":"1245 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/104714-home-town-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 4494",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zORrTjNCa1AGL3r1dWpx6_41.704801_-71.493537@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"669a5a7e28da7eb615d878c4382d6132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287011
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874287011
+        }
+    ],
+    "wof:id":874287011,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Home Town Buffet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.493537,
+    41.704801,
+    -71.493537,
+    41.704801
+],
+  "geometry": {"coordinates":[-71.493537,41.704801],"type":"Point"}
+}

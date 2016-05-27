@@ -1,0 +1,88 @@
+{
+  "id": 874090279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488362,41.44149,-71.488362,41.44149",
+    "geom:latitude":41.44149,
+    "geom:longitude":-71.488362,
+    "iso:country":"US",
+    "sg:address":"589 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9741",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GtsYGPsUlpRrc68f7eW8f_41.441490_-71.488362@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311666,
+    "wof:geomhash":"0968cc29d981bbf21c37c307ce4730d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874090279
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874090279
+        }
+    ],
+    "wof:id":874090279,
+    "wof:lastmodified":1464311666,
+    "wof:name":"Saks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gift"
+    ]
+},
+  "bbox": [
+    -71.488362,
+    41.44149,
+    -71.488362,
+    41.44149
+],
+  "geometry": {"coordinates":[-71.488362,41.44149],"type":"Point"}
+}

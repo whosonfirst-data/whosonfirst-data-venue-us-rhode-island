@@ -1,0 +1,90 @@
+{
+  "id": 874149773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47859,41.433532,-71.47859,41.433532",
+    "geom:latitude":41.433532,
+    "geom:longitude":-71.47859,
+    "iso:country":"US",
+    "sg:address":"6 Lambert St",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4546",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgGpvtz3vsFmNJaBPnhxy_41.433532_-71.478590@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312326,
+    "wof:geomhash":"12880af57b877d3847873a03305485eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874149773
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874149773
+        }
+    ],
+    "wof:id":874149773,
+    "wof:lastmodified":1464312326,
+    "wof:name":"Laurance E Bouchard DO",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.47859,
+    41.433532,
+    -71.47859,
+    41.433532
+],
+  "geometry": {"coordinates":[-71.47859,41.433532],"type":"Point"}
+}

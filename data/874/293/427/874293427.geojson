@@ -1,0 +1,89 @@
+{
+  "id": 874293427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404747,41.76038,-71.404747,41.76038",
+    "geom:latitude":41.76038,
+    "geom:longitude":-71.404747,
+    "iso:country":"US",
+    "sg:address":"422 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 9193",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840949,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RI5vb8vZue37ldXQucAKh_41.760380_-71.404747@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315138,
+    "wof:geomhash":"fb36f11d6d124bb1315664237fd574fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85840949,
+            "region_id":85688509,
+            "venue_id":874293427
+        }
+    ],
+    "wof:id":874293427,
+    "wof:lastmodified":1464315138,
+    "wof:name":"Heart In Hand Massage Therapy",
+    "wof:parent_id":85840949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.404747,
+    41.76038,
+    -71.404747,
+    41.76038
+],
+  "geometry": {"coordinates":[-71.404747,41.76038],"type":"Point"}
+}

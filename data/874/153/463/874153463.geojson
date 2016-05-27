@@ -1,0 +1,71 @@
+{
+  "id": 874153463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.621603,41.519231,-71.621603,41.519231",
+    "geom:latitude":41.519231,
+    "geom:longitude":-71.621603,
+    "iso:country":"US",
+    "sg:address":"271 James Trl",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0312",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_023OTMktuijQ5Zw5cIofDK_41.519231_-71.621603@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"1989b9b42ca46a3b92fd0a95e8a154d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874153463
+        }
+    ],
+    "wof:id":874153463,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Fallen Leaf Masonry",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.621603,
+    41.519231,
+    -71.621603,
+    41.519231
+],
+  "geometry": {"coordinates":[-71.62160299999999,41.519231],"type":"Point"}
+}

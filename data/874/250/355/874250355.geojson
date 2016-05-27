@@ -1,0 +1,79 @@
+{
+  "id": 874250355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398206,41.692945,-71.398206,41.692945",
+    "geom:latitude":41.692945,
+    "geom:longitude":-71.398206,
+    "iso:country":"US",
+    "sg:address":"598 Oakland Beach Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 0600",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838995,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AbNQihmLnEzu7hMo5yQ1u_41.692945_-71.398206@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313574,
+    "wof:geomhash":"c3b4daec0b0e25ccb385b2742664fbc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838995,
+            "region_id":85688509,
+            "venue_id":874250355
+        }
+    ],
+    "wof:id":874250355,
+    "wof:lastmodified":1464313574,
+    "wof:name":"Oakland Beach Auto Center",
+    "wof:parent_id":85838995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.398206,
+    41.692945,
+    -71.398206,
+    41.692945
+],
+  "geometry": {"coordinates":[-71.398206,41.692945],"type":"Point"}
+}

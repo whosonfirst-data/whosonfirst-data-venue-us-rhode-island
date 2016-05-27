@@ -1,0 +1,71 @@
+{
+  "id": 874293167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275706,41.716553,-71.275706,41.716553",
+    "geom:latitude":41.716553,
+    "geom:longitude":-71.275706,
+    "iso:country":"US",
+    "sg:address":"5 Beechwood Ct",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3807",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refrigeration",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PhpKa4Nvwj5OVJrcx75Mw_41.716553_-71.275706@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315129,
+    "wof:geomhash":"aae258e0de3e4a3aca6364553d435d83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293167
+        }
+    ],
+    "wof:id":874293167,
+    "wof:lastmodified":1464315129,
+    "wof:name":"Wallace Refrigeration",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.275706,
+    41.716553,
+    -71.275706,
+    41.716553
+],
+  "geometry": {"coordinates":[-71.275706,41.716553],"type":"Point"}
+}

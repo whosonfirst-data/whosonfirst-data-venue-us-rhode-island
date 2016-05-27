@@ -1,0 +1,77 @@
+{
+  "id": 874174883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461465,41.939388,-71.461465,41.939388",
+    "geom:latitude":41.939388,
+    "geom:longitude":-71.461465,
+    "iso:country":"US",
+    "sg:address":"14 Blackstone Valley Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3800",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "meas",
+        "industrial",
+        "welding",
+        "apparatus",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rfx7XfyEoCkBQiFrkTBsd_41.939388_-71.461465@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312577,
+    "wof:geomhash":"69d9d479c097278307369d73c4040ec7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874174883
+        }
+    ],
+    "wof:id":874174883,
+    "wof:lastmodified":1464312577,
+    "wof:name":"ESP Solder Plus",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "meas",
+        "industrial",
+        "welding",
+        "apparatus",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.461465,
+    41.939388,
+    -71.461465,
+    41.939388
+],
+  "geometry": {"coordinates":[-71.461465,41.939388],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874261041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263672,41.714718,-71.263672,41.714718",
+    "geom:latitude":41.714718,
+    "geom:longitude":-71.263672,
+    "iso:country":"US",
+    "sg:address":"61 Harris Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1114",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pTEuz4u5spd99qbHfQJyK_41.714718_-71.263672@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313893,
+    "wof:geomhash":"250ccfdae331b6835e17b64147ec4a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874261041
+        }
+    ],
+    "wof:id":874261041,
+    "wof:lastmodified":1464313893,
+    "wof:name":"Butterworth Painting Co",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.263672,
+    41.714718,
+    -71.263672,
+    41.714718
+],
+  "geometry": {"coordinates":[-71.263672,41.714718],"type":"Point"}
+}

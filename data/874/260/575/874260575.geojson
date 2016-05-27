@@ -1,0 +1,80 @@
+{
+  "id": 874260575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396378,41.856319,-71.396378,41.856319",
+    "geom:latitude":41.856319,
+    "geom:longitude":-71.396378,
+    "iso:country":"US",
+    "sg:address":"2 Chace Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7454",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52HgrJ3xyHCmdJBO6vIgqV_41.856319_-71.396378@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313877,
+    "wof:geomhash":"40c9a5eb15126b209b0a61beef337700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874260575
+        }
+    ],
+    "wof:id":874260575,
+    "wof:lastmodified":1464313877,
+    "wof:name":"New Market Way Consulting Corp",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -71.396378,
+    41.856319,
+    -71.396378,
+    41.856319
+],
+  "geometry": {"coordinates":[-71.396378,41.856319],"type":"Point"}
+}

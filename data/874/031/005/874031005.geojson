@@ -1,0 +1,71 @@
+{
+  "id": 874031005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415204,41.802306,-71.415204,41.802306",
+    "geom:latitude":41.802306,
+    "geom:longitude":-71.415204,
+    "iso:country":"US",
+    "sg:address":"65 Gordon Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 1735",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:website":"www.providenceschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06mHHbOUF8YuHJGNdnmVKc_41.802306_-71.415204@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"c01b4f9db5c332d2d8ccbc8f15169211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874031005
+        }
+    ],
+    "wof:id":874031005,
+    "wof:lastmodified":1464311058,
+    "wof:name":"Robert L Bailey Iv School",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.415204,
+    41.802306,
+    -71.415204,
+    41.802306
+],
+  "geometry": {"coordinates":[-71.415204,41.802306],"type":"Point"}
+}

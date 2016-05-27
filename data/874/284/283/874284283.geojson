@@ -1,0 +1,72 @@
+{
+  "id": 874284283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252251,41.584209,-71.252251,41.584209",
+    "geom:latitude":41.584209,
+    "geom:longitude":-71.252251,
+    "iso:country":"US",
+    "sg:address":"1944 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2090",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company-utility",
+        "sewage"
+    ],
+    "sg:website":"http://www.portsmouthwater.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rjVORUK6u54bIDCZuORDF_41.583688_-71.252398@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314783,
+    "wof:geomhash":"2aaf1da6ae816dcc37f3568b2e94c869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874284283
+        }
+    ],
+    "wof:id":874284283,
+    "wof:lastmodified":1464314783,
+    "wof:name":"Portsmouth Water And Fire District",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.252251,
+    41.584209,
+    -71.252251,
+    41.584209
+],
+  "geometry": {"coordinates":[-71.252251,41.584209],"type":"Point"}
+}

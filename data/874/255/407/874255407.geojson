@@ -1,0 +1,71 @@
+{
+  "id": 874255407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503111,41.970415,-71.503111,41.970415",
+    "geom:latitude":41.970415,
+    "geom:longitude":-71.503111,
+    "iso:country":"US",
+    "sg:address":"755 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 7113",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cIICiLAnWOGi6x0Bnkh5I_41.970415_-71.503111@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313684,
+    "wof:geomhash":"451c376810d59868445a2df732bf3f83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874255407
+        }
+    ],
+    "wof:id":874255407,
+    "wof:lastmodified":1464313684,
+    "wof:name":"John E Allaire Landscaping Inc",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.503111,
+    41.970415,
+    -71.503111,
+    41.970415
+],
+  "geometry": {"coordinates":[-71.503111,41.970415],"type":"Point"}
+}

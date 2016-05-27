@@ -1,0 +1,75 @@
+{
+  "id": 874302773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435303,41.825901,-71.435303,41.825901",
+    "geom:latitude":41.825901,
+    "geom:longitude":-71.435303,
+    "iso:country":"US",
+    "sg:address":"47 Eagle St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 1697",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57zG332BCjE5RQazy8HN3g_41.825901_-71.435303@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315489,
+    "wof:geomhash":"38ff31436e0ead7cfbbf9276a5eaa4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874302773
+        }
+    ],
+    "wof:id":874302773,
+    "wof:lastmodified":1464315489,
+    "wof:name":"Expressions Shoes",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.435303,
+    41.825901,
+    -71.435303,
+    41.825901
+],
+  "geometry": {"coordinates":[-71.435303,41.825901],"type":"Point"}
+}

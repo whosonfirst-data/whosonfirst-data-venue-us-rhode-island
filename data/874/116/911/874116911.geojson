@@ -1,0 +1,71 @@
+{
+  "id": 874116911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555484,41.516014,-71.555484,41.516014",
+    "geom:latitude":41.516014,
+    "geom:longitude":-71.555484,
+    "iso:country":"US",
+    "sg:address":"750 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 7810",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HpIuryxhnqJZYJcxtyl14_41.516014_-71.555484@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312005,
+    "wof:geomhash":"a5e8a52a1957b3501cc70875bdb18b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874116911
+        }
+    ],
+    "wof:id":874116911,
+    "wof:lastmodified":1464312005,
+    "wof:name":"Homestead Restaurant of Exter",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.555484,
+    41.516014,
+    -71.555484,
+    41.516014
+],
+  "geometry": {"coordinates":[-71.55548400000001,41.516014],"type":"Point"}
+}

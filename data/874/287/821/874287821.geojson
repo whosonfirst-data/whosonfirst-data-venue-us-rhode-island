@@ -1,0 +1,106 @@
+{
+  "id": 874287821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191266,41.659912,-71.191266,41.659912",
+    "geom:latitude":41.659912,
+    "geom:longitude":-71.191266,
+    "iso:country":"US",
+    "sg:address":"496 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/tiverton/138904-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 2742",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kpA19DmMUfmW5O22ixdO7_41.659807_-71.191352@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314929,
+    "wof:geomhash":"8d25f228ee34f62c979e7f5fe4e7fb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874287821
+        }
+    ],
+    "wof:id":874287821,
+    "wof:lastmodified":1464314929,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.191266,
+    41.659912,
+    -71.191266,
+    41.659912
+],
+  "geometry": {"coordinates":[-71.191266,41.659912],"type":"Point"}
+}

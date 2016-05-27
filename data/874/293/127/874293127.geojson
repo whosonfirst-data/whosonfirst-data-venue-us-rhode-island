@@ -1,0 +1,72 @@
+{
+  "id": 874293127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268429,41.717075,-71.268429,41.717075",
+    "geom:latitude":41.717075,
+    "geom:longitude":-71.268429,
+    "iso:country":"US",
+    "sg:address":"627 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 402 245 9469",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "tune"
+    ],
+    "sg:website":"http://www.napaautocare.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69LsNKqzvVpd02b6LktOdI_41.717075_-71.268429@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315128,
+    "wof:geomhash":"bf367b34f1209b74f414fdddd0718bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293127
+        }
+    ],
+    "wof:id":874293127,
+    "wof:lastmodified":1464315128,
+    "wof:name":"Twigg's Auto",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tune"
+    ]
+},
+  "bbox": [
+    -71.268429,
+    41.717075,
+    -71.268429,
+    41.717075
+],
+  "geometry": {"coordinates":[-71.268429,41.717075],"type":"Point"}
+}

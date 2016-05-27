@@ -1,0 +1,70 @@
+{
+  "id": 874235525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529129,41.930909,-71.529129,41.930909",
+    "geom:latitude":41.930909,
+    "geom:longitude":-71.529129,
+    "iso:country":"US",
+    "sg:address":"100 Salem St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 292 6045",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "sg:website":"www.bostoncoach.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XorqH9PDqgB3QF3Wd1RbP_41.930909_-71.529129@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313253,
+    "wof:geomhash":"33389982e352c951e6aeaf5461fd0753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874235525
+        }
+    ],
+    "wof:id":874235525,
+    "wof:lastmodified":1464313253,
+    "wof:name":"Boston Coach",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -71.529129,
+    41.930909,
+    -71.529129,
+    41.930909
+],
+  "geometry": {"coordinates":[-71.529129,41.930909],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874269361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439396,41.72563,-71.439396,41.72563",
+    "geom:latitude":41.72563,
+    "geom:longitude":-71.439396,
+    "iso:country":"US",
+    "sg:address":"2053 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 4800",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GRP900ug4Pek6uSuo3VWD_41.725630_-71.439396@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314201,
+    "wof:geomhash":"4d32363b1b39af6fef7f08827538ee26",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874269361
+        }
+    ],
+    "wof:id":874269361,
+    "wof:lastmodified":1464314201,
+    "wof:name":"Alamo Rent-A-Car",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.439396,
+    41.72563,
+    -71.439396,
+    41.72563
+],
+  "geometry": {"coordinates":[-71.439396,41.72563],"type":"Point"}
+}

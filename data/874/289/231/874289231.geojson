@@ -1,0 +1,77 @@
+{
+  "id": 874289231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.242461,41.505302,-71.242461,41.505302",
+    "geom:latitude":41.505302,
+    "geom:longitude":-71.242461,
+    "iso:country":"US",
+    "sg:address":"361 Indian Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 6772",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24Vv6811tkt5ZhiLO51iV8_41.505302_-71.242461@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314985,
+    "wof:geomhash":"6ca489415d655cdaa351450cd831649c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874289231
+        }
+    ],
+    "wof:id":874289231,
+    "wof:lastmodified":1464314985,
+    "wof:name":"Paul C Houston Md",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.242461,
+    41.505302,
+    -71.242461,
+    41.505302
+],
+  "geometry": {"coordinates":[-71.24246100000001,41.505302],"type":"Point"}
+}

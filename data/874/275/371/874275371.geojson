@@ -1,0 +1,71 @@
+{
+  "id": 874275371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496923,41.596472,-71.496923,41.596472",
+    "geom:latitude":41.596472,
+    "geom:longitude":-71.496923,
+    "iso:country":"US",
+    "sg:address":"3661 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 8036",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "donut",
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g8H2YHazLm6EyjCAj9YrM_41.596472_-71.496923@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314417,
+    "wof:geomhash":"858cafb7d852548d1f1c801ec8553619",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874275371
+        }
+    ],
+    "wof:id":874275371,
+    "wof:lastmodified":1464314417,
+    "wof:name":"Allie's Donuts Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "donut",
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.496923,
+    41.596472,
+    -71.496923,
+    41.596472
+],
+  "geometry": {"coordinates":[-71.496923,41.596472],"type":"Point"}
+}

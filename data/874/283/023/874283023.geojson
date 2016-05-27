@@ -1,0 +1,69 @@
+{
+  "id": 874283023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.630856,41.406397,-71.630856,41.406397",
+    "geom:latitude":41.406397,
+    "geom:longitude":-71.630856,
+    "iso:country":"US",
+    "sg:address":"28 Auburn Dr",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0066",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GfwXyg1kc2fXcVIDA8wpu_41.406525_-71.631080@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314741,
+    "wof:geomhash":"97337bee97693c88043520a011634ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874283023
+        }
+    ],
+    "wof:id":874283023,
+    "wof:lastmodified":1464314741,
+    "wof:name":"Warwick Plumbing & Heating",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.630856,
+    41.406397,
+    -71.630856,
+    41.406397
+],
+  "geometry": {"coordinates":[-71.63085599999999,41.406397],"type":"Point"}
+}

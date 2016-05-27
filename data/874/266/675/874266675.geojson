@@ -1,0 +1,73 @@
+{
+  "id": 874266675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.576643,41.986672,-71.576643,41.986672",
+    "geom:latitude":41.986672,
+    "geom:longitude":-71.576643,
+    "iso:country":"US",
+    "sg:address":"6 Jennifer Ln",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 8167",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lXhIz25bWFcwWD3Y3bcPd_41.986672_-71.576643@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314094,
+    "wof:geomhash":"c4243ec68249b2a2323c088869d6fc7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874266675
+        }
+    ],
+    "wof:id":874266675,
+    "wof:lastmodified":1464314094,
+    "wof:name":"Victory In Jesus Inc",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.576643,
+    41.986672,
+    -71.576643,
+    41.986672
+],
+  "geometry": {"coordinates":[-71.576643,41.986672],"type":"Point"}
+}

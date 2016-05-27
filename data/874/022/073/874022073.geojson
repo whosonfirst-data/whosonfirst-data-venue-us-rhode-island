@@ -1,0 +1,79 @@
+{
+  "id": 874022073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273082,41.693299,-71.273082,41.693299",
+    "geom:latitude":41.693299,
+    "geom:longitude":-71.273082,
+    "iso:country":"US",
+    "sg:address":"80 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6600",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "body",
+        "shop",
+        "automotive",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mJkgQ1YpNDSZdA1NW1NYv_41.693299_-71.273082@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310965,
+    "wof:geomhash":"e271b74bcb1e0eefbd60756899d9ddf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874022073
+        }
+    ],
+    "wof:id":874022073,
+    "wof:lastmodified":1464310965,
+    "wof:name":"Bristol Auto Body Works Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "body",
+        "shop",
+        "automotive",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.273082,
+    41.693299,
+    -71.273082,
+    41.693299
+],
+  "geometry": {"coordinates":[-71.273082,41.693299],"type":"Point"}
+}

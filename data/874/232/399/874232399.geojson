@@ -1,0 +1,86 @@
+{
+  "id": 874232399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501016,41.437121,-71.501016,41.437121",
+    "geom:latitude":41.437121,
+    "geom:longitude":-71.501016,
+    "iso:country":"US",
+    "sg:address":"402 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2366",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74TsvVo7HH6MauTXrwbDht_41.437121_-71.501016@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313192,
+    "wof:geomhash":"adcdaaad8f4f5618adfa732adfd666c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874232399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874232399
+        }
+    ],
+    "wof:id":874232399,
+    "wof:lastmodified":1464313192,
+    "wof:name":"Main Street Fish and Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -71.501016,
+    41.437121,
+    -71.501016,
+    41.437121
+],
+  "geometry": {"coordinates":[-71.50101600000001,41.437121],"type":"Point"}
+}

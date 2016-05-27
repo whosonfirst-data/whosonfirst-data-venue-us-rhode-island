@@ -1,0 +1,69 @@
+{
+  "id": 874267221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541243,41.568201,-71.541243,41.568201",
+    "geom:latitude":41.568201,
+    "geom:longitude":-71.541243,
+    "iso:country":"US",
+    "sg:address":"6 Mockingbird Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0917",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59prce0diemtlwWgqN4qWa_41.568201_-71.541243@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314116,
+    "wof:geomhash":"b44d01df0409531f7c3d810aa3470fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874267221
+        }
+    ],
+    "wof:id":874267221,
+    "wof:lastmodified":1464314116,
+    "wof:name":"Harry J Whitford Rubbish Svc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -71.541243,
+    41.568201,
+    -71.541243,
+    41.568201
+],
+  "geometry": {"coordinates":[-71.54124299999999,41.568201],"type":"Point"}
+}

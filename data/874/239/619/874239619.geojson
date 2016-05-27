@@ -1,0 +1,71 @@
+{
+  "id": 874239619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293923,41.530736,-71.293923,41.530736",
+    "geom:latitude":41.530736,
+    "geom:longitude":-71.293923,
+    "iso:country":"US",
+    "sg:address":"939 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 5350",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f9I1BHiHmWRSxQqsOqwZO_41.530736_-71.293923@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313332,
+    "wof:geomhash":"88d9575040ec7b7026b4ac715263deb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874239619
+        }
+    ],
+    "wof:id":874239619,
+    "wof:lastmodified":1464313332,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.293923,
+    41.530736,
+    -71.293923,
+    41.530736
+],
+  "geometry": {"coordinates":[-71.29392300000001,41.530736],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873986727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40303,41.849976,-71.40303,41.849976",
+    "geom:latitude":41.849976,
+    "geom:longitude":-71.40303,
+    "iso:country":"US",
+    "sg:address":"1055 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 7230",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jZIX7d618iSvjUbfIlRBY_41.849976_-71.403030@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310667,
+    "wof:geomhash":"2d54d916ba3d8f3223c483a4a81bef19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":873986727
+        }
+    ],
+    "wof:id":873986727,
+    "wof:lastmodified":1464310667,
+    "wof:name":"Whitmarsh Corp",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.40303,
+    41.849976,
+    -71.40303,
+    41.849976
+],
+  "geometry": {"coordinates":[-71.40303,41.849976],"type":"Point"}
+}

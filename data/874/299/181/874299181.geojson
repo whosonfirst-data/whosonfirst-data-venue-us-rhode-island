@@ -1,0 +1,70 @@
+{
+  "id": 874299181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460602,41.8619,-71.460602,41.8619",
+    "geom:latitude":41.8619,
+    "geom:longitude":-71.460602,
+    "iso:country":"US",
+    "sg:address":"1818 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4100",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.dominos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FyzeekazWBJ9yUtAZYqmy_41.861900_-71.460602@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315360,
+    "wof:geomhash":"45cfd58b947b6f2eb41977d1def53be7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874299181
+        }
+    ],
+    "wof:id":874299181,
+    "wof:lastmodified":1464315360,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.460602,
+    41.8619,
+    -71.460602,
+    41.8619
+],
+  "geometry": {"coordinates":[-71.46060199999999,41.8619],"type":"Point"}
+}

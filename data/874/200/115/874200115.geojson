@@ -1,0 +1,73 @@
+{
+  "id": 874200115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512512,41.376672,-71.512512,41.376672",
+    "geom:latitude":41.376672,
+    "geom:longitude":-71.512512,
+    "iso:country":"US",
+    "sg:address":"250 Sand Hill Cove Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2306",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lounge",
+        "seafood",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847637,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dL8G00YOuEjoitS8GWEAu_41.376672_-71.512512@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312845,
+    "wof:geomhash":"8ff7638007d158ae666b635369b9c5ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847637,
+            "region_id":85688509,
+            "venue_id":874200115
+        }
+    ],
+    "wof:id":874200115,
+    "wof:lastmodified":1464312845,
+    "wof:name":"Georges of Galilee",
+    "wof:parent_id":85847637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "seafood",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.512512,
+    41.376672,
+    -71.512512,
+    41.376672
+],
+  "geometry": {"coordinates":[-71.512512,41.376672],"type":"Point"}
+}

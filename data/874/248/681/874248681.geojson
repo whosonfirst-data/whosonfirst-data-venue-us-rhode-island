@@ -1,0 +1,71 @@
+{
+  "id": 874248681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407776,41.891265,-71.407776,41.891265",
+    "geom:latitude":41.891265,
+    "geom:longitude":-71.407776,
+    "iso:country":"US",
+    "sg:address":"55 Conduit St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 1932",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "paper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FENTQsvQTr3u9EOqyzu9w_41.891265_-71.407776@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313517,
+    "wof:geomhash":"ab108d24b32374ea952b698f1d160234",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874248681
+        }
+    ],
+    "wof:id":874248681,
+    "wof:lastmodified":1464313517,
+    "wof:name":"Semper Paper Co",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "paper"
+    ]
+},
+  "bbox": [
+    -71.407776,
+    41.891265,
+    -71.407776,
+    41.891265
+],
+  "geometry": {"coordinates":[-71.407776,41.891265],"type":"Point"}
+}

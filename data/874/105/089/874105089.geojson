@@ -1,0 +1,76 @@
+{
+  "id": 874105089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459651,41.814495,-71.459651,41.814495",
+    "geom:latitude":41.814495,
+    "geom:longitude":-71.459651,
+    "iso:country":"US",
+    "sg:address":"219 Lowell Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 4741",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yxn4JWaprLI3PbxzOZKSw_41.814495_-71.459651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311858,
+    "wof:geomhash":"bb5143a1b39313ac640f71df1d7ffafd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874105089
+        }
+    ],
+    "wof:id":874105089,
+    "wof:lastmodified":1464311858,
+    "wof:name":"Lou's Floor Covering",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -71.459651,
+    41.814495,
+    -71.459651,
+    41.814495
+],
+  "geometry": {"coordinates":[-71.45965099999999,41.814495],"type":"Point"}
+}

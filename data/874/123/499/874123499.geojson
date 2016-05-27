@@ -1,0 +1,71 @@
+{
+  "id": 874123499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435475,41.476517,-71.435475,41.476517",
+    "geom:latitude":41.476517,
+    "geom:longitude":-71.435475,
+    "iso:country":"US",
+    "sg:address":"885 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4800",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfSbOm9p0Zo3BbIGJkEG5_41.476517_-71.435475@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"d78d7489ff6742af7af1e9285f40abd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874123499
+        }
+    ],
+    "wof:id":874123499,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Bonnett Shore",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.435475,
+    41.476517,
+    -71.435475,
+    41.476517
+],
+  "geometry": {"coordinates":[-71.435475,41.476517],"type":"Point"}
+}

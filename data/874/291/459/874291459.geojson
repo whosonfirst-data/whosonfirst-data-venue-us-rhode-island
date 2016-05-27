@@ -1,0 +1,77 @@
+{
+  "id": 874291459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403399,41.945106,-71.403399,41.945106",
+    "geom:latitude":41.945106,
+    "geom:longitude":-71.403399,
+    "iso:country":"US",
+    "sg:address":"2061 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhdvKJDJGgf9sNC3qYROm_41.945106_-71.403399@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315068,
+    "wof:geomhash":"d7332d5f722141185a9ea7f41014114d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291459
+        }
+    ],
+    "wof:id":874291459,
+    "wof:lastmodified":1464315068,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.403399,
+    41.945106,
+    -71.403399,
+    41.945106
+],
+  "geometry": {"coordinates":[-71.40339899999999,41.945106],"type":"Point"}
+}

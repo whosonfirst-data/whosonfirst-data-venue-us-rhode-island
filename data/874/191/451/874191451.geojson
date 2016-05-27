@@ -1,0 +1,73 @@
+{
+  "id": 874191451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.572246,41.68094,-71.572246,41.68094",
+    "geom:latitude":41.68094,
+    "geom:longitude":-71.572246,
+    "iso:country":"US",
+    "sg:address":"283 S Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 3400",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rgKMwWhGej4HNV9rJG3cc_41.680940_-71.572246@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312753,
+    "wof:geomhash":"00e038a4417fa7205d350c5c7e56dfd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874191451
+        }
+    ],
+    "wof:id":874191451,
+    "wof:lastmodified":1464312753,
+    "wof:name":"Gerald Hickey Piano Technician",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -71.572246,
+    41.68094,
+    -71.572246,
+    41.68094
+],
+  "geometry": {"coordinates":[-71.57224600000001,41.68094],"type":"Point"}
+}

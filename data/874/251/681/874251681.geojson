@@ -1,0 +1,71 @@
+{
+  "id": 874251681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.24463,41.631419,-71.24463,41.631419",
+    "geom:latitude":41.631419,
+    "geom:longitude":-71.24463,
+    "iso:country":"US",
+    "sg:address":"500 Anthony Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0955",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "country"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KFQprIsAtfMBFPUZlDNM8_41.631419_-71.244630@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313599,
+    "wof:geomhash":"18dd8d670261122438ef0aeef73a3118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874251681
+        }
+    ],
+    "wof:id":874251681,
+    "wof:lastmodified":1464313599,
+    "wof:name":"Montaup Country Club",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "country"
+    ]
+},
+  "bbox": [
+    -71.24463,
+    41.631419,
+    -71.24463,
+    41.631419
+],
+  "geometry": {"coordinates":[-71.24463,41.631419],"type":"Point"}
+}

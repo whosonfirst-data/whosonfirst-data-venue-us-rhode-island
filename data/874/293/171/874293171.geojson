@@ -1,0 +1,77 @@
+{
+  "id": 874293171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.269054,41.720139,-71.269054,41.720139",
+    "geom:latitude":41.720139,
+    "geom:longitude":-71.269054,
+    "iso:country":"US",
+    "sg:address":"601 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2791",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N4WGtSlrZWJiSQALoHw7t_41.720139_-71.269054@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315129,
+    "wof:geomhash":"26a2942aacea94b0280abffc5150568b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874293171
+        }
+    ],
+    "wof:id":874293171,
+    "wof:lastmodified":1464315129,
+    "wof:name":"Super Wash Laundromat",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.269054,
+    41.720139,
+    -71.269054,
+    41.720139
+],
+  "geometry": {"coordinates":[-71.269054,41.720139],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 874293297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494145,41.703456,-71.494145,41.703456",
+    "geom:latitude":41.703456,
+    "geom:longitude":-71.494145,
+    "iso:country":"US",
+    "sg:address":"1245 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 8080",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "decor",
+        "house",
+        "bedding",
+        "accessory",
+        "housewares",
+        "store"
+    ],
+    "sg:website":"http://www.homegoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209,
+        85856797,
+        102191575,
+        404488313,
+        101720577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QcmFrwKbYMMRXEXAeQTJS_41.703456_-71.494145@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315133,
+    "wof:geomhash":"3211a2c275a89d9abe8b9169bca740aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874293297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874293297
+        }
+    ],
+    "wof:id":874293297,
+    "wof:lastmodified":1464315133,
+    "wof:name":"HomeGoods",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "decor",
+        "house",
+        "bedding",
+        "accessory",
+        "housewares",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.494145,
+    41.703456,
+    -71.494145,
+    41.703456
+],
+  "geometry": {"coordinates":[-71.494145,41.703456],"type":"Point"}
+}

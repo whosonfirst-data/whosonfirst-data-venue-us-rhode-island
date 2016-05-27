@@ -1,0 +1,79 @@
+{
+  "id": 874269605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439652,41.825945,-71.439652,41.825945",
+    "geom:latitude":41.825945,
+    "geom:longitude":-71.439652,
+    "iso:country":"US",
+    "sg:address":"43 Turner St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 1355",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "fabricated",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Htgn3rNLXoHxhUBCtrKB6_41.825945_-71.439652@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314213,
+    "wof:geomhash":"5ca11b3ef0460b3c6ff6c81de0458f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874269605
+        }
+    ],
+    "wof:id":874269605,
+    "wof:lastmodified":1464314213,
+    "wof:name":"R I Welding & Fabricating Co",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "fabricated",
+        "structural"
+    ]
+},
+  "bbox": [
+    -71.439652,
+    41.825945,
+    -71.439652,
+    41.825945
+],
+  "geometry": {"coordinates":[-71.439652,41.825945],"type":"Point"}
+}

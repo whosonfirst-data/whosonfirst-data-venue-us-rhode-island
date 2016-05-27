@@ -1,0 +1,73 @@
+{
+  "id": 873996505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302585,41.739606,-71.302585,41.739606",
+    "geom:latitude":41.739606,
+    "geom:longitude":-71.302585,
+    "iso:country":"US",
+    "sg:address":"7 Stratford Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8520",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heavy",
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3omW7gIxQbtns7nNv2e01F_41.739606_-71.302585@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310736,
+    "wof:geomhash":"0cb02e759c82159ac98d8288c9aabf84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":873996505
+        }
+    ],
+    "wof:id":873996505,
+    "wof:lastmodified":1464310736,
+    "wof:name":"Jerry Coffey Co",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -71.302585,
+    41.739606,
+    -71.302585,
+    41.739606
+],
+  "geometry": {"coordinates":[-71.30258499999999,41.739606],"type":"Point"}
+}

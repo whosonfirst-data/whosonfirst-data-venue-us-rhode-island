@@ -1,0 +1,72 @@
+{
+  "id": 874254631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471835,41.485144,-71.471835,41.485144",
+    "geom:latitude":41.485144,
+    "geom:longitude":-71.471835,
+    "iso:country":"US",
+    "sg:address":"20 Fresh Meadow Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6515",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85841471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DxPakN5oIjr46e8zLHOc4_41.485144_-71.471835@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313662,
+    "wof:geomhash":"9464a757d82c3aa7d1fcd39346e92e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874254631
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874254631
+        }
+    ],
+    "wof:id":874254631,
+    "wof:lastmodified":1464313662,
+    "wof:name":"Sterling Resort Group Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.471835,
+    41.485144,
+    -71.471835,
+    41.485144
+],
+  "geometry": {"coordinates":[-71.471835,41.485144],"type":"Point"}
+}

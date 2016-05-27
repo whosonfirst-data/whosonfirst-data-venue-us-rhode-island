@@ -1,0 +1,96 @@
+{
+  "id": 874303165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443937,41.776429,-71.443937,41.776429",
+    "geom:latitude":41.776429,
+    "geom:longitude":-71.443937,
+    "iso:country":"US",
+    "sg:address":"110 Shirley Blvd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1472",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ],
+    "sg:website":"http://www.mechanicsmachineworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VCYGhuPX2WH3V7iBxENql_41.776429_-71.443937@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315501,
+    "wof:geomhash":"20a2eb1e0eb4b8acc0f2d6a6f4a20736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874303165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874303165
+        }
+    ],
+    "wof:id":874303165,
+    "wof:lastmodified":1464315501,
+    "wof:name":"Mechanics Machine Works Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.443937,
+    41.776429,
+    -71.443937,
+    41.776429
+],
+  "geometry": {"coordinates":[-71.44393700000001,41.776429],"type":"Point"}
+}

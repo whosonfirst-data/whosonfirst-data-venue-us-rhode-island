@@ -1,0 +1,69 @@
+{
+  "id": 874273201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536302,41.870112,-71.536302,41.870112",
+    "geom:latitude":41.870112,
+    "geom:longitude":-71.536302,
+    "iso:country":"US",
+    "sg:address":"492 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 2590",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xsxk5bzwMXAckMugiEAdW_41.870112_-71.536302@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314335,
+    "wof:geomhash":"56dab84d19760f9c042a356ef372e67e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874273201
+        }
+    ],
+    "wof:id":874273201,
+    "wof:lastmodified":1464314335,
+    "wof:name":"Family Dental Ctr Of Greenvil",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.536302,
+    41.870112,
+    -71.536302,
+    41.870112
+],
+  "geometry": {"coordinates":[-71.53630200000001,41.870112],"type":"Point"}
+}

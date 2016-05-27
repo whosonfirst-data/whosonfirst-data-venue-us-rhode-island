@@ -1,0 +1,77 @@
+{
+  "id": 874203533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.368575,41.860931,-71.368575,41.860931",
+    "geom:latitude":41.860931,
+    "geom:longitude":-71.368575,
+    "iso:country":"US",
+    "sg:address":"560 Prospect St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 0352",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28tWSi7pGNONkl7ZGUV5hA_41.860931_-71.368575@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"c4b1a75541449883bf13817fe7bc3999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874203533
+        }
+    ],
+    "wof:id":874203533,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Pawtucket Housing Authority",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -71.368575,
+    41.860931,
+    -71.368575,
+    41.860931
+],
+  "geometry": {"coordinates":[-71.36857500000001,41.860931],"type":"Point"}
+}

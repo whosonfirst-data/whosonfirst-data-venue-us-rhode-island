@@ -1,0 +1,90 @@
+{
+  "id": 874042445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495013,41.438235,-71.495013,41.438235",
+    "geom:latitude":41.438235,
+    "geom:longitude":-71.495013,
+    "iso:country":"US",
+    "sg:address":"361 Woodruff Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 3745",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7E5JSd8tiVFnRtgunjsP3q_41.438235_-71.495013@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311169,
+    "wof:geomhash":"2444f3c20b69902e4eb88ce77729e45e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874042445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874042445
+        }
+    ],
+    "wof:id":874042445,
+    "wof:lastmodified":1464311169,
+    "wof:name":"Silver Lake Cottage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.495013,
+    41.438235,
+    -71.495013,
+    41.438235
+],
+  "geometry": {"coordinates":[-71.495013,41.438235],"type":"Point"}
+}

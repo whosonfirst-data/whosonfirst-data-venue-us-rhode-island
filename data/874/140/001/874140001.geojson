@@ -1,0 +1,75 @@
+{
+  "id": 874140001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.357284,41.825329,-71.357284,41.825329",
+    "geom:latitude":41.825329,
+    "geom:longitude":-71.357284,
+    "iso:country":"US",
+    "sg:address":"1 Office Pkwy",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 431 6657",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809611,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yuZOLQZ563YHc7i4yYjfq_41.825329_-71.357284@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"1937b2d6f26b48df217132fe2d5f0170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85809611,
+            "region_id":85688509,
+            "venue_id":874140001
+        }
+    ],
+    "wof:id":874140001,
+    "wof:lastmodified":1464312235,
+    "wof:name":"New England Veterinary Dgnstcs",
+    "wof:parent_id":85809611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.357284,
+    41.825329,
+    -71.357284,
+    41.825329
+],
+  "geometry": {"coordinates":[-71.35728400000001,41.825329],"type":"Point"}
+}

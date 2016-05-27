@@ -1,0 +1,69 @@
+{
+  "id": 874271643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281864,41.684451,-71.281864,41.684451",
+    "geom:latitude":41.684451,
+    "geom:longitude":-71.281864,
+    "iso:country":"US",
+    "sg:address":"6 Overlook Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3162",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fyzYoMs2bqObbVssTzJVD_41.684451_-71.281864@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314279,
+    "wof:geomhash":"e75a53cdf40388ee9deec68037622bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874271643
+        }
+    ],
+    "wof:id":874271643,
+    "wof:lastmodified":1464314279,
+    "wof:name":"Sterex Electrolysis Intl LTD",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -71.281864,
+    41.684451,
+    -71.281864,
+    41.684451
+],
+  "geometry": {"coordinates":[-71.281864,41.684451],"type":"Point"}
+}

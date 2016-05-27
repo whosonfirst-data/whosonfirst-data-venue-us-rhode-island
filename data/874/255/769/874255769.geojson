@@ -1,0 +1,73 @@
+{
+  "id": 874255769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.676485,41.377095,-71.676485,41.377095",
+    "geom:latitude":41.377095,
+    "geom:longitude":-71.676485,
+    "iso:country":"US",
+    "sg:address":"3 Seneca Trl",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3427",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "motorcycle",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fP759EkKhY1XbGiiBNXR0_41.377095_-71.676485@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313691,
+    "wof:geomhash":"c6636f374e522a8b82fc9a4e8e9083f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874255769
+        }
+    ],
+    "wof:id":874255769,
+    "wof:lastmodified":1464313691,
+    "wof:name":"Strictly Hodaka",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "motorcycle",
+        "house"
+    ]
+},
+  "bbox": [
+    -71.676485,
+    41.377095,
+    -71.676485,
+    41.377095
+],
+  "geometry": {"coordinates":[-71.676485,41.377095],"type":"Point"}
+}

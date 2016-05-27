@@ -1,0 +1,70 @@
+{
+  "id": 874303237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46155,41.8503,-71.46155,41.8503",
+    "geom:latitude":41.8503,
+    "geom:longitude":-71.46155,
+    "iso:country":"US",
+    "sg:address":"1525 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0199",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.providencecomputerresources.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IOl6hUqaqvsVPmIaqtasJ_41.850300_-71.461550@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315503,
+    "wof:geomhash":"97db317a7d7161208e820239d0b2853c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303237
+        }
+    ],
+    "wof:id":874303237,
+    "wof:lastmodified":1464315503,
+    "wof:name":"Providence Computer Resources",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.46155,
+    41.8503,
+    -71.46155,
+    41.8503
+],
+  "geometry": {"coordinates":[-71.46155,41.8503],"type":"Point"}
+}

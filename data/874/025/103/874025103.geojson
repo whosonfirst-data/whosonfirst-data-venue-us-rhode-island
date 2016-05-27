@@ -1,0 +1,69 @@
+{
+  "id": 874025103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.590385,41.832481,-71.590385,41.832481",
+    "geom:latitude":41.832481,
+    "geom:longitude":-71.590385,
+    "iso:country":"US",
+    "sg:address":"178 Danielson Pike",
+    "sg:city":"North Scituate",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 3613",
+    "sg:postcode":"02857",
+    "sg:province":"RI",
+    "sg:tags":[
+        "resort"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847203,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QF6zyouZADOiK71w3Md6I_41.832481_-71.590385@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310998,
+    "wof:geomhash":"bc1d565e3bc7a451a5cfc2dd1f3e2c0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847203,
+            "region_id":85688509,
+            "venue_id":874025103
+        }
+    ],
+    "wof:id":874025103,
+    "wof:lastmodified":1464310998,
+    "wof:name":"Hamilton Lodge",
+    "wof:parent_id":85847203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resort"
+    ]
+},
+  "bbox": [
+    -71.590385,
+    41.832481,
+    -71.590385,
+    41.832481
+],
+  "geometry": {"coordinates":[-71.590385,41.832481],"type":"Point"}
+}

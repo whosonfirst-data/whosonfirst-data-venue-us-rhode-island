@@ -1,0 +1,73 @@
+{
+  "id": 874217377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605611,41.985819,-71.605611,41.985819",
+    "geom:latitude":41.985819,
+    "geom:longitude":-71.605611,
+    "iso:country":"US",
+    "sg:address":"204 Inman Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 447 1058",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JHSmsZggVnC79FpIQax1U_41.985819_-71.605611@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313026,
+    "wof:geomhash":"bbb86d73e99ef5f36c608667068d44c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874217377
+        }
+    ],
+    "wof:id":874217377,
+    "wof:lastmodified":1464313026,
+    "wof:name":"James J Auger & Son Trucking",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.605611,
+    41.985819,
+    -71.605611,
+    41.985819
+],
+  "geometry": {"coordinates":[-71.605611,41.985819],"type":"Point"}
+}

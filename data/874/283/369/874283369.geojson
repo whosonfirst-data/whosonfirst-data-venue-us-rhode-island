@@ -1,0 +1,69 @@
+{
+  "id": 874283369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424797,41.8685,-71.424797,41.8685",
+    "geom:latitude":41.8685,
+    "geom:longitude":-71.424797,
+    "iso:country":"US",
+    "sg:address":"1047 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 3420",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21S2kfKbwnlgur7G5pq2oQ_41.868879_-71.424003@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314752,
+    "wof:geomhash":"3a4295cebc67cb29aa447f8b41706825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874283369
+        }
+    ],
+    "wof:id":874283369,
+    "wof:lastmodified":1464314752,
+    "wof:name":"Shoe Horn",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.424797,
+    41.8685,
+    -71.424797,
+    41.8685
+],
+  "geometry": {"coordinates":[-71.424797,41.8685],"type":"Point"}
+}

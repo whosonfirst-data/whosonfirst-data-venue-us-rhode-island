@@ -1,0 +1,81 @@
+{
+  "id": 874287777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457667,41.58951,-71.457667,41.58951",
+    "geom:latitude":41.58951,
+    "geom:longitude":-71.457667,
+    "iso:country":"US",
+    "sg:address":"7679 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-kingstown/234104-newport-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2087",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FzZ96qQp0r2Hji6KIkRF1_41.589485_-71.457762@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314927,
+    "wof:geomhash":"abf92755e22d2aee82fc40c31d2c9a3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874287777
+        }
+    ],
+    "wof:id":874287777,
+    "wof:lastmodified":1464314927,
+    "wof:name":"Newport Creamery",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.457667,
+    41.58951,
+    -71.457667,
+    41.58951
+],
+  "geometry": {"coordinates":[-71.457667,41.58951],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874288933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568703,41.869122,-71.568703,41.869122",
+    "geom:latitude":41.869122,
+    "geom:longitude":-71.568703,
+    "iso:country":"US",
+    "sg:address":"30 Fanning Ln",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 3695",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "mail",
+        "order",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yui1QjaiI9v0gs6b3awFp_41.869122_-71.568703@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314974,
+    "wof:geomhash":"fdc05d43309a5fee872b1e00f89e356e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874288933
+        }
+    ],
+    "wof:id":874288933,
+    "wof:lastmodified":1464314974,
+    "wof:name":"Country Shop",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [
+    -71.568703,
+    41.869122,
+    -71.568703,
+    41.869122
+],
+  "geometry": {"coordinates":[-71.568703,41.869122],"type":"Point"}
+}

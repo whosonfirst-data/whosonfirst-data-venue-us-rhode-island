@@ -1,0 +1,71 @@
+{
+  "id": 874125591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420977,41.942721,-71.420977,41.942721",
+    "geom:latitude":41.942721,
+    "geom:longitude":-71.420977,
+    "iso:country":"US",
+    "sg:address":"11 Marywood Ln",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1455",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consulting",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t3T7GQAuf3wU8BMDeughU_41.942721_-71.420977@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312090,
+    "wof:geomhash":"eb70e29a33b45e5778270b2c45f245df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874125591
+        }
+    ],
+    "wof:id":874125591,
+    "wof:lastmodified":1464312090,
+    "wof:name":"Education Design",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "business"
+    ]
+},
+  "bbox": [
+    -71.420977,
+    41.942721,
+    -71.420977,
+    41.942721
+],
+  "geometry": {"coordinates":[-71.42097699999999,41.942721],"type":"Point"}
+}

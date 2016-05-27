@@ -1,0 +1,71 @@
+{
+  "id": 874177421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26246,41.681798,-71.26246,41.681798",
+    "geom:latitude":41.681798,
+    "geom:longitude":-71.26246,
+    "iso:country":"US",
+    "sg:address":"3 Highview Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 0285",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eVCOpU09xjz6SB2jFcHOR_41.681798_-71.262460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"9d65bfa2d64fa85bd79c1ffb831323df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874177421
+        }
+    ],
+    "wof:id":874177421,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Lc Construction",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.26246,
+    41.681798,
+    -71.26246,
+    41.681798
+],
+  "geometry": {"coordinates":[-71.26246,41.681798],"type":"Point"}
+}

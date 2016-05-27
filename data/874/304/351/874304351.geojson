@@ -1,0 +1,75 @@
+{
+  "id": 874304351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531086,41.871815,-71.531086,41.871815",
+    "geom:latitude":41.871815,
+    "geom:longitude":-71.531086,
+    "iso:country":"US",
+    "sg:address":"10 Cedar Swamp Rd Ste 2",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1500",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MejSwtAybmfBS8fXC9cKy_41.871815_-71.531086@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315542,
+    "wof:geomhash":"88d76488f9e55f2aba0f64e15ed7e71e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874304351
+        }
+    ],
+    "wof:id":874304351,
+    "wof:lastmodified":1464315542,
+    "wof:name":"Alphapets",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -71.531086,
+    41.871815,
+    -71.531086,
+    41.871815
+],
+  "geometry": {"coordinates":[-71.531086,41.871815],"type":"Point"}
+}

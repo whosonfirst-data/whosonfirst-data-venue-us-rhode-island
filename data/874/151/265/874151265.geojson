@@ -1,0 +1,71 @@
+{
+  "id": 874151265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264018,41.665887,-71.264018,41.665887",
+    "geom:latitude":41.665887,
+    "geom:longitude":-71.264018,
+    "iso:country":"US",
+    "sg:address":"53 Fox Hill Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 255 9856",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mwoIwOH2OddYD5tLJhvTg_41.665887_-71.264018@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312340,
+    "wof:geomhash":"f5f9d4ca84801b99934fdd5bd6f3ba03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874151265
+        }
+    ],
+    "wof:id":874151265,
+    "wof:lastmodified":1464312340,
+    "wof:name":"Artistic Concrete",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.264018,
+    41.665887,
+    -71.264018,
+    41.665887
+],
+  "geometry": {"coordinates":[-71.26401799999999,41.665887],"type":"Point"}
+}

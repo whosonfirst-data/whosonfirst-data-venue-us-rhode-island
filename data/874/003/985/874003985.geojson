@@ -1,0 +1,69 @@
+{
+  "id": 874003985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496834,41.596912,-71.496834,41.596912",
+    "geom:latitude":41.596912,
+    "geom:longitude":-71.496834,
+    "iso:country":"US",
+    "sg:address":"3637 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 9777",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msGyFdGau6YeHuGt9jvry_41.596912_-71.496834@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310803,
+    "wof:geomhash":"7726c4c0e5420fab6902bbadeeb5748a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874003985
+        }
+    ],
+    "wof:id":874003985,
+    "wof:lastmodified":1464310803,
+    "wof:name":"Deborah L Harris DVM",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.496834,
+    41.596912,
+    -71.496834,
+    41.596912
+],
+  "geometry": {"coordinates":[-71.49683400000001,41.596912],"type":"Point"}
+}

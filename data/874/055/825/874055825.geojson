@@ -1,0 +1,79 @@
+{
+  "id": 874055825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451717,41.467954,-71.451717,41.467954",
+    "geom:latitude":41.467954,
+    "geom:longitude":-71.451717,
+    "iso:country":"US",
+    "sg:address":"47 Edwards Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7918",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49cYDAPta0s74zU33hJO3O_41.467954_-71.451717@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"35f86b2349d505566289ade56ee0da4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874055825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874055825
+        }
+    ],
+    "wof:id":874055825,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Poverty Puddle",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.451717,
+    41.467954,
+    -71.451717,
+    41.467954
+],
+  "geometry": {"coordinates":[-71.451717,41.467954],"type":"Point"}
+}

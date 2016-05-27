@@ -1,0 +1,71 @@
+{
+  "id": 874084017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536083,41.564807,-71.536083,41.564807",
+    "geom:latitude":41.564807,
+    "geom:longitude":-71.536083,
+    "iso:country":"US",
+    "sg:address":"278 South Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3527",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bBXc7sxTQ7Ey26SOagZKX_41.564807_-71.536083@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311599,
+    "wof:geomhash":"8267c0aefc66c7ce673288f193a526d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874084017
+        }
+    ],
+    "wof:id":874084017,
+    "wof:lastmodified":1464311599,
+    "wof:name":"John's Auto Repair",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.536083,
+    41.564807,
+    -71.536083,
+    41.564807
+],
+  "geometry": {"coordinates":[-71.536083,41.564807],"type":"Point"}
+}

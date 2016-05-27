@@ -1,0 +1,69 @@
+{
+  "id": 874213261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505393,41.874333,-71.505393,41.874333",
+    "geom:latitude":41.874333,
+    "geom:longitude":-71.505393,
+    "iso:country":"US",
+    "sg:address":"136 Old County Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5070",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jKT8SnFxhDSaLxwBijjN3_41.874333_-71.505393@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"5e84112752117b7154ec25d370216e64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874213261
+        }
+    ],
+    "wof:id":874213261,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Regis Manufacturing Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.505393,
+    41.874333,
+    -71.505393,
+    41.874333
+],
+  "geometry": {"coordinates":[-71.505393,41.874333],"type":"Point"}
+}

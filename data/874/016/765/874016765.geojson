@@ -1,0 +1,71 @@
+{
+  "id": 874016765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.684534,42.003857,-71.684534,42.003857",
+    "geom:latitude":42.003857,
+    "geom:longitude":-71.684534,
+    "iso:country":"US",
+    "sg:address":"130 Brook Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 2288",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UCrng7TCUp1GVMxnGoBH8_42.003857_-71.684534@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310905,
+    "wof:geomhash":"9b0cf4ad85eaa684bd872fffced14573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874016765
+        }
+    ],
+    "wof:id":874016765,
+    "wof:lastmodified":1464310905,
+    "wof:name":"Domenic Vacca",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.684534,
+    42.003857,
+    -71.684534,
+    42.003857
+],
+  "geometry": {"coordinates":[-71.684534,42.003857],"type":"Point"}
+}

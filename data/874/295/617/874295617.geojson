@@ -1,0 +1,83 @@
+{
+  "id": 874295617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405891,41.810322,-71.405891,41.810322",
+    "geom:latitude":41.810322,
+    "geom:longitude":-71.405891,
+    "iso:country":"US",
+    "sg:address":"1 Blackstone Pl Ste 3",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 7520",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gynecology",
+        "physician",
+        "surgeon",
+        "surgeons",
+        "obstetrics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vlmNt5oz4lA3rtu91vD4J_41.810322_-71.405891@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315215,
+    "wof:geomhash":"31ceb915437fedc4dd6d010c0d013633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874295617
+        }
+    ],
+    "wof:id":874295617,
+    "wof:lastmodified":1464315215,
+    "wof:name":"Womens Oncology",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gynecology",
+        "physician",
+        "surgeon",
+        "surgeons",
+        "obstetrics"
+    ]
+},
+  "bbox": [
+    -71.405891,
+    41.810322,
+    -71.405891,
+    41.810322
+],
+  "geometry": {"coordinates":[-71.405891,41.810322],"type":"Point"}
+}

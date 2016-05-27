@@ -1,0 +1,87 @@
+{
+  "id": 873979745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403633,41.792088,-71.403633,41.792088",
+    "geom:latitude":41.792088,
+    "geom:longitude":-71.403633,
+    "iso:country":"US",
+    "sg:address":"1200 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 7000",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "costume"
+    ],
+    "sg:website":"www.diversifiedproducts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G4HbPE0ELdzGdfm1778DH_41.792088_-71.403633@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310579,
+    "wof:geomhash":"183a5c7b1dc8ed2797ac0df554c1ce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":873979745
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":873979745
+        }
+    ],
+    "wof:id":873979745,
+    "wof:lastmodified":1464310579,
+    "wof:name":"Diversified Products Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "costume"
+    ]
+},
+  "bbox": [
+    -71.403633,
+    41.792088,
+    -71.403633,
+    41.792088
+],
+  "geometry": {"coordinates":[-71.403633,41.792088],"type":"Point"}
+}

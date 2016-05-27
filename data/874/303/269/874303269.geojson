@@ -1,0 +1,69 @@
+{
+  "id": 874303269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458801,41.8489,-71.458801,41.8489",
+    "geom:latitude":41.8489,
+    "geom:longitude":-71.458801,
+    "iso:country":"US",
+    "sg:address":"1381 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2400",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yU9dyfrxpturBzl6E2sBA_41.848900_-71.458801@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315504,
+    "wof:geomhash":"57f02d751401517ef0b344798a6586a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303269
+        }
+    ],
+    "wof:id":874303269,
+    "wof:lastmodified":1464315504,
+    "wof:name":"MacEroni B & Sons Funeral Home",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.458801,
+    41.8489,
+    -71.458801,
+    41.8489
+],
+  "geometry": {"coordinates":[-71.45880099999999,41.8489],"type":"Point"}
+}

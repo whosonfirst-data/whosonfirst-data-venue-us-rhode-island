@@ -1,0 +1,71 @@
+{
+  "id": 874141051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.554512,41.519321,-71.554512,41.519321",
+    "geom:latitude":41.519321,
+    "geom:longitude":-71.554512,
+    "iso:country":"US",
+    "sg:address":"670 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 4747",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69AJH9pyAsrB7OqURV1TKW_41.519321_-71.554512@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"f078207315e7b7f9539e8ea30f90cff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874141051
+        }
+    ],
+    "wof:id":874141051,
+    "wof:lastmodified":1464312244,
+    "wof:name":"R Smith Oil",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.554512,
+    41.519321,
+    -71.554512,
+    41.519321
+],
+  "geometry": {"coordinates":[-71.554512,41.519321],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874269839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.295524,41.729507,-71.295524,41.729507",
+    "geom:latitude":41.729507,
+    "geom:longitude":-71.295524,
+    "iso:country":"US",
+    "sg:address":"6 Honeysuckle Ct",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9844",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kDJqEZ77Pp2upPR4I8Cl0_41.729507_-71.295524@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314221,
+    "wof:geomhash":"a960495f3271678feb80921dda6e3bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874269839
+        }
+    ],
+    "wof:id":874269839,
+    "wof:lastmodified":1464314221,
+    "wof:name":"Technology Engineering Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.295524,
+    41.729507,
+    -71.295524,
+    41.729507
+],
+  "geometry": {"coordinates":[-71.295524,41.729507],"type":"Point"}
+}

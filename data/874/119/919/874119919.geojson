@@ -1,0 +1,71 @@
+{
+  "id": 874119919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534764,41.544897,-71.534764,41.544897",
+    "geom:latitude":41.544897,
+    "geom:longitude":-71.534764,
+    "iso:country":"US",
+    "sg:address":"301 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 268 3088",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "affairs",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ErWxSKvlG62MDBREdsUc3_41.544897_-71.534764@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312035,
+    "wof:geomhash":"006186d51d8f37f7575f34a9dd63acf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874119919
+        }
+    ],
+    "wof:id":874119919,
+    "wof:lastmodified":1464312035,
+    "wof:name":"Veterans Cemetery",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "affairs",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -71.534764,
+    41.544897,
+    -71.534764,
+    41.544897
+],
+  "geometry": {"coordinates":[-71.534764,41.544897],"type":"Point"}
+}

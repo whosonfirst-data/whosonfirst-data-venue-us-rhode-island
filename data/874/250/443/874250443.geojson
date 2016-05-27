@@ -1,0 +1,75 @@
+{
+  "id": 874250443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444358,41.731669,-71.444358,41.731669",
+    "geom:latitude":41.731669,
+    "geom:longitude":-71.444358,
+    "iso:country":"US",
+    "sg:address":"20 Cottage St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 1224",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EvSnHijPm4V351hJHHJkD_41.731669_-71.444358@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313576,
+    "wof:geomhash":"07ddea69116dbab43d72ab9b68064e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874250443
+        }
+    ],
+    "wof:id":874250443,
+    "wof:lastmodified":1464313576,
+    "wof:name":"Medcare Ambulance",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -71.444358,
+    41.731669,
+    -71.444358,
+    41.731669
+],
+  "geometry": {"coordinates":[-71.44435799999999,41.731669],"type":"Point"}
+}

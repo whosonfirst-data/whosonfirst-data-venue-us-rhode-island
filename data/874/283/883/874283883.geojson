@@ -1,0 +1,81 @@
+{
+  "id": 874283883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.364071,41.819534,-71.364071,41.819534",
+    "geom:latitude":41.819534,
+    "geom:longitude":-71.364071,
+    "iso:country":"US",
+    "sg:address":"55 Hall St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 6151",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9pluV3VpD3HQpPqaoVVC_41.819843_-71.363716@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314769,
+    "wof:geomhash":"a8b561928bdfc2491615d741f19b8588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874283883
+        }
+    ],
+    "wof:id":874283883,
+    "wof:lastmodified":1464314769,
+    "wof:name":"Lew's Auto Body & Sales Inc",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.364071,
+    41.819534,
+    -71.364071,
+    41.819534
+],
+  "geometry": {"coordinates":[-71.364071,41.819534],"type":"Point"}
+}

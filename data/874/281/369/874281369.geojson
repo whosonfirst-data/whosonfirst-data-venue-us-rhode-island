@@ -1,0 +1,88 @@
+{
+  "id": 874281369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448825,41.778765,-71.448825,41.778765",
+    "geom:latitude":41.778765,
+    "geom:longitude":-71.448825,
+    "iso:country":"US",
+    "sg:address":"47 Ausdale Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 9341",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rQI75uNhu29UIXsY8R0a9_41.778765_-71.448825@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314686,
+    "wof:geomhash":"ac5c3875ad16e73b6ce9047d6f6c85b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874281369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874281369
+        }
+    ],
+    "wof:id":874281369,
+    "wof:lastmodified":1464314686,
+    "wof:name":"Goldstein Video Production",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.448825,
+    41.778765,
+    -71.448825,
+    41.778765
+],
+  "geometry": {"coordinates":[-71.448825,41.778765],"type":"Point"}
+}

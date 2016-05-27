@@ -1,0 +1,69 @@
+{
+  "id": 874137811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278448,41.675805,-71.278448,41.675805",
+    "geom:latitude":41.675805,
+    "geom:longitude":-71.278448,
+    "iso:country":"US",
+    "sg:address":"756 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 8067",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iSYdIiFxWb9ZSJ8V2ZrBb_41.675805_-71.278448@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312215,
+    "wof:geomhash":"4bb0e1f49184986b6caa544e5fbf66c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874137811
+        }
+    ],
+    "wof:id":874137811,
+    "wof:lastmodified":1464312215,
+    "wof:name":"Berretto's Service Stations",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.278448,
+    41.675805,
+    -71.278448,
+    41.675805
+],
+  "geometry": {"coordinates":[-71.278448,41.675805],"type":"Point"}
+}

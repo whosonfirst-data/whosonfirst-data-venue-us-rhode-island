@@ -1,0 +1,72 @@
+{
+  "id": 874287275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520714,41.71003,-71.520714,41.71003",
+    "geom:latitude":41.71003,
+    "geom:longitude":-71.520714,
+    "iso:country":"US",
+    "sg:address":"52 Providence St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/58364-house-of-wu/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 7720",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85844759,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UDpj9q6wLmZl7n5s4BUX5_41.710030_-71.520714@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314899,
+    "wof:geomhash":"15e0d3b0b49f940bf3ce1fcaa9abebea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874287275
+        }
+    ],
+    "wof:id":874287275,
+    "wof:lastmodified":1464314899,
+    "wof:name":"House Of Wu",
+    "wof:parent_id":85844759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.520714,
+    41.71003,
+    -71.520714,
+    41.71003
+],
+  "geometry": {"coordinates":[-71.520714,41.71003],"type":"Point"}
+}

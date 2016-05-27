@@ -1,0 +1,69 @@
+{
+  "id": 874251255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299895,41.737992,-71.299895,41.737992",
+    "geom:latitude":41.737992,
+    "geom:longitude":-71.299895,
+    "iso:country":"US",
+    "sg:address":"17 Surrey Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2282",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mOU1iN5APpFWN5ha32cxm_41.737992_-71.299895@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313590,
+    "wof:geomhash":"db9b0c13426b2ec5f5addbfbdc6508d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874251255
+        }
+    ],
+    "wof:id":874251255,
+    "wof:lastmodified":1464313590,
+    "wof:name":"Btech Acoustics LLC",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.299895,
+    41.737992,
+    -71.299895,
+    41.737992
+],
+  "geometry": {"coordinates":[-71.29989500000001,41.737992],"type":"Point"}
+}

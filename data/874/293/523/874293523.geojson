@@ -1,0 +1,84 @@
+{
+  "id": 874293523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3673,41.709345,-71.3673,41.709345",
+    "geom:latitude":41.709345,
+    "geom:longitude":-71.3673,
+    "iso:country":"US",
+    "sg:address":"39 Whipple Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 5164",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "windows-wholesale",
+        "window",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844795,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YlUJ30DkK8763Z27kQZbo_41.709345_-71.367300@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315141,
+    "wof:geomhash":"8e6422b7de776a65a1ab0a2d64ae27d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85844795,
+            "region_id":85688509,
+            "venue_id":874293523
+        }
+    ],
+    "wof:id":874293523,
+    "wof:lastmodified":1464315141,
+    "wof:name":"New England Window & Door, Inc.",
+    "wof:parent_id":85844795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows-wholesale",
+        "window",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.3673,
+    41.709345,
+    -71.3673,
+    41.709345
+],
+  "geometry": {"coordinates":[-71.3673,41.709345],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874119801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470803,41.823888,-71.470803,41.823888",
+    "geom:latitude":41.823888,
+    "geom:longitude":-71.470803,
+    "iso:country":"US",
+    "sg:address":"15 Maria Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 8177",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zWUsYpP72O400NmWMEZG4_41.823888_-71.470803@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312034,
+    "wof:geomhash":"6a40354d9f7509e22a9be37ebb91289c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874119801
+        }
+    ],
+    "wof:id":874119801,
+    "wof:lastmodified":1464312034,
+    "wof:name":"A C Decesare Painting Company",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.470803,
+    41.823888,
+    -71.470803,
+    41.823888
+],
+  "geometry": {"coordinates":[-71.470803,41.823888],"type":"Point"}
+}

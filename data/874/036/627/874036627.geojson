@@ -1,0 +1,71 @@
+{
+  "id": 874036627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520282,41.686073,-71.520282,41.686073",
+    "geom:latitude":41.686073,
+    "geom:longitude":-71.520282,
+    "iso:country":"US",
+    "sg:address":"36 School St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 2830",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hidc5K0grcoQWemC2pRhe_41.686073_-71.520282@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311113,
+    "wof:geomhash":"b751bf411df83060c293a81cfc682e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874036627
+        }
+    ],
+    "wof:id":874036627,
+    "wof:lastmodified":1464311113,
+    "wof:name":"Selby Landscaping Inc",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.520282,
+    41.686073,
+    -71.520282,
+    41.686073
+],
+  "geometry": {"coordinates":[-71.52028199999999,41.686073],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874233257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448784,41.864264,-71.448784,41.864264",
+    "geom:latitude":41.864264,
+    "geom:longitude":-71.448784,
+    "iso:country":"US",
+    "sg:address":"1620 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0101",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parts",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tD5iSJiRhyQeRnts63HfB_41.864264_-71.448784@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313204,
+    "wof:geomhash":"631dea18f9ebb817a9221dbb8c1ebf11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874233257
+        }
+    ],
+    "wof:id":874233257,
+    "wof:lastmodified":1464313204,
+    "wof:name":"Autozone",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -71.448784,
+    41.864264,
+    -71.448784,
+    41.864264
+],
+  "geometry": {"coordinates":[-71.448784,41.864264],"type":"Point"}
+}

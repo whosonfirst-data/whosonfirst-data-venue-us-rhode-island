@@ -1,0 +1,71 @@
+{
+  "id": 874241583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27583,41.666979,-71.27583,41.666979",
+    "geom:latitude":41.666979,
+    "geom:longitude":-71.27583,
+    "iso:country":"US",
+    "sg:address":"11 Constitution St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1188",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jAPr9JUSeVWZZOQsmMunx_41.666979_-71.275830@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313369,
+    "wof:geomhash":"6cae7d55e0cf669534b4102835495bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874241583
+        }
+    ],
+    "wof:id":874241583,
+    "wof:lastmodified":1464313369,
+    "wof:name":"Bead House",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.27583,
+    41.666979,
+    -71.27583,
+    41.666979
+],
+  "geometry": {"coordinates":[-71.27583,41.666979],"type":"Point"}
+}

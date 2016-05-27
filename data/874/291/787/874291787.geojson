@@ -1,0 +1,76 @@
+{
+  "id": 874291787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417801,41.9263,-71.417801,41.9263",
+    "geom:latitude":41.9263,
+    "geom:longitude":-71.417801,
+    "iso:country":"US",
+    "sg:address":"1 Bill St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 1988",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpeting",
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSu9XlxkCeXaJUYv2WjGR_41.926300_-71.417801@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315082,
+    "wof:geomhash":"6f3368483640e3e5f248258ee08bb9f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291787
+        }
+    ],
+    "wof:id":874291787,
+    "wof:lastmodified":1464315082,
+    "wof:name":"Building 19",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpeting",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -71.417801,
+    41.9263,
+    -71.417801,
+    41.9263
+],
+  "geometry": {"coordinates":[-71.417801,41.9263],"type":"Point"}
+}

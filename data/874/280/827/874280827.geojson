@@ -1,0 +1,75 @@
+{
+  "id": 874280827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450879,41.830393,-71.450879,41.830393",
+    "geom:latitude":41.830393,
+    "geom:longitude":-71.450879,
+    "iso:country":"US",
+    "sg:address":"145 Beaufort St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 1150",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540501,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C0TJOYxyaO0f1EAPDHSkg_41.830393_-71.450879@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314656,
+    "wof:geomhash":"fb8d185a4220661d68b589a0e02b0afa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540501,
+            "region_id":85688509,
+            "venue_id":874280827
+        }
+    ],
+    "wof:id":874280827,
+    "wof:lastmodified":1464314656,
+    "wof:name":"Providence City Office",
+    "wof:parent_id":420540501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.450879,
+    41.830393,
+    -71.450879,
+    41.830393
+],
+  "geometry": {"coordinates":[-71.450879,41.830393],"type":"Point"}
+}

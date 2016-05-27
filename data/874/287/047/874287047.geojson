@@ -1,0 +1,84 @@
+{
+  "id": 874287047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495299,41.701445,-71.495299,41.701445",
+    "geom:latitude":41.701445,
+    "geom:longitude":-71.495299,
+    "iso:country":"US",
+    "sg:address":"1350 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/11989-carrabbas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 8880",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209,
+        85856797,
+        102191575,
+        404488313,
+        101720577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EX7LFmHUZRZ0J0cOzg4gK_41.701445_-71.495299@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314892,
+    "wof:geomhash":"66548fc6d057d3fe74d88ae70e136c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874287047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287047
+        }
+    ],
+    "wof:id":874287047,
+    "wof:lastmodified":1464314892,
+    "wof:name":"Carrabba's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.495299,
+    41.701445,
+    -71.495299,
+    41.701445
+],
+  "geometry": {"coordinates":[-71.495299,41.701445],"type":"Point"}
+}

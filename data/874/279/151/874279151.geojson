@@ -1,0 +1,71 @@
+{
+  "id": 874279151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53184,41.488413,-71.53184,41.488413",
+    "geom:latitude":41.488413,
+    "geom:longitude":-71.53184,
+    "iso:country":"US",
+    "sg:address":"2 Heathman Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 5303",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hqgj9wUf81LtNVh8tWGtp_41.488413_-71.531840@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314577,
+    "wof:geomhash":"5d65d272b20c4a5f113a55f7942a822c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874279151
+        }
+    ],
+    "wof:id":874279151,
+    "wof:lastmodified":1464314577,
+    "wof:name":"College of Nursing",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -71.53184,
+    41.488413,
+    -71.53184,
+    41.488413
+],
+  "geometry": {"coordinates":[-71.53184,41.488413],"type":"Point"}
+}

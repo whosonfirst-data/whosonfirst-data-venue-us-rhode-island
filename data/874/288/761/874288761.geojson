@@ -1,0 +1,65 @@
+{
+  "id": 874288761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.625525,41.388474,-71.625525,41.388474",
+    "geom:latitude":41.388474,
+    "geom:longitude":-71.625525,
+    "iso:country":"US",
+    "sg:address":"3983 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0035",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kcOYhdJOPEz9Uz2rrLCsj_41.388474_-71.625525@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314968,
+    "wof:geomhash":"305a092594abb1ec5a45f29874eb8323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288761
+        }
+    ],
+    "wof:id":874288761,
+    "wof:lastmodified":1464314968,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.625525,
+    41.388474,
+    -71.625525,
+    41.388474
+],
+  "geometry": {"coordinates":[-71.625525,41.388474],"type":"Point"}
+}

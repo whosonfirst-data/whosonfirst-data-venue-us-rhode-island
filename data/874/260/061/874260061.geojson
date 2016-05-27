@@ -1,0 +1,77 @@
+{
+  "id": 874260061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312881,41.482766,-71.312881,41.482766",
+    "geom:latitude":41.482766,
+    "geom:longitude":-71.312881,
+    "iso:country":"US",
+    "sg:address":"309 Spring St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 3204",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OFWD7BQyse2JypweR1jjG_41.482766_-71.312881@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313860,
+    "wof:geomhash":"10bfd4b4450e69e94eec3b3837e76182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874260061
+        }
+    ],
+    "wof:id":874260061,
+    "wof:lastmodified":1464313860,
+    "wof:name":"St Claire Convent",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.312881,
+    41.482766,
+    -71.312881,
+    41.482766
+],
+  "geometry": {"coordinates":[-71.312881,41.482766],"type":"Point"}
+}

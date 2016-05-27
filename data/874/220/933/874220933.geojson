@@ -1,0 +1,79 @@
+{
+  "id": 874220933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443939,41.569148,-71.443939,41.569148",
+    "geom:latitude":41.569148,
+    "geom:longitude":-71.443939,
+    "iso:country":"US",
+    "sg:address":"1 Wright Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9022",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SCMQTJ5IuVgDdK47bFBl9_41.569148_-71.443939@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313074,
+    "wof:geomhash":"5d014bc9ed1a7daeffed5a5e70613a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874220933
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874220933
+        }
+    ],
+    "wof:id":874220933,
+    "wof:lastmodified":1464313074,
+    "wof:name":"Sisters Of The Cross & Passion",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.443939,
+    41.569148,
+    -71.443939,
+    41.569148
+],
+  "geometry": {"coordinates":[-71.443939,41.569148],"type":"Point"}
+}

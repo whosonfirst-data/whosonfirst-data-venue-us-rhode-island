@@ -1,0 +1,75 @@
+{
+  "id": 874152161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363485,41.797991,-71.363485,41.797991",
+    "geom:latitude":41.797991,
+    "geom:longitude":-71.363485,
+    "iso:country":"US",
+    "sg:address":"2830 Pawtucket Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 6980",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540535,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PcAw7ka0MyjizvFcmjKbC_41.797991_-71.363485@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312348,
+    "wof:geomhash":"82e5366beb3d56798213233552d7059b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540535,
+            "region_id":85688509,
+            "venue_id":874152161
+        }
+    ],
+    "wof:id":874152161,
+    "wof:lastmodified":1464312348,
+    "wof:name":"Athens Pizza Restaurant",
+    "wof:parent_id":420540535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.363485,
+    41.797991,
+    -71.363485,
+    41.797991
+],
+  "geometry": {"coordinates":[-71.363485,41.797991],"type":"Point"}
+}

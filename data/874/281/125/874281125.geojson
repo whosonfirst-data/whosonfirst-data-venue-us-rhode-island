@@ -1,0 +1,71 @@
+{
+  "id": 874281125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551474,41.685039,-71.551474,41.685039",
+    "geom:latitude":41.685039,
+    "geom:longitude":-71.551474,
+    "iso:country":"US",
+    "sg:address":"465 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 0334",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dmZKlYITb9CFLyiqCTQmo_41.685039_-71.551474@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314672,
+    "wof:geomhash":"65fb3f314987442d2c26e30ffd52454d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874281125
+        }
+    ],
+    "wof:id":874281125,
+    "wof:lastmodified":1464314672,
+    "wof:name":"Del's Lemonade",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "out"
+    ]
+},
+  "bbox": [
+    -71.551474,
+    41.685039,
+    -71.551474,
+    41.685039
+],
+  "geometry": {"coordinates":[-71.551474,41.685039],"type":"Point"}
+}

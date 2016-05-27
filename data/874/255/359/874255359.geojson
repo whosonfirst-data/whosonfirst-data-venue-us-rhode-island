@@ -1,0 +1,79 @@
+{
+  "id": 874255359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465251,41.433305,-71.465251,41.433305",
+    "geom:latitude":41.433305,
+    "geom:longitude":-71.465251,
+    "iso:country":"US",
+    "sg:address":"118 Narragansett Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 6322",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eVeYR25g7KOxAgUNoOPkU_41.433305_-71.465251@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313683,
+    "wof:geomhash":"802c1cd99c451162be51b7ecbdc777ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874255359
+        }
+    ],
+    "wof:id":874255359,
+    "wof:lastmodified":1464313683,
+    "wof:name":"Taylor's Garage",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.465251,
+    41.433305,
+    -71.465251,
+    41.433305
+],
+  "geometry": {"coordinates":[-71.46525099999999,41.433305],"type":"Point"}
+}

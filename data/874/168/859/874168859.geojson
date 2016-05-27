@@ -1,0 +1,71 @@
+{
+  "id": 874168859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465158,41.821549,-71.465158,41.821549",
+    "geom:latitude":41.821549,
+    "geom:longitude":-71.465158,
+    "iso:country":"US",
+    "sg:address":"200 King Philip St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 1310",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vixxJhW9BoJAQeu2rURuX_41.821549_-71.465158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312516,
+    "wof:geomhash":"03b6a30acd1eb2bfd2495a94bc035cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874168859
+        }
+    ],
+    "wof:id":874168859,
+    "wof:lastmodified":1464312516,
+    "wof:name":"Rooter-Man",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.465158,
+    41.821549,
+    -71.465158,
+    41.821549
+],
+  "geometry": {"coordinates":[-71.465158,41.821549],"type":"Point"}
+}

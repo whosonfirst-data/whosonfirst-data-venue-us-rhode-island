@@ -1,0 +1,71 @@
+{
+  "id": 874015503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.634636,41.381023,-71.634636,41.381023",
+    "geom:latitude":41.381023,
+    "geom:longitude":-71.634636,
+    "iso:country":"US",
+    "sg:address":"1 Maritime Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2160",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59tj6llnW62OTmE2tK5cBD_41.381023_-71.634636@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310895,
+    "wof:geomhash":"56642d17eb47beefc7f9e654c5250085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874015503
+        }
+    ],
+    "wof:id":874015503,
+    "wof:lastmodified":1464310895,
+    "wof:name":"Cruising Direct Sails",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.634636,
+    41.381023,
+    -71.634636,
+    41.381023
+],
+  "geometry": {"coordinates":[-71.634636,41.381023],"type":"Point"}
+}

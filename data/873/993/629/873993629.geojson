@@ -1,0 +1,79 @@
+{
+  "id": 873993629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.785799,41.340786,-71.785799,41.340786",
+    "geom:latitude":41.340786,
+    "geom:longitude":-71.785799,
+    "iso:country":"US",
+    "sg:address":"25 Rock Ridge Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 348 5858",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829765,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CvQuvHZFyFzKS6co672jF_41.340786_-71.785799@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310716,
+    "wof:geomhash":"60babea486b362de365d606965534042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":85829765,
+            "region_id":85688509,
+            "venue_id":873993629
+        }
+    ],
+    "wof:id":873993629,
+    "wof:lastmodified":1464310716,
+    "wof:name":"Ocean State Carpet Cleaning",
+    "wof:parent_id":85829765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.785799,
+    41.340786,
+    -71.785799,
+    41.340786
+],
+  "geometry": {"coordinates":[-71.785799,41.340786],"type":"Point"}
+}

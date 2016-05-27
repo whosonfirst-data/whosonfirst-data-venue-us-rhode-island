@@ -1,0 +1,71 @@
+{
+  "id": 874218531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535031,41.86847,-71.535031,41.86847",
+    "geom:latitude":41.86847,
+    "geom:longitude":-71.535031,
+    "iso:country":"US",
+    "sg:address":"29 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5300",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QowIhmGaKkTPjxYItdnQe_41.868470_-71.535031@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313037,
+    "wof:geomhash":"581532d203c1cd6ee8e629fe52742885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874218531
+        }
+    ],
+    "wof:id":874218531,
+    "wof:lastmodified":1464313037,
+    "wof:name":"Hart Design Group Ltd",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.535031,
+    41.86847,
+    -71.535031,
+    41.86847
+],
+  "geometry": {"coordinates":[-71.535031,41.86847],"type":"Point"}
+}

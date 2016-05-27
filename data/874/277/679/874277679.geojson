@@ -1,0 +1,71 @@
+{
+  "id": 874277679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29338,41.532595,-71.29338,41.532595",
+    "geom:latitude":41.532595,
+    "geom:longitude":-71.29338,
+    "iso:country":"US",
+    "sg:address":"1372 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 5080",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Yoy6luK6JegfVDS3EjCy_41.532595_-71.293380@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314528,
+    "wof:geomhash":"7e6334a96baaf19c7c58ca75d88f0263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874277679
+        }
+    ],
+    "wof:id":874277679,
+    "wof:lastmodified":1464314528,
+    "wof:name":"Only A Dollar",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.29338,
+    41.532595,
+    -71.29338,
+    41.532595
+],
+  "geometry": {"coordinates":[-71.29338,41.532595],"type":"Point"}
+}

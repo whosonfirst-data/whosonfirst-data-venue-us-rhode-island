@@ -1,0 +1,75 @@
+{
+  "id": 874278791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.210884,41.638556,-71.210884,41.638556",
+    "geom:latitude":41.638556,
+    "geom:longitude":-71.210884,
+    "iso:country":"US",
+    "sg:address":"211 Riverside Dr",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5181",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tackle",
+        "bait",
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vQYs3elshLA7bcptJHNzl_41.638556_-71.210884@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314566,
+    "wof:geomhash":"c18cf19b2f86b611a3f05b6e0fe2f794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874278791
+        }
+    ],
+    "wof:id":874278791,
+    "wof:lastmodified":1464314566,
+    "wof:name":"Riverside Marine",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tackle",
+        "bait",
+        "marine",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.210884,
+    41.638556,
+    -71.210884,
+    41.638556
+],
+  "geometry": {"coordinates":[-71.21088399999999,41.638556],"type":"Point"}
+}

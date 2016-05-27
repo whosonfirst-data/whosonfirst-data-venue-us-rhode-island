@@ -1,0 +1,70 @@
+{
+  "id": 874301315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389973,41.829563,-71.389973,41.829563",
+    "geom:latitude":41.829563,
+    "geom:longitude":-71.389973,
+    "iso:country":"US",
+    "sg:address":"441 Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 7777",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nO9se4kl495ba6npi0dyH_41.829563_-71.389973@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315441,
+    "wof:geomhash":"f2c8bdfb8a4673ff6d460a5e9080b803",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874301315
+        }
+    ],
+    "wof:id":874301315,
+    "wof:lastmodified":1464315441,
+    "wof:name":"Geo Properties",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.389973,
+    41.829563,
+    -71.389973,
+    41.829563
+],
+  "geometry": {"coordinates":[-71.389973,41.829563],"type":"Point"}
+}

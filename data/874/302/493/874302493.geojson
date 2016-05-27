@@ -1,0 +1,70 @@
+{
+  "id": 874302493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420403,41.833,-71.420403,41.833",
+    "geom:latitude":41.833,
+    "geom:longitude":-71.420403,
+    "iso:country":"US",
+    "sg:address":"251 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 9773",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LQZhY83i3FbcupBTx2Ipu_41.833000_-71.420403@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315480,
+    "wof:geomhash":"7417e4228df1ec44dfcac6d802d118c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874302493
+        }
+    ],
+    "wof:id":874302493,
+    "wof:lastmodified":1464315480,
+    "wof:name":"Dan's Donut Shop",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.420403,
+    41.833,
+    -71.420403,
+    41.833
+],
+  "geometry": {"coordinates":[-71.42040299999999,41.833],"type":"Point"}
+}

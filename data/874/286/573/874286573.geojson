@@ -1,0 +1,69 @@
+{
+  "id": 874286573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.6166,41.389702,-71.6166,41.389702",
+    "geom:latitude":41.389702,
+    "geom:longitude":-71.6166,
+    "iso:country":"US",
+    "sg:address":"8 Ridgewood Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9607",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YdrjaQ2IgtngfjT5GQ2mz_41.389765_-71.616309@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314876,
+    "wof:geomhash":"3b5bf370bdc4b96d164c34b7b519241f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874286573
+        }
+    ],
+    "wof:id":874286573,
+    "wof:lastmodified":1464314876,
+    "wof:name":"Andross Hardware & Coal",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.6166,
+    41.389702,
+    -71.6166,
+    41.389702
+],
+  "geometry": {"coordinates":[-71.61660000000001,41.389702],"type":"Point"}
+}

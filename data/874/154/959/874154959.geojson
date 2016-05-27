@@ -1,0 +1,69 @@
+{
+  "id": 874154959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473759,41.395887,-71.473759,41.395887",
+    "geom:latitude":41.395887,
+    "geom:longitude":-71.473759,
+    "iso:country":"US",
+    "sg:address":"45 Hope Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1101",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dZDrzYYxhc7IWNStdCaO9_41.395887_-71.473759@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312376,
+    "wof:geomhash":"773ec541304aad1db1573900707c6ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874154959
+        }
+    ],
+    "wof:id":874154959,
+    "wof:lastmodified":1464312376,
+    "wof:name":"Joseph C Grimm Plumbing & Htg",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.473759,
+    41.395887,
+    -71.473759,
+    41.395887
+],
+  "geometry": {"coordinates":[-71.473759,41.395887],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874289351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390602,41.8577,-71.390602,41.8577",
+    "geom:latitude":41.8577,
+    "geom:longitude":-71.390602,
+    "iso:country":"US",
+    "sg:address":"729 East Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 1111",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VvsY1d32YqLscGKKaMco6_41.857700_-71.390602@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314990,
+    "wof:geomhash":"008a4b61753640d0e94b5078ce2f9211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874289351
+        }
+    ],
+    "wof:id":874289351,
+    "wof:lastmodified":1464314990,
+    "wof:name":"Swedish Motors",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.390602,
+    41.8577,
+    -71.390602,
+    41.8577
+],
+  "geometry": {"coordinates":[-71.390602,41.8577],"type":"Point"}
+}

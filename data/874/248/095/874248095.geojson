@@ -1,0 +1,81 @@
+{
+  "id": 874248095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.315108,41.481639,-71.315108,41.481639",
+    "geom:latitude":41.481639,
+    "geom:longitude":-71.315108,
+    "iso:country":"US",
+    "sg:address":"1 Lees Wharf",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 2293",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "marina",
+        "operation",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t00q8u4zoE5WS93I0ISP7_41.481639_-71.315108@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313497,
+    "wof:geomhash":"547574911a293b25ca6a47da45debf67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874248095
+        }
+    ],
+    "wof:id":874248095,
+    "wof:lastmodified":1464313497,
+    "wof:name":"Marina Newport Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "marina",
+        "operation",
+        "transport"
+    ]
+},
+  "bbox": [
+    -71.315108,
+    41.481639,
+    -71.315108,
+    41.481639
+],
+  "geometry": {"coordinates":[-71.315108,41.481639],"type":"Point"}
+}

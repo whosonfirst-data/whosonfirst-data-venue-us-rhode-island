@@ -1,0 +1,70 @@
+{
+  "id": 874299065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416397,41.8396,-71.416397,41.8396",
+    "geom:latitude":41.8396,
+    "geom:longitude":-71.416397,
+    "iso:country":"US",
+    "sg:address":"306 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 4527",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61zIY3ySKXdESzDtYBWyzB_41.839600_-71.416397@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315356,
+    "wof:geomhash":"75be2fb3c60fef3d758b333918128dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874299065
+        }
+    ],
+    "wof:id":874299065,
+    "wof:lastmodified":1464315356,
+    "wof:name":"Subway",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.416397,
+    41.8396,
+    -71.416397,
+    41.8396
+],
+  "geometry": {"coordinates":[-71.416397,41.8396],"type":"Point"}
+}

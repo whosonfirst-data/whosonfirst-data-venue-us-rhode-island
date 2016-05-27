@@ -1,0 +1,71 @@
+{
+  "id": 874254311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516031,41.377703,-71.516031,41.377703",
+    "geom:latitude":41.377703,
+    "geom:longitude":-71.516031,
+    "iso:country":"US",
+    "sg:address":"1231 Succotash Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2304",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "environmental",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F7NG3Xo0qEdSwOEhk0NTI_41.377703_-71.516031@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313653,
+    "wof:geomhash":"593014bb7de2425588265042e4bc03b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874254311
+        }
+    ],
+    "wof:id":874254311,
+    "wof:lastmodified":1464313653,
+    "wof:name":"Division of Fish and Wildlife",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.516031,
+    41.377703,
+    -71.516031,
+    41.377703
+],
+  "geometry": {"coordinates":[-71.516031,41.377703],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 874242539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49165,42.002154,-71.49165,42.002154",
+    "geom:latitude":42.002154,
+    "geom:longitude":-71.49165,
+    "iso:country":"US",
+    "sg:address":"132 Newland Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 3560",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burner",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28EnPLFZ6sxe4ykUjxMxF7_42.002154_-71.491650@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313386,
+    "wof:geomhash":"257ee3cc0753c0b6c03a0ec68d5db963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874242539
+        }
+    ],
+    "wof:id":874242539,
+    "wof:lastmodified":1464313386,
+    "wof:name":"J A Phaneuf Oil Service Inc",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burner",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.49165,
+    42.002154,
+    -71.49165,
+    42.002154
+],
+  "geometry": {"coordinates":[-71.49165000000001,42.002154],"type":"Point"}
+}

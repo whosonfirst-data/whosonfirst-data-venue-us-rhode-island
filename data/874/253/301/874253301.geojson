@@ -1,0 +1,73 @@
+{
+  "id": 874253301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441051,41.59497,-71.441051,41.59497",
+    "geom:latitude":41.59497,
+    "geom:longitude":-71.441051,
+    "iso:country":"US",
+    "sg:address":"180 Waterwheel Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1010",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bSL9fQTHSnSqwyGUEFwXI_41.594970_-71.441051@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313632,
+    "wof:geomhash":"e12e930405452683aee64f06820dde93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874253301
+        }
+    ],
+    "wof:id":874253301,
+    "wof:lastmodified":1464313632,
+    "wof:name":"Ashes To Ashes Chimney Clg",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.441051,
+    41.59497,
+    -71.441051,
+    41.59497
+],
+  "geometry": {"coordinates":[-71.441051,41.59497],"type":"Point"}
+}

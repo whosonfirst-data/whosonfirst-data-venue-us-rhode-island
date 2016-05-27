@@ -1,0 +1,90 @@
+{
+  "id": 873983179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447944,41.776314,-71.447944,41.776314",
+    "geom:latitude":41.776314,
+    "geom:longitude":-71.447944,
+    "iso:country":"US",
+    "sg:address":"925 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 4198",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "career",
+        "counseling",
+        "vocational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SciwuODkd2g3SsFgIFHME_41.776314_-71.447944@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310634,
+    "wof:geomhash":"b7fd4c1c7884b5247c90cc794e48c7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873983179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":873983179
+        }
+    ],
+    "wof:id":873983179,
+    "wof:lastmodified":1464310634,
+    "wof:name":"Career Tactics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "career",
+        "counseling",
+        "vocational"
+    ]
+},
+  "bbox": [
+    -71.447944,
+    41.776314,
+    -71.447944,
+    41.776314
+],
+  "geometry": {"coordinates":[-71.44794400000001,41.776314],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873999133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426099,41.506834,-71.426099,41.506834",
+    "geom:latitude":41.506834,
+    "geom:longitude":-71.426099,
+    "iso:country":"US",
+    "sg:address":"2325 Boston Neck Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1030",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Kah924uw88SCJEYZThW6_41.506834_-71.426099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310754,
+    "wof:geomhash":"feed864875af34c5c7a67692a1ca2a2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":873999133
+        }
+    ],
+    "wof:id":873999133,
+    "wof:lastmodified":1464310754,
+    "wof:name":"Caseys Farm",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.426099,
+    41.506834,
+    -71.426099,
+    41.506834
+],
+  "geometry": {"coordinates":[-71.42609899999999,41.506834],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874280397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.582714,41.429949,-71.582714,41.429949",
+    "geom:latitude":41.429949,
+    "geom:longitude":-71.582714,
+    "iso:country":"US",
+    "sg:address":"404 Wordens Pond Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1770",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369,
+        85852775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3B1uiDHYbcbfEnadIc1BxD_41.429949_-71.582714@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314629,
+    "wof:geomhash":"a3ec981e176e4f3588be88278f4ea2c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874280397
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85852775,
+            "region_id":85688509,
+            "venue_id":874280397
+        }
+    ],
+    "wof:id":874280397,
+    "wof:lastmodified":1464314629,
+    "wof:name":"Rotary Club Of Wakefield",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.582714,
+    41.429949,
+    -71.582714,
+    41.429949
+],
+  "geometry": {"coordinates":[-71.582714,41.429949],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874200827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.380536,41.552686,-71.380536,41.552686",
+    "geom:latitude":41.552686,
+    "geom:longitude":-71.380536,
+    "iso:country":"US",
+    "sg:address":"23 Skysail Ct",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 1051",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13d2KDVQQdMW1k2Ftfv0H0_41.552686_-71.380536@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312852,
+    "wof:geomhash":"74d42972102dd06ff18c136aed308e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874200827
+        }
+    ],
+    "wof:id":874200827,
+    "wof:lastmodified":1464312852,
+    "wof:name":"Woodside Marine Electric",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.380536,
+    41.552686,
+    -71.380536,
+    41.552686
+],
+  "geometry": {"coordinates":[-71.38053600000001,41.552686],"type":"Point"}
+}

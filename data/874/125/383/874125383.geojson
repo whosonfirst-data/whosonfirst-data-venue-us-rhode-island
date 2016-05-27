@@ -1,0 +1,71 @@
+{
+  "id": 874125383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.568454,41.686002,-71.568454,41.686002",
+    "geom:latitude":41.686002,
+    "geom:longitude":-71.568454,
+    "iso:country":"US",
+    "sg:address":"5 Beaton St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1316",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jLjbCWd2yS52NYXOP3T5D_41.686002_-71.568454@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312089,
+    "wof:geomhash":"e2844ed6acff186e531f75b246c28835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874125383
+        }
+    ],
+    "wof:id":874125383,
+    "wof:lastmodified":1464312089,
+    "wof:name":"Matrix Excavation Inc",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.568454,
+    41.686002,
+    -71.568454,
+    41.686002
+],
+  "geometry": {"coordinates":[-71.568454,41.686002],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 874268165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.373931,41.866405,-71.373931,41.866405",
+    "geom:latitude":41.866405,
+    "geom:longitude":-71.373931,
+    "iso:country":"US",
+    "sg:address":"10 Dunnell Ln",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 8902",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grill",
+        "used",
+        "automotive",
+        "automobile",
+        "guard",
+        "bumper"
+    ],
+    "sg:website":"www.jjbumpers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VHMf6pwzGHPBHgPYJbyHg_41.866405_-71.373931@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314155,
+    "wof:geomhash":"cb7df22681907a429625e71f3825bab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874268165
+        }
+    ],
+    "wof:id":874268165,
+    "wof:lastmodified":1464314155,
+    "wof:name":"J & J Bumpers",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "used",
+        "automotive",
+        "automobile",
+        "guard",
+        "bumper"
+    ]
+},
+  "bbox": [
+    -71.373931,
+    41.866405,
+    -71.373931,
+    41.866405
+],
+  "geometry": {"coordinates":[-71.373931,41.866405],"type":"Point"}
+}

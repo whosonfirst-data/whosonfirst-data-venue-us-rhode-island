@@ -1,0 +1,78 @@
+{
+  "id": 874278805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436519,41.807661,-71.436519,41.807661",
+    "geom:latitude":41.807661,
+    "geom:longitude":-71.436519,
+    "iso:country":"US",
+    "sg:address":"102 Linwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 8946",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.adventhouse.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KQZAi5XBa3yawzuNKaccT_41.807661_-71.436519@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314566,
+    "wof:geomhash":"05211c8ac48a6770354dadace53e7419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874278805
+        }
+    ],
+    "wof:id":874278805,
+    "wof:lastmodified":1464314566,
+    "wof:name":"Advent House Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.436519,
+    41.807661,
+    -71.436519,
+    41.807661
+],
+  "geometry": {"coordinates":[-71.436519,41.807661],"type":"Point"}
+}

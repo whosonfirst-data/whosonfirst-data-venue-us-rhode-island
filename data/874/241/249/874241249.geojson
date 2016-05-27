@@ -1,0 +1,71 @@
+{
+  "id": 874241249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461532,41.822116,-71.461532,41.822116",
+    "geom:latitude":41.822116,
+    "geom:longitude":-71.461532,
+    "iso:country":"US",
+    "sg:address":"96 Bowlet St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 0902",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Kgb9I23fK0GEe8VijsbRO_41.822116_-71.461532@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313363,
+    "wof:geomhash":"0145dca84186fa9725a24ae76f4bd75f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874241249
+        }
+    ],
+    "wof:id":874241249,
+    "wof:lastmodified":1464313363,
+    "wof:name":"Global Financial",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.461532,
+    41.822116,
+    -71.461532,
+    41.822116
+],
+  "geometry": {"coordinates":[-71.46153200000001,41.822116],"type":"Point"}
+}

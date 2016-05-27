@@ -1,0 +1,71 @@
+{
+  "id": 874277661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485686,41.392381,-71.485686,41.392381",
+    "geom:latitude":41.392381,
+    "geom:longitude":-71.485686,
+    "iso:country":"US",
+    "sg:address":"77 Carver Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6162",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y6QtZNJvZ8aASYKREAlKp_41.392381_-71.485686@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314522,
+    "wof:geomhash":"8fa79b1a0b5e0a03734c1c67f9cc5b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874277661
+        }
+    ],
+    "wof:id":874277661,
+    "wof:lastmodified":1464314522,
+    "wof:name":"Franklin Electric Co",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.485686,
+    41.392381,
+    -71.485686,
+    41.392381
+],
+  "geometry": {"coordinates":[-71.485686,41.392381],"type":"Point"}
+}

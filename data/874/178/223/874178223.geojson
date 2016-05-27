@@ -1,0 +1,71 @@
+{
+  "id": 874178223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512504,41.993462,-71.512504,41.993462",
+    "geom:latitude":41.993462,
+    "geom:longitude":-71.512504,
+    "iso:country":"US",
+    "sg:address":"733 Grove St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 4332",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CpoWYTAllDgAJCt4dtpno_41.993462_-71.512504@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312609,
+    "wof:geomhash":"155271762df31d207a1eaa6ba4f9dbb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874178223
+        }
+    ],
+    "wof:id":874178223,
+    "wof:lastmodified":1464312609,
+    "wof:name":"Allard's Lock & Key",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.512504,
+    41.993462,
+    -71.512504,
+    41.993462
+],
+  "geometry": {"coordinates":[-71.51250400000001,41.993462],"type":"Point"}
+}

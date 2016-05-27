@@ -1,0 +1,69 @@
+{
+  "id": 874088081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.554066,41.574532,-71.554066,41.574532",
+    "geom:latitude":41.574532,
+    "geom:longitude":-71.554066,
+    "iso:country":"US",
+    "sg:address":"40 Purgatory Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6837",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53x3NKAef2KsrQmGB7GuvG_41.574532_-71.554066@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311642,
+    "wof:geomhash":"2fb14f2bf6cee41cf84c245f77d87586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874088081
+        }
+    ],
+    "wof:id":874088081,
+    "wof:lastmodified":1464311642,
+    "wof:name":"Exeter Country Club Mntnc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.554066,
+    41.574532,
+    -71.554066,
+    41.574532
+],
+  "geometry": {"coordinates":[-71.55406600000001,41.574532],"type":"Point"}
+}

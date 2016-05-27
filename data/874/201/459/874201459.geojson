@@ -1,0 +1,71 @@
+{
+  "id": 874201459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280354,41.486679,-71.280354,41.486679",
+    "geom:latitude":41.486679,
+    "geom:longitude":-71.280354,
+    "iso:country":"US",
+    "sg:address":"22 Esplanade",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 6440",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lift",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24uaWHQ06DIoTkEDTGxKJd_41.486679_-71.280354@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312858,
+    "wof:geomhash":"5f444374db0e9709a3774ad82a87bc09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874201459
+        }
+    ],
+    "wof:id":874201459,
+    "wof:lastmodified":1464312858,
+    "wof:name":"Z-Clad Distributors",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lift",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.280354,
+    41.486679,
+    -71.280354,
+    41.486679
+],
+  "geometry": {"coordinates":[-71.280354,41.486679],"type":"Point"}
+}

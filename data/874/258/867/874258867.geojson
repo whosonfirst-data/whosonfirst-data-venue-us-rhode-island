@@ -1,0 +1,86 @@
+{
+  "id": 874258867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434525,41.786117,-71.434525,41.786117",
+    "geom:latitude":41.786117,
+    "geom:longitude":-71.434525,
+    "iso:country":"US",
+    "sg:address":"445 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 2434",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O64BiqAB6jUEkdir91iAF_41.786117_-71.434525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313820,
+    "wof:geomhash":"26adffee6e44bf89d2f3db0d9ff8d2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874258867
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874258867
+        }
+    ],
+    "wof:id":874258867,
+    "wof:lastmodified":1464313820,
+    "wof:name":"H & P Vegetable Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.434525,
+    41.786117,
+    -71.434525,
+    41.786117
+],
+  "geometry": {"coordinates":[-71.43452499999999,41.786117],"type":"Point"}
+}

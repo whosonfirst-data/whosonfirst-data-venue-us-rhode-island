@@ -1,0 +1,71 @@
+{
+  "id": 874283381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439485,41.885715,-71.439485,41.885715",
+    "geom:latitude":41.885715,
+    "geom:longitude":-71.439485,
+    "iso:country":"US",
+    "sg:address":"1526 Louisquisset Pike",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 5155",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "liquor",
+        "serving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23kGvBZW4LLsnlRzHvGNNx_41.886056_-71.439760@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314752,
+    "wof:geomhash":"9bc07f2faa5fe11afb4410d7c57f06e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874283381
+        }
+    ],
+    "wof:id":874283381,
+    "wof:lastmodified":1464314752,
+    "wof:name":"Birch Tree Pub",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "serving"
+    ]
+},
+  "bbox": [
+    -71.439485,
+    41.885715,
+    -71.439485,
+    41.885715
+],
+  "geometry": {"coordinates":[-71.439485,41.885715],"type":"Point"}
+}

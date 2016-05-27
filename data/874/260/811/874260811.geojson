@@ -1,0 +1,77 @@
+{
+  "id": 874260811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478943,41.746681,-71.478943,41.746681",
+    "geom:latitude":41.746681,
+    "geom:longitude":-71.478943,
+    "iso:country":"US",
+    "sg:address":"922 Oaklawn Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 1250",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m09bR963W7v2twq8WNJdb_41.746681_-71.478943@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313885,
+    "wof:geomhash":"871f0aecd759b09d60c7cf2e2ebb6c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874260811
+        }
+    ],
+    "wof:id":874260811,
+    "wof:lastmodified":1464313885,
+    "wof:name":"Oaklawn Cleaners Inc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.478943,
+    41.746681,
+    -71.478943,
+    41.746681
+],
+  "geometry": {"coordinates":[-71.478943,41.746681],"type":"Point"}
+}

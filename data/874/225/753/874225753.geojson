@@ -1,0 +1,71 @@
+{
+  "id": 874225753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541157,42.017663,-71.541157,42.017663",
+    "geom:latitude":42.017663,
+    "geom:longitude":-71.541157,
+    "iso:country":"US",
+    "sg:address":"181 Main St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 3556",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x2mBsW5UD1ArBPdQItPa9_42.017663_-71.541157@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313119,
+    "wof:geomhash":"4cd15028dbb4a1984020563ee200a80b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874225753
+        }
+    ],
+    "wof:id":874225753,
+    "wof:lastmodified":1464313119,
+    "wof:name":"All Natural Skin Care",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -71.541157,
+    42.017663,
+    -71.541157,
+    42.017663
+],
+  "geometry": {"coordinates":[-71.541157,42.017663],"type":"Point"}
+}

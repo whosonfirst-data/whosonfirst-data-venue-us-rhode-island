@@ -1,0 +1,71 @@
+{
+  "id": 874242317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437332,41.86687,-71.437332,41.86687",
+    "geom:latitude":41.86687,
+    "geom:longitude":-71.437332,
+    "iso:country":"US",
+    "sg:address":"69 Verdi St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 365 1097",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N66NNvsGjSC8U2hWfPEdr_41.866870_-71.437332@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313383,
+    "wof:geomhash":"2764057da144a9d15a525ca652c978a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874242317
+        }
+    ],
+    "wof:id":874242317,
+    "wof:lastmodified":1464313383,
+    "wof:name":"Seven Point Building & Dev",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.437332,
+    41.86687,
+    -71.437332,
+    41.86687
+],
+  "geometry": {"coordinates":[-71.437332,41.86687],"type":"Point"}
+}

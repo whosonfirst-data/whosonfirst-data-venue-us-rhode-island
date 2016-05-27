@@ -1,0 +1,75 @@
+{
+  "id": 874246373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446427,41.817011,-71.446427,41.817011",
+    "geom:latitude":41.817011,
+    "geom:longitude":-71.446427,
+    "iso:country":"US",
+    "sg:address":"55 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 0595",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30VxCnfJkLjH5A4MTi2OWj_41.817011_-71.446427@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313460,
+    "wof:geomhash":"11100b4155733f23cb6bb062af37fc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874246373
+        }
+    ],
+    "wof:id":874246373,
+    "wof:lastmodified":1464313460,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -71.446427,
+    41.817011,
+    -71.446427,
+    41.817011
+],
+  "geometry": {"coordinates":[-71.446427,41.817011],"type":"Point"}
+}

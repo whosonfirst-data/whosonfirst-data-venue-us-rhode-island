@@ -1,0 +1,73 @@
+{
+  "id": 874139405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418335,42.007242,-71.418335,42.007242",
+    "geom:latitude":42.007242,
+    "geom:longitude":-71.418335,
+    "iso:country":"US",
+    "sg:address":"11 Cook Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 6637",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822571,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31uFWQGZPud6ktXZufpdVX_42.007242_-71.418335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312230,
+    "wof:geomhash":"b3441da44263107eb8724825562f8bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822571,
+            "region_id":85688509,
+            "venue_id":874139405
+        }
+    ],
+    "wof:id":874139405,
+    "wof:lastmodified":1464312230,
+    "wof:name":"Cumberland Well & Pump Inc",
+    "wof:parent_id":85822571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.418335,
+    42.007242,
+    -71.418335,
+    42.007242
+],
+  "geometry": {"coordinates":[-71.418335,42.007242],"type":"Point"}
+}

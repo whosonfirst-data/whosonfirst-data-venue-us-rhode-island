@@ -1,0 +1,81 @@
+{
+  "id": 874253711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402086,41.802909,-71.402086,41.802909",
+    "geom:latitude":41.802909,
+    "geom:longitude":-71.402086,
+    "iso:country":"US",
+    "sg:address":"58 Warren Way",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 5319",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R4n4C0XTk9xhZIlVqZ97e_41.802909_-71.402086@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313640,
+    "wof:geomhash":"4500d3398fcb012992bbe1f3b781e065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874253711
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874253711
+        }
+    ],
+    "wof:id":874253711,
+    "wof:lastmodified":1464313640,
+    "wof:name":"R I Alliance For Lesbian & Gay",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.402086,
+    41.802909,
+    -71.402086,
+    41.802909
+],
+  "geometry": {"coordinates":[-71.402086,41.802909],"type":"Point"}
+}

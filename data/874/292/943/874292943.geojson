@@ -1,0 +1,69 @@
+{
+  "id": 874292943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.573112,42.000141,-71.573112,42.000141",
+    "geom:latitude":42.000141,
+    "geom:longitude":-71.573112,
+    "iso:country":"US",
+    "sg:address":"60 School St Apt 14D",
+    "sg:city":"Slatersville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 2877",
+    "sg:postcode":"02876",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21rd06W30CJS0qLturUw6v_42.000141_-71.573112@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315121,
+    "wof:geomhash":"bbd7f7cd3e66574cb26c3e8887f2c356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874292943
+        }
+    ],
+    "wof:id":874292943,
+    "wof:lastmodified":1464315121,
+    "wof:name":"Colonial Village Apts",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.573112,
+    42.000141,
+    -71.573112,
+    42.000141
+],
+  "geometry": {"coordinates":[-71.57311199999999,42.000141],"type":"Point"}
+}

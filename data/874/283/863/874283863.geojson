@@ -1,0 +1,71 @@
+{
+  "id": 874283863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.642794,41.386558,-71.642794,41.386558",
+    "geom:latitude":41.386558,
+    "geom:longitude":-71.642794,
+    "iso:country":"US",
+    "sg:address":"10 Crossland St",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9888",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Wi7d7peDw2TSbl3IAMULT_41.386622_-71.642832@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314768,
+    "wof:geomhash":"9eb95c4016ecea80eb63d903c438d17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874283863
+        }
+    ],
+    "wof:id":874283863,
+    "wof:lastmodified":1464314768,
+    "wof:name":"Stedman & Kazounis Plumbing & Heating",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.642794,
+    41.386558,
+    -71.642794,
+    41.386558
+],
+  "geometry": {"coordinates":[-71.64279399999999,41.386558],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874246219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444078,41.829055,-71.444078,41.829055",
+    "geom:latitude":41.829055,
+    "geom:longitude":-71.444078,
+    "iso:country":"US",
+    "sg:address":"146 Academy Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 5844",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_369WYyNVeCP4pP22NnWmS5_41.829055_-71.444078@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313458,
+    "wof:geomhash":"de02bfd06eeb3807646ce2bb3e480be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874246219
+        }
+    ],
+    "wof:id":874246219,
+    "wof:lastmodified":1464313458,
+    "wof:name":"Ramirez Auto Ctr",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.444078,
+    41.829055,
+    -71.444078,
+    41.829055
+],
+  "geometry": {"coordinates":[-71.444078,41.829055],"type":"Point"}
+}

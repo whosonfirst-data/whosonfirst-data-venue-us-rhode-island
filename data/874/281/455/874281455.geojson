@@ -1,0 +1,77 @@
+{
+  "id": 874281455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4285,41.789458,-71.4285,41.789458",
+    "geom:latitude":41.789458,
+    "geom:longitude":-71.4285,
+    "iso:country":"US",
+    "sg:address":"30 Ansel Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 4552",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3inuXPG7bsh07eH9l0GZdK_41.789458_-71.428500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314689,
+    "wof:geomhash":"1d34abfc0306be2d881678173cf18584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874281455
+        }
+    ],
+    "wof:id":874281455,
+    "wof:lastmodified":1464314689,
+    "wof:name":"B & H Lockshop & Hardware Inc",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.4285,
+    41.789458,
+    -71.4285,
+    41.789458
+],
+  "geometry": {"coordinates":[-71.4285,41.789458],"type":"Point"}
+}

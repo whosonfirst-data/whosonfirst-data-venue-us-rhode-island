@@ -1,0 +1,73 @@
+{
+  "id": 874091031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.756283,41.48527,-71.756283,41.48527",
+    "geom:latitude":41.48527,
+    "geom:longitude":-71.756283,
+    "iso:country":"US",
+    "sg:address":"192 Lawton Foster Rd N",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2552",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sIiqSz20ELFKXOLx3pGJe_41.485270_-71.756283@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311675,
+    "wof:geomhash":"9c91318e430166dde58e9641a665a855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874091031
+        }
+    ],
+    "wof:id":874091031,
+    "wof:lastmodified":1464311675,
+    "wof:name":"Santoro Electric Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.756283,
+    41.48527,
+    -71.756283,
+    41.48527
+],
+  "geometry": {"coordinates":[-71.756283,41.48527],"type":"Point"}
+}

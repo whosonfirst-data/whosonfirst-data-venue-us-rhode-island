@@ -1,0 +1,92 @@
+{
+  "id": 874170897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283279,41.521019,-71.283279,41.521019",
+    "geom:latitude":41.521019,
+    "geom:longitude":-71.283279,
+    "iso:country":"US",
+    "sg:address":"1219 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 6711",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "manufacture",
+        "casting",
+        "aluminum",
+        "die",
+        "plastic",
+        "zinc",
+        "mold"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JjZ4l67m5YFYmvKrF5AIj_41.521019_-71.283279@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312535,
+    "wof:geomhash":"95d91282370fc1d3deb6e4a21832d13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874170897
+        }
+    ],
+    "wof:id":874170897,
+    "wof:lastmodified":1464312535,
+    "wof:name":"Newport Tool & Die Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture",
+        "casting",
+        "aluminum",
+        "die",
+        "plastic",
+        "zinc",
+        "mold"
+    ]
+},
+  "bbox": [
+    -71.283279,
+    41.521019,
+    -71.283279,
+    41.521019
+],
+  "geometry": {"coordinates":[-71.28327899999999,41.521019],"type":"Point"}
+}

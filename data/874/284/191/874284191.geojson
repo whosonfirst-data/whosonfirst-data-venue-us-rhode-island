@@ -1,0 +1,73 @@
+{
+  "id": 874284191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466904,41.819901,-71.466904,41.819901",
+    "geom:latitude":41.819901,
+    "geom:longitude":-71.466904,
+    "iso:country":"US",
+    "sg:address":"662 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 0660",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary",
+        "school",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mc2Crei4QoEyjMTzwSrOR_41.819708_-71.467196@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314781,
+    "wof:geomhash":"b71282a20c5e6ffe97828e0320d52c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874284191
+        }
+    ],
+    "wof:id":874284191,
+    "wof:lastmodified":1464314781,
+    "wof:name":"Providence Community Action",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.466904,
+    41.819901,
+    -71.466904,
+    41.819901
+],
+  "geometry": {"coordinates":[-71.466904,41.819901],"type":"Point"}
+}

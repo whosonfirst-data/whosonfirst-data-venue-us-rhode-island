@@ -1,0 +1,71 @@
+{
+  "id": 874029877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.335882,41.750616,-71.335882,41.750616",
+    "geom:latitude":41.750616,
+    "geom:longitude":-71.335882,
+    "iso:country":"US",
+    "sg:address":"48 Townsend St",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 1100",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bL8ixl4rPhKdILmlZ4DIL_41.750616_-71.335882@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311048,
+    "wof:geomhash":"5a72eb0eb249390e3b9019a1cd9579bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874029877
+        }
+    ],
+    "wof:id":874029877,
+    "wof:lastmodified":1464311048,
+    "wof:name":"Monica E H Kleinman MD",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.335882,
+    41.750616,
+    -71.335882,
+    41.750616
+],
+  "geometry": {"coordinates":[-71.335882,41.750616],"type":"Point"}
+}

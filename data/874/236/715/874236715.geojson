@@ -1,0 +1,86 @@
+{
+  "id": 874236715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45486,41.784543,-71.45486,41.784543",
+    "geom:latitude":41.784543,
+    "geom:longitude":-71.45486,
+    "iso:country":"US",
+    "sg:address":"1278 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 1220",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T5cCfwgMRoDkyFBMtP5X4_41.784543_-71.454860@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313278,
+    "wof:geomhash":"d980faaf614721de36865335f506c2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874236715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874236715
+        }
+    ],
+    "wof:id":874236715,
+    "wof:lastmodified":1464313278,
+    "wof:name":"John K Najarian",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -71.45486,
+    41.784543,
+    -71.45486,
+    41.784543
+],
+  "geometry": {"coordinates":[-71.45486,41.784543],"type":"Point"}
+}

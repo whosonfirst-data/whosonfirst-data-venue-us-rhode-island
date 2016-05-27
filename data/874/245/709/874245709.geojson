@@ -1,0 +1,69 @@
+{
+  "id": 874245709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396471,41.885984,-71.396471,41.885984",
+    "geom:latitude":41.885984,
+    "geom:longitude":-71.396471,
+    "iso:country":"US",
+    "sg:address":"646 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 5410",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NMZjLp7KvwGAEdF4voGG7_41.885984_-71.396471@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313448,
+    "wof:geomhash":"7d6954b9d82a41eecf5791e688192017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874245709
+        }
+    ],
+    "wof:id":874245709,
+    "wof:lastmodified":1464313448,
+    "wof:name":"Dexter Beauty Salon",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.396471,
+    41.885984,
+    -71.396471,
+    41.885984
+],
+  "geometry": {"coordinates":[-71.39647100000001,41.885984],"type":"Point"}
+}

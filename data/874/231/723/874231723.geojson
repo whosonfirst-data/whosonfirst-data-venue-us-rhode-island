@@ -1,0 +1,71 @@
+{
+  "id": 874231723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.303573,41.725421,-71.303573,41.725421",
+    "geom:latitude":41.725421,
+    "geom:longitude":-71.303573,
+    "iso:country":"US",
+    "sg:address":"55 Fales Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6133",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rED3EEOj4Xwk0q6VNLbPU_41.725421_-71.303573@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313183,
+    "wof:geomhash":"abd3c24d3206371087171bf8e552eb8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874231723
+        }
+    ],
+    "wof:id":874231723,
+    "wof:lastmodified":1464313183,
+    "wof:name":"S Taylor Painting",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.303573,
+    41.725421,
+    -71.303573,
+    41.725421
+],
+  "geometry": {"coordinates":[-71.303573,41.725421],"type":"Point"}
+}

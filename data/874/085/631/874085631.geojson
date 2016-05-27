@@ -1,0 +1,71 @@
+{
+  "id": 874085631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488942,41.864517,-71.488942,41.864517",
+    "geom:latitude":41.864517,
+    "geom:longitude":-71.488942,
+    "iso:country":"US",
+    "sg:address":"144 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 5010",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tTLE9OXPGEWE5wS4WUevN_41.864517_-71.488942@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311616,
+    "wof:geomhash":"ab2d20e788b9bf83b2ce33dad294587b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874085631
+        }
+    ],
+    "wof:id":874085631,
+    "wof:lastmodified":1464311616,
+    "wof:name":"Victor Formisano MD",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.488942,
+    41.864517,
+    -71.488942,
+    41.864517
+],
+  "geometry": {"coordinates":[-71.48894199999999,41.864517],"type":"Point"}
+}

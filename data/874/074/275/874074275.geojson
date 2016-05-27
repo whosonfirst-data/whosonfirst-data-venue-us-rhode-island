@@ -1,0 +1,71 @@
+{
+  "id": 874074275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441457,41.935727,-71.441457,41.935727",
+    "geom:latitude":41.935727,
+    "geom:longitude":-71.441457,
+    "iso:country":"US",
+    "sg:address":"701 George Washington Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 288 1000",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xZuZIYSJ7KzX4ssI93No8_41.935727_-71.441457@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311496,
+    "wof:geomhash":"7ead1bc3ece983203b87d41d1122a40d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874074275
+        }
+    ],
+    "wof:id":874074275,
+    "wof:lastmodified":1464311496,
+    "wof:name":"Cytotherapeutics",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.441457,
+    41.935727,
+    -71.441457,
+    41.935727
+],
+  "geometry": {"coordinates":[-71.441457,41.935727],"type":"Point"}
+}

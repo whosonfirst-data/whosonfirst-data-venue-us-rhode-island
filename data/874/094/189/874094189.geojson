@@ -1,0 +1,71 @@
+{
+  "id": 874094189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485462,41.862533,-71.485462,41.862533",
+    "geom:latitude":41.862533,
+    "geom:longitude":-71.485462,
+    "iso:country":"US",
+    "sg:address":"118 Jacksonia Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 2150",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_663SNeG48woZB5ZeflLFw8_41.862533_-71.485462@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311705,
+    "wof:geomhash":"f731a91344c6e2bf739a0bbd12252f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874094189
+        }
+    ],
+    "wof:id":874094189,
+    "wof:lastmodified":1464311705,
+    "wof:name":"J RS Shoe Store",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.485462,
+    41.862533,
+    -71.485462,
+    41.862533
+],
+  "geometry": {"coordinates":[-71.485462,41.862533],"type":"Point"}
+}

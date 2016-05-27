@@ -1,0 +1,70 @@
+{
+  "id": 874290389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41441,41.87515,-71.41441,41.87515",
+    "geom:latitude":41.87515,
+    "geom:longitude":-71.41441,
+    "iso:country":"US",
+    "sg:address":"499 Smithfield Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 0751",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41dlxXY366jgBac8NOkfDb_41.875150_-71.414410@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315025,
+    "wof:geomhash":"a4a67db901d8b44566d994453d29acfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874290389
+        }
+    ],
+    "wof:id":874290389,
+    "wof:lastmodified":1464315025,
+    "wof:name":"Bank Rhode Island",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41441,
+    41.87515,
+    -71.41441,
+    41.87515
+],
+  "geometry": {"coordinates":[-71.41441,41.87515],"type":"Point"}
+}

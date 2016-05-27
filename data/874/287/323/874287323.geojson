@@ -1,0 +1,78 @@
+{
+  "id": 874287323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486524,41.994083,-71.486524,41.994083",
+    "geom:latitude":41.994083,
+    "geom:longitude":-71.486524,
+    "iso:country":"US",
+    "sg:address":"840 Cumberland Hill Rd",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/woonsocket/245045-mvp-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 767 3737",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ik5zaiEtIIhoQQZ7JsCOn_41.994083_-71.486524@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314901,
+    "wof:geomhash":"7a5e73869ac4aa5917370b32a34a44d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874287323
+        }
+    ],
+    "wof:id":874287323,
+    "wof:lastmodified":1464314901,
+    "wof:name":"MVP Pizzeria",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.486524,
+    41.994083,
+    -71.486524,
+    41.994083
+],
+  "geometry": {"coordinates":[-71.486524,41.994083],"type":"Point"}
+}

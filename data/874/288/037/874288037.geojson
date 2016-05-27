@@ -1,0 +1,72 @@
+{
+  "id": 874288037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439369,41.866731,-71.439369,41.866731",
+    "geom:latitude":41.866731,
+    "geom:longitude":-71.439369,
+    "iso:country":"US",
+    "sg:address":"1382 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/215256-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3919",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eF7NT4SAhvwHmgqukssrs_41.866991_-71.439247@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314937,
+    "wof:geomhash":"c66b1583aa82e850f0b7d9e708522a54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874288037
+        }
+    ],
+    "wof:id":874288037,
+    "wof:lastmodified":1464314937,
+    "wof:name":"Burger King",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.439369,
+    41.866731,
+    -71.439369,
+    41.866731
+],
+  "geometry": {"coordinates":[-71.439369,41.866731],"type":"Point"}
+}

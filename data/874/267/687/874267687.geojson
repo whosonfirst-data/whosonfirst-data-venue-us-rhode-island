@@ -1,0 +1,73 @@
+{
+  "id": 874267687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499099,42.023976,-71.499099,42.023976",
+    "geom:latitude":42.023976,
+    "geom:longitude":-71.499099,
+    "iso:country":"US",
+    "sg:address":"71 Miller Ave",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 8384",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vKTNRHOpE4JywwSd8M7cQ_42.023976_-71.499099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314139,
+    "wof:geomhash":"fdb655c1dc2107329d5b6faec2556835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874267687
+        }
+    ],
+    "wof:id":874267687,
+    "wof:lastmodified":1464314139,
+    "wof:name":"Ralph Giguere & Son Plumbing",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.499099,
+    42.023976,
+    -71.499099,
+    42.023976
+],
+  "geometry": {"coordinates":[-71.499099,42.023976],"type":"Point"}
+}

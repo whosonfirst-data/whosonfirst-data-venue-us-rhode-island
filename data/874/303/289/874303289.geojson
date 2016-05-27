@@ -1,0 +1,71 @@
+{
+  "id": 874303289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475464,41.845229,-71.475464,41.845229",
+    "geom:latitude":41.845229,
+    "geom:longitude":-71.475464,
+    "iso:country":"US",
+    "sg:address":"16 Humbert St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2233",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HG9ymtHTLgdXetk0ItnCD_41.845229_-71.475464@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315505,
+    "wof:geomhash":"510df08f79485ed29f6aa66c42d209f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874303289
+        }
+    ],
+    "wof:id":874303289,
+    "wof:lastmodified":1464315505,
+    "wof:name":"Windmill Auto Sales",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -71.475464,
+    41.845229,
+    -71.475464,
+    41.845229
+],
+  "geometry": {"coordinates":[-71.475464,41.845229],"type":"Point"}
+}

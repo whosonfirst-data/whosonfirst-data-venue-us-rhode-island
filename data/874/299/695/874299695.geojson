@@ -1,0 +1,69 @@
+{
+  "id": 874299695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451822,41.86357,-71.451822,41.86357",
+    "geom:latitude":41.86357,
+    "geom:longitude":-71.451822,
+    "iso:country":"US",
+    "sg:address":"1658 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8226",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fMkdyfnxBibcAwlsgxC4y_41.863570_-71.451822@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315378,
+    "wof:geomhash":"35f851c7773e073d635e6a4bbc4bf384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299695
+        }
+    ],
+    "wof:id":874299695,
+    "wof:lastmodified":1464315378,
+    "wof:name":"Cilantro Mexican Grill",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.451822,
+    41.86357,
+    -71.451822,
+    41.86357
+],
+  "geometry": {"coordinates":[-71.45182200000001,41.86357],"type":"Point"}
+}

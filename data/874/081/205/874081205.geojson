@@ -1,0 +1,75 @@
+{
+  "id": 874081205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575809,41.493843,-71.575809,41.493843",
+    "geom:latitude":41.493843,
+    "geom:longitude":-71.575809,
+    "iso:country":"US",
+    "sg:address":"49 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2474",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HOknepviuKFIIRPcdc8Sb_41.493843_-71.575809@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311566,
+    "wof:geomhash":"5d94da81b9e01afabe05a60eeb8082fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874081205
+        }
+    ],
+    "wof:id":874081205,
+    "wof:lastmodified":1464311566,
+    "wof:name":"Boss Heating",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.575809,
+    41.493843,
+    -71.575809,
+    41.493843
+],
+  "geometry": {"coordinates":[-71.57580900000001,41.493843],"type":"Point"}
+}

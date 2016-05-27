@@ -1,0 +1,69 @@
+{
+  "id": 874136573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.239219,41.57887,-71.239219,41.57887",
+    "geom:latitude":41.57887,
+    "geom:longitude":-71.239219,
+    "iso:country":"US",
+    "sg:address":"80 William St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4861",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hfjnp9Je6e9QVjBA7a7cS_41.578870_-71.239219@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312205,
+    "wof:geomhash":"d9669077dc1edd7a97e2bdf0487fe0fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874136573
+        }
+    ],
+    "wof:id":874136573,
+    "wof:lastmodified":1464312205,
+    "wof:name":"Edthel Corp",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.239219,
+    41.57887,
+    -71.239219,
+    41.57887
+],
+  "geometry": {"coordinates":[-71.23921900000001,41.57887],"type":"Point"}
+}

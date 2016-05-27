@@ -1,0 +1,71 @@
+{
+  "id": 874025477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540649,41.728288,-71.540649,41.728288",
+    "geom:latitude":41.728288,
+    "geom:longitude":-71.540649,
+    "iso:country":"US",
+    "sg:address":"546 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 6837",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H01Avwi5kLoETCVxpFdd5_41.728288_-71.540649@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311002,
+    "wof:geomhash":"e70f4f1228366f6cbc5caf6c4fd3ad53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874025477
+        }
+    ],
+    "wof:id":874025477,
+    "wof:lastmodified":1464311002,
+    "wof:name":"Riverview Healthcare Community",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.540649,
+    41.728288,
+    -71.540649,
+    41.728288
+],
+  "geometry": {"coordinates":[-71.540649,41.728288],"type":"Point"}
+}

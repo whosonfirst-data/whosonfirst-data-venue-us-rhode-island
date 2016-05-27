@@ -1,0 +1,71 @@
+{
+  "id": 874254863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543655,41.872292,-71.543655,41.872292",
+    "geom:latitude":41.872292,
+    "geom:longitude":-71.543655,
+    "iso:country":"US",
+    "sg:address":"21 Sprague St",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5005",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43LIlnWUu513JqxGvzUIqn_41.872292_-71.543655@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313671,
+    "wof:geomhash":"756978859efb586e043e9e28d4becc4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874254863
+        }
+    ],
+    "wof:id":874254863,
+    "wof:lastmodified":1464313671,
+    "wof:name":"S M Painting Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.543655,
+    41.872292,
+    -71.543655,
+    41.872292
+],
+  "geometry": {"coordinates":[-71.543655,41.872292],"type":"Point"}
+}

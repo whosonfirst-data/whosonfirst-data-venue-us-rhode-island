@@ -1,0 +1,85 @@
+{
+  "id": 874301359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400787,41.84996,-71.400787,41.84996",
+    "geom:latitude":41.84996,
+    "geom:longitude":-71.400787,
+    "iso:country":"US",
+    "sg:address":"100 Highland Ave Ste 302",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 886 4251",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ],
+    "sg:website":"http://providence.citysearch.com/profile/external/604374852/providence_ri/std_test_express_providence.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ImTucpbgcFsls29gsbcE_41.849960_-71.400787@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315442,
+    "wof:geomhash":"32d8a84cc7ed5d18fbb08469fff7eaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874301359
+        }
+    ],
+    "wof:id":874301359,
+    "wof:lastmodified":1464315442,
+    "wof:name":"STD Test Express Providence",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "aid",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.400787,
+    41.84996,
+    -71.400787,
+    41.84996
+],
+  "geometry": {"coordinates":[-71.40078699999999,41.84996],"type":"Point"}
+}

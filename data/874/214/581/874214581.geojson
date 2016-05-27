@@ -1,0 +1,71 @@
+{
+  "id": 874214581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.269266,41.720954,-71.269266,41.720954",
+    "geom:latitude":41.720954,
+    "geom:longitude":-71.269266,
+    "iso:country":"US",
+    "sg:address":"581 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8313",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tDMqN1FJ1eQNLLAIm7s5Q_41.720954_-71.269266@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313000,
+    "wof:geomhash":"10f8db66d4eeadd08583f6cd6182e5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874214581
+        }
+    ],
+    "wof:id":874214581,
+    "wof:lastmodified":1464313000,
+    "wof:name":"Warren Animal Hospital",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.269266,
+    41.720954,
+    -71.269266,
+    41.720954
+],
+  "geometry": {"coordinates":[-71.269266,41.720954],"type":"Point"}
+}

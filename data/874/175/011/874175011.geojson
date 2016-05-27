@@ -1,0 +1,69 @@
+{
+  "id": 874175011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461581,41.815296,-71.461581,41.815296",
+    "geom:latitude":41.815296,
+    "geom:longitude":-71.461581,
+    "iso:country":"US",
+    "sg:address":"20 Dedham Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 2366",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JOg4JzyCBicMNDI5OccZ6_41.815296_-71.461581@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312579,
+    "wof:geomhash":"27ed4302f18e85f4f309f53f42cafbd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874175011
+        }
+    ],
+    "wof:id":874175011,
+    "wof:lastmodified":1464312579,
+    "wof:name":"Tommys Garage",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.461581,
+    41.815296,
+    -71.461581,
+    41.815296
+],
+  "geometry": {"coordinates":[-71.461581,41.815296],"type":"Point"}
+}

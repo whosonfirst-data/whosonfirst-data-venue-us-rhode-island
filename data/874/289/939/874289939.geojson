@@ -1,0 +1,85 @@
+{
+  "id": 874289939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390782,41.858012,-71.390782,41.858012",
+    "geom:latitude":41.858012,
+    "geom:longitude":-71.390782,
+    "iso:country":"US",
+    "sg:address":"727 East Ave Unit 1",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 6800",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V7NuLNrIz6q8nROUO5hhp_41.858012_-71.390782@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315010,
+    "wof:geomhash":"c06b944362921cd3ea5ed96e3a36c42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874289939
+        }
+    ],
+    "wof:id":874289939,
+    "wof:lastmodified":1464315010,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.390782,
+    41.858012,
+    -71.390782,
+    41.858012
+],
+  "geometry": {"coordinates":[-71.390782,41.858012],"type":"Point"}
+}

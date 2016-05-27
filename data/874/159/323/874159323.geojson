@@ -1,0 +1,71 @@
+{
+  "id": 874159323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439646,41.63423,-71.439646,41.63423",
+    "geom:latitude":41.63423,
+    "geom:longitude":-71.439646,
+    "iso:country":"US",
+    "sg:address":"394 N Quidnessett Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 6374",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837947,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EWm1lZ1uPP6usg4VNQpWs_41.634230_-71.439646@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312425,
+    "wof:geomhash":"88c01d9b573a3f892b13ddb5aef76f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85837947,
+            "region_id":85688509,
+            "venue_id":874159323
+        }
+    ],
+    "wof:id":874159323,
+    "wof:lastmodified":1464312425,
+    "wof:name":"New England Putting Greens",
+    "wof:parent_id":85837947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.439646,
+    41.63423,
+    -71.439646,
+    41.63423
+],
+  "geometry": {"coordinates":[-71.439646,41.63423],"type":"Point"}
+}

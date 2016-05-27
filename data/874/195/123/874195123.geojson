@@ -1,0 +1,81 @@
+{
+  "id": 874195123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444751,41.566074,-71.444751,41.566074",
+    "geom:latitude":41.566074,
+    "geom:longitude":-71.444751,
+    "iso:country":"US",
+    "sg:address":"36 Beach St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6840",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85823665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZzWGWB32I7J1ZNOXMGcA_41.566074_-71.444751@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"69a6ef219ef073e8fc86c73c6129942f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874195123
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874195123
+        }
+    ],
+    "wof:id":874195123,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Wickford Art Assn Gallery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.444751,
+    41.566074,
+    -71.444751,
+    41.566074
+],
+  "geometry": {"coordinates":[-71.444751,41.566074],"type":"Point"}
+}

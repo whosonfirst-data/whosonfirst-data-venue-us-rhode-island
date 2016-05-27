@@ -1,0 +1,72 @@
+{
+  "id": 874286705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466684,41.642843,-71.466684,41.642843",
+    "geom:latitude":41.642843,
+    "geom:longitude":-71.466684,
+    "iso:country":"US",
+    "sg:address":"5601 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/236097-ronzio-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 541 7200",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d6jhQZP6oABraNwFdffck_41.642843_-71.466684@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314880,
+    "wof:geomhash":"6a7eaa2ccf48ef1128ad8f8d6bc1fcd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874286705
+        }
+    ],
+    "wof:id":874286705,
+    "wof:lastmodified":1464314880,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.466684,
+    41.642843,
+    -71.466684,
+    41.642843
+],
+  "geometry": {"coordinates":[-71.466684,41.642843],"type":"Point"}
+}

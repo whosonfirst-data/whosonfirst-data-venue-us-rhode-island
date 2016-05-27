@@ -1,0 +1,71 @@
+{
+  "id": 874293121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484497,41.373322,-71.484497,41.373322",
+    "geom:latitude":41.373322,
+    "geom:longitude":-71.484497,
+    "iso:country":"US",
+    "sg:address":"1230 Ocean Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6159",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f9wsGVt4Ykk97igJw1KgL_41.373322_-71.484497@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315127,
+    "wof:geomhash":"86f57b682961d5fa5af4d7f7efed45c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874293121
+        }
+    ],
+    "wof:id":874293121,
+    "wof:lastmodified":1464315127,
+    "wof:name":"Hammerhead Grill",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.484497,
+    41.373322,
+    -71.484497,
+    41.373322
+],
+  "geometry": {"coordinates":[-71.484497,41.373322],"type":"Point"}
+}

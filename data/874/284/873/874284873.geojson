@@ -1,0 +1,69 @@
+{
+  "id": 874284873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4245,41.866501,-71.4245,41.866501",
+    "geom:latitude":41.866501,
+    "geom:longitude":-71.4245,
+    "iso:country":"US",
+    "sg:address":"1041 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 0878",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "barber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sjjkg6E869sCMZ4I6Ux0t_41.866516_-71.424477@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314808,
+    "wof:geomhash":"1b5503c9bcc8149d5817c89dbd11ec1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874284873
+        }
+    ],
+    "wof:id":874284873,
+    "wof:lastmodified":1464314808,
+    "wof:name":"Up Town Styles",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barber"
+    ]
+},
+  "bbox": [
+    -71.4245,
+    41.866501,
+    -71.4245,
+    41.866501
+],
+  "geometry": {"coordinates":[-71.42449999999999,41.866501],"type":"Point"}
+}

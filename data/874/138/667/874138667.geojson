@@ -1,0 +1,71 @@
+{
+  "id": 874138667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.569009,41.669485,-71.569009,41.669485",
+    "geom:latitude":41.669485,
+    "geom:longitude":-71.569009,
+    "iso:country":"US",
+    "sg:address":"321 Hopkins Hill Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 2792",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JOQVTw6luiy4g9ta2H4BB_41.669485_-71.569009@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312224,
+    "wof:geomhash":"7189554ffa441b115ea1c6c6e4bdfee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874138667
+        }
+    ],
+    "wof:id":874138667,
+    "wof:lastmodified":1464312224,
+    "wof:name":"Kaynic Inc",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.569009,
+    41.669485,
+    -71.569009,
+    41.669485
+],
+  "geometry": {"coordinates":[-71.56900899999999,41.669485],"type":"Point"}
+}

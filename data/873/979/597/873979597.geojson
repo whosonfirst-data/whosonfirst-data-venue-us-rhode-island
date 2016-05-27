@@ -1,0 +1,88 @@
+{
+  "id": 873979597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448702,41.795759,-71.448702,41.795759",
+    "geom:latitude":41.795759,
+    "geom:longitude":-71.448702,
+    "iso:country":"US",
+    "sg:address":"26 Field St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 7507",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880049,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w5GIfEKrE6QZsoDPhrkBS_41.795759_-71.448702@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310576,
+    "wof:geomhash":"336128e02b9bed483556ff206fcab782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":873979597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873979597
+        }
+    ],
+    "wof:id":873979597,
+    "wof:lastmodified":1464310576,
+    "wof:name":"Calef Motors Annex & Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.448702,
+    41.795759,
+    -71.448702,
+    41.795759
+],
+  "geometry": {"coordinates":[-71.448702,41.795759],"type":"Point"}
+}

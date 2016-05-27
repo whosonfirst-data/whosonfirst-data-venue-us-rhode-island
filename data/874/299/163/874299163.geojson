@@ -1,0 +1,72 @@
+{
+  "id": 874299163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459702,41.8568,-71.459702,41.8568",
+    "geom:latitude":41.8568,
+    "geom:longitude":-71.459702,
+    "iso:country":"US",
+    "sg:address":"200 High Service Ave",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 3000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "sg:website":"www.fatimahospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rt8yfN04CzMSBtCsvEXB6_41.856800_-71.459702@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315359,
+    "wof:geomhash":"a367a316990af05978ab146dd1dba0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874299163
+        }
+    ],
+    "wof:id":874299163,
+    "wof:lastmodified":1464315359,
+    "wof:name":"Stankiewicz Andrzej J",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.459702,
+    41.8568,
+    -71.459702,
+    41.8568
+],
+  "geometry": {"coordinates":[-71.45970199999999,41.8568],"type":"Point"}
+}

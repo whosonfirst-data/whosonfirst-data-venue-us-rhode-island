@@ -1,0 +1,76 @@
+{
+  "id": 874287003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448812,41.711981,-71.448812,41.711981",
+    "geom:latitude":41.711981,
+    "geom:longitude":-71.448812,
+    "iso:country":"US",
+    "sg:address":"1350 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/55539-the-greenwood-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 3334",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55m4qh8O89bH9jZSCPzSBP_41.711981_-71.448812@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"6c6cf073861c743d7229d2935551397c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874287003
+        }
+    ],
+    "wof:id":874287003,
+    "wof:lastmodified":1464314890,
+    "wof:name":"The Greenwood Inn",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.448812,
+    41.711981,
+    -71.448812,
+    41.711981
+],
+  "geometry": {"coordinates":[-71.448812,41.711981],"type":"Point"}
+}

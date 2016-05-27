@@ -1,0 +1,73 @@
+{
+  "id": 874205519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.269292,41.721138,-71.269292,41.721138",
+    "geom:latitude":41.721138,
+    "geom:longitude":-71.269292,
+    "iso:country":"US",
+    "sg:address":"593 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6925",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DwXqZVTT8t5MjbkGBoWNG_41.721138_-71.269292@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"09b417332ae66e9c6ba05e9be500f168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874205519
+        }
+    ],
+    "wof:id":874205519,
+    "wof:lastmodified":1464312899,
+    "wof:name":"RMT Auto Repair",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.269292,
+    41.721138,
+    -71.269292,
+    41.721138
+],
+  "geometry": {"coordinates":[-71.26929199999999,41.721138],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874168573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.708108,41.515756,-71.708108,41.515756",
+    "geom:latitude":41.515756,
+    "geom:longitude":-71.708108,
+    "iso:country":"US",
+    "sg:address":"5 Bank St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 8149",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qPT1QR8BOLOcTQWNErdwW_41.515756_-71.708108@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312513,
+    "wof:geomhash":"7fd41955b72bd6d9f03a10e0581449b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874168573
+        }
+    ],
+    "wof:id":874168573,
+    "wof:lastmodified":1464312513,
+    "wof:name":"Joes Produce",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.708108,
+    41.515756,
+    -71.708108,
+    41.515756
+],
+  "geometry": {"coordinates":[-71.708108,41.515756],"type":"Point"}
+}

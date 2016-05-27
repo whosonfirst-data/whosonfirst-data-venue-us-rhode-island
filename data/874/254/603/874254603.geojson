@@ -1,0 +1,75 @@
+{
+  "id": 874254603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452849,41.748144,-71.452849,41.748144",
+    "geom:latitude":41.748144,
+    "geom:longitude":-71.452849,
+    "iso:country":"US",
+    "sg:address":"1220 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 2626",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hdgB5KzuR5D27enInUNcE_41.748144_-71.452849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313661,
+    "wof:geomhash":"2fd7d3292d06d6d27943b8d3f6fc67ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874254603
+        }
+    ],
+    "wof:id":874254603,
+    "wof:lastmodified":1464313661,
+    "wof:name":"Francis X Figueroa MD",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.452849,
+    41.748144,
+    -71.452849,
+    41.748144
+],
+  "geometry": {"coordinates":[-71.452849,41.748144],"type":"Point"}
+}

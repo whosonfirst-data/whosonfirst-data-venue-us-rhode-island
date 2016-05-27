@@ -1,0 +1,71 @@
+{
+  "id": 874070669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187597,41.640357,-71.187597,41.640357",
+    "geom:latitude":41.640357,
+    "geom:longitude":-71.187597,
+    "iso:country":"US",
+    "sg:address":"1155 Fish Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 1155",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HkBTUU37O4Rlf0aFQ7GMN_41.640357_-71.187597@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311438,
+    "wof:geomhash":"3680e3fca6e3fd2ffd2d794bc2462a0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874070669
+        }
+    ],
+    "wof:id":874070669,
+    "wof:lastmodified":1464311438,
+    "wof:name":"MFA Trucking",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.187597,
+    41.640357,
+    -71.187597,
+    41.640357
+],
+  "geometry": {"coordinates":[-71.187597,41.640357],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873993685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379675,41.71339,-71.379675,41.71339",
+    "geom:latitude":41.71339,
+    "geom:longitude":-71.379675,
+    "iso:country":"US",
+    "sg:address":"1247 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 1800",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540465,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oC5j2LJVFlKGh6IOCa7Zs_41.713390_-71.379675@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310716,
+    "wof:geomhash":"c1271a8a7a7f33208a690344f906eeb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540465,
+            "region_id":85688509,
+            "venue_id":873993685
+        }
+    ],
+    "wof:id":873993685,
+    "wof:lastmodified":1464310716,
+    "wof:name":"Demo Pizza Factory",
+    "wof:parent_id":420540465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.379675,
+    41.71339,
+    -71.379675,
+    41.71339
+],
+  "geometry": {"coordinates":[-71.37967500000001,41.71339],"type":"Point"}
+}

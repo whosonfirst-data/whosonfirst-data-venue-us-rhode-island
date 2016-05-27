@@ -1,0 +1,69 @@
+{
+  "id": 874303401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486198,41.8592,-71.486198,41.8592",
+    "geom:latitude":41.8592,
+    "geom:longitude":-71.486198,
+    "iso:country":"US",
+    "sg:address":"21 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 9000",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14U2pGneBigFUrWUa2qjDA_41.859200_-71.486198@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315509,
+    "wof:geomhash":"3ea48529d08dc564779ece27ba65175c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303401
+        }
+    ],
+    "wof:id":874303401,
+    "wof:lastmodified":1464315509,
+    "wof:name":"Rendine's Maytag Home Appliance Center",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.486198,
+    41.8592,
+    -71.486198,
+    41.8592
+],
+  "geometry": {"coordinates":[-71.486198,41.8592],"type":"Point"}
+}

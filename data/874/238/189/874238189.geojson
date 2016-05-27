@@ -1,0 +1,73 @@
+{
+  "id": 874238189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468925,41.844524,-71.468925,41.844524",
+    "geom:latitude":41.844524,
+    "geom:longitude":-71.468925,
+    "iso:country":"US",
+    "sg:address":"1 Terino Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 7300",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wheel",
+        "cover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40JqJg5tAkbCjFBM0TbzNT_41.844524_-71.468925@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313305,
+    "wof:geomhash":"16c137cb61f623f36af7baaac6e0b1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874238189
+        }
+    ],
+    "wof:id":874238189,
+    "wof:lastmodified":1464313305,
+    "wof:name":"Techno Wheels",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "cover"
+    ]
+},
+  "bbox": [
+    -71.468925,
+    41.844524,
+    -71.468925,
+    41.844524
+],
+  "geometry": {"coordinates":[-71.468925,41.844524],"type":"Point"}
+}

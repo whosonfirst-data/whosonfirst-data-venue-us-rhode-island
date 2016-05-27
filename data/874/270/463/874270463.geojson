@@ -1,0 +1,71 @@
+{
+  "id": 874270463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.709229,41.337993,-71.709229,41.337993",
+    "geom:latitude":41.337993,
+    "geom:longitude":-71.709229,
+    "iso:country":"US",
+    "sg:address":"16 Bay St",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Drive-in Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 0283",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720633,
+        102081219,
+        85843547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UHaQzKRpRcQDBNtjxlOmJ_41.337993_-71.709229@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314241,
+    "wof:geomhash":"1606abf4bcf6b1063c2febe9d17893fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720633,
+            "neighbourhood_id":85843547,
+            "region_id":85688509,
+            "venue_id":874270463
+        }
+    ],
+    "wof:id":874270463,
+    "wof:lastmodified":1464314241,
+    "wof:name":"Sunset Drive Assoc Non Profit",
+    "wof:parent_id":85843547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drive"
+    ]
+},
+  "bbox": [
+    -71.709229,
+    41.337993,
+    -71.709229,
+    41.337993
+],
+  "geometry": {"coordinates":[-71.70922899999999,41.337993],"type":"Point"}
+}

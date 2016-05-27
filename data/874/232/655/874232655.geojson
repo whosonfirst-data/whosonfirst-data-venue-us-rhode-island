@@ -1,0 +1,71 @@
+{
+  "id": 874232655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403608,41.946205,-71.403608,41.946205",
+    "geom:latitude":41.946205,
+    "geom:longitude":-71.403608,
+    "iso:country":"US",
+    "sg:address":"2055 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 0529",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oFDBr3t3T0yxVuVZszsDu_41.946205_-71.403608@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313195,
+    "wof:geomhash":"f251bcf56aeac8552c1e387f5e4b0989",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874232655
+        }
+    ],
+    "wof:id":874232655,
+    "wof:lastmodified":1464313195,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.403608,
+    41.946205,
+    -71.403608,
+    41.946205
+],
+  "geometry": {"coordinates":[-71.40360800000001,41.946205],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874288855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.75447,41.871761,-71.75447,41.871761",
+    "geom:latitude":41.871761,
+    "geom:longitude":-71.75447,
+    "iso:country":"US",
+    "sg:address":"43 Oak Leaf Way",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4446",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837631,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nXUz57iPRumYKfSU7k4N_41.871761_-71.754470@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314972,
+    "wof:geomhash":"16b113e1760414275706cba48c8d9928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85837631,
+            "region_id":85688509,
+            "venue_id":874288855
+        }
+    ],
+    "wof:id":874288855,
+    "wof:lastmodified":1464314972,
+    "wof:name":"Oakleaf Family Campground",
+    "wof:parent_id":85837631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recreational",
+        "park",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -71.75447,
+    41.871761,
+    -71.75447,
+    41.871761
+],
+  "geometry": {"coordinates":[-71.75447,41.871761],"type":"Point"}
+}

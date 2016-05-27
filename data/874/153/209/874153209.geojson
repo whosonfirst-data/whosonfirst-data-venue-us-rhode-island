@@ -1,0 +1,77 @@
+{
+  "id": 874153209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200394,41.651635,-71.200394,41.651635",
+    "geom:latitude":41.651635,
+    "geom:longitude":-71.200394,
+    "iso:country":"US",
+    "sg:address":"861 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 4420",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BFLzCHsL8pdRokPLbSQoy_41.651635_-71.200394@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312358,
+    "wof:geomhash":"ac24d44974398d61460e7915652c7b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874153209
+        }
+    ],
+    "wof:id":874153209,
+    "wof:lastmodified":1464312358,
+    "wof:name":"Citgo",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.200394,
+    41.651635,
+    -71.200394,
+    41.651635
+],
+  "geometry": {"coordinates":[-71.200394,41.651635],"type":"Point"}
+}

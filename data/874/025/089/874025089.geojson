@@ -1,0 +1,71 @@
+{
+  "id": 874025089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28122,41.720301,-71.28122,41.720301",
+    "geom:latitude":41.720301,
+    "geom:longitude":-71.28122,
+    "iso:country":"US",
+    "sg:address":"851 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 7012",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lamuCIGJxxmHcxgEFq6tr_41.720301_-71.281220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310998,
+    "wof:geomhash":"ff7d0b8bb6fcbddf86fc350f4db9042b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874025089
+        }
+    ],
+    "wof:id":874025089,
+    "wof:lastmodified":1464310998,
+    "wof:name":"Rhode Island Urological Specs",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.28122,
+    41.720301,
+    -71.28122,
+    41.720301
+],
+  "geometry": {"coordinates":[-71.28122,41.720301],"type":"Point"}
+}

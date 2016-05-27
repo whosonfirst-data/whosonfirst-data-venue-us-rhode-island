@@ -1,0 +1,71 @@
+{
+  "id": 874256563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520478,41.5553,-71.520478,41.5553",
+    "geom:latitude":41.5553,
+    "geom:longitude":-71.520478,
+    "iso:country":"US",
+    "sg:address":"69 S County Trl",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7729",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1C870Kng3XDU0QDqF8UOkC_41.555300_-71.520478@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313708,
+    "wof:geomhash":"80247c1bdaf7bf3f27030eaf9993d00f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874256563
+        }
+    ],
+    "wof:id":874256563,
+    "wof:lastmodified":1464313708,
+    "wof:name":"Rhode Island Cardiology",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.520478,
+    41.5553,
+    -71.520478,
+    41.5553
+],
+  "geometry": {"coordinates":[-71.520478,41.5553],"type":"Point"}
+}

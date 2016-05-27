@@ -1,0 +1,71 @@
+{
+  "id": 874139783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.631747,41.383344,-71.631747,41.383344",
+    "geom:latitude":41.383344,
+    "geom:longitude":-71.631747,
+    "iso:country":"US",
+    "sg:address":"4160 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 5010",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d7B9xTfsH3uweSJAwyRwn_41.383344_-71.631747@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"c62e5b70600d1ca545eccebb54dba4aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874139783
+        }
+    ],
+    "wof:id":874139783,
+    "wof:lastmodified":1464312233,
+    "wof:name":"Denelle Builders Inc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.631747,
+    41.383344,
+    -71.631747,
+    41.383344
+],
+  "geometry": {"coordinates":[-71.631747,41.383344],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874259099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42209,41.786289,-71.42209,41.786289",
+    "geom:latitude":41.786289,
+    "geom:longitude":-71.42209,
+    "iso:country":"US",
+    "sg:address":"9 Burrows St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 5090",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uuWJVcB61ZTz28fgzqmeh_41.786289_-71.422090@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313827,
+    "wof:geomhash":"2a9fa543219fec2db095c8476a99597f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874259099
+        }
+    ],
+    "wof:id":874259099,
+    "wof:lastmodified":1464313827,
+    "wof:name":"Bergstrom",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.42209,
+    41.786289,
+    -71.42209,
+    41.786289
+],
+  "geometry": {"coordinates":[-71.42209,41.786289],"type":"Point"}
+}

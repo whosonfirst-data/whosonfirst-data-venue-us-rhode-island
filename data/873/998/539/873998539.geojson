@@ -1,0 +1,69 @@
+{
+  "id": 873998539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257224,41.573123,-71.257224,41.573123",
+    "geom:latitude":41.573123,
+    "geom:longitude":-71.257224,
+    "iso:country":"US",
+    "sg:address":"113 Schoolhouse Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 2420",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QnXk2DFlhzB4p7KRn0KCG_41.573123_-71.257224@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310750,
+    "wof:geomhash":"5c3db85925b92afcdace4a29bfb8f5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873998539
+        }
+    ],
+    "wof:id":873998539,
+    "wof:lastmodified":1464310750,
+    "wof:name":"Newport Yacht Joinery",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.257224,
+    41.573123,
+    -71.257224,
+    41.573123
+],
+  "geometry": {"coordinates":[-71.25722399999999,41.573123],"type":"Point"}
+}

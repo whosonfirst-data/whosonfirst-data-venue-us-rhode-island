@@ -1,0 +1,69 @@
+{
+  "id": 874111067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555603,42.025622,-71.555603,42.025622",
+    "geom:latitude":42.025622,
+    "geom:longitude":-71.555603,
+    "iso:country":"US",
+    "sg:address":"303 Lincoln St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 1685",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uPwj8hTHW26Cv0kOKPavQ_42.025622_-71.555603@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311942,
+    "wof:geomhash":"9acf85c3d171ccf18d20077cd9015e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874111067
+        }
+    ],
+    "wof:id":874111067,
+    "wof:lastmodified":1464311942,
+    "wof:name":"Jim Darling Septic Svc",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.555603,
+    42.025622,
+    -71.555603,
+    42.025622
+],
+  "geometry": {"coordinates":[-71.555603,42.025622],"type":"Point"}
+}

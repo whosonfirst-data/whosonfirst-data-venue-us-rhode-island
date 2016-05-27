@@ -1,0 +1,71 @@
+{
+  "id": 874031053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536826,41.877065,-71.536826,41.877065",
+    "geom:latitude":41.877065,
+    "geom:longitude":-71.536826,
+    "iso:country":"US",
+    "sg:address":"4 Cedar Swamp Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1620",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "basket",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JYwEqtbtUFVRpGDrcsn9W_41.877065_-71.536826@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311058,
+    "wof:geomhash":"daafb2c61d82d7ca5b50f8ac60e68ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874031053
+        }
+    ],
+    "wof:id":874031053,
+    "wof:lastmodified":1464311058,
+    "wof:name":"Dave's Marketplace",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -71.536826,
+    41.877065,
+    -71.536826,
+    41.877065
+],
+  "geometry": {"coordinates":[-71.536826,41.877065],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874270049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483204,41.85823,-71.483204,41.85823",
+    "geom:latitude":41.85823,
+    "geom:longitude":-71.483204,
+    "iso:country":"US",
+    "sg:address":"2207 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4913",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CXVWtqu1cPc3GaRTBRG8M_41.858230_-71.483204@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314228,
+    "wof:geomhash":"a69828727932785feca4358f6b51f271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874270049
+        }
+    ],
+    "wof:id":874270049,
+    "wof:lastmodified":1464314228,
+    "wof:name":"Centerdale Glass Co",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "contractor",
+        "plate"
+    ]
+},
+  "bbox": [
+    -71.483204,
+    41.85823,
+    -71.483204,
+    41.85823
+],
+  "geometry": {"coordinates":[-71.483204,41.85823],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874276241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195613,41.546279,-71.195613,41.546279",
+    "geom:latitude":41.546279,
+    "geom:longitude":-71.195613,
+    "iso:country":"US",
+    "sg:address":"14 Old Main Rd",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 8968",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YMrthoHp3MOHYt3tzlk93_41.546279_-71.195613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314467,
+    "wof:geomhash":"c020b40ec48603332b708eedb14a4220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874276241
+        }
+    ],
+    "wof:id":874276241,
+    "wof:lastmodified":1464314467,
+    "wof:name":"Lamplighter Electric",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.195613,
+    41.546279,
+    -71.195613,
+    41.546279
+],
+  "geometry": {"coordinates":[-71.19561299999999,41.546279],"type":"Point"}
+}

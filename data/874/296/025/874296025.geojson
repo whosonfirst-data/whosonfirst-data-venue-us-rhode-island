@@ -1,0 +1,90 @@
+{
+  "id": 874296025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412401,41.823041,-71.412401,41.823041",
+    "geom:latitude":41.823041,
+    "geom:longitude":-71.412401,
+    "iso:country":"US",
+    "sg:address":"220 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 4366",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "flower",
+        "store"
+    ],
+    "sg:website":"www.oopstuff.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58O1aFi3MxEdVaYncmbU1L_41.823041_-71.412401@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315234,
+    "wof:geomhash":"61744816e35cbb84fd16057b53ea733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874296025
+        }
+    ],
+    "wof:id":874296025,
+    "wof:lastmodified":1464315234,
+    "wof:name":"Oop",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "flower",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.412401,
+    41.823041,
+    -71.412401,
+    41.823041
+],
+  "geometry": {"coordinates":[-71.412401,41.823041],"type":"Point"}
+}

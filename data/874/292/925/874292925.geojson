@@ -1,0 +1,74 @@
+{
+  "id": 874292925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252203,41.58546,-71.252203,41.58546",
+    "geom:latitude":41.58546,
+    "geom:longitude":-71.252203,
+    "iso:country":"US",
+    "sg:address":"2005 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4949",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UaFbmSGPGFSG5goie0bH8_41.585460_-71.252203@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315120,
+    "wof:geomhash":"6efa70b094137640ba4a48dbe9be8a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874292925
+        }
+    ],
+    "wof:id":874292925,
+    "wof:lastmodified":1464315120,
+    "wof:name":"Savas Properties",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.252203,
+    41.58546,
+    -71.252203,
+    41.58546
+],
+  "geometry": {"coordinates":[-71.25220299999999,41.58546],"type":"Point"}
+}

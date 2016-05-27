@@ -1,0 +1,86 @@
+{
+  "id": 874293073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469636,41.456047,-71.469636,41.456047",
+    "geom:latitude":41.456047,
+    "geom:longitude":-71.469636,
+    "iso:country":"US",
+    "sg:address":"26 S County Commons Way",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9718",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dental",
+        "clinic"
+    ],
+    "sg:website":"http://www.dentalassociatesofwakefield.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i4GrbvRAJFL9VEhBkeMVv_41.456047_-71.469636@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315126,
+    "wof:geomhash":"36fa219927184e1a94a646c2b7e31fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293073
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874293073
+        }
+    ],
+    "wof:id":874293073,
+    "wof:lastmodified":1464315126,
+    "wof:name":"Dental Associates Of Wakefield Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.469636,
+    41.456047,
+    -71.469636,
+    41.456047
+],
+  "geometry": {"coordinates":[-71.46963599999999,41.456047],"type":"Point"}
+}

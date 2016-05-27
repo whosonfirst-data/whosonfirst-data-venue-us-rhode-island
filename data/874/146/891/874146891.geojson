@@ -1,0 +1,71 @@
+{
+  "id": 874146891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504931,41.887789,-71.504931,41.887789",
+    "geom:latitude":41.887789,
+    "geom:longitude":-71.504931,
+    "iso:country":"US",
+    "sg:address":"24 Cross St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 0011",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plastering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KCQemNApHv8P3DTH2jkpt_41.887789_-71.504931@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"8c5040dcc7f48a274ff6caeea5af4e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874146891
+        }
+    ],
+    "wof:id":874146891,
+    "wof:lastmodified":1464312301,
+    "wof:name":"G & A Quality Plastering",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.504931,
+    41.887789,
+    -71.504931,
+    41.887789
+],
+  "geometry": {"coordinates":[-71.504931,41.887789],"type":"Point"}
+}

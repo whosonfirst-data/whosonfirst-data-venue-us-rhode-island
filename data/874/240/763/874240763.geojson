@@ -1,0 +1,75 @@
+{
+  "id": 874240763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460296,41.700214,-71.460296,41.700214",
+    "geom:latitude":41.700214,
+    "geom:longitude":-71.460296,
+    "iso:country":"US",
+    "sg:address":"140 Veterans Memorial Dr",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 468 4050",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39R6EdYGFuuEGePLtRXBhQ_41.700214_-71.460296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313354,
+    "wof:geomhash":"edb8e83b44e3c0ae0c773ad485a15b24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874240763
+        }
+    ],
+    "wof:id":874240763,
+    "wof:lastmodified":1464313354,
+    "wof:name":"Warwick Fire Prevention",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.460296,
+    41.700214,
+    -71.460296,
+    41.700214
+],
+  "geometry": {"coordinates":[-71.460296,41.700214],"type":"Point"}
+}

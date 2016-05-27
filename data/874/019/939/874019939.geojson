@@ -1,0 +1,71 @@
+{
+  "id": 874019939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394147,41.784463,-71.394147,41.784463",
+    "geom:latitude":41.784463,
+    "geom:longitude":-71.394147,
+    "iso:country":"US",
+    "sg:address":"100 Bayview Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 3540",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:website":"www.savebay.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41e3SRaxV6mCnNHkIPqhzO_41.784463_-71.394147@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310947,
+    "wof:geomhash":"339898cea9a43687ad5b6ed7d1d3d2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874019939
+        }
+    ],
+    "wof:id":874019939,
+    "wof:lastmodified":1464310947,
+    "wof:name":"Save The Bay",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.394147,
+    41.784463,
+    -71.394147,
+    41.784463
+],
+  "geometry": {"coordinates":[-71.394147,41.784463],"type":"Point"}
+}

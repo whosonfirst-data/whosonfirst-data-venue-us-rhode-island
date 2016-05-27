@@ -1,0 +1,86 @@
+{
+  "id": 874285865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.355027,41.774353,-71.355027,41.774353",
+    "geom:latitude":41.774353,
+    "geom:longitude":-71.355027,
+    "iso:country":"US",
+    "sg:address":"298 Willett Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 5546",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "sale",
+        "dvds-rental",
+        "disc",
+        "tape",
+        "video"
+    ],
+    "sg:website":"http://www.farnsworthvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LEPHctXkQE6kXHy6ArFRQ_41.774382_-71.354904@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314852,
+    "wof:geomhash":"cba8dc08133388c56fb959c2ac59a930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874285865
+        }
+    ],
+    "wof:id":874285865,
+    "wof:lastmodified":1464314852,
+    "wof:name":"Farnsworth Video",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "sale",
+        "dvds-rental",
+        "disc",
+        "tape",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.355027,
+    41.774353,
+    -71.355027,
+    41.774353
+],
+  "geometry": {"coordinates":[-71.35502700000001,41.774353],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874162205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558873,42.048271,-71.558873,42.048271",
+    "geom:latitude":42.048271,
+    "geom:longitude":-71.558873,
+    "iso:country":"US",
+    "sg:address":"22 Chestnut St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 3549",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HTnFREaEbqhUe6Rq2bfYt_42.048271_-71.558873@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"f01cf018dd9a570922c2bfd740661867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":874162205
+        }
+    ],
+    "wof:id":874162205,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Countryside Auto Salvage",
+    "wof:parent_id":85810765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.558873,
+    42.048271,
+    -71.558873,
+    42.048271
+],
+  "geometry": {"coordinates":[-71.55887300000001,42.048271],"type":"Point"}
+}

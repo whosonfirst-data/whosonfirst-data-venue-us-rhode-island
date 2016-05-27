@@ -1,0 +1,69 @@
+{
+  "id": 874060153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527123,42.018212,-71.527123,42.018212",
+    "geom:latitude":42.018212,
+    "geom:longitude":-71.527123,
+    "iso:country":"US",
+    "sg:address":"29 Federal St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 4883",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "adult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mu7eMDidpV8FCB02ERPx0_42.018212_-71.527123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311336,
+    "wof:geomhash":"0073d87f8045b467b8e122ce18f28c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874060153
+        }
+    ],
+    "wof:id":874060153,
+    "wof:lastmodified":1464311336,
+    "wof:name":"Oak Ledge Terrace",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adult"
+    ]
+},
+  "bbox": [
+    -71.527123,
+    42.018212,
+    -71.527123,
+    42.018212
+],
+  "geometry": {"coordinates":[-71.527123,42.018212],"type":"Point"}
+}

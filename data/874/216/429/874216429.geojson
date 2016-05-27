@@ -1,0 +1,81 @@
+{
+  "id": 874216429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493218,41.441089,-71.493218,41.441089",
+    "geom:latitude":41.441089,
+    "geom:longitude":-71.493218,
+    "iso:country":"US",
+    "sg:address":"133 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8150",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y3lIXZoU8ZdrD99VSfHlW_41.441089_-71.493218@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313017,
+    "wof:geomhash":"ec931236c4f4322e81ffd3b2de32ac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874216429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874216429
+        }
+    ],
+    "wof:id":874216429,
+    "wof:lastmodified":1464313017,
+    "wof:name":"Eye Care Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.493218,
+    41.441089,
+    -71.493218,
+    41.441089
+],
+  "geometry": {"coordinates":[-71.493218,41.441089],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874254019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398441,41.888624,-71.398441,41.888624",
+    "geom:latitude":41.888624,
+    "geom:longitude":-71.398441,
+    "iso:country":"US",
+    "sg:address":"89 Butler Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 9127",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w2XC0lSdQLgZPq7AMyMmA_41.888624_-71.398441@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313646,
+    "wof:geomhash":"d1deaeccce4c8026dd666a04cea10287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874254019
+        }
+    ],
+    "wof:id":874254019,
+    "wof:lastmodified":1464313646,
+    "wof:name":"Seven Trucking John Neves",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.398441,
+    41.888624,
+    -71.398441,
+    41.888624
+],
+  "geometry": {"coordinates":[-71.39844100000001,41.888624],"type":"Point"}
+}

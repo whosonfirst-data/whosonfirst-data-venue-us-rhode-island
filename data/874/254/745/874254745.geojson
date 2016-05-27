@@ -1,0 +1,79 @@
+{
+  "id": 874254745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.304163,41.490449,-71.304163,41.490449",
+    "geom:latitude":41.490449,
+    "geom:longitude":-71.304163,
+    "iso:country":"US",
+    "sg:address":"57 Everett St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 8145",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hHYkV63RmdefmSNqN1epV_41.490449_-71.304163@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313664,
+    "wof:geomhash":"96ff59bc9fce3ba1ccd55997f99106ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874254745
+        }
+    ],
+    "wof:id":874254745,
+    "wof:lastmodified":1464313664,
+    "wof:name":"Servpro Of Newport & Bristol",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -71.304163,
+    41.490449,
+    -71.304163,
+    41.490449
+],
+  "geometry": {"coordinates":[-71.304163,41.490449],"type":"Point"}
+}

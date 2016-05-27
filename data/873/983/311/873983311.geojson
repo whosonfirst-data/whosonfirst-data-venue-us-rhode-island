@@ -1,0 +1,86 @@
+{
+  "id": 873983311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435877,41.778408,-71.435877,41.778408",
+    "geom:latitude":41.778408,
+    "geom:longitude":-71.435877,
+    "iso:country":"US",
+    "sg:address":"30 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1100",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22lbxQtxiPupZLsUHfTnvA_41.778408_-71.435877@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310636,
+    "wof:geomhash":"2411cb2235576d034adb338c52739be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873983311
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":873983311
+        }
+    ],
+    "wof:id":873983311,
+    "wof:lastmodified":1464310636,
+    "wof:name":"Capone Property Management",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.435877,
+    41.778408,
+    -71.435877,
+    41.778408
+],
+  "geometry": {"coordinates":[-71.435877,41.778408],"type":"Point"}
+}

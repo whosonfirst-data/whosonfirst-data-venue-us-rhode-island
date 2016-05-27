@@ -1,0 +1,71 @@
+{
+  "id": 874045319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561398,41.682515,-71.561398,41.682515",
+    "geom:latitude":41.682515,
+    "geom:longitude":-71.561398,
+    "iso:country":"US",
+    "sg:address":"726 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 5329",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NPIN8fCGBkwk2V8SDl8sd_41.682515_-71.561398@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311199,
+    "wof:geomhash":"986e38142f83bef897d048752e51f3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874045319
+        }
+    ],
+    "wof:id":874045319,
+    "wof:lastmodified":1464311199,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.561398,
+    41.682515,
+    -71.561398,
+    41.682515
+],
+  "geometry": {"coordinates":[-71.561398,41.682515],"type":"Point"}
+}

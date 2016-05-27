@@ -1,0 +1,69 @@
+{
+  "id": 874239305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551239,41.387011,-71.551239,41.387011",
+    "geom:latitude":41.387011,
+    "geom:longitude":-71.551239,
+    "iso:country":"US",
+    "sg:address":"61 Matunuck Schoolhouse Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0330",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kWJv13G5nkzH0UzEUjqwn_41.387011_-71.551239@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313327,
+    "wof:geomhash":"c9031e39a7244d4c0fbd19c87d4a3161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874239305
+        }
+    ],
+    "wof:id":874239305,
+    "wof:lastmodified":1464313327,
+    "wof:name":"Weeden Appraisal Co",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.551239,
+    41.387011,
+    -71.551239,
+    41.387011
+],
+  "geometry": {"coordinates":[-71.551239,41.387011],"type":"Point"}
+}

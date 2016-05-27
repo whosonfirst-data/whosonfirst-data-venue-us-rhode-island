@@ -1,0 +1,77 @@
+{
+  "id": 874195131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402138,41.752966,-71.402138,41.752966",
+    "geom:latitude":41.752966,
+    "geom:longitude":-71.402138,
+    "iso:country":"US",
+    "sg:address":"106 Birch St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 952 4062",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SOAKTeU3h3DJe90zh3E21_41.752966_-71.402138@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"3bb60332f6b34aa427e9e9fa37c84cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874195131
+        }
+    ],
+    "wof:id":874195131,
+    "wof:lastmodified":1464312795,
+    "wof:name":"O'Brien Heating & A/C",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.402138,
+    41.752966,
+    -71.402138,
+    41.752966
+],
+  "geometry": {"coordinates":[-71.40213799999999,41.752966],"type":"Point"}
+}

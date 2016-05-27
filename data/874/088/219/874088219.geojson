@@ -1,0 +1,71 @@
+{
+  "id": 874088219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679306,41.385847,-71.679306,41.385847",
+    "geom:latitude":41.385847,
+    "geom:longitude":-71.679306,
+    "iso:country":"US",
+    "sg:address":"50 Bayberry Ln",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6699",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UvW6vs9dh53zYHoQe9TOf_41.385847_-71.679306@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311643,
+    "wof:geomhash":"c09c5b809cbda8f6fb06701708bd36ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874088219
+        }
+    ],
+    "wof:id":874088219,
+    "wof:lastmodified":1464311643,
+    "wof:name":"YMCA",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.679306,
+    41.385847,
+    -71.679306,
+    41.385847
+],
+  "geometry": {"coordinates":[-71.679306,41.385847],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874252115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.290436,41.554765,-71.290436,41.554765",
+    "geom:latitude":41.554765,
+    "geom:longitude":-71.290436,
+    "iso:country":"US",
+    "sg:address":"2547 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 4004",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hHURDsfNa7bWEawDXMW8y_41.554765_-71.290436@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313607,
+    "wof:geomhash":"d4d4076a21b060cc6ded294d124d95a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874252115
+        }
+    ],
+    "wof:id":874252115,
+    "wof:lastmodified":1464313607,
+    "wof:name":"Freedom Bay",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.290436,
+    41.554765,
+    -71.290436,
+    41.554765
+],
+  "geometry": {"coordinates":[-71.290436,41.554765],"type":"Point"}
+}

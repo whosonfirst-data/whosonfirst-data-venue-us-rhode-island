@@ -1,0 +1,69 @@
+{
+  "id": 874298855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423982,41.868947,-71.423982,41.868947",
+    "geom:latitude":41.868947,
+    "geom:longitude":-71.423982,
+    "iso:country":"US",
+    "sg:address":"1031 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 1222",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aKEEonlTOPcQL8gQA6B4b_41.868947_-71.423982@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315350,
+    "wof:geomhash":"a4aa5a0927d1887dd971fdc4f6352adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874298855
+        }
+    ],
+    "wof:id":874298855,
+    "wof:lastmodified":1464315350,
+    "wof:name":"Pizza Chef",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.423982,
+    41.868947,
+    -71.423982,
+    41.868947
+],
+  "geometry": {"coordinates":[-71.423982,41.868947],"type":"Point"}
+}

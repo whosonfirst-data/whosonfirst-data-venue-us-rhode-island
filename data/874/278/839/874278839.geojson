@@ -1,0 +1,90 @@
+{
+  "id": 874278839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493905,41.439638,-71.493905,41.439638",
+    "geom:latitude":41.439638,
+    "geom:longitude":-71.493905,
+    "iso:country":"US",
+    "sg:address":"25 Central Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 7171",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_579EG40vLVdjLjHWl6rkQ5_41.439638_-71.493905@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314567,
+    "wof:geomhash":"e0a474080729dedefefff8587f6b08af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874278839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874278839
+        }
+    ],
+    "wof:id":874278839,
+    "wof:lastmodified":1464314567,
+    "wof:name":"Dog House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.493905,
+    41.439638,
+    -71.493905,
+    41.439638
+],
+  "geometry": {"coordinates":[-71.493905,41.439638],"type":"Point"}
+}

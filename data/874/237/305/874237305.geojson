@@ -1,0 +1,77 @@
+{
+  "id": 874237305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.383918,41.876825,-71.383918,41.876825",
+    "geom:latitude":41.876825,
+    "geom:longitude":-71.383918,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 8400",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vVdAWCeXbPslEtPXVlFkq_41.876825_-71.383918@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313285,
+    "wof:geomhash":"dc079eacc311caa4890793fda9d7bb59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874237305
+        }
+    ],
+    "wof:id":874237305,
+    "wof:lastmodified":1464313285,
+    "wof:name":"David Sperduti Dental Lab",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.383918,
+    41.876825,
+    -71.383918,
+    41.876825
+],
+  "geometry": {"coordinates":[-71.38391799999999,41.876825],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874011079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57145,41.699924,-71.57145,41.699924",
+    "geom:latitude":41.699924,
+    "geom:longitude":-71.57145,
+    "iso:country":"US",
+    "sg:address":"36 Abbotts Crossing Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 6224",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pNQdQyGIG2gmt6Rqx6rM7_41.699924_-71.571450@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"54fe575ef3ae78d4e615704de7b269f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874011079
+        }
+    ],
+    "wof:id":874011079,
+    "wof:lastmodified":1464310863,
+    "wof:name":"MDH Precision Machining Inc",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.57145,
+    41.699924,
+    -71.57145,
+    41.699924
+],
+  "geometry": {"coordinates":[-71.57145,41.699924],"type":"Point"}
+}

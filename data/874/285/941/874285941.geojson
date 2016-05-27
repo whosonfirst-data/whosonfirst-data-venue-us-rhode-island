@@ -1,0 +1,78 @@
+{
+  "id": 874285941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421501,41.8382,-71.421501,41.8382",
+    "geom:latitude":41.8382,
+    "geom:longitude":-71.421501,
+    "iso:country":"US",
+    "sg:address":"50 Fillmore St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 5094",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.times2.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QgTgha3EPWWARUnLLRDyt_41.838114_-71.421630@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314855,
+    "wof:geomhash":"2f9511231ad743f6fdd4c636094fa637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874285941
+        }
+    ],
+    "wof:id":874285941,
+    "wof:lastmodified":1464314855,
+    "wof:name":"Times Squared Inc",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.421501,
+    41.8382,
+    -71.421501,
+    41.8382
+],
+  "geometry": {"coordinates":[-71.42150100000001,41.8382],"type":"Point"}
+}

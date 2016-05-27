@@ -1,0 +1,77 @@
+{
+  "id": 874005781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403178,41.775102,-71.403178,41.775102",
+    "geom:latitude":41.775102,
+    "geom:longitude":-71.403178,
+    "iso:country":"US",
+    "sg:address":"8 Lynn Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 4292",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mcyDx7qJYcRdFPs07d0vM_41.775102_-71.403178@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310823,
+    "wof:geomhash":"76884c609897806eaf222c1fc6fa94c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874005781
+        }
+    ],
+    "wof:id":874005781,
+    "wof:lastmodified":1464310823,
+    "wof:name":"Maxiclean",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.403178,
+    41.775102,
+    -71.403178,
+    41.775102
+],
+  "geometry": {"coordinates":[-71.403178,41.775102],"type":"Point"}
+}

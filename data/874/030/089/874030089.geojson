@@ -1,0 +1,73 @@
+{
+  "id": 874030089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435836,41.943807,-71.435836,41.943807",
+    "geom:latitude":41.943807,
+    "geom:longitude":-71.435836,
+    "iso:country":"US",
+    "sg:address":"1850 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1155",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w8NvhOalTkMx9Ox4wnHHp_41.943807_-71.435836@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311049,
+    "wof:geomhash":"f7f591f8a18fdc139063dad4343aa0b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874030089
+        }
+    ],
+    "wof:id":874030089,
+    "wof:lastmodified":1464311049,
+    "wof:name":"Luxury Cleaners Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -71.435836,
+    41.943807,
+    -71.435836,
+    41.943807
+],
+  "geometry": {"coordinates":[-71.43583599999999,41.943807],"type":"Point"}
+}

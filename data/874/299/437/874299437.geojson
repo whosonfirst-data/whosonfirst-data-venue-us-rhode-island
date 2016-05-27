@@ -1,0 +1,70 @@
+{
+  "id": 874299437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446999,41.854301,-71.446999,41.854301",
+    "geom:latitude":41.854301,
+    "geom:longitude":-71.446999,
+    "iso:country":"US",
+    "sg:address":"13 Smithfield Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6124",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.sallybeauty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lteqW9K2Ce6AeakqiizDA_41.854301_-71.446999@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315369,
+    "wof:geomhash":"2c8ced9adedc4669a9822d0bb7236e8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874299437
+        }
+    ],
+    "wof:id":874299437,
+    "wof:lastmodified":1464315369,
+    "wof:name":"Sally Beauty Supply",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.446999,
+    41.854301,
+    -71.446999,
+    41.854301
+],
+  "geometry": {"coordinates":[-71.44699900000001,41.854301],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874292671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457298,41.935501,-71.457298,41.935501",
+    "geom:latitude":41.935501,
+    "geom:longitude":-71.457298,
+    "iso:country":"US",
+    "sg:address":"6 Blackstone Valley Pl Ste 502",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 6250",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TfLGnzwZ33azgWwzDojut_41.935501_-71.457298@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315112,
+    "wof:geomhash":"c553621de151a2be444fb1eb354f3969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292671
+        }
+    ],
+    "wof:id":874292671,
+    "wof:lastmodified":1464315112,
+    "wof:name":"Ferreira Maria Rnp",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.457298,
+    41.935501,
+    -71.457298,
+    41.935501
+],
+  "geometry": {"coordinates":[-71.45729799999999,41.935501],"type":"Point"}
+}

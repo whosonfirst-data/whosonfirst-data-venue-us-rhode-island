@@ -1,0 +1,71 @@
+{
+  "id": 874120233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412448,41.636485,-71.412448,41.636485",
+    "geom:latitude":41.636485,
+    "geom:longitude":-71.412448,
+    "iso:country":"US",
+    "sg:address":"41 Highbank Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 2357",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85835761,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q3XVzBw0pt54W4hbKJxbN_41.636485_-71.412448@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"ab01bdd5cb1b2d75266759b5a29c4845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85835761,
+            "region_id":85688509,
+            "venue_id":874120233
+        }
+    ],
+    "wof:id":874120233,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Rick Archambault Custom Masnry",
+    "wof:parent_id":85835761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.412448,
+    41.636485,
+    -71.412448,
+    41.636485
+],
+  "geometry": {"coordinates":[-71.412448,41.636485],"type":"Point"}
+}

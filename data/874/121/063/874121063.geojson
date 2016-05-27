@@ -1,0 +1,80 @@
+{
+  "id": 874121063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549479,41.915787,-71.549479,41.915787",
+    "geom:latitude":41.915787,
+    "geom:longitude":-71.549479,
+    "iso:country":"US",
+    "sg:address":"16 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2250",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "model",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PG5a9zXscopuog1ccWrlT_41.915787_-71.549479@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312050,
+    "wof:geomhash":"92c60510e97a59329ea8edd0bdfacfb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874121063
+        }
+    ],
+    "wof:id":874121063,
+    "wof:lastmodified":1464312050,
+    "wof:name":"Conway & Rassendyll Corp",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "model",
+        "maker"
+    ]
+},
+  "bbox": [
+    -71.549479,
+    41.915787,
+    -71.549479,
+    41.915787
+],
+  "geometry": {"coordinates":[-71.54947900000001,41.915787],"type":"Point"}
+}

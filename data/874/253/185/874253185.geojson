@@ -1,0 +1,72 @@
+{
+  "id": 874253185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452582,41.57005,-71.452582,41.57005",
+    "geom:latitude":41.57005,
+    "geom:longitude":-71.452582,
+    "iso:country":"US",
+    "sg:address":"64 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5477",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UkNdLvGfnkIVCyFSFvLa3_41.570050_-71.452582@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313630,
+    "wof:geomhash":"f6e84cfb219083f9baa7f9004c56250e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874253185
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874253185
+        }
+    ],
+    "wof:id":874253185,
+    "wof:lastmodified":1464313630,
+    "wof:name":"Wickford Diner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.452582,
+    41.57005,
+    -71.452582,
+    41.57005
+],
+  "geometry": {"coordinates":[-71.45258200000001,41.57005],"type":"Point"}
+}

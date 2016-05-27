@@ -1,0 +1,77 @@
+{
+  "id": 874287519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453128,41.771456,-71.453128,41.771456",
+    "geom:latitude":41.771456,
+    "geom:longitude":-71.453128,
+    "iso:country":"US",
+    "sg:address":"1099 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/201225-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JwcIUjyyDsdQhgLhmdgAq_41.771456_-71.453128@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314913,
+    "wof:geomhash":"c3d9731ea581b6238f8aa3c8be4c53be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874287519
+        }
+    ],
+    "wof:id":874287519,
+    "wof:lastmodified":1464314913,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.453128,
+    41.771456,
+    -71.453128,
+    41.771456
+],
+  "geometry": {"coordinates":[-71.45312800000001,41.771456],"type":"Point"}
+}

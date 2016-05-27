@@ -1,0 +1,79 @@
+{
+  "id": 874003931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.368182,41.820443,-71.368182,41.820443",
+    "geom:latitude":41.820443,
+    "geom:longitude":-71.368182,
+    "iso:country":"US",
+    "sg:address":"740 N Broadway",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 8470",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mAsnFI538qLYs0YJ5f85r_41.820443_-71.368182@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310802,
+    "wof:geomhash":"dfbf9696862a16b789b3569c761f9f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874003931
+        }
+    ],
+    "wof:id":874003931,
+    "wof:lastmodified":1464310802,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.368182,
+    41.820443,
+    -71.368182,
+    41.820443
+],
+  "geometry": {"coordinates":[-71.368182,41.820443],"type":"Point"}
+}

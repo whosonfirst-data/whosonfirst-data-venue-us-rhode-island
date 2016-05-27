@@ -1,0 +1,70 @@
+{
+  "id": 874210007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450099,41.662165,-71.450099,41.662165",
+    "geom:latitude":41.662165,
+    "geom:longitude":-71.450099,
+    "iso:country":"US",
+    "sg:address":"157 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 0452",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BGrOa58hK9Rv04tsBN3Aw_41.662165_-71.450099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312949,
+    "wof:geomhash":"5eef848818525b306bbe9ade89a2559a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874210007
+        }
+    ],
+    "wof:id":874210007,
+    "wof:lastmodified":1464312949,
+    "wof:name":"Norman's Restaurant",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.450099,
+    41.662165,
+    -71.450099,
+    41.662165
+],
+  "geometry": {"coordinates":[-71.45009899999999,41.662165],"type":"Point"}
+}

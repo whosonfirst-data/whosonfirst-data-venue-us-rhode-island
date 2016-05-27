@@ -1,0 +1,69 @@
+{
+  "id": 874288681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.626198,41.386902,-71.626198,41.386902",
+    "geom:latitude":41.386902,
+    "geom:longitude":-71.626198,
+    "iso:country":"US",
+    "sg:address":"4115 Old Post Rd # B",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 8888",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2neacl75EOJcG7VSerFxyP_41.386902_-71.626198@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314964,
+    "wof:geomhash":"94316e930b1c1b6f65e0397958e10529",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288681
+        }
+    ],
+    "wof:id":874288681,
+    "wof:lastmodified":1464314964,
+    "wof:name":"General Stanton Inn",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.626198,
+    41.386902,
+    -71.626198,
+    41.386902
+],
+  "geometry": {"coordinates":[-71.626198,41.386902],"type":"Point"}
+}

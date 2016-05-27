@@ -1,0 +1,71 @@
+{
+  "id": 874265621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447327,41.945594,-71.447327,41.945594",
+    "geom:latitude":41.945594,
+    "geom:longitude":-71.447327,
+    "iso:country":"US",
+    "sg:address":"8 Oak Hill Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1076",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fVf4f8z45yGLYyo79BSGJ_41.945594_-71.447327@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314058,
+    "wof:geomhash":"5cf0d1e14a760408392e94f34c2fa79b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874265621
+        }
+    ],
+    "wof:id":874265621,
+    "wof:lastmodified":1464314058,
+    "wof:name":"Bartlett & Assoc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.447327,
+    41.945594,
+    -71.447327,
+    41.945594
+],
+  "geometry": {"coordinates":[-71.447327,41.945594],"type":"Point"}
+}

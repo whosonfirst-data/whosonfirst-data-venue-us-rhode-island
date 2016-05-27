@@ -1,0 +1,82 @@
+{
+  "id": 874010767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42525,41.805058,-71.42525,41.805058",
+    "geom:latitude":41.805058,
+    "geom:longitude":-71.42525,
+    "iso:country":"US",
+    "sg:address":"280 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 9500",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XcdMRSK7hDhHLujcsiprG_41.805058_-71.425250@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310861,
+    "wof:geomhash":"d9b1c1db5187c28b953222e6f9d7b46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874010767
+        }
+    ],
+    "wof:id":874010767,
+    "wof:lastmodified":1464310861,
+    "wof:name":"Joyce M Martin DC",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.42525,
+    41.805058,
+    -71.42525,
+    41.805058
+],
+  "geometry": {"coordinates":[-71.42525000000001,41.805058],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874270913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453759,41.571563,-71.453759,41.571563",
+    "geom:latitude":41.571563,
+    "geom:longitude":-71.453759,
+    "iso:country":"US",
+    "sg:address":"13 W Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4576",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gBQBZk0RTIUtyzI9q4L71_41.571563_-71.453759@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314256,
+    "wof:geomhash":"4da788d967fce17278485dec1283df0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874270913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874270913
+        }
+    ],
+    "wof:id":874270913,
+    "wof:lastmodified":1464314256,
+    "wof:name":"Standard-Times",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -71.453759,
+    41.571563,
+    -71.453759,
+    41.571563
+],
+  "geometry": {"coordinates":[-71.45375900000001,41.571563],"type":"Point"}
+}

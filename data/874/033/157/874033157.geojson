@@ -1,0 +1,80 @@
+{
+  "id": 874033157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426884,41.870194,-71.426884,41.870194",
+    "geom:latitude":41.870194,
+    "geom:longitude":-71.426884,
+    "iso:country":"US",
+    "sg:address":"6 Bassett St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 5900",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beverage",
+        "soft",
+        "drink",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ivicXiLWK2ayz5uE2gj0o_41.870194_-71.426884@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311077,
+    "wof:geomhash":"109204719f6e8329d2075054c4c5b9cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874033157
+        }
+    ],
+    "wof:id":874033157,
+    "wof:lastmodified":1464311077,
+    "wof:name":"Stella Brothers",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "soft",
+        "drink",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.426884,
+    41.870194,
+    -71.426884,
+    41.870194
+],
+  "geometry": {"coordinates":[-71.426884,41.870194],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874088345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.699378,41.523398,-71.699378,41.523398",
+    "geom:latitude":41.523398,
+    "geom:longitude":-71.699378,
+    "iso:country":"US",
+    "sg:address":"54 Skunk Hill Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2411",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zVbMKSTHj3zByCzcHl3FZ_41.523398_-71.699378@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311644,
+    "wof:geomhash":"bea6070dbac278895209b0eb36a8ff12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":874088345
+        }
+    ],
+    "wof:id":874088345,
+    "wof:lastmodified":1464311644,
+    "wof:name":"State Police Rhode Island",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -71.699378,
+    41.523398,
+    -71.699378,
+    41.523398
+],
+  "geometry": {"coordinates":[-71.699378,41.523398],"type":"Point"}
+}

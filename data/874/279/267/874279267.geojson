@@ -1,0 +1,83 @@
+{
+  "id": 874279267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.183751,41.625872,-71.183751,41.625872",
+    "geom:latitude":41.625872,
+    "geom:longitude":-71.183751,
+    "iso:country":"US",
+    "sg:address":"1631 Fish Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 7206",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01mSwqBI9tyjkibOSgeEz5_41.625872_-71.183751@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314581,
+    "wof:geomhash":"4f88eb1ab303b4a20986f26c36bb21c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874279267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874279267
+        }
+    ],
+    "wof:id":874279267,
+    "wof:lastmodified":1464314581,
+    "wof:name":"KIDD Motor Sales & Equipment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -71.183751,
+    41.625872,
+    -71.183751,
+    41.625872
+],
+  "geometry": {"coordinates":[-71.183751,41.625872],"type":"Point"}
+}

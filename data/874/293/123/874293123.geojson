@@ -1,0 +1,71 @@
+{
+  "id": 874293123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437764,41.489844,-71.437764,41.489844",
+    "geom:latitude":41.489844,
+    "geom:longitude":-71.437764,
+    "iso:country":"US",
+    "sg:address":"1171 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1312",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lFFYVCOSwyeEZNVbyU6Gr_41.489844_-71.437764@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315127,
+    "wof:geomhash":"62fc0555d5a252c97cccfbb77557be24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874293123
+        }
+    ],
+    "wof:id":874293123,
+    "wof:lastmodified":1464315127,
+    "wof:name":"Bonnet Shears",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -71.437764,
+    41.489844,
+    -71.437764,
+    41.489844
+],
+  "geometry": {"coordinates":[-71.437764,41.489844],"type":"Point"}
+}

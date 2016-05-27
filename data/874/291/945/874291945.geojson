@@ -1,0 +1,69 @@
+{
+  "id": 874291945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434483,41.942348,-71.434483,41.942348",
+    "geom:latitude":41.942348,
+    "geom:longitude":-71.434483,
+    "iso:country":"US",
+    "sg:address":"1725 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 7911",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46K1BSTglcHcx44ygQ3KJv_41.942348_-71.434483@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315087,
+    "wof:geomhash":"a591d58159d9a4127b7e1ca60b764545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291945
+        }
+    ],
+    "wof:id":874291945,
+    "wof:lastmodified":1464315087,
+    "wof:name":"Farrington Linda DVM",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.434483,
+    41.942348,
+    -71.434483,
+    41.942348
+],
+  "geometry": {"coordinates":[-71.434483,41.942348],"type":"Point"}
+}

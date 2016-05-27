@@ -1,0 +1,71 @@
+{
+  "id": 874266245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291581,41.543344,-71.291581,41.543344",
+    "geom:latitude":41.543344,
+    "geom:longitude":-71.291581,
+    "iso:country":"US",
+    "sg:address":"1653 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 845 2145",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UEgzWuz8hhOxEkcJZ8R83_41.543344_-71.291581@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314079,
+    "wof:geomhash":"1a14d28a2601cce1bb1e32e24c3a4051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874266245
+        }
+    ],
+    "wof:id":874266245,
+    "wof:lastmodified":1464314079,
+    "wof:name":"Rego & Gifford Sanitation Svc",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.291581,
+    41.543344,
+    -71.291581,
+    41.543344
+],
+  "geometry": {"coordinates":[-71.29158099999999,41.543344],"type":"Point"}
+}

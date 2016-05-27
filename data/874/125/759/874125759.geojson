@@ -1,0 +1,71 @@
+{
+  "id": 874125759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245618,41.53172,-71.245618,41.53172",
+    "geom:latitude":41.53172,
+    "geom:longitude":-71.245618,
+    "iso:country":"US",
+    "sg:address":"94 Carter Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 0493",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oTzO62LHBktZAvkKBNof8_41.531720_-71.245618@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312092,
+    "wof:geomhash":"8ad67d525fccc8e4c2b138446ffe8e02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874125759
+        }
+    ],
+    "wof:id":874125759,
+    "wof:lastmodified":1464312092,
+    "wof:name":"Dominic T Grimes",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.245618,
+    41.53172,
+    -71.245618,
+    41.53172
+],
+  "geometry": {"coordinates":[-71.24561799999999,41.53172],"type":"Point"}
+}

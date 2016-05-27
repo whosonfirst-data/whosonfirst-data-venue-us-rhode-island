@@ -1,0 +1,82 @@
+{
+  "id": 874304915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493057,41.830513,-71.493057,41.830513",
+    "geom:latitude":41.830513,
+    "geom:longitude":-71.493057,
+    "iso:country":"US",
+    "sg:address":"3 Woodcrest Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5960",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "detailers",
+        "erectors",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lICxpvQl1XokNig08BUHX_41.830513_-71.493057@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315561,
+    "wof:geomhash":"c7df9f1abff962f1b5de03b23f8dbd03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304915
+        }
+    ],
+    "wof:id":874304915,
+    "wof:lastmodified":1464315561,
+    "wof:name":"Catanzaro & Assoc Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "detailers",
+        "erectors",
+        "structural"
+    ]
+},
+  "bbox": [
+    -71.493057,
+    41.830513,
+    -71.493057,
+    41.830513
+],
+  "geometry": {"coordinates":[-71.49305699999999,41.830513],"type":"Point"}
+}

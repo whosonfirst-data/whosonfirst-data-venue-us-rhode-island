@@ -1,0 +1,94 @@
+{
+  "id": 874267045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503289,41.43595,-71.503289,41.43595",
+    "geom:latitude":41.43595,
+    "geom:longitude":-71.503289,
+    "iso:country":"US",
+    "sg:address":"484 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8020",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supp",
+        "equipment",
+        "bird",
+        "specialty",
+        "watching"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J6GvEtXRukp4X5pWtnm25_41.435950_-71.503289@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314109,
+    "wof:geomhash":"5b0c236ffc458b5684bec565b07cb147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874267045
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874267045
+        }
+    ],
+    "wof:id":874267045,
+    "wof:lastmodified":1464314109,
+    "wof:name":"Bird Watchers Nature View",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supp",
+        "equipment",
+        "bird",
+        "specialty",
+        "watching"
+    ]
+},
+  "bbox": [
+    -71.503289,
+    41.43595,
+    -71.503289,
+    41.43595
+],
+  "geometry": {"coordinates":[-71.503289,41.43595],"type":"Point"}
+}

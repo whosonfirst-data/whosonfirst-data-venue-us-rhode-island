@@ -1,0 +1,71 @@
+{
+  "id": 874115993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.622734,41.985899,-71.622734,41.985899",
+    "geom:latitude":41.985899,
+    "geom:longitude":-71.622734,
+    "iso:country":"US",
+    "sg:address":"50 Old Mill St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2900",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pallet",
+        "skid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A2yvWuBsuxGj419CzmIbs_41.985899_-71.622734@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311997,
+    "wof:geomhash":"ce713cc95e2045ae3abd97971afa040f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874115993
+        }
+    ],
+    "wof:id":874115993,
+    "wof:lastmodified":1464311997,
+    "wof:name":"Atlas Pallet Inc",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pallet",
+        "skid"
+    ]
+},
+  "bbox": [
+    -71.622734,
+    41.985899,
+    -71.622734,
+    41.985899
+],
+  "geometry": {"coordinates":[-71.62273399999999,41.985899],"type":"Point"}
+}

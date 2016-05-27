@@ -1,0 +1,71 @@
+{
+  "id": 874124335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505851,41.889267,-71.505851,41.889267",
+    "geom:latitude":41.889267,
+    "geom:longitude":-71.505851,
+    "iso:country":"US",
+    "sg:address":"39 Stillwater Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2393",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xKOA82ilZ6OeKizv7zTgD_41.889267_-71.505851@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312079,
+    "wof:geomhash":"c144fcb1257879742d2e527375d7b19b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874124335
+        }
+    ],
+    "wof:id":874124335,
+    "wof:lastmodified":1464312079,
+    "wof:name":"Dependable Pump Repair",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.505851,
+    41.889267,
+    -71.505851,
+    41.889267
+],
+  "geometry": {"coordinates":[-71.50585100000001,41.889267],"type":"Point"}
+}

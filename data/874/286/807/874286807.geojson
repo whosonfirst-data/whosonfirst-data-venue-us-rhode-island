@@ -1,0 +1,76 @@
+{
+  "id": 874286807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.305261,41.518968,-71.305261,41.518968",
+    "geom:latitude":41.518968,
+    "geom:longitude":-71.305261,
+    "iso:country":"US",
+    "sg:address":"210 Coddington Hwy",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/12064-coddington-brewing-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 6690",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G2J3Ls8oHHiXUwy8pPBEo_41.518968_-71.305261@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314883,
+    "wof:geomhash":"682383d6d6cab75813d553fe4d6a1fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874286807
+        }
+    ],
+    "wof:id":874286807,
+    "wof:lastmodified":1464314883,
+    "wof:name":"Coddington Brewing Company",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.305261,
+    41.518968,
+    -71.305261,
+    41.518968
+],
+  "geometry": {"coordinates":[-71.305261,41.518968],"type":"Point"}
+}

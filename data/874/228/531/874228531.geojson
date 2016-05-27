@@ -1,0 +1,90 @@
+{
+  "id": 874228531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425827,41.839256,-71.425827,41.839256",
+    "geom:latitude":41.839256,
+    "geom:longitude":-71.425827,
+    "iso:country":"US",
+    "sg:address":"280 Douglas Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Dairy",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 1226",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "frozen",
+        "dessert",
+        "specialty",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IssSLxitx0iB5Qw2BZoIN_41.839256_-71.425827@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"7e91de4971eef280540d0dd1590caa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874228531
+        }
+    ],
+    "wof:id":874228531,
+    "wof:lastmodified":1464313146,
+    "wof:name":"New England Frozen Lemonade",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "frozen",
+        "dessert",
+        "specialty",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.425827,
+    41.839256,
+    -71.425827,
+    41.839256
+],
+  "geometry": {"coordinates":[-71.425827,41.839256],"type":"Point"}
+}

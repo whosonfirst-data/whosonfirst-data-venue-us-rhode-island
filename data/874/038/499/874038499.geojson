@@ -1,0 +1,71 @@
+{
+  "id": 874038499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503061,41.874218,-71.503061,41.874218",
+    "geom:latitude":41.874218,
+    "geom:longitude":-71.503061,
+    "iso:country":"US",
+    "sg:address":"9 Hill Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 2660",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BLlLP5coji2gtaGVSjDGl_41.874218_-71.503061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311130,
+    "wof:geomhash":"431b73d475c777501790b50854819f64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874038499
+        }
+    ],
+    "wof:id":874038499,
+    "wof:lastmodified":1464311130,
+    "wof:name":"Accurate Mortgage",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.503061,
+    41.874218,
+    -71.503061,
+    41.874218
+],
+  "geometry": {"coordinates":[-71.503061,41.874218],"type":"Point"}
+}

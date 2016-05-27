@@ -1,0 +1,92 @@
+{
+  "id": 874258959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448588,41.795732,-71.448588,41.795732",
+    "geom:latitude":41.795732,
+    "geom:longitude":-71.448588,
+    "iso:country":"US",
+    "sg:address":"22 Field St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 7380",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "blade",
+        "saw",
+        "handsaw"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        85880059,
+        404488375,
+        101720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70bSXDVXPiMneJT9USPSVl_41.795732_-71.448588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313823,
+    "wof:geomhash":"baa0f6231057235ae04883912156f288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874258959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874258959
+        }
+    ],
+    "wof:id":874258959,
+    "wof:lastmodified":1464313823,
+    "wof:name":"Malco Saw Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blade",
+        "saw",
+        "handsaw"
+    ]
+},
+  "bbox": [
+    -71.448588,
+    41.795732,
+    -71.448588,
+    41.795732
+],
+  "geometry": {"coordinates":[-71.448588,41.795732],"type":"Point"}
+}

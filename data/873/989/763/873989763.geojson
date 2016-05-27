@@ -1,0 +1,73 @@
+{
+  "id": 873989763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441062,41.88807,-71.441062,41.88807",
+    "geom:latitude":41.88807,
+    "geom:longitude":-71.441062,
+    "iso:country":"US",
+    "sg:address":"1600 Louisquisset Pike",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 9260",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qVTa4eqVuWHwo3J62UfvD_41.888070_-71.441062@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310688,
+    "wof:geomhash":"b372a1799be4ef32d359e70d1654c4bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":873989763
+        }
+    ],
+    "wof:id":873989763,
+    "wof:lastmodified":1464310688,
+    "wof:name":"Regall Sports LGP",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cat",
+        "dog",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -71.441062,
+    41.88807,
+    -71.441062,
+    41.88807
+],
+  "geometry": {"coordinates":[-71.441062,41.88807],"type":"Point"}
+}

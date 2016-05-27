@@ -1,0 +1,93 @@
+{
+  "id": 874205889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447484,41.776658,-71.447484,41.776658",
+    "geom:latitude":41.776658,
+    "geom:longitude":-71.447484,
+    "iso:country":"US",
+    "sg:address":"922 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 8444",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "removing",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQ39xLHeDFjOF54mld7WP_41.776658_-71.447484@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312903,
+    "wof:geomhash":"3bd41f8443a4c4c15a1a91c2de8e9ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874205889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874205889
+        }
+    ],
+    "wof:id":874205889,
+    "wof:lastmodified":1464312903,
+    "wof:name":"Aesthetic Rejuvenation Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "removing",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.447484,
+    41.776658,
+    -71.447484,
+    41.776658
+],
+  "geometry": {"coordinates":[-71.447484,41.776658],"type":"Point"}
+}

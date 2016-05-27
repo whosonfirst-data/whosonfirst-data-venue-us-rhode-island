@@ -1,0 +1,71 @@
+{
+  "id": 874241853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458629,41.866282,-71.458629,41.866282",
+    "geom:latitude":41.866282,
+    "geom:longitude":-71.458629,
+    "iso:country":"US",
+    "sg:address":"34 Fitzhugh St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8267",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BBqvGBVNqM8YRzMgDxOld_41.866282_-71.458629@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313375,
+    "wof:geomhash":"7debe42faf2b9e1cb73bc71cb9ad4e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874241853
+        }
+    ],
+    "wof:id":874241853,
+    "wof:lastmodified":1464313375,
+    "wof:name":"Magna Electric",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.458629,
+    41.866282,
+    -71.458629,
+    41.866282
+],
+  "geometry": {"coordinates":[-71.458629,41.866282],"type":"Point"}
+}

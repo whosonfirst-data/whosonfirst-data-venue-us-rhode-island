@@ -1,0 +1,73 @@
+{
+  "id": 874074163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549651,41.377134,-71.549651,41.377134",
+    "geom:latitude":41.377134,
+    "geom:longitude":-71.549651,
+    "iso:country":"US",
+    "sg:address":"682 Matunuck Beach Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 0916",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qg559IGYRUsseTOvcYmjQ_41.377134_-71.549651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311495,
+    "wof:geomhash":"8d754f67802e1a03ca10144660bd3098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874074163
+        }
+    ],
+    "wof:id":874074163,
+    "wof:lastmodified":1464311495,
+    "wof:name":"ATM Sources",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -71.549651,
+    41.377134,
+    -71.549651,
+    41.377134
+],
+  "geometry": {"coordinates":[-71.549651,41.377134],"type":"Point"}
+}

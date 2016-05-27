@@ -1,0 +1,75 @@
+{
+  "id": 874283333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422096,41.8372,-71.422096,41.8372",
+    "geom:latitude":41.8372,
+    "geom:longitude":-71.422096,
+    "iso:country":"US",
+    "sg:address":"194 Douglas Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7362",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZGvdCS3d3lcuEwGYIlYwW_41.836955_-71.422068@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314750,
+    "wof:geomhash":"507d7cf6b9239c6c63ada87cad54aa49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874283333
+        }
+    ],
+    "wof:id":874283333,
+    "wof:lastmodified":1464314750,
+    "wof:name":"Smith Hill Market",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.422096,
+    41.8372,
+    -71.422096,
+    41.8372
+],
+  "geometry": {"coordinates":[-71.422096,41.8372],"type":"Point"}
+}

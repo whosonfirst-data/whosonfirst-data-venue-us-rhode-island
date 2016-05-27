@@ -1,0 +1,72 @@
+{
+  "id": 874241759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448357,41.565934,-71.448357,41.565934",
+    "geom:latitude":41.565934,
+    "geom:longitude":-71.448357,
+    "iso:country":"US",
+    "sg:address":"111 Beach St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 0119",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QtfhC8AkjuPPK3ZD8cjp4_41.565934_-71.448357@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313373,
+    "wof:geomhash":"0b795d125fbc40f93b610684968feca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874241759
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874241759
+        }
+    ],
+    "wof:id":874241759,
+    "wof:lastmodified":1464313373,
+    "wof:name":"Dresser Realty LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.448357,
+    41.565934,
+    -71.448357,
+    41.565934
+],
+  "geometry": {"coordinates":[-71.448357,41.565934],"type":"Point"}
+}

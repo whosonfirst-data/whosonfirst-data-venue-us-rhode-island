@@ -1,0 +1,69 @@
+{
+  "id": 874281759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268318,41.716666,-71.268318,41.716666",
+    "geom:latitude":41.716666,
+    "geom:longitude":-71.268318,
+    "iso:country":"US",
+    "sg:address":"635 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1063",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hn5TmjqvJKP0CLT7S3280_41.716666_-71.268318@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314699,
+    "wof:geomhash":"4cd3e2287d40e6b6b95d2614798d1262",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874281759
+        }
+    ],
+    "wof:id":874281759,
+    "wof:lastmodified":1464314699,
+    "wof:name":"HI Way Barber Shop",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.268318,
+    41.716666,
+    -71.268318,
+    41.716666
+],
+  "geometry": {"coordinates":[-71.26831799999999,41.716666],"type":"Point"}
+}

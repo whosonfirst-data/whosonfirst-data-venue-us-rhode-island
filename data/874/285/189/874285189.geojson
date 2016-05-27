@@ -1,0 +1,80 @@
+{
+  "id": 874285189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467687,41.834045,-71.467687,41.834045",
+    "geom:latitude":41.834045,
+    "geom:longitude":-71.467687,
+    "iso:country":"US",
+    "sg:address":"919 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6519",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ],
+    "sg:website":"www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ej8pVZlORgazQoXeoXprM_41.833994_-71.467162@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314818,
+    "wof:geomhash":"fced66782a8d85fa362d793d5892a41b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874285189
+        }
+    ],
+    "wof:id":874285189,
+    "wof:lastmodified":1464314818,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "game",
+        "disc",
+        "leasing",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.467687,
+    41.834045,
+    -71.467687,
+    41.834045
+],
+  "geometry": {"coordinates":[-71.467687,41.834045],"type":"Point"}
+}

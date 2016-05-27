@@ -1,0 +1,70 @@
+{
+  "id": 874120215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.313841,41.485757,-71.313841,41.485757",
+    "geom:latitude":41.485757,
+    "geom:longitude":-71.313841,
+    "iso:country":"US",
+    "sg:address":"32 Green St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 1546",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08EyeNmW4UZV4kLI8CsN59_41.485757_-71.313841@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"ea5e8e50fb7faa8b3ca2c4f174beae3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874120215
+        }
+    ],
+    "wof:id":874120215,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Conservation Technology Group",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.313841,
+    41.485757,
+    -71.313841,
+    41.485757
+],
+  "geometry": {"coordinates":[-71.313841,41.485757],"type":"Point"}
+}

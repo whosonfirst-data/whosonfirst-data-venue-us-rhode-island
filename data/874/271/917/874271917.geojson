@@ -1,0 +1,75 @@
+{
+  "id": 874271917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436145,41.747515,-71.436145,41.747515",
+    "geom:latitude":41.747515,
+    "geom:longitude":-71.436145,
+    "iso:country":"US",
+    "sg:address":"180 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 3665",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q9jUF8UROOfP337f7Xafl_41.747515_-71.436145@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314288,
+    "wof:geomhash":"b702db67ddd22de309530792d62be225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874271917
+        }
+    ],
+    "wof:id":874271917,
+    "wof:lastmodified":1464314288,
+    "wof:name":"Conntech Automotive",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.436145,
+    41.747515,
+    -71.436145,
+    41.747515
+],
+  "geometry": {"coordinates":[-71.436145,41.747515],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 874264087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495438,41.700657,-71.495438,41.700657",
+    "geom:latitude":41.700657,
+    "geom:longitude":-71.495438,
+    "iso:country":"US",
+    "sg:address":"1200 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 2080",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parlor",
+        "billiard",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mo7AT97GDp18DTnkDuyeO_41.700657_-71.495438@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313993,
+    "wof:geomhash":"5c592da0d717b2f265e8998b66c87a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874264087
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874264087
+        }
+    ],
+    "wof:id":874264087,
+    "wof:lastmodified":1464313993,
+    "wof:name":"Chalks",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard",
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.495438,
+    41.700657,
+    -71.495438,
+    41.700657
+],
+  "geometry": {"coordinates":[-71.49543799999999,41.700657],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874299269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425301,41.852501,-71.425301,41.852501",
+    "geom:latitude":41.852501,
+    "geom:longitude":-71.425301,
+    "iso:country":"US",
+    "sg:address":"650 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 3394",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i2TqCKoexAxU8YH7GUKs5_41.852501_-71.425301@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315363,
+    "wof:geomhash":"bdde220033855138881b4752c903a584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299269
+        }
+    ],
+    "wof:id":874299269,
+    "wof:lastmodified":1464315363,
+    "wof:name":"Haxton's Branch Ave Liquors",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.425301,
+    41.852501,
+    -71.425301,
+    41.852501
+],
+  "geometry": {"coordinates":[-71.425301,41.852501],"type":"Point"}
+}

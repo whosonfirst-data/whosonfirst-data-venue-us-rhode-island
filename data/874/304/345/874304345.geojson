@@ -1,0 +1,78 @@
+{
+  "id": 874304345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517563,41.89576,-71.517563,41.89576",
+    "geom:latitude":41.89576,
+    "geom:longitude":-71.517563,
+    "iso:country":"US",
+    "sg:address":"312 Old County Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4158",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5utNnGs7SMjXszVuunODQM_41.895760_-71.517563@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315541,
+    "wof:geomhash":"5c1579f691299d37ca40742064616d86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874304345
+        }
+    ],
+    "wof:id":874304345,
+    "wof:lastmodified":1464315541,
+    "wof:name":"Muldowney Physical Therapy Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.517563,
+    41.89576,
+    -71.517563,
+    41.89576
+],
+  "geometry": {"coordinates":[-71.517563,41.89576],"type":"Point"}
+}

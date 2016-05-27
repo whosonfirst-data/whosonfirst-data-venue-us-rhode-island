@@ -1,0 +1,74 @@
+{
+  "id": 874283207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410594,41.885119,-71.410594,41.885119",
+    "geom:latitude":41.885119,
+    "geom:longitude":-71.410594,
+    "iso:country":"US",
+    "sg:address":"100 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 3555",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "storage",
+        "commercial"
+    ],
+    "sg:website":"http://www.storamer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SP0BfngsqiBzBXapyChRf_41.885228_-71.410979@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314746,
+    "wof:geomhash":"80140ceac831824bfe00dbd45e70614d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874283207
+        }
+    ],
+    "wof:id":874283207,
+    "wof:lastmodified":1464314746,
+    "wof:name":"Storage America",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "storage",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.410594,
+    41.885119,
+    -71.410594,
+    41.885119
+],
+  "geometry": {"coordinates":[-71.410594,41.885119],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874004907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507991,41.867284,-71.507991,41.867284",
+    "geom:latitude":41.867284,
+    "geom:longitude":-71.507991,
+    "iso:country":"US",
+    "sg:address":"10 Larch St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5552",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10vrLu3YlU4dBlEvtC1czF_41.867284_-71.507991@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310813,
+    "wof:geomhash":"9c1f39f2ae90b47fcae78be7a0181164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874004907
+        }
+    ],
+    "wof:id":874004907,
+    "wof:lastmodified":1464310813,
+    "wof:name":"Rooter-Man",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.507991,
+    41.867284,
+    -71.507991,
+    41.867284
+],
+  "geometry": {"coordinates":[-71.507991,41.867284],"type":"Point"}
+}

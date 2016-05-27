@@ -1,0 +1,79 @@
+{
+  "id": 873981509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474944,41.757648,-71.474944,41.757648",
+    "geom:latitude":41.757648,
+    "geom:longitude":-71.474944,
+    "iso:country":"US",
+    "sg:address":"655 Oaklawn Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 0500",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b25y5hoRSQ8QS9teZsbzd_41.757648_-71.474944@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310610,
+    "wof:geomhash":"9ba5116d5bbe39c061ef68d35831df3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":873981509
+        }
+    ],
+    "wof:id":873981509,
+    "wof:lastmodified":1464310610,
+    "wof:name":"Oaklawn Animal Hospital Inc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -71.474944,
+    41.757648,
+    -71.474944,
+    41.757648
+],
+  "geometry": {"coordinates":[-71.47494399999999,41.757648],"type":"Point"}
+}

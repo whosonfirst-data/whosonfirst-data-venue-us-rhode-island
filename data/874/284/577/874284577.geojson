@@ -1,0 +1,69 @@
+{
+  "id": 874284577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456299,41.862598,-71.456299,41.862598",
+    "geom:latitude":41.862598,
+    "geom:longitude":-71.456299,
+    "iso:country":"US",
+    "sg:address":"1720 Mineral Spring Ave",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1762",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4crllbnryO9j4T3HrpGsqo_41.862472_-71.456107@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314793,
+    "wof:geomhash":"ffb5481dc3c83e5dc1b9ed4fec8b249a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874284577
+        }
+    ],
+    "wof:id":874284577,
+    "wof:lastmodified":1464314793,
+    "wof:name":"Savon Shoes Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.456299,
+    41.862598,
+    -71.456299,
+    41.862598
+],
+  "geometry": {"coordinates":[-71.456299,41.862598],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874291879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449358,41.978662,-71.449358,41.978662",
+    "geom:latitude":41.978662,
+    "geom:longitude":-71.449358,
+    "iso:country":"US",
+    "sg:address":"106 Nate Whipple Hwy # 101",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 658 1800",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sleep",
+        "treatment",
+        "disorders-information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813219,
+        102191575,
+        404488361,
+        85633793,
+        101720599,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79FnyGYIm9ZVqVkWZH6Qfl_41.978662_-71.449358@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315085,
+    "wof:geomhash":"5e705a650f29bfe67e2f8cee920f35b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488361,
+            "locality_id":101720599,
+            "neighbourhood_id":85813219,
+            "region_id":85688509,
+            "venue_id":874291879
+        }
+    ],
+    "wof:id":874291879,
+    "wof:lastmodified":1464315085,
+    "wof:name":"Northern Rhode Island",
+    "wof:parent_id":85813219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sleep",
+        "treatment",
+        "disorders-information"
+    ]
+},
+  "bbox": [
+    -71.449358,
+    41.978662,
+    -71.449358,
+    41.978662
+],
+  "geometry": {"coordinates":[-71.449358,41.978662],"type":"Point"}
+}

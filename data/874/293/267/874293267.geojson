@@ -1,0 +1,90 @@
+{
+  "id": 874293267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44078,41.729164,-71.44078,41.729164",
+    "geom:latitude":41.729164,
+    "geom:longitude":-71.44078,
+    "iso:country":"US",
+    "sg:address":"84 Kilvert St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 8484",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tavern",
+        "grill",
+        "style",
+        "brew",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pdBUlAGmVeBDCsgH14l5Q_41.729164_-71.440780@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315132,
+    "wof:geomhash":"dfdc4dc41f31beb2bc13376e5c1b60f2",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874293267
+        }
+    ],
+    "wof:id":874293267,
+    "wof:lastmodified":1464315132,
+    "wof:name":"Track 84, Inc.",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "grill",
+        "style",
+        "brew",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.44078,
+    41.729164,
+    -71.44078,
+    41.729164
+],
+  "geometry": {"coordinates":[-71.44078,41.729164],"type":"Point"}
+}

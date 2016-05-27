@@ -1,0 +1,73 @@
+{
+  "id": 873982725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.266344,41.578505,-71.266344,41.578505",
+    "geom:latitude":41.578505,
+    "geom:longitude":-71.266344,
+    "iso:country":"US",
+    "sg:address":"5 Buckwheat Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 2079",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70LVkIHuvDuQDz0cvhRqYj_41.578505_-71.266344@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310629,
+    "wof:geomhash":"a6ac644be7f914e774a5f72590cfc71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873982725
+        }
+    ],
+    "wof:id":873982725,
+    "wof:lastmodified":1464310629,
+    "wof:name":"Island Electric Co Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.266344,
+    41.578505,
+    -71.266344,
+    41.578505
+],
+  "geometry": {"coordinates":[-71.266344,41.578505],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 874287177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407558,41.73499,-71.407558,41.73499",
+    "geom:latitude":41.73499,
+    "geom:longitude":-71.407558,
+    "iso:country":"US",
+    "sg:address":"1565 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/56541-dangelo-sandwich-shops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 0478",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FdbulYvNsQQPyyMPOaLJq_41.734990_-71.407558@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314896,
+    "wof:geomhash":"e916eb63ffcf2aa726b76d8a9d2e3b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874287177
+        }
+    ],
+    "wof:id":874287177,
+    "wof:lastmodified":1464314896,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -71.407558,
+    41.73499,
+    -71.407558,
+    41.73499
+],
+  "geometry": {"coordinates":[-71.40755799999999,41.73499],"type":"Point"}
+}

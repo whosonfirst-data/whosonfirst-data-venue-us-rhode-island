@@ -1,0 +1,71 @@
+{
+  "id": 874054321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.708313,41.335356,-71.708313,41.335356",
+    "geom:latitude":41.335356,
+    "geom:longitude":-71.708313,
+    "iso:country":"US",
+    "sg:address":"15 Surfside Ave",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 1182",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720633,
+        102081219,
+        85843547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zsKnw4IVuuXyepmeMHsB8_41.335356_-71.708313@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311281,
+    "wof:geomhash":"dd74ebdb866bd9299dccdcd666f4e452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720633,
+            "neighbourhood_id":85843547,
+            "region_id":85688509,
+            "venue_id":874054321
+        }
+    ],
+    "wof:id":874054321,
+    "wof:lastmodified":1464311281,
+    "wof:name":"C E C Enterprises LLC",
+    "wof:parent_id":85843547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -71.708313,
+    41.335356,
+    -71.708313,
+    41.335356
+],
+  "geometry": {"coordinates":[-71.708313,41.335356],"type":"Point"}
+}

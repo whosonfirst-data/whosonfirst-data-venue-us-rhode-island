@@ -1,0 +1,82 @@
+{
+  "id": 874218023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40634,41.791411,-71.40634,41.791411",
+    "geom:latitude":41.791411,
+    "geom:longitude":-71.40634,
+    "iso:country":"US",
+    "sg:address":"1297 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 6349",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:website":"www.cumberlandfarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BXdjXLOCzQss1aD7j9b04_41.791411_-71.406340@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313032,
+    "wof:geomhash":"3df30bb03de7608976de4e23531d9dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874218023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874218023
+        }
+    ],
+    "wof:id":874218023,
+    "wof:lastmodified":1464313032,
+    "wof:name":"Cumberland Farms 1210",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40634,
+    41.791411,
+    -71.40634,
+    41.791411
+],
+  "geometry": {"coordinates":[-71.40634,41.791411],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874136243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466191,41.642792,-71.466191,41.642792",
+    "geom:latitude":41.642792,
+    "geom:longitude":-71.466191,
+    "iso:country":"US",
+    "sg:address":"5675 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9668",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ss7JugkfPrjxiKKCfnS36_41.642792_-71.466191@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312202,
+    "wof:geomhash":"c77170f71e78e5e94a02f39b325fa2a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874136243
+        }
+    ],
+    "wof:id":874136243,
+    "wof:lastmodified":1464312202,
+    "wof:name":"West Bay Laundry & Dry Clnng",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.466191,
+    41.642792,
+    -71.466191,
+    41.642792
+],
+  "geometry": {"coordinates":[-71.46619099999999,41.642792],"type":"Point"}
+}

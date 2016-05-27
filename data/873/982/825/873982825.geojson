@@ -1,0 +1,76 @@
+{
+  "id": 873982825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29422,41.494481,-71.29422,41.494481",
+    "geom:latitude":41.494481,
+    "geom:longitude":-71.29422,
+    "iso:country":"US",
+    "sg:address":"100 Bliss Mine Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 7897",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.cityofnewport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Vu54TJL9am0K12i731kM_41.494481_-71.294220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310630,
+    "wof:geomhash":"1aa19428e12423a4c429324defb094b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873982825
+        }
+    ],
+    "wof:id":873982825,
+    "wof:lastmodified":1464310630,
+    "wof:name":"Newport Water Plant",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.29422,
+    41.494481,
+    -71.29422,
+    41.494481
+],
+  "geometry": {"coordinates":[-71.29422,41.494481],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874043341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522286,41.699274,-71.522286,41.699274",
+    "geom:latitude":41.699274,
+    "geom:longitude":-71.522286,
+    "iso:country":"US",
+    "sg:address":"1394 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 397 6938",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G76qysB8L4FwFCA0Zhw6E_41.699274_-71.522286@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311179,
+    "wof:geomhash":"e485eb304e4d34301d9a60fb18b93902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874043341
+        }
+    ],
+    "wof:id":874043341,
+    "wof:lastmodified":1464311179,
+    "wof:name":"Country Movers",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -71.522286,
+    41.699274,
+    -71.522286,
+    41.699274
+],
+  "geometry": {"coordinates":[-71.52228599999999,41.699274],"type":"Point"}
+}

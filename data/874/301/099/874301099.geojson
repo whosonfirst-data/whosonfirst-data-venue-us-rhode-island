@@ -1,0 +1,86 @@
+{
+  "id": 874301099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401059,41.843856,-71.401059,41.843856",
+    "geom:latitude":41.843856,
+    "geom:longitude":-71.401059,
+    "iso:country":"US",
+    "sg:address":"26 Forest St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 343 0377",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h0a5CuS7nLohpYLUpNmAZ_41.843856_-71.401059@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315431,
+    "wof:geomhash":"de4c2bdf5041eef5163e2c68cd4c499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874301099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874301099
+        }
+    ],
+    "wof:id":874301099,
+    "wof:lastmodified":1464315431,
+    "wof:name":"James R Beckwith",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.401059,
+    41.843856,
+    -71.401059,
+    41.843856
+],
+  "geometry": {"coordinates":[-71.401059,41.843856],"type":"Point"}
+}

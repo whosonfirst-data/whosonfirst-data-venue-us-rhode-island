@@ -1,0 +1,71 @@
+{
+  "id": 874066659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.571596,41.680248,-71.571596,41.680248",
+    "geom:latitude":41.680248,
+    "geom:longitude":-71.571596,
+    "iso:country":"US",
+    "sg:address":"956 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 8811",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_568nwpMEcc2C5eh0FAm0qV_41.680248_-71.571596@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"ad39a0825275bc5fbee072852f2752d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874066659
+        }
+    ],
+    "wof:id":874066659,
+    "wof:lastmodified":1464311394,
+    "wof:name":"Tiogue Pediatrics",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.571596,
+    41.680248,
+    -71.571596,
+    41.680248
+],
+  "geometry": {"coordinates":[-71.571596,41.680248],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874292413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442585,41.930704,-71.442585,41.930704",
+    "geom:latitude":41.930704,
+    "geom:longitude":-71.442585,
+    "iso:country":"US",
+    "sg:address":"100 Old River Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1100",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.lincolnlibrary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WDiTllkPgJcM19nQGhBa8_41.930704_-71.442585@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315104,
+    "wof:geomhash":"6a48d57c52d096b1cb476e077a242a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292413
+        }
+    ],
+    "wof:id":874292413,
+    "wof:lastmodified":1464315104,
+    "wof:name":"Lincoln, Town Of (Inc)",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.442585,
+    41.930704,
+    -71.442585,
+    41.930704
+],
+  "geometry": {"coordinates":[-71.44258499999999,41.930704],"type":"Point"}
+}

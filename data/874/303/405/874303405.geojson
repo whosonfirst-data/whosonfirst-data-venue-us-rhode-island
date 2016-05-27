@@ -1,0 +1,69 @@
+{
+  "id": 874303405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483101,41.858299,-71.483101,41.858299",
+    "geom:latitude":41.858299,
+    "geom:longitude":-71.483101,
+    "iso:country":"US",
+    "sg:address":"2244 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4141",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cjYPtqnvew8cbLOnbCzjS_41.858299_-71.483101@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315509,
+    "wof:geomhash":"3da763f8a384722f443798a50c45e931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303405
+        }
+    ],
+    "wof:id":874303405,
+    "wof:lastmodified":1464315509,
+    "wof:name":"Speedy Pizza",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.483101,
+    41.858299,
+    -71.483101,
+    41.858299
+],
+  "geometry": {"coordinates":[-71.483101,41.858299],"type":"Point"}
+}

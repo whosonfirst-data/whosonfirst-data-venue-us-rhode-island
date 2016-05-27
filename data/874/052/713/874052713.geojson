@@ -1,0 +1,81 @@
+{
+  "id": 874052713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494654,41.440935,-71.494654,41.440935",
+    "geom:latitude":41.440935,
+    "geom:longitude":-71.494654,
+    "iso:country":"US",
+    "sg:address":"179 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 3109",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cJUyutvE4SSiqC4zddunQ_41.440935_-71.494654@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311266,
+    "wof:geomhash":"eca6d959f59040c0a60229acb85e3c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874052713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874052713
+        }
+    ],
+    "wof:id":874052713,
+    "wof:lastmodified":1464311266,
+    "wof:name":"George Almeida Insurance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.494654,
+    41.440935,
+    -71.494654,
+    41.440935
+],
+  "geometry": {"coordinates":[-71.494654,41.440935],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874267897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45075,41.827101,-71.45075,41.827101",
+    "geom:latitude":41.827101,
+    "geom:longitude":-71.45075,
+    "iso:country":"US",
+    "sg:address":"106 Erastus St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 7937",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540501,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tv1XROKrF5X46ZoKpBTtH_41.827101_-71.450750@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314146,
+    "wof:geomhash":"be5c178ac21723e69954a3cb95431aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540501,
+            "region_id":85688509,
+            "venue_id":874267897
+        }
+    ],
+    "wof:id":874267897,
+    "wof:lastmodified":1464314146,
+    "wof:name":"A Z Cleaning Svc",
+    "wof:parent_id":420540501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.45075,
+    41.827101,
+    -71.45075,
+    41.827101
+],
+  "geometry": {"coordinates":[-71.45075,41.827101],"type":"Point"}
+}

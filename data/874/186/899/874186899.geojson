@@ -1,0 +1,75 @@
+{
+  "id": 874186899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439317,41.800182,-71.439317,41.800182",
+    "geom:latitude":41.800182,
+    "geom:longitude":-71.439317,
+    "iso:country":"US",
+    "sg:address":"173 Niantic Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 3452",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1POBC3KthPX1FmpVPd1g2e_41.800182_-71.439317@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312708,
+    "wof:geomhash":"2e17d0b25777aa89e8a1c9934a34f385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874186899
+        }
+    ],
+    "wof:id":874186899,
+    "wof:lastmodified":1464312708,
+    "wof:name":"Zinks Automotive",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.439317,
+    41.800182,
+    -71.439317,
+    41.800182
+],
+  "geometry": {"coordinates":[-71.439317,41.800182],"type":"Point"}
+}

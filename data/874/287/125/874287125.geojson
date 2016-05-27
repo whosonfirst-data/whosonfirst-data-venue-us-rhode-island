@@ -1,0 +1,93 @@
+{
+  "id": 874287125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433776,41.75458,-71.433776,41.75458",
+    "geom:latitude":41.75458,
+    "geom:longitude":-71.433776,
+    "iso:country":"US",
+    "sg:address":"27 Jefferson Park Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/138916-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 0310",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z7ber4AsFH8vNW8ZC9Voa_41.754580_-71.433776@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314894,
+    "wof:geomhash":"7e9f8c7826747db7a4cba179cf1eca83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874287125
+        }
+    ],
+    "wof:id":874287125,
+    "wof:lastmodified":1464314894,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.433776,
+    41.75458,
+    -71.433776,
+    41.75458
+],
+  "geometry": {"coordinates":[-71.43377599999999,41.75458],"type":"Point"}
+}

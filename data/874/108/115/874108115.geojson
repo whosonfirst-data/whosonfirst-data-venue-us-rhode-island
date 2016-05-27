@@ -1,0 +1,73 @@
+{
+  "id": 874108115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.7099,41.512981,-71.7099,41.512981",
+    "geom:latitude":41.512981,
+    "geom:longitude":-71.7099,
+    "iso:country":"US",
+    "sg:address":"51 Bank St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2991",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3016F2v7gNOH8ulXHSOL6s_41.512981_-71.709900@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311895,
+    "wof:geomhash":"ee65fa6fd6c84faa343065dc6464ec5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874108115
+        }
+    ],
+    "wof:id":874108115,
+    "wof:lastmodified":1464311895,
+    "wof:name":"Transportation Maintenance",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.7099,
+    41.512981,
+    -71.7099,
+    41.512981
+],
+  "geometry": {"coordinates":[-71.7099,41.512981],"type":"Point"}
+}

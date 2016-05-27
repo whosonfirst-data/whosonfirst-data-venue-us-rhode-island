@@ -1,0 +1,77 @@
+{
+  "id": 874282753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434303,41.852699,-71.434303,41.852699",
+    "geom:latitude":41.852699,
+    "geom:longitude":-71.434303,
+    "iso:country":"US",
+    "sg:address":"25 Harwol Ct",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 4008",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V0hVke8CJtsdLPsq9kElA_41.852646_-71.434480@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314732,
+    "wof:geomhash":"325f096f47ba3e9234204b0e1c3f950b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874282753
+        }
+    ],
+    "wof:id":874282753,
+    "wof:lastmodified":1464314732,
+    "wof:name":"Braeburn Apartments",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.434303,
+    41.852699,
+    -71.434303,
+    41.852699
+],
+  "geometry": {"coordinates":[-71.434303,41.852699],"type":"Point"}
+}

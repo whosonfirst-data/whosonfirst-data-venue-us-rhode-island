@@ -1,0 +1,74 @@
+{
+  "id": 874301649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422556,41.814309,-71.422556,41.814309",
+    "geom:latitude":41.814309,
+    "geom:longitude":-71.422556,
+    "iso:country":"US",
+    "sg:address":"Firehouse 13 41 Central St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g200Ojjmxa4IVPjZswfS4_41.814309_-71.422556@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315452,
+    "wof:geomhash":"d6b44598416ea566170c8abafe654513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874301649
+        }
+    ],
+    "wof:id":874301649,
+    "wof:lastmodified":1464315452,
+    "wof:name":"Providence is Burning",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.422556,
+    41.814309,
+    -71.422556,
+    41.814309
+],
+  "geometry": {"coordinates":[-71.422556,41.814309],"type":"Point"}
+}

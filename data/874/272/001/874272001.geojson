@@ -1,0 +1,80 @@
+{
+  "id": 874272001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.22518,41.644566,-71.22518,41.644566",
+    "geom:latitude":41.644566,
+    "geom:longitude":-71.22518,
+    "iso:country":"US",
+    "sg:address":"48 Common Fence Point Blvd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 2397",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aEKGFdrDygNpeWerlMA04_41.644566_-71.225180@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314291,
+    "wof:geomhash":"adaea5966edaa6823dea5335a6fd8e13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874272001
+        }
+    ],
+    "wof:id":874272001,
+    "wof:lastmodified":1464314291,
+    "wof:name":"Camara Excavating LLC",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.22518,
+    41.644566,
+    -71.22518,
+    41.644566
+],
+  "geometry": {"coordinates":[-71.22517999999999,41.644566],"type":"Point"}
+}

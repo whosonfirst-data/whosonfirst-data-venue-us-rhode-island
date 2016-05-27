@@ -1,0 +1,78 @@
+{
+  "id": 874240311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462061,41.716617,-71.462061,41.716617",
+    "geom:latitude":41.716617,
+    "geom:longitude":-71.462061,
+    "iso:country":"US",
+    "sg:address":"1139 Main Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 6600",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "sg:website":"www.harborside.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W3Lo3B7j3WRscgdkKyS4w_41.716617_-71.462061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313346,
+    "wof:geomhash":"367342ddedefab9f38e04a6b2e0a6a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874240311
+        }
+    ],
+    "wof:id":874240311,
+    "wof:lastmodified":1464313346,
+    "wof:name":"Harborside Healthcare Rehab",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.462061,
+    41.716617,
+    -71.462061,
+    41.716617
+],
+  "geometry": {"coordinates":[-71.46206100000001,41.716617],"type":"Point"}
+}

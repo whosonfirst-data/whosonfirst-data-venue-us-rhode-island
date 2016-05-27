@@ -1,0 +1,88 @@
+{
+  "id": 874267625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399931,41.845835,-71.399931,41.845835",
+    "geom:latitude":41.845835,
+    "geom:longitude":-71.399931,
+    "iso:country":"US",
+    "sg:address":"154 Lancaster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 9664",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GSYGgNYR3yXLhzDsHLwbV_41.845835_-71.399931@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314137,
+    "wof:geomhash":"8340776cd75616a194a0e2e39eb79a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874267625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874267625
+        }
+    ],
+    "wof:id":874267625,
+    "wof:lastmodified":1464314137,
+    "wof:name":"Marks Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.399931,
+    41.845835,
+    -71.399931,
+    41.845835
+],
+  "geometry": {"coordinates":[-71.399931,41.845835],"type":"Point"}
+}

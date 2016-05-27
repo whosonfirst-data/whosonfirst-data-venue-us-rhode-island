@@ -1,0 +1,86 @@
+{
+  "id": 874161889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470536,41.450909,-71.470536,41.450909",
+    "geom:latitude":41.450909,
+    "geom:longitude":-71.470536,
+    "iso:country":"US",
+    "sg:address":"4640 Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9262",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "sg:website":"www.theproutschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TLyshFmIFViYHHXpsNiIh_41.450909_-71.470536@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312450,
+    "wof:geomhash":"0a1f7b6fb6a31107afa1ac120eb84afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874161889
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874161889
+        }
+    ],
+    "wof:id":874161889,
+    "wof:lastmodified":1464312450,
+    "wof:name":"Prout School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -71.470536,
+    41.450909,
+    -71.470536,
+    41.450909
+],
+  "geometry": {"coordinates":[-71.470536,41.450909],"type":"Point"}
+}

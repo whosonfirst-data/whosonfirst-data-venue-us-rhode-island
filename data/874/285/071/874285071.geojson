@@ -1,0 +1,89 @@
+{
+  "id": 874285071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444778,41.778648,-71.444778,41.778648",
+    "geom:latitude":41.778648,
+    "geom:longitude":-71.444778,
+    "iso:country":"US",
+    "sg:address":"800 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 8180",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker",
+        "restaurant"
+    ],
+    "sg:website":"http://www.rainbowbakeryri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57lGbmSrtYHzsqooSD8fjb_41.778220_-71.445304@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314814,
+    "wof:geomhash":"0c7c235d0bd5f0f53f1dadcd87db9320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874285071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874285071
+        }
+    ],
+    "wof:id":874285071,
+    "wof:lastmodified":1464314814,
+    "wof:name":"Rainbow Bakery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.444778,
+    41.778648,
+    -71.444778,
+    41.778648
+],
+  "geometry": {"coordinates":[-71.444778,41.778648],"type":"Point"}
+}

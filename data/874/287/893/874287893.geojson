@@ -1,0 +1,78 @@
+{
+  "id": 874287893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460248,41.699868,-71.460248,41.699868",
+    "geom:latitude":41.699868,
+    "geom:longitude":-71.460248,
+    "iso:country":"US",
+    "sg:address":"1350 Greenwich Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/53311-jersey-mikes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 921 4488",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BsceYjrTDoGM3UbMHB1l2_41.699331_-71.460077@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314931,
+    "wof:geomhash":"e3712dc6d318d9738efce0104402b6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874287893
+        }
+    ],
+    "wof:id":874287893,
+    "wof:lastmodified":1464314931,
+    "wof:name":"Jersey Mike's",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.460248,
+    41.699868,
+    -71.460248,
+    41.699868
+],
+  "geometry": {"coordinates":[-71.46024800000001,41.699868],"type":"Point"}
+}

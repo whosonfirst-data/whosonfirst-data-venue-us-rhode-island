@@ -1,0 +1,69 @@
+{
+  "id": 874273089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427197,41.933734,-71.427197,41.933734",
+    "geom:latitude":41.933734,
+    "geom:longitude":-71.427197,
+    "iso:country":"US",
+    "sg:address":"1390 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1025",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28TI9Qzq9xgP4HPD2CBpeL_41.933734_-71.427197@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314332,
+    "wof:geomhash":"5bd91cec15429cdcb4c36f8189ce29c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874273089
+        }
+    ],
+    "wof:id":874273089,
+    "wof:lastmodified":1464314332,
+    "wof:name":"Shears Of Cumberland Inc",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.427197,
+    41.933734,
+    -71.427197,
+    41.933734
+],
+  "geometry": {"coordinates":[-71.42719700000001,41.933734],"type":"Point"}
+}

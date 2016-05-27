@@ -1,0 +1,71 @@
+{
+  "id": 874069791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486862,41.858822,-71.486862,41.858822",
+    "geom:latitude":41.858822,
+    "geom:longitude":-71.486862,
+    "iso:country":"US",
+    "sg:address":"2074 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 3770",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ripqd5MjJbG3ZqNCuROlA_41.858822_-71.486862@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311430,
+    "wof:geomhash":"8672ec74e30b10a39ca352929b35f85d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874069791
+        }
+    ],
+    "wof:id":874069791,
+    "wof:lastmodified":1464311430,
+    "wof:name":"Centredale Manor",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.486862,
+    41.858822,
+    -71.486862,
+    41.858822
+],
+  "geometry": {"coordinates":[-71.486862,41.858822],"type":"Point"}
+}

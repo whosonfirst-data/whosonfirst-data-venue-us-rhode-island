@@ -1,0 +1,80 @@
+{
+  "id": 873988837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519138,41.388745,-71.519138,41.388745",
+    "geom:latitude":41.388745,
+    "geom:longitude":-71.519138,
+    "iso:country":"US",
+    "sg:address":"11 Sherman Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7660",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "transportation",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wpVQyeomYhwCQYF8y8qsB_41.388745_-71.519138@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310682,
+    "wof:geomhash":"f45dc4f9ad7625f9436010a3fb80cacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":873988837
+        }
+    ],
+    "wof:id":873988837,
+    "wof:lastmodified":1464310682,
+    "wof:name":"Narragansett Yacht Repair Inc",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "transportation",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.519138,
+    41.388745,
+    -71.519138,
+    41.388745
+],
+  "geometry": {"coordinates":[-71.519138,41.388745],"type":"Point"}
+}

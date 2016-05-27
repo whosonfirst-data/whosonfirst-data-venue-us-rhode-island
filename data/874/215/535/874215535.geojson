@@ -1,0 +1,77 @@
+{
+  "id": 874215535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443832,41.569222,-71.443832,41.569222",
+    "geom:latitude":41.569222,
+    "geom:longitude":-71.443832,
+    "iso:country":"US",
+    "sg:address":"77 Lawton Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5562",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58hfDZhNrpFMHAX0Apmy0Y_41.569222_-71.443832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313009,
+    "wof:geomhash":"da93662fa59d812f52ee770b1ba8e40a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874215535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874215535
+        }
+    ],
+    "wof:id":874215535,
+    "wof:lastmodified":1464313009,
+    "wof:name":"David E Seymour Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.443832,
+    41.569222,
+    -71.443832,
+    41.569222
+],
+  "geometry": {"coordinates":[-71.443832,41.569222],"type":"Point"}
+}

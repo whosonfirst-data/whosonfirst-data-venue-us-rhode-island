@@ -1,0 +1,71 @@
+{
+  "id": 874018075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677813,41.967486,-71.677813,41.967486",
+    "geom:latitude":41.967486,
+    "geom:longitude":-71.677813,
+    "iso:country":"US",
+    "sg:address":"55 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 6222",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CcP684QwcAJDfXqsEhA7u_41.967486_-71.677813@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310928,
+    "wof:geomhash":"9f20873411046b5d4c4452d8ad2be87f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874018075
+        }
+    ],
+    "wof:id":874018075,
+    "wof:lastmodified":1464310928,
+    "wof:name":"Pascoag Fire District Office",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.677813,
+    41.967486,
+    -71.677813,
+    41.967486
+],
+  "geometry": {"coordinates":[-71.677813,41.967486],"type":"Point"}
+}

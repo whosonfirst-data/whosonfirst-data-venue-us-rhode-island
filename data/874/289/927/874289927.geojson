@@ -1,0 +1,69 @@
+{
+  "id": 874289927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390801,41.887493,-71.390801,41.887493",
+    "geom:latitude":41.887493,
+    "geom:longitude":-71.390801,
+    "iso:country":"US",
+    "sg:address":"8 Summer St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 6587",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MeyjPM5xvFcHCoWofLTrI_41.887493_-71.390801@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315010,
+    "wof:geomhash":"2250774a0862e99f20e4d2ae2b6ffdd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874289927
+        }
+    ],
+    "wof:id":874289927,
+    "wof:lastmodified":1464315010,
+    "wof:name":"Abraham & Co",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -71.390801,
+    41.887493,
+    -71.390801,
+    41.887493
+],
+  "geometry": {"coordinates":[-71.390801,41.887493],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874048847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399622,41.701195,-71.399622,41.701195",
+    "geom:latitude":41.701195,
+    "geom:longitude":-71.399622,
+    "iso:country":"US",
+    "sg:address":"2130 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5789",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540485,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xhJX2hmPkekcfca5qdmlS_41.701195_-71.399622@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311230,
+    "wof:geomhash":"eff856780e5c99a760c981a50e784de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540485,
+            "region_id":85688509,
+            "venue_id":874048847
+        }
+    ],
+    "wof:id":874048847,
+    "wof:lastmodified":1464311230,
+    "wof:name":"Atlas Rental & Leasing",
+    "wof:parent_id":420540485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.399622,
+    41.701195,
+    -71.399622,
+    41.701195
+],
+  "geometry": {"coordinates":[-71.39962199999999,41.701195],"type":"Point"}
+}

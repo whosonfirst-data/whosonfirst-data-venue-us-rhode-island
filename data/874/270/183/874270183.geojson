@@ -1,0 +1,71 @@
+{
+  "id": 874270183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446407,41.863531,-71.446407,41.863531",
+    "geom:latitude":41.863531,
+    "geom:longitude":-71.446407,
+    "iso:country":"US",
+    "sg:address":"140 Lexington Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 0209",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cCKlrgEds4I8MmtE7o3Jp_41.863531_-71.446407@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314232,
+    "wof:geomhash":"37077f9e09ce031452dd835c5e1f5ccb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874270183
+        }
+    ],
+    "wof:id":874270183,
+    "wof:lastmodified":1464314232,
+    "wof:name":"Electric Brady",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.446407,
+    41.863531,
+    -71.446407,
+    41.863531
+],
+  "geometry": {"coordinates":[-71.44640699999999,41.863531],"type":"Point"}
+}

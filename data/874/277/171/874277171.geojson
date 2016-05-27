@@ -1,0 +1,70 @@
+{
+  "id": 874277171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402304,41.930628,-71.402304,41.930628",
+    "geom:latitude":41.930628,
+    "geom:longitude":-71.402304,
+    "iso:country":"US",
+    "sg:address":"1464 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 2555",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.cumberlandlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56J4AxOdqVLVGO8z2IVq4C_41.930628_-71.402304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314507,
+    "wof:geomhash":"52053a1902d7d736650ce50eb896b036",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874277171
+        }
+    ],
+    "wof:id":874277171,
+    "wof:lastmodified":1464314507,
+    "wof:name":"Cumberland Senior Citizen Svc",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.402304,
+    41.930628,
+    -71.402304,
+    41.930628
+],
+  "geometry": {"coordinates":[-71.402304,41.930628],"type":"Point"}
+}

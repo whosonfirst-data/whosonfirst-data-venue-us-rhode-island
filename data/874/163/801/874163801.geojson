@@ -1,0 +1,69 @@
+{
+  "id": 874163801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592893,41.41147,-71.592893,41.41147",
+    "geom:latitude":41.41147,
+    "geom:longitude":-71.592893,
+    "iso:country":"US",
+    "sg:address":"51 Kenyon Woods Way",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7789",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GS2cbbIjKFDjpDE13mqWc_41.411470_-71.592893@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312467,
+    "wof:geomhash":"395dee960c3fa63642f5f6f449ab4d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874163801
+        }
+    ],
+    "wof:id":874163801,
+    "wof:lastmodified":1464312467,
+    "wof:name":"New Shoreham Veterinary Svc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.592893,
+    41.41147,
+    -71.592893,
+    41.41147
+],
+  "geometry": {"coordinates":[-71.592893,41.41147],"type":"Point"}
+}

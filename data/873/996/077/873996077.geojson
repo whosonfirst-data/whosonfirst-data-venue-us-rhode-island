@@ -1,0 +1,71 @@
+{
+  "id": 873996077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542874,41.87392,-71.542874,41.87392",
+    "geom:latitude":41.87392,
+    "geom:longitude":-71.542874,
+    "iso:country":"US",
+    "sg:address":"20 Barnes St",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 9969",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gdXiITZBMmCpVlSJ1vc5x_41.873920_-71.542874@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310733,
+    "wof:geomhash":"de0e82c1ae0ce3d92a93a25b2834a939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":873996077
+        }
+    ],
+    "wof:id":873996077,
+    "wof:lastmodified":1464310733,
+    "wof:name":"Rhode Island Landscaping Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.542874,
+    41.87392,
+    -71.542874,
+    41.87392
+],
+  "geometry": {"coordinates":[-71.542874,41.87392],"type":"Point"}
+}

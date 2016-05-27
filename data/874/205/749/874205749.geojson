@@ -1,0 +1,87 @@
+{
+  "id": 874205749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435638,41.779025,-71.435638,41.779025",
+    "geom:latitude":41.779025,
+    "geom:longitude":-71.435638,
+    "iso:country":"US",
+    "sg:address":"301 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4161",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "protection"
+    ],
+    "sg:website":"www.cranstonfire.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DTCqqChSEMaj23D6A9Efa_41.779025_-71.435638@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312902,
+    "wof:geomhash":"97875bb37958ddc56d9c535dbee28d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874205749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874205749
+        }
+    ],
+    "wof:id":874205749,
+    "wof:lastmodified":1464312902,
+    "wof:name":"Cranston Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.435638,
+    41.779025,
+    -71.435638,
+    41.779025
+],
+  "geometry": {"coordinates":[-71.435638,41.779025],"type":"Point"}
+}

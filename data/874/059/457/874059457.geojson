@@ -1,0 +1,69 @@
+{
+  "id": 874059457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264168,41.666303,-71.264168,41.666303",
+    "geom:latitude":41.666303,
+    "geom:longitude":-71.264168,
+    "iso:country":"US",
+    "sg:address":"58 Fox Hill Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6741",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S61CWaEXIGL9ssGYR2uV8_41.666303_-71.264168@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311330,
+    "wof:geomhash":"b468b17048606ed1387dda82e61ada17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874059457
+        }
+    ],
+    "wof:id":874059457,
+    "wof:lastmodified":1464311330,
+    "wof:name":"Independent Plumbing",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.264168,
+    41.666303,
+    -71.264168,
+    41.666303
+],
+  "geometry": {"coordinates":[-71.264168,41.666303],"type":"Point"}
+}

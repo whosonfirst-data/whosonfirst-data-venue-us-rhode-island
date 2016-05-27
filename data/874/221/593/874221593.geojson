@@ -1,0 +1,71 @@
+{
+  "id": 874221593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308009,41.722096,-71.308009,41.722096",
+    "geom:latitude":41.722096,
+    "geom:longitude":-71.308009,
+    "iso:country":"US",
+    "sg:address":"27 Beach Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 7150",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LmSflu58klVOOJmJbLDEg_41.722096_-71.308009@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313080,
+    "wof:geomhash":"bdd521716c317edc3f95a9f9bdd1951d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874221593
+        }
+    ],
+    "wof:id":874221593,
+    "wof:lastmodified":1464313080,
+    "wof:name":"Viewpoint Travel LTD",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -71.308009,
+    41.722096,
+    -71.308009,
+    41.722096
+],
+  "geometry": {"coordinates":[-71.308009,41.722096],"type":"Point"}
+}

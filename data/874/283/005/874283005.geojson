@@ -1,0 +1,73 @@
+{
+  "id": 874283005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413365,41.885418,-71.413365,41.885418",
+    "geom:latitude":41.885418,
+    "geom:longitude":-71.413365,
+    "iso:country":"US",
+    "sg:address":"10 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 8103",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f3QQA3wSXOhrZ2mOpPPj1_41.885267_-71.413873@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314740,
+    "wof:geomhash":"d606737a57b4d048e1439df13811c730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874283005
+        }
+    ],
+    "wof:id":874283005,
+    "wof:lastmodified":1464314740,
+    "wof:name":"Lincoln Spirit Shop",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.413365,
+    41.885418,
+    -71.413365,
+    41.885418
+],
+  "geometry": {"coordinates":[-71.413365,41.885418],"type":"Point"}
+}

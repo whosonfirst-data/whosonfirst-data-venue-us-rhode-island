@@ -1,0 +1,75 @@
+{
+  "id": 874249591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490298,41.724653,-71.490298,41.724653",
+    "geom:latitude":41.724653,
+    "geom:longitude":-71.490298,
+    "iso:country":"US",
+    "sg:address":"70 Aster St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 2604",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Q2pCUHvt8uq2jDKm0qbu7_41.724653_-71.490298@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313554,
+    "wof:geomhash":"2c73ecb2ea1a16b05f4c2c13f29a87e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874249591
+        }
+    ],
+    "wof:id":874249591,
+    "wof:lastmodified":1464313554,
+    "wof:name":"Tip Top Auto Sales",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.490298,
+    41.724653,
+    -71.490298,
+    41.724653
+],
+  "geometry": {"coordinates":[-71.490298,41.724653],"type":"Point"}
+}

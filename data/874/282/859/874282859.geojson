@@ -1,0 +1,78 @@
+{
+  "id": 874282859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395113,41.849517,-71.395113,41.849517",
+    "geom:latitude":41.849517,
+    "geom:longitude":-71.395113,
+    "iso:country":"US",
+    "sg:address":"820 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 2200",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "sg:website":"www.sevenstarsbakery.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_105T19gE2KQL4Oi6bkY5R5_41.849842_-71.394689@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314735,
+    "wof:geomhash":"d355eedf57c7ab9e397665269c2269d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874282859
+        }
+    ],
+    "wof:id":874282859,
+    "wof:lastmodified":1464314735,
+    "wof:name":"Seven Stars Bakery",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -71.395113,
+    41.849517,
+    -71.395113,
+    41.849517
+],
+  "geometry": {"coordinates":[-71.39511299999999,41.849517],"type":"Point"}
+}

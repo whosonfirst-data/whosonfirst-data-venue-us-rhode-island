@@ -1,0 +1,74 @@
+{
+  "id": 874284457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408166,41.904501,-71.408166,41.904501",
+    "geom:latitude":41.904501,
+    "geom:longitude":-71.408166,
+    "iso:country":"US",
+    "sg:address":"182 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 6665",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shopping",
+        "center",
+        "alcoholic"
+    ],
+    "sg:website":"www.lincolnliquors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42AsxhZT1ZIPQ79q2xtki7_41.904238_-71.409009@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314790,
+    "wof:geomhash":"4f57e2b166db06008139642fc47c5366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874284457
+        }
+    ],
+    "wof:id":874284457,
+    "wof:lastmodified":1464314790,
+    "wof:name":"Lincoln Liquors LLC",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shopping",
+        "center",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.408166,
+    41.904501,
+    -71.408166,
+    41.904501
+],
+  "geometry": {"coordinates":[-71.40816599999999,41.904501],"type":"Point"}
+}

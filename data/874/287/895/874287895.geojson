@@ -1,0 +1,81 @@
+{
+  "id": 874287895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429771,41.743421,-71.429771,41.743421",
+    "geom:latitude":41.743421,
+    "geom:longitude":-71.429771,
+    "iso:country":"US",
+    "sg:address":"1359 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/54459-greggs-restaurants--pubs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 5700",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZtFqq3gatjYzCU5JBQdgz_41.743117_-71.430197@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314932,
+    "wof:geomhash":"b0cfaf052aae102642f7518d555d3456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874287895
+        }
+    ],
+    "wof:id":874287895,
+    "wof:lastmodified":1464314932,
+    "wof:name":"Gregg's Restaurants & Pubs",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.429771,
+    41.743421,
+    -71.429771,
+    41.743421
+],
+  "geometry": {"coordinates":[-71.429771,41.743421],"type":"Point"}
+}

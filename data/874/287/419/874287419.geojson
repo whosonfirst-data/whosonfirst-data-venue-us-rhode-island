@@ -1,0 +1,74 @@
+{
+  "id": 874287419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45579,41.862415,-71.45579,41.862415",
+    "geom:latitude":41.862415,
+    "geom:longitude":-71.45579,
+    "iso:country":"US",
+    "sg:address":"1744 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/123010-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 6680",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qZeZ0GsRJ7Cukc1L2Von5_41.862415_-71.455790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314904,
+    "wof:geomhash":"fe7490117838ef42add3d4a303ecfa08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874287419
+        }
+    ],
+    "wof:id":874287419,
+    "wof:lastmodified":1464314904,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.45579,
+    41.862415,
+    -71.45579,
+    41.862415
+],
+  "geometry": {"coordinates":[-71.45578999999999,41.862415],"type":"Point"}
+}

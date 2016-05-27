@@ -1,0 +1,88 @@
+{
+  "id": 874030681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349097,41.813984,-71.349097,41.813984",
+    "geom:latitude":41.813984,
+    "geom:longitude":-71.349097,
+    "iso:country":"US",
+    "sg:address":"80 Commercial Way",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 9220",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "secondary",
+        "nonferrous",
+        "commercial",
+        "refining",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RARLYEshp7hKJYswVHHYE_41.813984_-71.349097@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311054,
+    "wof:geomhash":"61bf93686b94b3b9b0f096df140533a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874030681
+        }
+    ],
+    "wof:id":874030681,
+    "wof:lastmodified":1464311054,
+    "wof:name":"Noranda Sampling Inc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary",
+        "nonferrous",
+        "commercial",
+        "refining",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.349097,
+    41.813984,
+    -71.349097,
+    41.813984
+],
+  "geometry": {"coordinates":[-71.349097,41.813984],"type":"Point"}
+}

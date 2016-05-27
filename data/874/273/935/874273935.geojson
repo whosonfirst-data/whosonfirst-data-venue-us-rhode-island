@@ -1,0 +1,77 @@
+{
+  "id": 874273935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398178,41.712787,-71.398178,41.712787",
+    "geom:latitude":41.712787,
+    "geom:longitude":-71.398178,
+    "iso:country":"US",
+    "sg:address":"104 Old Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 0622",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "record",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868715,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JTMdgnTckXRS6151YKKOL_41.712787_-71.398178@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314365,
+    "wof:geomhash":"a2ca21d7a785a3df685656aad953f410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85868715,
+            "region_id":85688509,
+            "venue_id":874273935
+        }
+    ],
+    "wof:id":874273935,
+    "wof:lastmodified":1464314365,
+    "wof:name":"Record Town",
+    "wof:parent_id":85868715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.398178,
+    41.712787,
+    -71.398178,
+    41.712787
+],
+  "geometry": {"coordinates":[-71.398178,41.712787],"type":"Point"}
+}

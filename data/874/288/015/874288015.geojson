@@ -1,0 +1,78 @@
+{
+  "id": 874288015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395762,41.819694,-71.395762,41.819694",
+    "geom:latitude":41.819694,
+    "geom:longitude":-71.395762,
+    "iso:country":"US",
+    "sg:address":"374 Wickenden St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/18885-pizza-pie-er/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 3663",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YhB2CwEMe1ky7j4hgbRF7_41.819740_-71.395760@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314936,
+    "wof:geomhash":"3353b80e7c69dc4923360ee2423fb0ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874288015
+        }
+    ],
+    "wof:id":874288015,
+    "wof:lastmodified":1464314936,
+    "wof:name":"Pizza Pie-er",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.395762,
+    41.819694,
+    -71.395762,
+    41.819694
+],
+  "geometry": {"coordinates":[-71.395762,41.819694],"type":"Point"}
+}

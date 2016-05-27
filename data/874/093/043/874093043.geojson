@@ -1,0 +1,71 @@
+{
+  "id": 874093043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506111,41.859117,-71.506111,41.859117",
+    "geom:latitude":41.859117,
+    "geom:longitude":-71.506111,
+    "iso:country":"US",
+    "sg:address":"13 Blueberry Ln",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9559",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l5ZzkrPf7zybZVB7ecn9X_41.859117_-71.506111@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311695,
+    "wof:geomhash":"5bd06f22ba4e097c57b51fd162a83eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874093043
+        }
+    ],
+    "wof:id":874093043,
+    "wof:lastmodified":1464311695,
+    "wof:name":"Reliable Forms Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.506111,
+    41.859117,
+    -71.506111,
+    41.859117
+],
+  "geometry": {"coordinates":[-71.506111,41.859117],"type":"Point"}
+}

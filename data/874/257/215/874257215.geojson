@@ -1,0 +1,71 @@
+{
+  "id": 874257215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497255,41.589067,-71.497255,41.589067",
+    "geom:latitude":41.589067,
+    "geom:longitude":-71.497255,
+    "iso:country":"US",
+    "sg:address":"55 Brenton Ct",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 4156",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44TwHYerhcymaDlB5zw1Zk_41.589067_-71.497255@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313732,
+    "wof:geomhash":"092775d0e79ddcac47ac1d2c069218e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874257215
+        }
+    ],
+    "wof:id":874257215,
+    "wof:lastmodified":1464313732,
+    "wof:name":"Adj Alarms Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.497255,
+    41.589067,
+    -71.497255,
+    41.589067
+],
+  "geometry": {"coordinates":[-71.497255,41.589067],"type":"Point"}
+}

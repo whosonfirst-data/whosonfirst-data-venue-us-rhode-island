@@ -1,0 +1,86 @@
+{
+  "id": 873981271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406649,41.802712,-71.406649,41.802712",
+    "geom:latitude":41.802712,
+    "geom:longitude":-71.406649,
+    "iso:country":"US",
+    "sg:address":"913 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 784 8227",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ig5T5UMtUnz80rgjzfujh_41.802712_-71.406649@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310606,
+    "wof:geomhash":"3149ec9ab3e070345fcd30acd63f22a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":873981271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":873981271
+        }
+    ],
+    "wof:id":873981271,
+    "wof:lastmodified":1464310606,
+    "wof:name":"Johnny Cash Check Cashing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing"
+    ]
+},
+  "bbox": [
+    -71.406649,
+    41.802712,
+    -71.406649,
+    41.802712
+],
+  "geometry": {"coordinates":[-71.406649,41.802712],"type":"Point"}
+}

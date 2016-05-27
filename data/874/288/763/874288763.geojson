@@ -1,0 +1,74 @@
+{
+  "id": 874288763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.627337,41.371479,-71.627337,41.371479",
+    "geom:latitude":41.371479,
+    "geom:longitude":-71.627337,
+    "iso:country":"US",
+    "sg:address":"2 Charlestown Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 8813",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_754uOIS8iinxNlzNQK67CP_41.371479_-71.627337@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314968,
+    "wof:geomhash":"5fa1fbd539c7101a9735c21295b85af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288763
+        }
+    ],
+    "wof:id":874288763,
+    "wof:lastmodified":1464314968,
+    "wof:name":"Corner Deli the",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.627337,
+    41.371479,
+    -71.627337,
+    41.371479
+],
+  "geometry": {"coordinates":[-71.627337,41.371479],"type":"Point"}
+}

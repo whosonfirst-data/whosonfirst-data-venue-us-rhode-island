@@ -1,0 +1,71 @@
+{
+  "id": 874252993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549038,41.380575,-71.549038,41.380575",
+    "geom:latitude":41.380575,
+    "geom:longitude":-71.549038,
+    "iso:country":"US",
+    "sg:address":"80 Washington St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 1000",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hhhN3gmPdF3BJJXBIs6TK_41.380575_-71.549038@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313624,
+    "wof:geomhash":"5532acbc9196474b657d0db591df533d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874252993
+        }
+    ],
+    "wof:id":874252993,
+    "wof:lastmodified":1464313624,
+    "wof:name":"University Of Kingston Ri",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.549038,
+    41.380575,
+    -71.549038,
+    41.380575
+],
+  "geometry": {"coordinates":[-71.549038,41.380575],"type":"Point"}
+}

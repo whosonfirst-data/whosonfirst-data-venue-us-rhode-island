@@ -1,0 +1,75 @@
+{
+  "id": 874180513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480261,41.726239,-71.480261,41.726239",
+    "geom:latitude":41.726239,
+    "geom:longitude":-71.480261,
+    "iso:country":"US",
+    "sg:address":"317 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 3000",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2APEjEcnsztKldP0sL4DCa_41.726239_-71.480261@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312635,
+    "wof:geomhash":"6f4609d76944c31615a33b37733eb174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874180513
+        }
+    ],
+    "wof:id":874180513,
+    "wof:lastmodified":1464312635,
+    "wof:name":"A Plus Tailors & Cleaners",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.480261,
+    41.726239,
+    -71.480261,
+    41.726239
+],
+  "geometry": {"coordinates":[-71.480261,41.726239],"type":"Point"}
+}

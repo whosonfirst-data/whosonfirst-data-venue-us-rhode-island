@@ -1,0 +1,71 @@
+{
+  "id": 874123405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426029,41.875873,-71.426029,41.875873",
+    "geom:latitude":41.875873,
+    "geom:longitude":-71.426029,
+    "iso:country":"US",
+    "sg:address":"96 Orlando Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 0115",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pg8VKFfWHv5ILc3OhckgZ_41.875873_-71.426029@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"649296014b1dec415c407d634382ddf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874123405
+        }
+    ],
+    "wof:id":874123405,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Hiroko Shikashio Painting",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.426029,
+    41.875873,
+    -71.426029,
+    41.875873
+],
+  "geometry": {"coordinates":[-71.426029,41.875873],"type":"Point"}
+}

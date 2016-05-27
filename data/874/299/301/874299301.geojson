@@ -1,0 +1,77 @@
+{
+  "id": 874299301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450062,41.864123,-71.450062,41.864123",
+    "geom:latitude":41.864123,
+    "geom:longitude":-71.450062,
+    "iso:country":"US",
+    "sg:address":"1625 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47oMhvHiDakJWNkzGw4OmS_41.864123_-71.450062@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315364,
+    "wof:geomhash":"029cf4501514eaf11ebd7c95a940727e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299301
+        }
+    ],
+    "wof:id":874299301,
+    "wof:lastmodified":1464315364,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.450062,
+    41.864123,
+    -71.450062,
+    41.864123
+],
+  "geometry": {"coordinates":[-71.450062,41.864123],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874084717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.624456,41.527238,-71.624456,41.527238",
+    "geom:latitude":41.527238,
+    "geom:longitude":-71.624456,
+    "iso:country":"US",
+    "sg:address":"71 Oakland Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7171",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OTdMclJ9rELtIa1rrmaea_41.527238_-71.624456@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311606,
+    "wof:geomhash":"080ee60de638eec96261216439056cca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874084717
+        }
+    ],
+    "wof:id":874084717,
+    "wof:lastmodified":1464311606,
+    "wof:name":"Robar Excavation LLC",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.624456,
+    41.527238,
+    -71.624456,
+    41.527238
+],
+  "geometry": {"coordinates":[-71.624456,41.527238],"type":"Point"}
+}

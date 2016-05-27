@@ -1,0 +1,69 @@
+{
+  "id": 874129961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446466,41.867649,-71.446466,41.867649",
+    "geom:latitude":41.867649,
+    "geom:longitude":-71.446466,
+    "iso:country":"US",
+    "sg:address":"16 Springdale Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 1444",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nWsJS7dL78U2RACxeT5DL_41.867649_-71.446466@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312135,
+    "wof:geomhash":"99b136609922e523c50b94632c34480d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874129961
+        }
+    ],
+    "wof:id":874129961,
+    "wof:lastmodified":1464312135,
+    "wof:name":"Just Laundry & Dry Cleaning",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.446466,
+    41.867649,
+    -71.446466,
+    41.867649
+],
+  "geometry": {"coordinates":[-71.446466,41.867649],"type":"Point"}
+}

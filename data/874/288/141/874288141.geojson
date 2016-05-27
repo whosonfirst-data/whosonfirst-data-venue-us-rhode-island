@@ -1,0 +1,95 @@
+{
+  "id": 874288141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447106,41.777169,-71.447106,41.777169",
+    "geom:latitude":41.777169,
+    "geom:longitude":-71.447106,
+    "iso:country":"US",
+    "sg:address":"875 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/91195-dangelo-grilled-sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 4730",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dPO4sIeRSi9FGKZ5WS3qL_41.776860_-71.447344@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314941,
+    "wof:geomhash":"bec10a201468b82cfbd3ccc5f47e9f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874288141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874288141
+        }
+    ],
+    "wof:id":874288141,
+    "wof:lastmodified":1464314941,
+    "wof:name":"D'Angelo Grilled Sandwiches",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -71.447106,
+    41.777169,
+    -71.447106,
+    41.777169
+],
+  "geometry": {"coordinates":[-71.44710600000001,41.777169],"type":"Point"}
+}

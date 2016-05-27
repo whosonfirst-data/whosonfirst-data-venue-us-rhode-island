@@ -1,0 +1,75 @@
+{
+  "id": 874257589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501341,41.866246,-71.501341,41.866246",
+    "geom:latitude":41.866246,
+    "geom:longitude":-71.501341,
+    "iso:country":"US",
+    "sg:address":"181 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1118",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MIMuTpF3WZRKxpTlbZPpB_41.866246_-71.501341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313752,
+    "wof:geomhash":"541f9411b512fa7f21ee0e3f81c412a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874257589
+        }
+    ],
+    "wof:id":874257589,
+    "wof:lastmodified":1464313752,
+    "wof:name":"Metro Collision Center",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.501341,
+    41.866246,
+    -71.501341,
+    41.866246
+],
+  "geometry": {"coordinates":[-71.501341,41.866246],"type":"Point"}
+}

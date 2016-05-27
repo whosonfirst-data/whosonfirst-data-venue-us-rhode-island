@@ -1,0 +1,76 @@
+{
+  "id": 874283215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400448,41.854397,-71.400448,41.854397",
+    "geom:latitude":41.854397,
+    "geom:longitude":-71.400448,
+    "iso:country":"US",
+    "sg:address":"1253 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 2590",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.thesandwichhut.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1svaaPfqss3QxohsNZwBuH_41.854374_-71.400389@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314747,
+    "wof:geomhash":"21d45661cef0149be424db29caf91d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874283215
+        }
+    ],
+    "wof:id":874283215,
+    "wof:lastmodified":1464314747,
+    "wof:name":"The Sandwich Hut",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.400448,
+    41.854397,
+    -71.400448,
+    41.854397
+],
+  "geometry": {"coordinates":[-71.400448,41.854397],"type":"Point"}
+}

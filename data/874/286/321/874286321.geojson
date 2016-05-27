@@ -1,0 +1,84 @@
+{
+  "id": 874286321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413689,41.807301,-71.413689,41.807301",
+    "geom:latitude":41.807301,
+    "geom:longitude":-71.413689,
+    "iso:country":"US",
+    "sg:address":"1 Hilton St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 6028",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "government-united",
+        "program",
+        "administrative",
+        "state",
+        "educational"
+    ],
+    "sg:website":"http://www.ridoe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7egYrKh6rhNZEtbEKKcqdn_41.806942_-71.413528@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314867,
+    "wof:geomhash":"70f3e6c6880aae40523e655cd60629bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874286321
+        }
+    ],
+    "wof:id":874286321,
+    "wof:lastmodified":1464314867,
+    "wof:name":"Educational Opportunity Ctr",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "program",
+        "administrative",
+        "state",
+        "educational"
+    ]
+},
+  "bbox": [
+    -71.413689,
+    41.807301,
+    -71.413689,
+    41.807301
+],
+  "geometry": {"coordinates":[-71.41368900000001,41.807301],"type":"Point"}
+}

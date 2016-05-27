@@ -1,0 +1,73 @@
+{
+  "id": 874047881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400093,41.928039,-71.400093,41.928039",
+    "geom:latitude":41.928039,
+    "geom:longitude":-71.400093,
+    "iso:country":"US",
+    "sg:address":"1380 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 2222",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mC3bsM8ibF90YTOde3z0T_41.928039_-71.400093@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311222,
+    "wof:geomhash":"fd8e0096346f0f30f518e8aaa76e8ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874047881
+        }
+    ],
+    "wof:id":874047881,
+    "wof:lastmodified":1464311222,
+    "wof:name":"Cumberland Crime Stoppers",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "prevention",
+        "crime"
+    ]
+},
+  "bbox": [
+    -71.400093,
+    41.928039,
+    -71.400093,
+    41.928039
+],
+  "geometry": {"coordinates":[-71.400093,41.928039],"type":"Point"}
+}

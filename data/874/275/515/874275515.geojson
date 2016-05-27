@@ -1,0 +1,86 @@
+{
+  "id": 874275515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423133,41.843681,-71.423133,41.843681",
+    "geom:latitude":41.843681,
+    "geom:longitude":-71.423133,
+    "iso:country":"US",
+    "sg:address":"221 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7030",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "fabricator",
+        "sheet",
+        "refurbished"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZilVRu04g0hcJ0OICl6s_41.843681_-71.423133@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314427,
+    "wof:geomhash":"a7cf459fb4aa7e88513f20b076909edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874275515
+        }
+    ],
+    "wof:id":874275515,
+    "wof:lastmodified":1464314427,
+    "wof:name":"A-1 Restaurant Supply",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "fabricator",
+        "sheet",
+        "refurbished"
+    ]
+},
+  "bbox": [
+    -71.423133,
+    41.843681,
+    -71.423133,
+    41.843681
+],
+  "geometry": {"coordinates":[-71.42313300000001,41.843681],"type":"Point"}
+}

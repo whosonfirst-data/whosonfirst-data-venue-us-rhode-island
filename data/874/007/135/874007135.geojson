@@ -1,0 +1,73 @@
+{
+  "id": 874007135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271545,41.576601,-71.271545,41.576601",
+    "geom:latitude":41.576601,
+    "geom:longitude":-71.271545,
+    "iso:country":"US",
+    "sg:address":"1637 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 293 0170",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u8F3uIeJj8ziBCZ3DRjwU_41.576601_-71.271545@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310833,
+    "wof:geomhash":"f049b4cf9065cef0b4b52989e8081b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874007135
+        }
+    ],
+    "wof:id":874007135,
+    "wof:lastmodified":1464310833,
+    "wof:name":"Hometown Automotive",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.271545,
+    41.576601,
+    -71.271545,
+    41.576601
+],
+  "geometry": {"coordinates":[-71.271545,41.576601],"type":"Point"}
+}

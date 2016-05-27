@@ -1,0 +1,81 @@
+{
+  "id": 873994385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500964,41.711487,-71.500964,41.711487",
+    "geom:latitude":41.711487,
+    "geom:longitude":-71.500964,
+    "iso:country":"US",
+    "sg:address":"341 Providence St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 8482",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I9ZxrusLSXU4WSdPRq8pq_41.711487_-71.500964@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"52db444d33bd4a194d106a9a5bf61567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":873994385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":873994385
+        }
+    ],
+    "wof:id":873994385,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Roger Williams Chpt RI",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.500964,
+    41.711487,
+    -71.500964,
+    41.711487
+],
+  "geometry": {"coordinates":[-71.500964,41.711487],"type":"Point"}
+}

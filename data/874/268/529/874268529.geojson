@@ -1,0 +1,73 @@
+{
+  "id": 874268529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278848,41.710129,-71.278848,41.710129",
+    "geom:latitude":41.710129,
+    "geom:longitude":-71.278848,
+    "iso:country":"US",
+    "sg:address":"11 Terrace Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6763",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3STrvR3HSeSwQ2Z7KsC1O1_41.710129_-71.278848@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314173,
+    "wof:geomhash":"f525d3fc6930b0ebf6410c335fe58c2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874268529
+        }
+    ],
+    "wof:id":874268529,
+    "wof:lastmodified":1464314173,
+    "wof:name":"Anthony Giampietro",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.278848,
+    41.710129,
+    -71.278848,
+    41.710129
+],
+  "geometry": {"coordinates":[-71.278848,41.710129],"type":"Point"}
+}

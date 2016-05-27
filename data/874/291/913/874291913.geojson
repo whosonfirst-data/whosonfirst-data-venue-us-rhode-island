@@ -1,0 +1,81 @@
+{
+  "id": 874291913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440552,41.949329,-71.440552,41.949329",
+    "geom:latitude":41.949329,
+    "geom:longitude":-71.440552,
+    "iso:country":"US",
+    "sg:address":"2000 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 7078",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.aaa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48nTWhewvAk6AgxxIBDvJv_41.949329_-71.440552@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315086,
+    "wof:geomhash":"2c3736aeea499023c9c95e1b8707f4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291913
+        }
+    ],
+    "wof:id":874291913,
+    "wof:lastmodified":1464315086,
+    "wof:name":"AAA Auto Glass",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -71.440552,
+    41.949329,
+    -71.440552,
+    41.949329
+],
+  "geometry": {"coordinates":[-71.440552,41.949329],"type":"Point"}
+}

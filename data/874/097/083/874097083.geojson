@@ -1,0 +1,69 @@
+{
+  "id": 874097083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.282773,41.553899,-71.282773,41.553899",
+    "geom:latitude":41.553899,
+    "geom:longitude":-71.282773,
+    "iso:country":"US",
+    "sg:address":"280 Jepson Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 0769",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_531I0FWfW925DoDIHHJHHr_41.553899_-71.282773@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311745,
+    "wof:geomhash":"2160cbc4915e418a0a08b0f23356b4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874097083
+        }
+    ],
+    "wof:id":874097083,
+    "wof:lastmodified":1464311745,
+    "wof:name":"G & R Painting Co",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.282773,
+    41.553899,
+    -71.282773,
+    41.553899
+],
+  "geometry": {"coordinates":[-71.28277300000001,41.553899],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874244031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455082,41.81797,-71.455082,41.81797",
+    "geom:latitude":41.81797,
+    "geom:longitude":-71.455082,
+    "iso:country":"US",
+    "sg:address":"335 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 6980",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o3RZ38sv7saMRm2r81bZc_41.817970_-71.455082@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313412,
+    "wof:geomhash":"77d1ada0c83891a7a74ec3a1acf6fa79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874244031
+        }
+    ],
+    "wof:id":874244031,
+    "wof:lastmodified":1464313412,
+    "wof:name":"Providence Housing Security",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -71.455082,
+    41.81797,
+    -71.455082,
+    41.81797
+],
+  "geometry": {"coordinates":[-71.455082,41.81797],"type":"Point"}
+}

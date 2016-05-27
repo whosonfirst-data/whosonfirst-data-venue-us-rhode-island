@@ -1,0 +1,71 @@
+{
+  "id": 874003033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274657,41.737226,-71.274657,41.737226",
+    "geom:latitude":41.737226,
+    "geom:longitude":-71.274657,
+    "iso:country":"US",
+    "sg:address":"306 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9404",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "hockey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mBcYOmVeO00WoByVILfJ8_41.737226_-71.274657@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310793,
+    "wof:geomhash":"d8760adf3e4bed734bf0d01eab2375eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874003033
+        }
+    ],
+    "wof:id":874003033,
+    "wof:lastmodified":1464310793,
+    "wof:name":"Manny's Hockey Shop",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hockey"
+    ]
+},
+  "bbox": [
+    -71.274657,
+    41.737226,
+    -71.274657,
+    41.737226
+],
+  "geometry": {"coordinates":[-71.274657,41.737226],"type":"Point"}
+}

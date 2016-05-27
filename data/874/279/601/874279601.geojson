@@ -1,0 +1,71 @@
+{
+  "id": 874279601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.653199,41.945201,-71.653199,41.945201",
+    "geom:latitude":41.945201,
+    "geom:longitude":-71.653199,
+    "iso:country":"US",
+    "sg:address":"795 Victory Hwy",
+    "sg:city":"Mapleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4200",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZWNWJrYNvrYLpzQa5t4GE_41.945201_-71.653199@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314594,
+    "wof:geomhash":"0f65b2b90d43b2cd85175e2660a284db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874279601
+        }
+    ],
+    "wof:id":874279601,
+    "wof:lastmodified":1464314594,
+    "wof:name":"George's Auto Repair",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.653199,
+    41.945201,
+    -71.653199,
+    41.945201
+],
+  "geometry": {"coordinates":[-71.653199,41.945201],"type":"Point"}
+}

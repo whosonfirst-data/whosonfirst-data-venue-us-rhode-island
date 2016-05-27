@@ -1,0 +1,75 @@
+{
+  "id": 874292929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283081,41.585091,-71.283081,41.585091",
+    "geom:latitude":41.585091,
+    "geom:longitude":-71.283081,
+    "iso:country":"US",
+    "sg:address":"1 Maritime Dr Ste 8",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 6070",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ship",
+        "yacht",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y5FO3yFtywjnGyQQL1iK6_41.585091_-71.283081@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315121,
+    "wof:geomhash":"bcc1815314a5dc804e6cfe45ae2708bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874292929
+        }
+    ],
+    "wof:id":874292929,
+    "wof:lastmodified":1464315121,
+    "wof:name":"Wellington Yacht Partners",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ship",
+        "yacht",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.283081,
+    41.585091,
+    -71.283081,
+    41.585091
+],
+  "geometry": {"coordinates":[-71.283081,41.585091],"type":"Point"}
+}

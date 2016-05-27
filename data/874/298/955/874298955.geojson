@@ -1,0 +1,71 @@
+{
+  "id": 874298955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451099,41.865252,-71.451099,41.865252",
+    "geom:latitude":41.865252,
+    "geom:longitude":-71.451099,
+    "iso:country":"US",
+    "sg:address":"1637 Mineral Spring Ave Ste 211",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0757",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HsVIFWScUTEAhrmVQpSh3_41.865252_-71.451099@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315353,
+    "wof:geomhash":"98c0f9bfd1a4bda0035ac0e65648923a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874298955
+        }
+    ],
+    "wof:id":874298955,
+    "wof:lastmodified":1464315353,
+    "wof:name":"David A Carcieri MD",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -71.451099,
+    41.865252,
+    -71.451099,
+    41.865252
+],
+  "geometry": {"coordinates":[-71.451099,41.865252],"type":"Point"}
+}

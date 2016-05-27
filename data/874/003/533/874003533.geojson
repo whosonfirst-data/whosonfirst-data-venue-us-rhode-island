@@ -1,0 +1,69 @@
+{
+  "id": 874003533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.62926,41.382991,-71.62926,41.382991",
+    "geom:latitude":41.382991,
+    "geom:longitude":-71.62926,
+    "iso:country":"US",
+    "sg:address":"2345 Matunuck Schoolhouse Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9765",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hv8nGjM4VOSI2BehdfxR1_41.382991_-71.629260@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310798,
+    "wof:geomhash":"67b16ef954bb87b4c03dc88fb1a3f79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874003533
+        }
+    ],
+    "wof:id":874003533,
+    "wof:lastmodified":1464310798,
+    "wof:name":"J Harvey Builders",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.62926,
+    41.382991,
+    -71.62926,
+    41.382991
+],
+  "geometry": {"coordinates":[-71.62926,41.382991],"type":"Point"}
+}

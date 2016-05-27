@@ -1,0 +1,73 @@
+{
+  "id": 874070071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53549,41.868107,-71.53549,41.868107",
+    "geom:latitude":41.868107,
+    "geom:longitude":-71.53549,
+    "iso:country":"US",
+    "sg:address":"19 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5252",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XUjfGqgOPLFni75b7zPDs_41.868107_-71.535490@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"b9dc4c1cb882a8ef2b5d25abd8d37ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874070071
+        }
+    ],
+    "wof:id":874070071,
+    "wof:lastmodified":1464311432,
+    "wof:name":"Auto Wizard Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.53549,
+    41.868107,
+    -71.53549,
+    41.868107
+],
+  "geometry": {"coordinates":[-71.53549,41.868107],"type":"Point"}
+}

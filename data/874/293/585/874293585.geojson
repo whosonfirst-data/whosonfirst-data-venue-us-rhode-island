@@ -1,0 +1,73 @@
+{
+  "id": 874293585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560309,41.483484,-71.560309,41.483484",
+    "geom:latitude":41.483484,
+    "geom:longitude":-71.560309,
+    "iso:country":"US",
+    "sg:address":"1 Railroad Ave",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4422",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "active",
+        "life"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IuqBWIcqGchRVxwkdsOF1_41.483484_-71.560309@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315143,
+    "wof:geomhash":"57ea0c9a5dbddfe23751cfb60e83ea13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874293585
+        }
+    ],
+    "wof:id":874293585,
+    "wof:lastmodified":1464315143,
+    "wof:name":"William C. O'Neill Bike Path",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "active",
+        "life"
+    ]
+},
+  "bbox": [
+    -71.560309,
+    41.483484,
+    -71.560309,
+    41.483484
+],
+  "geometry": {"coordinates":[-71.560309,41.483484],"type":"Point"}
+}

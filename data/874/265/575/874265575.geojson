@@ -1,0 +1,71 @@
+{
+  "id": 874265575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.618016,41.378449,-71.618016,41.378449",
+    "geom:latitude":41.378449,
+    "geom:longitude":-71.618016,
+    "iso:country":"US",
+    "sg:address":"56 Spruce Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0259",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "diving",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0cl6WT5D6xaTne6UZ1ms_41.378449_-71.618016@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314057,
+    "wof:geomhash":"80bafb2b81cd35da54bf31b2cfe9f05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874265575
+        }
+    ],
+    "wof:id":874265575,
+    "wof:lastmodified":1464314057,
+    "wof:name":"AK Commercial Diving Inc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.618016,
+    41.378449,
+    -71.618016,
+    41.378449
+],
+  "geometry": {"coordinates":[-71.618016,41.378449],"type":"Point"}
+}

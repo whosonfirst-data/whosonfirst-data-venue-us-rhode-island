@@ -1,0 +1,84 @@
+{
+  "id": 874276691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.694174,41.979598,-71.694174,41.979598",
+    "geom:latitude":41.979598,
+    "geom:longitude":-71.694174,
+    "iso:country":"US",
+    "sg:address":"65 Smith Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4176",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "supply",
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vxrt6X2KM2O23TiUp9Te5_41.979598_-71.694174@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314486,
+    "wof:geomhash":"9d3c2264e4675d6fb4e463ddb833d5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874276691
+        }
+    ],
+    "wof:id":874276691,
+    "wof:lastmodified":1464314486,
+    "wof:name":"Colby Telephone Inc",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply",
+        "communications"
+    ]
+},
+  "bbox": [
+    -71.694174,
+    41.979598,
+    -71.694174,
+    41.979598
+],
+  "geometry": {"coordinates":[-71.694174,41.979598],"type":"Point"}
+}

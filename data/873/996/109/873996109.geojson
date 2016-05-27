@@ -1,0 +1,71 @@
+{
+  "id": 873996109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448769,41.867971,-71.448769,41.867971",
+    "geom:latitude":41.867971,
+    "geom:longitude":-71.448769,
+    "iso:country":"US",
+    "sg:address":"39 Oakcrest Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0671",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instrumentation",
+        "biomedical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lxNqwXTq9Jb8Z0V4IFQjM_41.867971_-71.448769@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310733,
+    "wof:geomhash":"9f676801a8e6946a480b07609f99da88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":873996109
+        }
+    ],
+    "wof:id":873996109,
+    "wof:lastmodified":1464310733,
+    "wof:name":"Kevian Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrumentation",
+        "biomedical"
+    ]
+},
+  "bbox": [
+    -71.448769,
+    41.867971,
+    -71.448769,
+    41.867971
+],
+  "geometry": {"coordinates":[-71.448769,41.867971],"type":"Point"}
+}

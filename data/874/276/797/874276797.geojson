@@ -1,0 +1,80 @@
+{
+  "id": 874276797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57085,41.691828,-71.57085,41.691828",
+    "geom:latitude":41.691828,
+    "geom:longitude":-71.57085,
+    "iso:country":"US",
+    "sg:address":"1373 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 9160",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiczHmWzl0n1HCxDVpDru_41.691828_-71.570850@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314490,
+    "wof:geomhash":"b5c5928d0c2e97a50c17d56a1805008c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874276797
+        }
+    ],
+    "wof:id":874276797,
+    "wof:lastmodified":1464314490,
+    "wof:name":"De Ciantis Ice Cream Co",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.57085,
+    41.691828,
+    -71.57085,
+    41.691828
+],
+  "geometry": {"coordinates":[-71.57084999999999,41.691828],"type":"Point"}
+}

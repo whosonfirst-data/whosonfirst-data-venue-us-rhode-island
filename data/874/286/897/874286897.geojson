@@ -1,0 +1,72 @@
+{
+  "id": 874286897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442519,41.89055,-71.442519,41.89055",
+    "geom:latitude":41.89055,
+    "geom:longitude":-71.442519,
+    "iso:country":"US",
+    "sg:address":"1600 Louisquisset Pike",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/lincoln/236104-ronzio-pizza--subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 4749",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40NDTSlfV5A81qhYzmBKpO_41.890550_-71.442519@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314887,
+    "wof:geomhash":"661b079618fcf719a3a86becce0ec820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874286897
+        }
+    ],
+    "wof:id":874286897,
+    "wof:lastmodified":1464314887,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.442519,
+    41.89055,
+    -71.442519,
+    41.89055
+],
+  "geometry": {"coordinates":[-71.442519,41.89055],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874253333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464958,41.818714,-71.464958,41.818714",
+    "geom:latitude":41.818714,
+    "geom:longitude":-71.464958,
+    "iso:country":"US",
+    "sg:address":"1 Eugene St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 824 0399",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gkyFLn8m57vVK7KeBg3bW_41.818714_-71.464958@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313632,
+    "wof:geomhash":"919a45d75d030cbe93bb63e85b5d5681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874253333
+        }
+    ],
+    "wof:id":874253333,
+    "wof:lastmodified":1464313632,
+    "wof:name":"Union Tailoring & Cleaners",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.464958,
+    41.818714,
+    -71.464958,
+    41.818714
+],
+  "geometry": {"coordinates":[-71.464958,41.818714],"type":"Point"}
+}

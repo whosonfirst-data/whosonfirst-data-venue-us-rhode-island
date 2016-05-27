@@ -1,0 +1,69 @@
+{
+  "id": 874298667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461304,41.857899,-71.461304,41.857899",
+    "geom:latitude":41.857899,
+    "geom:longitude":-71.461304,
+    "iso:country":"US",
+    "sg:address":"259 High Service Ave",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6800",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QSceeq7DD5R1wXQXv39b7_41.857899_-71.461304@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315338,
+    "wof:geomhash":"599dda6c1b30ba938774c36b71900b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874298667
+        }
+    ],
+    "wof:id":874298667,
+    "wof:lastmodified":1464315338,
+    "wof:name":"Rajabiun M Taghi",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -71.461304,
+    41.857899,
+    -71.461304,
+    41.857899
+],
+  "geometry": {"coordinates":[-71.461304,41.857899],"type":"Point"}
+}

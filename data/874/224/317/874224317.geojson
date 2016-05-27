@@ -1,0 +1,69 @@
+{
+  "id": 874224317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.719942,41.834371,-71.719942,41.834371",
+    "geom:latitude":41.834371,
+    "geom:longitude":-71.719942,
+    "iso:country":"US",
+    "sg:address":"55 Winsor Rd",
+    "sg:city":"Foster",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 2755",
+    "sg:postcode":"02825",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849685,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vtKwtDWGVnzRN5SYbVssX_41.834371_-71.719942@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313105,
+    "wof:geomhash":"e0e55ab2793ebe51ab30ba673585cae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85849685,
+            "region_id":85688509,
+            "venue_id":874224317
+        }
+    ],
+    "wof:id":874224317,
+    "wof:lastmodified":1464313105,
+    "wof:name":"Brad Winsor Forest Products",
+    "wof:parent_id":85849685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -71.719942,
+    41.834371,
+    -71.719942,
+    41.834371
+],
+  "geometry": {"coordinates":[-71.719942,41.834371],"type":"Point"}
+}

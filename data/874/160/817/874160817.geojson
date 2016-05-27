@@ -1,0 +1,72 @@
+{
+  "id": 874160817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274682,41.693112,-71.274682,41.693112",
+    "geom:latitude":41.693112,
+    "geom:longitude":-71.274682,
+    "iso:country":"US",
+    "sg:address":"54 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1267",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "sg:website":"www.ebgym.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wg5dCXVejm3RM1gfhfg8Z_41.693112_-71.274682@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312440,
+    "wof:geomhash":"fb090ed636bcebf72c2f85e770ed08ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874160817
+        }
+    ],
+    "wof:id":874160817,
+    "wof:lastmodified":1464312440,
+    "wof:name":"East Bay Gymnastics Center",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -71.274682,
+    41.693112,
+    -71.274682,
+    41.693112
+],
+  "geometry": {"coordinates":[-71.274682,41.693112],"type":"Point"}
+}

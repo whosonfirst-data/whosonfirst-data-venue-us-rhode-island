@@ -1,0 +1,71 @@
+{
+  "id": 874001489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.526015,41.469976,-71.526015,41.469976",
+    "geom:latitude":41.469976,
+    "geom:longitude":-71.526015,
+    "iso:country":"US",
+    "sg:address":"1425 South Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 9463",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gejc1Vol6tTHogAv7Gisu_41.469976_-71.526015@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310771,
+    "wof:geomhash":"ec17d971ed4c9657496369bc82cb63d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874001489
+        }
+    ],
+    "wof:id":874001489,
+    "wof:lastmodified":1464310771,
+    "wof:name":"South Road Group Home",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.526015,
+    41.469976,
+    -71.526015,
+    41.469976
+],
+  "geometry": {"coordinates":[-71.526015,41.469976],"type":"Point"}
+}

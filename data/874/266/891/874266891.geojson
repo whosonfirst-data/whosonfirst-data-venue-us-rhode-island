@@ -1,0 +1,71 @@
+{
+  "id": 874266891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.540263,41.641984,-71.540263,41.641984",
+    "geom:latitude":41.641984,
+    "geom:longitude":-71.540263,
+    "iso:country":"US",
+    "sg:address":"2040 Middle Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 8012",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820691,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QjAXIgdw03YWbrdHqCw21_41.641984_-71.540263@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314102,
+    "wof:geomhash":"d2051877a99eecebf3ffd74274077ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85820691,
+            "region_id":85688509,
+            "venue_id":874266891
+        }
+    ],
+    "wof:id":874266891,
+    "wof:lastmodified":1464314102,
+    "wof:name":"Woods By Toll Brothers",
+    "wof:parent_id":85820691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.540263,
+    41.641984,
+    -71.540263,
+    41.641984
+],
+  "geometry": {"coordinates":[-71.540263,41.641984],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874287829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513818,41.470712,-71.513818,41.470712",
+    "geom:latitude":41.470712,
+    "geom:longitude":-71.513818,
+    "iso:country":"US",
+    "sg:address":"2095 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/9386-cucina-twist/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5300",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iPdOTuyA70Hsmaxzj0fri_41.470107_-71.513854@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314929,
+    "wof:geomhash":"9edc0255e9ac88a6a6020ea52f47b840",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874287829
+        }
+    ],
+    "wof:id":874287829,
+    "wof:lastmodified":1464314929,
+    "wof:name":"Cucina Twist",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.513818,
+    41.470712,
+    -71.513818,
+    41.470712
+],
+  "geometry": {"coordinates":[-71.513818,41.470712],"type":"Point"}
+}

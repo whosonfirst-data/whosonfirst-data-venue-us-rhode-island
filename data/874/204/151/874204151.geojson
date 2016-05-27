@@ -1,0 +1,84 @@
+{
+  "id": 874204151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462195,41.433252,-71.462195,41.433252",
+    "geom:latitude":41.433252,
+    "geom:longitude":-71.462195,
+    "iso:country":"US",
+    "sg:address":"67 Narragansett Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4785",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12C4CqZ0jBBrrGD9OaeWLg_41.433252_-71.462195@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312885,
+    "wof:geomhash":"ebe48e8c04d7e96be06b6fff188028db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874204151
+        }
+    ],
+    "wof:id":874204151,
+    "wof:lastmodified":1464312885,
+    "wof:name":"Tootus Tuus",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.462195,
+    41.433252,
+    -71.462195,
+    41.433252
+],
+  "geometry": {"coordinates":[-71.46219499999999,41.433252],"type":"Point"}
+}

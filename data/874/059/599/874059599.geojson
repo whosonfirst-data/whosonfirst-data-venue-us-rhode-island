@@ -1,0 +1,75 @@
+{
+  "id": 874059599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488135,41.995546,-71.488135,41.995546",
+    "geom:latitude":41.995546,
+    "geom:longitude":-71.488135,
+    "iso:country":"US",
+    "sg:address":"846 Cumberland Hill Rd",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 356 4768",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ic2OcIAw4vao3rAdYAGTl_41.995546_-71.488135@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311331,
+    "wof:geomhash":"a3c3568998c79b509321dd64329f7bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874059599
+        }
+    ],
+    "wof:id":874059599,
+    "wof:lastmodified":1464311331,
+    "wof:name":"New England Ambulance Inc",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.488135,
+    41.995546,
+    -71.488135,
+    41.995546
+],
+  "geometry": {"coordinates":[-71.488135,41.995546],"type":"Point"}
+}

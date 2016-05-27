@@ -1,0 +1,71 @@
+{
+  "id": 874237435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.286042,41.73005,-71.286042,41.73005",
+    "geom:latitude":41.73005,
+    "geom:longitude":-71.286042,
+    "iso:country":"US",
+    "sg:address":"66 Church St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1118",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24wZjtJgPOI9lZZU38O4Rk_41.730050_-71.286042@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313287,
+    "wof:geomhash":"b1c68a2fb24ca9e4be6b250f61edad98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874237435
+        }
+    ],
+    "wof:id":874237435,
+    "wof:lastmodified":1464313287,
+    "wof:name":"Bigelow Marine Repair",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "marine"
+    ]
+},
+  "bbox": [
+    -71.286042,
+    41.73005,
+    -71.286042,
+    41.73005
+],
+  "geometry": {"coordinates":[-71.28604199999999,41.73005],"type":"Point"}
+}

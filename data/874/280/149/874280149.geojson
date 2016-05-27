@@ -1,0 +1,70 @@
+{
+  "id": 874280149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.31588,41.73894,-71.31588,41.73894",
+    "geom:latitude":41.73894,
+    "geom:longitude":-71.31588,
+    "iso:country":"US",
+    "sg:address":"286 Maple Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2683",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.esclab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_279nwLllhZ5k02l5wWXOjH_41.738940_-71.315880@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314615,
+    "wof:geomhash":"813db6a6d08a513ddac8a8351b069320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874280149
+        }
+    ],
+    "wof:id":874280149,
+    "wof:lastmodified":1464314615,
+    "wof:name":"East Side Clinical Laboratory",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.31588,
+    41.73894,
+    -71.31588,
+    41.73894
+],
+  "geometry": {"coordinates":[-71.31588000000001,41.73894],"type":"Point"}
+}

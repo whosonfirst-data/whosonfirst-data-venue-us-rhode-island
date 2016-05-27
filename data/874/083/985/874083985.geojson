@@ -1,0 +1,88 @@
+{
+  "id": 874083985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480759,41.430678,-71.480759,41.430678",
+    "geom:latitude":41.430678,
+    "geom:longitude":-71.480759,
+    "iso:country":"US",
+    "sg:address":"368 S Pier Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4110",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cEfTBsb5rxcOkcVQDcfrV_41.430678_-71.480759@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311599,
+    "wof:geomhash":"7b5f50a6d6aba0d1ca58aa2339184ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874083985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874083985
+        }
+    ],
+    "wof:id":874083985,
+    "wof:lastmodified":1464311599,
+    "wof:name":"Tim Hortons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.480759,
+    41.430678,
+    -71.480759,
+    41.430678
+],
+  "geometry": {"coordinates":[-71.48075900000001,41.430678],"type":"Point"}
+}

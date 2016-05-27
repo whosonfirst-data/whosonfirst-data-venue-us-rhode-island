@@ -1,0 +1,82 @@
+{
+  "id": 874299713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407997,41.841599,-71.407997,41.841599",
+    "geom:latitude":41.841599,
+    "geom:longitude":-71.407997,
+    "iso:country":"US",
+    "sg:address":"805 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 3950",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:website":"www.kfc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1riKpDvvw7MzpWvfVvicMh_41.841599_-71.407997@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315379,
+    "wof:geomhash":"e756bf9f00fae1c4f5759cc8695657cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874299713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874299713
+        }
+    ],
+    "wof:id":874299713,
+    "wof:lastmodified":1464315379,
+    "wof:name":"Kentucky Fried Chicken",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.407997,
+    41.841599,
+    -71.407997,
+    41.841599
+],
+  "geometry": {"coordinates":[-71.40799699999999,41.841599],"type":"Point"}
+}

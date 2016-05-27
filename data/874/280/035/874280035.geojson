@@ -1,0 +1,69 @@
+{
+  "id": 874280035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436638,41.481429,-71.436638,41.481429",
+    "geom:latitude":41.481429,
+    "geom:longitude":-71.436638,
+    "iso:country":"US",
+    "sg:address":"1014 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 2359",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wMQNoe35Q0EayZ9zV5sWx_41.481429_-71.436638@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314611,
+    "wof:geomhash":"d9823cab48b85ea00bdc6b8e650b886e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874280035
+        }
+    ],
+    "wof:id":874280035,
+    "wof:lastmodified":1464314611,
+    "wof:name":"Loans Unlimited",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -71.436638,
+    41.481429,
+    -71.436638,
+    41.481429
+],
+  "geometry": {"coordinates":[-71.436638,41.481429],"type":"Point"}
+}

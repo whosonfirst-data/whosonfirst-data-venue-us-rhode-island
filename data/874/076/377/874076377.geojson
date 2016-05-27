@@ -1,0 +1,73 @@
+{
+  "id": 874076377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.634636,41.381023,-71.634636,41.381023",
+    "geom:latitude":41.381023,
+    "geom:longitude":-71.634636,
+    "iso:country":"US",
+    "sg:address":"1 Maritime Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Watercraft",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 1712",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "repair",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gnDDrAbUdcTTYzxXQwnrQ_41.381023_-71.634636@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311514,
+    "wof:geomhash":"56642d17eb47beefc7f9e654c5250085",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874076377
+        }
+    ],
+    "wof:id":874076377,
+    "wof:lastmodified":1464311514,
+    "wof:name":"Portsmouth Marine Co LLC",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "repair",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.634636,
+    41.381023,
+    -71.634636,
+    41.381023
+],
+  "geometry": {"coordinates":[-71.634636,41.381023],"type":"Point"}
+}

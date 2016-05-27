@@ -1,0 +1,77 @@
+{
+  "id": 874096421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4485,41.80051,-71.4485,41.80051",
+    "geom:latitude":41.80051,
+    "geom:longitude":-71.4485,
+    "iso:country":"US",
+    "sg:address":"50 Birch St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 7210",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OeCFpkEQlKq2bbwditCjC_41.800510_-71.448500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311734,
+    "wof:geomhash":"85762078aca5811e72a707f7ea0dfb3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874096421
+        }
+    ],
+    "wof:id":874096421,
+    "wof:lastmodified":1464311734,
+    "wof:name":"Cranston Housing Authority",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.4485,
+    41.80051,
+    -71.4485,
+    41.80051
+],
+  "geometry": {"coordinates":[-71.4485,41.80051],"type":"Point"}
+}

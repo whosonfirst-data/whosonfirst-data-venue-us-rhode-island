@@ -1,0 +1,81 @@
+{
+  "id": 874058615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500948,41.437267,-71.500948,41.437267",
+    "geom:latitude":41.437267,
+    "geom:longitude":-71.500948,
+    "iso:country":"US",
+    "sg:address":"396 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 9305",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A0lxiTJUyLWpFNi0hOpmJ_41.437267_-71.500948@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311323,
+    "wof:geomhash":"7ac003d71ddcf9d9301a7a9128bc4a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874058615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874058615
+        }
+    ],
+    "wof:id":874058615,
+    "wof:lastmodified":1464311323,
+    "wof:name":"Town Meats On Main",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.500948,
+    41.437267,
+    -71.500948,
+    41.437267
+],
+  "geometry": {"coordinates":[-71.50094799999999,41.437267],"type":"Point"}
+}

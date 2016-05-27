@@ -1,0 +1,72 @@
+{
+  "id": 874157879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450398,41.571543,-71.450398,41.571543",
+    "geom:latitude":41.571543,
+    "geom:longitude":-71.450398,
+    "iso:country":"US",
+    "sg:address":"14 Gold St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4443",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44qcLq355qM3IyqfP102uU_41.571543_-71.450398@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312407,
+    "wof:geomhash":"f1e75bedd8795cfbb79c6e6956cf201c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874157879
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874157879
+        }
+    ],
+    "wof:id":874157879,
+    "wof:lastmodified":1464312407,
+    "wof:name":"St Pauls Rectory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.450398,
+    41.571543,
+    -71.450398,
+    41.571543
+],
+  "geometry": {"coordinates":[-71.45039800000001,41.571543],"type":"Point"}
+}

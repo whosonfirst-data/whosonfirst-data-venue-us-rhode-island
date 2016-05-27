@@ -1,0 +1,91 @@
+{
+  "id": 874279675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442445,41.78013,-71.442445,41.78013",
+    "geom:latitude":41.78013,
+    "geom:longitude":-71.442445,
+    "iso:country":"US",
+    "sg:address":"706 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 1166",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4diwH9zmajoMUJMlzTruTo_41.780130_-71.442445@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314597,
+    "wof:geomhash":"833d61a4f1b22dc052182d0c01a768d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874279675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874279675
+        }
+    ],
+    "wof:id":874279675,
+    "wof:lastmodified":1464314597,
+    "wof:name":"Jim's Hair Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.442445,
+    41.78013,
+    -71.442445,
+    41.78013
+],
+  "geometry": {"coordinates":[-71.44244500000001,41.78013],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874122861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406519,41.702806,-71.406519,41.702806",
+    "geom:latitude":41.702806,
+    "geom:longitude":-71.406519,
+    "iso:country":"US",
+    "sg:address":"2337 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 921 1971",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540485,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N0B8ws4WwCep0amoDGGBA_41.702806_-71.406519@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"9f6b99c56d285675e37de56f6e2bb2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540485,
+            "region_id":85688509,
+            "venue_id":874122861
+        }
+    ],
+    "wof:id":874122861,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Quality Plumbing",
+    "wof:parent_id":420540485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.406519,
+    41.702806,
+    -71.406519,
+    41.702806
+],
+  "geometry": {"coordinates":[-71.406519,41.702806],"type":"Point"}
+}

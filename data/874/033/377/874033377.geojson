@@ -1,0 +1,79 @@
+{
+  "id": 874033377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.351324,41.862852,-71.351324,41.862852",
+    "geom:latitude":41.862852,
+    "geom:longitude":-71.351324,
+    "iso:country":"US",
+    "sg:address":"70 Gill Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 7900",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q07K8ukQ1EfJz9uadg3eG_41.862852_-71.351324@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311079,
+    "wof:geomhash":"b32fb4a1e5154f074648c0ee6db8fa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874033377
+        }
+    ],
+    "wof:id":874033377,
+    "wof:lastmodified":1464311079,
+    "wof:name":"Slater Health Center Inc",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.351324,
+    41.862852,
+    -71.351324,
+    41.862852
+],
+  "geometry": {"coordinates":[-71.35132400000001,41.862852],"type":"Point"}
+}

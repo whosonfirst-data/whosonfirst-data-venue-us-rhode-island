@@ -1,0 +1,71 @@
+{
+  "id": 874234581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538406,41.906101,-71.538406,41.906101",
+    "geom:latitude":41.906101,
+    "geom:longitude":-71.538406,
+    "iso:country":"US",
+    "sg:address":"301 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 8091",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_720W72f4ry7vFgOvZzyk0P_41.906101_-71.538406@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313232,
+    "wof:geomhash":"676eda1de7b9a96bb391d5c5f312fa99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874234581
+        }
+    ],
+    "wof:id":874234581,
+    "wof:lastmodified":1464313232,
+    "wof:name":"Prospect Design & Production",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.538406,
+    41.906101,
+    -71.538406,
+    41.906101
+],
+  "geometry": {"coordinates":[-71.53840599999999,41.906101],"type":"Point"}
+}

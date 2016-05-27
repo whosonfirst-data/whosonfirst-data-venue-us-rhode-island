@@ -1,0 +1,75 @@
+{
+  "id": 874181157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407008,41.788484,-71.407008,41.788484",
+    "geom:latitude":41.788484,
+    "geom:longitude":-71.407008,
+    "iso:country":"US",
+    "sg:address":"39 Carr St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 437 6244",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34RTgEQYaXoCZWOK0Xn0aT_41.788484_-71.407008@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312642,
+    "wof:geomhash":"e3621542813bb92456d392f538b36688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874181157
+        }
+    ],
+    "wof:id":874181157,
+    "wof:lastmodified":1464312642,
+    "wof:name":"New England Community Action",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -71.407008,
+    41.788484,
+    -71.407008,
+    41.788484
+],
+  "geometry": {"coordinates":[-71.407008,41.788484],"type":"Point"}
+}

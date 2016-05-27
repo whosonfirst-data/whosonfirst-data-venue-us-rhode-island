@@ -1,0 +1,73 @@
+{
+  "id": 874283405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.716122,41.507753,-71.716122,41.507753",
+    "geom:latitude":41.507753,
+    "geom:longitude":-71.716122,
+    "iso:country":"US",
+    "sg:address":"995 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2451",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26QLhJKNODGfCZkGxuM6sf_41.507317_-71.716529@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314753,
+    "wof:geomhash":"5a2a9119f01d1fb64804bbf15f5c93c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874283405
+        }
+    ],
+    "wof:id":874283405,
+    "wof:lastmodified":1464314753,
+    "wof:name":"West's Bakery Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.716122,
+    41.507753,
+    -71.716122,
+    41.507753
+],
+  "geometry": {"coordinates":[-71.716122,41.507753],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874283815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415298,41.877602,-71.415298,41.877602",
+    "geom:latitude":41.877602,
+    "geom:longitude":-71.415298,
+    "iso:country":"US",
+    "sg:address":"555 Smithfield Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 9505",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "middle",
+        "eating",
+        "eastern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TVSmKm3QxPBDk3gIINrZy_41.877755_-71.415108@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314767,
+    "wof:geomhash":"9906af61ededdef31df4ea369dacd4c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874283815
+        }
+    ],
+    "wof:id":874283815,
+    "wof:lastmodified":1464314767,
+    "wof:name":"Shish Kabob",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "middle",
+        "eating",
+        "eastern"
+    ]
+},
+  "bbox": [
+    -71.415298,
+    41.877602,
+    -71.415298,
+    41.877602
+],
+  "geometry": {"coordinates":[-71.41529800000001,41.877602],"type":"Point"}
+}

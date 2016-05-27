@@ -1,0 +1,75 @@
+{
+  "id": 874219821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.37833,41.695455,-71.37833,41.695455",
+    "geom:latitude":41.695455,
+    "geom:longitude":-71.37833,
+    "iso:country":"US",
+    "sg:address":"45 State St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 781 769 8900",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540473,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6otvZffJNF2shwfDe3VMJn_41.695455_-71.378330@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313057,
+    "wof:geomhash":"c19a91d56d01c2e9aa1d9b7a505a247c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540473,
+            "region_id":85688509,
+            "venue_id":874219821
+        }
+    ],
+    "wof:id":874219821,
+    "wof:lastmodified":1464313057,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":420540473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -71.37833,
+    41.695455,
+    -71.37833,
+    41.695455
+],
+  "geometry": {"coordinates":[-71.37833000000001,41.695455],"type":"Point"}
+}

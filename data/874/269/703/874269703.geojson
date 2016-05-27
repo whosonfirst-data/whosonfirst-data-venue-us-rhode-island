@@ -1,0 +1,73 @@
+{
+  "id": 874269703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277679,41.692868,-71.277679,41.692868",
+    "geom:latitude":41.692868,
+    "geom:longitude":-71.277679,
+    "iso:country":"US",
+    "sg:address":"15 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 1118",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UwGKrBgJV5GdgREvaFaME_41.692868_-71.277679@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314216,
+    "wof:geomhash":"9f0fb4dc8d6dec783db63fe2c130f2d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874269703
+        }
+    ],
+    "wof:id":874269703,
+    "wof:lastmodified":1464314216,
+    "wof:name":"Designer Dog",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.277679,
+    41.692868,
+    -71.277679,
+    41.692868
+],
+  "geometry": {"coordinates":[-71.27767900000001,41.692868],"type":"Point"}
+}

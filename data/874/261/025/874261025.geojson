@@ -1,0 +1,86 @@
+{
+  "id": 874261025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29896,41.521387,-71.29896,41.521387",
+    "geom:latitude":41.521387,
+    "geom:longitude":-71.29896,
+    "iso:country":"US",
+    "sg:address":"683 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0271",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "motion",
+        "picture",
+        "finishing",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ODLG1LHPjxGm5tFZsclN9_41.521387_-71.298960@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313892,
+    "wof:geomhash":"bb05e7a474fad6e6c208e8fe64b08dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874261025
+        }
+    ],
+    "wof:id":874261025,
+    "wof:lastmodified":1464313892,
+    "wof:name":"Pro Photo and Video",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture",
+        "finishing",
+        "photo"
+    ]
+},
+  "bbox": [
+    -71.29896,
+    41.521387,
+    -71.29896,
+    41.521387
+],
+  "geometry": {"coordinates":[-71.29895999999999,41.521387],"type":"Point"}
+}

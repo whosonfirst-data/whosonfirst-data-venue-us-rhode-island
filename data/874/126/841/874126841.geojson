@@ -1,0 +1,73 @@
+{
+  "id": 874126841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.67546,41.963852,-71.67546,41.963852",
+    "geom:latitude":41.963852,
+    "geom:longitude":-71.67546,
+    "iso:country":"US",
+    "sg:address":"200 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 8549",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "ceramic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H3mczVK38Kls26f8zSkRs_41.963852_-71.675460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312101,
+    "wof:geomhash":"31a4e82a2cc297d3b37d3b5121759f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874126841
+        }
+    ],
+    "wof:id":874126841,
+    "wof:lastmodified":1464312101,
+    "wof:name":"Creative Ceramic",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "ceramic"
+    ]
+},
+  "bbox": [
+    -71.67546,
+    41.963852,
+    -71.67546,
+    41.963852
+],
+  "geometry": {"coordinates":[-71.67546,41.963852],"type":"Point"}
+}

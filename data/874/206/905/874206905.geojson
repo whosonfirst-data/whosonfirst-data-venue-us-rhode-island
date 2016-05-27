@@ -1,0 +1,71 @@
+{
+  "id": 874206905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452911,41.863197,-71.452911,41.863197",
+    "geom:latitude":41.863197,
+    "geom:longitude":-71.452911,
+    "iso:country":"US",
+    "sg:address":"1 Wythe Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 4862",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZCZRB15TFA6IgZMTBZTBZ_41.863197_-71.452911@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312919,
+    "wof:geomhash":"71327811f424c76fb15d0717a7a75ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874206905
+        }
+    ],
+    "wof:id":874206905,
+    "wof:lastmodified":1464312919,
+    "wof:name":"Veterans Memorial Auditorium",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -71.452911,
+    41.863197,
+    -71.452911,
+    41.863197
+],
+  "geometry": {"coordinates":[-71.452911,41.863197],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874153481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525001,42.023822,-71.525001,42.023822",
+    "geom:latitude":42.023822,
+    "geom:longitude":-71.525001,
+    "iso:country":"US",
+    "sg:address":"96 Federal St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 2840",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "newspaper",
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57WvcGYSKG0tmzww7GZT2H_42.023822_-71.525001@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"635e9c8e3a64e606b01aa4045ff74281",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874153481
+        }
+    ],
+    "wof:id":874153481,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Blackstone Enlightener",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -71.525001,
+    42.023822,
+    -71.525001,
+    42.023822
+],
+  "geometry": {"coordinates":[-71.525001,42.023822],"type":"Point"}
+}

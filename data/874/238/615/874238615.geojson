@@ -1,0 +1,75 @@
+{
+  "id": 874238615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.721162,41.503592,-71.721162,41.503592",
+    "geom:latitude":41.503592,
+    "geom:longitude":-71.721162,
+    "iso:country":"US",
+    "sg:address":"947 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0750",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62aEFN4TWcyANPo0wWJT00_41.503592_-71.721162@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313314,
+    "wof:geomhash":"d3110010037c84960477fe41e47e4af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874238615
+        }
+    ],
+    "wof:id":874238615,
+    "wof:lastmodified":1464313314,
+    "wof:name":"Ocean State Flooring Corp",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.721162,
+    41.503592,
+    -71.721162,
+    41.503592
+],
+  "geometry": {"coordinates":[-71.72116200000001,41.503592],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874260121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486226,41.862274,-71.486226,41.862274",
+    "geom:latitude":41.862274,
+    "geom:longitude":-71.486226,
+    "iso:country":"US",
+    "sg:address":"125 Jacksonia Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 3752",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dflpeo0CYPD0GW9qYGyhD_41.862274_-71.486226@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313862,
+    "wof:geomhash":"b32a969ca8386a7a27dfe76edadc184b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874260121
+        }
+    ],
+    "wof:id":874260121,
+    "wof:lastmodified":1464313862,
+    "wof:name":"Clean As A Whistle Cleaning",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.486226,
+    41.862274,
+    -71.486226,
+    41.862274
+],
+  "geometry": {"coordinates":[-71.486226,41.862274],"type":"Point"}
+}

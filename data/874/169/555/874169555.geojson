@@ -1,0 +1,79 @@
+{
+  "id": 874169555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.362543,41.767557,-71.362543,41.767557",
+    "geom:latitude":41.767557,
+    "geom:longitude":-71.362543,
+    "iso:country":"US",
+    "sg:address":"3 Ave A",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5099",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "ticket",
+        "issuing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tFUoCY52dna2ObVveCW4F_41.767557_-71.362543@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312522,
+    "wof:geomhash":"6f7ebb5926d517e7602478a6cac6c278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874169555
+        }
+    ],
+    "wof:id":874169555,
+    "wof:lastmodified":1464312522,
+    "wof:name":"Tow Guys Tickets",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "ticket",
+        "issuing"
+    ]
+},
+  "bbox": [
+    -71.362543,
+    41.767557,
+    -71.362543,
+    41.767557
+],
+  "geometry": {"coordinates":[-71.362543,41.767557],"type":"Point"}
+}

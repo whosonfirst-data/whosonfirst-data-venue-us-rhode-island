@@ -1,0 +1,80 @@
+{
+  "id": 874144331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418369,41.820503,-71.418369,41.820503",
+    "geom:latitude":41.820503,
+    "geom:longitude":-71.418369,
+    "iso:country":"US",
+    "sg:address":"280 Washington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 8789",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G71RYJR5SXTaUTegFzZNu_41.820503_-71.418369@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312274,
+    "wof:geomhash":"d4f1baf349b7c5272ff6e2fbcb663b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874144331
+        }
+    ],
+    "wof:id":874144331,
+    "wof:lastmodified":1464312274,
+    "wof:name":"Cookie Place Cafe Inc",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.418369,
+    41.820503,
+    -71.418369,
+    41.820503
+],
+  "geometry": {"coordinates":[-71.418369,41.820503],"type":"Point"}
+}

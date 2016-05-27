@@ -1,0 +1,97 @@
+{
+  "id": 874294283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4058,41.822102,-71.4058,41.822102",
+    "geom:latitude":41.822102,
+    "geom:longitude":-71.4058,
+    "iso:country":"US",
+    "sg:address":"222 S Water St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 0044",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "therapist",
+        "therapy",
+        "medicine",
+        "sport",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7StCuj5j3Dsx1ZIOidRekL_41.822102_-71.405800@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315166,
+    "wof:geomhash":"d1a3d3afb8f10f9e25a5b8fb8c63b742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874294283
+        }
+    ],
+    "wof:id":874294283,
+    "wof:lastmodified":1464315166,
+    "wof:name":"Ciarniello Physical Therapy",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "therapist",
+        "therapy",
+        "medicine",
+        "sport",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.4058,
+    41.822102,
+    -71.4058,
+    41.822102
+],
+  "geometry": {"coordinates":[-71.4058,41.822102],"type":"Point"}
+}

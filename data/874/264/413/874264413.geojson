@@ -1,0 +1,71 @@
+{
+  "id": 874264413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549805,41.52883,-71.549805,41.52883",
+    "geom:latitude":41.52883,
+    "geom:longitude":-71.549805,
+    "iso:country":"US",
+    "sg:address":"525 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6080",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bhuNSOVqjTpweDNG8e8qV_41.528830_-71.549805@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314004,
+    "wof:geomhash":"962eb453cab3774dd4eb5c3ab39378d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874264413
+        }
+    ],
+    "wof:id":874264413,
+    "wof:lastmodified":1464314004,
+    "wof:name":"Bay Self Storage",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special"
+    ]
+},
+  "bbox": [
+    -71.549805,
+    41.52883,
+    -71.549805,
+    41.52883
+],
+  "geometry": {"coordinates":[-71.54980500000001,41.52883],"type":"Point"}
+}

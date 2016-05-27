@@ -1,0 +1,71 @@
+{
+  "id": 874259627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495214,41.87344,-71.495214,41.87344",
+    "geom:latitude":41.87344,
+    "geom:longitude":-71.495214,
+    "iso:country":"US",
+    "sg:address":"293 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0811",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SOqtef9uLrmbcLxEDXinJ_41.873440_-71.495214@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313846,
+    "wof:geomhash":"87dfc6eb7f72e60e1178e2e876052419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874259627
+        }
+    ],
+    "wof:id":874259627,
+    "wof:lastmodified":1464313846,
+    "wof:name":"Apple Valley Auto & Truck Rpr",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.495214,
+    41.87344,
+    -71.495214,
+    41.87344
+],
+  "geometry": {"coordinates":[-71.495214,41.87344],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874247335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.188286,41.669221,-71.188286,41.669221",
+    "geom:latitude":41.669221,
+    "geom:longitude":-71.188286,
+    "iso:country":"US",
+    "sg:address":"213 Hooper St",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5339",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eh9Vi4S0gp9E0igwWh6Al_41.669221_-71.188286@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313478,
+    "wof:geomhash":"fe497730ada1fe07389ad1d9a7eb0c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874247335
+        }
+    ],
+    "wof:id":874247335,
+    "wof:lastmodified":1464313478,
+    "wof:name":"Leo's Auto Repair",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.188286,
+    41.669221,
+    -71.188286,
+    41.669221
+],
+  "geometry": {"coordinates":[-71.18828600000001,41.669221],"type":"Point"}
+}

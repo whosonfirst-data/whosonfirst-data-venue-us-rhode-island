@@ -1,0 +1,88 @@
+{
+  "id": 874299961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385101,41.788731,-71.385101,41.788731",
+    "geom:latitude":41.788731,
+    "geom:longitude":-71.385101,
+    "iso:country":"US",
+    "sg:address":"1 Fields Point Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 780 0512",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "industrial",
+        "yard",
+        "store",
+        "contractors'"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0791iYPm4wBsb0RHUU6GUs_41.788731_-71.385101@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315388,
+    "wof:geomhash":"f64b98acc38dcdfc782b43d8fbb99843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874299961
+        }
+    ],
+    "wof:id":874299961,
+    "wof:lastmodified":1464315388,
+    "wof:name":"Rsc Equipment Rental",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "industrial",
+        "yard",
+        "store",
+        "contractors'"
+    ]
+},
+  "bbox": [
+    -71.385101,
+    41.788731,
+    -71.385101,
+    41.788731
+],
+  "geometry": {"coordinates":[-71.38510100000001,41.788731],"type":"Point"}
+}

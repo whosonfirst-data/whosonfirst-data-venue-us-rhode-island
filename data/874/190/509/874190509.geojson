@@ -1,0 +1,77 @@
+{
+  "id": 874190509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417328,41.880646,-71.417328,41.880646",
+    "geom:latitude":41.880646,
+    "geom:longitude":-71.417328,
+    "iso:country":"US",
+    "sg:address":"1 Hopkins St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 793 8484",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wlnGCpd8tMaDIbtSRFU8V_41.880646_-71.417328@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312745,
+    "wof:geomhash":"c24ec40cdd4a85c5669d3098c4eefa6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874190509
+        }
+    ],
+    "wof:id":874190509,
+    "wof:lastmodified":1464312745,
+    "wof:name":"Susan Pakula MD",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.417328,
+    41.880646,
+    -71.417328,
+    41.880646
+],
+  "geometry": {"coordinates":[-71.417328,41.880646],"type":"Point"}
+}

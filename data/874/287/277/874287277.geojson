@@ -1,0 +1,72 @@
+{
+  "id": 874287277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505304,41.712364,-71.505304,41.712364",
+    "geom:latitude":41.712364,
+    "geom:longitude":-71.505304,
+    "iso:country":"US",
+    "sg:address":"291 Providence St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/58362-christos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 5050",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85844759,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2psClhXEXqZovf6AYVVzPU_41.712364_-71.505304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314899,
+    "wof:geomhash":"fcdbab76ac68e8c801e0c10b32f66330",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874287277
+        }
+    ],
+    "wof:id":874287277,
+    "wof:lastmodified":1464314899,
+    "wof:name":"Christo's Pizza",
+    "wof:parent_id":85844759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.505304,
+    41.712364,
+    -71.505304,
+    41.712364
+],
+  "geometry": {"coordinates":[-71.505304,41.712364],"type":"Point"}
+}

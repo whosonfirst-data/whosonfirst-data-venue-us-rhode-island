@@ -1,0 +1,73 @@
+{
+  "id": 874159707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547767,41.578061,-71.547767,41.578061",
+    "geom:latitude":41.578061,
+    "geom:longitude":-71.547767,
+    "iso:country":"US",
+    "sg:address":"305 Ten Rod Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 3173",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department",
+        "dept",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VfZTxSBp6dev0n0Tikp7E_41.578061_-71.547767@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312429,
+    "wof:geomhash":"592e47535732db180caa875dadd251b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874159707
+        }
+    ],
+    "wof:id":874159707,
+    "wof:lastmodified":1464312429,
+    "wof:name":"Exeter Volunteer Fire Dept 1",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "dept",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -71.547767,
+    41.578061,
+    -71.547767,
+    41.578061
+],
+  "geometry": {"coordinates":[-71.54776699999999,41.578061],"type":"Point"}
+}

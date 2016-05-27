@@ -1,0 +1,69 @@
+{
+  "id": 874238235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478287,41.401224,-71.478287,41.401224",
+    "geom:latitude":41.401224,
+    "geom:longitude":-71.478287,
+    "iso:country":"US",
+    "sg:address":"39 Alexander Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2200",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yacht"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HDt4fy5eo0cUhOJf0yoeh_41.401224_-71.478287@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313306,
+    "wof:geomhash":"2b915177b541cdde267beeaadf5cce6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874238235
+        }
+    ],
+    "wof:id":874238235,
+    "wof:lastmodified":1464313306,
+    "wof:name":"Eastern Yacht Sales",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yacht"
+    ]
+},
+  "bbox": [
+    -71.478287,
+    41.401224,
+    -71.478287,
+    41.401224
+],
+  "geometry": {"coordinates":[-71.47828699999999,41.401224],"type":"Point"}
+}

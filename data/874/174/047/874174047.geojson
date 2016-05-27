@@ -1,0 +1,77 @@
+{
+  "id": 874174047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.347884,41.812069,-71.347884,41.812069",
+    "geom:latitude":41.812069,
+    "geom:longitude":-71.347884,
+    "iso:country":"US",
+    "sg:address":"22 Almeida St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 431 6665",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08gt43VQbNBtYhiv53Nacx_41.812069_-71.347884@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312569,
+    "wof:geomhash":"fa0a0cf317768a97c35c49f5bb67e9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874174047
+        }
+    ],
+    "wof:id":874174047,
+    "wof:lastmodified":1464312569,
+    "wof:name":"Woods Heating Svc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.347884,
+    41.812069,
+    -71.347884,
+    41.812069
+],
+  "geometry": {"coordinates":[-71.34788399999999,41.812069],"type":"Point"}
+}

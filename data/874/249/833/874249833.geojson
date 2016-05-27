@@ -1,0 +1,86 @@
+{
+  "id": 874249833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449068,41.787275,-71.449068,41.787275",
+    "geom:latitude":41.787275,
+    "geom:longitude":-71.449068,
+    "iso:country":"US",
+    "sg:address":"174 Westcott Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 9238",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bKyUGZPmURYOWb4rnnz0y_41.787275_-71.449068@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313562,
+    "wof:geomhash":"973d352f6cb725d8d1f13359b996760e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874249833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874249833
+        }
+    ],
+    "wof:id":874249833,
+    "wof:lastmodified":1464313562,
+    "wof:name":"Ricks Truck/Auto RPR",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.449068,
+    41.787275,
+    -71.449068,
+    41.787275
+],
+  "geometry": {"coordinates":[-71.449068,41.787275],"type":"Point"}
+}

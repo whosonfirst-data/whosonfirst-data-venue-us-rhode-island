@@ -1,0 +1,71 @@
+{
+  "id": 874207475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427878,41.875436,-71.427878,41.875436",
+    "geom:latitude":41.875436,
+    "geom:longitude":-71.427878,
+    "iso:country":"US",
+    "sg:address":"84 Meadow Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 6624",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3scyQ5s7WsskEXX4qXPyDB_41.875436_-71.427878@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312924,
+    "wof:geomhash":"ca5602e54dd01d577d78a3dc1dc1e61e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874207475
+        }
+    ],
+    "wof:id":874207475,
+    "wof:lastmodified":1464312924,
+    "wof:name":"East Side Electric Co",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.427878,
+    41.875436,
+    -71.427878,
+    41.875436
+],
+  "geometry": {"coordinates":[-71.42787800000001,41.875436],"type":"Point"}
+}

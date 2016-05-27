@@ -1,0 +1,79 @@
+{
+  "id": 873981111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437041,41.815857,-71.437041,41.815857",
+    "geom:latitude":41.815857,
+    "geom:longitude":-71.437041,
+    "iso:country":"US",
+    "sg:address":"1596 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 0040",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zd56AENiN8g3HfutPf7Ps_41.815857_-71.437041@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310603,
+    "wof:geomhash":"c396d9b0cf87806372d7a7ed0405f056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":873981111
+        }
+    ],
+    "wof:id":873981111,
+    "wof:lastmodified":1464310603,
+    "wof:name":"Bubbles & Bark",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.437041,
+    41.815857,
+    -71.437041,
+    41.815857
+],
+  "geometry": {"coordinates":[-71.43704099999999,41.815857],"type":"Point"}
+}

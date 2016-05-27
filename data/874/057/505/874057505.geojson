@@ -1,0 +1,71 @@
+{
+  "id": 874057505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530086,41.879193,-71.530086,41.879193",
+    "geom:latitude":41.879193,
+    "geom:longitude":-71.530086,
+    "iso:country":"US",
+    "sg:address":"17 Stony Ln",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 7988",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "transportation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VWDL2YaacoI8YdUHtCSTT_41.879193_-71.530086@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311313,
+    "wof:geomhash":"5b05f0ba4c0689a4521dd52cdea7bc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874057505
+        }
+    ],
+    "wof:id":874057505,
+    "wof:lastmodified":1464311313,
+    "wof:name":"Atlantic Container Line",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.530086,
+    41.879193,
+    -71.530086,
+    41.879193
+],
+  "geometry": {"coordinates":[-71.530086,41.879193],"type":"Point"}
+}

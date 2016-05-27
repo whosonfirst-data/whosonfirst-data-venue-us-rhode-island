@@ -1,0 +1,75 @@
+{
+  "id": 874223257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314842,41.485786,-71.314842,41.485786",
+    "geom:latitude":41.485786,
+    "geom:longitude":-71.314842,
+    "iso:country":"US",
+    "sg:address":"270 Thames St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 9460",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qfAiHGhOWUaZFFbdHYE5N_41.485786_-71.314842@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313096,
+    "wof:geomhash":"132e3b134553af416579d73094a8462d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874223257
+        }
+    ],
+    "wof:id":874223257,
+    "wof:lastmodified":1464313096,
+    "wof:name":"One Pelham East",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.314842,
+    41.485786,
+    -71.314842,
+    41.485786
+],
+  "geometry": {"coordinates":[-71.314842,41.485786],"type":"Point"}
+}

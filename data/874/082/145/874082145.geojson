@@ -1,0 +1,77 @@
+{
+  "id": 874082145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425897,41.825729,-71.425897,41.825729",
+    "geom:latitude":41.825729,
+    "geom:longitude":-71.425897,
+    "iso:country":"US",
+    "sg:address":"3 Dean St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 4301",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communications",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HXAclhTGmgBi0qxoqtKX4_41.825729_-71.425897@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311578,
+    "wof:geomhash":"e5e982d1ae173c4ec9b4521d30dca5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874082145
+        }
+    ],
+    "wof:id":874082145,
+    "wof:lastmodified":1464311578,
+    "wof:name":"MCI",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.425897,
+    41.825729,
+    -71.425897,
+    41.825729
+],
+  "geometry": {"coordinates":[-71.42589700000001,41.825729],"type":"Point"}
+}

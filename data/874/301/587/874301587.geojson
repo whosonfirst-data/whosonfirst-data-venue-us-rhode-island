@@ -1,0 +1,96 @@
+{
+  "id": 874301587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418664,41.814357,-71.418664,41.814357",
+    "geom:latitude":41.814357,
+    "geom:longitude":-71.418664,
+    "iso:country":"US",
+    "sg:address":"304 Lockwood St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 285 2460",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burner",
+        "heating",
+        "system",
+        "equipment",
+        "oils-fuel",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.petro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66yg0VYroPpkmpqPUhT8MV_41.814357_-71.418664@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315450,
+    "wof:geomhash":"8288a83e69ffa2d7d360ee1936936aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874301587
+        }
+    ],
+    "wof:id":874301587,
+    "wof:lastmodified":1464315450,
+    "wof:name":"Petro",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burner",
+        "heating",
+        "system",
+        "equipment",
+        "oils-fuel",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.418664,
+    41.814357,
+    -71.418664,
+    41.814357
+],
+  "geometry": {"coordinates":[-71.41866400000001,41.814357],"type":"Point"}
+}

@@ -1,0 +1,110 @@
+{
+  "id": 874300439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.38679,41.846431,-71.38679,41.846431",
+    "geom:latitude":41.846431,
+    "geom:longitude":-71.38679,
+    "iso:country":"US",
+    "sg:address":"353 Blackstone Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 6565",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "living",
+        "nurses-home",
+        "homes-skilled",
+        "physician",
+        "assisted",
+        "convalescent",
+        "surgeon",
+        "homes-intermediate"
+    ],
+    "sg:website":"http://www.epochsl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H5MbsYcqGTG30toWPjk01_41.846431_-71.386790@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315404,
+    "wof:geomhash":"17695f2e59308d900ca33af1811f59fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874300439
+        }
+    ],
+    "wof:id":874300439,
+    "wof:lastmodified":1464315404,
+    "wof:name":"Epoch Senior Living, Inc",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "nurses-home",
+        "homes-skilled",
+        "physician",
+        "assisted",
+        "convalescent",
+        "surgeon",
+        "homes-intermediate"
+    ]
+},
+  "bbox": [
+    -71.38679,
+    41.846431,
+    -71.38679,
+    41.846431
+],
+  "geometry": {"coordinates":[-71.38679,41.846431],"type":"Point"}
+}

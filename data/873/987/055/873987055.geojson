@@ -1,0 +1,75 @@
+{
+  "id": 873987055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27206,41.7318,-71.27206,41.7318",
+    "geom:latitude":41.7318,
+    "geom:longitude":-71.27206,
+    "iso:country":"US",
+    "sg:address":"44 Everett St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6547",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74L628tFMhP9PWoshBdxH3_41.731800_-71.272060@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"f7b12da533407e5ba4aeef359a1d8445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":873987055
+        }
+    ],
+    "wof:id":873987055,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Massed Electric Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.27206,
+    41.7318,
+    -71.27206,
+    41.7318
+],
+  "geometry": {"coordinates":[-71.27206,41.7318],"type":"Point"}
+}

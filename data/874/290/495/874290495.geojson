@@ -1,0 +1,71 @@
+{
+  "id": 874290495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413841,41.879761,-71.413841,41.879761",
+    "geom:latitude":41.879761,
+    "geom:longitude":-71.413841,
+    "iso:country":"US",
+    "sg:address":"141 Reservoir Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8840",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RzALUZm3pRlYRrACupVWV_41.879761_-71.413841@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315028,
+    "wof:geomhash":"f7bce47a16b5fb86f3e53644ff94f9ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874290495
+        }
+    ],
+    "wof:id":874290495,
+    "wof:lastmodified":1464315028,
+    "wof:name":"Crystal Paradise",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -71.413841,
+    41.879761,
+    -71.413841,
+    41.879761
+],
+  "geometry": {"coordinates":[-71.41384100000001,41.879761],"type":"Point"}
+}

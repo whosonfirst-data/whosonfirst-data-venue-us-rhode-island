@@ -1,0 +1,75 @@
+{
+  "id": 874148059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450085,41.66177,-71.450085,41.66177",
+    "geom:latitude":41.66177,
+    "geom:longitude":-71.450085,
+    "iso:country":"US",
+    "sg:address":"125 Main St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 356 0694",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bw70JFrb8y3O0g7Kq4A6T_41.661770_-71.450085@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312311,
+    "wof:geomhash":"e3c234abed8c9d4fc34c3809c9176437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874148059
+        }
+    ],
+    "wof:id":874148059,
+    "wof:lastmodified":1464312311,
+    "wof:name":"Sams Tart Shop",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.450085,
+    41.66177,
+    -71.450085,
+    41.66177
+],
+  "geometry": {"coordinates":[-71.450085,41.66177],"type":"Point"}
+}

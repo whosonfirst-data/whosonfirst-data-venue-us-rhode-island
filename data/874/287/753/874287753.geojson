@@ -1,0 +1,81 @@
+{
+  "id": 874287753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309759,41.493548,-71.309759,41.493548",
+    "geom:latitude":41.493548,
+    "geom:longitude":-71.309759,
+    "iso:country":"US",
+    "sg:address":"140 Broadway",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/newport/249268-salvation-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 2620",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y4mcK2sbIMHrD6Aa1Hkfi_41.493260_-71.310122@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314926,
+    "wof:geomhash":"4f17614470f2a9fb33a4be135f96b3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874287753
+        }
+    ],
+    "wof:id":874287753,
+    "wof:lastmodified":1464314926,
+    "wof:name":"Salvation Cafe",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.309759,
+    41.493548,
+    -71.309759,
+    41.493548
+],
+  "geometry": {"coordinates":[-71.309759,41.493548],"type":"Point"}
+}

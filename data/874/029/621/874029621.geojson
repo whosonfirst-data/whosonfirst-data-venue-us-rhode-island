@@ -1,0 +1,81 @@
+{
+  "id": 874029621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453157,41.790896,-71.453157,41.790896",
+    "geom:latitude":41.790896,
+    "geom:longitude":-71.453157,
+    "iso:country":"US",
+    "sg:address":"1279 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 8274",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GLVYQKtBgXLu6MZnqwpDS_41.790896_-71.453157@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311045,
+    "wof:geomhash":"1a0010e5f356ece0515b079626096cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874029621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874029621
+        }
+    ],
+    "wof:id":874029621,
+    "wof:lastmodified":1464311045,
+    "wof:name":"Josie's Convenience Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.453157,
+    41.790896,
+    -71.453157,
+    41.790896
+],
+  "geometry": {"coordinates":[-71.453157,41.790896],"type":"Point"}
+}

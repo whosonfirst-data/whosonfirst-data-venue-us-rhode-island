@@ -1,0 +1,77 @@
+{
+  "id": 874188635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40181,41.851803,-71.40181,41.851803",
+    "geom:latitude":41.851803,
+    "geom:longitude":-71.40181,
+    "iso:country":"US",
+    "sg:address":"1173 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 5732",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tool",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EPCfAyjHwjJEFgbETmtye_41.851803_-71.401810@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312727,
+    "wof:geomhash":"91fd3e9c9474637f019bb131244b08be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874188635
+        }
+    ],
+    "wof:id":874188635,
+    "wof:lastmodified":1464312727,
+    "wof:name":"Eastern Tool Repair Ctr",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.40181,
+    41.851803,
+    -71.40181,
+    41.851803
+],
+  "geometry": {"coordinates":[-71.40181,41.851803],"type":"Point"}
+}

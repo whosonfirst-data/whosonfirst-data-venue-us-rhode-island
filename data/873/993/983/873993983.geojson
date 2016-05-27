@@ -1,0 +1,90 @@
+{
+  "id": 873993983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448453,41.781682,-71.448453,41.781682",
+    "geom:latitude":41.781682,
+    "geom:longitude":-71.448453,
+    "iso:country":"US",
+    "sg:address":"26 Garland Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 9796",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oN5kCibs7CpA51FEMEuTg_41.781682_-71.448453@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310718,
+    "wof:geomhash":"d43fc5ce8e98289f8da5b13a7859fea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873993983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":873993983
+        }
+    ],
+    "wof:id":873993983,
+    "wof:lastmodified":1464310718,
+    "wof:name":"Stone Trucking Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.448453,
+    41.781682,
+    -71.448453,
+    41.781682
+],
+  "geometry": {"coordinates":[-71.448453,41.781682],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874052267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4504,41.469883,-71.4504,41.469883",
+    "geom:latitude":41.469883,
+    "geom:longitude":-71.4504,
+    "iso:country":"US",
+    "sg:address":"43 River Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7094",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mhi7o84U2VBYjP3iLnp02_41.469883_-71.450400@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"4938753c21ea9f5f7dbcc57c2fb0279c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874052267
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874052267
+        }
+    ],
+    "wof:id":874052267,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Bennetts Surfside Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -71.4504,
+    41.469883,
+    -71.4504,
+    41.469883
+],
+  "geometry": {"coordinates":[-71.4504,41.469883],"type":"Point"}
+}

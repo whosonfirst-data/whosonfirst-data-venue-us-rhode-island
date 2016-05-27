@@ -1,0 +1,81 @@
+{
+  "id": 874248589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407415,41.792288,-71.407415,41.792288",
+    "geom:latitude":41.792288,
+    "geom:longitude":-71.407415,
+    "iso:country":"US",
+    "sg:address":"1232 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 6435",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38gfyBHQKN2G8ju6aT1pJf_41.792288_-71.407415@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313514,
+    "wof:geomhash":"cf24dc934c0371498c94912052efcb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874248589
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874248589
+        }
+    ],
+    "wof:id":874248589,
+    "wof:lastmodified":1464313514,
+    "wof:name":"One Way Laundromat",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.407415,
+    41.792288,
+    -71.407415,
+    41.792288
+],
+  "geometry": {"coordinates":[-71.407415,41.792288],"type":"Point"}
+}

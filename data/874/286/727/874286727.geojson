@@ -1,0 +1,80 @@
+{
+  "id": 874286727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.315699,41.487128,-71.315699,41.487128",
+    "geom:latitude":41.487128,
+    "geom:longitude":-71.315699,
+    "iso:country":"US",
+    "sg:address":"22 Bowens Wharf",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/newport/244790-22-bowens-wine-bar/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 8884",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "steakhouse",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04HabAm5KDo1p4thkCbn6m_41.487128_-71.315699@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314881,
+    "wof:geomhash":"81a89341b1f4c6845af5fcb53f302b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874286727
+        }
+    ],
+    "wof:id":874286727,
+    "wof:lastmodified":1464314881,
+    "wof:name":"22 Bowens Wine Bar",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "steakhouse",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.315699,
+    41.487128,
+    -71.315699,
+    41.487128
+],
+  "geometry": {"coordinates":[-71.315699,41.487128],"type":"Point"}
+}

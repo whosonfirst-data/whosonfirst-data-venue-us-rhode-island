@@ -1,0 +1,69 @@
+{
+  "id": 874291195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396753,41.886708,-71.396753,41.886708",
+    "geom:latitude":41.886708,
+    "geom:longitude":-71.396753,
+    "iso:country":"US",
+    "sg:address":"693 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 9657",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55zvp5QeFZR5tohX0OqmNu_41.886708_-71.396753@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315056,
+    "wof:geomhash":"9ad4f139e92cfbb0bebc2ad19f3481b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874291195
+        }
+    ],
+    "wof:id":874291195,
+    "wof:lastmodified":1464315056,
+    "wof:name":"Central Fruit Store",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -71.396753,
+    41.886708,
+    -71.396753,
+    41.886708
+],
+  "geometry": {"coordinates":[-71.396753,41.886708],"type":"Point"}
+}

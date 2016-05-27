@@ -1,0 +1,69 @@
+{
+  "id": 874244845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452872,41.842106,-71.452872,41.842106",
+    "geom:latitude":41.842106,
+    "geom:longitude":-71.452872,
+    "iso:country":"US",
+    "sg:address":"600 Mount Pleasant Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 8207",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GL6LQal2WtlCZ66bvsoFt_41.842106_-71.452872@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313432,
+    "wof:geomhash":"5d5192749bf056ca0e8ff9040e4f00d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874244845
+        }
+    ],
+    "wof:id":874244845,
+    "wof:lastmodified":1464313432,
+    "wof:name":"Donovan Dining Center",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.452872,
+    41.842106,
+    -71.452872,
+    41.842106
+],
+  "geometry": {"coordinates":[-71.452872,41.842106],"type":"Point"}
+}

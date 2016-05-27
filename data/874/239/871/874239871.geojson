@@ -1,0 +1,88 @@
+{
+  "id": 874239871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466648,41.72797,-71.466648,41.72797",
+    "geom:latitude":41.72797,
+    "geom:longitude":-71.466648,
+    "iso:country":"US",
+    "sg:address":"256 Knight St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 9933",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "product",
+        "utility",
+        "shed",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18DeArFFYrmtcDNTXnDJYl_41.727970_-71.466648@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313337,
+    "wof:geomhash":"5e7cc0d59292e9d09910d5c9ab53bf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874239871
+        }
+    ],
+    "wof:id":874239871,
+    "wof:lastmodified":1464313337,
+    "wof:name":"Rhode Island Shed & Deck LLC",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "product",
+        "utility",
+        "shed",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.466648,
+    41.72797,
+    -71.466648,
+    41.72797
+],
+  "geometry": {"coordinates":[-71.46664800000001,41.72797],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874233659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43315,41.84384,-71.43315,41.84384",
+    "geom:latitude":41.84384,
+    "geom:longitude":-71.43315,
+    "iso:country":"US",
+    "sg:address":"200 Huxley Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 4490",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mjqByEvugeavFx1v0fyzR_41.843840_-71.433150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313213,
+    "wof:geomhash":"09faa916d62053f947a86a759cf2a199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874233659
+        }
+    ],
+    "wof:id":874233659,
+    "wof:lastmodified":1464313213,
+    "wof:name":"Unicco Integrated Facilities",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.43315,
+    41.84384,
+    -71.43315,
+    41.84384
+],
+  "geometry": {"coordinates":[-71.43315,41.84384],"type":"Point"}
+}

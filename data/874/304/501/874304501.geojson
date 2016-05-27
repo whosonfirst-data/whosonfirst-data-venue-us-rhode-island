@@ -1,0 +1,75 @@
+{
+  "id": 874304501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400266,41.82811,-71.400266,41.82811",
+    "geom:latitude":41.82811,
+    "geom:longitude":-71.400266,
+    "iso:country":"US",
+    "sg:address":"183 Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 4818",
+    "sg:postcode":"02918",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bwWU8Eg8rjI09HgssvXv3_41.828110_-71.400266@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315547,
+    "wof:geomhash":"d25cc107bdf3c400fdb9efec62b8a885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874304501
+        }
+    ],
+    "wof:id":874304501,
+    "wof:lastmodified":1464315547,
+    "wof:name":"Planned Parenthood Express",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.400266,
+    41.82811,
+    -71.400266,
+    41.82811
+],
+  "geometry": {"coordinates":[-71.400266,41.82811],"type":"Point"}
+}

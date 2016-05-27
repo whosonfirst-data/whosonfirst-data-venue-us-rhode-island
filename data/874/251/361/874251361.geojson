@@ -1,0 +1,71 @@
+{
+  "id": 874251361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460106,41.858008,-71.460106,41.858008",
+    "geom:latitude":41.858008,
+    "geom:longitude":-71.460106,
+    "iso:country":"US",
+    "sg:address":"17 Longue Vue Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7793",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q9pULm10T1NnW53IKfxLU_41.858008_-71.460106@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313592,
+    "wof:geomhash":"3826eb5d448e92063eb96d386b174e8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874251361
+        }
+    ],
+    "wof:id":874251361,
+    "wof:lastmodified":1464313592,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.460106,
+    41.858008,
+    -71.460106,
+    41.858008
+],
+  "geometry": {"coordinates":[-71.460106,41.858008],"type":"Point"}
+}

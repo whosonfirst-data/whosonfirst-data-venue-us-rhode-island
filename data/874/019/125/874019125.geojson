@@ -1,0 +1,71 @@
+{
+  "id": 874019125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535857,41.867817,-71.535857,41.867817",
+    "geom:latitude":41.867817,
+    "geom:longitude":-71.535857,
+    "iso:country":"US",
+    "sg:address":"11 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8744",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_248akIyF45o50WoTw8Oyoa_41.867817_-71.535857@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310939,
+    "wof:geomhash":"72cf8e6c8e4a43cb430ea4a912c6cedb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874019125
+        }
+    ],
+    "wof:id":874019125,
+    "wof:lastmodified":1464310939,
+    "wof:name":"Safety Education Training Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -71.535857,
+    41.867817,
+    -71.535857,
+    41.867817
+],
+  "geometry": {"coordinates":[-71.53585699999999,41.867817],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874301815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436401,41.833199,-71.436401,41.833199",
+    "geom:latitude":41.833199,
+    "geom:longitude":-71.436401,
+    "iso:country":"US",
+    "sg:address":"877 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 2145",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41cjC1HvGkMbNeQf6o4zV0_41.833199_-71.436401@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315457,
+    "wof:geomhash":"6ecdc9df50a4b9809cae95f13def5aa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874301815
+        }
+    ],
+    "wof:id":874301815,
+    "wof:lastmodified":1464315457,
+    "wof:name":"Gupta Rakesh",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.436401,
+    41.833199,
+    -71.436401,
+    41.833199
+],
+  "geometry": {"coordinates":[-71.436401,41.833199],"type":"Point"}
+}

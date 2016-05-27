@@ -1,0 +1,79 @@
+{
+  "id": 874111445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454779,41.824151,-71.454779,41.824151",
+    "geom:latitude":41.824151,
+    "geom:longitude":-71.454779,
+    "iso:country":"US",
+    "sg:address":"31 Salmon St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 3396",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "start",
+        "head",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540533,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B1ck0D8HpY0t1MVB7wmhD_41.824151_-71.454779@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311948,
+    "wof:geomhash":"43cb3869c6afe4cacd94b0de55f479c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540533,
+            "region_id":85688509,
+            "venue_id":874111445
+        }
+    ],
+    "wof:id":874111445,
+    "wof:lastmodified":1464311948,
+    "wof:name":"Providence Head Start",
+    "wof:parent_id":420540533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "start",
+        "head",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.454779,
+    41.824151,
+    -71.454779,
+    41.824151
+],
+  "geometry": {"coordinates":[-71.454779,41.824151],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874112273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448251,41.862314,-71.448251,41.862314",
+    "geom:latitude":41.862314,
+    "geom:longitude":-71.448251,
+    "iso:country":"US",
+    "sg:address":"8 Fredrick St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3650",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yZlL6EvkEg2wJR9RkXQio_41.862314_-71.448251@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311960,
+    "wof:geomhash":"b024b2ddc92b80bf487793e71fe786a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874112273
+        }
+    ],
+    "wof:id":874112273,
+    "wof:lastmodified":1464311960,
+    "wof:name":"Choice Wireless Inc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -71.448251,
+    41.862314,
+    -71.448251,
+    41.862314
+],
+  "geometry": {"coordinates":[-71.448251,41.862314],"type":"Point"}
+}

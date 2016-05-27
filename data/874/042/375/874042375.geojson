@@ -1,0 +1,92 @@
+{
+  "id": 874042375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398092,41.791985,-71.398092,41.791985",
+    "geom:latitude":41.791985,
+    "geom:longitude":-71.398092,
+    "iso:country":"US",
+    "sg:address":"174 Georgia Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 6033",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paint",
+        "face",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m2Pw4hV02gsOkYkWZSza3_41.791985_-71.398092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311169,
+    "wof:geomhash":"647cd8c4c1fbe59a7d702c92d7cb65dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874042375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874042375
+        }
+    ],
+    "wof:id":874042375,
+    "wof:lastmodified":1464311169,
+    "wof:name":"Caplock LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "face",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.398092,
+    41.791985,
+    -71.398092,
+    41.791985
+],
+  "geometry": {"coordinates":[-71.39809200000001,41.791985],"type":"Point"}
+}

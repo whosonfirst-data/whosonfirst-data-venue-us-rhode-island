@@ -1,0 +1,72 @@
+{
+  "id": 874283407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.282431,41.729847,-71.282431,41.729847",
+    "geom:latitude":41.729847,
+    "geom:longitude":-71.282431,
+    "iso:country":"US",
+    "sg:address":"464 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 0230",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "sg:website":"http://www.warrenhouseofpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26Y3xXYps0NtYqHxIpf3YD_41.729709_-71.282319@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314753,
+    "wof:geomhash":"f4b4ff19332aa7987da8367bdca3a690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874283407
+        }
+    ],
+    "wof:id":874283407,
+    "wof:lastmodified":1464314753,
+    "wof:name":"Warren House Of Pizza",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.282431,
+    41.729847,
+    -71.282431,
+    41.729847
+],
+  "geometry": {"coordinates":[-71.282431,41.729847],"type":"Point"}
+}

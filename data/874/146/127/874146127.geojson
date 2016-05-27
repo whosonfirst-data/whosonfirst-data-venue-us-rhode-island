@@ -1,0 +1,69 @@
+{
+  "id": 874146127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537698,41.695478,-71.537698,41.695478",
+    "geom:latitude":41.695478,
+    "geom:longitude":-71.537698,
+    "iso:country":"US",
+    "sg:address":"487 Washington St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 4050",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tqAaAZbT8N4qtFq8OWWb7_41.695478_-71.537698@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312294,
+    "wof:geomhash":"3a55fa3814f3ada30c870f8786c400f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874146127
+        }
+    ],
+    "wof:id":874146127,
+    "wof:lastmodified":1464312294,
+    "wof:name":"Moores Motor Service Inc",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.537698,
+    41.695478,
+    -71.537698,
+    41.695478
+],
+  "geometry": {"coordinates":[-71.53769800000001,41.695478],"type":"Point"}
+}

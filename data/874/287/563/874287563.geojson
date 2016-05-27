@@ -1,0 +1,72 @@
+{
+  "id": 874287563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5345,41.926637,-71.5345,41.926637",
+    "geom:latitude":41.926637,
+    "geom:longitude":-71.5345,
+    "iso:country":"US",
+    "sg:address":"1150 Douglas Pike ",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/293622-ronzio-pizza--subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 531 6620",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01MQeATp2i17NGcSPFRQoW_41.926637_-71.534500@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314915,
+    "wof:geomhash":"fd07bd39e8150bfe94bc8db4c75847cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874287563
+        }
+    ],
+    "wof:id":874287563,
+    "wof:lastmodified":1464314915,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.5345,
+    41.926637,
+    -71.5345,
+    41.926637
+],
+  "geometry": {"coordinates":[-71.53449999999999,41.926637],"type":"Point"}
+}

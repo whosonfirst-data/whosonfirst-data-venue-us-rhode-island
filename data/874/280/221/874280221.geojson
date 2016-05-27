@@ -1,0 +1,75 @@
+{
+  "id": 874280221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284468,41.521449,-71.284468,41.521449",
+    "geom:latitude":41.521449,
+    "geom:longitude":-71.284468,
+    "iso:country":"US",
+    "sg:address":"460 E Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 3008",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2stTo7xEjD3z1tKgggGpJF_41.521449_-71.284468@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314619,
+    "wof:geomhash":"a968f89d9edef1a80a23625789dfda34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874280221
+        }
+    ],
+    "wof:id":874280221,
+    "wof:lastmodified":1464314619,
+    "wof:name":"Aquidneck Aesthetic Dentistry",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.284468,
+    41.521449,
+    -71.284468,
+    41.521449
+],
+  "geometry": {"coordinates":[-71.284468,41.521449],"type":"Point"}
+}

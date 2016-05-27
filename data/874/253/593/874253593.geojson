@@ -1,0 +1,75 @@
+{
+  "id": 874253593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270859,41.69468,-71.270859,41.69468",
+    "geom:latitude":41.69468,
+    "geom:longitude":-71.270859,
+    "iso:country":"US",
+    "sg:address":"16 Broadcommon Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3030",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "product",
+        "fish",
+        "prepared"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pCUVJFE2dIs8scbuN0N6T_41.694680_-71.270859@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313637,
+    "wof:geomhash":"3779bcf259443508b26cf1e87845d35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874253593
+        }
+    ],
+    "wof:id":874253593,
+    "wof:lastmodified":1464313637,
+    "wof:name":"Galilean Seafood Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "product",
+        "fish",
+        "prepared"
+    ]
+},
+  "bbox": [
+    -71.270859,
+    41.69468,
+    -71.270859,
+    41.69468
+],
+  "geometry": {"coordinates":[-71.270859,41.69468],"type":"Point"}
+}

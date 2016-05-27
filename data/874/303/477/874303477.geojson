@@ -1,0 +1,70 @@
+{
+  "id": 874303477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457723,41.848318,-71.457723,41.848318",
+    "geom:latitude":41.848318,
+    "geom:longitude":-71.457723,
+    "iso:country":"US",
+    "sg:address":"1352 Smith Street",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 575 8316",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "sg:website":"www.wellnessresolutions.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PNzaTcZl1UvWtQ7lPrCQJ_41.848318_-71.457723@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315511,
+    "wof:geomhash":"9c60935742fc6d3c61d4a8c79b7e89e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303477
+        }
+    ],
+    "wof:id":874303477,
+    "wof:lastmodified":1464315511,
+    "wof:name":"Wellness Resolutions",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -71.457723,
+    41.848318,
+    -71.457723,
+    41.848318
+],
+  "geometry": {"coordinates":[-71.457723,41.848318],"type":"Point"}
+}

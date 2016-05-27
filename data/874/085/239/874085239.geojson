@@ -1,0 +1,77 @@
+{
+  "id": 874085239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45079,41.81366,-71.45079,41.81366",
+    "geom:latitude":41.81366,
+    "geom:longitude":-71.45079,
+    "iso:country":"US",
+    "sg:address":"360 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 9131",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oy224tdLKj4G99ucNggqj_41.813660_-71.450790@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"669d7cbea3900c87e7a4a1a1ba1b0fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874085239
+        }
+    ],
+    "wof:id":874085239,
+    "wof:lastmodified":1464311611,
+    "wof:name":"Multiservice Gas Station",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.45079,
+    41.81366,
+    -71.45079,
+    41.81366
+],
+  "geometry": {"coordinates":[-71.45079,41.81366],"type":"Point"}
+}

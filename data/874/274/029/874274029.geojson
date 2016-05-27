@@ -1,0 +1,77 @@
+{
+  "id": 874274029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448942,41.571313,-71.448942,41.571313",
+    "geom:latitude":41.571313,
+    "geom:longitude":-71.448942,
+    "iso:country":"US",
+    "sg:address":"43 Washington St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2578",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n0IvlSExftsccpQP7w3Ss_41.571313_-71.448942@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314369,
+    "wof:geomhash":"5efae02580841946922730a524507bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874274029
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874274029
+        }
+    ],
+    "wof:id":874274029,
+    "wof:lastmodified":1464314369,
+    "wof:name":"Pilgrim Landscaping",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.448942,
+    41.571313,
+    -71.448942,
+    41.571313
+],
+  "geometry": {"coordinates":[-71.448942,41.571313],"type":"Point"}
+}

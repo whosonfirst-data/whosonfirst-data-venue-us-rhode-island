@@ -1,0 +1,71 @@
+{
+  "id": 874288799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.629985,41.385993,-71.629985,41.385993",
+    "geom:latitude":41.385993,
+    "geom:longitude":-71.629985,
+    "iso:country":"US",
+    "sg:address":"4099 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0770",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38b2BeQcjg6EhI0ht1GCUD_41.385993_-71.629985@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314969,
+    "wof:geomhash":"574a553bcf1edcc9995a795f6ba43560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288799
+        }
+    ],
+    "wof:id":874288799,
+    "wof:lastmodified":1464314969,
+    "wof:name":"South Shore Family Practice",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.629985,
+    41.385993,
+    -71.629985,
+    41.385993
+],
+  "geometry": {"coordinates":[-71.629985,41.385993],"type":"Point"}
+}

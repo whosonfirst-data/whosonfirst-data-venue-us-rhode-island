@@ -1,0 +1,66 @@
+{
+  "id": 874289065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.7043,41.514599,-71.7043,41.514599",
+    "geom:latitude":41.514599,
+    "geom:longitude":-71.7043,
+    "iso:country":"US",
+    "sg:address":"1111 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0283",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAUSLohCzeRZmQXTJqIs7_41.514599_-71.704300@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314979,
+    "wof:geomhash":"c7d69fe16c210f04e592a7b55a0da750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874289065
+        }
+    ],
+    "wof:id":874289065,
+    "wof:lastmodified":1464314979,
+    "wof:name":"South County Family Medicine",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.7043,
+    41.514599,
+    -71.7043,
+    41.514599
+],
+  "geometry": {"coordinates":[-71.7043,41.514599],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874269655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.377228,41.818999,-71.377228,41.818999",
+    "geom:latitude":41.818999,
+    "geom:longitude":-71.377228,
+    "iso:country":"US",
+    "sg:address":"75 Purchase St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 4747",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MJn6N22gTEV4q7qgxOqZp_41.818999_-71.377228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314214,
+    "wof:geomhash":"911a30bfa7178b81492200e01f2b9f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874269655
+        }
+    ],
+    "wof:id":874269655,
+    "wof:lastmodified":1464314214,
+    "wof:name":"Access Healthcare Services",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.377228,
+    41.818999,
+    -71.377228,
+    41.818999
+],
+  "geometry": {"coordinates":[-71.377228,41.818999],"type":"Point"}
+}

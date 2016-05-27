@@ -1,0 +1,75 @@
+{
+  "id": 874275335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384613,41.859004,-71.384613,41.859004",
+    "geom:latitude":41.859004,
+    "geom:longitude":-71.384613,
+    "iso:country":"US",
+    "sg:address":"87 Marbury Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 2750",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uTmgYmgC115i33CshJ6bk_41.859004_-71.384613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314416,
+    "wof:geomhash":"59a70d903f7544666497b8490f63f98b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874275335
+        }
+    ],
+    "wof:id":874275335,
+    "wof:lastmodified":1464314416,
+    "wof:name":"Metro Janitorial Svc",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.384613,
+    41.859004,
+    -71.384613,
+    41.859004
+],
+  "geometry": {"coordinates":[-71.384613,41.859004],"type":"Point"}
+}

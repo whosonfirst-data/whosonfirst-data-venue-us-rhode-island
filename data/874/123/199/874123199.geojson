@@ -1,0 +1,79 @@
+{
+  "id": 874123199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.31487,41.50591,-71.31487,41.50591",
+    "geom:latitude":41.50591,
+    "geom:longitude":-71.31487,
+    "iso:country":"US",
+    "sg:address":"62 Halsey St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 2542",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26wEua4Qgq7Uqf7zbwvRrm_41.505910_-71.314870@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"2893ada9a91850c1def31a8f79d96982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874123199
+        }
+    ],
+    "wof:id":874123199,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Chris Electric Ltd",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.31487,
+    41.50591,
+    -71.31487,
+    41.50591
+],
+  "geometry": {"coordinates":[-71.31487,41.50591],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874180769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423045,41.829262,-71.423045,41.829262",
+    "geom:latitude":41.829262,
+    "geom:longitude":-71.423045,
+    "iso:country":"US",
+    "sg:address":"291 Promenade St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 277 2306",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tank",
+        "inspection",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CuGGApKi55NhtPgAr6bYE_41.829262_-71.423045@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312637,
+    "wof:geomhash":"49b2046e75a0ee60ce2d29a1c3a1648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874180769
+        }
+    ],
+    "wof:id":874180769,
+    "wof:lastmodified":1464312637,
+    "wof:name":"Individual Sewage Disposal",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "inspection",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.423045,
+    41.829262,
+    -71.423045,
+    41.829262
+],
+  "geometry": {"coordinates":[-71.423045,41.829262],"type":"Point"}
+}

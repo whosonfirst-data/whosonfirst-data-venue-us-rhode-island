@@ -1,0 +1,77 @@
+{
+  "id": 874085255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4411,41.729137,-71.4411,41.729137",
+    "geom:latitude":41.729137,
+    "geom:longitude":-71.4411,
+    "iso:country":"US",
+    "sg:address":"46 Kilvert St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 921 4919",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PnhRNNd7wk67gyhLncjti_41.729137_-71.441100@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"8528072ef81dfc3fccfc3e1caf0154ca",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874085255
+        }
+    ],
+    "wof:id":874085255,
+    "wof:lastmodified":1464311611,
+    "wof:name":"Solace Nutrition",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -71.4411,
+    41.729137,
+    -71.4411,
+    41.729137
+],
+  "geometry": {"coordinates":[-71.44110000000001,41.729137],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874242613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461908,41.939315,-71.461908,41.939315",
+    "geom:latitude":41.939315,
+    "geom:longitude":-71.461908,
+    "iso:country":"US",
+    "sg:address":"8 Blackstone Valley Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 4100",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "engineer"
+    ],
+    "sg:website":"www.parecorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aHXfLkEEMaXSoQS2P65IR_41.939315_-71.461908@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313387,
+    "wof:geomhash":"f4dd552d8ae222024b549211857f732a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874242613
+        }
+    ],
+    "wof:id":874242613,
+    "wof:lastmodified":1464313387,
+    "wof:name":"Pare Engineering Corporation",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.461908,
+    41.939315,
+    -71.461908,
+    41.939315
+],
+  "geometry": {"coordinates":[-71.46190799999999,41.939315],"type":"Point"}
+}

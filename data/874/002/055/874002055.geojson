@@ -1,0 +1,75 @@
+{
+  "id": 874002055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452832,41.805602,-71.452832,41.805602",
+    "geom:latitude":41.805602,
+    "geom:longitude":-71.452832,
+    "iso:country":"US",
+    "sg:address":"76 Alto St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 3636",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s7tWKaLDAeM5flF9lKkbN_41.805602_-71.452832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310775,
+    "wof:geomhash":"9b9a6a84be6c9d430c37cbddc08ff0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874002055
+        }
+    ],
+    "wof:id":874002055,
+    "wof:lastmodified":1464310775,
+    "wof:name":"College Cab Svc",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.452832,
+    41.805602,
+    -71.452832,
+    41.805602
+],
+  "geometry": {"coordinates":[-71.452832,41.805602],"type":"Point"}
+}

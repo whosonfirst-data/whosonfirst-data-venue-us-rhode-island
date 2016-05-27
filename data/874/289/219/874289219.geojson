@@ -1,0 +1,112 @@
+{
+  "id": 874289219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293187,41.533293,-71.293187,41.533293",
+    "geom:latitude":41.533293,
+    "geom:longitude":-71.293187,
+    "iso:country":"US",
+    "sg:address":"1259 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Water Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 0916",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supply",
+        "filter",
+        "brewing",
+        "devices-wholesale",
+        "companies-bottled",
+        "bulk",
+        "device",
+        "fountain",
+        "break",
+        "coolers",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.crystalspring.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XMYNBqekQGKHlM6d9bVHP_41.533293_-71.293187@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314985,
+    "wof:geomhash":"72cb86d1a11d773ccd5c414f54ec0e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874289219
+        }
+    ],
+    "wof:id":874289219,
+    "wof:lastmodified":1464314985,
+    "wof:name":"Crystal Springs Water Co",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "filter",
+        "brewing",
+        "devices-wholesale",
+        "companies-bottled",
+        "bulk",
+        "device",
+        "fountain",
+        "break",
+        "coolers",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.293187,
+    41.533293,
+    -71.293187,
+    41.533293
+],
+  "geometry": {"coordinates":[-71.293187,41.533293],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874287553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506092,41.903354,-71.506092,41.903354",
+    "geom:latitude":41.903354,
+    "geom:longitude":-71.506092,
+    "iso:country":"US",
+    "sg:address":"970 Douglas Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/138902-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4392",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GrihjkZVaXn2ZHVNsipaj_41.903354_-71.506092@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314914,
+    "wof:geomhash":"6e47cdc5681ea5ba0612bf3cb65ad5a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874287553
+        }
+    ],
+    "wof:id":874287553,
+    "wof:lastmodified":1464314914,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.506092,
+    41.903354,
+    -71.506092,
+    41.903354
+],
+  "geometry": {"coordinates":[-71.506092,41.903354],"type":"Point"}
+}

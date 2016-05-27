@@ -1,0 +1,77 @@
+{
+  "id": 874282223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448335,41.846454,-71.448335,41.846454",
+    "geom:latitude":41.846454,
+    "geom:longitude":-71.448335,
+    "iso:country":"US",
+    "sg:address":"29 Modena Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 8148",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VZidfFFMQ6uptyTy6XuIe_41.846454_-71.448335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314715,
+    "wof:geomhash":"27179060a4bcc780099b08f81ce4ba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874282223
+        }
+    ],
+    "wof:id":874282223,
+    "wof:lastmodified":1464314715,
+    "wof:name":"Sisters Of St Ursula",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.448335,
+    41.846454,
+    -71.448335,
+    41.846454
+],
+  "geometry": {"coordinates":[-71.448335,41.846454],"type":"Point"}
+}

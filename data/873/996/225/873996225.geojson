@@ -1,0 +1,78 @@
+{
+  "id": 873996225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349467,41.79775,-71.349467,41.79775",
+    "geom:latitude":41.79775,
+    "geom:longitude":-71.349467,
+    "iso:country":"US",
+    "sg:address":"30 Hemmingway Dr",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 4220",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "sg:website":"www.syncor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HP68L1HokXB2XX1AW5NIG_41.797750_-71.349467@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310734,
+    "wof:geomhash":"df8042401da75057f3dde52203156b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":873996225
+        }
+    ],
+    "wof:id":873996225,
+    "wof:lastmodified":1464310734,
+    "wof:name":"Cardinal Health",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.349467,
+    41.79775,
+    -71.349467,
+    41.79775
+],
+  "geometry": {"coordinates":[-71.349467,41.79775],"type":"Point"}
+}

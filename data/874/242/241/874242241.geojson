@@ -1,0 +1,75 @@
+{
+  "id": 874242241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452812,41.65665,-71.452812,41.65665",
+    "geom:latitude":41.65665,
+    "geom:longitude":-71.452812,
+    "iso:country":"US",
+    "sg:address":"585 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 5398",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h8ilbfdI5B8Y5g9lXOVmT_41.656650_-71.452812@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313381,
+    "wof:geomhash":"33d31db83a13deda0856a13ba0598831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874242241
+        }
+    ],
+    "wof:id":874242241,
+    "wof:lastmodified":1464313381,
+    "wof:name":"Marco Calvo MD",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.452812,
+    41.65665,
+    -71.452812,
+    41.65665
+],
+  "geometry": {"coordinates":[-71.45281199999999,41.65665],"type":"Point"}
+}

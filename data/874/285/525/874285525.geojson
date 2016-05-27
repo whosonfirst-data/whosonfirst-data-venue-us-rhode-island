@@ -1,0 +1,91 @@
+{
+  "id": 874285525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406303,41.844898,-71.406303,41.844898",
+    "geom:latitude":41.844898,
+    "geom:longitude":-71.406303,
+    "iso:country":"US",
+    "sg:address":"905 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 2520",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "store",
+        "merchandise"
+    ],
+    "sg:website":"www.riaquarium.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xBJeYXZnWB5GlEQCmiiBn_41.844879_-71.406151@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314833,
+    "wof:geomhash":"fa50c0daf07500e0e93f81681050eaad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874285525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874285525
+        }
+    ],
+    "wof:id":874285525,
+    "wof:lastmodified":1464314833,
+    "wof:name":"R I Aquarium & Pet Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "store",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.406303,
+    41.844898,
+    -71.406303,
+    41.844898
+],
+  "geometry": {"coordinates":[-71.40630299999999,41.844898],"type":"Point"}
+}

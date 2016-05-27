@@ -1,0 +1,69 @@
+{
+  "id": 874268265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457366,41.937798,-71.457366,41.937798",
+    "geom:latitude":41.937798,
+    "geom:longitude":-71.457366,
+    "iso:country":"US",
+    "sg:address":"6 Blackstone Valley Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1480",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hT2DSLkxh2mSe53WjK9bd_41.937798_-71.457366@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314159,
+    "wof:geomhash":"a70bb318c3a1ce2b64cabe7cd56d1afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874268265
+        }
+    ],
+    "wof:id":874268265,
+    "wof:lastmodified":1464314159,
+    "wof:name":"Carrier Bldg Systems & Svcs",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -71.457366,
+    41.937798,
+    -71.457366,
+    41.937798
+],
+  "geometry": {"coordinates":[-71.45736599999999,41.937798],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874030155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441158,41.726992,-71.441158,41.726992",
+    "geom:latitude":41.726992,
+    "geom:longitude":-71.441158,
+    "iso:country":"US",
+    "sg:address":"40 Fresno Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 5162",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13M5UxecXnsq5ooqaygzH1_41.726992_-71.441158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"a3c65bc3e15615d01be0e0e49d3701d1",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874030155
+        }
+    ],
+    "wof:id":874030155,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Airport Auto Body",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.441158,
+    41.726992,
+    -71.441158,
+    41.726992
+],
+  "geometry": {"coordinates":[-71.441158,41.726992],"type":"Point"}
+}

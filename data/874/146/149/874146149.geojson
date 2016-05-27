@@ -1,0 +1,69 @@
+{
+  "id": 874146149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.640778,41.382027,-71.640778,41.382027",
+    "geom:latitude":41.382027,
+    "geom:longitude":-71.640778,
+    "iso:country":"US",
+    "sg:address":"4299 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3456",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QkRUSk7TDiOa7cXm5HkRr_41.382027_-71.640778@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312295,
+    "wof:geomhash":"6cec8833fc3a115b3cf5b4f36dac72c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874146149
+        }
+    ],
+    "wof:id":874146149,
+    "wof:lastmodified":1464312295,
+    "wof:name":"Radial Builders Inc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.640778,
+    41.382027,
+    -71.640778,
+    41.382027
+],
+  "geometry": {"coordinates":[-71.640778,41.382027],"type":"Point"}
+}

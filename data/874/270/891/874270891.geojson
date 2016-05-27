@@ -1,0 +1,76 @@
+{
+  "id": 874270891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257224,41.573123,-71.257224,41.573123",
+    "geom:latitude":41.573123,
+    "geom:longitude":-71.257224,
+    "iso:country":"US",
+    "sg:address":"113 Schoolhouse Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 7900",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04chptsaRuOkoPkRLjxaRx_41.573123_-71.257224@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314255,
+    "wof:geomhash":"5c3db85925b92afcdace4a29bfb8f5a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874270891
+        }
+    ],
+    "wof:id":874270891,
+    "wof:lastmodified":1464314255,
+    "wof:name":"Aquidneck Stone & Material",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.257224,
+    41.573123,
+    -71.257224,
+    41.573123
+],
+  "geometry": {"coordinates":[-71.25722399999999,41.573123],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 874287863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438016,41.728544,-71.438016,41.728544",
+    "geom:latitude":41.728544,
+    "geom:longitude":-71.438016,
+    "iso:country":"US",
+    "sg:address":"1951 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/173059-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 7222",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lvmZNDrq8Gqwev4Ziey5k_41.728154_-71.438364@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314930,
+    "wof:geomhash":"ca9d77e7951edf83f13001e538cfac2e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874287863
+        }
+    ],
+    "wof:id":874287863,
+    "wof:lastmodified":1464314930,
+    "wof:name":"Wendy's",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.438016,
+    41.728544,
+    -71.438016,
+    41.728544
+],
+  "geometry": {"coordinates":[-71.438016,41.728544],"type":"Point"}
+}

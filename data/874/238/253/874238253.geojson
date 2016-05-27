@@ -1,0 +1,71 @@
+{
+  "id": 874238253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509123,41.58193,-71.509123,41.58193",
+    "geom:latitude":41.58193,
+    "geom:longitude":-71.509123,
+    "iso:country":"US",
+    "sg:address":"52 Wickham Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1461",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tower",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fMq4tFJFHdEYDosxLfxa4_41.581930_-71.509123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313306,
+    "wof:geomhash":"692b5cf220cff65be141a4cd534d3a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874238253
+        }
+    ],
+    "wof:id":874238253,
+    "wof:lastmodified":1464313306,
+    "wof:name":"Global Tower Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tower",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.509123,
+    41.58193,
+    -71.509123,
+    41.58193
+],
+  "geometry": {"coordinates":[-71.509123,41.58193],"type":"Point"}
+}

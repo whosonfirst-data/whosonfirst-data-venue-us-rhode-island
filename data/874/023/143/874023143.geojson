@@ -1,0 +1,71 @@
+{
+  "id": 874023143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524515,41.485382,-71.524515,41.485382",
+    "geom:latitude":41.485382,
+    "geom:longitude":-71.524515,
+    "iso:country":"US",
+    "sg:address":"999 Fortin Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8833",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RjTWBWKFacToyfCZlAbo7_41.485382_-71.524515@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"471ea7e52820e1c95b7548aecaee8f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874023143
+        }
+    ],
+    "wof:id":874023143,
+    "wof:lastmodified":1464310975,
+    "wof:name":"Patos Cafe",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.524515,
+    41.485382,
+    -71.524515,
+    41.485382
+],
+  "geometry": {"coordinates":[-71.52451499999999,41.485382],"type":"Point"}
+}

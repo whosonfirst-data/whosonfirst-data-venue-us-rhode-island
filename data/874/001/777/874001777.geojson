@@ -1,0 +1,71 @@
+{
+  "id": 874001777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.634215,41.402673,-71.634215,41.402673",
+    "geom:latitude":41.402673,
+    "geom:longitude":-71.634215,
+    "iso:country":"US",
+    "sg:address":"150 Auburn Dr",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 1070",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xPqManVIn5c651fg5z4yT_41.402673_-71.634215@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310773,
+    "wof:geomhash":"459ccae7f2bdb32e341c2fecb1b6a240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874001777
+        }
+    ],
+    "wof:id":874001777,
+    "wof:lastmodified":1464310773,
+    "wof:name":"For Your Convenience",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.634215,
+    41.402673,
+    -71.634215,
+    41.402673
+],
+  "geometry": {"coordinates":[-71.634215,41.402673],"type":"Point"}
+}

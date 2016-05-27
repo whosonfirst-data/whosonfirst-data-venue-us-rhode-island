@@ -1,0 +1,82 @@
+{
+  "id": 873983195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450135,41.662798,-71.450135,41.662798",
+    "geom:latitude":41.662798,
+    "geom:longitude":-71.450135,
+    "iso:country":"US",
+    "sg:address":"59 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 9119",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k54rzU8zHV9X0Q3gN0WMx_41.662798_-71.450135@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310635,
+    "wof:geomhash":"1b707c469a83c1af1ef1610e4ca86f32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":873983195
+        }
+    ],
+    "wof:id":873983195,
+    "wof:lastmodified":1464310635,
+    "wof:name":"Greenwich Odeum Inc",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -71.450135,
+    41.662798,
+    -71.450135,
+    41.662798
+],
+  "geometry": {"coordinates":[-71.450135,41.662798],"type":"Point"}
+}

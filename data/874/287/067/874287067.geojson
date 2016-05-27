@@ -1,0 +1,86 @@
+{
+  "id": 874287067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501636,41.696028,-71.501636,41.696028",
+    "geom:latitude":41.696028,
+    "geom:longitude":-71.501636,
+    "iso:country":"US",
+    "sg:address":"10 Quaker Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/53319-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 6726",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209,
+        85856797,
+        102191575,
+        404488313,
+        101720577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zRaImU4G4ZJ5iDSgV6zr0_41.696028_-71.501636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314893,
+    "wof:geomhash":"7970a7ecefa3f833d247f721086cfd34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874287067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287067
+        }
+    ],
+    "wof:id":874287067,
+    "wof:lastmodified":1464314893,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.501636,
+    41.696028,
+    -71.501636,
+    41.696028
+],
+  "geometry": {"coordinates":[-71.501636,41.696028],"type":"Point"}
+}

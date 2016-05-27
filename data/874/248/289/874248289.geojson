@@ -1,0 +1,79 @@
+{
+  "id": 874248289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421128,41.789131,-71.421128,41.789131",
+    "geom:latitude":41.789131,
+    "geom:longitude":-71.421128,
+    "iso:country":"US",
+    "sg:address":"50 Cadillac Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 7690",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HSqukZBtcZLd4W14DRfZo_41.789131_-71.421128@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313503,
+    "wof:geomhash":"82b357ea697ecd16ec9ac21349c5b455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874248289
+        }
+    ],
+    "wof:id":874248289,
+    "wof:lastmodified":1464313503,
+    "wof:name":"Superior Auto Body Inc",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.421128,
+    41.789131,
+    -71.421128,
+    41.789131
+],
+  "geometry": {"coordinates":[-71.421128,41.789131],"type":"Point"}
+}

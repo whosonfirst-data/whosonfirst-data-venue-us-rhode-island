@@ -1,0 +1,105 @@
+{
+  "id": 874299963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402006,41.795008,-71.402006,41.795008",
+    "geom:latitude":41.795008,
+    "geom:longitude":-71.402006,
+    "iso:country":"US",
+    "sg:address":"150 Ernest St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 450 5500",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paint-wholesale",
+        "coatings-protective",
+        "manufacturer",
+        "paint",
+        "equipment"
+    ],
+    "sg:website":"http://www.carrollcoatings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5osFkbe6A46eq16x09WfoE_41.795008_-71.402006@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315388,
+    "wof:geomhash":"6a8d3c24e3fd8ca8d972981559e12f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874299963
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874299963
+        }
+    ],
+    "wof:id":874299963,
+    "wof:lastmodified":1464315388,
+    "wof:name":"Carroll Coatings Company, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint-wholesale",
+        "coatings-protective",
+        "manufacturer",
+        "paint",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -71.402006,
+    41.795008,
+    -71.402006,
+    41.795008
+],
+  "geometry": {"coordinates":[-71.402006,41.795008],"type":"Point"}
+}

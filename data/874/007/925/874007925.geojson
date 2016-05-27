@@ -1,0 +1,73 @@
+{
+  "id": 874007925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.290201,41.539032,-71.290201,41.539032",
+    "geom:latitude":41.539032,
+    "geom:longitude":-71.290201,
+    "iso:country":"US",
+    "sg:address":"25 Oliphant Ln",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 6730",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sRV2e6TXrIP7W8ycuxP7S_41.539032_-71.290201@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310840,
+    "wof:geomhash":"d3fbb9c73af80212611c8429b8fda1e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874007925
+        }
+    ],
+    "wof:id":874007925,
+    "wof:lastmodified":1464310840,
+    "wof:name":"Auben Concrete Construction",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.290201,
+    41.539032,
+    -71.290201,
+    41.539032
+],
+  "geometry": {"coordinates":[-71.290201,41.539032],"type":"Point"}
+}

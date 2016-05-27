@@ -1,0 +1,75 @@
+{
+  "id": 874049457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430519,41.810673,-71.430519,41.810673",
+    "geom:latitude":41.810673,
+    "geom:longitude":-71.430519,
+    "iso:country":"US",
+    "sg:address":"39 Hollis St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 374 0995",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cRjRrT9ev0dVrXWRVZKWe_41.810673_-71.430519@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311235,
+    "wof:geomhash":"4522bf5288dad17205f82ea1e1478844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874049457
+        }
+    ],
+    "wof:id":874049457,
+    "wof:lastmodified":1464311235,
+    "wof:name":"Central Taxi Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.430519,
+    41.810673,
+    -71.430519,
+    41.810673
+],
+  "geometry": {"coordinates":[-71.430519,41.810673],"type":"Point"}
+}

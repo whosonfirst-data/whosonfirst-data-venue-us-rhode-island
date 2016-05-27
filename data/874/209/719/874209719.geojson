@@ -1,0 +1,71 @@
+{
+  "id": 874209719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502637,41.970478,-71.502637,41.970478",
+    "geom:latitude":41.970478,
+    "geom:longitude":-71.502637,
+    "iso:country":"US",
+    "sg:address":"700 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 0595",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nkN5FX76JNKTJDXZU73bk_41.970478_-71.502637@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"422df37bf94cb625e42a60177265f653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874209719
+        }
+    ],
+    "wof:id":874209719,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Powell Motors",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.502637,
+    41.970478,
+    -71.502637,
+    41.970478
+],
+  "geometry": {"coordinates":[-71.50263699999999,41.970478],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874156587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541849,41.934581,-71.541849,41.934581",
+    "geom:latitude":41.934581,
+    "geom:longitude":-71.541849,
+    "iso:country":"US",
+    "sg:address":"73 Branch Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2218",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j172rABopLyeGRI7LI1bX_41.934581_-71.541849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"8e47814b35e06a3baabe0c9b605c1f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874156587
+        }
+    ],
+    "wof:id":874156587,
+    "wof:lastmodified":1464312395,
+    "wof:name":"Branch Pike Residence",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -71.541849,
+    41.934581,
+    -71.541849,
+    41.934581
+],
+  "geometry": {"coordinates":[-71.541849,41.934581],"type":"Point"}
+}

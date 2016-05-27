@@ -1,0 +1,71 @@
+{
+  "id": 874087645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.583772,41.497499,-71.583772,41.497499",
+    "geom:latitude":41.497499,
+    "geom:longitude":-71.583772,
+    "iso:country":"US",
+    "sg:address":"187 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 8669",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "boiler",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_654gqSjBYGr3tAqZHPmfGt_41.497499_-71.583772@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"98355add898f04f0a7d46a46a64d03ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874087645
+        }
+    ],
+    "wof:id":874087645,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Falcon Engineering Services",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.583772,
+    41.497499,
+    -71.583772,
+    41.497499
+],
+  "geometry": {"coordinates":[-71.583772,41.497499],"type":"Point"}
+}

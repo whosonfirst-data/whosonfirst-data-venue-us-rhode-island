@@ -1,0 +1,69 @@
+{
+  "id": 874274491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409363,41.904129,-71.409363,41.904129",
+    "geom:latitude":41.904129,
+    "geom:longitude":-71.409363,
+    "iso:country":"US",
+    "sg:address":"246 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 0600",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HPTx1V0iiM2d7VWr753Qw_41.904129_-71.409363@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314385,
+    "wof:geomhash":"08d3cd0a4eb3ef3d623557a14fe07057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874274491
+        }
+    ],
+    "wof:id":874274491,
+    "wof:lastmodified":1464314385,
+    "wof:name":"John F Begg Jr DDS Ltd",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.409363,
+    41.904129,
+    -71.409363,
+    41.904129
+],
+  "geometry": {"coordinates":[-71.409363,41.904129],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874087559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.380894,41.822466,-71.380894,41.822466",
+    "geom:latitude":41.822466,
+    "geom:longitude":-71.380894,
+    "iso:country":"US",
+    "sg:address":"175 Valley St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 7041",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xKTM17RU44HxE9fv2cAVs_41.822466_-71.380894@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"40b73e47f75497204e4c1d536f54a485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874087559
+        }
+    ],
+    "wof:id":874087559,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Tony's Tire Svc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.380894,
+    41.822466,
+    -71.380894,
+    41.822466
+],
+  "geometry": {"coordinates":[-71.380894,41.822466],"type":"Point"}
+}

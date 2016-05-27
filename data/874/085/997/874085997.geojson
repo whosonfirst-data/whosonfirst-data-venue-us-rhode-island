@@ -1,0 +1,77 @@
+{
+  "id": 874085997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434403,41.808191,-71.434403,41.808191",
+    "geom:latitude":41.808191,
+    "geom:longitude":-71.434403,
+    "iso:country":"US",
+    "sg:address":"8 Waverly St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 5558",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bx1tIVOsrU9i2kyHhzWkg_41.808191_-71.434403@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311620,
+    "wof:geomhash":"8f5fd9ccdf7d883a86114ca6c80e0143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874085997
+        }
+    ],
+    "wof:id":874085997,
+    "wof:lastmodified":1464311620,
+    "wof:name":"Providence Lock Co",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.434403,
+    41.808191,
+    -71.434403,
+    41.808191
+],
+  "geometry": {"coordinates":[-71.434403,41.808191],"type":"Point"}
+}

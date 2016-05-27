@@ -1,0 +1,71 @@
+{
+  "id": 874276487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.378859,41.537583,-71.378859,41.537583",
+    "geom:latitude":41.537583,
+    "geom:longitude":-71.378859,
+    "iso:country":"US",
+    "sg:address":"22 Schooner Ave",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 2086",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Okn8hE06vYdFxNEHIK1S_41.537583_-71.378859@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314477,
+    "wof:geomhash":"7e9d7e930b6977210806d4edded08d8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874276487
+        }
+    ],
+    "wof:id":874276487,
+    "wof:lastmodified":1464314477,
+    "wof:name":"Heritage Painting Inc",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.378859,
+    41.537583,
+    -71.378859,
+    41.537583
+],
+  "geometry": {"coordinates":[-71.37885900000001,41.537583],"type":"Point"}
+}

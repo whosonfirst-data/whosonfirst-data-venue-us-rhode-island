@@ -1,0 +1,76 @@
+{
+  "id": 874287899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407607,41.742933,-71.407607,41.742933",
+    "geom:latitude":41.742933,
+    "geom:longitude":-71.407607,
+    "iso:country":"US",
+    "sg:address":"1229 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/56547-rigatonis-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 5580",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y4vMxrWKDwE2daeGdNKFa_41.743334_-71.407418@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314932,
+    "wof:geomhash":"7ab5bdccb6450aca5ea3e7ecb98459a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874287899
+        }
+    ],
+    "wof:id":874287899,
+    "wof:lastmodified":1464314932,
+    "wof:name":"Rigatoni's Family Restaurant",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.407607,
+    41.742933,
+    -71.407607,
+    41.742933
+],
+  "geometry": {"coordinates":[-71.407607,41.742933],"type":"Point"}
+}

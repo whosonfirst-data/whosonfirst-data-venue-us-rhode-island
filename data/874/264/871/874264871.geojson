@@ -1,0 +1,77 @@
+{
+  "id": 874264871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.38558,41.838421,-71.38558,41.838421",
+    "geom:latitude":41.838421,
+    "geom:longitude":-71.38558,
+    "iso:country":"US",
+    "sg:address":"170 Blackstone Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4310",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jHsO441z3wPXbgOh57oln_41.838421_-71.385580@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314029,
+    "wof:geomhash":"2102f04aa419c7c10019d5e5b6e27753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874264871
+        }
+    ],
+    "wof:id":874264871,
+    "wof:lastmodified":1464314029,
+    "wof:name":"Quikava",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -71.38558,
+    41.838421,
+    -71.38558,
+    41.838421
+],
+  "geometry": {"coordinates":[-71.38558,41.838421],"type":"Point"}
+}

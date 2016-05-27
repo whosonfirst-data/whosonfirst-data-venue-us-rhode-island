@@ -1,0 +1,85 @@
+{
+  "id": 874265099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428097,41.777454,-71.428097,41.777454",
+    "geom:latitude":41.777454,
+    "geom:longitude":-71.428097,
+    "iso:country":"US",
+    "sg:address":"683 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7988",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "design",
+        "publishing"
+    ],
+    "sg:website":"www.digitalgraphics.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LuxwEN7AqUcXiLfQlTx0C_41.777454_-71.428097@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314040,
+    "wof:geomhash":"82bc6c02b6336d40467181964bf6b667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874265099
+        }
+    ],
+    "wof:id":874265099,
+    "wof:lastmodified":1464314040,
+    "wof:name":"Digital Graphics Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -71.428097,
+    41.777454,
+    -71.428097,
+    41.777454
+],
+  "geometry": {"coordinates":[-71.42809699999999,41.777454],"type":"Point"}
+}

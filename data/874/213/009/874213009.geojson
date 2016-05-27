@@ -1,0 +1,77 @@
+{
+  "id": 874213009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454224,41.568295,-71.454224,41.568295",
+    "geom:latitude":41.568295,
+    "geom:longitude":-71.454224,
+    "iso:country":"US",
+    "sg:address":"54 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 8624",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLgCeawLQWpYUeQ7ILKfK_41.568295_-71.454224@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312984,
+    "wof:geomhash":"61d0745fdf4093e589517a64b8cadcca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874213009
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874213009
+        }
+    ],
+    "wof:id":874213009,
+    "wof:lastmodified":1464312984,
+    "wof:name":"Katherine Estes CPA",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -71.454224,
+    41.568295,
+    -71.454224,
+    41.568295
+],
+  "geometry": {"coordinates":[-71.454224,41.568295],"type":"Point"}
+}

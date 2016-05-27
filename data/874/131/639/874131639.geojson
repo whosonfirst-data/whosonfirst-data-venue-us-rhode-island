@@ -1,0 +1,76 @@
+{
+  "id": 874131639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439529,41.738329,-71.439529,41.738329",
+    "geom:latitude":41.738329,
+    "geom:longitude":-71.439529,
+    "iso:country":"US",
+    "sg:address":"340 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 5950",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.baytruckandequipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EewQP8voG39U4BZ1eGY5x_41.738329_-71.439529@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312156,
+    "wof:geomhash":"d3c2befdfa25dcf8c25b6c6eee79ec09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874131639
+        }
+    ],
+    "wof:id":874131639,
+    "wof:lastmodified":1464312156,
+    "wof:name":"Bay Truck Sales Inc",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.439529,
+    41.738329,
+    -71.439529,
+    41.738329
+],
+  "geometry": {"coordinates":[-71.43952899999999,41.738329],"type":"Point"}
+}

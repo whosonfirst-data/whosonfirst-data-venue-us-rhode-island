@@ -1,0 +1,71 @@
+{
+  "id": 874024481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264375,41.726139,-71.264375,41.726139",
+    "geom:latitude":41.726139,
+    "geom:longitude":-71.264375,
+    "iso:country":"US",
+    "sg:address":"54 Barker Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9100",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AOqKKGjP1OE1RYrVv3qws_41.726139_-71.264375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310990,
+    "wof:geomhash":"0eb35447df143a96dc1663516bd66dca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874024481
+        }
+    ],
+    "wof:id":874024481,
+    "wof:lastmodified":1464310990,
+    "wof:name":"Grace Barker Nursing Home Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.264375,
+    41.726139,
+    -71.264375,
+    41.726139
+],
+  "geometry": {"coordinates":[-71.264375,41.726139],"type":"Point"}
+}

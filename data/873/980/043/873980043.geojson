@@ -1,0 +1,71 @@
+{
+  "id": 873980043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273418,41.693428,-71.273418,41.693428",
+    "geom:latitude":41.693428,
+    "geom:longitude":-71.273418,
+    "iso:country":"US",
+    "sg:address":"67 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3200",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_768fT2Wzg97LE7C0CQor8x_41.693428_-71.273418@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310584,
+    "wof:geomhash":"28c66a6606d64f01b49378e26adcd003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":873980043
+        }
+    ],
+    "wof:id":873980043,
+    "wof:lastmodified":1464310584,
+    "wof:name":"Cooks & Butler",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.273418,
+    41.693428,
+    -71.273418,
+    41.693428
+],
+  "geometry": {"coordinates":[-71.27341800000001,41.693428],"type":"Point"}
+}

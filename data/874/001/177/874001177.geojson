@@ -1,0 +1,69 @@
+{
+  "id": 874001177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516483,41.376436,-71.516483,41.376436",
+    "geom:latitude":41.376436,
+    "geom:longitude":-71.516483,
+    "iso:country":"US",
+    "sg:address":"1175 Succotash Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2050",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g0hHWWztBp75qpJlXIwft_41.376436_-71.516483@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310768,
+    "wof:geomhash":"e21dcea197b730ba0b2a0b62608382d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874001177
+        }
+    ],
+    "wof:id":874001177,
+    "wof:lastmodified":1464310768,
+    "wof:name":"Jim's Dock Inc",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.516483,
+    41.376436,
+    -71.516483,
+    41.376436
+],
+  "geometry": {"coordinates":[-71.51648299999999,41.376436],"type":"Point"}
+}

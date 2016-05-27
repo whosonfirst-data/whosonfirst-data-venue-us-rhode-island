@@ -1,0 +1,77 @@
+{
+  "id": 874186751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458255,41.572288,-71.458255,41.572288",
+    "geom:latitude":41.572288,
+    "geom:longitude":-71.458255,
+    "iso:country":"US",
+    "sg:address":"154 W Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5918",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jjea4wDRviQ17LpagTR0R_41.572288_-71.458255@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312707,
+    "wof:geomhash":"84cc90a38dd706cf7801e164676e1051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874186751
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874186751
+        }
+    ],
+    "wof:id":874186751,
+    "wof:lastmodified":1464312707,
+    "wof:name":"Woodcrafters of Wickford",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.458255,
+    41.572288,
+    -71.458255,
+    41.572288
+],
+  "geometry": {"coordinates":[-71.45825499999999,41.572288],"type":"Point"}
+}

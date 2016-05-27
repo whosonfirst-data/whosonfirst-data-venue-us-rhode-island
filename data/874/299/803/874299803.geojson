@@ -1,0 +1,70 @@
+{
+  "id": 874299803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409897,41.835602,-71.409897,41.835602",
+    "geom:latitude":41.835602,
+    "geom:longitude":-71.409897,
+    "iso:country":"US",
+    "sg:address":"528 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 3305",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69MCXDfPQzw3ePHZD89coD_41.835602_-71.409897@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315382,
+    "wof:geomhash":"4c9ec4f3191e3c8bbe25879063fe9e88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874299803
+        }
+    ],
+    "wof:id":874299803,
+    "wof:lastmodified":1464315382,
+    "wof:name":"Cohen Steven Ira MD",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.409897,
+    41.835602,
+    -71.409897,
+    41.835602
+],
+  "geometry": {"coordinates":[-71.409897,41.835602],"type":"Point"}
+}

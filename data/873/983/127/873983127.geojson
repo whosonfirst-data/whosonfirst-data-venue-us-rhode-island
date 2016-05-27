@@ -1,0 +1,73 @@
+{
+  "id": 873983127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562186,41.377313,-71.562186,41.377313",
+    "geom:latitude":41.377313,
+    "geom:longitude":-71.562186,
+    "iso:country":"US",
+    "sg:address":"336 Cards Pond Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 8589",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pTPsPWHbVxX9t5SvGnRnE_41.377313_-71.562186@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310634,
+    "wof:geomhash":"fde1b63f511c65a9dfbd18aea62b9b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":873983127
+        }
+    ],
+    "wof:id":873983127,
+    "wof:lastmodified":1464310634,
+    "wof:name":"Joseph M Carmody",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.562186,
+    41.377313,
+    -71.562186,
+    41.377313
+],
+  "geometry": {"coordinates":[-71.562186,41.377313],"type":"Point"}
+}

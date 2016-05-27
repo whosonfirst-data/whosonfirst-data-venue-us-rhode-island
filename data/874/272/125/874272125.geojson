@@ -1,0 +1,71 @@
+{
+  "id": 874272125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453712,41.869377,-71.453712,41.869377",
+    "geom:latitude":41.869377,
+    "geom:longitude":-71.453712,
+    "iso:country":"US",
+    "sg:address":"66 W River Pkwy",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7648",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iiXdzLORASRdd4mOlcbfS_41.869377_-71.453712@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314300,
+    "wof:geomhash":"e57e54c7837ea7a44ebe87d55a9d90c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874272125
+        }
+    ],
+    "wof:id":874272125,
+    "wof:lastmodified":1464314300,
+    "wof:name":"Mobile Car Care Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.453712,
+    41.869377,
+    -71.453712,
+    41.869377
+],
+  "geometry": {"coordinates":[-71.453712,41.869377],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874256511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510804,41.550606,-71.510804,41.550606",
+    "geom:latitude":41.550606,
+    "geom:longitude":-71.510804,
+    "iso:country":"US",
+    "sg:address":"318 Dry Bridge Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1560",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "sg:website":"www.acs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4F7ogC6YawGjQXN24eRqfN_41.550606_-71.510804@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313707,
+    "wof:geomhash":"fd018481fa10e2f36a52379262b43894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874256511
+        }
+    ],
+    "wof:id":874256511,
+    "wof:lastmodified":1464313707,
+    "wof:name":"Atlantic Control Systems Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.510804,
+    41.550606,
+    -71.510804,
+    41.550606
+],
+  "geometry": {"coordinates":[-71.51080399999999,41.550606],"type":"Point"}
+}

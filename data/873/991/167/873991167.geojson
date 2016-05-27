@@ -1,0 +1,71 @@
+{
+  "id": 873991167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27975,41.540524,-71.27975,41.540524",
+    "geom:latitude":41.540524,
+    "geom:longitude":-71.27975,
+    "iso:country":"US",
+    "sg:address":"600 Jepson Ln",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 7284",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61OVi5JYRFljMDCIFjW5K1_41.540524_-71.279750@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310698,
+    "wof:geomhash":"9927393600c723df88d600d32b36eae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":873991167
+        }
+    ],
+    "wof:id":873991167,
+    "wof:lastmodified":1464310698,
+    "wof:name":"Wakefield Plumbing LLC",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.27975,
+    41.540524,
+    -71.27975,
+    41.540524
+],
+  "geometry": {"coordinates":[-71.27975000000001,41.540524],"type":"Point"}
+}

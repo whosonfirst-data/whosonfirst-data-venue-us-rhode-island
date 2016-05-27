@@ -1,0 +1,73 @@
+{
+  "id": 874192249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273227,41.74298,-71.273227,41.74298",
+    "geom:latitude":41.74298,
+    "geom:longitude":-71.273227,
+    "iso:country":"US",
+    "sg:address":"339 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2050",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bm0mV9bhrRG1VHdrcdFkH_41.742980_-71.273227@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312761,
+    "wof:geomhash":"d20c074895506552057964d018fbe594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874192249
+        }
+    ],
+    "wof:id":874192249,
+    "wof:lastmodified":1464312761,
+    "wof:name":"MDE Automotive",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.273227,
+    41.74298,
+    -71.273227,
+    41.74298
+],
+  "geometry": {"coordinates":[-71.27322700000001,41.74298],"type":"Point"}
+}

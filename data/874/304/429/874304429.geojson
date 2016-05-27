@@ -1,0 +1,91 @@
+{
+  "id": 874304429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54924,41.913151,-71.54924,41.913151",
+    "geom:latitude":41.913151,
+    "geom:longitude":-71.54924,
+    "iso:country":"US",
+    "sg:address":"2 Industrial Dr S",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5095",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "door",
+        "installation",
+        "windows-repair",
+        "window",
+        "storm",
+        "windows-metal",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66ES5EUmMvLwde8GP7Z67s_41.913151_-71.549240@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315544,
+    "wof:geomhash":"fa7d8d7b1079813eba7d82e613e17051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874304429
+        }
+    ],
+    "wof:id":874304429,
+    "wof:lastmodified":1464315544,
+    "wof:name":"Chandler Architectural Products, Inc.",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "installation",
+        "windows-repair",
+        "window",
+        "storm",
+        "windows-metal",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -71.54924,
+    41.913151,
+    -71.54924,
+    41.913151
+],
+  "geometry": {"coordinates":[-71.54924,41.913151],"type":"Point"}
+}

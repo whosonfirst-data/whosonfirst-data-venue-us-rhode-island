@@ -1,0 +1,71 @@
+{
+  "id": 874117807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.55216,42.017915,-71.55216,42.017915",
+    "geom:latitude":42.017915,
+    "geom:longitude":-71.55216,
+    "iso:country":"US",
+    "sg:address":"269 Main St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 5341",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fireplace",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VAMcpuIR5oFAF9yJjdk6g_42.017915_-71.552160@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"b21558142ae31e6ddbaaeda3da35e0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874117807
+        }
+    ],
+    "wof:id":874117807,
+    "wof:lastmodified":1464312014,
+    "wof:name":"New England Chimney Sweeps",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -71.55216,
+    42.017915,
+    -71.55216,
+    42.017915
+],
+  "geometry": {"coordinates":[-71.55216,42.017915],"type":"Point"}
+}

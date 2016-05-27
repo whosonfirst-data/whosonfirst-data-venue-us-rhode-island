@@ -1,0 +1,71 @@
+{
+  "id": 874009185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474999,41.833539,-71.474999,41.833539",
+    "geom:latitude":41.833539,
+    "geom:longitude":-71.474999,
+    "iso:country":"US",
+    "sg:address":"61 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 2966",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2000l05V1x6fIlNyFTo6cH_41.833539_-71.474999@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310849,
+    "wof:geomhash":"f146165d184df9fe6b5b94e18ea4a886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874009185
+        }
+    ],
+    "wof:id":874009185,
+    "wof:lastmodified":1464310849,
+    "wof:name":"Hair Experts",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.474999,
+    41.833539,
+    -71.474999,
+    41.833539
+],
+  "geometry": {"coordinates":[-71.474999,41.833539],"type":"Point"}
+}

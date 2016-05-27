@@ -1,0 +1,72 @@
+{
+  "id": 874286993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268851,41.719336,-71.268851,41.719336",
+    "geom:latitude":41.719336,
+    "geom:longitude":-71.268851,
+    "iso:country":"US",
+    "sg:address":"609 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warren/215269-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7714",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02uFcv5nLTXLCW1kJFP4G4_41.719336_-71.268851@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"99d4dc0b6f929fe8b73d92c89260f62d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874286993
+        }
+    ],
+    "wof:id":874286993,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.268851,
+    41.719336,
+    -71.268851,
+    41.719336
+],
+  "geometry": {"coordinates":[-71.268851,41.719336],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874223621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424289,41.758266,-71.424289,41.758266",
+    "geom:latitude":41.758266,
+    "geom:longitude":-71.424289,
+    "iso:country":"US",
+    "sg:address":"1828 Elmwood Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 9888",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r1k2IN8pociuID5K871Ea_41.758266_-71.424289@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"f4976440c50dc96c9135b93ec49c8b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874223621
+        }
+    ],
+    "wof:id":874223621,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Warwick Auto Sales",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.424289,
+    41.758266,
+    -71.424289,
+    41.758266
+],
+  "geometry": {"coordinates":[-71.424289,41.758266],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874278645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524686,41.997559,-71.524686,41.997559",
+    "geom:latitude":41.997559,
+    "geom:longitude":-71.524686,
+    "iso:country":"US",
+    "sg:address":"144 Mason St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 1070",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "repair",
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i0ikCesSEpZ0FIx4feFHF_41.997559_-71.524686@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314561,
+    "wof:geomhash":"d0cde6a2874261846b77e0db54c42be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874278645
+        }
+    ],
+    "wof:id":874278645,
+    "wof:lastmodified":1464314561,
+    "wof:name":"BP Vacuum and Machine Repair",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "repair",
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -71.524686,
+    41.997559,
+    -71.524686,
+    41.997559
+],
+  "geometry": {"coordinates":[-71.524686,41.997559],"type":"Point"}
+}

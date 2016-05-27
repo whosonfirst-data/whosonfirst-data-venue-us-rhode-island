@@ -1,0 +1,75 @@
+{
+  "id": 874233217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.391327,41.774617,-71.391327,41.774617",
+    "geom:latitude":41.774617,
+    "geom:longitude":-71.391327,
+    "iso:country":"US",
+    "sg:address":"1345 Narragansett Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 6365",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JezNkvEEJkUAV9iGfuyjA_41.774617_-71.391327@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313203,
+    "wof:geomhash":"15c4854dbe20098bffc3d6e7e78e516b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874233217
+        }
+    ],
+    "wof:id":874233217,
+    "wof:lastmodified":1464313203,
+    "wof:name":"Butler Hospital",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.391327,
+    41.774617,
+    -71.391327,
+    41.774617
+],
+  "geometry": {"coordinates":[-71.391327,41.774617],"type":"Point"}
+}

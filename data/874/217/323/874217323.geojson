@@ -1,0 +1,77 @@
+{
+  "id": 874217323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363263,41.781567,-71.363263,41.781567",
+    "geom:latitude":41.781567,
+    "geom:longitude":-71.363263,
+    "iso:country":"US",
+    "sg:address":"3346 Pawtucket Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 431 1400",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lZrG06tLG3abqPqu3MPVW_41.781567_-71.363263@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313025,
+    "wof:geomhash":"8d4f61f8bf3d5e7caa9d0ecfcf6674c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874217323
+        }
+    ],
+    "wof:id":874217323,
+    "wof:lastmodified":1464313025,
+    "wof:name":"East Bay Self Storage",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.363263,
+    41.781567,
+    -71.363263,
+    41.781567
+],
+  "geometry": {"coordinates":[-71.363263,41.781567],"type":"Point"}
+}

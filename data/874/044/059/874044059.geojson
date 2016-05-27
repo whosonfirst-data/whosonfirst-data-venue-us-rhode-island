@@ -1,0 +1,77 @@
+{
+  "id": 874044059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445274,41.471053,-71.445274,41.471053",
+    "geom:latitude":41.471053,
+    "geom:longitude":-71.445274,
+    "iso:country":"US",
+    "sg:address":"9 Woodridge Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2806",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J2k8nwQEZnLJoOAnWBstx_41.471053_-71.445274@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311185,
+    "wof:geomhash":"db6078f65135b79754b05d0c225657ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874044059
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874044059
+        }
+    ],
+    "wof:id":874044059,
+    "wof:lastmodified":1464311185,
+    "wof:name":"Harris Plumbing & Heating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.445274,
+    41.471053,
+    -71.445274,
+    41.471053
+],
+  "geometry": {"coordinates":[-71.445274,41.471053],"type":"Point"}
+}

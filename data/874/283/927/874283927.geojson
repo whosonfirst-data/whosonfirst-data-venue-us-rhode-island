@@ -1,0 +1,82 @@
+{
+  "id": 874283927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43569,41.778941,-71.43569,41.778941",
+    "geom:latitude":41.778941,
+    "geom:longitude":-71.43569,
+    "iso:country":"US",
+    "sg:address":"845 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 8000",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:website":"http://www.cps.k12.ri.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zJwUp8gJW1svvX8F7nvY6_41.778787_-71.434929@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314771,
+    "wof:geomhash":"43e79ba2f7c8d0121a4ffe61a7468283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874283927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874283927
+        }
+    ],
+    "wof:id":874283927,
+    "wof:lastmodified":1464314771,
+    "wof:name":"Cranston Public Schools",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43569,
+    41.778941,
+    -71.43569,
+    41.778941
+],
+  "geometry": {"coordinates":[-71.43568999999999,41.778941],"type":"Point"}
+}

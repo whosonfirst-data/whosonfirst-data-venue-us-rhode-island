@@ -1,0 +1,84 @@
+{
+  "id": 874284445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445503,41.815601,-71.445503,41.815601",
+    "geom:latitude":41.815601,
+    "geom:longitude":-71.445503,
+    "iso:country":"US",
+    "sg:address":"125 Plainfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8415",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ZhLdnIUhLQHhkJdA2YLp_41.815922_-71.445129@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314789,
+    "wof:geomhash":"7b0a65e756cdc3ff390516f3256ac6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874284445
+        }
+    ],
+    "wof:id":874284445,
+    "wof:lastmodified":1464314789,
+    "wof:name":"George's Service Station",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.445503,
+    41.815601,
+    -71.445503,
+    41.815601
+],
+  "geometry": {"coordinates":[-71.445503,41.815601],"type":"Point"}
+}

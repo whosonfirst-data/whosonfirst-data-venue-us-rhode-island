@@ -1,0 +1,72 @@
+{
+  "id": 874287267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523672,41.71558,-71.523672,41.71558",
+    "geom:latitude":41.71558,
+    "geom:longitude":-71.523672,
+    "iso:country":"US",
+    "sg:address":"975 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/56700-stumpys-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 3409",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85830837,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03JiBvknSY5DfdmhRlEpdW_41.715580_-71.523672@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314899,
+    "wof:geomhash":"5bc514a74c15bf3fcd89122e8c08b1aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85830837,
+            "region_id":85688509,
+            "venue_id":874287267
+        }
+    ],
+    "wof:id":874287267,
+    "wof:lastmodified":1464314899,
+    "wof:name":"Stumpy's Grille",
+    "wof:parent_id":85830837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -71.523672,
+    41.71558,
+    -71.523672,
+    41.71558
+],
+  "geometry": {"coordinates":[-71.523672,41.71558],"type":"Point"}
+}

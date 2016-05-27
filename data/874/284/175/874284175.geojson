@@ -1,0 +1,77 @@
+{
+  "id": 874284175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395401,41.819698,-71.395401,41.819698",
+    "geom:latitude":41.819698,
+    "geom:longitude":-71.395401,
+    "iso:country":"US",
+    "sg:address":"388 Wickenden St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 5330",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sushi",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lir77GjS9Gsf2KMwvM0D3_41.819678_-71.396083@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314780,
+    "wof:geomhash":"d7e69ef7bd822a5f233ddc03ffcb058b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874284175
+        }
+    ],
+    "wof:id":874284175,
+    "wof:lastmodified":1464314780,
+    "wof:name":"Tokyo Restaurant",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.395401,
+    41.819698,
+    -71.395401,
+    41.819698
+],
+  "geometry": {"coordinates":[-71.39540100000001,41.819698],"type":"Point"}
+}

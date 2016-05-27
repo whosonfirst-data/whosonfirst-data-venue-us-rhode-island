@@ -1,0 +1,75 @@
+{
+  "id": 874239865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430815,41.753467,-71.430815,41.753467",
+    "geom:latitude":41.753467,
+    "geom:longitude":-71.430815,
+    "iso:country":"US",
+    "sg:address":"42 Lyman Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 2160",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F8uF6LDfs9k5Mt5NyLYiy_41.753467_-71.430815@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313337,
+    "wof:geomhash":"bffc9bb349f139505fc4a6755f830568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874239865
+        }
+    ],
+    "wof:id":874239865,
+    "wof:lastmodified":1464313337,
+    "wof:name":"Warwick Dental Laboratory",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.430815,
+    41.753467,
+    -71.430815,
+    41.753467
+],
+  "geometry": {"coordinates":[-71.430815,41.753467],"type":"Point"}
+}

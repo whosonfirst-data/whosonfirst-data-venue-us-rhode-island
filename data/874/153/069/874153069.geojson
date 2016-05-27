@@ -1,0 +1,71 @@
+{
+  "id": 874153069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402462,41.889321,-71.402462,41.889321",
+    "geom:latitude":41.889321,
+    "geom:longitude":-71.402462,
+    "iso:country":"US",
+    "sg:address":"58 Bagley St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 641 3198",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LQysHsrsJqtrBDRWFcgid_41.889321_-71.402462@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312356,
+    "wof:geomhash":"59d951830f36f9d6589237e7a2e62012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874153069
+        }
+    ],
+    "wof:id":874153069,
+    "wof:lastmodified":1464312356,
+    "wof:name":"National Roofing",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.402462,
+    41.889321,
+    -71.402462,
+    41.889321
+],
+  "geometry": {"coordinates":[-71.402462,41.889321],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874100501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.378167,41.816281,-71.378167,41.816281",
+    "geom:latitude":41.816281,
+    "geom:longitude":-71.378167,
+    "iso:country":"US",
+    "sg:address":"136 Warren Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 6816",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OFDdbGhedSY5wHOtRxjK3_41.816281_-71.378167@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"63cde2bb8f49011ef44871a80f1ab889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874100501
+        }
+    ],
+    "wof:id":874100501,
+    "wof:lastmodified":1464311801,
+    "wof:name":"De Barros Watch Repair",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "watch"
+    ]
+},
+  "bbox": [
+    -71.378167,
+    41.816281,
+    -71.378167,
+    41.816281
+],
+  "geometry": {"coordinates":[-71.378167,41.816281],"type":"Point"}
+}

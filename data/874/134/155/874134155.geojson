@@ -1,0 +1,88 @@
+{
+  "id": 874134155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410555,41.795023,-71.410555,41.795023",
+    "geom:latitude":41.795023,
+    "geom:longitude":-71.410555,
+    "iso:country":"US",
+    "sg:address":"1146 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 7900",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fdXJRbaeXTP2DQxCYpW74_41.795023_-71.410555@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312183,
+    "wof:geomhash":"ebcf738b59ae1ddd82144f5b2edcd7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874134155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874134155
+        }
+    ],
+    "wof:id":874134155,
+    "wof:lastmodified":1464312183,
+    "wof:name":"Parts Plus Auto Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.410555,
+    41.795023,
+    -71.410555,
+    41.795023
+],
+  "geometry": {"coordinates":[-71.410555,41.795023],"type":"Point"}
+}

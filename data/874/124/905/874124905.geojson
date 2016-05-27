@@ -1,0 +1,77 @@
+{
+  "id": 874124905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386733,41.845558,-71.386733,41.845558",
+    "geom:latitude":41.845558,
+    "geom:longitude":-71.386733,
+    "iso:country":"US",
+    "sg:address":"345 Blackstone Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 6355",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consulting",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NM5YQ2MFhCOXwfb0W4L7H_41.845558_-71.386733@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312084,
+    "wof:geomhash":"ea1382aa52b080c96a8a03445596a06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874124905
+        }
+    ],
+    "wof:id":874124905,
+    "wof:lastmodified":1464312084,
+    "wof:name":"Dr Paul Malloy",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "computer"
+    ]
+},
+  "bbox": [
+    -71.386733,
+    41.845558,
+    -71.386733,
+    41.845558
+],
+  "geometry": {"coordinates":[-71.38673300000001,41.845558],"type":"Point"}
+}

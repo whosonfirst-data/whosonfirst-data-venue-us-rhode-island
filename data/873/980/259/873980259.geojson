@@ -1,0 +1,73 @@
+{
+  "id": 873980259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.158006,41.552288,-71.158006,41.552288",
+    "geom:latitude":41.552288,
+    "geom:longitude":-71.158006,
+    "iso:country":"US",
+    "sg:address":"52 Long Hwy",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 2604",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35IzP6bigvQcNDkMDBvOzk_41.552288_-71.158006@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310588,
+    "wof:geomhash":"b0a2e2b8479ad83659a377b2af5ddb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":873980259
+        }
+    ],
+    "wof:id":873980259,
+    "wof:lastmodified":1464310588,
+    "wof:name":"James W Smith Jr Inc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.158006,
+    41.552288,
+    -71.158006,
+    41.552288
+],
+  "geometry": {"coordinates":[-71.158006,41.552288],"type":"Point"}
+}

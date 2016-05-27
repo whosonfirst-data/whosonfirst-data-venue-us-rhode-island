@@ -1,0 +1,69 @@
+{
+  "id": 874285291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.660312,41.49282,-71.660312,41.49282",
+    "geom:latitude":41.49282,
+    "geom:longitude":-71.660312,
+    "iso:country":"US",
+    "sg:address":"54 Richmond Townhouse Rd",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 8398",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZ5yYZLpBQHwr9fjKw6yQ_41.492526_-71.660635@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314822,
+    "wof:geomhash":"bf655b9ab5088db3f543dd386c4a39f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874285291
+        }
+    ],
+    "wof:id":874285291,
+    "wof:lastmodified":1464314822,
+    "wof:name":"De Voe's Hairstyling",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nail"
+    ]
+},
+  "bbox": [
+    -71.660312,
+    41.49282,
+    -71.660312,
+    41.49282
+],
+  "geometry": {"coordinates":[-71.660312,41.49282],"type":"Point"}
+}

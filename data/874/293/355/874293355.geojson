@@ -1,0 +1,72 @@
+{
+  "id": 874293355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440046,41.72686,-71.440046,41.72686",
+    "geom:latitude":41.72686,
+    "geom:longitude":-71.440046,
+    "iso:country":"US",
+    "sg:address":"32 Fresno Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 0706",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uykNoQskH95y15bxAdgzk_41.726860_-71.440046@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315135,
+    "wof:geomhash":"89c8b4b423c75262d1ab730137ecf868",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874293355
+        }
+    ],
+    "wof:id":874293355,
+    "wof:lastmodified":1464315135,
+    "wof:name":"Best Taxi",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.440046,
+    41.72686,
+    -71.440046,
+    41.72686
+],
+  "geometry": {"coordinates":[-71.440046,41.72686],"type":"Point"}
+}

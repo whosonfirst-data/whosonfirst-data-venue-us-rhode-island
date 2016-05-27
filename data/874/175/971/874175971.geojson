@@ -1,0 +1,77 @@
+{
+  "id": 874175971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405228,41.747177,-71.405228,41.747177",
+    "geom:latitude":41.747177,
+    "geom:longitude":-71.405228,
+    "iso:country":"US",
+    "sg:address":"1030 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2720",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2ICyRNapuzqOYti3AyhU_41.747177_-71.405228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312587,
+    "wof:geomhash":"a5949a13714cff4c2c09081103ff5c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874175971
+        }
+    ],
+    "wof:id":874175971,
+    "wof:lastmodified":1464312587,
+    "wof:name":"John David Lowney DO",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.405228,
+    41.747177,
+    -71.405228,
+    41.747177
+],
+  "geometry": {"coordinates":[-71.40522799999999,41.747177],"type":"Point"}
+}

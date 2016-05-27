@@ -1,0 +1,73 @@
+{
+  "id": 874205571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458452,41.586933,-71.458452,41.586933",
+    "geom:latitude":41.586933,
+    "geom:longitude":-71.458452,
+    "iso:country":"US",
+    "sg:address":"7785 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 395 2229",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A7gGiBINVc71RMaoNqXf1_41.586933_-71.458452@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312900,
+    "wof:geomhash":"66bdaf9eb76d4353d22cd2da9c8f1e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874205571
+        }
+    ],
+    "wof:id":874205571,
+    "wof:lastmodified":1464312900,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.458452,
+    41.586933,
+    -71.458452,
+    41.586933
+],
+  "geometry": {"coordinates":[-71.45845199999999,41.586933],"type":"Point"}
+}

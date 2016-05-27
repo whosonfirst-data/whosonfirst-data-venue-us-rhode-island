@@ -1,0 +1,71 @@
+{
+  "id": 874210813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415411,41.883515,-71.415411,41.883515",
+    "geom:latitude":41.883515,
+    "geom:longitude":-71.415411,
+    "iso:country":"US",
+    "sg:address":"19 Warren Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 7410",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50yOUwtAbNjhG5rNljnnHR_41.883515_-71.415411@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312959,
+    "wof:geomhash":"b8ffa7815bda6b86a6434ac95a2d3e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874210813
+        }
+    ],
+    "wof:id":874210813,
+    "wof:lastmodified":1464312959,
+    "wof:name":"AAA Macqueen Allphases",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.415411,
+    41.883515,
+    -71.415411,
+    41.883515
+],
+  "geometry": {"coordinates":[-71.41541100000001,41.883515],"type":"Point"}
+}

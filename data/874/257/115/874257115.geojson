@@ -1,0 +1,71 @@
+{
+  "id": 874257115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.282182,41.7291,-71.282182,41.7291",
+    "geom:latitude":41.7291,
+    "geom:longitude":-71.282182,
+    "iso:country":"US",
+    "sg:address":"496 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6767",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50QTLwbn0zdscSJTE8pbb8_41.729100_-71.282182@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313727,
+    "wof:geomhash":"53ba5991b5581aa55f252e5a962eff22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874257115
+        }
+    ],
+    "wof:id":874257115,
+    "wof:lastmodified":1464313727,
+    "wof:name":"Delekta Pharmacy Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.282182,
+    41.7291,
+    -71.282182,
+    41.7291
+],
+  "geometry": {"coordinates":[-71.28218200000001,41.7291],"type":"Point"}
+}

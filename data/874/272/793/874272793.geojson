@@ -1,0 +1,70 @@
+{
+  "id": 874272793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427862,41.744223,-71.427862,41.744223",
+    "geom:latitude":41.744223,
+    "geom:longitude":-71.427862,
+    "iso:country":"US",
+    "sg:address":"85 Ethan St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 0172",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yke7lGmGeeLjlfp9wzGvW_41.744223_-71.427862@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314322,
+    "wof:geomhash":"c1fda9e284498527ec7456fe75e8fd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874272793
+        }
+    ],
+    "wof:id":874272793,
+    "wof:lastmodified":1464314322,
+    "wof:name":"Ethan Place",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.427862,
+    41.744223,
+    -71.427862,
+    41.744223
+],
+  "geometry": {"coordinates":[-71.427862,41.744223],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874247573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.350766,41.750276,-71.350766,41.750276",
+    "geom:latitude":41.750276,
+    "geom:longitude":-71.350766,
+    "iso:country":"US",
+    "sg:address":"6 Leslie Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 578 2596",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BL89nXMQmeUIeE0WVN3Ab_41.750276_-71.350766@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313484,
+    "wof:geomhash":"80f712a4b761ead54e642d102b820906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874247573
+        }
+    ],
+    "wof:id":874247573,
+    "wof:lastmodified":1464313484,
+    "wof:name":"Acme Tree Svc",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -71.350766,
+    41.750276,
+    -71.350766,
+    41.750276
+],
+  "geometry": {"coordinates":[-71.35076599999999,41.750276],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874082975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448542,41.797209,-71.448542,41.797209",
+    "geom:latitude":41.797209,
+    "geom:longitude":-71.448542,
+    "iso:country":"US",
+    "sg:address":"1064 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 1662",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        85880059,
+        404488375,
+        101720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HM4x0YAGf6CjBVtJFwIfO_41.797209_-71.448542@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311589,
+    "wof:geomhash":"917f2b4018079dde70c91b50bf1f4553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874082975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874082975
+        }
+    ],
+    "wof:id":874082975,
+    "wof:lastmodified":1464311589,
+    "wof:name":"Arlington Reading Room",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.448542,
+    41.797209,
+    -71.448542,
+    41.797209
+],
+  "geometry": {"coordinates":[-71.448542,41.797209],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874276403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.266652,41.72537,-71.266652,41.72537",
+    "geom:latitude":41.72537,
+    "geom:longitude":-71.266652,
+    "iso:country":"US",
+    "sg:address":"20 Libby Ln",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2474",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SRjghM93PirDG1PvcfnuD_41.725370_-71.266652@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314474,
+    "wof:geomhash":"2648118e24a18cdc8d628907bdaf8d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874276403
+        }
+    ],
+    "wof:id":874276403,
+    "wof:lastmodified":1464314474,
+    "wof:name":"Warren Meal Site",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.266652,
+    41.72537,
+    -71.266652,
+    41.72537
+],
+  "geometry": {"coordinates":[-71.26665199999999,41.72537],"type":"Point"}
+}

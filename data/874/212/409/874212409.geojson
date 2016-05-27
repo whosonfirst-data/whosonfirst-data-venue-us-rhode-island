@@ -1,0 +1,73 @@
+{
+  "id": 874212409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466954,41.860688,-71.466954,41.860688",
+    "geom:latitude":41.860688,
+    "geom:longitude":-71.466954,
+    "iso:country":"US",
+    "sg:address":"1940 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4440",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "specializing",
+        "automotive",
+        "offer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Xt1307fKVkbyUTyLbMaet_41.860688_-71.466954@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312978,
+    "wof:geomhash":"814e168e5ebd8c9a74c04e8721b0dcb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874212409
+        }
+    ],
+    "wof:id":874212409,
+    "wof:lastmodified":1464312978,
+    "wof:name":"Cottman Transmission",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "automotive",
+        "offer"
+    ]
+},
+  "bbox": [
+    -71.466954,
+    41.860688,
+    -71.466954,
+    41.860688
+],
+  "geometry": {"coordinates":[-71.466954,41.860688],"type":"Point"}
+}

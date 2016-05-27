@@ -1,0 +1,77 @@
+{
+  "id": 874249295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460082,41.578139,-71.460082,41.578139",
+    "geom:latitude":41.578139,
+    "geom:longitude":-71.460082,
+    "iso:country":"US",
+    "sg:address":"8166 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3316",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55HbGGht4ooKv3Juwz9l2c_41.578139_-71.460082@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313545,
+    "wof:geomhash":"ed202b89b5b1133b2dd870cd6400f1bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874249295
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874249295
+        }
+    ],
+    "wof:id":874249295,
+    "wof:lastmodified":1464313545,
+    "wof:name":"Police Department",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.460082,
+    41.578139,
+    -71.460082,
+    41.578139
+],
+  "geometry": {"coordinates":[-71.460082,41.578139],"type":"Point"}
+}

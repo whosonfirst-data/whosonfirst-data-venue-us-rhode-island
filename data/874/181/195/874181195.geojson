@@ -1,0 +1,71 @@
+{
+  "id": 874181195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502197,41.866642,-71.502197,41.866642",
+    "geom:latitude":41.866642,
+    "geom:longitude":-71.502197,
+    "iso:country":"US",
+    "sg:address":"228 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 3174",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qkjzWBBINYD32Yhudq0FH_41.866642_-71.502197@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312643,
+    "wof:geomhash":"4d4fa302df648908d8aeebd01806f3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874181195
+        }
+    ],
+    "wof:id":874181195,
+    "wof:lastmodified":1464312643,
+    "wof:name":"Putnam Audio LLC",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.502197,
+    41.866642,
+    -71.502197,
+    41.866642
+],
+  "geometry": {"coordinates":[-71.502197,41.866642],"type":"Point"}
+}

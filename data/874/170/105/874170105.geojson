@@ -1,0 +1,78 @@
+{
+  "id": 874170105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428978,41.845971,-71.428978,41.845971",
+    "geom:latitude":41.845971,
+    "geom:longitude":-71.428978,
+    "iso:country":"US",
+    "sg:address":"354 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 2222",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qwGTIw7OcEQKkD5KdPKFm_41.845971_-71.428978@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312527,
+    "wof:geomhash":"27d5177f8e7afd50476013b959b0a047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874170105
+        }
+    ],
+    "wof:id":874170105,
+    "wof:lastmodified":1464312527,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.428978,
+    41.845971,
+    -71.428978,
+    41.845971
+],
+  "geometry": {"coordinates":[-71.428978,41.845971],"type":"Point"}
+}

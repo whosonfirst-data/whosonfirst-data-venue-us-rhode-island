@@ -1,0 +1,77 @@
+{
+  "id": 874091051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452174,41.657033,-71.452174,41.657033",
+    "geom:latitude":41.657033,
+    "geom:longitude":-71.452174,
+    "iso:country":"US",
+    "sg:address":"546 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 9508",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IZvNbfsDyDAHx9p6G1cgz_41.657033_-71.452174@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311675,
+    "wof:geomhash":"5a86f7b36c66dbad38b8cc26d1e7fb0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874091051
+        }
+    ],
+    "wof:id":874091051,
+    "wof:lastmodified":1464311675,
+    "wof:name":"Db Companies Inc",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -71.452174,
+    41.657033,
+    -71.452174,
+    41.657033
+],
+  "geometry": {"coordinates":[-71.452174,41.657033],"type":"Point"}
+}

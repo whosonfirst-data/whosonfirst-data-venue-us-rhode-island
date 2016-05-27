@@ -1,0 +1,71 @@
+{
+  "id": 874303397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460579,41.849887,-71.460579,41.849887",
+    "geom:latitude":41.849887,
+    "geom:longitude":-71.460579,
+    "iso:country":"US",
+    "sg:address":"1515 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8443",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rI0qwwKn1zC1ttttQoOUY_41.849887_-71.460579@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315509,
+    "wof:geomhash":"59670a281b1b4878131d827d78f448db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303397
+        }
+    ],
+    "wof:id":874303397,
+    "wof:lastmodified":1464315509,
+    "wof:name":"Freedom Mortgage Corporation",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.460579,
+    41.849887,
+    -71.460579,
+    41.849887
+],
+  "geometry": {"coordinates":[-71.460579,41.849887],"type":"Point"}
+}

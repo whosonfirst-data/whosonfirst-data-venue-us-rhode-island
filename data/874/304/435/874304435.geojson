@@ -1,0 +1,71 @@
+{
+  "id": 874304435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532722,41.914291,-71.532722,41.914291",
+    "geom:latitude":41.914291,
+    "geom:longitude":-71.532722,
+    "iso:country":"US",
+    "sg:address":"47 John Mowry Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 1031",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recording",
+        "service-sound"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Lh8hBJ051XMBqq5Mgp7aJ_41.914291_-71.532722@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315544,
+    "wof:geomhash":"f64e7ea9ea72624ec12d382250ab8702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874304435
+        }
+    ],
+    "wof:id":874304435,
+    "wof:lastmodified":1464315544,
+    "wof:name":"Smithfield Recording Group",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "service-sound"
+    ]
+},
+  "bbox": [
+    -71.532722,
+    41.914291,
+    -71.532722,
+    41.914291
+],
+  "geometry": {"coordinates":[-71.53272200000001,41.914291],"type":"Point"}
+}

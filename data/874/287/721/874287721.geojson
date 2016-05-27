@@ -1,0 +1,80 @@
+{
+  "id": 874287721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535004,41.870102,-71.535004,41.870102",
+    "geom:latitude":41.870102,
+    "geom:longitude":-71.535004,
+    "iso:country":"US",
+    "sg:address":"460 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/151766-a--w-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 9892",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "food",
+        "dog",
+        "pub",
+        "hot",
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OXSHGIe50He13CKZ9VuEf_41.870121_-71.534944@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314925,
+    "wof:geomhash":"91458a438a467636cba85fd7cb7a6995",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874287721
+        }
+    ],
+    "wof:id":874287721,
+    "wof:lastmodified":1464314925,
+    "wof:name":"A & W Restaurant",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "dog",
+        "pub",
+        "hot",
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.535004,
+    41.870102,
+    -71.535004,
+    41.870102
+],
+  "geometry": {"coordinates":[-71.535004,41.870102],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874283629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.607498,41.392899,-71.607498,41.392899",
+    "geom:latitude":41.392899,
+    "geom:longitude":-71.607498,
+    "iso:country":"US",
+    "sg:address":"3521 Post Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8970",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2khzgt1ygzm51XVjmhbnUp_41.393052_-71.607638@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314760,
+    "wof:geomhash":"6b822ae5ae7b634d29416b02ea142b7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874283629
+        }
+    ],
+    "wof:id":874283629,
+    "wof:lastmodified":1464314760,
+    "wof:name":"S B Enterprises",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -71.607498,
+    41.392899,
+    -71.607498,
+    41.392899
+],
+  "geometry": {"coordinates":[-71.60749800000001,41.392899],"type":"Point"}
+}

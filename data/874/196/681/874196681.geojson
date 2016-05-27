@@ -1,0 +1,88 @@
+{
+  "id": 874196681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403211,41.843606,-71.403211,41.843606",
+    "geom:latitude":41.843606,
+    "geom:longitude":-71.403211,
+    "iso:country":"US",
+    "sg:address":"22 Peach Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 5153",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dYc0D1ELPNFULZWPGmmJW_41.843606_-71.403211@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312812,
+    "wof:geomhash":"64b751e16b9414da64a94db6f021166f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874196681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874196681
+        }
+    ],
+    "wof:id":874196681,
+    "wof:lastmodified":1464312812,
+    "wof:name":"Sal Meo Paving",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.403211,
+    41.843606,
+    -71.403211,
+    41.843606
+],
+  "geometry": {"coordinates":[-71.403211,41.843606],"type":"Point"}
+}

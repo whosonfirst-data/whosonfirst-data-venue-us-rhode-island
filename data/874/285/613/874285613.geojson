@@ -1,0 +1,80 @@
+{
+  "id": 874285613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.207848,41.628239,-71.207848,41.628239",
+    "geom:latitude":41.628239,
+    "geom:longitude":-71.207848,
+    "iso:country":"US",
+    "sg:address":"238 Highland Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 6796",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.tivertonlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HfC1qR5KQcC3dOjK52iN_41.628518_-71.207792@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314839,
+    "wof:geomhash":"ef42144c3f0f9411c98f601dff8efc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874285613
+        }
+    ],
+    "wof:id":874285613,
+    "wof:lastmodified":1464314839,
+    "wof:name":"Essex Public Library",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.207848,
+    41.628239,
+    -71.207848,
+    41.628239
+],
+  "geometry": {"coordinates":[-71.207848,41.628239],"type":"Point"}
+}

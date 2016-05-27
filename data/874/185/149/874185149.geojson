@@ -1,0 +1,71 @@
+{
+  "id": 874185149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429478,41.927027,-71.429478,41.927027",
+    "geom:latitude":41.927027,
+    "geom:longitude":-71.429478,
+    "iso:country":"US",
+    "sg:address":"24 Martin St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 335 4430",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rEYYWEnrEdUo1gawTKevT_41.927027_-71.429478@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312692,
+    "wof:geomhash":"6977b69b12b9f2eb323775fc37dd35af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874185149
+        }
+    ],
+    "wof:id":874185149,
+    "wof:lastmodified":1464312692,
+    "wof:name":"We Dispose LLC",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.429478,
+    41.927027,
+    -71.429478,
+    41.927027
+],
+  "geometry": {"coordinates":[-71.429478,41.927027],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874284665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469498,41.82,-71.469498,41.82",
+    "geom:latitude":41.82,
+    "geom:longitude":-71.469498,
+    "iso:country":"US",
+    "sg:address":"716 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9797",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "sg:website":"www.citgo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4i3PMqMZYPCnBZ17kY6QxL_41.819984_-71.468925@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314801,
+    "wof:geomhash":"f930c06ffb0615144c5b67fa82c0eb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874284665
+        }
+    ],
+    "wof:id":874284665,
+    "wof:lastmodified":1464314801,
+    "wof:name":"Cory & Sons Citgo",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.469498,
+    41.82,
+    -71.469498,
+    41.82
+],
+  "geometry": {"coordinates":[-71.469498,41.82],"type":"Point"}
+}

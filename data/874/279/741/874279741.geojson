@@ -1,0 +1,88 @@
+{
+  "id": 874279741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451529,41.79005,-71.451529,41.79005",
+    "geom:latitude":41.79005,
+    "geom:longitude":-71.451529,
+    "iso:country":"US",
+    "sg:address":"77 Crawford St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 4920",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hjfQMjpFMoascRAgieY3H_41.790050_-71.451529@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314601,
+    "wof:geomhash":"a5697c6099f16755b90c9da8541373ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874279741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874279741
+        }
+    ],
+    "wof:id":874279741,
+    "wof:lastmodified":1464314601,
+    "wof:name":"Dee Auto Village Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.451529,
+    41.79005,
+    -71.451529,
+    41.79005
+],
+  "geometry": {"coordinates":[-71.45152899999999,41.79005],"type":"Point"}
+}

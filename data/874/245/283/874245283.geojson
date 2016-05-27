@@ -1,0 +1,81 @@
+{
+  "id": 874245283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437272,41.774741,-71.437272,41.774741",
+    "geom:latitude":41.774741,
+    "geom:longitude":-71.437272,
+    "iso:country":"US",
+    "sg:address":"95 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 9320",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14DY4AQffFyOup8hgagcwf_41.774741_-71.437272@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313439,
+    "wof:geomhash":"3a68288d2c37baa0ce75542873066afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874245283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874245283
+        }
+    ],
+    "wof:id":874245283,
+    "wof:lastmodified":1464313439,
+    "wof:name":"Salon Rose",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.437272,
+    41.774741,
+    -71.437272,
+    41.774741
+],
+  "geometry": {"coordinates":[-71.43727199999999,41.774741],"type":"Point"}
+}

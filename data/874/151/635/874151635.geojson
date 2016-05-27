@@ -1,0 +1,75 @@
+{
+  "id": 874151635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.376771,41.688782,-71.376771,41.688782",
+    "geom:latitude":41.688782,
+    "geom:longitude":-71.376771,
+    "iso:country":"US",
+    "sg:address":"155 Rocky Point Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 734 3480",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540473,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46jBtZzB7ygr92nCoQTBdb_41.688782_-71.376771@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312343,
+    "wof:geomhash":"61e3edaee98112a2091c22271bd1530b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540473,
+            "region_id":85688509,
+            "venue_id":874151635
+        }
+    ],
+    "wof:id":874151635,
+    "wof:lastmodified":1464312343,
+    "wof:name":"Warwick Neck Elementary School",
+    "wof:parent_id":420540473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.376771,
+    41.688782,
+    -71.376771,
+    41.688782
+],
+  "geometry": {"coordinates":[-71.37677100000001,41.688782],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874286951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521751,41.484481,-71.521751,41.484481",
+    "geom:latitude":41.484481,
+    "geom:longitude":-71.521751,
+    "iso:country":"US",
+    "sg:address":"56 Fortin Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/12050-pier-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 1119",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A13FReG5BGS6BrhVbVdXg_41.484481_-71.521751@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314888,
+    "wof:geomhash":"fdf1685afb01539af5239330699a69ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874286951
+        }
+    ],
+    "wof:id":874286951,
+    "wof:lastmodified":1464314888,
+    "wof:name":"Pier Pizza Company",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.521751,
+    41.484481,
+    -71.521751,
+    41.484481
+],
+  "geometry": {"coordinates":[-71.52175099999999,41.484481],"type":"Point"}
+}

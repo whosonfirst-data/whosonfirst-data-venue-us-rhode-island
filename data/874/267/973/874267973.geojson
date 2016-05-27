@@ -1,0 +1,77 @@
+{
+  "id": 874267973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426565,41.793346,-71.426565,41.793346",
+    "geom:latitude":41.793346,
+    "geom:longitude":-71.426565,
+    "iso:country":"US",
+    "sg:address":"39 Narragansett Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 8600",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6n6nxHxj34ZIRX05Ko0uTB_41.793346_-71.426565@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314149,
+    "wof:geomhash":"b43f3df0b47de160baa7bc46f202addc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874267973
+        }
+    ],
+    "wof:id":874267973,
+    "wof:lastmodified":1464314149,
+    "wof:name":"Southern New England Engine",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -71.426565,
+    41.793346,
+    -71.426565,
+    41.793346
+],
+  "geometry": {"coordinates":[-71.426565,41.793346],"type":"Point"}
+}

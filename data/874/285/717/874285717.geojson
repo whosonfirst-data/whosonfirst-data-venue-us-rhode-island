@@ -1,0 +1,77 @@
+{
+  "id": 874285717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384102,41.879799,-71.384102,41.879799",
+    "geom:latitude":41.879799,
+    "geom:longitude":-71.384102,
+    "iso:country":"US",
+    "sg:address":"72 Exchange St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 6984",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cJ5BclSfgEdtCsM1xYsDi_41.879965_-71.384584@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314847,
+    "wof:geomhash":"bff93decde66fa9e503544d470f70463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874285717
+        }
+    ],
+    "wof:id":874285717,
+    "wof:lastmodified":1464314847,
+    "wof:name":"Brake Shop Plus Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.384102,
+    41.879799,
+    -71.384102,
+    41.879799
+],
+  "geometry": {"coordinates":[-71.384102,41.879799],"type":"Point"}
+}

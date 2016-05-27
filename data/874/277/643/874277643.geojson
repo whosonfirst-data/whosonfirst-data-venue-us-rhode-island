@@ -1,0 +1,73 @@
+{
+  "id": 874277643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503421,41.521412,-71.503421,41.521412",
+    "geom:latitude":41.521412,
+    "geom:longitude":-71.503421,
+    "iso:country":"US",
+    "sg:address":"463 Glen Hill Dr",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 0602",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802815,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HnJPhH4bTPNdccM10iKpj_41.521412_-71.503421@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314522,
+    "wof:geomhash":"6672a398e1b28a2227e67b1739a5239f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85802815,
+            "region_id":85688509,
+            "venue_id":874277643
+        }
+    ],
+    "wof:id":874277643,
+    "wof:lastmodified":1464314522,
+    "wof:name":"Allan Industries",
+    "wof:parent_id":85802815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -71.503421,
+    41.521412,
+    -71.503421,
+    41.521412
+],
+  "geometry": {"coordinates":[-71.503421,41.521412],"type":"Point"}
+}

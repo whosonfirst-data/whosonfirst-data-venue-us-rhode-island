@@ -1,0 +1,88 @@
+{
+  "id": 874294287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422217,41.821493,-71.422217,41.821493",
+    "geom:latitude":41.821493,
+    "geom:longitude":-71.422217,
+    "iso:country":"US",
+    "sg:address":"151 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 259 4664",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "business",
+        "beauty"
+    ],
+    "sg:website":"http://www.empire.edu/cosmetology-schools",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hxcu7sDejNACYMGpOWBbG_41.821493_-71.422217@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315167,
+    "wof:geomhash":"1623b5232532932e7ca381a79513f923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874294287
+        }
+    ],
+    "wof:id":874294287,
+    "wof:lastmodified":1464315167,
+    "wof:name":"Empire Beauty Schools",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -71.422217,
+    41.821493,
+    -71.422217,
+    41.821493
+],
+  "geometry": {"coordinates":[-71.422217,41.821493],"type":"Point"}
+}

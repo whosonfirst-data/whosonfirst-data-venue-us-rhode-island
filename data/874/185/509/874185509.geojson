@@ -1,0 +1,71 @@
+{
+  "id": 874185509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557973,41.718162,-71.557973,41.718162",
+    "geom:latitude":41.718162,
+    "geom:longitude":-71.557973,
+    "iso:country":"US",
+    "sg:address":"700 Knotty Oak Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 9303",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HitUV0X5CrOWRGfjZONtA_41.718162_-71.557973@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312696,
+    "wof:geomhash":"7f2b18904610e7dd2ee3670392a5421c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874185509
+        }
+    ],
+    "wof:id":874185509,
+    "wof:lastmodified":1464312696,
+    "wof:name":"Chapdelaine Excavating",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.557973,
+    41.718162,
+    -71.557973,
+    41.718162
+],
+  "geometry": {"coordinates":[-71.557973,41.718162],"type":"Point"}
+}

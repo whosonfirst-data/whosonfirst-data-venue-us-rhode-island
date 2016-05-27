@@ -1,0 +1,71 @@
+{
+  "id": 874304637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481912,41.83777,-71.481912,41.83777",
+    "geom:latitude":41.83777,
+    "geom:longitude":-71.481912,
+    "iso:country":"US",
+    "sg:address":"235 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4333",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vVe4J8mjxr43J0LKnNh3b_41.837770_-71.481912@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315551,
+    "wof:geomhash":"375c9d05c5db4c9ea52dbc051c68276f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304637
+        }
+    ],
+    "wof:id":874304637,
+    "wof:lastmodified":1464315551,
+    "wof:name":"Cafe' Andiamo",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.481912,
+    41.83777,
+    -71.481912,
+    41.83777
+],
+  "geometry": {"coordinates":[-71.48191199999999,41.83777],"type":"Point"}
+}

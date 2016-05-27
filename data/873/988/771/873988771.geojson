@@ -1,0 +1,82 @@
+{
+  "id": 873988771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485921,41.453856,-71.485921,41.453856",
+    "geom:latitude":41.453856,
+    "geom:longitude":-71.485921,
+    "iso:country":"US",
+    "sg:address":"351 Broad Rock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 6223",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:website":"www.skschools.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LZnxwb9KuMcOmRdU3zLbH_41.453856_-71.485921@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310681,
+    "wof:geomhash":"4f7b13b3d13d75ee32ba995666f83691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":873988771
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":873988771
+        }
+    ],
+    "wof:id":873988771,
+    "wof:lastmodified":1464310681,
+    "wof:name":"Broad Rock Middle School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.485921,
+    41.453856,
+    -71.485921,
+    41.453856
+],
+  "geometry": {"coordinates":[-71.485921,41.453856],"type":"Point"}
+}

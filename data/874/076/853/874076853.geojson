@@ -1,0 +1,73 @@
+{
+  "id": 874076853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502201,42.036259,-71.502201,42.036259",
+    "geom:latitude":42.036259,
+    "geom:longitude":-71.502201,
+    "iso:country":"US",
+    "sg:address":"55 Elm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 9331",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZFN7nUXJnyzF7I76clZEG_42.036259_-71.502201@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311519,
+    "wof:geomhash":"c6adff0b469b785d0c5813e297723b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874076853
+        }
+    ],
+    "wof:id":874076853,
+    "wof:lastmodified":1464311519,
+    "wof:name":"Blackstone Water Dept",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.502201,
+    42.036259,
+    -71.502201,
+    42.036259
+],
+  "geometry": {"coordinates":[-71.502201,42.036259],"type":"Point"}
+}

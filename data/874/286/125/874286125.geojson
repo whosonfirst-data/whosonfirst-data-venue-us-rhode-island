@@ -1,0 +1,70 @@
+{
+  "id": 874286125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415398,41.879501,-71.415398,41.879501",
+    "geom:latitude":41.879501,
+    "geom:longitude":-71.415398,
+    "iso:country":"US",
+    "sg:address":"607 Smithfield Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 4702",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_720XdMr2QO4682kTHXlbTv_41.879412_-71.415454@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314861,
+    "wof:geomhash":"320329814e6f1092fab39b1a115c9683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874286125
+        }
+    ],
+    "wof:id":874286125,
+    "wof:lastmodified":1464314861,
+    "wof:name":"Theater Tap",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.415398,
+    41.879501,
+    -71.415398,
+    41.879501
+],
+  "geometry": {"coordinates":[-71.415398,41.879501],"type":"Point"}
+}

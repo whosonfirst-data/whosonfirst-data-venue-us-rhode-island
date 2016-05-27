@@ -1,0 +1,88 @@
+{
+  "id": 874293019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.503607,41.436014,-71.503607,41.436014",
+    "geom:latitude":41.436014,
+    "geom:longitude":-71.503607,
+    "iso:country":"US",
+    "sg:address":"481 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2400",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s8Juwfi26nSPMicL5pZwq_41.436014_-71.503607@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315124,
+    "wof:geomhash":"ea609e3db62562dfb9da4fd8df6bc787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293019
+        }
+    ],
+    "wof:id":874293019,
+    "wof:lastmodified":1464315124,
+    "wof:name":"Troob, Howard J",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -71.503607,
+    41.436014,
+    -71.503607,
+    41.436014
+],
+  "geometry": {"coordinates":[-71.503607,41.436014],"type":"Point"}
+}

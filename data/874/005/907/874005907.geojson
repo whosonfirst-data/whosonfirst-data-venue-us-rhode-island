@@ -1,0 +1,73 @@
+{
+  "id": 874005907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408485,41.893471,-71.408485,41.893471",
+    "geom:latitude":41.893471,
+    "geom:longitude":-71.408485,
+    "iso:country":"US",
+    "sg:address":"60 Moshassuck Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 9060",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_095U9JADbrl3pmG2Ipehiz_41.893471_-71.408485@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310824,
+    "wof:geomhash":"4b11a42efb000103dcd2371e3e485ede",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874005907
+        }
+    ],
+    "wof:id":874005907,
+    "wof:lastmodified":1464310824,
+    "wof:name":"Wsa Trucking Co",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.408485,
+    41.893471,
+    -71.408485,
+    41.893471
+],
+  "geometry": {"coordinates":[-71.408485,41.893471],"type":"Point"}
+}

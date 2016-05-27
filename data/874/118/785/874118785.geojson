@@ -1,0 +1,71 @@
+{
+  "id": 874118785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432343,41.474007,-71.432343,41.474007",
+    "geom:latitude":41.474007,
+    "geom:longitude":-71.432343,
+    "iso:country":"US",
+    "sg:address":"36 Conanicut Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8293",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2auNJXiuAWPowPgmJMauSu_41.474007_-71.432343@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312023,
+    "wof:geomhash":"77be0d568517964801245f60ad71b943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874118785
+        }
+    ],
+    "wof:id":874118785,
+    "wof:lastmodified":1464312023,
+    "wof:name":"Providence Cleaners Inc",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.432343,
+    41.474007,
+    -71.432343,
+    41.474007
+],
+  "geometry": {"coordinates":[-71.432343,41.474007],"type":"Point"}
+}

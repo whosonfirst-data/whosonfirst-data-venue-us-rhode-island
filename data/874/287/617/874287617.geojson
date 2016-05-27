@@ -1,0 +1,78 @@
+{
+  "id": 874287617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472347,41.788413,-71.472347,41.788413",
+    "geom:latitude":41.788413,
+    "geom:longitude":-71.472347,
+    "iso:country":"US",
+    "sg:address":"475 Atwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/139887-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 275 5513",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ghBLGpZSHsUMT5vySUQYC_41.788413_-71.472347@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"fe3c32be8c6ebb1de8f4e9f0e7bca3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874287617
+        }
+    ],
+    "wof:id":874287617,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Subway",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.472347,
+    41.788413,
+    -71.472347,
+    41.788413
+],
+  "geometry": {"coordinates":[-71.472347,41.788413],"type":"Point"}
+}

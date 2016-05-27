@@ -1,0 +1,73 @@
+{
+  "id": 874010159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423715,41.864178,-71.423715,41.864178",
+    "geom:latitude":41.864178,
+    "geom:longitude":-71.423715,
+    "iso:country":"US",
+    "sg:address":"974 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 5133",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eeMzIdFsqyFaSJN4NMsbY_41.864178_-71.423715@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310857,
+    "wof:geomhash":"1f52740de56e5451e77adb9dd12faa6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874010159
+        }
+    ],
+    "wof:id":874010159,
+    "wof:lastmodified":1464310857,
+    "wof:name":"Aura",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.423715,
+    41.864178,
+    -71.423715,
+    41.864178
+],
+  "geometry": {"coordinates":[-71.423715,41.864178],"type":"Point"}
+}

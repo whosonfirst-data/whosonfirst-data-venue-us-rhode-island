@@ -1,0 +1,71 @@
+{
+  "id": 874304827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470118,41.825497,-71.470118,41.825497",
+    "geom:latitude":41.825497,
+    "geom:longitude":-71.470118,
+    "iso:country":"US",
+    "sg:address":"34 Oakdale Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 2210",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oDTAYRJ0dULFRA6mHl6R7_41.825497_-71.470118@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315558,
+    "wof:geomhash":"63a466301e39b4aa120191ad80488d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304827
+        }
+    ],
+    "wof:id":874304827,
+    "wof:lastmodified":1464315558,
+    "wof:name":"Alfred Calcagni and Son",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.470118,
+    41.825497,
+    -71.470118,
+    41.825497
+],
+  "geometry": {"coordinates":[-71.470118,41.825497],"type":"Point"}
+}

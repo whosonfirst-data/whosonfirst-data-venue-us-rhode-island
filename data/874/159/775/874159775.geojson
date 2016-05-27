@@ -1,0 +1,71 @@
+{
+  "id": 874159775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481689,41.821273,-71.481689,41.821273",
+    "geom:latitude":41.821273,
+    "geom:longitude":-71.481689,
+    "iso:country":"US",
+    "sg:address":"1005 Hartford Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 8500",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "estimate",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05gy45tZKmz1aEDqgeZkqU_41.821273_-71.481689@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312429,
+    "wof:geomhash":"f1e81ba895eb2b55d1f7f02c3aab8225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874159775
+        }
+    ],
+    "wof:id":874159775,
+    "wof:lastmodified":1464312429,
+    "wof:name":"HTE Power Systems",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "estimate",
+        "construction"
+    ]
+},
+  "bbox": [
+    -71.481689,
+    41.821273,
+    -71.481689,
+    41.821273
+],
+  "geometry": {"coordinates":[-71.481689,41.821273],"type":"Point"}
+}

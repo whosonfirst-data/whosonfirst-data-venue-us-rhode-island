@@ -1,0 +1,79 @@
+{
+  "id": 874089555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405933,41.804879,-71.405933,41.804879",
+    "geom:latitude":41.804879,
+    "geom:longitude":-71.405933,
+    "iso:country":"US",
+    "sg:address":"216 Swan St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 3660",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RVVhHayNoHljyaz4mqdii_41.804879_-71.405933@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311656,
+    "wof:geomhash":"56de94e5e61bb927b87588f34830a992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874089555
+        }
+    ],
+    "wof:id":874089555,
+    "wof:lastmodified":1464311656,
+    "wof:name":"Universal Auto Body",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.405933,
+    41.804879,
+    -71.405933,
+    41.804879
+],
+  "geometry": {"coordinates":[-71.405933,41.804879],"type":"Point"}
+}

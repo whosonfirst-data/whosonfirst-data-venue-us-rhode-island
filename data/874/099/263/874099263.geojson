@@ -1,0 +1,69 @@
+{
+  "id": 874099263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649477,41.386306,-71.649477,41.386306",
+    "geom:latitude":41.386306,
+    "geom:longitude":-71.649477,
+    "iso:country":"US",
+    "sg:address":"4891 US Hwy 1",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3742",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w7S3FJno11HgBArzjRg77_41.386306_-71.649477@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311776,
+    "wof:geomhash":"dc0bd0f52a6d7e8a2ae391f9bd2e7839",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874099263
+        }
+    ],
+    "wof:id":874099263,
+    "wof:lastmodified":1464311776,
+    "wof:name":"Charlestown Ambulance Svc Inc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.649477,
+    41.386306,
+    -71.649477,
+    41.386306
+],
+  "geometry": {"coordinates":[-71.649477,41.386306],"type":"Point"}
+}

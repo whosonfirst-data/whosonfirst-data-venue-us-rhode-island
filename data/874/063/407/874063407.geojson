@@ -1,0 +1,71 @@
+{
+  "id": 874063407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308621,41.484095,-71.308621,41.484095",
+    "geom:latitude":41.484095,
+    "geom:longitude":-71.308621,
+    "iso:country":"US",
+    "sg:address":"123 Bellevue Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4220",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:website":"www.capitolrealtyri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PmM5Hp2OepmyiCYQQjaxR_41.484095_-71.308621@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"918460a8054777b37ae964234d43e29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874063407
+        }
+    ],
+    "wof:id":874063407,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Capitol Realty Co",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.308621,
+    41.484095,
+    -71.308621,
+    41.484095
+],
+  "geometry": {"coordinates":[-71.308621,41.484095],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874264853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581794,41.652468,-71.581794,41.652468",
+    "geom:latitude":41.652468,
+    "geom:longitude":-71.581794,
+    "iso:country":"US",
+    "sg:address":"75 Mohawk Trl",
+    "sg:city":"West Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 397 4317",
+    "sg:postcode":"02817",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14rHEdUkNLmlincIrdFaN5_41.652468_-71.581794@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314029,
+    "wof:geomhash":"47f2e94203137862ba93307e432e16d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874264853
+        }
+    ],
+    "wof:id":874264853,
+    "wof:lastmodified":1464314029,
+    "wof:name":"Mohawk Painting Inc",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.581794,
+    41.652468,
+    -71.581794,
+    41.652468
+],
+  "geometry": {"coordinates":[-71.581794,41.652468],"type":"Point"}
+}

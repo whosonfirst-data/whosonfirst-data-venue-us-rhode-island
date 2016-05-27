@@ -1,0 +1,86 @@
+{
+  "id": 874125597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447738,41.575813,-71.447738,41.575813",
+    "geom:latitude":41.575813,
+    "geom:longitude":-71.447738,
+    "iso:country":"US",
+    "sg:address":"160 Pleasant St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2791",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "transporting",
+        "boat",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yOq5xpm1I8KT9LLKej9xF_41.575813_-71.447738@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312091,
+    "wof:geomhash":"c2938d0a544e1ab85ff6decb262d13bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874125597
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874125597
+        }
+    ],
+    "wof:id":874125597,
+    "wof:lastmodified":1464312091,
+    "wof:name":"Pleasant Street Wharf Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transporting",
+        "boat",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.447738,
+    41.575813,
+    -71.447738,
+    41.575813
+],
+  "geometry": {"coordinates":[-71.447738,41.575813],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874272493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411516,41.879034,-71.411516,41.879034",
+    "geom:latitude":41.879034,
+    "geom:longitude":-71.411516,
+    "iso:country":"US",
+    "sg:address":"35 Jane St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8358",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZbuiEG4SXL1ZPlcGysgoh_41.879034_-71.411516@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314312,
+    "wof:geomhash":"89368f4788e452b2d965bee0ce97d9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874272493
+        }
+    ],
+    "wof:id":874272493,
+    "wof:lastmodified":1464314312,
+    "wof:name":"Gem-Kam Trucking Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.411516,
+    41.879034,
+    -71.411516,
+    41.879034
+],
+  "geometry": {"coordinates":[-71.41151600000001,41.879034],"type":"Point"}
+}

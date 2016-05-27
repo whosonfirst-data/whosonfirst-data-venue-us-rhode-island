@@ -1,0 +1,88 @@
+{
+  "id": 874227191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453223,41.79081,-71.453223,41.79081",
+    "geom:latitude":41.79081,
+    "geom:longitude":-71.453223,
+    "iso:country":"US",
+    "sg:address":"1277 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 275 6021",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "help",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kRizwKnT4ISZGRByxPwjs_41.790810_-71.453223@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313132,
+    "wof:geomhash":"5b6413985ee26c65d0a9a1e961ef9c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874227191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874227191
+        }
+    ],
+    "wof:id":874227191,
+    "wof:lastmodified":1464313132,
+    "wof:name":"Temp Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "help",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.453223,
+    41.79081,
+    -71.453223,
+    41.79081
+],
+  "geometry": {"coordinates":[-71.45322299999999,41.79081],"type":"Point"}
+}

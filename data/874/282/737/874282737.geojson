@@ -1,0 +1,72 @@
+{
+  "id": 874282737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445198,41.8578,-71.445198,41.8578",
+    "geom:latitude":41.8578,
+    "geom:longitude":-71.445198,
+    "iso:country":"US",
+    "sg:address":"1189 Douglas Ave",
+    "sg:city":"N Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 9500",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.detroitcollisioncenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TsAYlOeey1D61FmAk4b5x_41.858039_-71.445229@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314731,
+    "wof:geomhash":"0d8ce68ac2297b4ef51d6b0fb72d9c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874282737
+        }
+    ],
+    "wof:id":874282737,
+    "wof:lastmodified":1464314731,
+    "wof:name":"Detroit Collision Center",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.445198,
+    41.8578,
+    -71.445198,
+    41.8578
+],
+  "geometry": {"coordinates":[-71.445198,41.8578],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874257073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549335,41.916068,-71.549335,41.916068",
+    "geom:latitude":41.916068,
+    "geom:longitude":-71.549335,
+    "iso:country":"US",
+    "sg:address":"21 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5113",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aptKZJGMKp1RAlyByetIU_41.916068_-71.549335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313724,
+    "wof:geomhash":"fb1cf5d141e2e96db1652d4570047ad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874257073
+        }
+    ],
+    "wof:id":874257073,
+    "wof:lastmodified":1464313724,
+    "wof:name":"Glass America Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -71.549335,
+    41.916068,
+    -71.549335,
+    41.916068
+],
+  "geometry": {"coordinates":[-71.549335,41.916068],"type":"Point"}
+}

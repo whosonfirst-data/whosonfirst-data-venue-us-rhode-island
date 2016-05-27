@@ -1,0 +1,71 @@
+{
+  "id": 874217209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401236,41.853329,-71.401236,41.853329",
+    "geom:latitude":41.853329,
+    "geom:longitude":-71.401236,
+    "iso:country":"US",
+    "sg:address":"1200 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 7104",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:website":"www.brooks-rx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ADGkfXo16hkUoPCsvDDsy_41.853329_-71.401236@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313024,
+    "wof:geomhash":"80ba1c737643b5955a8b487865690e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874217209
+        }
+    ],
+    "wof:id":874217209,
+    "wof:lastmodified":1464313024,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.401236,
+    41.853329,
+    -71.401236,
+    41.853329
+],
+  "geometry": {"coordinates":[-71.401236,41.853329],"type":"Point"}
+}

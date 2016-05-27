@@ -1,0 +1,73 @@
+{
+  "id": 874239279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275491,41.57617,-71.275491,41.57617",
+    "geom:latitude":41.57617,
+    "geom:longitude":-71.275491,
+    "iso:country":"US",
+    "sg:address":"13 Debra Dr",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 9283",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ksRkbPkX2POJkcT5QBcCF_41.576170_-71.275491@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313327,
+    "wof:geomhash":"8cecdcd807eee90b4a882eca177df8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874239279
+        }
+    ],
+    "wof:id":874239279,
+    "wof:lastmodified":1464313327,
+    "wof:name":"Well Works LLC",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.275491,
+    41.57617,
+    -71.275491,
+    41.57617
+],
+  "geometry": {"coordinates":[-71.275491,41.57617],"type":"Point"}
+}

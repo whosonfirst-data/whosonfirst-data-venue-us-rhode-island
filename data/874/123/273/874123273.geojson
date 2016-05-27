@@ -1,0 +1,75 @@
+{
+  "id": 874123273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431625,41.786682,-71.431625,41.786682",
+    "geom:latitude":41.786682,
+    "geom:longitude":-71.431625,
+    "iso:country":"US",
+    "sg:address":"93 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 345 2564",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SH6ceRNQleK6plP2hS7LE_41.786682_-71.431625@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"b393be0b33c1edae60be58f0fd392fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874123273
+        }
+    ],
+    "wof:id":874123273,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Alex Commercial Cleaning Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.431625,
+    41.786682,
+    -71.431625,
+    41.786682
+],
+  "geometry": {"coordinates":[-71.431625,41.786682],"type":"Point"}
+}

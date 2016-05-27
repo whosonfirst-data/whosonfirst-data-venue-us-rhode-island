@@ -1,0 +1,75 @@
+{
+  "id": 874236703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299331,41.545617,-71.299331,41.545617",
+    "geom:latitude":41.545617,
+    "geom:longitude":-71.299331,
+    "iso:country":"US",
+    "sg:address":"14 Jean Ter",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 1964",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WGf7ie7h9cq9hhhEH6vd9_41.545617_-71.299331@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313278,
+    "wof:geomhash":"d16b11ab900bc824ce6770dac5624d9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874236703
+        }
+    ],
+    "wof:id":874236703,
+    "wof:lastmodified":1464313278,
+    "wof:name":"M & Mff Co",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.299331,
+    41.545617,
+    -71.299331,
+    41.545617
+],
+  "geometry": {"coordinates":[-71.299331,41.545617],"type":"Point"}
+}

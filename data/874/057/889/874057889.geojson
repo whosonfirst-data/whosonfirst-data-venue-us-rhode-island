@@ -1,0 +1,71 @@
+{
+  "id": 874057889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466125,41.644464,-71.466125,41.644464",
+    "geom:latitude":41.644464,
+    "geom:longitude":-71.466125,
+    "iso:country":"US",
+    "sg:address":"25 Power St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 0455",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ELKJryFeZY1JFZxHiaseT_41.644464_-71.466125@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311316,
+    "wof:geomhash":"0171f9c6ffbcda27ab9b3b8304bb68ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874057889
+        }
+    ],
+    "wof:id":874057889,
+    "wof:lastmodified":1464311316,
+    "wof:name":"Dennis L Guckian",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.466125,
+    41.644464,
+    -71.466125,
+    41.644464
+],
+  "geometry": {"coordinates":[-71.46612500000001,41.644464],"type":"Point"}
+}

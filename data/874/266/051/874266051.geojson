@@ -1,0 +1,85 @@
+{
+  "id": 874266051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40025,41.82926,-71.40025,41.82926",
+    "geom:latitude":41.82926,
+    "geom:longitude":-71.40025,
+    "iso:country":"US",
+    "sg:address":"242 Meeting St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 8848",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nonphysical",
+        "commercial",
+        "historical"
+    ],
+    "sg:website":"www.biographical.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jm2bwYcOTNIvtADpkVTRY_41.829260_-71.400250@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314073,
+    "wof:geomhash":"905e86a4c65c3420560af8bf860d9c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874266051
+        }
+    ],
+    "wof:id":874266051,
+    "wof:lastmodified":1464314073,
+    "wof:name":"Erikson Biographical Institute",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial",
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.40025,
+    41.82926,
+    -71.40025,
+    41.82926
+],
+  "geometry": {"coordinates":[-71.40025,41.82926],"type":"Point"}
+}

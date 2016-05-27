@@ -1,0 +1,86 @@
+{
+  "id": 874153455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439498,41.780676,-71.439498,41.780676",
+    "geom:latitude":41.780676,
+    "geom:longitude":-71.439498,
+    "iso:country":"US",
+    "sg:address":"945 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 0540",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PT8uSnvalcIQpZIbDw3Nl_41.780676_-71.439498@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312360,
+    "wof:geomhash":"b31972573874861b38e63c40dac0e08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874153455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874153455
+        }
+    ],
+    "wof:id":874153455,
+    "wof:lastmodified":1464312360,
+    "wof:name":"Reilly For Mayor Headquarters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.439498,
+    41.780676,
+    -71.439498,
+    41.780676
+],
+  "geometry": {"coordinates":[-71.439498,41.780676],"type":"Point"}
+}

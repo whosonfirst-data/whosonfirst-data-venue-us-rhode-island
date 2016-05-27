@@ -1,0 +1,83 @@
+{
+  "id": 874285279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413498,41.850899,-71.413498,41.850899",
+    "geom:latitude":41.850899,
+    "geom:longitude":-71.413498,
+    "iso:country":"US",
+    "sg:address":"162 Metcalf St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 5013",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary",
+        "school",
+        "care",
+        "day",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Jt3vUoKz5jQ0z1AQhyZcv_41.850778_-71.413701@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314821,
+    "wof:geomhash":"dd83894c31f5074e82b380bf2f2ebba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874285279
+        }
+    ],
+    "wof:id":874285279,
+    "wof:lastmodified":1464314821,
+    "wof:name":"Love 4 All",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school",
+        "care",
+        "day",
+        "child"
+    ]
+},
+  "bbox": [
+    -71.413498,
+    41.850899,
+    -71.413498,
+    41.850899
+],
+  "geometry": {"coordinates":[-71.413498,41.850899],"type":"Point"}
+}

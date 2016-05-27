@@ -1,0 +1,69 @@
+{
+  "id": 874091381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.250532,41.578371,-71.250532,41.578371",
+    "geom:latitude":41.578371,
+    "geom:longitude":-71.250532,
+    "iso:country":"US",
+    "sg:address":"75 Sherwood Ter",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0665",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RLu2KwBkXNOA2aHvrp6MT_41.578371_-71.250532@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311680,
+    "wof:geomhash":"d3bad5c8bed25c058a80c5256588f5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874091381
+        }
+    ],
+    "wof:id":874091381,
+    "wof:lastmodified":1464311680,
+    "wof:name":"John Arruda Construction",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.250532,
+    41.578371,
+    -71.250532,
+    41.578371
+],
+  "geometry": {"coordinates":[-71.25053200000001,41.578371],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874020173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252806,41.587078,-71.252806,41.587078",
+    "geom:latitude":41.587078,
+    "geom:longitude":-71.252806,
+    "iso:country":"US",
+    "sg:address":"2050 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0808",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "runway",
+        "dog",
+        "enclosure"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SECST7xPnMbK4LUvz7JCg_41.587078_-71.252806@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310950,
+    "wof:geomhash":"df798e2946bd587566c374f14126c53a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874020173
+        }
+    ],
+    "wof:id":874020173,
+    "wof:lastmodified":1464310950,
+    "wof:name":"Invisible Fence",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "runway",
+        "dog",
+        "enclosure"
+    ]
+},
+  "bbox": [
+    -71.252806,
+    41.587078,
+    -71.252806,
+    41.587078
+],
+  "geometry": {"coordinates":[-71.25280600000001,41.587078],"type":"Point"}
+}

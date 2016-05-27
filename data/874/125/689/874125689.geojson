@@ -1,0 +1,71 @@
+{
+  "id": 874125689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445228,41.62779,-71.445228,41.62779",
+    "geom:latitude":41.62779,
+    "geom:longitude":-71.445228,
+    "iso:country":"US",
+    "sg:address":"200 Briarbrook Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 8778",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837947,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30xAnnrYR4bjJGMWmpMDMS_41.627790_-71.445228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312092,
+    "wof:geomhash":"b27ca7d0034678ce76a70c5747c00e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85837947,
+            "region_id":85688509,
+            "venue_id":874125689
+        }
+    ],
+    "wof:id":874125689,
+    "wof:lastmodified":1464312092,
+    "wof:name":"D & M Concrete Forms Inc",
+    "wof:parent_id":85837947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.445228,
+    41.62779,
+    -71.445228,
+    41.62779
+],
+  "geometry": {"coordinates":[-71.445228,41.62779],"type":"Point"}
+}

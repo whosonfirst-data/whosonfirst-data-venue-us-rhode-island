@@ -1,0 +1,78 @@
+{
+  "id": 874288093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420609,41.815353,-71.420609,41.815353",
+    "geom:latitude":41.815353,
+    "geom:longitude":-71.420609,
+    "iso:country":"US",
+    "sg:address":"280 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/215261-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 3205",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o1WMyrs5lxHd3RMaLjYoJ_41.814754_-71.420952@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314939,
+    "wof:geomhash":"b041ff446443f2d849c9f798f5f54cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874288093
+        }
+    ],
+    "wof:id":874288093,
+    "wof:lastmodified":1464314939,
+    "wof:name":"Burger King",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.420609,
+    41.815353,
+    -71.420609,
+    41.815353
+],
+  "geometry": {"coordinates":[-71.420609,41.815353],"type":"Point"}
+}

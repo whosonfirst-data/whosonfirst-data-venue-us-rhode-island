@@ -1,0 +1,77 @@
+{
+  "id": 874043179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500522,41.684598,-71.500522,41.684598",
+    "geom:latitude":41.684598,
+    "geom:longitude":-71.500522,
+    "iso:country":"US",
+    "sg:address":"444 Quaker Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 384 6537",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540483,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jAqU8M2SB09MDYC0frQXc_41.684598_-71.500522@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311178,
+    "wof:geomhash":"c53218015ab5d009a633f5a0ff2015b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540483,
+            "region_id":85688509,
+            "venue_id":874043179
+        }
+    ],
+    "wof:id":874043179,
+    "wof:lastmodified":1464311178,
+    "wof:name":"St James Surgery Ctr",
+    "wof:parent_id":420540483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.500522,
+    41.684598,
+    -71.500522,
+    41.684598
+],
+  "geometry": {"coordinates":[-71.500522,41.684598],"type":"Point"}
+}

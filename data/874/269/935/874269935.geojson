@@ -1,0 +1,71 @@
+{
+  "id": 874269935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.771272,41.357346,-71.771272,41.357346",
+    "geom:latitude":41.357346,
+    "geom:longitude":-71.771272,
+    "iso:country":"US",
+    "sg:address":"34 Dunns Corner Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 7526",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SSD5dA08nSMA9QH3iGz4f_41.357346_-71.771272@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314224,
+    "wof:geomhash":"67dc5ead9461c332a5df4c657292c287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874269935
+        }
+    ],
+    "wof:id":874269935,
+    "wof:lastmodified":1464314224,
+    "wof:name":"JCM Construction Co",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.771272,
+    41.357346,
+    -71.771272,
+    41.357346
+],
+  "geometry": {"coordinates":[-71.771272,41.357346],"type":"Point"}
+}

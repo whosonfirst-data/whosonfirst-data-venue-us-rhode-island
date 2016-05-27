@@ -1,0 +1,77 @@
+{
+  "id": 874243599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442608,41.730168,-71.442608,41.730168",
+    "geom:latitude":41.730168,
+    "geom:longitude":-71.442608,
+    "iso:country":"US",
+    "sg:address":"647 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 5843",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dutI9XOaaXMF6NVUWppxg_41.730168_-71.442608@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313405,
+    "wof:geomhash":"b192b7864d80b53297b4a8c04a3b15b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874243599
+        }
+    ],
+    "wof:id":874243599,
+    "wof:lastmodified":1464313405,
+    "wof:name":"Skin Medicine Billing & Adm",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.442608,
+    41.730168,
+    -71.442608,
+    41.730168
+],
+  "geometry": {"coordinates":[-71.44260800000001,41.730168],"type":"Point"}
+}

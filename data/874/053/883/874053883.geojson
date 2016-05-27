@@ -1,0 +1,79 @@
+{
+  "id": 874053883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445616,41.714991,-71.445616,41.714991",
+    "geom:latitude":41.714991,
+    "geom:longitude":-71.445616,
+    "iso:country":"US",
+    "sg:address":"2406 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 0435",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ovBH9efWHhi2YreCxA0M3_41.714991_-71.445616@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311277,
+    "wof:geomhash":"1c04dfcaf9e191f043b85f0436a94210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874053883
+        }
+    ],
+    "wof:id":874053883,
+    "wof:lastmodified":1464311277,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.445616,
+    41.714991,
+    -71.445616,
+    41.714991
+],
+  "geometry": {"coordinates":[-71.445616,41.714991],"type":"Point"}
+}

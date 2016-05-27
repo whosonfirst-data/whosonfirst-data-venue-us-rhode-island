@@ -1,0 +1,72 @@
+{
+  "id": 874292077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454454,41.938733,-71.454454,41.938733",
+    "geom:latitude":41.938733,
+    "geom:longitude":-71.454454,
+    "iso:country":"US",
+    "sg:address":"1 Commerce St Ste 4",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 793 8500",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "sg:website":"www.anchormedical.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_372JDycpBdviEnO8FfJgRC_41.938733_-71.454454@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315092,
+    "wof:geomhash":"87085bef40efba452fd2c07346618da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292077
+        }
+    ],
+    "wof:id":874292077,
+    "wof:lastmodified":1464315092,
+    "wof:name":"Anchor Medical Associates Adult Medicine",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.454454,
+    41.938733,
+    -71.454454,
+    41.938733
+],
+  "geometry": {"coordinates":[-71.454454,41.938733],"type":"Point"}
+}

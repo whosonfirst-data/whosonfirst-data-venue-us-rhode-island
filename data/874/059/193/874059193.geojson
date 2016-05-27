@@ -1,0 +1,73 @@
+{
+  "id": 874059193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367135,41.895213,-71.367135,41.895213",
+    "geom:latitude":41.895213,
+    "geom:longitude":-71.367135,
+    "iso:country":"US",
+    "sg:address":"12 Dickens St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 1679",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85950363,
+        102084407,
+        85803891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RalIB4PZwmUrOBTW9kTvN_41.895213_-71.367135@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311328,
+    "wof:geomhash":"f770a28e77d0b16cc2f71389771a83b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084407,
+            "locality_id":85950363,
+            "neighbourhood_id":85803891,
+            "region_id":85688645,
+            "venue_id":874059193
+        }
+    ],
+    "wof:id":874059193,
+    "wof:lastmodified":1464311328,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85803891,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.367135,
+    41.895213,
+    -71.367135,
+    41.895213
+],
+  "geometry": {"coordinates":[-71.367135,41.895213],"type":"Point"}
+}

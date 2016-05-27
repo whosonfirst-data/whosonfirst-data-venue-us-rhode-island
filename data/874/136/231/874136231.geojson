@@ -1,0 +1,77 @@
+{
+  "id": 874136231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44267,41.569544,-71.44267,41.569544",
+    "geom:latitude":41.569544,
+    "geom:longitude":-71.44267,
+    "iso:country":"US",
+    "sg:address":"61 Lexington Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1020",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_425mQuNpI6tcnfX4HPniT7_41.569544_-71.442670@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312202,
+    "wof:geomhash":"588f05e0fc90a76abcc4ffbaef71c4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874136231
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874136231
+        }
+    ],
+    "wof:id":874136231,
+    "wof:lastmodified":1464312202,
+    "wof:name":"Andrews Building",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.44267,
+    41.569544,
+    -71.44267,
+    41.569544
+],
+  "geometry": {"coordinates":[-71.44267000000001,41.569544],"type":"Point"}
+}

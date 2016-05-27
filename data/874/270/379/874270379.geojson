@@ -1,0 +1,77 @@
+{
+  "id": 874270379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408103,41.809398,-71.408103,41.809398",
+    "geom:latitude":41.809398,
+    "geom:longitude":-71.408103,
+    "iso:country":"US",
+    "sg:address":"45 Willard Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 1122",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department",
+        "finance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hVsYV7UaOVZ3zOYvYIQEf_41.809398_-71.408103@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314238,
+    "wof:geomhash":"37864e0943cee7f1d2d2edde2314f5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874270379
+        }
+    ],
+    "wof:id":874270379,
+    "wof:lastmodified":1464314238,
+    "wof:name":"Finance Department",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "finance"
+    ]
+},
+  "bbox": [
+    -71.408103,
+    41.809398,
+    -71.408103,
+    41.809398
+],
+  "geometry": {"coordinates":[-71.408103,41.809398],"type":"Point"}
+}

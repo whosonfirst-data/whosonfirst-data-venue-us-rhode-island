@@ -1,0 +1,70 @@
+{
+  "id": 874249957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438358,41.804478,-71.438358,41.804478",
+    "geom:latitude":41.804478,
+    "geom:longitude":-71.438358,
+    "iso:country":"US",
+    "sg:address":"722 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 632 4550",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZJbJC360HZy0GrBjciXlb_41.804478_-71.438358@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313565,
+    "wof:geomhash":"c477ebdbe987aea550d2afe3358f7178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874249957
+        }
+    ],
+    "wof:id":874249957,
+    "wof:lastmodified":1464313565,
+    "wof:name":"Laundry World",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.438358,
+    41.804478,
+    -71.438358,
+    41.804478
+],
+  "geometry": {"coordinates":[-71.43835799999999,41.804478],"type":"Point"}
+}

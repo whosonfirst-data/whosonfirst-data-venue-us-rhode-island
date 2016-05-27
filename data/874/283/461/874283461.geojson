@@ -1,0 +1,75 @@
+{
+  "id": 874283461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179159,41.668371,-71.179159,41.668371",
+    "geom:latitude":41.668371,
+    "geom:longitude":-71.179159,
+    "iso:country":"US",
+    "sg:address":"16 Mill St",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 6094",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bg18Z4OLfaGGRjNhOPYXz_41.668259_-71.179081@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314755,
+    "wof:geomhash":"3403a18eff8524b67271bd899fc3f7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874283461
+        }
+    ],
+    "wof:id":874283461,
+    "wof:lastmodified":1464314755,
+    "wof:name":"Newport Plumbing & Heating",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -71.179159,
+    41.668371,
+    -71.179159,
+    41.668371
+],
+  "geometry": {"coordinates":[-71.179159,41.668371],"type":"Point"}
+}

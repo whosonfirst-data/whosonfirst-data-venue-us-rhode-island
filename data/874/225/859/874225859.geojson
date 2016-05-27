@@ -1,0 +1,73 @@
+{
+  "id": 874225859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578018,41.679516,-71.578018,41.679516",
+    "geom:latitude":41.679516,
+    "geom:longitude":-71.578018,
+    "iso:country":"US",
+    "sg:address":"1010 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 3436",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I2EvmWPXdMqZfTFTzsXdm_41.679516_-71.578018@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313120,
+    "wof:geomhash":"28cbf099e4e0f7d89f6c41ed3d29685d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874225859
+        }
+    ],
+    "wof:id":874225859,
+    "wof:lastmodified":1464313120,
+    "wof:name":"Simpson's Auto Care",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.578018,
+    41.679516,
+    -71.578018,
+    41.679516
+],
+  "geometry": {"coordinates":[-71.578018,41.679516],"type":"Point"}
+}

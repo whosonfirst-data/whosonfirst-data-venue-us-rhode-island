@@ -1,0 +1,75 @@
+{
+  "id": 874285337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476259,41.832686,-71.476259,41.832686",
+    "geom:latitude":41.832686,
+    "geom:longitude":-71.476259,
+    "iso:country":"US",
+    "sg:address":"7 Auburn Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 0086",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mdyABxnRYlQH2jKGxvWsF_41.832545_-71.476331@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314824,
+    "wof:geomhash":"31012b61e28ae08110ba14aaa3f53915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874285337
+        }
+    ],
+    "wof:id":874285337,
+    "wof:lastmodified":1464314824,
+    "wof:name":"Greenville Collision",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.476259,
+    41.832686,
+    -71.476259,
+    41.832686
+],
+  "geometry": {"coordinates":[-71.476259,41.832686],"type":"Point"}
+}

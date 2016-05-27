@@ -1,0 +1,78 @@
+{
+  "id": 874006307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273422,41.750535,-71.273422,41.750535",
+    "geom:latitude":41.750535,
+    "geom:longitude":-71.273422,
+    "iso:country":"US",
+    "sg:address":"3 New Industrial Way",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 5330",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "system",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nfAaDFgv97aIKyeYdYp3R_41.750535_-71.273422@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310827,
+    "wof:geomhash":"c0af739d214285a9572d138b1a71dca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874006307
+        }
+    ],
+    "wof:id":874006307,
+    "wof:lastmodified":1464310827,
+    "wof:name":"J & K Sanitation Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "system",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.273422,
+    41.750535,
+    -71.273422,
+    41.750535
+],
+  "geometry": {"coordinates":[-71.273422,41.750535],"type":"Point"}
+}

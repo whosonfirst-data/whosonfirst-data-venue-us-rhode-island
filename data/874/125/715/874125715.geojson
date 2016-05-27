@@ -1,0 +1,75 @@
+{
+  "id": 874125715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.382294,41.885849,-71.382294,41.885849",
+    "geom:latitude":41.885849,
+    "geom:longitude":-71.382294,
+    "iso:country":"US",
+    "sg:address":"1 Cross St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 1616",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73OSj4LFlojXwZTK8uQXzI_41.885849_-71.382294@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312092,
+    "wof:geomhash":"bacf116e1d8d0bb71fede3fde7523b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874125715
+        }
+    ],
+    "wof:id":874125715,
+    "wof:lastmodified":1464312092,
+    "wof:name":"Louis Auto Repair",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -71.382294,
+    41.885849,
+    -71.382294,
+    41.885849
+],
+  "geometry": {"coordinates":[-71.382294,41.885849],"type":"Point"}
+}

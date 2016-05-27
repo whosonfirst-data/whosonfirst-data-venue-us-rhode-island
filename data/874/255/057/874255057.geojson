@@ -1,0 +1,75 @@
+{
+  "id": 874255057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39859,41.821844,-71.39859,41.821844",
+    "geom:latitude":41.821844,
+    "geom:longitude":-71.39859,
+    "iso:country":"US",
+    "sg:address":"30 John St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 1266",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ohl0CrJTBfdfk7F1hKtXv_41.821844_-71.398590@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313677,
+    "wof:geomhash":"a23cd4692f5f1c0262bab8cdd6e002b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874255057
+        }
+    ],
+    "wof:id":874255057,
+    "wof:lastmodified":1464313677,
+    "wof:name":"Reach Out & Read Rhode Island",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -71.39859,
+    41.821844,
+    -71.39859,
+    41.821844
+],
+  "geometry": {"coordinates":[-71.39859,41.821844],"type":"Point"}
+}

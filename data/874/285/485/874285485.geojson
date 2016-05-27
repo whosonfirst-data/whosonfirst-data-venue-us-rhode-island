@@ -1,0 +1,69 @@
+{
+  "id": 874285485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480904,41.856499,-71.480904,41.856499",
+    "geom:latitude":41.856499,
+    "geom:longitude":-71.480904,
+    "iso:country":"US",
+    "sg:address":"1942 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0971",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vd3dPKzf5EYbOnZWKUsdo_41.856084_-71.480215@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314831,
+    "wof:geomhash":"e95ffbca708a920d07f416e3c8355e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874285485
+        }
+    ],
+    "wof:id":874285485,
+    "wof:lastmodified":1464314831,
+    "wof:name":"Carries Seafood Express",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.480904,
+    41.856499,
+    -71.480904,
+    41.856499
+],
+  "geometry": {"coordinates":[-71.480904,41.856499],"type":"Point"}
+}

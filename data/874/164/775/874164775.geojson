@@ -1,0 +1,69 @@
+{
+  "id": 874164775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467767,41.555865,-71.467767,41.555865",
+    "geom:latitude":41.555865,
+    "geom:longitude":-71.467767,
+    "iso:country":"US",
+    "sg:address":"55 Oak Hill Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4072",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CbT4oKRRfLGJPncxl0oBC_41.555865_-71.467767@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312477,
+    "wof:geomhash":"94256d18dd3165bc49484e43191df743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874164775
+        }
+    ],
+    "wof:id":874164775,
+    "wof:lastmodified":1464312477,
+    "wof:name":"Highway Divsion",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.467767,
+    41.555865,
+    -71.467767,
+    41.555865
+],
+  "geometry": {"coordinates":[-71.46776699999999,41.555865],"type":"Point"}
+}

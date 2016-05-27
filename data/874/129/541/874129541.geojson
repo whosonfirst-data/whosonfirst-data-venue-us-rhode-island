@@ -1,0 +1,73 @@
+{
+  "id": 874129541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.6445,41.407948,-71.6445,41.407948",
+    "geom:latitude":41.407948,
+    "geom:longitude":-71.6445,
+    "iso:country":"US",
+    "sg:address":"4710 S County Trl",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6344",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hj3hWXiVomelXrovdhrwM_41.407948_-71.644500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312129,
+    "wof:geomhash":"c1cc6d761f02f9c229b63c447458e66d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874129541
+        }
+    ],
+    "wof:id":874129541,
+    "wof:lastmodified":1464312129,
+    "wof:name":"Charlestown Auto Body",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.6445,
+    41.407948,
+    -71.6445,
+    41.407948
+],
+  "geometry": {"coordinates":[-71.64449999999999,41.407948],"type":"Point"}
+}

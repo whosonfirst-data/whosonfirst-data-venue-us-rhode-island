@@ -1,0 +1,72 @@
+{
+  "id": 874078189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524538,41.48305,-71.524538,41.48305",
+    "geom:latitude":41.48305,
+    "geom:longitude":-71.524538,
+    "iso:country":"US",
+    "sg:address":"63 Briar Ln",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2250",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.kingstonpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WXYzc9XA8kv4hKpe54noF_41.483050_-71.524538@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311530,
+    "wof:geomhash":"cf29924283d8791e35ed4fe0f866d541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874078189
+        }
+    ],
+    "wof:id":874078189,
+    "wof:lastmodified":1464311530,
+    "wof:name":"Kingston Pizza",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.524538,
+    41.48305,
+    -71.524538,
+    41.48305
+],
+  "geometry": {"coordinates":[-71.52453800000001,41.48305],"type":"Point"}
+}

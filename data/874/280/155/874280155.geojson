@@ -1,0 +1,77 @@
+{
+  "id": 874280155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441626,41.815419,-71.441626,41.815419",
+    "geom:latitude":41.815419,
+    "geom:longitude":-71.441626,
+    "iso:country":"US",
+    "sg:address":"39 Troy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 5230",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NbjloPbgNpSNAzWfYk65F_41.815419_-71.441626@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314616,
+    "wof:geomhash":"f1d850c07ae0522d57db84ffa5953329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874280155
+        }
+    ],
+    "wof:id":874280155,
+    "wof:lastmodified":1464314616,
+    "wof:name":"Bob Jean Inc",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.441626,
+    41.815419,
+    -71.441626,
+    41.815419
+],
+  "geometry": {"coordinates":[-71.441626,41.815419],"type":"Point"}
+}

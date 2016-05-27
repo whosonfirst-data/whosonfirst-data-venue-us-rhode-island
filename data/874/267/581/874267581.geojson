@@ -1,0 +1,72 @@
+{
+  "id": 874267581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515663,41.98444,-71.515663,41.98444",
+    "geom:latitude":41.98444,
+    "geom:longitude":-71.515663,
+    "iso:country":"US",
+    "sg:address":"1354 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 1115",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "sg:website":"www.beneficial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hPEyl2ULj9X3CCzaeIVTd_41.984440_-71.515663@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314136,
+    "wof:geomhash":"36d59a16104f7df133d2dbf11be28202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874267581
+        }
+    ],
+    "wof:id":874267581,
+    "wof:lastmodified":1464314136,
+    "wof:name":"Beneficial Mortgage",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.515663,
+    41.98444,
+    -71.515663,
+    41.98444
+],
+  "geometry": {"coordinates":[-71.515663,41.98444],"type":"Point"}
+}

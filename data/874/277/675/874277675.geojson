@@ -1,0 +1,71 @@
+{
+  "id": 874277675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678821,41.966271,-71.678821,41.966271",
+    "geom:latitude":41.966271,
+    "geom:longitude":-71.678821,
+    "iso:country":"US",
+    "sg:address":"451 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 0730",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GPKkNxhAtK3TsVgv8ekS3_41.966271_-71.678821@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314523,
+    "wof:geomhash":"b4360efffe941fb21d675083c6eeed95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874277675
+        }
+    ],
+    "wof:id":874277675,
+    "wof:lastmodified":1464314523,
+    "wof:name":"First Univ Chr Of Harrisville",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.678821,
+    41.966271,
+    -71.678821,
+    41.966271
+],
+  "geometry": {"coordinates":[-71.678821,41.966271],"type":"Point"}
+}

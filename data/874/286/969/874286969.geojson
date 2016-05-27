@@ -1,0 +1,87 @@
+{
+  "id": 874286969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487029,41.383418,-71.487029,41.383418",
+    "geom:latitude":41.383418,
+    "geom:longitude":-71.487029,
+    "iso:country":"US",
+    "sg:address":"855 Point Judith Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/narragansett/138844-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7834",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NpYzYOJxxc8S1R2ImIuHO_41.383418_-71.487029@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"2d4235328e74361d99c2c277d6fc8fcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874286969
+        }
+    ],
+    "wof:id":874286969,
+    "wof:lastmodified":1464314889,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.487029,
+    41.383418,
+    -71.487029,
+    41.383418
+],
+  "geometry": {"coordinates":[-71.48702900000001,41.383418],"type":"Point"}
+}

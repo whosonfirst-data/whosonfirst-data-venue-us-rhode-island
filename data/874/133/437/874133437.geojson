@@ -1,0 +1,71 @@
+{
+  "id": 874133437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508056,41.578561,-71.508056,41.578561",
+    "geom:latitude":41.578561,
+    "geom:longitude":-71.508056,
+    "iso:country":"US",
+    "sg:address":"1500 Ten Rod Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1943",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SHqSP09sea99pOnrhMVcQ_41.578561_-71.508056@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312176,
+    "wof:geomhash":"29b3b8687103069b076cd1b55ece8f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874133437
+        }
+    ],
+    "wof:id":874133437,
+    "wof:lastmodified":1464312176,
+    "wof:name":"David Heffron",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.508056,
+    41.578561,
+    -71.508056,
+    41.578561
+],
+  "geometry": {"coordinates":[-71.508056,41.578561],"type":"Point"}
+}

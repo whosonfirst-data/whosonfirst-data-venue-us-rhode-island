@@ -1,0 +1,75 @@
+{
+  "id": 873989925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420796,41.808778,-71.420796,41.808778",
+    "geom:latitude":41.808778,
+    "geom:longitude":-71.420796,
+    "iso:country":"US",
+    "sg:address":"557 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 6347",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OiHJzHd0PHXlIk2mT7OZu_41.808778_-71.420796@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"b717ae968f3c62b2734f8afb9ccfeb6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":873989925
+        }
+    ],
+    "wof:id":873989925,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Rhode Island Free Clinic",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.420796,
+    41.808778,
+    -71.420796,
+    41.808778
+],
+  "geometry": {"coordinates":[-71.420796,41.808778],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874230079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458236,41.846977,-71.458236,41.846977",
+    "geom:latitude":41.846977,
+    "geom:longitude":-71.458236,
+    "iso:country":"US",
+    "sg:address":"4 Sheffield Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 9718",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JNwRW6M6KfTl8KRG14XV6_41.846977_-71.458236@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313161,
+    "wof:geomhash":"0914ad3850c16d0efaf3d022d87ee5c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874230079
+        }
+    ],
+    "wof:id":874230079,
+    "wof:lastmodified":1464313161,
+    "wof:name":"Bruno's Floor Sanding",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resurfacing",
+        "laying",
+        "refinishing",
+        "floor"
+    ]
+},
+  "bbox": [
+    -71.458236,
+    41.846977,
+    -71.458236,
+    41.846977
+],
+  "geometry": {"coordinates":[-71.458236,41.846977],"type":"Point"}
+}

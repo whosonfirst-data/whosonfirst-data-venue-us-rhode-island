@@ -1,0 +1,69 @@
+{
+  "id": 874240607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463523,41.859203,-71.463523,41.859203",
+    "geom:latitude":41.859203,
+    "geom:longitude":-71.463523,
+    "iso:country":"US",
+    "sg:address":"666 Fruit Hill Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8339",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17k6OAuUbe7k1xqRaqYhgU_41.859203_-71.463523@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313351,
+    "wof:geomhash":"d9d8dc2009dbee3d71dd14b4d5d7913a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874240607
+        }
+    ],
+    "wof:id":874240607,
+    "wof:lastmodified":1464313351,
+    "wof:name":"Frank Rezendes DBA Rezendes Co",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.463523,
+    41.859203,
+    -71.463523,
+    41.859203
+],
+  "geometry": {"coordinates":[-71.463523,41.859203],"type":"Point"}
+}

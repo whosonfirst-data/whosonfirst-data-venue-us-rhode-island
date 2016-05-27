@@ -1,0 +1,77 @@
+{
+  "id": 874285243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4468,41.854,-71.4468,41.854",
+    "geom:latitude":41.854,
+    "geom:longitude":-71.4468,
+    "iso:country":"US",
+    "sg:address":"1 Smithfield Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 6040",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "precious",
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hTuuQoMr6O243uH9VthbR_41.854275_-71.446838@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314820,
+    "wof:geomhash":"d57ddaa8d964155f7e84d606fcb93dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874285243
+        }
+    ],
+    "wof:id":874285243,
+    "wof:lastmodified":1464314820,
+    "wof:name":"Kodos Jewelry Co",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -71.4468,
+    41.854,
+    -71.4468,
+    41.854
+],
+  "geometry": {"coordinates":[-71.4468,41.854],"type":"Point"}
+}

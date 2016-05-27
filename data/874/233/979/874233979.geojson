@@ -1,0 +1,79 @@
+{
+  "id": 874233979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447289,41.716274,-71.447289,41.716274",
+    "geom:latitude":41.716274,
+    "geom:longitude":-71.447289,
+    "iso:country":"US",
+    "sg:address":"1102 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 5251",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SEVINgPP6mRJYowhXbnbQ_41.716274_-71.447289@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313220,
+    "wof:geomhash":"6a2653ae22cdc70b475158d8f6bf4609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874233979
+        }
+    ],
+    "wof:id":874233979,
+    "wof:lastmodified":1464313220,
+    "wof:name":"Maceys Car Care Center",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.447289,
+    41.716274,
+    -71.447289,
+    41.716274
+],
+  "geometry": {"coordinates":[-71.447289,41.716274],"type":"Point"}
+}

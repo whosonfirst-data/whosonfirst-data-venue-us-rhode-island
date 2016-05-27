@@ -1,0 +1,73 @@
+{
+  "id": 874281943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532226,41.482056,-71.532226,41.482056",
+    "geom:latitude":41.482056,
+    "geom:longitude":-71.532226,
+    "iso:country":"US",
+    "sg:address":"4 Fraternity Cir",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9077",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F9zYRsNLf9oYbO8mXCCYj_41.482056_-71.532226@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314705,
+    "wof:geomhash":"a0c35dfa0b05922808e0f314f34110bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874281943
+        }
+    ],
+    "wof:id":874281943,
+    "wof:lastmodified":1464314705,
+    "wof:name":"Phi Kappa Psi",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -71.532226,
+    41.482056,
+    -71.532226,
+    41.482056
+],
+  "geometry": {"coordinates":[-71.53222599999999,41.482056],"type":"Point"}
+}

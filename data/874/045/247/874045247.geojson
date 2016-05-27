@@ -1,0 +1,72 @@
+{
+  "id": 874045247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445175,41.468615,-71.445175,41.468615",
+    "geom:latitude":41.468615,
+    "geom:longitude":-71.445175,
+    "iso:country":"US",
+    "sg:address":"15 Denison Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8282",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BfhQJ8wNilH0bQ9pEGNFD_41.468615_-71.445175@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311198,
+    "wof:geomhash":"40a456d0482d7d5765a699fbe0c0c422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874045247
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874045247
+        }
+    ],
+    "wof:id":874045247,
+    "wof:lastmodified":1464311198,
+    "wof:name":"Illuzzi Financial",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.445175,
+    41.468615,
+    -71.445175,
+    41.468615
+],
+  "geometry": {"coordinates":[-71.44517500000001,41.468615],"type":"Point"}
+}

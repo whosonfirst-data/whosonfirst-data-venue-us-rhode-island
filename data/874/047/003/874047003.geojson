@@ -1,0 +1,71 @@
+{
+  "id": 874047003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442487,41.881899,-71.442487,41.881899",
+    "geom:latitude":41.881899,
+    "geom:longitude":-71.442487,
+    "iso:country":"US",
+    "sg:address":"16 Jason Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 2701",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "costume",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pr3yXQwgJlyME8umu2GNZ_41.881899_-71.442487@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311215,
+    "wof:geomhash":"51ace685fb8c2d7bdcac6a43884d17cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874047003
+        }
+    ],
+    "wof:id":874047003,
+    "wof:lastmodified":1464311215,
+    "wof:name":"Pearl Comet Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "costume",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.442487,
+    41.881899,
+    -71.442487,
+    41.881899
+],
+  "geometry": {"coordinates":[-71.442487,41.881899],"type":"Point"}
+}

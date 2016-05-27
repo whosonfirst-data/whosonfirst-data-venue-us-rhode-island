@@ -1,0 +1,82 @@
+{
+  "id": 874302553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429001,41.819801,-71.429001,41.819801",
+    "geom:latitude":41.819801,
+    "geom:longitude":-71.429001,
+    "iso:country":"US",
+    "sg:address":"347 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 5313",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P1E7D6WDoGZwh65DyUkP3_41.819801_-71.429001@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315481,
+    "wof:geomhash":"888b719510914281ada21a5a65433d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874302553
+        }
+    ],
+    "wof:id":874302553,
+    "wof:lastmodified":1464315481,
+    "wof:name":"Reiter Ira H PHD",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.429001,
+    41.819801,
+    -71.429001,
+    41.819801
+],
+  "geometry": {"coordinates":[-71.429001,41.819801],"type":"Point"}
+}

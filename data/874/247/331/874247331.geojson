@@ -1,0 +1,75 @@
+{
+  "id": 874247331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.191611,41.659313,-71.191611,41.659313",
+    "geom:latitude":41.659313,
+    "geom:longitude":-71.191611,
+    "iso:country":"US",
+    "sg:address":"500 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 9914",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZG5iV9U4A8MYVtglIQ2ib_41.659313_-71.191611@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313478,
+    "wof:geomhash":"73410b7c418e80f61d7f43ca788ab8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874247331
+        }
+    ],
+    "wof:id":874247331,
+    "wof:lastmodified":1464313478,
+    "wof:name":"Grand Central Market",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.191611,
+    41.659313,
+    -71.191611,
+    41.659313
+],
+  "geometry": {"coordinates":[-71.19161099999999,41.659313],"type":"Point"}
+}

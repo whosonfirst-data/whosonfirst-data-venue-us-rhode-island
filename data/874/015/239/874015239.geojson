@@ -1,0 +1,77 @@
+{
+  "id": 874015239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291778,41.53767,-71.291778,41.53767",
+    "geom:latitude":41.53767,
+    "geom:longitude":-71.291778,
+    "iso:country":"US",
+    "sg:address":"1376 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 8845",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qwDztHZz8S4DppSWw4hmu_41.537670_-71.291778@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310893,
+    "wof:geomhash":"24a0c8d66ff0d7f49746d5a271cdf4c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874015239
+        }
+    ],
+    "wof:id":874015239,
+    "wof:lastmodified":1464310893,
+    "wof:name":"Shop & Wash",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin",
+        "garment"
+    ]
+},
+  "bbox": [
+    -71.291778,
+    41.53767,
+    -71.291778,
+    41.53767
+],
+  "geometry": {"coordinates":[-71.29177799999999,41.53767],"type":"Point"}
+}

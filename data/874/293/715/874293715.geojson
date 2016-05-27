@@ -1,0 +1,81 @@
+{
+  "id": 874293715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495849,42.005386,-71.495849,42.005386",
+    "geom:latitude":42.005386,
+    "geom:longitude":-71.495849,
+    "iso:country":"US",
+    "sg:address":"176 Cass Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 3135",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "geriatrics",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hs0lbHkkZToYxSRqU33Fl_42.005386_-71.495849@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315147,
+    "wof:geomhash":"10ee5906828e644b711215d2fa988b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874293715
+        }
+    ],
+    "wof:id":874293715,
+    "wof:lastmodified":1464315147,
+    "wof:name":"Landmark Senior Health Center",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "geriatrics",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -71.495849,
+    42.005386,
+    -71.495849,
+    42.005386
+],
+  "geometry": {"coordinates":[-71.49584900000001,42.005386],"type":"Point"}
+}

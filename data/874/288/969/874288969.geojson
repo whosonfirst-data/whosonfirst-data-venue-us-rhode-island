@@ -1,0 +1,81 @@
+{
+  "id": 874288969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678337,41.968971,-71.678337,41.968971",
+    "geom:latitude":41.968971,
+    "geom:longitude":-71.678337,
+    "iso:country":"US",
+    "sg:address":"1 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3993",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_036eoSGNlzT2p2y8PlH2iQ_41.968971_-71.678337@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314976,
+    "wof:geomhash":"c5b86a3e02bb5cac5c331e7f861203da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874288969
+        }
+    ],
+    "wof:id":874288969,
+    "wof:lastmodified":1464314976,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.678337,
+    41.968971,
+    -71.678337,
+    41.968971
+],
+  "geometry": {"coordinates":[-71.678337,41.968971],"type":"Point"}
+}

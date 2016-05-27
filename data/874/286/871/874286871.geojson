@@ -1,0 +1,77 @@
+{
+  "id": 874286871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39927,41.874601,-71.39927,41.874601",
+    "geom:latitude":41.874601,
+    "geom:longitude":-71.39927,
+    "iso:country":"US",
+    "sg:address":"255 Mineral Spring Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/pawtucket/201240-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iyPuFljkbrXvs616NPces_41.874601_-71.399270@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314886,
+    "wof:geomhash":"522562a000aa896a850a196d189dc12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874286871
+        }
+    ],
+    "wof:id":874286871,
+    "wof:lastmodified":1464314886,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.39927,
+    41.874601,
+    -71.39927,
+    41.874601
+],
+  "geometry": {"coordinates":[-71.39927,41.874601],"type":"Point"}
+}

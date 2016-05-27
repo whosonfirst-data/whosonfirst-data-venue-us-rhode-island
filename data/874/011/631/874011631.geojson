@@ -1,0 +1,86 @@
+{
+  "id": 874011631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487726,41.454344,-71.487726,41.454344",
+    "geom:latitude":41.454344,
+    "geom:longitude":-71.487726,
+    "iso:country":"US",
+    "sg:address":"11 Greybirch Ct",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0610",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Mda3MzP6DdntErxyqLIOM_41.454344_-71.487726@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310867,
+    "wof:geomhash":"04ca9cdc1522afd232bf24c49281dc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874011631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874011631
+        }
+    ],
+    "wof:id":874011631,
+    "wof:lastmodified":1464310867,
+    "wof:name":"Christian Science Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.487726,
+    41.454344,
+    -71.487726,
+    41.454344
+],
+  "geometry": {"coordinates":[-71.48772599999999,41.454344],"type":"Point"}
+}

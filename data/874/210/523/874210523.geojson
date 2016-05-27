@@ -1,0 +1,75 @@
+{
+  "id": 874210523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.348636,41.819886,-71.348636,41.819886",
+    "geom:latitude":41.819886,
+    "geom:longitude":-71.348636,
+    "iso:country":"US",
+    "sg:address":"130 Commercial Way",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 7557",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qcIuklHbtyMm5RXYlQuhN_41.819886_-71.348636@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312955,
+    "wof:geomhash":"463ff72cb5113095cebe9b771d94e1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874210523
+        }
+    ],
+    "wof:id":874210523,
+    "wof:lastmodified":1464312955,
+    "wof:name":"Commercial Truck Svc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.348636,
+    41.819886,
+    -71.348636,
+    41.819886
+],
+  "geometry": {"coordinates":[-71.348636,41.819886],"type":"Point"}
+}

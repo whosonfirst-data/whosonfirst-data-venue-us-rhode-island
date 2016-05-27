@@ -1,0 +1,71 @@
+{
+  "id": 874246683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455109,41.852165,-71.455109,41.852165",
+    "geom:latitude":41.852165,
+    "geom:longitude":-71.455109,
+    "iso:country":"US",
+    "sg:address":"6 City View Cir",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0736",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yb46f1HnHbRX4SX9KJSYW_41.852165_-71.455109@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313465,
+    "wof:geomhash":"188c71eb68b687acd23255161d726690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874246683
+        }
+    ],
+    "wof:id":874246683,
+    "wof:lastmodified":1464313465,
+    "wof:name":"Magic Gas Inc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.455109,
+    41.852165,
+    -71.455109,
+    41.852165
+],
+  "geometry": {"coordinates":[-71.45510899999999,41.852165],"type":"Point"}
+}

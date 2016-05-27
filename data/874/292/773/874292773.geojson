@@ -1,0 +1,78 @@
+{
+  "id": 874292773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405705,41.884496,-71.405705,41.884496",
+    "geom:latitude":41.884496,
+    "geom:longitude":-71.405705,
+    "iso:country":"US",
+    "sg:address":"25 Crow Point Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 5300",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pFdbIrXeKveUlvE7jzDp6_41.884496_-71.405705@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315116,
+    "wof:geomhash":"04f9e5314aca53b682926feb754156da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874292773
+        }
+    ],
+    "wof:id":874292773,
+    "wof:lastmodified":1464315116,
+    "wof:name":"M C D Air Transport",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.405705,
+    41.884496,
+    -71.405705,
+    41.884496
+],
+  "geometry": {"coordinates":[-71.405705,41.884496],"type":"Point"}
+}

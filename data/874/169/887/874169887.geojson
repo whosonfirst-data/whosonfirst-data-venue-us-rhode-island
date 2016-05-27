@@ -1,0 +1,69 @@
+{
+  "id": 874169887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519422,41.556171,-71.519422,41.556171",
+    "geom:latitude":41.556171,
+    "geom:longitude":-71.519422,
+    "iso:country":"US",
+    "sg:address":"49 S County Trl",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 2400",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19Gmg0eOJuQis4jGsviCFw_41.556171_-71.519422@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312526,
+    "wof:geomhash":"306825c8e9906d608d805a908d5a1148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874169887
+        }
+    ],
+    "wof:id":874169887,
+    "wof:lastmodified":1464312526,
+    "wof:name":"Health Touch",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.519422,
+    41.556171,
+    -71.519422,
+    41.556171
+],
+  "geometry": {"coordinates":[-71.51942200000001,41.556171],"type":"Point"}
+}

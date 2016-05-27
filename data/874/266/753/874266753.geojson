@@ -1,0 +1,71 @@
+{
+  "id": 874266753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.765175,41.353004,-71.765175,41.353004",
+    "geom:latitude":41.353004,
+    "geom:longitude":-71.765175,
+    "iso:country":"US",
+    "sg:address":"2 Sandy Ln",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 0640",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QqZsdqRL6F7J5ogp2euPd_41.353004_-71.765175@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314097,
+    "wof:geomhash":"a28cc63c4700d64e42df6bfeb8388bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874266753
+        }
+    ],
+    "wof:id":874266753,
+    "wof:lastmodified":1464314097,
+    "wof:name":"Charlestown Computers",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.765175,
+    41.353004,
+    -71.765175,
+    41.353004
+],
+  "geometry": {"coordinates":[-71.765175,41.353004],"type":"Point"}
+}

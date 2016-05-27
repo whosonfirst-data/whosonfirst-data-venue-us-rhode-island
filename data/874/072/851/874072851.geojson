@@ -1,0 +1,77 @@
+{
+  "id": 874072851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432553,41.801803,-71.432553,41.801803",
+    "geom:latitude":41.801803,
+    "geom:longitude":-71.432553,
+    "iso:country":"US",
+    "sg:address":"20 Grand St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 8480",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3figpS9AT0CUxxS5HcYbeW_41.801803_-71.432553@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311475,
+    "wof:geomhash":"b84f303738ec5ed7f20ae17125d2718e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874072851
+        }
+    ],
+    "wof:id":874072851,
+    "wof:lastmodified":1464311475,
+    "wof:name":"Pierce Manor Apartments",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.432553,
+    41.801803,
+    -71.432553,
+    41.801803
+],
+  "geometry": {"coordinates":[-71.432553,41.801803],"type":"Point"}
+}

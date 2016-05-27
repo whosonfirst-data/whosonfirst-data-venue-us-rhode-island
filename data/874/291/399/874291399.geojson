@@ -1,0 +1,64 @@
+{
+  "id": 874291399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402,41.9305,-71.402,41.9305",
+    "geom:latitude":41.9305,
+    "geom:longitude":-71.402,
+    "iso:country":"US",
+    "sg:address":"1410 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 4090",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hhcGqm2IDKrurcaShI5E2_41.930500_-71.402000@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315064,
+    "wof:geomhash":"b49b64c10305dfbe301b7bfc1f1799f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291399
+        }
+    ],
+    "wof:id":874291399,
+    "wof:lastmodified":1464315064,
+    "wof:name":"Diamond Hill Service",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.402,
+    41.9305,
+    -71.402,
+    41.9305
+],
+  "geometry": {"coordinates":[-71.402,41.9305],"type":"Point"}
+}

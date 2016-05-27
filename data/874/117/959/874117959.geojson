@@ -1,0 +1,71 @@
+{
+  "id": 874117959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283726,41.567109,-71.283726,41.567109",
+    "geom:latitude":41.567109,
+    "geom:longitude":-71.283726,
+    "iso:country":"US",
+    "sg:address":"22 Lawton Brook Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 5591",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hnZlRra7mzLk35bqBFhBZ_41.567109_-71.283726@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312015,
+    "wof:geomhash":"c8a13c924d9cf374772c6b2cfe1635fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874117959
+        }
+    ],
+    "wof:id":874117959,
+    "wof:lastmodified":1464312015,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.283726,
+    41.567109,
+    -71.283726,
+    41.567109
+],
+  "geometry": {"coordinates":[-71.283726,41.567109],"type":"Point"}
+}

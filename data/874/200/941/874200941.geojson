@@ -1,0 +1,69 @@
+{
+  "id": 874200941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.511732,41.552118,-71.511732,41.552118",
+    "geom:latitude":41.552118,
+    "geom:longitude":-71.511732,
+    "iso:country":"US",
+    "sg:address":"280 Dry Bridge Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1262",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_372AePvM9trbe7P1lhmY5y_41.552118_-71.511732@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"d99e7cf8ca2b6478dba49c7c6813ead7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874200941
+        }
+    ],
+    "wof:id":874200941,
+    "wof:lastmodified":1464312853,
+    "wof:name":"Rhode Island Society Of Land",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -71.511732,
+    41.552118,
+    -71.511732,
+    41.552118
+],
+  "geometry": {"coordinates":[-71.51173199999999,41.552118],"type":"Point"}
+}

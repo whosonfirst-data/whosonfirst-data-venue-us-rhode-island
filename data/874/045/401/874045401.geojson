@@ -1,0 +1,77 @@
+{
+  "id": 874045401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452232,41.570985,-71.452232,41.570985",
+    "geom:latitude":41.570985,
+    "geom:longitude":-71.452232,
+    "iso:country":"US",
+    "sg:address":"93 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1117",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mfSCu533IVVoAyQ5Ilwzw_41.570985_-71.452232@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311200,
+    "wof:geomhash":"90194c857c479cf55ff27480a295de9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874045401
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874045401
+        }
+    ],
+    "wof:id":874045401,
+    "wof:lastmodified":1464311200,
+    "wof:name":"Wickford Village Antiques",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -71.452232,
+    41.570985,
+    -71.452232,
+    41.570985
+],
+  "geometry": {"coordinates":[-71.452232,41.570985],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874287289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494808,41.715883,-71.494808,41.715883",
+    "geom:latitude":41.715883,
+    "geom:longitude":-71.494808,
+    "iso:country":"US",
+    "sg:address":"570 Providence St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/54453-san-vivaldo-trattoria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 8100",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HoBYaVKnezyZPxBfUC4pp_41.715883_-71.494808@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314900,
+    "wof:geomhash":"3804905f5f89a903fbe51e339296d289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287289
+        }
+    ],
+    "wof:id":874287289,
+    "wof:lastmodified":1464314900,
+    "wof:name":"San Vivaldo Trattoria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.494808,
+    41.715883,
+    -71.494808,
+    41.715883
+],
+  "geometry": {"coordinates":[-71.49480800000001,41.715883],"type":"Point"}
+}

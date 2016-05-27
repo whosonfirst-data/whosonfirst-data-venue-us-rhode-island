@@ -1,0 +1,76 @@
+{
+  "id": 874289775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41816,41.870659,-71.41816,41.870659",
+    "geom:latitude":41.870659,
+    "geom:longitude":-71.41816,
+    "iso:country":"US",
+    "sg:address":"342 Power Rd",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 3274",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3co7fspdpoSK797tqNoTS3_41.870659_-71.418160@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315004,
+    "wof:geomhash":"1eeb05164d6d02a1937282d95d61a51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874289775
+        }
+    ],
+    "wof:id":874289775,
+    "wof:lastmodified":1464315004,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.41816,
+    41.870659,
+    -71.41816,
+    41.870659
+],
+  "geometry": {"coordinates":[-71.41816,41.870659],"type":"Point"}
+}

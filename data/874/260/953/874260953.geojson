@@ -1,0 +1,69 @@
+{
+  "id": 874260953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.607758,41.502418,-71.607758,41.502418",
+    "geom:latitude":41.502418,
+    "geom:longitude":-71.607758,
+    "iso:country":"US",
+    "sg:address":"873 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8307",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lx7yQaCL8tAqVltyRE2Fq_41.502418_-71.607758@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313890,
+    "wof:geomhash":"d2f1354a47dc9311e17565c3f8d43ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874260953
+        }
+    ],
+    "wof:id":874260953,
+    "wof:lastmodified":1464313890,
+    "wof:name":"George's Sewage Svc",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.607758,
+    41.502418,
+    -71.607758,
+    41.502418
+],
+  "geometry": {"coordinates":[-71.607758,41.502418],"type":"Point"}
+}

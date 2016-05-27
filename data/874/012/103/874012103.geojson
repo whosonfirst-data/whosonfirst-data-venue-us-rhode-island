@@ -1,0 +1,77 @@
+{
+  "id": 874012103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4632,41.80662,-71.4632,41.80662",
+    "geom:latitude":41.80662,
+    "geom:longitude":-71.4632,
+    "iso:country":"US",
+    "sg:address":"15 Farmington Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 8360",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UPhzQ6Kp2wkQribZnLbgf_41.806620_-71.463200@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310870,
+    "wof:geomhash":"94470369b12aaf89bda715b7b7c1574c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874012103
+        }
+    ],
+    "wof:id":874012103,
+    "wof:lastmodified":1464310870,
+    "wof:name":"Scorpio's Complete Auto Truck",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.4632,
+    41.80662,
+    -71.4632,
+    41.80662
+],
+  "geometry": {"coordinates":[-71.4632,41.80662],"type":"Point"}
+}

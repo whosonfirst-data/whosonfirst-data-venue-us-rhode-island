@@ -1,0 +1,81 @@
+{
+  "id": 874071885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.387127,41.858147,-71.387127,41.858147",
+    "geom:latitude":41.858147,
+    "geom:longitude":-71.387127,
+    "iso:country":"US",
+    "sg:address":"223 Raleigh Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 2405",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "plant",
+        "garden",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WEq9MwkYmsmbwbvhms2l8_41.858147_-71.387127@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311459,
+    "wof:geomhash":"93734e81661788bae08896a90120d76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874071885
+        }
+    ],
+    "wof:id":874071885,
+    "wof:lastmodified":1464311459,
+    "wof:name":"Plantiques",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "plant",
+        "garden",
+        "sales"
+    ]
+},
+  "bbox": [
+    -71.387127,
+    41.858147,
+    -71.387127,
+    41.858147
+],
+  "geometry": {"coordinates":[-71.38712700000001,41.858147],"type":"Point"}
+}

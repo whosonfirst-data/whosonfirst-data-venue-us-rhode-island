@@ -1,0 +1,70 @@
+{
+  "id": 874298915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445633,41.865065,-71.445633,41.865065",
+    "geom:latitude":41.865065,
+    "geom:longitude":-71.445633,
+    "iso:country":"US",
+    "sg:address":"1527 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6555",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy"
+    ],
+    "sg:website":"www.dels.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W1kraIPkk1jQpQf2NUKVX_41.865065_-71.445633@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315352,
+    "wof:geomhash":"f12639026410c272fbd2f3c12ad74a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874298915
+        }
+    ],
+    "wof:id":874298915,
+    "wof:lastmodified":1464315352,
+    "wof:name":"Del's Lemonade",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy"
+    ]
+},
+  "bbox": [
+    -71.445633,
+    41.865065,
+    -71.445633,
+    41.865065
+],
+  "geometry": {"coordinates":[-71.445633,41.865065],"type":"Point"}
+}

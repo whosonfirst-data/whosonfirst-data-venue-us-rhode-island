@@ -1,0 +1,72 @@
+{
+  "id": 874286645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.578388,41.679343,-71.578388,41.679343",
+    "geom:latitude":41.679343,
+    "geom:longitude":-71.578388,
+    "iso:country":"US",
+    "sg:address":"1032 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/coventry/236106-ronzio-pizza--subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 3800",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eUdqsfs5qt4e8lEOQcNQk_41.679343_-71.578388@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314878,
+    "wof:geomhash":"783e3260598198359867676a77d5a025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874286645
+        }
+    ],
+    "wof:id":874286645,
+    "wof:lastmodified":1464314878,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.578388,
+    41.679343,
+    -71.578388,
+    41.679343
+],
+  "geometry": {"coordinates":[-71.578388,41.679343],"type":"Point"}
+}

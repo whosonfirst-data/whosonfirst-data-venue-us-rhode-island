@@ -1,0 +1,81 @@
+{
+  "id": 874131033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487094,41.439196,-71.487094,41.439196",
+    "geom:latitude":41.439196,
+    "geom:longitude":-71.487094,
+    "iso:country":"US",
+    "sg:address":"556 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8755",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_449ccsuyFV6HKuT1B3E9jR_41.439196_-71.487094@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312150,
+    "wof:geomhash":"b4e1178fabd86d16b15edc418e3115bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874131033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874131033
+        }
+    ],
+    "wof:id":874131033,
+    "wof:lastmodified":1464312150,
+    "wof:name":"Envisions Eyecare Ctr Of South",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.487094,
+    41.439196,
+    -71.487094,
+    41.439196
+],
+  "geometry": {"coordinates":[-71.487094,41.439196],"type":"Point"}
+}

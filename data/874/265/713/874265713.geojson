@@ -1,0 +1,75 @@
+{
+  "id": 874265713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.303848,41.505551,-71.303848,41.505551",
+    "geom:latitude":41.505551,
+    "geom:longitude":-71.303848,
+    "iso:country":"US",
+    "sg:address":"9 Canonicus Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 835 2428",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OC3FcCWJtMQ77IoqNDXw2_41.505551_-71.303848@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314062,
+    "wof:geomhash":"19e77074d7c293cde7e1b1ccbc0642f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874265713
+        }
+    ],
+    "wof:id":874265713,
+    "wof:lastmodified":1464314062,
+    "wof:name":"Balance For Life",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.303848,
+    41.505551,
+    -71.303848,
+    41.505551
+],
+  "geometry": {"coordinates":[-71.303848,41.505551],"type":"Point"}
+}

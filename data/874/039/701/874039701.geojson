@@ -1,0 +1,91 @@
+{
+  "id": 874039701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489025,41.441359,-71.489025,41.441359",
+    "geom:latitude":41.441359,
+    "geom:longitude":-71.489025,
+    "iso:country":"US",
+    "sg:address":"20 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7492",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oyGbcLb4b4iFCdqX1NXKx_41.441359_-71.489025@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"6ece14da778ab080197504d016c71548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874039701
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874039701
+        }
+    ],
+    "wof:id":874039701,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Bartone Jewelry Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.489025,
+    41.441359,
+    -71.489025,
+    41.441359
+],
+  "geometry": {"coordinates":[-71.489025,41.441359],"type":"Point"}
+}

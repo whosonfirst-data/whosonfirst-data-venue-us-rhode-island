@@ -1,0 +1,82 @@
+{
+  "id": 874014703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53946,41.483846,-71.53946,41.483846",
+    "geom:latitude":41.483846,
+    "geom:longitude":-71.53946,
+    "iso:country":"US",
+    "sg:address":"25 W Independence Way",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 0450",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "organization",
+        "welfare",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cayp1haewGnK9zJ1Va6bx_41.483846_-71.539460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310888,
+    "wof:geomhash":"a518b7faf842e031f2959263a23c6e77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874014703
+        }
+    ],
+    "wof:id":874014703,
+    "wof:lastmodified":1464310888,
+    "wof:name":"Independence Square Foundation",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "organization",
+        "welfare",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.53946,
+    41.483846,
+    -71.53946,
+    41.483846
+],
+  "geometry": {"coordinates":[-71.53946000000001,41.483846],"type":"Point"}
+}

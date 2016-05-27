@@ -1,0 +1,71 @@
+{
+  "id": 874218093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508264,41.900078,-71.508264,41.900078",
+    "geom:latitude":41.900078,
+    "geom:longitude":-71.508264,
+    "iso:country":"US",
+    "sg:address":"3 Sunset Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7110",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photo",
+        "photography"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s26Uj7AQSJRehj1AKxaXp_41.900078_-71.508264@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313032,
+    "wof:geomhash":"2fe747c00ef045db32d095393d7023c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874218093
+        }
+    ],
+    "wof:id":874218093,
+    "wof:lastmodified":1464313032,
+    "wof:name":"Robbin's Studio",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "photography"
+    ]
+},
+  "bbox": [
+    -71.508264,
+    41.900078,
+    -71.508264,
+    41.900078
+],
+  "geometry": {"coordinates":[-71.508264,41.900078],"type":"Point"}
+}

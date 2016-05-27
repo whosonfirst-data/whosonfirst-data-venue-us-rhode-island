@@ -1,0 +1,79 @@
+{
+  "id": 874013883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428194,41.809654,-71.428194,41.809654",
+    "geom:latitude":41.809654,
+    "geom:longitude":-71.428194,
+    "iso:country":"US",
+    "sg:address":"80 Sprague St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 5452",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I9O0SNJ9pYG9YfDPiRAim_41.809654_-71.428194@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310883,
+    "wof:geomhash":"07366947dc2864016ddc84c25e993ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874013883
+        }
+    ],
+    "wof:id":874013883,
+    "wof:lastmodified":1464310883,
+    "wof:name":"Warehouse Outlet",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.428194,
+    41.809654,
+    -71.428194,
+    41.809654
+],
+  "geometry": {"coordinates":[-71.428194,41.809654],"type":"Point"}
+}

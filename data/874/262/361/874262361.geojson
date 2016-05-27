@@ -1,0 +1,75 @@
+{
+  "id": 874262361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.680655,41.962444,-71.680655,41.962444",
+    "geom:latitude":41.962444,
+    "geom:longitude":-71.680655,
+    "iso:country":"US",
+    "sg:address":"59 Tall Timber Dr",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 6442",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OadrGO2n7XfGtvvQcEzng_41.962444_-71.680655@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313938,
+    "wof:geomhash":"f760f5bcfce8f6eca6a29c8bad689357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874262361
+        }
+    ],
+    "wof:id":874262361,
+    "wof:lastmodified":1464313938,
+    "wof:name":"Mike Blanchflower Building",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.680655,
+    41.962444,
+    -71.680655,
+    41.962444
+],
+  "geometry": {"coordinates":[-71.680655,41.962444],"type":"Point"}
+}

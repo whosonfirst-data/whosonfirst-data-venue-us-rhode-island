@@ -1,0 +1,70 @@
+{
+  "id": 874256241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370701,41.812891,-71.370701,41.812891",
+    "geom:latitude":41.812891,
+    "geom:longitude":-71.370701,
+    "iso:country":"US",
+    "sg:address":"1026 S Broadway",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 0060",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Ed8p4BcsRN5ZrH6sA71r_41.812891_-71.370701@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313702,
+    "wof:geomhash":"67968338dbe4ea3d96b584ffa266b782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874256241
+        }
+    ],
+    "wof:id":874256241,
+    "wof:lastmodified":1464313702,
+    "wof:name":"South Broadway Launderette",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.370701,
+    41.812891,
+    -71.370701,
+    41.812891
+],
+  "geometry": {"coordinates":[-71.370701,41.812891],"type":"Point"}
+}

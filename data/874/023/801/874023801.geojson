@@ -1,0 +1,71 @@
+{
+  "id": 874023801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.570276,41.680431,-71.570276,41.680431",
+    "geom:latitude":41.680431,
+    "geom:longitude":-71.570276,
+    "iso:country":"US",
+    "sg:address":"912 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 1001",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wOW7VippHUObvvwpmdmWR_41.680431_-71.570276@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310981,
+    "wof:geomhash":"ace92ea5e33a7b69772c8063abdc3c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874023801
+        }
+    ],
+    "wof:id":874023801,
+    "wof:lastmodified":1464310981,
+    "wof:name":"New England Starter & Altrntr",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -71.570276,
+    41.680431,
+    -71.570276,
+    41.680431
+],
+  "geometry": {"coordinates":[-71.57027600000001,41.680431],"type":"Point"}
+}

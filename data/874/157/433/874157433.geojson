@@ -1,0 +1,80 @@
+{
+  "id": 874157433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.362503,41.771915,-71.362503,41.771915",
+    "geom:latitude":41.771915,
+    "geom:longitude":-71.362503,
+    "iso:country":"US",
+    "sg:address":"213 Bullocks Point Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 0095",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "artist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jamSO84LduNjkuwr5jR2o_41.771915_-71.362503@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312403,
+    "wof:geomhash":"ee21bffb08817782d55d2dcf326f5160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874157433
+        }
+    ],
+    "wof:id":874157433,
+    "wof:lastmodified":1464312403,
+    "wof:name":"Noa's Art",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artist"
+    ]
+},
+  "bbox": [
+    -71.362503,
+    41.771915,
+    -71.362503,
+    41.771915
+],
+  "geometry": {"coordinates":[-71.362503,41.771915],"type":"Point"}
+}

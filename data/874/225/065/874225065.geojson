@@ -1,0 +1,77 @@
+{
+  "id": 874225065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413399,41.824009,-71.413399,41.824009",
+    "geom:latitude":41.824009,
+    "geom:longitude":-71.413399,
+    "iso:country":"US",
+    "sg:address":"48 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4000",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LUlciWvdxE4V2jHej7UEE_41.824009_-71.413399@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313112,
+    "wof:geomhash":"9d542b552432e45c836659356fe0f24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874225065
+        }
+    ],
+    "wof:id":874225065,
+    "wof:lastmodified":1464313112,
+    "wof:name":"Unique Home Builders Inc",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.413399,
+    41.824009,
+    -71.413399,
+    41.824009
+],
+  "geometry": {"coordinates":[-71.413399,41.824009],"type":"Point"}
+}

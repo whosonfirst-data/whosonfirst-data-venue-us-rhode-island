@@ -1,0 +1,75 @@
+{
+  "id": 874302467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429639,41.846364,-71.429639,41.846364",
+    "geom:latitude":41.846364,
+    "geom:longitude":-71.429639,
+    "iso:country":"US",
+    "sg:address":"600 Douglas Ave.",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 1819",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j9hka1dCjVdS7k4lXYKYQ_41.846364_-71.429639@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315479,
+    "wof:geomhash":"3ab1dd3dfb5a2188c6dba18d11fc3cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874302467
+        }
+    ],
+    "wof:id":874302467,
+    "wof:lastmodified":1464315479,
+    "wof:name":"Frankly Pizza",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.429639,
+    41.846364,
+    -71.429639,
+    41.846364
+],
+  "geometry": {"coordinates":[-71.42963899999999,41.846364],"type":"Point"}
+}

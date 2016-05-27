@@ -1,0 +1,71 @@
+{
+  "id": 874090507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284779,41.726479,-71.284779,41.726479",
+    "geom:latitude":41.726479,
+    "geom:longitude":-71.284779,
+    "iso:country":"US",
+    "sg:address":"427 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 4968",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cxKJSKNA8ETZnwXBmmaao_41.726479_-71.284779@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311668,
+    "wof:geomhash":"222a2db756d119d5b4de41dc9487cbb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874090507
+        }
+    ],
+    "wof:id":874090507,
+    "wof:lastmodified":1464311668,
+    "wof:name":"Warren Town Treasurer",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -71.284779,
+    41.726479,
+    -71.284779,
+    41.726479
+],
+  "geometry": {"coordinates":[-71.284779,41.726479],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874101183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522181,41.988848,-71.522181,41.988848",
+    "geom:latitude":41.988848,
+    "geom:longitude":-71.522181,
+    "iso:country":"US",
+    "sg:address":"35 Ave B",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 5222",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bisKJwHOC6ssT6HNz71LM_41.988848_-71.522181@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311808,
+    "wof:geomhash":"cfe26777dcfe0ca5d79b23f7fce6f9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874101183
+        }
+    ],
+    "wof:id":874101183,
+    "wof:lastmodified":1464311808,
+    "wof:name":"All Star Video",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.522181,
+    41.988848,
+    -71.522181,
+    41.988848
+],
+  "geometry": {"coordinates":[-71.522181,41.988848],"type":"Point"}
+}

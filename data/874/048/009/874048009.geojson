@@ -1,0 +1,77 @@
+{
+  "id": 874048009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451265,41.571645,-71.451265,41.571645",
+    "geom:latitude":41.571645,
+    "geom:longitude":-71.451265,
+    "iso:country":"US",
+    "sg:address":"20 Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5800",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JbihEZgYOW5BylhC4ajaQ_41.571645_-71.451265@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311223,
+    "wof:geomhash":"47ffaa4e8f12b4bb5c8e4d98da66fde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874048009
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874048009
+        }
+    ],
+    "wof:id":874048009,
+    "wof:lastmodified":1464311223,
+    "wof:name":"Paul A Sollitto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.451265,
+    41.571645,
+    -71.451265,
+    41.571645
+],
+  "geometry": {"coordinates":[-71.45126500000001,41.571645],"type":"Point"}
+}

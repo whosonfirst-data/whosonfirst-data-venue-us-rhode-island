@@ -1,0 +1,69 @@
+{
+  "id": 874282127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490061,41.385107,-71.490061,41.385107",
+    "geom:latitude":41.385107,
+    "geom:longitude":-71.490061,
+    "iso:country":"US",
+    "sg:address":"51 Sunset Blvd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5847",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QGIuQvjcODeEix314ra9q_41.385107_-71.490061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314712,
+    "wof:geomhash":"76dfd124991b54a5d423995e4c073a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874282127
+        }
+    ],
+    "wof:id":874282127,
+    "wof:lastmodified":1464314712,
+    "wof:name":"Diagnostic Medical System Inc",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.490061,
+    41.385107,
+    -71.490061,
+    41.385107
+],
+  "geometry": {"coordinates":[-71.490061,41.385107],"type":"Point"}
+}

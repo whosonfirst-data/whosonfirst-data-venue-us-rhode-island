@@ -1,0 +1,86 @@
+{
+  "id": 874244303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411658,41.79805,-71.411658,41.79805",
+    "geom:latitude":41.79805,
+    "geom:longitude":-71.411658,
+    "iso:country":"US",
+    "sg:address":"565 Prairie Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 3656",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "specializing",
+        "home",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E6v8IU8Lu90UYgFq0U3jX_41.798050_-71.411658@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313422,
+    "wof:geomhash":"259b5fc9b43f6cc11869eb272fd1d6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874244303
+        }
+    ],
+    "wof:id":874244303,
+    "wof:lastmodified":1464313422,
+    "wof:name":"Southside Rentals Inc",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "specializing",
+        "home",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.411658,
+    41.79805,
+    -71.411658,
+    41.79805
+],
+  "geometry": {"coordinates":[-71.411658,41.79805],"type":"Point"}
+}

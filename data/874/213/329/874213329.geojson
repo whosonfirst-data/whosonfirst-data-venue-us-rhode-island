@@ -1,0 +1,71 @@
+{
+  "id": 874213329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.602056,41.412709,-71.602056,41.412709",
+    "geom:latitude":41.412709,
+    "geom:longitude":-71.602056,
+    "iso:country":"US",
+    "sg:address":"800 Gravelly Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4822",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00UiVnKH2gvpvoIMhgO7nB_41.412709_-71.602056@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312987,
+    "wof:geomhash":"7977697614b1ac6897c3b3571cca932c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874213329
+        }
+    ],
+    "wof:id":874213329,
+    "wof:lastmodified":1464312987,
+    "wof:name":"Lawn Master",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.602056,
+    41.412709,
+    -71.602056,
+    41.412709
+],
+  "geometry": {"coordinates":[-71.602056,41.412709],"type":"Point"}
+}

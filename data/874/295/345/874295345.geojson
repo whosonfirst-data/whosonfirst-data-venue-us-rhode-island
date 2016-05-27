@@ -1,0 +1,76 @@
+{
+  "id": 874295345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411425,41.820427,-71.411425,41.820427",
+    "geom:latitude":41.820427,
+    "geom:longitude":-71.411425,
+    "iso:country":"US",
+    "sg:address":"85 Richmond St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8500",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.giovannispizzeriaRI.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RdfLu00GKqbMdxKrw5rGi_41.820427_-71.411425@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315206,
+    "wof:geomhash":"881469b3cf306477f5470e16f4596352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874295345
+        }
+    ],
+    "wof:id":874295345,
+    "wof:lastmodified":1464315206,
+    "wof:name":"Giovanni's Pizzeria",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.411425,
+    41.820427,
+    -71.411425,
+    41.820427
+],
+  "geometry": {"coordinates":[-71.41142499999999,41.820427],"type":"Point"}
+}

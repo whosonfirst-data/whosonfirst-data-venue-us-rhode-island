@@ -1,0 +1,71 @@
+{
+  "id": 874281219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276751,41.670509,-71.276751,41.670509",
+    "geom:latitude":41.670509,
+    "geom:longitude":-71.276751,
+    "iso:country":"US",
+    "sg:address":"515 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 5318",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YdhEKozG5tGWklCdMK2no_41.670509_-71.276751@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314676,
+    "wof:geomhash":"147d4a83c7920c875d1f441819ae90b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874281219
+        }
+    ],
+    "wof:id":874281219,
+    "wof:lastmodified":1464314676,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.276751,
+    41.670509,
+    -71.276751,
+    41.670509
+],
+  "geometry": {"coordinates":[-71.276751,41.670509],"type":"Point"}
+}

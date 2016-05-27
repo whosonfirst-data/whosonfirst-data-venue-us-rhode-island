@@ -1,0 +1,75 @@
+{
+  "id": 874260697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.526573,41.462121,-71.526573,41.462121",
+    "geom:latitude":41.462121,
+    "geom:longitude":-71.526573,
+    "iso:country":"US",
+    "sg:address":"1187 South Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4777",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OcVBplcgbPUwoq5M0TQcp_41.462121_-71.526573@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313881,
+    "wof:geomhash":"da49c12f4ba8870c788ba9989a8aaff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874260697
+        }
+    ],
+    "wof:id":874260697,
+    "wof:lastmodified":1464313881,
+    "wof:name":"Creature Comfort Pet-Sitting",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.526573,
+    41.462121,
+    -71.526573,
+    41.462121
+],
+  "geometry": {"coordinates":[-71.526573,41.462121],"type":"Point"}
+}

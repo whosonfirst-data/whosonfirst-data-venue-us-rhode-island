@@ -1,0 +1,71 @@
+{
+  "id": 874005857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.279838,41.701767,-71.279838,41.701767",
+    "geom:latitude":41.701767,
+    "geom:longitude":-71.279838,
+    "iso:country":"US",
+    "sg:address":"1282 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0440",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SRduNHDExJpTB7fa181kH_41.701767_-71.279838@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310824,
+    "wof:geomhash":"03ebb5d0eaff8ec056a2c8f21f4d8ca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874005857
+        }
+    ],
+    "wof:id":874005857,
+    "wof:lastmodified":1464310824,
+    "wof:name":"PSR Auto Repair Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.279838,
+    41.701767,
+    -71.279838,
+    41.701767
+],
+  "geometry": {"coordinates":[-71.279838,41.701767],"type":"Point"}
+}

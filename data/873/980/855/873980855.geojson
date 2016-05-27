@@ -1,0 +1,71 @@
+{
+  "id": 873980855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.557968,41.484142,-71.557968,41.484142",
+    "geom:latitude":41.484142,
+    "geom:longitude":-71.557968,
+    "iso:country":"US",
+    "sg:address":"3840 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 1170",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4T4MqfeRmkwkVe3lNO2rQO_41.484142_-71.557968@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310599,
+    "wof:geomhash":"78de69950a819423c44b497f013016cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":873980855
+        }
+    ],
+    "wof:id":873980855,
+    "wof:lastmodified":1464310599,
+    "wof:name":"West Kingstown Park",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.557968,
+    41.484142,
+    -71.557968,
+    41.484142
+],
+  "geometry": {"coordinates":[-71.557968,41.484142],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874277423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436602,41.784411,-71.436602,41.784411",
+    "geom:latitude":41.784411,
+    "geom:longitude":-71.436602,
+    "iso:country":"US",
+    "sg:address":"514 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 4980",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ekb7yStTGSW8C5Q830oA9_41.784411_-71.436602@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314515,
+    "wof:geomhash":"1417664af58e4a09c74f9c75839ddd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874277423
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874277423
+        }
+    ],
+    "wof:id":874277423,
+    "wof:lastmodified":1464314515,
+    "wof:name":"Lincoln Shoe Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -71.436602,
+    41.784411,
+    -71.436602,
+    41.784411
+],
+  "geometry": {"coordinates":[-71.43660199999999,41.784411],"type":"Point"}
+}

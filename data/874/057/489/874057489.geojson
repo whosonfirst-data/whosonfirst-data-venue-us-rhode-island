@@ -1,0 +1,93 @@
+{
+  "id": 874057489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4011,41.802322,-71.4011,41.802322",
+    "geom:latitude":41.802322,
+    "geom:longitude":-71.4011,
+    "iso:country":"US",
+    "sg:address":"375 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 444 0400",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hsVCcB6X1VzFWKhcTRBSa_41.802322_-71.401100@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311313,
+    "wof:geomhash":"a22007f15f7470b79e76ad1fbc05c403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874057489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874057489
+        }
+    ],
+    "wof:id":874057489,
+    "wof:lastmodified":1464311313,
+    "wof:name":"Providence Community Hlth Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "management"
+    ]
+},
+  "bbox": [
+    -71.4011,
+    41.802322,
+    -71.4011,
+    41.802322
+],
+  "geometry": {"coordinates":[-71.4011,41.802322],"type":"Point"}
+}

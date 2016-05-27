@@ -1,0 +1,78 @@
+{
+  "id": 874278481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29334,41.532759,-71.29334,41.532759",
+    "geom:latitude":41.532759,
+    "geom:longitude":-71.29334,
+    "iso:country":"US",
+    "sg:address":"1366 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 6633",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbustervideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4395BlWRW9lEfKnOQWDyXp_41.532759_-71.293340@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314556,
+    "wof:geomhash":"68fe4b5e2b3692bc4226076d3be30ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874278481
+        }
+    ],
+    "wof:id":874278481,
+    "wof:lastmodified":1464314556,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.29334,
+    41.532759,
+    -71.29334,
+    41.532759
+],
+  "geometry": {"coordinates":[-71.29334,41.532759],"type":"Point"}
+}

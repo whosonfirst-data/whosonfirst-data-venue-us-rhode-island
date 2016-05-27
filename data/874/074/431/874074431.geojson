@@ -1,0 +1,71 @@
+{
+  "id": 874074431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519094,41.389135,-71.519094,41.389135",
+    "geom:latitude":41.389135,
+    "geom:longitude":-71.519094,
+    "iso:country":"US",
+    "sg:address":"20 Sherman Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2181",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hx7uH3SzcAaXndkBhdPEG_41.389135_-71.519094@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311498,
+    "wof:geomhash":"11ea3341486902ae04c0f9648e5c11d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874074431
+        }
+    ],
+    "wof:id":874074431,
+    "wof:lastmodified":1464311498,
+    "wof:name":"Dennis Moffitt Painting LLC",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.519094,
+    41.389135,
+    -71.519094,
+    41.389135
+],
+  "geometry": {"coordinates":[-71.519094,41.389135],"type":"Point"}
+}

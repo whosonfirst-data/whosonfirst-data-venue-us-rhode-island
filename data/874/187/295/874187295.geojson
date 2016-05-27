@@ -1,0 +1,73 @@
+{
+  "id": 874187295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192401,41.582519,-71.192401,41.582519",
+    "geom:latitude":41.582519,
+    "geom:longitude":-71.192401,
+    "iso:country":"US",
+    "sg:address":"3626 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 9000",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vs0MBCJciOSeYb9nUBonm_41.582519_-71.192401@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312712,
+    "wof:geomhash":"28ac0132afdfbe7533177a5101f7c775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874187295
+        }
+    ],
+    "wof:id":874187295,
+    "wof:lastmodified":1464312712,
+    "wof:name":"Grandview Construction Co LLC",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.192401,
+    41.582519,
+    -71.192401,
+    41.582519
+],
+  "geometry": {"coordinates":[-71.192401,41.582519],"type":"Point"}
+}

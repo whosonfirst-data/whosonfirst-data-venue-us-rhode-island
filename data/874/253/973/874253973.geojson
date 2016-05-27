@@ -1,0 +1,77 @@
+{
+  "id": 874253973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453976,41.558882,-71.453976,41.558882",
+    "geom:latitude":41.558882,
+    "geom:longitude":-71.453976,
+    "iso:country":"US",
+    "sg:address":"62 Baker Way",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5737",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85823665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OC4srgtxE7td6M8bqBSe9_41.558882_-71.453976@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313645,
+    "wof:geomhash":"aa2b84170027a0b685f617a7e3047595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874253973
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874253973
+        }
+    ],
+    "wof:id":874253973,
+    "wof:lastmodified":1464313645,
+    "wof:name":"Jays Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.453976,
+    41.558882,
+    -71.453976,
+    41.558882
+],
+  "geometry": {"coordinates":[-71.453976,41.558882],"type":"Point"}
+}

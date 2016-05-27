@@ -1,0 +1,75 @@
+{
+  "id": 874299503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434936,41.86798,-71.434936,41.86798",
+    "geom:latitude":41.86798,
+    "geom:longitude":-71.434936,
+    "iso:country":"US",
+    "sg:address":"1270 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 305 3503",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dessert"
+    ],
+    "sg:website":"www.tipccupcakes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kpiUoipXMZsFwDMBq6XT9_41.867980_-71.434936@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315371,
+    "wof:geomhash":"2b1b5a1860993b8cecb5d00cf02b1702",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299503
+        }
+    ],
+    "wof:id":874299503,
+    "wof:lastmodified":1464315371,
+    "wof:name":"TipC Cupcakes",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert"
+    ]
+},
+  "bbox": [
+    -71.434936,
+    41.86798,
+    -71.434936,
+    41.86798
+],
+  "geometry": {"coordinates":[-71.43493599999999,41.86798],"type":"Point"}
+}

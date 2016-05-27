@@ -1,0 +1,86 @@
+{
+  "id": 874137305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402328,41.805115,-71.402328,41.805115",
+    "geom:latitude":41.805115,
+    "geom:longitude":-71.402328,
+    "iso:country":"US",
+    "sg:address":"278 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 1100",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aBxDrdilVCoiwIu4Xatip_41.805115_-71.402328@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312211,
+    "wof:geomhash":"1301be05c0afb0cf25f01655f345d981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874137305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874137305
+        }
+    ],
+    "wof:id":874137305,
+    "wof:lastmodified":1464312211,
+    "wof:name":"Sterry Street Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.402328,
+    41.805115,
+    -71.402328,
+    41.805115
+],
+  "geometry": {"coordinates":[-71.402328,41.805115],"type":"Point"}
+}

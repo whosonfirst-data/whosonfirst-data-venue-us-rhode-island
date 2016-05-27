@@ -1,0 +1,70 @@
+{
+  "id": 874287435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456799,41.862695,-71.456799,41.862695",
+    "geom:latitude":41.862695,
+    "geom:longitude":-71.456799,
+    "iso:country":"US",
+    "sg:address":"1759 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/245093-the-manhattan-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8333",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jRx44gieoe5nvhAKUQGDc_41.862695_-71.456799@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314911,
+    "wof:geomhash":"d1c301e71f689808e22aa25c1c047fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874287435
+        }
+    ],
+    "wof:id":874287435,
+    "wof:lastmodified":1464314911,
+    "wof:name":"The Manhattan Cafe",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.456799,
+    41.862695,
+    -71.456799,
+    41.862695
+],
+  "geometry": {"coordinates":[-71.456799,41.862695],"type":"Point"}
+}

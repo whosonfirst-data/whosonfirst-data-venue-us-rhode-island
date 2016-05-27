@@ -1,0 +1,73 @@
+{
+  "id": 874042787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462387,41.850505,-71.462387,41.850505",
+    "geom:latitude":41.850505,
+    "geom:longitude":-71.462387,
+    "iso:country":"US",
+    "sg:address":"1527 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8470",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "coin",
+        "wash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M9w4T5ESRQY4nAawDGmky_41.850505_-71.462387@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311173,
+    "wof:geomhash":"88ea105924a69c73c0d44bf63b21ff0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874042787
+        }
+    ],
+    "wof:id":874042787,
+    "wof:lastmodified":1464311173,
+    "wof:name":"Stop & Wash Laundromat",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "coin",
+        "wash"
+    ]
+},
+  "bbox": [
+    -71.462387,
+    41.850505,
+    -71.462387,
+    41.850505
+],
+  "geometry": {"coordinates":[-71.46238700000001,41.850505],"type":"Point"}
+}

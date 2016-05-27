@@ -1,0 +1,81 @@
+{
+  "id": 874296635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426665,41.823503,-71.426665,41.823503",
+    "geom:latitude":41.823503,
+    "geom:longitude":-71.426665,
+    "iso:country":"US",
+    "sg:address":"262 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 6866",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dessert"
+    ],
+    "sg:website":"www.cupnrol.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vfjlK3bRPCoGmThzgD8ce_41.823503_-71.426665@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315254,
+    "wof:geomhash":"185cb2ebf20c3921fb3766631e49d3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874296635
+        }
+    ],
+    "wof:id":874296635,
+    "wof:lastmodified":1464315254,
+    "wof:name":"Cup 'n Rol Cafe",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert"
+    ]
+},
+  "bbox": [
+    -71.426665,
+    41.823503,
+    -71.426665,
+    41.823503
+],
+  "geometry": {"coordinates":[-71.426665,41.823503],"type":"Point"}
+}

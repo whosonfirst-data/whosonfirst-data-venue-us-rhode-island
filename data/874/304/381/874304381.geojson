@@ -1,0 +1,86 @@
+{
+  "id": 874304381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.539223,41.890911,-71.539223,41.890911",
+    "geom:latitude":41.890911,
+    "geom:longitude":-71.539223,
+    "iso:country":"US",
+    "sg:address":"15 Richard St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 404 5193",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grooming",
+        "exercising",
+        "kennel",
+        "sitting"
+    ],
+    "sg:website":"http://www.smithfieldkennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fcRsy5j8yDz8jYqgfMcaZ_41.890911_-71.539223@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315542,
+    "wof:geomhash":"19fe15f909af4149e46db29f75ef067e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874304381
+        }
+    ],
+    "wof:id":874304381,
+    "wof:lastmodified":1464315542,
+    "wof:name":"Smithfield Kennels",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "exercising",
+        "kennel",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.539223,
+    41.890911,
+    -71.539223,
+    41.890911
+],
+  "geometry": {"coordinates":[-71.53922300000001,41.890911],"type":"Point"}
+}

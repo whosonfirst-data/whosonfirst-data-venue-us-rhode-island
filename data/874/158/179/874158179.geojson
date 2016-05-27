@@ -1,0 +1,90 @@
+{
+  "id": 874158179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484394,41.424396,-71.484394,41.424396",
+    "geom:latitude":41.424396,
+    "geom:longitude":-71.484394,
+    "iso:country":"US",
+    "sg:address":"42 Tern Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2499",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vStKE8K5GFAYMQxraHYiP_41.424396_-71.484394@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312410,
+    "wof:geomhash":"421c04d9349c611dc4c9c1c54fec3bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874158179
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874158179
+        }
+    ],
+    "wof:id":874158179,
+    "wof:lastmodified":1464312410,
+    "wof:name":"Investors Service Group",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.484394,
+    41.424396,
+    -71.484394,
+    41.424396
+],
+  "geometry": {"coordinates":[-71.48439399999999,41.424396],"type":"Point"}
+}

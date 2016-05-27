@@ -1,0 +1,71 @@
+{
+  "id": 874249505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456595,41.494735,-71.456595,41.494735",
+    "geom:latitude":41.494735,
+    "geom:longitude":-71.456595,
+    "iso:country":"US",
+    "sg:address":"3079 Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4774",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YpTYIbtaWUAR1gyFNoBd4_41.494735_-71.456595@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313553,
+    "wof:geomhash":"6b6cffd12e9c82d92da74ac2e0838280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874249505
+        }
+    ],
+    "wof:id":874249505,
+    "wof:lastmodified":1464313553,
+    "wof:name":"Mobil",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.456595,
+    41.494735,
+    -71.456595,
+    41.494735
+],
+  "geometry": {"coordinates":[-71.45659499999999,41.494735],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874287429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420405,41.852224,-71.420405,41.852224",
+    "geom:latitude":41.852224,
+    "geom:longitude":-71.420405,
+    "iso:country":"US",
+    "sg:address":"590 1/2 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/293531-maryettas-bread-and-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 831 2244",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BNJfd5wXHXcg0EfEtR8q6_41.852224_-71.420405@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314911,
+    "wof:geomhash":"d255f4a4efdc645aa92028a2337164fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874287429
+        }
+    ],
+    "wof:id":874287429,
+    "wof:lastmodified":1464314911,
+    "wof:name":"Maryetta's Bread and Pizza",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.420405,
+    41.852224,
+    -71.420405,
+    41.852224
+],
+  "geometry": {"coordinates":[-71.420405,41.852224],"type":"Point"}
+}

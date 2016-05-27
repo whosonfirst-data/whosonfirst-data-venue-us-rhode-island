@@ -1,0 +1,72 @@
+{
+  "id": 874291837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44213,41.953548,-71.44213,41.953548",
+    "geom:latitude":41.953548,
+    "geom:longitude":-71.44213,
+    "iso:country":"US",
+    "sg:address":"2190 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 9555",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "print",
+        "medium"
+    ],
+    "sg:website":"www.valleybreeze.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zrBLDGlklgc98W95uKBIo_41.953548_-71.442130@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315084,
+    "wof:geomhash":"90fde4a4f30b57063bdb03b67dc03180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291837
+        }
+    ],
+    "wof:id":874291837,
+    "wof:lastmodified":1464315084,
+    "wof:name":"Valley Breeze",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "print",
+        "medium"
+    ]
+},
+  "bbox": [
+    -71.44213,
+    41.953548,
+    -71.44213,
+    41.953548
+],
+  "geometry": {"coordinates":[-71.44213000000001,41.953548],"type":"Point"}
+}

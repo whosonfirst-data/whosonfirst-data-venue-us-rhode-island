@@ -1,0 +1,88 @@
+{
+  "id": 874236491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496262,41.445107,-71.496262,41.445107",
+    "geom:latitude":41.445107,
+    "geom:longitude":-71.496262,
+    "iso:country":"US",
+    "sg:address":"1 River St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 0855",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00LDDfYy3b7rAZu8ZuyIB2_41.445107_-71.496262@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313272,
+    "wof:geomhash":"f6d6a21996e206bf8f04030ce785e786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874236491
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874236491
+        }
+    ],
+    "wof:id":874236491,
+    "wof:lastmodified":1464313272,
+    "wof:name":"WIC Program Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.496262,
+    41.445107,
+    -71.496262,
+    41.445107
+],
+  "geometry": {"coordinates":[-71.496262,41.445107],"type":"Point"}
+}

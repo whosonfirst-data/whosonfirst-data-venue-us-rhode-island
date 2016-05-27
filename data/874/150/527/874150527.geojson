@@ -1,0 +1,71 @@
+{
+  "id": 874150527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541377,41.928101,-71.541377,41.928101",
+    "geom:latitude":41.928101,
+    "geom:longitude":-71.541377,
+    "iso:country":"US",
+    "sg:address":"12 Rogler Farm Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 0526",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pxAvimoAX6tb97FUsoQtO_41.928101_-71.541377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312333,
+    "wof:geomhash":"3c97e4196dad741d694a699fe36a5cc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874150527
+        }
+    ],
+    "wof:id":874150527,
+    "wof:lastmodified":1464312333,
+    "wof:name":"64 66 Homewood Ave LLC",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.541377,
+    41.928101,
+    -71.541377,
+    41.928101
+],
+  "geometry": {"coordinates":[-71.541377,41.928101],"type":"Point"}
+}

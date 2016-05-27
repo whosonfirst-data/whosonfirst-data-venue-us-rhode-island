@@ -1,0 +1,75 @@
+{
+  "id": 874208999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449872,41.660158,-71.449872,41.660158",
+    "geom:latitude":41.660158,
+    "geom:longitude":-71.449872,
+    "iso:country":"US",
+    "sg:address":"284 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 8686",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45NaFNbfWvJkn3nisJCemo_41.660158_-71.449872@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312939,
+    "wof:geomhash":"c9d3eb7d2d55680f085e23cbd3d54cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874208999
+        }
+    ],
+    "wof:id":874208999,
+    "wof:lastmodified":1464312939,
+    "wof:name":"East Greenwich Fire District",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.449872,
+    41.660158,
+    -71.449872,
+    41.660158
+],
+  "geometry": {"coordinates":[-71.449872,41.660158],"type":"Point"}
+}

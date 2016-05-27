@@ -1,0 +1,79 @@
+{
+  "id": 874287719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531099,41.871845,-71.531099,41.871845",
+    "geom:latitude":41.871845,
+    "geom:longitude":-71.531099,
+    "iso:country":"US",
+    "sg:address":"9 Cedar Swamp Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/247224-spikes-junk-yard-dogs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8003",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pEHBJiWs5MqgWoSElhHBa_41.871391_-71.530912@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314920,
+    "wof:geomhash":"a256fb3b47dd81d2f2f3ba9cd1092b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874287719
+        }
+    ],
+    "wof:id":874287719,
+    "wof:lastmodified":1464314920,
+    "wof:name":"Spike's Junk Yard Dogs",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -71.531099,
+    41.871845,
+    -71.531099,
+    41.871845
+],
+  "geometry": {"coordinates":[-71.531099,41.871845],"type":"Point"}
+}

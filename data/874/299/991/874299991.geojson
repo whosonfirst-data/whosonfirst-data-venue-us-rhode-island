@@ -1,0 +1,108 @@
+{
+  "id": 874299991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397134,41.792523,-71.397134,41.792523",
+    "geom:latitude":41.792523,
+    "geom:longitude":-71.397134,
+    "iso:country":"US",
+    "sg:address":"820 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 868 4087",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://providence.citysearch.com/profile/external/639318550/providence_ri/dunkin_donuts.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6f3xUqNDkkBBGiiDYv4E9S_41.792523_-71.397134@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315389,
+    "wof:geomhash":"d02f76333ddcd3d219c0d2ed5a2d5cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874299991
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874299991
+        }
+    ],
+    "wof:id":874299991,
+    "wof:lastmodified":1464315389,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.397134,
+    41.792523,
+    -71.397134,
+    41.792523
+],
+  "geometry": {"coordinates":[-71.39713399999999,41.792523],"type":"Point"}
+}

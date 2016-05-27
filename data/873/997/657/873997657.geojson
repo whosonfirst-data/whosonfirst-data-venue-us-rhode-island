@@ -1,0 +1,71 @@
+{
+  "id": 873997657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44115,41.554893,-71.44115,41.554893",
+    "geom:latitude":41.554893,
+    "geom:longitude":-71.44115,
+    "iso:country":"US",
+    "sg:address":"591 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7040",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mTvb7fhkciOYBTrFITNYa_41.554893_-71.441150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310744,
+    "wof:geomhash":"5bef857d69b46fcc3b14aa879938021e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":873997657
+        }
+    ],
+    "wof:id":873997657,
+    "wof:lastmodified":1464310744,
+    "wof:name":"Mulzer's Car Care",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.44115,
+    41.554893,
+    -71.44115,
+    41.554893
+],
+  "geometry": {"coordinates":[-71.44114999999999,41.554893],"type":"Point"}
+}

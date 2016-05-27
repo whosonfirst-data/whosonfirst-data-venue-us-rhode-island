@@ -1,0 +1,64 @@
+{
+  "id": 874173613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285377,41.732524,-71.285377,41.732524",
+    "geom:latitude":41.732524,
+    "geom:longitude":-71.285377,
+    "iso:country":"US",
+    "sg:address":"139 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 0950",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfywC4jJgtABe3vdbYfQk_41.732524_-71.285377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"9fd787c9373514cb2b7949ac0b51d580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874173613
+        }
+    ],
+    "wof:id":874173613,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Shop The",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.285377,
+    41.732524,
+    -71.285377,
+    41.732524
+],
+  "geometry": {"coordinates":[-71.285377,41.732524],"type":"Point"}
+}

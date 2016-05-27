@@ -1,0 +1,73 @@
+{
+  "id": 874018343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.706274,41.5134,-71.706274,41.5134",
+    "geom:latitude":41.5134,
+    "geom:longitude":-71.706274,
+    "iso:country":"US",
+    "sg:address":"1100 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2880",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50FfL8JbhJpsK6qbBSds4i_41.513400_-71.706274@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310930,
+    "wof:geomhash":"724c79bdfaa1ef088737bcdf2c8e7377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874018343
+        }
+    ],
+    "wof:id":874018343,
+    "wof:lastmodified":1464310930,
+    "wof:name":"Morrone's Auto Sales & Svc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.706274,
+    41.5134,
+    -71.706274,
+    41.5134
+],
+  "geometry": {"coordinates":[-71.70627399999999,41.5134],"type":"Point"}
+}

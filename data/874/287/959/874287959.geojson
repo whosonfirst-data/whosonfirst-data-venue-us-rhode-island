@@ -1,0 +1,75 @@
+{
+  "id": 874287959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523416,41.716796,-71.523416,41.716796",
+    "geom:latitude":41.716796,
+    "geom:longitude":-71.523416,
+    "iso:country":"US",
+    "sg:address":"943 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/56692-papas-place/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 7176",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85830837,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BsvPpgfgluCCkpvWLudfM_41.716937_-71.523526@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314934,
+    "wof:geomhash":"7f917f50d30e2a0b1ff67377232cc49c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85830837,
+            "region_id":85688509,
+            "venue_id":874287959
+        }
+    ],
+    "wof:id":874287959,
+    "wof:lastmodified":1464314934,
+    "wof:name":"Papa's Place",
+    "wof:parent_id":85830837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.523416,
+    41.716796,
+    -71.523416,
+    41.716796
+],
+  "geometry": {"coordinates":[-71.523416,41.716796],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874288657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.650002,41.3848,-71.650002,41.3848",
+    "geom:latitude":41.3848,
+    "geom:longitude":-71.650002,
+    "iso:country":"US",
+    "sg:address":"4625 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6626",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19ZD9BjpHgNT2NEcsputHr_41.384800_-71.650002@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314964,
+    "wof:geomhash":"625c0e3ddda10c1bddf6692b7e8313ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288657
+        }
+    ],
+    "wof:id":874288657,
+    "wof:lastmodified":1464314964,
+    "wof:name":"Charlestown Package Store Inc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.650002,
+    41.3848,
+    -71.650002,
+    41.3848
+],
+  "geometry": {"coordinates":[-71.650002,41.3848],"type":"Point"}
+}

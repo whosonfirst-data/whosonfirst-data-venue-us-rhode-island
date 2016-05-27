@@ -1,0 +1,80 @@
+{
+  "id": 874134715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469634,41.855309,-71.469634,41.855309",
+    "geom:latitude":41.855309,
+    "geom:longitude":-71.469634,
+    "iso:country":"US",
+    "sg:address":"31 Justice St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1554",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "maintenance",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802791,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76TAgZmAAGLS0XgzGI6YKS_41.855309_-71.469634@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312188,
+    "wof:geomhash":"58b3de68f45829a2b8b570250e170c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85802791,
+            "region_id":85688509,
+            "venue_id":874134715
+        }
+    ],
+    "wof:id":874134715,
+    "wof:lastmodified":1464312188,
+    "wof:name":"Ecosteam Cleaning Company",
+    "wof:parent_id":85802791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "maintenance",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.469634,
+    41.855309,
+    -71.469634,
+    41.855309
+],
+  "geometry": {"coordinates":[-71.469634,41.855309],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874081003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.724395,41.479776,-71.724395,41.479776",
+    "geom:latitude":41.479776,
+    "geom:longitude":-71.724395,
+    "iso:country":"US",
+    "sg:address":"53 Old Depot Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7904",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70BeQCj3QGPJsMRJqnWExn_41.479776_-71.724395@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311563,
+    "wof:geomhash":"3a42ae758a0e8014696cf67b56cf1eec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874081003
+        }
+    ],
+    "wof:id":874081003,
+    "wof:lastmodified":1464311563,
+    "wof:name":"J W NADOLNY Plumbing LLC",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.724395,
+    41.479776,
+    -71.724395,
+    41.479776
+],
+  "geometry": {"coordinates":[-71.724395,41.479776],"type":"Point"}
+}

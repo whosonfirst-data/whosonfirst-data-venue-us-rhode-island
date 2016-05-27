@@ -1,0 +1,71 @@
+{
+  "id": 874054979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508128,41.867345,-71.508128,41.867345",
+    "geom:latitude":41.867345,
+    "geom:longitude":-71.508128,
+    "iso:country":"US",
+    "sg:address":"9 Larch St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2587",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "foundation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1giydoLOTSRDxkvMKaqxl9_41.867345_-71.508128@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311292,
+    "wof:geomhash":"7001783d6fed6ec3a89f57f027758c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874054979
+        }
+    ],
+    "wof:id":874054979,
+    "wof:lastmodified":1464311292,
+    "wof:name":"R & R Forms Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "foundation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.508128,
+    41.867345,
+    -71.508128,
+    41.867345
+],
+  "geometry": {"coordinates":[-71.508128,41.867345],"type":"Point"}
+}

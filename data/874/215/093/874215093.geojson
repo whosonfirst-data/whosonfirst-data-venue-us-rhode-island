@@ -1,0 +1,69 @@
+{
+  "id": 874215093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524104,41.68396,-71.524104,41.68396",
+    "geom:latitude":41.68396,
+    "geom:longitude":-71.524104,
+    "iso:country":"US",
+    "sg:address":"1745 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 8670",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ULQTysyEve4M3RN39I2gZ_41.683960_-71.524104@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313005,
+    "wof:geomhash":"784f579c3834420d243d704e030a5487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874215093
+        }
+    ],
+    "wof:id":874215093,
+    "wof:lastmodified":1464313005,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.524104,
+    41.68396,
+    -71.524104,
+    41.68396
+],
+  "geometry": {"coordinates":[-71.52410399999999,41.68396],"type":"Point"}
+}

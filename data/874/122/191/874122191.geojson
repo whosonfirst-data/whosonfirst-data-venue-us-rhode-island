@@ -1,0 +1,69 @@
+{
+  "id": 874122191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483489,41.386815,-71.483489,41.386815",
+    "geom:latitude":41.386815,
+    "geom:longitude":-71.483489,
+    "iso:country":"US",
+    "sg:address":"88 Judith Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1106",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zsthNnBgwx6PsIfQYphqM_41.386815_-71.483489@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312060,
+    "wof:geomhash":"cc4d44b37f662c1fc1647a0a02999579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874122191
+        }
+    ],
+    "wof:id":874122191,
+    "wof:lastmodified":1464312060,
+    "wof:name":"Marty's Laundry & Dry Cleaning",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.483489,
+    41.386815,
+    -71.483489,
+    41.386815
+],
+  "geometry": {"coordinates":[-71.48348900000001,41.386815],"type":"Point"}
+}

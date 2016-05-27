@@ -1,0 +1,79 @@
+{
+  "id": 874277881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530673,41.695679,-71.530673,41.695679",
+    "geom:latitude":41.695679,
+    "geom:longitude":-71.530673,
+    "iso:country":"US",
+    "sg:address":"24 W Warwick Ave",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 4770",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "paint",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zhsZn4yAGXyUHqAzyAQZo_41.695679_-71.530673@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314535,
+    "wof:geomhash":"b3990d577c83994bd412c5b210536324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874277881
+        }
+    ],
+    "wof:id":874277881,
+    "wof:lastmodified":1464314535,
+    "wof:name":"Randys Auto Ltd",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "paint",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.530673,
+    41.695679,
+    -71.530673,
+    41.695679
+],
+  "geometry": {"coordinates":[-71.53067299999999,41.695679],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874000279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.190469,41.668823,-71.190469,41.668823",
+    "geom:latitude":41.668823,
+    "geom:longitude":-71.190469,
+    "iso:country":"US",
+    "sg:address":"100 Church St",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 6059",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S55k27t7klschxutrOSFR_41.668823_-71.190469@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310762,
+    "wof:geomhash":"31052cbb002c956a6a285a231e1f71c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874000279
+        }
+    ],
+    "wof:id":874000279,
+    "wof:lastmodified":1464310762,
+    "wof:name":"Steve's Heating Svc",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.190469,
+    41.668823,
+    -71.190469,
+    41.668823
+],
+  "geometry": {"coordinates":[-71.19046899999999,41.668823],"type":"Point"}
+}

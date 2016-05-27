@@ -1,0 +1,75 @@
+{
+  "id": 874246387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428032,41.696334,-71.428032,41.696334",
+    "geom:latitude":41.696334,
+    "geom:longitude":-71.428032,
+    "iso:country":"US",
+    "sg:address":"438 Buttonwoods Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 3206",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808683,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IWwZu4PTaFdeoxkDYccNP_41.696334_-71.428032@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313460,
+    "wof:geomhash":"52b7fec299573313f9e503b33821f9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85808683,
+            "region_id":85688509,
+            "venue_id":874246387
+        }
+    ],
+    "wof:id":874246387,
+    "wof:lastmodified":1464313460,
+    "wof:name":"Buttonwoods Barber Shop",
+    "wof:parent_id":85808683,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.428032,
+    41.696334,
+    -71.428032,
+    41.696334
+],
+  "geometry": {"coordinates":[-71.428032,41.696334],"type":"Point"}
+}

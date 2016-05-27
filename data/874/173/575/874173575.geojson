@@ -1,0 +1,74 @@
+{
+  "id": 874173575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.611947,41.980363,-71.611947,41.980363",
+    "geom:latitude":41.980363,
+    "geom:longitude":-71.611947,
+    "iso:country":"US",
+    "sg:address":"2577 Victory Hwy",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 5020",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_021hLGHkWaguvvTlZtvW18_41.980363_-71.611947@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312564,
+    "wof:geomhash":"820c682c3b3c3bb856ea6749dceebfab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874173575
+        }
+    ],
+    "wof:id":874173575,
+    "wof:lastmodified":1464312564,
+    "wof:name":"Nasonville Volunteer Fire Dept",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.611947,
+    41.980363,
+    -71.611947,
+    41.980363
+],
+  "geometry": {"coordinates":[-71.611947,41.980363],"type":"Point"}
+}

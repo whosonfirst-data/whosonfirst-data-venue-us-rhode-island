@@ -1,0 +1,71 @@
+{
+  "id": 874218693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455001,41.653827,-71.455001,41.653827",
+    "geom:latitude":41.653827,
+    "geom:longitude":-71.455001,
+    "iso:country":"US",
+    "sg:address":"822 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9222",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:website":"www.hillfuneralhome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PI8QDaIWjNM3sIY8Omrel_41.653827_-71.455001@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313038,
+    "wof:geomhash":"9248e40a6b58d00e5b72aaaf80118605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874218693
+        }
+    ],
+    "wof:id":874218693,
+    "wof:lastmodified":1464313038,
+    "wof:name":"Hill Funeral Home Inc",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.455001,
+    41.653827,
+    -71.455001,
+    41.653827
+],
+  "geometry": {"coordinates":[-71.455001,41.653827],"type":"Point"}
+}

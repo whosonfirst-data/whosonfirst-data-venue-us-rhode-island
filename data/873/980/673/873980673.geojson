@@ -1,0 +1,84 @@
+{
+  "id": 873980673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308972,41.48608,-71.308972,41.48608",
+    "geom:latitude":41.48608,
+    "geom:longitude":-71.308972,
+    "iso:country":"US",
+    "sg:address":"55 Bellevue Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 9166",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OXENuTyBasE0iweeDL21e_41.486080_-71.308972@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310596,
+    "wof:geomhash":"d065dcbbbcf36d948830aec264810d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873980673
+        }
+    ],
+    "wof:id":873980673,
+    "wof:lastmodified":1464310596,
+    "wof:name":"Spring Bull Studio Co-Op",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.308972,
+    41.48608,
+    -71.308972,
+    41.48608
+],
+  "geometry": {"coordinates":[-71.308972,41.48608],"type":"Point"}
+}

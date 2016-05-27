@@ -1,0 +1,81 @@
+{
+  "id": 874264735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452386,41.789869,-71.452386,41.789869",
+    "geom:latitude":41.789869,
+    "geom:longitude":-71.452386,
+    "iso:country":"US",
+    "sg:address":"16 Gansett Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 0348",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TK8kIBE0vBPF0490V5WGj_41.789869_-71.452386@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314024,
+    "wof:geomhash":"cd10af4678ffed8aa3cbeb259402e6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874264735
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874264735
+        }
+    ],
+    "wof:id":874264735,
+    "wof:lastmodified":1464314024,
+    "wof:name":"Tipico Bar Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.452386,
+    41.789869,
+    -71.452386,
+    41.789869
+],
+  "geometry": {"coordinates":[-71.452386,41.789869],"type":"Point"}
+}

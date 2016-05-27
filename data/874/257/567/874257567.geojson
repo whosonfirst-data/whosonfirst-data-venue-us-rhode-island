@@ -1,0 +1,73 @@
+{
+  "id": 874257567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425947,41.869976,-71.425947,41.869976",
+    "geom:latitude":41.869976,
+    "geom:longitude":-71.425947,
+    "iso:country":"US",
+    "sg:address":"1137 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 1360",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "delicatessen",
+        "type",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c6WIPmqo5jx687dqAJPhJ_41.869976_-71.425947@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313751,
+    "wof:geomhash":"df6175b66cda4515c1c03806700aa446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874257567
+        }
+    ],
+    "wof:id":874257567,
+    "wof:lastmodified":1464313751,
+    "wof:name":"Tom's Deli",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "type",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.425947,
+    41.869976,
+    -71.425947,
+    41.869976
+],
+  "geometry": {"coordinates":[-71.42594699999999,41.869976],"type":"Point"}
+}

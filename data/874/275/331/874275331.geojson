@@ -1,0 +1,101 @@
+{
+  "id": 874275331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493376,41.705081,-71.493376,41.705081",
+    "geom:latitude":41.705081,
+    "geom:longitude":-71.493376,
+    "iso:country":"US",
+    "sg:address":"1089 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 5336",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plastering",
+        "supply",
+        "coping",
+        "tiling",
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HOAIjM8jCh2n5wEMmqr2O_41.705081_-71.493376@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314415,
+    "wof:geomhash":"242720eeea5331aac12a76ca3d50bad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874275331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874275331
+        }
+    ],
+    "wof:id":874275331,
+    "wof:lastmodified":1464314415,
+    "wof:name":"Leslies Swimming Pool Supplies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "supply",
+        "coping",
+        "tiling",
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -71.493376,
+    41.705081,
+    -71.493376,
+    41.705081
+],
+  "geometry": {"coordinates":[-71.493376,41.705081],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874266261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567097,41.67268,-71.567097,41.67268",
+    "geom:latitude":41.67268,
+    "geom:longitude":-71.567097,
+    "iso:country":"US",
+    "sg:address":"222 Hopkins Hill Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 0166",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZYIbXw4hsRkDzYS4wtHby_41.672680_-71.567097@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314080,
+    "wof:geomhash":"50293a6b84fb5f4487bd61f9c61a8e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874266261
+        }
+    ],
+    "wof:id":874266261,
+    "wof:lastmodified":1464314080,
+    "wof:name":"C & R Electric Inc",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.567097,
+    41.67268,
+    -71.567097,
+    41.67268
+],
+  "geometry": {"coordinates":[-71.567097,41.67268],"type":"Point"}
+}

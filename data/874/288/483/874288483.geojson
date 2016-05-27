@@ -1,0 +1,86 @@
+{
+  "id": 874288483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272581,41.663358,-71.272581,41.663358",
+    "geom:latitude":41.663358,
+    "geom:longitude":-71.272581,
+    "iso:country":"US",
+    "sg:address":"26 Burnside St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0050",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ],
+    "sg:website":"http://www.systinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zToiv4auB8ylklC9qsrxx_41.663358_-71.272581@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314958,
+    "wof:geomhash":"d46bbb72662c1f0a5e60b1f68bc247e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874288483
+        }
+    ],
+    "wof:id":874288483,
+    "wof:lastmodified":1464314958,
+    "wof:name":"Systematics Inc",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.272581,
+    41.663358,
+    -71.272581,
+    41.663358
+],
+  "geometry": {"coordinates":[-71.272581,41.663358],"type":"Point"}
+}

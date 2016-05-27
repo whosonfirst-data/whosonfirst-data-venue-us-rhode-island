@@ -1,0 +1,69 @@
+{
+  "id": 874291735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444298,41.962299,-71.444298,41.962299",
+    "geom:latitude":41.962299,
+    "geom:longitude":-71.444298,
+    "iso:country":"US",
+    "sg:address":"2359 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3070",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bXNAXiPCPDmT5bl4iJoDQ_41.962299_-71.444298@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315080,
+    "wof:geomhash":"521f1fad4e039fa0ac77cf27138bb86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291735
+        }
+    ],
+    "wof:id":874291735,
+    "wof:lastmodified":1464315080,
+    "wof:name":"Goodman Denise DMD",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -71.444298,
+    41.962299,
+    -71.444298,
+    41.962299
+],
+  "geometry": {"coordinates":[-71.444298,41.962299],"type":"Point"}
+}

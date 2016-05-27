@@ -1,0 +1,72 @@
+{
+  "id": 874278883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463753,41.566185,-71.463753,41.566185",
+    "geom:latitude":41.566185,
+    "geom:longitude":-71.463753,
+    "iso:country":"US",
+    "sg:address":"320 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2700",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QhNK4LyMrjFjX1j5XmAHH_41.566185_-71.463753@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314569,
+    "wof:geomhash":"3cecb9e9f15488d3d73cc1d479a5e64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874278883
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874278883
+        }
+    ],
+    "wof:id":874278883,
+    "wof:lastmodified":1464314569,
+    "wof:name":"Underhill John M",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.463753,
+    41.566185,
+    -71.463753,
+    41.566185
+],
+  "geometry": {"coordinates":[-71.463753,41.566185],"type":"Point"}
+}

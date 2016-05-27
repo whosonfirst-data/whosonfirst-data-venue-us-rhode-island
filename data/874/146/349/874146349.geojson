@@ -1,0 +1,69 @@
+{
+  "id": 874146349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430388,41.929527,-71.430388,41.929527",
+    "geom:latitude":41.929527,
+    "geom:longitude":-71.430388,
+    "iso:country":"US",
+    "sg:address":"1 John C Dean Memorial Blvd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 4677",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D8pLrrv3x7OMyOeJqhanu_41.929527_-71.430388@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312296,
+    "wof:geomhash":"62743a70a12da3c53e2dd42ef3c31f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874146349
+        }
+    ],
+    "wof:id":874146349,
+    "wof:lastmodified":1464312296,
+    "wof:name":"Dean Warehouse Svc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -71.430388,
+    41.929527,
+    -71.430388,
+    41.929527
+],
+  "geometry": {"coordinates":[-71.43038799999999,41.929527],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874192277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501365,41.866087,-71.501365,41.866087",
+    "geom:latitude":41.866087,
+    "geom:longitude":-71.501365,
+    "iso:country":"US",
+    "sg:address":"200 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 3898",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AuOC1MlETqpr9uVdcdDOr_41.866087_-71.501365@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312761,
+    "wof:geomhash":"2d6e8ea5e8b5d3c3777ed4c100da5f7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874192277
+        }
+    ],
+    "wof:id":874192277,
+    "wof:lastmodified":1464312761,
+    "wof:name":"Sal's One Stop Automotive",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.501365,
+    41.866087,
+    -71.501365,
+    41.866087
+],
+  "geometry": {"coordinates":[-71.50136500000001,41.866087],"type":"Point"}
+}

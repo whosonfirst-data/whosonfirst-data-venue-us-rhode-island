@@ -1,0 +1,89 @@
+{
+  "id": 874298935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437302,41.8675,-71.437302,41.8675",
+    "geom:latitude":41.8675,
+    "geom:longitude":-71.437302,
+    "iso:country":"US",
+    "sg:address":"1307 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 3400",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "blind",
+        "reupholstery",
+        "design",
+        "shade",
+        "interior",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HtpEPMvmCP5uvdRxJnRlH_41.867500_-71.437302@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315352,
+    "wof:geomhash":"4cd74c22fb9077e4d1e5cd4903a438f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874298935
+        }
+    ],
+    "wof:id":874298935,
+    "wof:lastmodified":1464315352,
+    "wof:name":"Contract Draperies Manufacturing Co",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blind",
+        "reupholstery",
+        "design",
+        "shade",
+        "interior",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.437302,
+    41.8675,
+    -71.437302,
+    41.8675
+],
+  "geometry": {"coordinates":[-71.437302,41.8675],"type":"Point"}
+}

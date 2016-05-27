@@ -1,0 +1,69 @@
+{
+  "id": 874299287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455056,41.863833,-71.455056,41.863833",
+    "geom:latitude":41.863833,
+    "geom:longitude":-71.455056,
+    "iso:country":"US",
+    "sg:address":"1703 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.lowes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KnfMEtbS6kkGsbbR5RlXy_41.863833_-71.455056@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315363,
+    "wof:geomhash":"7a37467bffe177dcde70dfe9214dc443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299287
+        }
+    ],
+    "wof:id":874299287,
+    "wof:lastmodified":1464315363,
+    "wof:name":"Lowe's",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.455056,
+    41.863833,
+    -71.455056,
+    41.863833
+],
+  "geometry": {"coordinates":[-71.455056,41.863833],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874283541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470585,41.825145,-71.470585,41.825145",
+    "geom:latitude":41.825145,
+    "geom:longitude":-71.470585,
+    "iso:country":"US",
+    "sg:address":"21 Oakdale Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 7378",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "scooter"
+    ],
+    "sg:website":"www.acicustoms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fwUMdygxw3TkDeYBotbKF_41.825025_-71.471299@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314757,
+    "wof:geomhash":"fd5fbd33b795f1c47a071ddfa7a72240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874283541
+        }
+    ],
+    "wof:id":874283541,
+    "wof:lastmodified":1464314757,
+    "wof:name":"Aci Customs",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -71.470585,
+    41.825145,
+    -71.470585,
+    41.825145
+],
+  "geometry": {"coordinates":[-71.470585,41.825145],"type":"Point"}
+}

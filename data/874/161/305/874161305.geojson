@@ -1,0 +1,77 @@
+{
+  "id": 874161305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453161,41.571527,-71.453161,41.571527",
+    "geom:latitude":41.571527,
+    "geom:longitude":-71.453161,
+    "iso:country":"US",
+    "sg:address":"25 W Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1289",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P05jKodX9jbZaSritOpj0_41.571527_-71.453161@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312445,
+    "wof:geomhash":"05405249c19cfc4517fcdbe1a49af08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874161305
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874161305
+        }
+    ],
+    "wof:id":874161305,
+    "wof:lastmodified":1464312445,
+    "wof:name":"Spring Pottery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -71.453161,
+    41.571527,
+    -71.453161,
+    41.571527
+],
+  "geometry": {"coordinates":[-71.45316099999999,41.571527],"type":"Point"}
+}

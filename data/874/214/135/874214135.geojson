@@ -1,0 +1,75 @@
+{
+  "id": 874214135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.418647,41.802147,-71.418647,41.802147",
+    "geom:latitude":41.802147,
+    "geom:longitude":-71.418647,
+    "iso:country":"US",
+    "sg:address":"792 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 9299",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69PAacgI6eRCzvkNSAAq0H_41.802147_-71.418647@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312996,
+    "wof:geomhash":"da50a3c6fb6d7d3be54ae87c70c40110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874214135
+        }
+    ],
+    "wof:id":874214135,
+    "wof:lastmodified":1464312996,
+    "wof:name":"Correcamino Shipping",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -71.418647,
+    41.802147,
+    -71.418647,
+    41.802147
+],
+  "geometry": {"coordinates":[-71.41864700000001,41.802147],"type":"Point"}
+}

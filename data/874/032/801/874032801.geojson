@@ -1,0 +1,71 @@
+{
+  "id": 874032801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.539395,41.469774,-71.539395,41.469774",
+    "geom:latitude":41.469774,
+    "geom:longitude":-71.539395,
+    "iso:country":"US",
+    "sg:address":"63 Francis Horn Dr",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3921",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iz0MrP2VB4kgHsxOrAeG3_41.469774_-71.539395@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311073,
+    "wof:geomhash":"722b097d6c1ad46f788e82a1eb73c61a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874032801
+        }
+    ],
+    "wof:id":874032801,
+    "wof:lastmodified":1464311073,
+    "wof:name":"Antons Custom Daily",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.539395,
+    41.469774,
+    -71.539395,
+    41.469774
+],
+  "geometry": {"coordinates":[-71.539395,41.469774],"type":"Point"}
+}

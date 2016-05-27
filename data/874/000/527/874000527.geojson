@@ -1,0 +1,71 @@
+{
+  "id": 874000527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.650152,41.953911,-71.650152,41.953911",
+    "geom:latitude":41.953911,
+    "geom:longitude":-71.650152,
+    "iso:country":"US",
+    "sg:address":"755 Central St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 9864",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ob9bRaPLoDRJRcTETyBK_41.953911_-71.650152@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310764,
+    "wof:geomhash":"101250c1d9e5720d5518d50d8f5f615e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874000527
+        }
+    ],
+    "wof:id":874000527,
+    "wof:lastmodified":1464310764,
+    "wof:name":"Online Electric Inc",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.650152,
+    41.953911,
+    -71.650152,
+    41.953911
+],
+  "geometry": {"coordinates":[-71.65015200000001,41.953911],"type":"Point"}
+}

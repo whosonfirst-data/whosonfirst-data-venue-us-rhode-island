@@ -1,0 +1,77 @@
+{
+  "id": 874282265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423897,41.818802,-71.423897,41.818802",
+    "geom:latitude":41.818802,
+    "geom:longitude":-71.423897,
+    "iso:country":"US",
+    "sg:address":"432 W Fountain St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 9760",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "towing",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02OMeKxZN0FRAhZMZ7oEY3_41.818585_-71.424180@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314716,
+    "wof:geomhash":"1926fcf5ac8e852d280ef7a63990fc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874282265
+        }
+    ],
+    "wof:id":874282265,
+    "wof:lastmodified":1464314716,
+    "wof:name":"Matarese Towing & Service",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.423897,
+    41.818802,
+    -71.423897,
+    41.818802
+],
+  "geometry": {"coordinates":[-71.423897,41.818802],"type":"Point"}
+}

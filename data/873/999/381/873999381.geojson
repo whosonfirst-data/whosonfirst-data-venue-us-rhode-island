@@ -1,0 +1,78 @@
+{
+  "id": 873999381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534204,41.875332,-71.534204,41.875332",
+    "geom:latitude":41.875332,
+    "geom:longitude":-71.534204,
+    "iso:country":"US",
+    "sg:address":"45 Cedar Swamp Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0645",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hfrVUsymBS6Glgm16GAJB_41.875332_-71.534204@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"63ebe06d121a3219b673e0bb7fb9f1ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":873999381
+        }
+    ],
+    "wof:id":873999381,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Farland Electric Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.534204,
+    41.875332,
+    -71.534204,
+    41.875332
+],
+  "geometry": {"coordinates":[-71.534204,41.875332],"type":"Point"}
+}

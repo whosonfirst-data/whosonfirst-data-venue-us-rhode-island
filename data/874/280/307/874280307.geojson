@@ -1,0 +1,69 @@
+{
+  "id": 874280307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252506,41.580244,-71.252506,41.580244",
+    "geom:latitude":41.580244,
+    "geom:longitude":-71.252506,
+    "iso:country":"US",
+    "sg:address":"1826 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2683",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kgUvgK6p2nfRKzwTr8eR6_41.580244_-71.252506@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314624,
+    "wof:geomhash":"761987b9c64fd3ab9a3877df396de561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874280307
+        }
+    ],
+    "wof:id":874280307,
+    "wof:lastmodified":1464314624,
+    "wof:name":"Leisure Limousine",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -71.252506,
+    41.580244,
+    -71.252506,
+    41.580244
+],
+  "geometry": {"coordinates":[-71.252506,41.580244],"type":"Point"}
+}

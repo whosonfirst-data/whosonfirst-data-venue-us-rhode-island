@@ -1,0 +1,75 @@
+{
+  "id": 874261751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.667857,41.908692,-71.667857,41.908692",
+    "geom:latitude":41.908692,
+    "geom:longitude":-71.667857,
+    "iso:country":"US",
+    "sg:address":"1116 Putnam Pike",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2516",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540539,
+        102191575,
+        404488365,
+        85633793,
+        101720589,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gCIN1T3ObDDFLeI2KO4eI_41.908692_-71.667857@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313916,
+    "wof:geomhash":"41361ab4ea0a5649c0547c2a67a762c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488365,
+            "locality_id":101720589,
+            "neighbourhood_id":420540539,
+            "region_id":85688509,
+            "venue_id":874261751
+        }
+    ],
+    "wof:id":874261751,
+    "wof:lastmodified":1464313916,
+    "wof:name":"State Police Rhode Island",
+    "wof:parent_id":420540539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -71.667857,
+    41.908692,
+    -71.667857,
+    41.908692
+],
+  "geometry": {"coordinates":[-71.667857,41.908692],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874300791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398148,41.829361,-71.398148,41.829361",
+    "geom:latitude":41.829361,
+    "geom:longitude":-71.398148,
+    "iso:country":"US",
+    "sg:address":"216 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 8100",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OHwhPMfeNGUfEFBIKC2wf_41.829361_-71.398148@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315416,
+    "wof:geomhash":"f4b8f74b78cf3acfbed9e5d33f35c1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874300791
+        }
+    ],
+    "wof:id":874300791,
+    "wof:lastmodified":1464315416,
+    "wof:name":"Providence School Department",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.398148,
+    41.829361,
+    -71.398148,
+    41.829361
+],
+  "geometry": {"coordinates":[-71.39814800000001,41.829361],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874239493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561052,41.682612,-71.561052,41.682612",
+    "geom:latitude":41.682612,
+    "geom:longitude":-71.561052,
+    "iso:country":"US",
+    "sg:address":"732 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 1045",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xVaOQSqOXRl8Al3gWgO6T_41.682612_-71.561052@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313330,
+    "wof:geomhash":"67a979273b5db3fd9277303459d8b0f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874239493
+        }
+    ],
+    "wof:id":874239493,
+    "wof:lastmodified":1464313330,
+    "wof:name":"Tim Hortons",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.561052,
+    41.682612,
+    -71.561052,
+    41.682612
+],
+  "geometry": {"coordinates":[-71.561052,41.682612],"type":"Point"}
+}

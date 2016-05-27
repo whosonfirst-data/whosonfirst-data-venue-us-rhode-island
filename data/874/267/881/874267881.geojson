@@ -1,0 +1,77 @@
+{
+  "id": 874267881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.791644,41.343265,-71.791644,41.343265",
+    "geom:latitude":41.343265,
+    "geom:longitude":-71.791644,
+    "iso:country":"US",
+    "sg:address":"12 Donruss Dr",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 348 2260",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829765,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JK1pGoLwfgvQ5Psw8WOUW_41.343265_-71.791644@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314146,
+    "wof:geomhash":"484a129c8bcf52a9f19367d46f814d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":85829765,
+            "region_id":85688509,
+            "venue_id":874267881
+        }
+    ],
+    "wof:id":874267881,
+    "wof:lastmodified":1464314146,
+    "wof:name":"Black Dog Container Svc",
+    "wof:parent_id":85829765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.791644,
+    41.343265,
+    -71.791644,
+    41.343265
+],
+  "geometry": {"coordinates":[-71.79164400000001,41.343265],"type":"Point"}
+}

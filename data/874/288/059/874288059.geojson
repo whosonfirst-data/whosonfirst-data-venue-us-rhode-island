@@ -1,0 +1,89 @@
+{
+  "id": 874288059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406317,41.800156,-71.406317,41.800156",
+    "geom:latitude":41.800156,
+    "geom:longitude":-71.406317,
+    "iso:country":"US",
+    "sg:address":"155 Thurbers Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/215263-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8040",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7587JYqunp3HdRPyBDVV0m_41.799906_-71.406471@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314938,
+    "wof:geomhash":"b8d8e0efc6fb09739936e96e21e94488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874288059
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874288059
+        }
+    ],
+    "wof:id":874288059,
+    "wof:lastmodified":1464314938,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.406317,
+    41.800156,
+    -71.406317,
+    41.800156
+],
+  "geometry": {"coordinates":[-71.406317,41.800156],"type":"Point"}
+}

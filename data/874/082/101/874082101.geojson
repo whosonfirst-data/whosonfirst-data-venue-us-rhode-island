@@ -1,0 +1,85 @@
+{
+  "id": 874082101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.195729,41.616775,-71.195729,41.616775",
+    "geom:latitude":41.616775,
+    "geom:longitude":-71.195729,
+    "iso:country":"US",
+    "sg:address":"15 Bulgarmarsh Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 6390",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QbM6ryGCSPim0K2QcEF5N_41.616775_-71.195729@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311577,
+    "wof:geomhash":"0a7b0bba5d9e17cffa1b332dc308c3a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874082101
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874082101
+        }
+    ],
+    "wof:id":874082101,
+    "wof:lastmodified":1464311577,
+    "wof:name":"Painting By Brad Pearce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.195729,
+    41.616775,
+    -71.195729,
+    41.616775
+],
+  "geometry": {"coordinates":[-71.195729,41.616775],"type":"Point"}
+}

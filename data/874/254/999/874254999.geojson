@@ -1,0 +1,67 @@
+{
+  "id": 874254999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.520303,41.458567,-71.520303,41.458567",
+    "geom:latitude":41.458567,
+    "geom:longitude":-71.520303,
+    "iso:country":"US",
+    "sg:address":"307 Curtis Corner Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9681",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:website":"www.ride.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lLozCQ1VEKph0wA4RWjtG_41.458567_-71.520303@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313675,
+    "wof:geomhash":"42787b515f28c7ded27a51f21d02c6bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874254999
+        }
+    ],
+    "wof:id":874254999,
+    "wof:lastmodified":1464313675,
+    "wof:name":"South Kingstown School Dist",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.520303,
+    41.458567,
+    -71.520303,
+    41.458567
+],
+  "geometry": {"coordinates":[-71.520303,41.458567],"type":"Point"}
+}

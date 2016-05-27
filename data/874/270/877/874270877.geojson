@@ -1,0 +1,90 @@
+{
+  "id": 874270877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41026,41.799142,-71.41026,41.799142",
+    "geom:latitude":41.799142,
+    "geom:longitude":-71.41026,
+    "iso:country":"US",
+    "sg:address":"289 Thurbers Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 7019",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m9LcS8MSMKomwGsLEGFrk_41.799142_-71.410260@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314254,
+    "wof:geomhash":"ead67a03b7072fb3a5b420b6548eb4cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874270877
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874270877
+        }
+    ],
+    "wof:id":874270877,
+    "wof:lastmodified":1464314254,
+    "wof:name":"Santana Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.41026,
+    41.799142,
+    -71.41026,
+    41.799142
+],
+  "geometry": {"coordinates":[-71.41025999999999,41.799142],"type":"Point"}
+}

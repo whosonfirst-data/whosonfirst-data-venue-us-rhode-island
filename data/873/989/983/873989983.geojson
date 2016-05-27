@@ -1,0 +1,73 @@
+{
+  "id": 873989983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467621,41.846394,-71.467621,41.846394",
+    "geom:latitude":41.846394,
+    "geom:longitude":-71.467621,
+    "iso:country":"US",
+    "sg:address":"399 Fruit Hill Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5805",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "care",
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_578Fd8YO1u0lecBVedEVwx_41.846394_-71.467621@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310689,
+    "wof:geomhash":"265218d16c697de794c4a4ae713f3cea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":873989983
+        }
+    ],
+    "wof:id":873989983,
+    "wof:lastmodified":1464310689,
+    "wof:name":"Fruit Hill Adult Day Care",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.467621,
+    41.846394,
+    -71.467621,
+    41.846394
+],
+  "geometry": {"coordinates":[-71.46762099999999,41.846394],"type":"Point"}
+}

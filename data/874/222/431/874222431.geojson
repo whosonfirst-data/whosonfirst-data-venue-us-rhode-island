@@ -1,0 +1,79 @@
+{
+  "id": 874222431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.380613,41.822598,-71.380613,41.822598",
+    "geom:latitude":41.822598,
+    "geom:longitude":-71.380613,
+    "iso:country":"US",
+    "sg:address":"160 Valley St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 1002",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qQbgj9MQepIm8YsL02U5L_41.822598_-71.380613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313088,
+    "wof:geomhash":"268190a2f941a74e0b7cef3c804e179d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874222431
+        }
+    ],
+    "wof:id":874222431,
+    "wof:lastmodified":1464313088,
+    "wof:name":"Rouge Choppers",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -71.380613,
+    41.822598,
+    -71.380613,
+    41.822598
+],
+  "geometry": {"coordinates":[-71.380613,41.822598],"type":"Point"}
+}

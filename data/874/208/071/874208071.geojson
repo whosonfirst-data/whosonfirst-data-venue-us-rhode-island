@@ -1,0 +1,71 @@
+{
+  "id": 874208071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531811,41.99156,-71.531811,41.99156",
+    "geom:latitude":41.99156,
+    "geom:longitude":-71.531811,
+    "iso:country":"US",
+    "sg:address":"76 Warren Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 0516",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "distribution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bnajefi2PMhdPP438LEkn_41.991560_-71.531811@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312930,
+    "wof:geomhash":"c0fd33d04112a5dea51e0fc986208876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874208071
+        }
+    ],
+    "wof:id":874208071,
+    "wof:lastmodified":1464312930,
+    "wof:name":"Dubois Imports Exports Corp",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "distribution"
+    ]
+},
+  "bbox": [
+    -71.531811,
+    41.99156,
+    -71.531811,
+    41.99156
+],
+  "geometry": {"coordinates":[-71.531811,41.99156],"type":"Point"}
+}

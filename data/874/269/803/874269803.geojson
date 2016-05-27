@@ -1,0 +1,75 @@
+{
+  "id": 874269803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.768335,41.852398,-71.768335,41.852398",
+    "geom:latitude":41.852398,
+    "geom:longitude":-71.768335,
+    "iso:country":"US",
+    "sg:address":"203 Hartford Pike",
+    "sg:city":"Foster",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 2335",
+    "sg:postcode":"02825",
+    "sg:province":"RI",
+    "sg:tags":[
+        "trash",
+        "container",
+        "hauling",
+        "dumpster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837631,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SzHMn4pPmfI4Hq3RKr8IT_41.852398_-71.768335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314219,
+    "wof:geomhash":"2cf2bb1de3086e78ec2b629839e9f7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85837631,
+            "region_id":85688509,
+            "venue_id":874269803
+        }
+    ],
+    "wof:id":874269803,
+    "wof:lastmodified":1464314219,
+    "wof:name":"Aquidneck Waste",
+    "wof:parent_id":85837631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trash",
+        "container",
+        "hauling",
+        "dumpster"
+    ]
+},
+  "bbox": [
+    -71.768335,
+    41.852398,
+    -71.768335,
+    41.852398
+],
+  "geometry": {"coordinates":[-71.76833499999999,41.852398],"type":"Point"}
+}

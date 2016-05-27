@@ -1,0 +1,72 @@
+{
+  "id": 874246305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46065,41.576575,-71.46065,41.576575",
+    "geom:latitude":41.576575,
+    "geom:longitude":-71.46065,
+    "iso:country":"US",
+    "sg:address":"8220 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 7225",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YQJeuReuObd7L26ZE4WWT_41.576575_-71.460650@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313459,
+    "wof:geomhash":"5f85572f8eb6695f7f6477e71944349f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874246305
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874246305
+        }
+    ],
+    "wof:id":874246305,
+    "wof:lastmodified":1464313459,
+    "wof:name":"Bay Leaves",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.46065,
+    41.576575,
+    -71.46065,
+    41.576575
+],
+  "geometry": {"coordinates":[-71.46065,41.576575],"type":"Point"}
+}

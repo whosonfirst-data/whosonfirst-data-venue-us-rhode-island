@@ -1,0 +1,71 @@
+{
+  "id": 874068545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468689,41.838482,-71.468689,41.838482",
+    "geom:latitude":41.838482,
+    "geom:longitude":-71.468689,
+    "iso:country":"US",
+    "sg:address":"29 Glossop St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 440 1016",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50fKfVoRmTaAhAppKADfU8_41.838482_-71.468689@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311419,
+    "wof:geomhash":"1743c4381a8b62221f6e5af809e4d86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874068545
+        }
+    ],
+    "wof:id":874068545,
+    "wof:lastmodified":1464311419,
+    "wof:name":"Maverick Capital",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    -71.468689,
+    41.838482,
+    -71.468689,
+    41.838482
+],
+  "geometry": {"coordinates":[-71.468689,41.838482],"type":"Point"}
+}

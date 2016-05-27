@@ -1,0 +1,75 @@
+{
+  "id": 874287017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480656,41.723659,-71.480656,41.723659",
+    "geom:latitude":41.723659,
+    "geom:longitude":-71.480656,
+    "iso:country":"US",
+    "sg:address":"400 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/217392-ben--jerrys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1e0JFcSZ5AEjkS60iiSKiW_41.723659_-71.480656@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314891,
+    "wof:geomhash":"30b0e1891f7242fed12192bf19c5fdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287017
+        }
+    ],
+    "wof:id":874287017,
+    "wof:lastmodified":1464314891,
+    "wof:name":"Ben & Jerry's",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.480656,
+    41.723659,
+    -71.480656,
+    41.723659
+],
+  "geometry": {"coordinates":[-71.480656,41.723659],"type":"Point"}
+}

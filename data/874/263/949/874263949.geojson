@@ -1,0 +1,64 @@
+{
+  "id": 874263949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.506978,41.384656,-71.506978,41.384656",
+    "geom:latitude":41.384656,
+    "geom:longitude":-71.506978,
+    "iso:country":"US",
+    "sg:address":"307 Great Island Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 7712",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55cNx1YpjYnQW7rSepQEzq_41.384656_-71.506978@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313989,
+    "wof:geomhash":"947580a484bcf7b16421c7407f56f517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874263949
+        }
+    ],
+    "wof:id":874263949,
+    "wof:lastmodified":1464313989,
+    "wof:name":"Block Island Ferry",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.506978,
+    41.384656,
+    -71.506978,
+    41.384656
+],
+  "geometry": {"coordinates":[-71.506978,41.384656],"type":"Point"}
+}

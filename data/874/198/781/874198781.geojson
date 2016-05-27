@@ -1,0 +1,71 @@
+{
+  "id": 874198781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429358,41.960335,-71.429358,41.960335",
+    "geom:latitude":41.960335,
+    "geom:longitude":-71.429358,
+    "iso:country":"US",
+    "sg:address":"264 Scott Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 8329",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fiXSQETVlNzyWhqdZkEcS_41.960335_-71.429358@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312832,
+    "wof:geomhash":"f4b721b149e6e1d201a1f141bda0f66b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874198781
+        }
+    ],
+    "wof:id":874198781,
+    "wof:lastmodified":1464312832,
+    "wof:name":"CC Electric",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.429358,
+    41.960335,
+    -71.429358,
+    41.960335
+],
+  "geometry": {"coordinates":[-71.42935799999999,41.960335],"type":"Point"}
+}

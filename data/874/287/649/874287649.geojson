@@ -1,0 +1,80 @@
+{
+  "id": 874287649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458911,41.765395,-71.458911,41.765395",
+    "geom:latitude":41.765395,
+    "geom:longitude":-71.458911,
+    "iso:country":"US",
+    "sg:address":"5 New London Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/54019-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 4766",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FVZZvrfI8ZquaJOyRQfe3_41.765395_-71.458911@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314918,
+    "wof:geomhash":"dc76f533c8426d5ef8f4cb8c888e563d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874287649
+        }
+    ],
+    "wof:id":874287649,
+    "wof:lastmodified":1464314918,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.458911,
+    41.765395,
+    -71.458911,
+    41.765395
+],
+  "geometry": {"coordinates":[-71.458911,41.765395],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 874259647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455599,41.796545,-71.455599,41.796545",
+    "geom:latitude":41.796545,
+    "geom:longitude":-71.455599,
+    "iso:country":"US",
+    "sg:address":"228 Princess Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 2002",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EmPJJ5hyv2PWFBLcRoXbZ_41.796545_-71.455599@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313847,
+    "wof:geomhash":"c165e3c81c1fef302c4606964a1faed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874259647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874259647
+        }
+    ],
+    "wof:id":874259647,
+    "wof:lastmodified":1464313847,
+    "wof:name":"Mega Satellite Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.455599,
+    41.796545,
+    -71.455599,
+    41.796545
+],
+  "geometry": {"coordinates":[-71.45559900000001,41.796545],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874192403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.704645,41.956491,-71.704645,41.956491",
+    "geom:latitude":41.956491,
+    "geom:longitude":-71.704645,
+    "iso:country":"US",
+    "sg:address":"15 Church St",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 348 2283",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g0RKsu04b8doqEinN9qzf_41.956491_-71.704645@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312763,
+    "wof:geomhash":"3cca8341b4d0de3e17ff56078b64aaf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874192403
+        }
+    ],
+    "wof:id":874192403,
+    "wof:lastmodified":1464312763,
+    "wof:name":"Bradford School",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.704645,
+    41.956491,
+    -71.704645,
+    41.956491
+],
+  "geometry": {"coordinates":[-71.704645,41.956491],"type":"Point"}
+}

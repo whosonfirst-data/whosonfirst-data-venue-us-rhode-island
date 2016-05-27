@@ -1,0 +1,73 @@
+{
+  "id": 874245899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.707326,41.352704,-71.707326,41.352704",
+    "geom:latitude":41.352704,
+    "geom:longitude":-71.707326,
+    "iso:country":"US",
+    "sg:address":"101 W Beach Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 7769",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720633,
+        102081219,
+        85843547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gj8GOuKB5tgjuWV8iJkbi_41.352704_-71.707326@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313452,
+    "wof:geomhash":"d02ab21df743ae960150b0781a90737c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720633,
+            "neighbourhood_id":85843547,
+            "region_id":85688509,
+            "venue_id":874245899
+        }
+    ],
+    "wof:id":874245899,
+    "wof:lastmodified":1464313452,
+    "wof:name":"Boulder Cottages",
+    "wof:parent_id":85843547,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.707326,
+    41.352704,
+    -71.707326,
+    41.352704
+],
+  "geometry": {"coordinates":[-71.70732599999999,41.352704],"type":"Point"}
+}

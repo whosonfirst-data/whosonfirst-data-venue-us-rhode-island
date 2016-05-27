@@ -1,0 +1,95 @@
+{
+  "id": 874304947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472183,41.789605,-71.472183,41.789605",
+    "geom:latitude":41.789605,
+    "geom:longitude":-71.472183,
+    "iso:country":"US",
+    "sg:address":"510 Atwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 5944",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "car",
+        "truck",
+        "new",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cOOu0WEdBwpspBVlxpCVF_41.789605_-71.472183@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315562,
+    "wof:geomhash":"473bdc249fc8f5369b182cb25927f0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874304947
+        }
+    ],
+    "wof:id":874304947,
+    "wof:lastmodified":1464315562,
+    "wof:name":"Century Auto Body",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "car",
+        "truck",
+        "new",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.472183,
+    41.789605,
+    -71.472183,
+    41.789605
+],
+  "geometry": {"coordinates":[-71.472183,41.789605],"type":"Point"}
+}

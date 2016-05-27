@@ -1,0 +1,87 @@
+{
+  "id": 874287337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515738,41.985184,-71.515738,41.985184",
+    "geom:latitude":41.985184,
+    "geom:longitude":-71.515738,
+    "iso:country":"US",
+    "sg:address":"1338 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/woonsocket/138927-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 5057",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ibizpTagsAPLjWjrIJTHi_41.985184_-71.515738@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314901,
+    "wof:geomhash":"8078d862034a31471cbb2be89901eaf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874287337
+        }
+    ],
+    "wof:id":874287337,
+    "wof:lastmodified":1464314901,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.515738,
+    41.985184,
+    -71.515738,
+    41.985184
+],
+  "geometry": {"coordinates":[-71.515738,41.985184],"type":"Point"}
+}

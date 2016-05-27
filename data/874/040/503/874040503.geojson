@@ -1,0 +1,69 @@
+{
+  "id": 874040503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467678,41.815369,-71.467678,41.815369",
+    "geom:latitude":41.815369,
+    "geom:longitude":-71.467678,
+    "iso:country":"US",
+    "sg:address":"78 Sunset Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 9343",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z4ukR995gCtg8Zg1uklFn_41.815369_-71.467678@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311148,
+    "wof:geomhash":"6036f09b4775fe7b88e0d879ea67f5d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874040503
+        }
+    ],
+    "wof:id":874040503,
+    "wof:lastmodified":1464311148,
+    "wof:name":"Auto Buyers",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -71.467678,
+    41.815369,
+    -71.467678,
+    41.815369
+],
+  "geometry": {"coordinates":[-71.46767800000001,41.815369],"type":"Point"}
+}

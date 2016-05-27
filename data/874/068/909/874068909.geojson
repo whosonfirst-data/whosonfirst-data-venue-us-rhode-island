@@ -1,0 +1,71 @@
+{
+  "id": 874068909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475945,41.84478,-71.475945,41.84478",
+    "geom:latitude":41.84478,
+    "geom:longitude":-71.475945,
+    "iso:country":"US",
+    "sg:address":"3 Humbert St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0340",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Umln00EdgwggwDBgdNh4z_41.844780_-71.475945@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311422,
+    "wof:geomhash":"2e8f06e94bab7d156b7dd3f4c00ef4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874068909
+        }
+    ],
+    "wof:id":874068909,
+    "wof:lastmodified":1464311422,
+    "wof:name":"Sudsational Laundry Service",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.475945,
+    41.84478,
+    -71.475945,
+    41.84478
+],
+  "geometry": {"coordinates":[-71.475945,41.84478],"type":"Point"}
+}

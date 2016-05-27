@@ -1,0 +1,71 @@
+{
+  "id": 874284863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426102,41.8699,-71.426102,41.8699",
+    "geom:latitude":41.8699,
+    "geom:longitude":-71.426102,
+    "iso:country":"US",
+    "sg:address":"1113 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 6900",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "banquet",
+        "room"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ROwxEELd4TS67qAANZbrl_41.870318_-71.426247@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314808,
+    "wof:geomhash":"d43185ce27011d65249a192f8f459a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874284863
+        }
+    ],
+    "wof:id":874284863,
+    "wof:lastmodified":1464314808,
+    "wof:name":"Lancellotta's Banquet Restaurant",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "room"
+    ]
+},
+  "bbox": [
+    -71.426102,
+    41.8699,
+    -71.426102,
+    41.8699
+],
+  "geometry": {"coordinates":[-71.426102,41.8699],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874291947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427231,41.951073,-71.427231,41.951073",
+    "geom:latitude":41.951073,
+    "geom:longitude":-71.427231,
+    "iso:country":"US",
+    "sg:address":"106 Scott Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 1260",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oils-fuel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wGrHflAY7kEkLhR0INReN_41.951073_-71.427231@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315088,
+    "wof:geomhash":"348a51c90284c7be4b0a6f8c82c41f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291947
+        }
+    ],
+    "wof:id":874291947,
+    "wof:lastmodified":1464315088,
+    "wof:name":"Franks Oil",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel"
+    ]
+},
+  "bbox": [
+    -71.427231,
+    41.951073,
+    -71.427231,
+    41.951073
+],
+  "geometry": {"coordinates":[-71.42723100000001,41.951073],"type":"Point"}
+}

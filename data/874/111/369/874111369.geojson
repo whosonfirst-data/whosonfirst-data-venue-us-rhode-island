@@ -1,0 +1,94 @@
+{
+  "id": 874111369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49768,41.438722,-71.49768,41.438722",
+    "geom:latitude":41.438722,
+    "geom:longitude":-71.49768,
+    "iso:country":"US",
+    "sg:address":"223 Robinson St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9570",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "compact",
+        "cassette",
+        "disc",
+        "tape",
+        "record"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50Z7r2HSXGk1TP0pRHOZk8_41.438722_-71.497680@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311947,
+    "wof:geomhash":"5139a414ae9f6fec6dccbc1d98ba2a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874111369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874111369
+        }
+    ],
+    "wof:id":874111369,
+    "wof:lastmodified":1464311947,
+    "wof:name":"Soundwave Tapes and Records",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "cassette",
+        "disc",
+        "tape",
+        "record"
+    ]
+},
+  "bbox": [
+    -71.49768,
+    41.438722,
+    -71.49768,
+    41.438722
+],
+  "geometry": {"coordinates":[-71.49768,41.438722],"type":"Point"}
+}

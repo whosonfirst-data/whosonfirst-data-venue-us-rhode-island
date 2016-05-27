@@ -1,0 +1,79 @@
+{
+  "id": 874304727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489419,41.860351,-71.489419,41.860351",
+    "geom:latitude":41.860351,
+    "geom:longitude":-71.489419,
+    "iso:country":"US",
+    "sg:address":"25 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6561",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m7jWP6q8v8JHKqv22dHp5_41.860351_-71.489419@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315554,
+    "wof:geomhash":"d24161667876177f4cc717cc56d113b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304727
+        }
+    ],
+    "wof:id":874304727,
+    "wof:lastmodified":1464315554,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.489419,
+    41.860351,
+    -71.489419,
+    41.860351
+],
+  "geometry": {"coordinates":[-71.489419,41.860351],"type":"Point"}
+}

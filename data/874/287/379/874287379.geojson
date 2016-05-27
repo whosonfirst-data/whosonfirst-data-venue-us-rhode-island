@@ -1,0 +1,76 @@
+{
+  "id": 874287379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424635,41.828996,-71.424635,41.828996",
+    "geom:latitude":41.828996,
+    "geom:longitude":-71.424635,
+    "iso:country":"US",
+    "sg:address":"111 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/5394-napa-valley-grille/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 6272",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64HtQH61FBXRtAeRUwsxJD_41.828996_-71.424635@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314903,
+    "wof:geomhash":"fe25cfef706b888e4a0af88d355fa1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874287379
+        }
+    ],
+    "wof:id":874287379,
+    "wof:lastmodified":1464314903,
+    "wof:name":"Napa Valley Grille",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.424635,
+    41.828996,
+    -71.424635,
+    41.828996
+],
+  "geometry": {"coordinates":[-71.42463499999999,41.828996],"type":"Point"}
+}

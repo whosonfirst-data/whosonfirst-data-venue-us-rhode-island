@@ -1,0 +1,69 @@
+{
+  "id": 874299545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440013,41.867048,-71.440013,41.867048",
+    "geom:latitude":41.867048,
+    "geom:longitude":-71.440013,
+    "iso:country":"US",
+    "sg:address":"1385 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8888",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TkzsKBJKfYB7qpOmMekH1_41.867048_-71.440013@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315372,
+    "wof:geomhash":"62408c2c45aaae065dce21ee7be80599",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299545
+        }
+    ],
+    "wof:id":874299545,
+    "wof:lastmodified":1464315372,
+    "wof:name":"Catanzaro's Pizzeria",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.440013,
+    41.867048,
+    -71.440013,
+    41.867048
+],
+  "geometry": {"coordinates":[-71.44001299999999,41.867048],"type":"Point"}
+}

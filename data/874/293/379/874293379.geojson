@@ -1,0 +1,83 @@
+{
+  "id": 874293379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415594,41.752813,-71.415594,41.752813",
+    "geom:latitude":41.752813,
+    "geom:longitude":-71.415594,
+    "iso:country":"US",
+    "sg:address":"850 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W3iNBLTbJct113Ue8qtOk_41.752813_-71.415594@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315136,
+    "wof:geomhash":"735fe077ed39f3e525f98fe0366795da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874293379
+        }
+    ],
+    "wof:id":874293379,
+    "wof:lastmodified":1464315136,
+    "wof:name":"USPS - United States Post Office - Pilgrim",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -71.415594,
+    41.752813,
+    -71.415594,
+    41.752813
+],
+  "geometry": {"coordinates":[-71.415594,41.752813],"type":"Point"}
+}

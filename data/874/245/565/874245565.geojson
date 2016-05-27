@@ -1,0 +1,73 @@
+{
+  "id": 874245565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509467,41.462329,-71.509467,41.462329",
+    "geom:latitude":41.462329,
+    "geom:longitude":-71.509467,
+    "iso:country":"US",
+    "sg:address":"1979 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3026",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ei3BPTtO26nYm19qR4hF7_41.462329_-71.509467@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313445,
+    "wof:geomhash":"60118a2e5b854bf0d84d337d8a6412ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874245565
+        }
+    ],
+    "wof:id":874245565,
+    "wof:lastmodified":1464313445,
+    "wof:name":"W H Holland Electric Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.509467,
+    41.462329,
+    -71.509467,
+    41.462329
+],
+  "geometry": {"coordinates":[-71.509467,41.462329],"type":"Point"}
+}

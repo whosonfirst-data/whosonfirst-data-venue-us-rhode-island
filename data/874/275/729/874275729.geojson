@@ -1,0 +1,70 @@
+{
+  "id": 874275729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.70241,41.9571,-71.70241,41.9571",
+    "geom:latitude":41.9571,
+    "geom:longitude":-71.70241,
+    "iso:country":"US",
+    "sg:address":"35 Bridge Way",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 000 1111",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yYlkXFHEGYUI8GWhAV3tw_41.957100_-71.702410@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314439,
+    "wof:geomhash":"52113b9568d4518ba26fb8d6c8794988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874275729
+        }
+    ],
+    "wof:id":874275729,
+    "wof:lastmodified":1464314439,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.70241,
+    41.9571,
+    -71.70241,
+    41.9571
+],
+  "geometry": {"coordinates":[-71.70241,41.9571],"type":"Point"}
+}

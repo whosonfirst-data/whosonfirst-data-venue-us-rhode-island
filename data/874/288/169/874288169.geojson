@@ -1,0 +1,74 @@
+{
+  "id": 874288169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471912,41.825781,-71.471912,41.825781",
+    "geom:latitude":41.825781,
+    "geom:longitude":-71.471912,
+    "iso:country":"US",
+    "sg:address":"560 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/johnston/244973-red-ginger-chinese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 7878",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kug69JqamzZ0UQBRBfQ8c_41.826202_-71.472182@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314942,
+    "wof:geomhash":"16f6edea5680e5ee9d8859172a791cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874288169
+        }
+    ],
+    "wof:id":874288169,
+    "wof:lastmodified":1464314942,
+    "wof:name":"Red Ginger Chinese Restaurant",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.471912,
+    41.825781,
+    -71.471912,
+    41.825781
+],
+  "geometry": {"coordinates":[-71.471912,41.825781],"type":"Point"}
+}

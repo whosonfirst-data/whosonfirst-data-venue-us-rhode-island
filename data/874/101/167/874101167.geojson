@@ -1,0 +1,77 @@
+{
+  "id": 874101167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452842,41.569132,-71.452842,41.569132",
+    "geom:latitude":41.569132,
+    "geom:longitude":-71.452842,
+    "iso:country":"US",
+    "sg:address":"4 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 7715",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pCVfcWX5dIniwEz1To9Hp_41.569132_-71.452842@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311808,
+    "wof:geomhash":"f0eee8376dcbb8463441b3a8448ee3d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874101167
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874101167
+        }
+    ],
+    "wof:id":874101167,
+    "wof:lastmodified":1464311808,
+    "wof:name":"Glass Moon Artisans",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.452842,
+    41.569132,
+    -71.452842,
+    41.569132
+],
+  "geometry": {"coordinates":[-71.452842,41.569132],"type":"Point"}
+}

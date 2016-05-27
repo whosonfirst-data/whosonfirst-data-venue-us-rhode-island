@@ -1,0 +1,80 @@
+{
+  "id": 874254257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456829,41.644519,-71.456829,41.644519",
+    "geom:latitude":41.644519,
+    "geom:longitude":-71.456829,
+    "iso:country":"US",
+    "sg:address":"95 Penguin Ave",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 6754",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "eating",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K93RtrEW2qEobKTBUfgnO_41.644519_-71.456829@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313652,
+    "wof:geomhash":"76f1697158020afa130a73b906aee441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874254257
+        }
+    ],
+    "wof:id":874254257,
+    "wof:lastmodified":1464313652,
+    "wof:name":"Lisa's Dog House",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "eating",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.456829,
+    41.644519,
+    -71.456829,
+    41.644519
+],
+  "geometry": {"coordinates":[-71.456829,41.644519],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874286173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.377106,41.874013,-71.377106,41.874013",
+    "geom:latitude":41.874013,
+    "geom:longitude":-71.377106,
+    "iso:country":"US",
+    "sg:address":"192 Division St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 7334",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "donut",
+        "doughnut"
+    ],
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74yAGgZcGfxQH7RX5vM6vu_41.873776_-71.376871@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314863,
+    "wof:geomhash":"89182e8f65b07d9b9b1fa404f1464aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874286173
+        }
+    ],
+    "wof:id":874286173,
+    "wof:lastmodified":1464314863,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "donut",
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.377106,
+    41.874013,
+    -71.377106,
+    41.874013
+],
+  "geometry": {"coordinates":[-71.377106,41.874013],"type":"Point"}
+}

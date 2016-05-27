@@ -1,0 +1,71 @@
+{
+  "id": 874266353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51812,41.47351,-71.51812,41.47351",
+    "geom:latitude":41.47351,
+    "geom:longitude":-71.51812,
+    "iso:country":"US",
+    "sg:address":"200 Linden Dr",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1375",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ySHPR02dbodkoxgTrzGtB_41.473510_-71.518120@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314083,
+    "wof:geomhash":"7fff8857345a233d052620cdc4a2e903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874266353
+        }
+    ],
+    "wof:id":874266353,
+    "wof:lastmodified":1464314083,
+    "wof:name":"David J Kehoe",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.51812,
+    41.47351,
+    -71.51812,
+    41.47351
+],
+  "geometry": {"coordinates":[-71.51812,41.47351],"type":"Point"}
+}

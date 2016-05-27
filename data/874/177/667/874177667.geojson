@@ -1,0 +1,70 @@
+{
+  "id": 874177667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39389,41.825565,-71.39389,41.825565",
+    "geom:latitude":41.825565,
+    "geom:longitude":-71.39389,
+    "iso:country":"US",
+    "sg:address":"149 Governor St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 5100",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ghdml0xMCKFj0KB5CaiX3_41.825565_-71.393890@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"d11e8733f17f7af4238e6c17e2c0537e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874177667
+        }
+    ],
+    "wof:id":874177667,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Brad R Kaplan Dr",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.39389,
+    41.825565,
+    -71.39389,
+    41.825565
+],
+  "geometry": {"coordinates":[-71.39389,41.825565],"type":"Point"}
+}

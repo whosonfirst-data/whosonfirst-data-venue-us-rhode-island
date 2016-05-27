@@ -1,0 +1,73 @@
+{
+  "id": 873990883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.559662,41.48403,-71.559662,41.48403",
+    "geom:latitude":41.48403,
+    "geom:longitude":-71.559662,
+    "iso:country":"US",
+    "sg:address":"30 Railroad Ave",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0490",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73JoC8oDXGs6ziunvQ6QPN_41.484030_-71.559662@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310696,
+    "wof:geomhash":"06888c8436540f0eb10480f5648bc42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":873990883
+        }
+    ],
+    "wof:id":873990883,
+    "wof:lastmodified":1464310696,
+    "wof:name":"Margaret Tefft",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.559662,
+    41.48403,
+    -71.559662,
+    41.48403
+],
+  "geometry": {"coordinates":[-71.559662,41.48403],"type":"Point"}
+}

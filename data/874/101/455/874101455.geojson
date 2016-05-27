@@ -1,0 +1,79 @@
+{
+  "id": 874101455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437077,41.73136,-71.437077,41.73136",
+    "geom:latitude":41.73136,
+    "geom:longitude":-71.437077,
+    "iso:country":"US",
+    "sg:address":"1850 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 4000",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MbLeLAgmMAojGfI8ZfHTu_41.731360_-71.437077@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311811,
+    "wof:geomhash":"ef3619d92568cd8a0672074ad5092ac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874101455
+        }
+    ],
+    "wof:id":874101455,
+    "wof:lastmodified":1464311811,
+    "wof:name":"Starwood Hotels & Resorts",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.437077,
+    41.73136,
+    -71.437077,
+    41.73136
+],
+  "geometry": {"coordinates":[-71.437077,41.73136],"type":"Point"}
+}

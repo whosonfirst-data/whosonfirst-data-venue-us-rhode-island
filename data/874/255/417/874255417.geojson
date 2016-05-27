@@ -1,0 +1,81 @@
+{
+  "id": 874255417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436885,41.772211,-71.436885,41.772211",
+    "geom:latitude":41.772211,
+    "geom:longitude":-71.436885,
+    "iso:country":"US",
+    "sg:address":"570 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 8770",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77zy2P2FoRuvz4K7D4S2md_41.772211_-71.436885@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313685,
+    "wof:geomhash":"2870a91cf632d47f5b5088b4ea99c225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874255417
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874255417
+        }
+    ],
+    "wof:id":874255417,
+    "wof:lastmodified":1464313685,
+    "wof:name":"R I State Employees Fcu",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.436885,
+    41.772211,
+    -71.436885,
+    41.772211
+],
+  "geometry": {"coordinates":[-71.436885,41.772211],"type":"Point"}
+}

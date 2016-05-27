@@ -1,0 +1,87 @@
+{
+  "id": 874264567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449582,41.475369,-71.449582,41.475369",
+    "geom:latitude":41.475369,
+    "geom:longitude":-71.449582,
+    "iso:country":"US",
+    "sg:address":"87 Riverside Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8411",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "golf",
+        "investment",
+        "course",
+        "real estate",
+        "trust",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DE3d14fWQ0R5ay5Csp0uw_41.475369_-71.449582@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314014,
+    "wof:geomhash":"eb4674d29fe11d75e2526a783259d19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874264567
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874264567
+        }
+    ],
+    "wof:id":874264567,
+    "wof:lastmodified":1464314014,
+    "wof:name":"LLC Conley Manning",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "golf",
+        "investment",
+        "course",
+        "real estate",
+        "trust",
+        "public"
+    ]
+},
+  "bbox": [
+    -71.449582,
+    41.475369,
+    -71.449582,
+    41.475369
+],
+  "geometry": {"coordinates":[-71.44958200000001,41.475369],"type":"Point"}
+}

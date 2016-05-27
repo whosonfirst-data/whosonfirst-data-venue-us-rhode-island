@@ -1,0 +1,98 @@
+{
+  "id": 874293071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489189,41.443183,-71.489189,41.443183",
+    "geom:latitude":41.443183,
+    "geom:longitude":-71.489189,
+    "iso:country":"US",
+    "sg:address":"703 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1130",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "brew",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50bCSwXxbCXtl9HBy4nJjJ_41.443183_-71.489189@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315126,
+    "wof:geomhash":"424c5bda46ec21d8b6bbb2fa84b652f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293071
+        }
+    ],
+    "wof:id":874293071,
+    "wof:lastmodified":1464315126,
+    "wof:name":"Bobby G's Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.489189,
+    41.443183,
+    -71.489189,
+    41.443183
+],
+  "geometry": {"coordinates":[-71.489189,41.443183],"type":"Point"}
+}

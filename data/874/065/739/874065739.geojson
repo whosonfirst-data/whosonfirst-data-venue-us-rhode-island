@@ -1,0 +1,79 @@
+{
+  "id": 874065739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477099,41.476524,-71.477099,41.476524",
+    "geom:latitude":41.476524,
+    "geom:longitude":-71.477099,
+    "iso:country":"US",
+    "sg:address":"210 Table Rock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 6929",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85841471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bd5m9lxsFXqDcS6GPIoA9_41.476524_-71.477099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311386,
+    "wof:geomhash":"3557d7f15e5ff39a44a754a1ad119ad2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874065739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874065739
+        }
+    ],
+    "wof:id":874065739,
+    "wof:lastmodified":1464311386,
+    "wof:name":"Circulation Technology Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.477099,
+    41.476524,
+    -71.477099,
+    41.476524
+],
+  "geometry": {"coordinates":[-71.477099,41.476524],"type":"Point"}
+}

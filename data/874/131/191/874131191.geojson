@@ -1,0 +1,71 @@
+{
+  "id": 874131191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.59492,41.691087,-71.59492,41.691087",
+    "geom:latitude":41.691087,
+    "geom:longitude":-71.59492,
+    "iso:country":"US",
+    "sg:address":"18 Catalpa Way",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 349 2953",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "specialized"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pdwibfZkr25jqO7WDggS1_41.691087_-71.594920@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312152,
+    "wof:geomhash":"2815c77012df39f396b8ebf9da82efc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874131191
+        }
+    ],
+    "wof:id":874131191,
+    "wof:lastmodified":1464312152,
+    "wof:name":"CAT Auto Sales",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "specialized"
+    ]
+},
+  "bbox": [
+    -71.59492,
+    41.691087,
+    -71.59492,
+    41.691087
+],
+  "geometry": {"coordinates":[-71.59492,41.691087],"type":"Point"}
+}

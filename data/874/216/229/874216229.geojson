@@ -1,0 +1,71 @@
+{
+  "id": 874216229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430598,41.939304,-71.430598,41.939304",
+    "geom:latitude":41.939304,
+    "geom:longitude":-71.430598,
+    "iso:country":"US",
+    "sg:address":"39 Scott Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3967",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Oq4AaXGquLnuU2p2WW8U4_41.939304_-71.430598@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313016,
+    "wof:geomhash":"1bacb3a5053f79f2cc5d1d667dc2a6ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874216229
+        }
+    ],
+    "wof:id":874216229,
+    "wof:lastmodified":1464313016,
+    "wof:name":"Martins Rj & Sons Ltd",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.430598,
+    41.939304,
+    -71.430598,
+    41.939304
+],
+  "geometry": {"coordinates":[-71.430598,41.939304],"type":"Point"}
+}

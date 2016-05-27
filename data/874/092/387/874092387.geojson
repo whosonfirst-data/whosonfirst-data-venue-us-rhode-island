@@ -1,0 +1,79 @@
+{
+  "id": 874092387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452332,41.575404,-71.452332,41.575404",
+    "geom:latitude":41.575404,
+    "geom:longitude":-71.452332,
+    "iso:country":"US",
+    "sg:address":"54 Enfield Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4801",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shellfish",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15mrrdAt3vLLKJ2tsjLtzt_41.575404_-71.452332@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311689,
+    "wof:geomhash":"b4ae762308754458282e5e2217e67496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874092387
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874092387
+        }
+    ],
+    "wof:id":874092387,
+    "wof:lastmodified":1464311689,
+    "wof:name":"Diane Gail Fishing Vessel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shellfish",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.452332,
+    41.575404,
+    -71.452332,
+    41.575404
+],
+  "geometry": {"coordinates":[-71.452332,41.575404],"type":"Point"}
+}

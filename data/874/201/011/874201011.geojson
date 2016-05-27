@@ -1,0 +1,77 @@
+{
+  "id": 874201011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.800589,41.384243,-71.800589,41.384243",
+    "geom:latitude":41.384243,
+    "geom:longitude":-71.800589,
+    "iso:country":"US",
+    "sg:address":"28 Westerly Bradford Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 2233",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540589,
+        102191575,
+        404488345,
+        85633793,
+        101720613,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07vHgKMQM2xgKrxcf1HP2G_41.384243_-71.800589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312853,
+    "wof:geomhash":"c86ba2fc0dd6f4a9df0a38972f1d3fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720613,
+            "neighbourhood_id":420540589,
+            "region_id":85688509,
+            "venue_id":874201011
+        }
+    ],
+    "wof:id":874201011,
+    "wof:lastmodified":1464312853,
+    "wof:name":"G & G Auto Repair Svc",
+    "wof:parent_id":420540589,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.800589,
+    41.384243,
+    -71.800589,
+    41.384243
+],
+  "geometry": {"coordinates":[-71.800589,41.384243],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874245301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.708095,41.965476,-71.708095,41.965476",
+    "geom:latitude":41.965476,
+    "geom:longitude":-71.708095,
+    "iso:country":"US",
+    "sg:address":"141 Howard Ave",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4953",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MIOUqQQ9QIElk0MOnqw0W_41.965476_-71.708095@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313439,
+    "wof:geomhash":"378e8d67e43704f70a68a16abb8f75cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874245301
+        }
+    ],
+    "wof:id":874245301,
+    "wof:lastmodified":1464313439,
+    "wof:name":"Pascoag Fire Chief",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.708095,
+    41.965476,
+    -71.708095,
+    41.965476
+],
+  "geometry": {"coordinates":[-71.708095,41.965476],"type":"Point"}
+}

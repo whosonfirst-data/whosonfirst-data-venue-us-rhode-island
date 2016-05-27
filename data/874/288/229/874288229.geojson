@@ -1,0 +1,77 @@
+{
+  "id": 874288229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291029,41.723803,-71.291029,41.723803",
+    "geom:latitude":41.723803,
+    "geom:longitude":-71.291029,
+    "iso:country":"US",
+    "sg:address":"5 Oyster Shell Ln",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2599",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "kidneys",
+        "surgeons",
+        "nephrology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47XOmo6coX7f3oFFmtAX7W_41.723803_-71.291029@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314943,
+    "wof:geomhash":"b41ef53d27f576b480b60f03a6532547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874288229
+        }
+    ],
+    "wof:id":874288229,
+    "wof:lastmodified":1464314943,
+    "wof:name":"Nephrology Associates",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "kidneys",
+        "surgeons",
+        "nephrology"
+    ]
+},
+  "bbox": [
+    -71.291029,
+    41.723803,
+    -71.291029,
+    41.723803
+],
+  "geometry": {"coordinates":[-71.29102899999999,41.723803],"type":"Point"}
+}

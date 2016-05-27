@@ -1,0 +1,73 @@
+{
+  "id": 874211273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513055,42.018644,-71.513055,42.018644",
+    "geom:latitude":42.018644,
+    "geom:longitude":-71.513055,
+    "iso:country":"US",
+    "sg:address":"1 Farm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 876 5500",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ND1DgGgQJ9UlKJqTHeEg_42.018644_-71.513055@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312966,
+    "wof:geomhash":"fd52dddf9d3fbfe0ca541e9403c346bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874211273
+        }
+    ],
+    "wof:id":874211273,
+    "wof:lastmodified":1464312966,
+    "wof:name":"Farm Street Motors Inc",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.513055,
+    42.018644,
+    -71.513055,
+    42.018644
+],
+  "geometry": {"coordinates":[-71.51305499999999,42.018644],"type":"Point"}
+}

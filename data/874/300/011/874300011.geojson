@@ -1,0 +1,81 @@
+{
+  "id": 874300011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426637,41.820439,-71.426637,41.820439",
+    "geom:latitude":41.820439,
+    "geom:longitude":-71.426637,
+    "iso:country":"US",
+    "sg:address":"270 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 9660",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.columbustheatre.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UxRyV696xyUpD6m7Yp2Uw_41.820439_-71.426637@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315389,
+    "wof:geomhash":"52524369dca0f2ebd2252ec843a49a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874300011
+        }
+    ],
+    "wof:id":874300011,
+    "wof:lastmodified":1464315389,
+    "wof:name":"Columbus Theatre",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -71.426637,
+    41.820439,
+    -71.426637,
+    41.820439
+],
+  "geometry": {"coordinates":[-71.426637,41.820439],"type":"Point"}
+}

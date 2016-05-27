@@ -1,0 +1,86 @@
+{
+  "id": 874292891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.219442,41.627691,-71.219442,41.627691",
+    "geom:latitude":41.627691,
+    "geom:longitude":-71.219442,
+    "iso:country":"US",
+    "sg:address":"109 Point Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 592 3050",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard"
+    ],
+    "sg:website":"http://www.piratecovemarina.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GUKXnbHt2JVDB9uHCf93o_41.627691_-71.219442@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"929902f27a1b5690884583605082a0c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874292891
+        }
+    ],
+    "wof:id":874292891,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Pirate Cove Marina & Yacht Sales, Inc.",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -71.219442,
+    41.627691,
+    -71.219442,
+    41.627691
+],
+  "geometry": {"coordinates":[-71.219442,41.627691],"type":"Point"}
+}

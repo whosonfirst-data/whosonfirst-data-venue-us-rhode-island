@@ -1,0 +1,71 @@
+{
+  "id": 874063115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.346693,41.7485,-71.346693,41.7485",
+    "geom:latitude":41.7485,
+    "geom:longitude":-71.346693,
+    "iso:country":"US",
+    "sg:address":"115 Bay Spring Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 2700",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A4dpgMJgW6yJPGAWGvBh1_41.748500_-71.346693@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311363,
+    "wof:geomhash":"97e8341f56fc60ae4ca0def82bc073d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874063115
+        }
+    ],
+    "wof:id":874063115,
+    "wof:lastmodified":1464311363,
+    "wof:name":"Bay Spring Svc",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.346693,
+    41.7485,
+    -71.346693,
+    41.7485
+],
+  "geometry": {"coordinates":[-71.346693,41.7485],"type":"Point"}
+}

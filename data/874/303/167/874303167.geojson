@@ -1,0 +1,90 @@
+{
+  "id": 874303167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43426,41.768852,-71.43426,41.768852",
+    "geom:latitude":41.768852,
+    "geom:longitude":-71.43426,
+    "iso:country":"US",
+    "sg:address":"15 Eliot Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 413 0049",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "specialty",
+        "burner",
+        "heating",
+        "system",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NyQRJelHteZopH6aR4fRC_41.768852_-71.434260@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315501,
+    "wof:geomhash":"b5d4ef337ed0ad518122eb985bde7863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874303167
+        }
+    ],
+    "wof:id":874303167,
+    "wof:lastmodified":1464315501,
+    "wof:name":"Ron's Burner Service",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "burner",
+        "heating",
+        "system",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -71.43426,
+    41.768852,
+    -71.43426,
+    41.768852
+],
+  "geometry": {"coordinates":[-71.43425999999999,41.768852],"type":"Point"}
+}

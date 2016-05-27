@@ -1,0 +1,78 @@
+{
+  "id": 874288181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473249,41.780849,-71.473249,41.780849",
+    "geom:latitude":41.780849,
+    "geom:longitude":-71.473249,
+    "iso:country":"US",
+    "sg:address":"200 Phenix Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/215265-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 6677",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tyfVeJKgY6GmFVz57ZDHR_41.780835_-71.472856@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314942,
+    "wof:geomhash":"e7863765de89dac7e4a96b3c8f0bfaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874288181
+        }
+    ],
+    "wof:id":874288181,
+    "wof:lastmodified":1464314942,
+    "wof:name":"Burger King",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.473249,
+    41.780849,
+    -71.473249,
+    41.780849
+],
+  "geometry": {"coordinates":[-71.473249,41.780849],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874271653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277743,41.669202,-71.277743,41.669202",
+    "geom:latitude":41.669202,
+    "geom:longitude":-71.277743,
+    "iso:country":"US",
+    "sg:address":"259 Thames St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4700",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mzr3hNBjsCNb22XuBfY3R_41.669202_-71.277743@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314280,
+    "wof:geomhash":"42b3ed2943d7435a456c594f1d51c83d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874271653
+        }
+    ],
+    "wof:id":874271653,
+    "wof:lastmodified":1464314280,
+    "wof:name":"Narransett Provision Co",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -71.277743,
+    41.669202,
+    -71.277743,
+    41.669202
+],
+  "geometry": {"coordinates":[-71.277743,41.669202],"type":"Point"}
+}

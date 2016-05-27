@@ -1,0 +1,69 @@
+{
+  "id": 873990269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.279341,41.694547,-71.279341,41.694547",
+    "geom:latitude":41.694547,
+    "geom:longitude":-71.279341,
+    "iso:country":"US",
+    "sg:address":"1268 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4491",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H1oRbzinmEW5KYFZb2FOm_41.694547_-71.279341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310691,
+    "wof:geomhash":"c91b2ea2a72d6ad62451cc8bbdc70af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":873990269
+        }
+    ],
+    "wof:id":873990269,
+    "wof:lastmodified":1464310691,
+    "wof:name":"Dezul Fishing Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.279341,
+    41.694547,
+    -71.279341,
+    41.694547
+],
+  "geometry": {"coordinates":[-71.279341,41.694547],"type":"Point"}
+}

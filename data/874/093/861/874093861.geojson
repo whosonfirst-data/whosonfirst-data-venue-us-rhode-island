@@ -1,0 +1,71 @@
+{
+  "id": 874093861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278976,41.675139,-71.278976,41.675139",
+    "geom:latitude":41.675139,
+    "geom:longitude":-71.278976,
+    "iso:country":"US",
+    "sg:address":"446 Thames St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1939",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dCW7YUDzcigWIHN9kcLRM_41.675139_-71.278976@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311702,
+    "wof:geomhash":"26daa4265808a523f6d47ec4968d94df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874093861
+        }
+    ],
+    "wof:id":874093861,
+    "wof:lastmodified":1464311702,
+    "wof:name":"Independence Dry Cleaning",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.278976,
+    41.675139,
+    -71.278976,
+    41.675139
+],
+  "geometry": {"coordinates":[-71.278976,41.675139],"type":"Point"}
+}

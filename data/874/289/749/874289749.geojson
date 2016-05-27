@@ -1,0 +1,83 @@
+{
+  "id": 874289749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.368401,41.880199,-71.368401,41.880199",
+    "geom:latitude":41.880199,
+    "geom:longitude":-71.368401,
+    "iso:country":"US",
+    "sg:address":"215 Armistice Blvd",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 8838",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.bristolcountysavingsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gDK7z51zj8rvg3Y2f7YyR_41.880199_-71.368401@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315004,
+    "wof:geomhash":"d930be29bee640819f7aa8e5cc092115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289749
+        }
+    ],
+    "wof:id":874289749,
+    "wof:lastmodified":1464315004,
+    "wof:name":"Bristol County Savings Bank",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.368401,
+    41.880199,
+    -71.368401,
+    41.880199
+],
+  "geometry": {"coordinates":[-71.36840100000001,41.880199],"type":"Point"}
+}

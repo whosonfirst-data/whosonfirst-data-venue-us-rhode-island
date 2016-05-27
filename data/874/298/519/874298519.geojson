@@ -1,0 +1,80 @@
+{
+  "id": 874298519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421303,41.821602,-71.421303,41.821602",
+    "geom:latitude":41.821602,
+    "geom:longitude":-71.421303,
+    "iso:country":"US",
+    "sg:address":"113 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 3390",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cS9Q9Oj9F1tfGCbaTt5v3_41.821602_-71.421303@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315330,
+    "wof:geomhash":"6020aa7a6873def2c6973479fdc909de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874298519
+        }
+    ],
+    "wof:id":874298519,
+    "wof:lastmodified":1464315330,
+    "wof:name":"Bts Tire & Service Stores",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.421303,
+    41.821602,
+    -71.421303,
+    41.821602
+],
+  "geometry": {"coordinates":[-71.42130299999999,41.821602],"type":"Point"}
+}

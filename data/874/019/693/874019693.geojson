@@ -1,0 +1,71 @@
+{
+  "id": 874019693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.559687,41.682298,-71.559687,41.682298",
+    "geom:latitude":41.682298,
+    "geom:longitude":-71.559687,
+    "iso:country":"US",
+    "sg:address":"8 Hazel St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 1038",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "production",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q4J5s7aM8wic2PXNVrJK5_41.682298_-71.559687@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310945,
+    "wof:geomhash":"4d6a1568e962b05bb6c4798fd9dd5762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874019693
+        }
+    ],
+    "wof:id":874019693,
+    "wof:lastmodified":1464310945,
+    "wof:name":"O J Hanratty Machine Inc",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "production",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -71.559687,
+    41.682298,
+    -71.559687,
+    41.682298
+],
+  "geometry": {"coordinates":[-71.559687,41.682298],"type":"Point"}
+}

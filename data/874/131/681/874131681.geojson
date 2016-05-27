@@ -1,0 +1,76 @@
+{
+  "id": 874131681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518944,41.898844,-71.518944,41.898844",
+    "geom:latitude":41.898844,
+    "geom:longitude":-71.518944,
+    "iso:country":"US",
+    "sg:address":"45 Lakeside Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2753",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13cVi2oB4WSTSTp2SqCMoR_41.898844_-71.518944@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312157,
+    "wof:geomhash":"d19a9d9630415da18407e90c1c08558d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874131681
+        }
+    ],
+    "wof:id":874131681,
+    "wof:lastmodified":1464312157,
+    "wof:name":"Penny Lane Country Store Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.518944,
+    41.898844,
+    -71.518944,
+    41.898844
+],
+  "geometry": {"coordinates":[-71.518944,41.898844],"type":"Point"}
+}

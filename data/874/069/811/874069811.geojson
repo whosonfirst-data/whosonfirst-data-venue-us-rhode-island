@@ -1,0 +1,81 @@
+{
+  "id": 874069811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439429,41.773397,-71.439429,41.773397",
+    "geom:latitude":41.773397,
+    "geom:longitude":-71.439429,
+    "iso:country":"US",
+    "sg:address":"20 Spring St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 7475",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Avlg5KC4vXpzFRfAd0fvC_41.773397_-71.439429@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311430,
+    "wof:geomhash":"e96c6b3de92184f669ce10e65f491e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874069811
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874069811
+        }
+    ],
+    "wof:id":874069811,
+    "wof:lastmodified":1464311430,
+    "wof:name":"Field Of Greens",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.439429,
+    41.773397,
+    -71.439429,
+    41.773397
+],
+  "geometry": {"coordinates":[-71.439429,41.773397],"type":"Point"}
+}

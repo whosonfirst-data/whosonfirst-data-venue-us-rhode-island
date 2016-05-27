@@ -1,0 +1,73 @@
+{
+  "id": 874250835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.770531,41.351408,-71.770531,41.351408",
+    "geom:latitude":41.351408,
+    "geom:longitude":-71.770531,
+    "iso:country":"US",
+    "sg:address":"236 Post Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 8786",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FQLIpxendnjfK07irXPEP_41.351408_-71.770531@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313583,
+    "wof:geomhash":"d88bf47321e2b5365d4b7763a2568817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874250835
+        }
+    ],
+    "wof:id":874250835,
+    "wof:lastmodified":1464313583,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.770531,
+    41.351408,
+    -71.770531,
+    41.351408
+],
+  "geometry": {"coordinates":[-71.77053100000001,41.351408],"type":"Point"}
+}

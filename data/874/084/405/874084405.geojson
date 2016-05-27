@@ -1,0 +1,71 @@
+{
+  "id": 874084405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299119,41.543163,-71.299119,41.543163",
+    "geom:latitude":41.543163,
+    "geom:longitude":-71.299119,
+    "iso:country":"US",
+    "sg:address":"9 Jean St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 0665",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fOKNLZ3eBkONWIJI9pGtT_41.543163_-71.299119@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311602,
+    "wof:geomhash":"fc6d822ba377769c76a8ad779e102e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874084405
+        }
+    ],
+    "wof:id":874084405,
+    "wof:lastmodified":1464311602,
+    "wof:name":"Bay View Builders Inc",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.299119,
+    41.543163,
+    -71.299119,
+    41.543163
+],
+  "geometry": {"coordinates":[-71.299119,41.543163],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874168645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.729275,41.494837,-71.729275,41.494837",
+    "geom:latitude":41.494837,
+    "geom:longitude":-71.729275,
+    "iso:country":"US",
+    "sg:address":"835 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7200",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70cRH73MDAXiwGAhBGnP8W_41.494837_-71.729275@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312514,
+    "wof:geomhash":"d2737c5ad77a60638dd98145f1a763c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874168645
+        }
+    ],
+    "wof:id":874168645,
+    "wof:lastmodified":1464312514,
+    "wof:name":"Edwards Garage Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.729275,
+    41.494837,
+    -71.729275,
+    41.494837
+],
+  "geometry": {"coordinates":[-71.729275,41.494837],"type":"Point"}
+}

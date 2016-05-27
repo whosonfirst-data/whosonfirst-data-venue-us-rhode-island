@@ -1,0 +1,71 @@
+{
+  "id": 874250457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555901,41.514126,-71.555901,41.514126",
+    "geom:latitude":41.514126,
+    "geom:longitude":-71.555901,
+    "iso:country":"US",
+    "sg:address":"804 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4981",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t9CR9x1Ijxj4UjW6G6tNB_41.514126_-71.555901@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313576,
+    "wof:geomhash":"913dccebca1d154dd52232a0687df226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874250457
+        }
+    ],
+    "wof:id":874250457,
+    "wof:lastmodified":1464313576,
+    "wof:name":"Wolfrocks Country Kit & Catrg",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.555901,
+    41.514126,
+    -71.555901,
+    41.514126
+],
+  "geometry": {"coordinates":[-71.55590100000001,41.514126],"type":"Point"}
+}

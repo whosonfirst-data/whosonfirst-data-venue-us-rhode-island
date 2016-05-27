@@ -1,0 +1,73 @@
+{
+  "id": 874057199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457964,41.568656,-71.457964,41.568656",
+    "geom:latitude":41.568656,
+    "geom:longitude":-71.457964,
+    "iso:country":"US",
+    "sg:address":"100 Boone St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3306",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:website":"www.nklibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nAvmqH2MoPAJJdrMErFcQ_41.568656_-71.457964@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311311,
+    "wof:geomhash":"2a7d716c4bff93de0ebd760157697f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874057199
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874057199
+        }
+    ],
+    "wof:id":874057199,
+    "wof:lastmodified":1464311311,
+    "wof:name":"North Kingstown Free Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.457964,
+    41.568656,
+    -71.457964,
+    41.568656
+],
+  "geometry": {"coordinates":[-71.457964,41.568656],"type":"Point"}
+}

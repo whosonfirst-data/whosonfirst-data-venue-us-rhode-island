@@ -1,0 +1,86 @@
+{
+  "id": 874209727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451263,41.792591,-71.451263,41.792591",
+    "geom:latitude":41.792591,
+    "geom:longitude":-71.451263,
+    "iso:country":"US",
+    "sg:address":"1275 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 0347",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sfo6hDqU59oMrNe84Mhfa_41.792591_-71.451263@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312946,
+    "wof:geomhash":"4bfba2a59719fe1129bf2359cdf29684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874209727
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874209727
+        }
+    ],
+    "wof:id":874209727,
+    "wof:lastmodified":1464312946,
+    "wof:name":"Corner Cleaners & Alterations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.451263,
+    41.792591,
+    -71.451263,
+    41.792591
+],
+  "geometry": {"coordinates":[-71.451263,41.792591],"type":"Point"}
+}

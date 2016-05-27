@@ -1,0 +1,70 @@
+{
+  "id": 873989751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42108,41.83668,-71.42108,41.83668",
+    "geom:latitude":41.83668,
+    "geom:longitude":-71.42108,
+    "iso:country":"US",
+    "sg:address":"161 Douglas Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 6538",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lGmXsjS4g5OxMkgLLDfqH_41.836680_-71.421080@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310688,
+    "wof:geomhash":"745d5e20b8f3522011762ea63516e71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":873989751
+        }
+    ],
+    "wof:id":873989751,
+    "wof:lastmodified":1464310688,
+    "wof:name":"Prime Time Cafe",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.42108,
+    41.83668,
+    -71.42108,
+    41.83668
+],
+  "geometry": {"coordinates":[-71.42108,41.83668],"type":"Point"}
+}

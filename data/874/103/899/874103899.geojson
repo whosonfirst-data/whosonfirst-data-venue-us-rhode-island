@@ -1,0 +1,71 @@
+{
+  "id": 874103899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.709784,41.511905,-71.709784,41.511905",
+    "geom:latitude":41.511905,
+    "geom:longitude":-71.709784,
+    "iso:country":"US",
+    "sg:address":"1127 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0210",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04E4TuGR22F4CoFWYdNWij_41.511905_-71.709784@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311843,
+    "wof:geomhash":"f435eed803ea3e9c12916cf83842ac97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874103899
+        }
+    ],
+    "wof:id":874103899,
+    "wof:lastmodified":1464311843,
+    "wof:name":"Wyoming Fruit & Vegetable",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.709784,
+    41.511905,
+    -71.709784,
+    41.511905
+],
+  "geometry": {"coordinates":[-71.709784,41.511905],"type":"Point"}
+}

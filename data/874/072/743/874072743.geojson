@@ -1,0 +1,78 @@
+{
+  "id": 874072743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449103,41.8212,-71.449103,41.8212",
+    "geom:latitude":41.8212,
+    "geom:longitude":-71.449103,
+    "iso:country":"US",
+    "sg:address":"1 Curtis St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 8719",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "sg:website":"www.olneyville.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tYSlNuZNX29QBb5sHkPdD_41.821200_-71.449103@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311473,
+    "wof:geomhash":"a95f003469de5b2ba2ae3e4f75a95736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874072743
+        }
+    ],
+    "wof:id":874072743,
+    "wof:lastmodified":1464311473,
+    "wof:name":"Olneyville Housing Corp",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -71.449103,
+    41.8212,
+    -71.449103,
+    41.8212
+],
+  "geometry": {"coordinates":[-71.44910299999999,41.8212],"type":"Point"}
+}

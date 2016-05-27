@@ -1,0 +1,83 @@
+{
+  "id": 874273125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461168,41.784527,-71.461168,41.784527",
+    "geom:latitude":41.784527,
+    "geom:longitude":-71.461168,
+    "iso:country":"US",
+    "sg:address":"95 Connecticut St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 6767",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cooling",
+        "air",
+        "commercial",
+        "heating",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19umogh8nB4226HrXkH70j_41.784527_-71.461168@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314333,
+    "wof:geomhash":"cd5a612db6d8ed1268ba0042be6b20d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874273125
+        }
+    ],
+    "wof:id":874273125,
+    "wof:lastmodified":1464314333,
+    "wof:name":"A T C",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cooling",
+        "air",
+        "commercial",
+        "heating",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -71.461168,
+    41.784527,
+    -71.461168,
+    41.784527
+],
+  "geometry": {"coordinates":[-71.461168,41.784527],"type":"Point"}
+}

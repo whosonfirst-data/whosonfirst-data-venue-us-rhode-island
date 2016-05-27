@@ -1,0 +1,69 @@
+{
+  "id": 873997057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451113,41.440109,-71.451113,41.440109",
+    "geom:latitude":41.440109,
+    "geom:longitude":-71.451113,
+    "iso:country":"US",
+    "sg:address":"77 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 0679",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X5abL8oB0yv0TphkWsKvh_41.440109_-71.451113@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310740,
+    "wof:geomhash":"50b832e0465a02d558df44d7263888bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":873997057
+        }
+    ],
+    "wof:id":873997057,
+    "wof:lastmodified":1464310740,
+    "wof:name":"North Beach Pavillion",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.451113,
+    41.440109,
+    -71.451113,
+    41.440109
+],
+  "geometry": {"coordinates":[-71.45111300000001,41.440109],"type":"Point"}
+}

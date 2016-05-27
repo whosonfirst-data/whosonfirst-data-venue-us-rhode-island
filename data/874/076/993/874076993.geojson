@@ -1,0 +1,71 @@
+{
+  "id": 874076993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482331,41.8568,-71.482331,41.8568",
+    "geom:latitude":41.8568,
+    "geom:longitude":-71.482331,
+    "iso:country":"US",
+    "sg:address":"1955 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 0173",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "live",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pqFa7TUHrSZ6H7BK5HwDq_41.856800_-71.482331@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"0e675ef03d5b4b481a988d9508467168",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874076993
+        }
+    ],
+    "wof:id":874076993,
+    "wof:lastmodified":1464311520,
+    "wof:name":"High Horse Entertainment",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "live",
+        "music"
+    ]
+},
+  "bbox": [
+    -71.482331,
+    41.8568,
+    -71.482331,
+    41.8568
+],
+  "geometry": {"coordinates":[-71.482331,41.8568],"type":"Point"}
+}

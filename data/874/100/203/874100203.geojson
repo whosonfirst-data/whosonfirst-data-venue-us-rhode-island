@@ -1,0 +1,75 @@
+{
+  "id": 874100203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.353638,41.77187,-71.353638,41.77187",
+    "geom:latitude":41.77187,
+    "geom:longitude":-71.353638,
+    "iso:country":"US",
+    "sg:address":"459 Willett Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 4491",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34R69QJQB6N47wdHyn7g7h_41.771870_-71.353638@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"78dffa75c32cdb8387b1f7edbc3752d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874100203
+        }
+    ],
+    "wof:id":874100203,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Your Bike Shop",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.353638,
+    41.77187,
+    -71.353638,
+    41.77187
+],
+  "geometry": {"coordinates":[-71.353638,41.77187],"type":"Point"}
+}

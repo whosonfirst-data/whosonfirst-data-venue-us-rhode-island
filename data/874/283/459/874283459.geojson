@@ -1,0 +1,78 @@
+{
+  "id": 874283459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687745,41.511525,-71.687745,41.511525",
+    "geom:latitude":41.511525,
+    "geom:longitude":-71.687745,
+    "iso:country":"US",
+    "sg:address":"18 Kingstown Rd",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 491 9259",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "espresso",
+        "doughnut",
+        "restaurant"
+    ],
+    "sg:website":"http://www.timhortons.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b8K0H5NZKtDxyuF3xgh3m_41.511677_-71.687996@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314755,
+    "wof:geomhash":"68cf2d739eef9e66253fec312b45f199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874283459
+        }
+    ],
+    "wof:id":874283459,
+    "wof:lastmodified":1464314755,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "espresso",
+        "doughnut",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.687745,
+    41.511525,
+    -71.687745,
+    41.511525
+],
+  "geometry": {"coordinates":[-71.68774500000001,41.511525],"type":"Point"}
+}

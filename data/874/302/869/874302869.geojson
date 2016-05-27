@@ -1,0 +1,65 @@
+{
+  "id": 874302869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465041,41.81891,-71.465041,41.81891",
+    "geom:latitude":41.81891,
+    "geom:longitude":-71.465041,
+    "iso:country":"US",
+    "sg:address":"152 Springfield St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 9102",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:website":"http://www.providenceschools.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y0SG8KO70hkyvhOtpmLsg_41.818910_-71.465041@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315491,
+    "wof:geomhash":"0ceb0c25046c106f99478a4153dbc368",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874302869
+        }
+    ],
+    "wof:id":874302869,
+    "wof:lastmodified":1464315491,
+    "wof:name":"West Boadway Elem School",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.465041,
+    41.81891,
+    -71.465041,
+    41.81891
+],
+  "geometry": {"coordinates":[-71.465041,41.81891],"type":"Point"}
+}

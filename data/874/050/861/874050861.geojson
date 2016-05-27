@@ -1,0 +1,77 @@
+{
+  "id": 874050861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.301098,41.515665,-71.301098,41.515665",
+    "geom:latitude":41.515665,
+    "geom:longitude":-71.301098,
+    "iso:country":"US",
+    "sg:address":"360 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 3600",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yH8VrhBRLZAnyucKifrli_41.515665_-71.301098@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311249,
+    "wof:geomhash":"d7be7d4035cc8e8fcea95bc416c71894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874050861
+        }
+    ],
+    "wof:id":874050861,
+    "wof:lastmodified":1464311249,
+    "wof:name":"J & S Auto Parts Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.301098,
+    41.515665,
+    -71.301098,
+    41.515665
+],
+  "geometry": {"coordinates":[-71.301098,41.515665],"type":"Point"}
+}

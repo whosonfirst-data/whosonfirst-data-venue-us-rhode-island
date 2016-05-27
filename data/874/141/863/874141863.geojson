@@ -1,0 +1,71 @@
+{
+  "id": 874141863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26194,41.68671,-71.26194,41.68671",
+    "geom:latitude":41.68671,
+    "geom:longitude":-71.26194,
+    "iso:country":"US",
+    "sg:address":"470 Metacom Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 275 4380",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WRbI44R2OiC5ZFfjTNzsE_41.686710_-71.261940@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312252,
+    "wof:geomhash":"c268f78614d348a30efb07245d59ad16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874141863
+        }
+    ],
+    "wof:id":874141863,
+    "wof:lastmodified":1464312252,
+    "wof:name":"Bristol Armory",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.26194,
+    41.68671,
+    -71.26194,
+    41.68671
+],
+  "geometry": {"coordinates":[-71.26194,41.68671],"type":"Point"}
+}

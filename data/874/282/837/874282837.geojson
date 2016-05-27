@@ -1,0 +1,72 @@
+{
+  "id": 874282837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416298,41.902713,-71.416298,41.902713",
+    "geom:latitude":41.902713,
+    "geom:longitude":-71.416298,
+    "iso:country":"US",
+    "sg:address":"430 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 2020",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.delgrandeplumbing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZAhuEjGkuG5VBsoi7pHF9_41.902745_-71.416605@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314735,
+    "wof:geomhash":"46cd04b7c9b7d23c226049a905fb3561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874282837
+        }
+    ],
+    "wof:id":874282837,
+    "wof:lastmodified":1464314735,
+    "wof:name":"Del Grande Plumbing & Heating",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.416298,
+    41.902713,
+    -71.416298,
+    41.902713
+],
+  "geometry": {"coordinates":[-71.416298,41.902713],"type":"Point"}
+}

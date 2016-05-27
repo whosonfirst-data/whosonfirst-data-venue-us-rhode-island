@@ -1,0 +1,71 @@
+{
+  "id": 874057181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.258087,41.541446,-71.258087,41.541446",
+    "geom:latitude":41.541446,
+    "geom:longitude":-71.258087,
+    "iso:country":"US",
+    "sg:address":"140 Malee Ter",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 619 1324",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43muI9q0ZYOmhQkxtZvuN1_41.541446_-71.258087@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311311,
+    "wof:geomhash":"fd6d7c3c04903467b82b2d7b489a1c62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874057181
+        }
+    ],
+    "wof:id":874057181,
+    "wof:lastmodified":1464311311,
+    "wof:name":"Sound Building Corp",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.258087,
+    41.541446,
+    -71.258087,
+    41.541446
+],
+  "geometry": {"coordinates":[-71.258087,41.541446],"type":"Point"}
+}

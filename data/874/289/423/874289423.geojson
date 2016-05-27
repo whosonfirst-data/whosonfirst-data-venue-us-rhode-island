@@ -1,0 +1,80 @@
+{
+  "id": 874289423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386703,41.881001,-71.386703,41.881001",
+    "geom:latitude":41.881001,
+    "geom:longitude":-71.386703,
+    "iso:country":"US",
+    "sg:address":"121 Broad St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 3400",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BBP7LncSJlINQbzygl6IO_41.881001_-71.386703@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314993,
+    "wof:geomhash":"a8fc0e8865cbf5f2bf38376b46ddd4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289423
+        }
+    ],
+    "wof:id":874289423,
+    "wof:lastmodified":1464314993,
+    "wof:name":"Klibanoff Eye Associates Ltd",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -71.386703,
+    41.881001,
+    -71.386703,
+    41.881001
+],
+  "geometry": {"coordinates":[-71.386703,41.881001],"type":"Point"}
+}

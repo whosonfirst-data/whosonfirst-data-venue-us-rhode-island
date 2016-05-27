@@ -1,0 +1,86 @@
+{
+  "id": 874284473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.374852,41.870667,-71.374852,41.870667",
+    "geom:latitude":41.870667,
+    "geom:longitude":-71.374852,
+    "iso:country":"US",
+    "sg:address":"111 Brewster St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 729 2209",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "pathology",
+        "surgeons",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43szbGxpJ5w9ILsO8oH5LR_41.870659_-71.374851@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314790,
+    "wof:geomhash":"a68f05da12729823c286b655d3f1cf1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874284473
+        }
+    ],
+    "wof:id":874284473,
+    "wof:lastmodified":1464314790,
+    "wof:name":"Memorial Hospital",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pathology",
+        "surgeons",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.374852,
+    41.870667,
+    -71.374852,
+    41.870667
+],
+  "geometry": {"coordinates":[-71.374852,41.870667],"type":"Point"}
+}

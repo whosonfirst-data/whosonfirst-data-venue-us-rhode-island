@@ -1,0 +1,77 @@
+{
+  "id": 874030807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447973,41.472378,-71.447973,41.472378",
+    "geom:latitude":41.472378,
+    "geom:longitude":-71.447973,
+    "iso:country":"US",
+    "sg:address":"36 S River Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6133",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iVLbkrCULHdJlmTmYNPKu_41.472378_-71.447973@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311055,
+    "wof:geomhash":"5bf43101a88b14b9412b2e546653bbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874030807
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874030807
+        }
+    ],
+    "wof:id":874030807,
+    "wof:lastmodified":1464311055,
+    "wof:name":"Mettatuxet Improvement Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.447973,
+    41.472378,
+    -71.447973,
+    41.472378
+],
+  "geometry": {"coordinates":[-71.447973,41.472378],"type":"Point"}
+}

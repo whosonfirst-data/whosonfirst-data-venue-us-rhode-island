@@ -1,0 +1,77 @@
+{
+  "id": 873981915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447701,41.558419,-71.447701,41.558419",
+    "geom:latitude":41.558419,
+    "geom:longitude":-71.447701,
+    "iso:country":"US",
+    "sg:address":"135 Fairway",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 0764",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85823665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hq8vVVpASQDwhfH1Q6IvO_41.558419_-71.447701@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310618,
+    "wof:geomhash":"09cc47b9be4a742614478517e8dca92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":873981915
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":873981915
+        }
+    ],
+    "wof:id":873981915,
+    "wof:lastmodified":1464310618,
+    "wof:name":"Art & Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -71.447701,
+    41.558419,
+    -71.447701,
+    41.558419
+],
+  "geometry": {"coordinates":[-71.447701,41.558419],"type":"Point"}
+}

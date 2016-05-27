@@ -1,0 +1,87 @@
+{
+  "id": 874044983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456886,41.780505,-71.456886,41.780505",
+    "geom:latitude":41.780505,
+    "geom:longitude":-71.456886,
+    "iso:country":"US",
+    "sg:address":"55 Budlong Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 2400",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "used",
+        "automotive",
+        "general",
+        "a",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u1RMCYe692Gd1ugdDim6E_41.780505_-71.456886@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311194,
+    "wof:geomhash":"178e054d310b48c1c41e75ca324ab6eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874044983
+        }
+    ],
+    "wof:id":874044983,
+    "wof:lastmodified":1464311194,
+    "wof:name":"Budlong Auto",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "used",
+        "automotive",
+        "general",
+        "a",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.456886,
+    41.780505,
+    -71.456886,
+    41.780505
+],
+  "geometry": {"coordinates":[-71.456886,41.780505],"type":"Point"}
+}

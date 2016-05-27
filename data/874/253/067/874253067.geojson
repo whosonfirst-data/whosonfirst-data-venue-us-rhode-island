@@ -1,0 +1,69 @@
+{
+  "id": 874253067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449359,41.862506,-71.449359,41.862506",
+    "geom:latitude":41.862506,
+    "geom:longitude":-71.449359,
+    "iso:country":"US",
+    "sg:address":"18 Alexander St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2664",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "town"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75BppY3PWuP9WfQYMooRya_41.862506_-71.449359@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313627,
+    "wof:geomhash":"88b9ed9eb90087ca13321e4c53012724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874253067
+        }
+    ],
+    "wof:id":874253067,
+    "wof:lastmodified":1464313627,
+    "wof:name":"Public Works Department",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town"
+    ]
+},
+  "bbox": [
+    -71.449359,
+    41.862506,
+    -71.449359,
+    41.862506
+],
+  "geometry": {"coordinates":[-71.449359,41.862506],"type":"Point"}
+}

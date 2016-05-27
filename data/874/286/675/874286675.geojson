@@ -1,0 +1,72 @@
+{
+  "id": 874286675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493358,41.662854,-71.493358,41.662854",
+    "geom:latitude":41.662854,
+    "geom:longitude":-71.493358,
+    "iso:country":"US",
+    "sg:address":"1050 Division Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/53325-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 4151",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vydJIf0ke01nWtvu6MSk5_41.662854_-71.493358@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314879,
+    "wof:geomhash":"6bfe72c2ba374b8fa62af2c777465098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874286675
+        }
+    ],
+    "wof:id":874286675,
+    "wof:lastmodified":1464314879,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.493358,
+    41.662854,
+    -71.493358,
+    41.662854
+],
+  "geometry": {"coordinates":[-71.493358,41.662854],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873989137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435146,41.853072,-71.435146,41.853072",
+    "geom:latitude":41.853072,
+    "geom:longitude":-71.435146,
+    "iso:country":"US",
+    "sg:address":"287 Veazie St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 1827",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gEuEK0YzClfmuGexd30JD_41.853072_-71.435146@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310684,
+    "wof:geomhash":"fc711ca5485faf26e3473c6cb0313937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":873989137
+        }
+    ],
+    "wof:id":873989137,
+    "wof:lastmodified":1464310684,
+    "wof:name":"American Legion",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -71.435146,
+    41.853072,
+    -71.435146,
+    41.853072
+],
+  "geometry": {"coordinates":[-71.435146,41.853072],"type":"Point"}
+}

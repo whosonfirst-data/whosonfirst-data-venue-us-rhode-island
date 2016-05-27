@@ -1,0 +1,71 @@
+{
+  "id": 874299439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444298,41.865398,-71.444298,41.865398",
+    "geom:latitude":41.865398,
+    "geom:longitude":-71.444298,
+    "iso:country":"US",
+    "sg:address":"1492 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4880",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PqJ6uyCfPSmeBKoIxvWuV_41.865398_-71.444298@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315369,
+    "wof:geomhash":"ce2877319c1b510fc6aa6a3361047da0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299439
+        }
+    ],
+    "wof:id":874299439,
+    "wof:lastmodified":1464315369,
+    "wof:name":"Cavicchio Barbara M DDS",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.444298,
+    41.865398,
+    -71.444298,
+    41.865398
+],
+  "geometry": {"coordinates":[-71.444298,41.865398],"type":"Point"}
+}

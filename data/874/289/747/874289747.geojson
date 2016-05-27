@@ -1,0 +1,85 @@
+{
+  "id": 874289747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386299,41.880798,-71.386299,41.880798",
+    "geom:latitude":41.880798,
+    "geom:longitude":-71.386299,
+    "iso:country":"US",
+    "sg:address":"100 Broad St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 6724",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31nIASp8Dg8utEAeMZ2tQw_41.880798_-71.386299@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315003,
+    "wof:geomhash":"4d9787b13a8e11c7aa36a6cb18fc84f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289747
+        }
+    ],
+    "wof:id":874289747,
+    "wof:lastmodified":1464315003,
+    "wof:name":"Walgreen Drug Stores",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.386299,
+    41.880798,
+    -71.386299,
+    41.880798
+],
+  "geometry": {"coordinates":[-71.38629899999999,41.880798],"type":"Point"}
+}

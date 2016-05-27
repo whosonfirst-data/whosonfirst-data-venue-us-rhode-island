@@ -1,0 +1,75 @@
+{
+  "id": 874256469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451856,41.657506,-71.451856,41.657506",
+    "geom:latitude":41.657506,
+    "geom:longitude":-71.451856,
+    "iso:country":"US",
+    "sg:address":"459 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 4293",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_459j3CGoSPmQbLkz1pRoTl_41.657506_-71.451856@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313707,
+    "wof:geomhash":"c16185edc95958e7bcf7d9ae58a443c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874256469
+        }
+    ],
+    "wof:id":874256469,
+    "wof:lastmodified":1464313707,
+    "wof:name":"Barber Shop",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.451856,
+    41.657506,
+    -71.451856,
+    41.657506
+],
+  "geometry": {"coordinates":[-71.45185600000001,41.657506],"type":"Point"}
+}

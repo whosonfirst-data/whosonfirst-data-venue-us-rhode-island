@@ -1,0 +1,81 @@
+{
+  "id": 874162465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469857,41.728107,-71.469857,41.728107",
+    "geom:latitude":41.728107,
+    "geom:longitude":-71.469857,
+    "iso:country":"US",
+    "sg:address":"104 Central St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 8822",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fBvm0UqAbejNP0krBUCIE_41.728107_-71.469857@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"96f589c025b7dfdee25be12269d8c7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874162465
+        }
+    ],
+    "wof:id":874162465,
+    "wof:lastmodified":1464312455,
+    "wof:name":"Superior Electric Co Inc",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.469857,
+    41.728107,
+    -71.469857,
+    41.728107
+],
+  "geometry": {"coordinates":[-71.469857,41.728107],"type":"Point"}
+}

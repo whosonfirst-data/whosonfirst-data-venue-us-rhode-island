@@ -1,0 +1,69 @@
+{
+  "id": 874001947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264178,41.686117,-71.264178,41.686117",
+    "geom:latitude":41.686117,
+    "geom:longitude":-71.264178,
+    "iso:country":"US",
+    "sg:address":"34 Jane Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 9889",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18nBw28QnnY7jV5rzpmn64_41.686117_-71.264178@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310775,
+    "wof:geomhash":"944149358813412661b13ceb3959fb0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874001947
+        }
+    ],
+    "wof:id":874001947,
+    "wof:lastmodified":1464310775,
+    "wof:name":"East Bay Beauty Boutique",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.264178,
+    41.686117,
+    -71.264178,
+    41.686117
+],
+  "geometry": {"coordinates":[-71.264178,41.686117],"type":"Point"}
+}

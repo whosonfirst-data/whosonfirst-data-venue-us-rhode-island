@@ -1,0 +1,78 @@
+{
+  "id": 874287629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450509,41.752799,-71.450509,41.752799",
+    "geom:latitude":41.752799,
+    "geom:longitude":-71.450509,
+    "iso:country":"US",
+    "sg:address":"1155 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/121919-krispy-kreme/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3333",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m7fzjlVHsMBvEInkqTf5E_41.752799_-71.450509@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"cc8e3cdd781fa714c1ea3ae370c6edeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874287629
+        }
+    ],
+    "wof:id":874287629,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Krispy Kreme",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.450509,
+    41.752799,
+    -71.450509,
+    41.752799
+],
+  "geometry": {"coordinates":[-71.450509,41.752799],"type":"Point"}
+}

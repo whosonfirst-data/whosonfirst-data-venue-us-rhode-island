@@ -1,0 +1,69 @@
+{
+  "id": 874274249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192696,41.583382,-71.192696,41.583382",
+    "geom:latitude":41.583382,
+    "geom:longitude":-71.192696,
+    "iso:country":"US",
+    "sg:address":"3580 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 7032",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l4ABvKtqrbxG8RExop1ZQ_41.583382_-71.192696@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314376,
+    "wof:geomhash":"65ab2ad6037313817db2ceb379078b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874274249
+        }
+    ],
+    "wof:id":874274249,
+    "wof:lastmodified":1464314376,
+    "wof:name":"Greebs Jewelry Svc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.192696,
+    41.583382,
+    -71.192696,
+    41.583382
+],
+  "geometry": {"coordinates":[-71.192696,41.583382],"type":"Point"}
+}

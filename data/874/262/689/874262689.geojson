@@ -1,0 +1,82 @@
+{
+  "id": 874262689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492821,41.869977,-71.492821,41.869977",
+    "geom:latitude":41.869977,
+    "geom:longitude":-71.492821,
+    "iso:country":"US",
+    "sg:address":"277 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 7778",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KKtNJZN1uGRa2CKlrUSKX_41.869977_-71.492821@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313948,
+    "wof:geomhash":"33b3a89f02f5234091408b2e9fd5e58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874262689
+        }
+    ],
+    "wof:id":874262689,
+    "wof:lastmodified":1464313948,
+    "wof:name":"Human Services Consultants Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.492821,
+    41.869977,
+    -71.492821,
+    41.869977
+],
+  "geometry": {"coordinates":[-71.49282100000001,41.869977],"type":"Point"}
+}

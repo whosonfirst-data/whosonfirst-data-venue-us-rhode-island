@@ -1,0 +1,73 @@
+{
+  "id": 874287331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522233,41.98632,-71.522233,41.98632",
+    "geom:latitude":41.98632,
+    "geom:longitude":-71.522233,
+    "iso:country":"US",
+    "sg:address":"800 Providence St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/woonsocket/224928-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jnjWPi2Xs5Gnwn0Xu1wyf_41.986320_-71.522233@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314901,
+    "wof:geomhash":"b218e505d143b4fd595c28f4cdcdfdaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874287331
+        }
+    ],
+    "wof:id":874287331,
+    "wof:lastmodified":1464314901,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.522233,
+    41.98632,
+    -71.522233,
+    41.98632
+],
+  "geometry": {"coordinates":[-71.522233,41.98632],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874282467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26034,41.545114,-71.26034,41.545114",
+    "geom:latitude":41.545114,
+    "geom:longitude":-71.26034,
+    "iso:country":"US",
+    "sg:address":"29 Selina Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 5761",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H5ckQUV6zMWr1Z9e8VXZ2_41.545081_-71.260792@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314723,
+    "wof:geomhash":"be3e036ef012b3d776662427709aa781",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874282467
+        }
+    ],
+    "wof:id":874282467,
+    "wof:lastmodified":1464314723,
+    "wof:name":"The Landscape Co",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.26034,
+    41.545114,
+    -71.26034,
+    41.545114
+],
+  "geometry": {"coordinates":[-71.26034,41.545114],"type":"Point"}
+}

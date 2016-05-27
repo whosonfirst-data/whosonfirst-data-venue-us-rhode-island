@@ -1,0 +1,83 @@
+{
+  "id": 874294179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415199,41.819599,-71.415199,41.819599",
+    "geom:latitude":41.819599,
+    "geom:longitude":-71.415199,
+    "iso:country":"US",
+    "sg:address":"10 Greene St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 2583",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.coastway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xsNpEMVVR0bsm3b79GP9S_41.819599_-71.415199@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315163,
+    "wof:geomhash":"278d4d446db322b26d70ac3e9a8f9d32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874294179
+        }
+    ],
+    "wof:id":874294179,
+    "wof:lastmodified":1464315163,
+    "wof:name":"Coastway Credit Union",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.415199,
+    41.819599,
+    -71.415199,
+    41.819599
+],
+  "geometry": {"coordinates":[-71.415199,41.819599],"type":"Point"}
+}

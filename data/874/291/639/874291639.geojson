@@ -1,0 +1,74 @@
+{
+  "id": 874291639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437359,41.945331,-71.437359,41.945331",
+    "geom:latitude":41.945331,
+    "geom:longitude":-71.437359,
+    "iso:country":"US",
+    "sg:address":"1764 Mendon Road",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 5377",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OwvwBiiuqY8YvMs6Ro92B_41.945331_-71.437359@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315077,
+    "wof:geomhash":"a77c730ef4faee2854b92e4549037b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291639
+        }
+    ],
+    "wof:id":874291639,
+    "wof:lastmodified":1464315077,
+    "wof:name":"Crugnale Bakery Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.437359,
+    41.945331,
+    -71.437359,
+    41.945331
+],
+  "geometry": {"coordinates":[-71.437359,41.945331],"type":"Point"}
+}

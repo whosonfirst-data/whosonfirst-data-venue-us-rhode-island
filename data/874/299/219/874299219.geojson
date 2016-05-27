@@ -1,0 +1,70 @@
+{
+  "id": 874299219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451897,41.863701,-71.451897,41.863701",
+    "geom:latitude":41.863701,
+    "geom:longitude":-71.451897,
+    "iso:country":"US",
+    "sg:address":"1650 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4224",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.payless.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NbstUowd6KxajMj3RUV5U_41.863701_-71.451897@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315361,
+    "wof:geomhash":"f5f18a5733c5ffbcf4db6dae364133db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299219
+        }
+    ],
+    "wof:id":874299219,
+    "wof:lastmodified":1464315361,
+    "wof:name":"Payless Shoesource",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.451897,
+    41.863701,
+    -71.451897,
+    41.863701
+],
+  "geometry": {"coordinates":[-71.451897,41.863701],"type":"Point"}
+}

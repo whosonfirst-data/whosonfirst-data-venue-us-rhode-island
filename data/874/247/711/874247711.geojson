@@ -1,0 +1,71 @@
+{
+  "id": 874247711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.297356,41.541475,-71.297356,41.541475",
+    "geom:latitude":41.541475,
+    "geom:longitude":-71.297356,
+    "iso:country":"US",
+    "sg:address":"196 W View Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 0547",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DSzRto1KHKFqOYRiX8VOt_41.541475_-71.297356@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313488,
+    "wof:geomhash":"c3f31232771486b7ba97b97c8872af73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874247711
+        }
+    ],
+    "wof:id":874247711,
+    "wof:lastmodified":1464313488,
+    "wof:name":"Boyds Clean Sweep",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.297356,
+    41.541475,
+    -71.297356,
+    41.541475
+],
+  "geometry": {"coordinates":[-71.29735599999999,41.541475],"type":"Point"}
+}

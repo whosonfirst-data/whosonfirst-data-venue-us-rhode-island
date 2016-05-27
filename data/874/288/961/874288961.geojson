@@ -1,0 +1,84 @@
+{
+  "id": 874288961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532544,41.870241,-71.532544,41.870241",
+    "geom:latitude":41.870241,
+    "geom:longitude":-71.532544,
+    "iso:country":"US",
+    "sg:address":"444 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2621",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apparel",
+        "clothing",
+        "women's"
+    ],
+    "sg:website":"http://www.tjx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zDJ79xJsvsSo1clxSuxp9_41.870241_-71.532544@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314975,
+    "wof:geomhash":"65b34eb3ab06d7419e34ecaa8b85edb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874288961
+        }
+    ],
+    "wof:id":874288961,
+    "wof:lastmodified":1464314975,
+    "wof:name":"Tj Maxx",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "clothing",
+        "women's"
+    ]
+},
+  "bbox": [
+    -71.532544,
+    41.870241,
+    -71.532544,
+    41.870241
+],
+  "geometry": {"coordinates":[-71.532544,41.870241],"type":"Point"}
+}

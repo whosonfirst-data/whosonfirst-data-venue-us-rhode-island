@@ -1,0 +1,69 @@
+{
+  "id": 874263565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.388564,41.532896,-71.388564,41.532896",
+    "geom:latitude":41.532896,
+    "geom:longitude":-71.388564,
+    "iso:country":"US",
+    "sg:address":"229 Seaside Dr",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 0730",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hj1oehwo7PlSpoOgqpS9m_41.532896_-71.388564@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313976,
+    "wof:geomhash":"ab96c0dd16b23cda00ade9716473b485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874263565
+        }
+    ],
+    "wof:id":874263565,
+    "wof:lastmodified":1464313976,
+    "wof:name":"R & R Gallery",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.388564,
+    41.532896,
+    -71.388564,
+    41.532896
+],
+  "geometry": {"coordinates":[-71.388564,41.532896],"type":"Point"}
+}

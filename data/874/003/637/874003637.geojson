@@ -1,0 +1,71 @@
+{
+  "id": 874003637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.57459,41.493334,-71.57459,41.493334",
+    "geom:latitude":41.493334,
+    "geom:longitude":-71.57459,
+    "iso:country":"US",
+    "sg:address":"29 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7296",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08LGfd7EGDTLpVRBGjyumO_41.493334_-71.574590@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310799,
+    "wof:geomhash":"da2b55670805de540ed3f3ce4f7c6dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874003637
+        }
+    ],
+    "wof:id":874003637,
+    "wof:lastmodified":1464310799,
+    "wof:name":"Charlestown Handy Hands Inc",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.57459,
+    41.493334,
+    -71.57459,
+    41.493334
+],
+  "geometry": {"coordinates":[-71.57459,41.493334],"type":"Point"}
+}

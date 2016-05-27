@@ -1,0 +1,77 @@
+{
+  "id": 874004779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415977,41.848423,-71.415977,41.848423",
+    "geom:latitude":41.848423,
+    "geom:longitude":-71.415977,
+    "iso:country":"US",
+    "sg:address":"301 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 9792",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aDi6Q3t0Dhai521coPzTz_41.848423_-71.415977@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310812,
+    "wof:geomhash":"07d8add05ad2a8940f455bee93f177f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874004779
+        }
+    ],
+    "wof:id":874004779,
+    "wof:lastmodified":1464310812,
+    "wof:name":"Marios Triangle Service Center",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.415977,
+    41.848423,
+    -71.415977,
+    41.848423
+],
+  "geometry": {"coordinates":[-71.415977,41.848423],"type":"Point"}
+}

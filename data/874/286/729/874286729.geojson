@@ -1,0 +1,76 @@
+{
+  "id": 874286729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314005,41.476878,-71.314005,41.476878",
+    "geom:latitude":41.476878,
+    "geom:longitude":-71.314005,
+    "iso:country":"US",
+    "sg:address":"599 Thames St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/newport/244797-asterik-bar-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 8833",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aMKe6H1STloKBJk4L94MY_41.476878_-71.314005@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314881,
+    "wof:geomhash":"9d43cf993f7f46307ade1b553afedabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874286729
+        }
+    ],
+    "wof:id":874286729,
+    "wof:lastmodified":1464314881,
+    "wof:name":"Asterik Bar Restaurant",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.314005,
+    41.476878,
+    -71.314005,
+    41.476878
+],
+  "geometry": {"coordinates":[-71.31400499999999,41.476878],"type":"Point"}
+}

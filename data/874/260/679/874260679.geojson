@@ -1,0 +1,71 @@
+{
+  "id": 874260679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50979,41.886306,-71.50979,41.886306",
+    "geom:latitude":41.886306,
+    "geom:longitude":-71.50979,
+    "iso:country":"US",
+    "sg:address":"69 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1655",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BdC0OTVPZ7EbfM7zCLw1k_41.886306_-71.509790@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313880,
+    "wof:geomhash":"17c65a1d009b4e93310e2b87943f19ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874260679
+        }
+    ],
+    "wof:id":874260679,
+    "wof:lastmodified":1464313880,
+    "wof:name":"Metro Transportation Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -71.50979,
+    41.886306,
+    -71.50979,
+    41.886306
+],
+  "geometry": {"coordinates":[-71.50979,41.886306],"type":"Point"}
+}

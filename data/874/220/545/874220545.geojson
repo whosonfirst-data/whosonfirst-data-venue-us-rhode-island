@@ -1,0 +1,81 @@
+{
+  "id": 874220545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448551,41.567991,-71.448551,41.567991",
+    "geom:latitude":41.567991,
+    "geom:longitude":-71.448551,
+    "iso:country":"US",
+    "sg:address":"65 Reynolds St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 8504",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WZKw8QDhejpmFHphLuEOG_41.567991_-71.448551@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313069,
+    "wof:geomhash":"9505ce32e289cfe7e956da1607b8c782",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874220545
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874220545
+        }
+    ],
+    "wof:id":874220545,
+    "wof:lastmodified":1464313069,
+    "wof:name":"Newport Nautical Supply",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "marine",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.448551,
+    41.567991,
+    -71.448551,
+    41.567991
+],
+  "geometry": {"coordinates":[-71.44855099999999,41.567991],"type":"Point"}
+}

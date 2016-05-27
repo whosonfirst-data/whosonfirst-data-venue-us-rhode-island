@@ -1,0 +1,77 @@
+{
+  "id": 874225663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.695225,41.972609,-71.695225,41.972609",
+    "geom:latitude":41.972609,
+    "geom:longitude":-71.695225,
+    "iso:country":"US",
+    "sg:address":"281 Emerson Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4600",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bOEOYYY67NbpLC6Up6Snd_41.972609_-71.695225@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313118,
+    "wof:geomhash":"c5c6a6d3bcb904798db597d9f4b7a8cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874225663
+        }
+    ],
+    "wof:id":874225663,
+    "wof:lastmodified":1464313118,
+    "wof:name":"Hill Road Automotive",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.695225,
+    41.972609,
+    -71.695225,
+    41.972609
+],
+  "geometry": {"coordinates":[-71.69522499999999,41.972609],"type":"Point"}
+}

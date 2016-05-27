@@ -1,0 +1,71 @@
+{
+  "id": 874181069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28198,41.705603,-71.28198,41.705603",
+    "geom:latitude":41.705603,
+    "geom:longitude":-71.28198,
+    "iso:country":"US",
+    "sg:address":"10 Patricia Ann Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 1876",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2J90HbzOK6qFbCP1fX7u6U_41.705603_-71.281980@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312641,
+    "wof:geomhash":"2b735c987feda97475d81d14270a4dcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874181069
+        }
+    ],
+    "wof:id":874181069,
+    "wof:lastmodified":1464312641,
+    "wof:name":"East Coast Financial",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.28198,
+    41.705603,
+    -71.28198,
+    41.705603
+],
+  "geometry": {"coordinates":[-71.28198,41.705603],"type":"Point"}
+}

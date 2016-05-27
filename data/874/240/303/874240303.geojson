@@ -1,0 +1,79 @@
+{
+  "id": 874240303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41767,41.827583,-71.41767,41.827583",
+    "geom:latitude":41.827583,
+    "geom:longitude":-71.41767,
+    "iso:country":"US",
+    "sg:address":"73 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 4274",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "museum",
+        "reproduction",
+        "artifact"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BYTi6QMasZmbaEFLqLoEW_41.827583_-71.417670@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313346,
+    "wof:geomhash":"c5cab34164ca3fd6652604010af18da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874240303
+        }
+    ],
+    "wof:id":874240303,
+    "wof:lastmodified":1464313346,
+    "wof:name":"Museum Company",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "museum",
+        "reproduction",
+        "artifact"
+    ]
+},
+  "bbox": [
+    -71.41767,
+    41.827583,
+    -71.41767,
+    41.827583
+],
+  "geometry": {"coordinates":[-71.41767,41.827583],"type":"Point"}
+}

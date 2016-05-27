@@ -1,0 +1,73 @@
+{
+  "id": 874252193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537475,41.431222,-71.537475,41.431222",
+    "geom:latitude":41.431222,
+    "geom:longitude":-71.537475,
+    "iso:country":"US",
+    "sg:address":"726 Tuckertown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 7879",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WDzNjPtj6NDKWVjo1uHjO_41.431222_-71.537475@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313608,
+    "wof:geomhash":"98130b8a1dd5217251390d301a994921",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874252193
+        }
+    ],
+    "wof:id":874252193,
+    "wof:lastmodified":1464313608,
+    "wof:name":"Splendid Loon Studio",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.537475,
+    41.431222,
+    -71.537475,
+    41.431222
+],
+  "geometry": {"coordinates":[-71.537475,41.431222],"type":"Point"}
+}

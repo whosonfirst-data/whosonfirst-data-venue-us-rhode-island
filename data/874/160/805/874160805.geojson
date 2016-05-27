@@ -1,0 +1,69 @@
+{
+  "id": 874160805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.226301,41.642716,-71.226301,41.642716",
+    "geom:latitude":41.642716,
+    "geom:longitude":-71.226301,
+    "iso:country":"US",
+    "sg:address":"144 Rhode Island Blvd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0101",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bnfKyO46Jtu0oR2y5SDoe_41.642716_-71.226301@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312440,
+    "wof:geomhash":"cd265e3457c53a593b7e5f7b76bbbf9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874160805
+        }
+    ],
+    "wof:id":874160805,
+    "wof:lastmodified":1464312440,
+    "wof:name":"John Braga & Assoc",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.226301,
+    41.642716,
+    -71.226301,
+    41.642716
+],
+  "geometry": {"coordinates":[-71.22630100000001,41.642716],"type":"Point"}
+}

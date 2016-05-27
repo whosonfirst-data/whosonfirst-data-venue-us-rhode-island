@@ -1,0 +1,71 @@
+{
+  "id": 874009597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252341,41.584305,-71.252341,41.584305",
+    "geom:latitude":41.584305,
+    "geom:longitude":-71.252341,
+    "iso:country":"US",
+    "sg:address":"1980 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 7517",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jJPcQBMEMvhFn7z1UENzh_41.584305_-71.252341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310852,
+    "wof:geomhash":"cf8ed527f42a4962f88121798ddfb4eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874009597
+        }
+    ],
+    "wof:id":874009597,
+    "wof:lastmodified":1464310852,
+    "wof:name":"401 Motoring",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.252341,
+    41.584305,
+    -71.252341,
+    41.584305
+],
+  "geometry": {"coordinates":[-71.252341,41.584305],"type":"Point"}
+}

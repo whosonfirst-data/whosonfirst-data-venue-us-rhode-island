@@ -1,0 +1,71 @@
+{
+  "id": 874255997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467093,41.642126,-71.467093,41.642126",
+    "geom:latitude":41.642126,
+    "geom:longitude":-71.467093,
+    "iso:country":"US",
+    "sg:address":"5627 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9612",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ijrjVpyzps1PdMkLkbwz0_41.642126_-71.467093@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313696,
+    "wof:geomhash":"de2871214f676d83f46c6defae8415df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874255997
+        }
+    ],
+    "wof:id":874255997,
+    "wof:lastmodified":1464313696,
+    "wof:name":"Oriental Cleaners Inc",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.467093,
+    41.642126,
+    -71.467093,
+    41.642126
+],
+  "geometry": {"coordinates":[-71.46709300000001,41.642126],"type":"Point"}
+}

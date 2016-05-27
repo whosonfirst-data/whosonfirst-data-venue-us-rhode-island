@@ -1,0 +1,85 @@
+{
+  "id": 874132703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.205575,41.608502,-71.205575,41.608502",
+    "geom:latitude":41.608502,
+    "geom:longitude":-71.205575,
+    "iso:country":"US",
+    "sg:address":"404 Nannaquaket Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3100",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "firm",
+        "marketing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lUaqszCHYIYj0PjhlKWHr_41.608502_-71.205575@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312170,
+    "wof:geomhash":"26d1c7bb54a486b6382c8256068bb283",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874132703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874132703
+        }
+    ],
+    "wof:id":874132703,
+    "wof:lastmodified":1464312170,
+    "wof:name":"Decision Makers Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "marketing"
+    ]
+},
+  "bbox": [
+    -71.205575,
+    41.608502,
+    -71.205575,
+    41.608502
+],
+  "geometry": {"coordinates":[-71.205575,41.608502],"type":"Point"}
+}

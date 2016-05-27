@@ -1,0 +1,91 @@
+{
+  "id": 874282933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51749,41.911893,-71.51749,41.911893",
+    "geom:latitude":41.911893,
+    "geom:longitude":-71.51749,
+    "iso:country":"US",
+    "sg:address":"20 Thurber Blvd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4441",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "control",
+        "development",
+        "mfg",
+        "process",
+        "system",
+        "controls",
+        "regulator",
+        "instrument",
+        "laboratory"
+    ],
+    "sg:website":"http://www.firehydrants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a0xhU9eL71O0E9h79LTbe_41.911708_-71.517779@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314737,
+    "wof:geomhash":"cdbd279748f6d9f64d8471842adaa801",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874282933
+        }
+    ],
+    "wof:id":874282933,
+    "wof:lastmodified":1464314737,
+    "wof:name":"Mueller Group",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "development",
+        "mfg",
+        "process",
+        "system",
+        "controls",
+        "regulator",
+        "instrument",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.51749,
+    41.911893,
+    -71.51749,
+    41.911893
+],
+  "geometry": {"coordinates":[-71.51749,41.911893],"type":"Point"}
+}

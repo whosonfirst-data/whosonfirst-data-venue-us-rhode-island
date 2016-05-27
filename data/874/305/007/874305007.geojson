@@ -1,0 +1,82 @@
+{
+  "id": 874305007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542161,41.446888,-71.542161,41.446888",
+    "geom:latitude":41.446888,
+    "geom:longitude":-71.542161,
+    "iso:country":"US",
+    "sg:address":"117 Rockwood Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 6220",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85845577,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75QTaSaDlR8jYqQ4CPXvh1_41.446888_-71.542161@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315564,
+    "wof:geomhash":"716ebab6bf61b407e5c1c7652c317d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874305007
+        }
+    ],
+    "wof:id":874305007,
+    "wof:lastmodified":1464315564,
+    "wof:name":"Deep Sea Lobster",
+    "wof:parent_id":85845577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.542161,
+    41.446888,
+    -71.542161,
+    41.446888
+],
+  "geometry": {"coordinates":[-71.54216099999999,41.446888],"type":"Point"}
+}

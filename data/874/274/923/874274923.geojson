@@ -1,0 +1,73 @@
+{
+  "id": 874274923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451447,41.837797,-71.451447,41.837797",
+    "geom:latitude":41.837797,
+    "geom:longitude":-71.451447,
+    "iso:country":"US",
+    "sg:address":"434 Mount Pleasant Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 6920",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "baseball"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KzmXP1hTe9l2KAhLBfzY1_41.837797_-71.451447@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314400,
+    "wof:geomhash":"32a2766d8d173b58c5d996a63f1f8565",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874274923
+        }
+    ],
+    "wof:id":874274923,
+    "wof:lastmodified":1464314400,
+    "wof:name":"Mt Pleasant Little League",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "baseball"
+    ]
+},
+  "bbox": [
+    -71.451447,
+    41.837797,
+    -71.451447,
+    41.837797
+],
+  "geometry": {"coordinates":[-71.451447,41.837797],"type":"Point"}
+}

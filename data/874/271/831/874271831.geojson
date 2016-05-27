@@ -1,0 +1,66 @@
+{
+  "id": 874271831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509715,41.462553,-71.509715,41.462553",
+    "geom:latitude":41.462553,
+    "geom:longitude":-71.509715,
+    "iso:country":"US",
+    "sg:address":"1892 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3690",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BT1NfcXILSb6bgdaoSxR2_41.462553_-71.509715@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314285,
+    "wof:geomhash":"598557d15aefa94b740e439d9da6c6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874271831
+        }
+    ],
+    "wof:id":874271831,
+    "wof:lastmodified":1464314285,
+    "wof:name":"Dairy Farms",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.509715,
+    41.462553,
+    -71.509715,
+    41.462553
+],
+  "geometry": {"coordinates":[-71.509715,41.462553],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874183633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.30865,41.493757,-71.30865,41.493757",
+    "geom:latitude":41.493757,
+    "geom:longitude":-71.30865,
+    "iso:country":"US",
+    "sg:address":"29 Everett St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4509",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "web",
+        "hosting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i1b5a8OaPKjQ6jwGoG49X_41.493757_-71.308650@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312672,
+    "wof:geomhash":"00580802b33ea6c7f4397208df55737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874183633
+        }
+    ],
+    "wof:id":874183633,
+    "wof:lastmodified":1464312672,
+    "wof:name":"Mariner1com",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "hosting"
+    ]
+},
+  "bbox": [
+    -71.30865,
+    41.493757,
+    -71.30865,
+    41.493757
+],
+  "geometry": {"coordinates":[-71.30865,41.493757],"type":"Point"}
+}

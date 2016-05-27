@@ -1,0 +1,71 @@
+{
+  "id": 874129857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421653,41.971354,-71.421653,41.971354",
+    "geom:latitude":41.971354,
+    "geom:longitude":-71.421653,
+    "iso:country":"US",
+    "sg:address":"157 Pound Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 9337",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mdQnKcXzovby6Z60ixga8_41.971354_-71.421653@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312134,
+    "wof:geomhash":"7d0b2d6177d96a17a76d9b87bf9e07fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874129857
+        }
+    ],
+    "wof:id":874129857,
+    "wof:lastmodified":1464312134,
+    "wof:name":"MBP Construction",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.421653,
+    41.971354,
+    -71.421653,
+    41.971354
+],
+  "geometry": {"coordinates":[-71.42165300000001,41.971354],"type":"Point"}
+}

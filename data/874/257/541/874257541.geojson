@@ -1,0 +1,77 @@
+{
+  "id": 874257541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404861,41.763482,-71.404861,41.763482",
+    "geom:latitude":41.763482,
+    "geom:longitude":-71.404861,
+    "iso:country":"US",
+    "sg:address":"460 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 8121",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840949,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xtFGyMoXEYSF79Q3ifBlY_41.763482_-71.404861@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313749,
+    "wof:geomhash":"c29971c2af2c25a8f47d36b170303978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85840949,
+            "region_id":85688509,
+            "venue_id":874257541
+        }
+    ],
+    "wof:id":874257541,
+    "wof:lastmodified":1464313749,
+    "wof:name":"Dave's Auto Svc",
+    "wof:parent_id":85840949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.404861,
+    41.763482,
+    -71.404861,
+    41.763482
+],
+  "geometry": {"coordinates":[-71.404861,41.763482],"type":"Point"}
+}

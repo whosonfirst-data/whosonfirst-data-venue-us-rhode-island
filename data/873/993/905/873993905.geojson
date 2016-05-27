@@ -1,0 +1,77 @@
+{
+  "id": 873993905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41583,41.752712,-71.41583,41.752712",
+    "geom:latitude":41.752712,
+    "geom:longitude":-71.41583,
+    "iso:country":"US",
+    "sg:address":"857 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 3115",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55BnoWOF4QuwCF7iginEGM_41.752712_-71.415830@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310718,
+    "wof:geomhash":"034c10642a908c1922bf5d42b3711312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":873993905
+        }
+    ],
+    "wof:id":873993905,
+    "wof:lastmodified":1464310718,
+    "wof:name":"Associates In Primary Care",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.41583,
+    41.752712,
+    -71.41583,
+    41.752712
+],
+  "geometry": {"coordinates":[-71.41583,41.752712],"type":"Point"}
+}

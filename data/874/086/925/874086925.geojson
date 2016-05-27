@@ -1,0 +1,73 @@
+{
+  "id": 874086925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555915,41.514063,-71.555915,41.514063",
+    "geom:latitude":41.514063,
+    "geom:longitude":-71.555915,
+    "iso:country":"US",
+    "sg:address":"806 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4251",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocery",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ePcG7GolQY4kBKmvmh8X_41.514063_-71.555915@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311630,
+    "wof:geomhash":"bbc50553e5272b6d3ee77c078b1e6e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874086925
+        }
+    ],
+    "wof:id":874086925,
+    "wof:lastmodified":1464311630,
+    "wof:name":"Geaber's Wolf Rock Liquors Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.555915,
+    41.514063,
+    -71.555915,
+    41.514063
+],
+  "geometry": {"coordinates":[-71.555915,41.514063],"type":"Point"}
+}

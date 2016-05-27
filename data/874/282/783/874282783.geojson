@@ -1,0 +1,88 @@
+{
+  "id": 874282783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497593,41.990737,-71.497593,41.990737",
+    "geom:latitude":41.990737,
+    "geom:longitude":-71.497593,
+    "iso:country":"US",
+    "sg:address":"141 Glendale Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 2238",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "pattern",
+        "lathe",
+        "assembly",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wgwBmlw4NKkPF5CrYWcZ4_41.990599_-71.497665@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314733,
+    "wof:geomhash":"cec90bb6367ff85d041416b52bd9604b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874282783
+        }
+    ],
+    "wof:id":874282783,
+    "wof:lastmodified":1464314733,
+    "wof:name":"Industrial Grinding Co Inc",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "pattern",
+        "lathe",
+        "assembly",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -71.497593,
+    41.990737,
+    -71.497593,
+    41.990737
+],
+  "geometry": {"coordinates":[-71.49759299999999,41.990737],"type":"Point"}
+}

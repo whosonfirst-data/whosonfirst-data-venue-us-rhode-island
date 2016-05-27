@@ -1,0 +1,101 @@
+{
+  "id": 874289859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401674,41.85775,-71.401674,41.85775",
+    "geom:latitude":41.85775,
+    "geom:longitude":-71.401674,
+    "iso:country":"US",
+    "sg:address":"50 ANN MARY ST",
+    "sg:city":"PAWTUCKET",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 312 0901",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ],
+    "sg:website":"http://www.rentacenter.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29FSP9hB59cKWjgKD1AolU_41.857750_-71.401674@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315007,
+    "wof:geomhash":"e11dd21952d1a8f6975eeaad773b942a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874289859
+        }
+    ],
+    "wof:id":874289859,
+    "wof:lastmodified":1464315007,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.401674,
+    41.85775,
+    -71.401674,
+    41.85775
+],
+  "geometry": {"coordinates":[-71.401674,41.85775],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874116473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451347,41.858436,-71.451347,41.858436",
+    "geom:latitude":41.858436,
+    "geom:longitude":-71.451347,
+    "iso:country":"US",
+    "sg:address":"1 Prospect St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 863 2234",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "sg:website":"www.brown.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QNPtAkS8lAOcp7ws35dJ1_41.858436_-71.451347@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312001,
+    "wof:geomhash":"f05736bb96b8456f6fe8f30609c022db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874116473
+        }
+    ],
+    "wof:id":874116473,
+    "wof:lastmodified":1464312001,
+    "wof:name":"Brown University",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.451347,
+    41.858436,
+    -71.451347,
+    41.858436
+],
+  "geometry": {"coordinates":[-71.451347,41.858436],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874015925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457366,41.937798,-71.457366,41.937798",
+    "geom:latitude":41.937798,
+    "geom:longitude":-71.457366,
+    "iso:country":"US",
+    "sg:address":"1 Commerce St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1830",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qK9ybicc19TVj4hN1sAuA_41.937798_-71.457366@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310899,
+    "wof:geomhash":"a70bb318c3a1ce2b64cabe7cd56d1afb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874015925
+        }
+    ],
+    "wof:id":874015925,
+    "wof:lastmodified":1464310899,
+    "wof:name":"Lincoln Psychiatric Services",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.457366,
+    41.937798,
+    -71.457366,
+    41.937798
+],
+  "geometry": {"coordinates":[-71.45736599999999,41.937798],"type":"Point"}
+}

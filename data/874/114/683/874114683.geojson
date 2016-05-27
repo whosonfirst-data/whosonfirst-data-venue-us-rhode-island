@@ -1,0 +1,86 @@
+{
+  "id": 874114683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485735,41.44146,-71.485735,41.44146",
+    "geom:latitude":41.44146,
+    "geom:longitude":-71.485735,
+    "iso:country":"US",
+    "sg:address":"91 Pershing Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4279",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgLIYe148zTowm0WU2RG7_41.441460_-71.485735@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311984,
+    "wof:geomhash":"081f3ea06b5ab00d8104588ebb9e6ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874114683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874114683
+        }
+    ],
+    "wof:id":874114683,
+    "wof:lastmodified":1464311984,
+    "wof:name":"Wakefield Oasis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.485735,
+    41.44146,
+    -71.485735,
+    41.44146
+],
+  "geometry": {"coordinates":[-71.48573500000001,41.44146],"type":"Point"}
+}

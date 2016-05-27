@@ -1,0 +1,91 @@
+{
+  "id": 874214467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493201,41.430598,-71.493201,41.430598",
+    "geom:latitude":41.430598,
+    "geom:longitude":-71.493201,
+    "iso:country":"US",
+    "sg:address":"11 Kenyon Ave",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 9671",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qx8p947VaRkzvS6ApwHrH_41.430598_-71.493201@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312999,
+    "wof:geomhash":"923f86cd979edc853d2cd2a39bc485ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874214467
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874214467
+        }
+    ],
+    "wof:id":874214467,
+    "wof:lastmodified":1464312999,
+    "wof:name":"Communications Consultants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -71.493201,
+    41.430598,
+    -71.493201,
+    41.430598
+],
+  "geometry": {"coordinates":[-71.493201,41.430598],"type":"Point"}
+}

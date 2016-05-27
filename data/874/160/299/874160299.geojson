@@ -1,0 +1,71 @@
+{
+  "id": 874160299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.339908,41.760875,-71.339908,41.760875",
+    "geom:latitude":41.760875,
+    "geom:longitude":-71.339908,
+    "iso:country":"US",
+    "sg:address":"10 Albert Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 437 2670",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XOVbrLZCnqeyPnBSreGVN_41.760875_-71.339908@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312435,
+    "wof:geomhash":"c8b6fececf1186dfef05fb49cfd7b54b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874160299
+        }
+    ],
+    "wof:id":874160299,
+    "wof:lastmodified":1464312435,
+    "wof:name":"Cyber Citizens",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.339908,
+    41.760875,
+    -71.339908,
+    41.760875
+],
+  "geometry": {"coordinates":[-71.33990799999999,41.760875],"type":"Point"}
+}

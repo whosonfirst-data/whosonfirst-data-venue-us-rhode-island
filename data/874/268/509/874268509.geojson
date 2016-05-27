@@ -1,0 +1,76 @@
+{
+  "id": 874268509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441285,41.722406,-71.441285,41.722406",
+    "geom:latitude":41.722406,
+    "geom:longitude":-71.441285,
+    "iso:country":"US",
+    "sg:address":"2119 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5605",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "sg:website":"www.preflightparking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f48AJedRlugyIrn9HOZFr_41.722406_-71.441285@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314167,
+    "wof:geomhash":"0ff7872d6d831268f20690a5b7150912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874268509
+        }
+    ],
+    "wof:id":874268509,
+    "wof:lastmodified":1464314167,
+    "wof:name":"Preflight Airport Parking",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.441285,
+    41.722406,
+    -71.441285,
+    41.722406
+],
+  "geometry": {"coordinates":[-71.44128499999999,41.722406],"type":"Point"}
+}

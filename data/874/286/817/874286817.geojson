@@ -1,0 +1,73 @@
+{
+  "id": 874286817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291833,41.537482,-71.291833,41.537482",
+    "geom:latitude":41.537482,
+    "geom:longitude":-71.291833,
+    "iso:country":"US",
+    "sg:address":"1425 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/201234-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Sn4HpgdAOkSymTPJ14XKW_41.537482_-71.291833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314884,
+    "wof:geomhash":"025a06b8d75cc2d60f59a0efb1d0d64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874286817
+        }
+    ],
+    "wof:id":874286817,
+    "wof:lastmodified":1464314884,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.291833,
+    41.537482,
+    -71.291833,
+    41.537482
+],
+  "geometry": {"coordinates":[-71.291833,41.537482],"type":"Point"}
+}

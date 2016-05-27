@@ -1,0 +1,69 @@
+{
+  "id": 874148507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.238833,41.548223,-71.238833,41.548223",
+    "geom:latitude":41.548223,
+    "geom:longitude":-71.238833,
+    "iso:country":"US",
+    "sg:address":"349 Fischer Cir",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 4100",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SwGYfw0scx2Wfj5TJ0nrw_41.548223_-71.238833@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312315,
+    "wof:geomhash":"526d503a1d5149f45acb1cbeb9ae3ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874148507
+        }
+    ],
+    "wof:id":874148507,
+    "wof:lastmodified":1464312315,
+    "wof:name":"Ocean State Securities Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -71.238833,
+    41.548223,
+    -71.238833,
+    41.548223
+],
+  "geometry": {"coordinates":[-71.238833,41.548223],"type":"Point"}
+}

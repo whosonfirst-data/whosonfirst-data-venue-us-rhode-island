@@ -1,0 +1,69 @@
+{
+  "id": 874269775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.661278,41.385376,-71.661278,41.385376",
+    "geom:latitude":41.385376,
+    "geom:longitude":-71.661278,
+    "iso:country":"US",
+    "sg:address":"9 Kings Factory Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 7500",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fF42vBowB5P2odinT1LiU_41.385376_-71.661278@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314218,
+    "wof:geomhash":"f5459f7211aeea9e3fdccbc2a706ba83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874269775
+        }
+    ],
+    "wof:id":874269775,
+    "wof:lastmodified":1464314218,
+    "wof:name":"RPE Septic Svc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.661278,
+    41.385376,
+    -71.661278,
+    41.385376
+],
+  "geometry": {"coordinates":[-71.661278,41.385376],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873999103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.258859,41.557517,-71.258859,41.557517",
+    "geom:latitude":41.557517,
+    "geom:longitude":-71.258859,
+    "iso:country":"US",
+    "sg:address":"103 Carriage Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 5681",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "internet"
+    ],
+    "sg:website":"www.soundimagesinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mgvxxKZ5b9AVP9pO82Vzp_41.557517_-71.258859@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310754,
+    "wof:geomhash":"6434ed9ad3bc718c67c524fa7abd5808",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873999103
+        }
+    ],
+    "wof:id":873999103,
+    "wof:lastmodified":1464310754,
+    "wof:name":"Interactive Network Svc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "internet"
+    ]
+},
+  "bbox": [
+    -71.258859,
+    41.557517,
+    -71.258859,
+    41.557517
+],
+  "geometry": {"coordinates":[-71.258859,41.557517],"type":"Point"}
+}

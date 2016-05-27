@@ -1,0 +1,71 @@
+{
+  "id": 874114217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273383,41.575866,-71.273383,41.575866",
+    "geom:latitude":41.575866,
+    "geom:longitude":-71.273383,
+    "iso:country":"US",
+    "sg:address":"29 John St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 9533",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15K551IxZwcMVVNiOAyHQP_41.575866_-71.273383@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311979,
+    "wof:geomhash":"399f8b191cd5abce531e49a6d0abc127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874114217
+        }
+    ],
+    "wof:id":874114217,
+    "wof:lastmodified":1464311979,
+    "wof:name":"E F Siderski Plumbing and Htg",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.273383,
+    41.575866,
+    -71.273383,
+    41.575866
+],
+  "geometry": {"coordinates":[-71.273383,41.575866],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874258277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370801,41.87916,-71.370801,41.87916",
+    "geom:latitude":41.87916,
+    "geom:longitude":-71.370801,
+    "iso:country":"US",
+    "sg:address":"17 Ashton St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 7115",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fPpiMO5f4TwlSLEj6bOuN_41.879160_-71.370801@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313779,
+    "wof:geomhash":"ff5f0ff4484fb6fd21368b888ce4bb44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874258277
+        }
+    ],
+    "wof:id":874258277,
+    "wof:lastmodified":1464313779,
+    "wof:name":"Eastern Connection",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -71.370801,
+    41.87916,
+    -71.370801,
+    41.87916
+],
+  "geometry": {"coordinates":[-71.370801,41.87916],"type":"Point"}
+}

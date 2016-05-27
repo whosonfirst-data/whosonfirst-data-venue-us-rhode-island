@@ -1,0 +1,75 @@
+{
+  "id": 874295107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401386,41.818034,-71.401386,41.818034",
+    "geom:latitude":41.818034,
+    "geom:longitude":-71.401386,
+    "iso:country":"US",
+    "sg:address":"Corliss Landing 555 S Main St.",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 623 8931",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MDe8rwB8m2ZjoKh0XXMRT_41.818034_-71.401386@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315198,
+    "wof:geomhash":"e5c7fe28c717b04aeee3c3e824b6ab83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874295107
+        }
+    ],
+    "wof:id":874295107,
+    "wof:lastmodified":1464315198,
+    "wof:name":"Brick Alley Pizza",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.401386,
+    41.818034,
+    -71.401386,
+    41.818034
+],
+  "geometry": {"coordinates":[-71.401386,41.818034],"type":"Point"}
+}

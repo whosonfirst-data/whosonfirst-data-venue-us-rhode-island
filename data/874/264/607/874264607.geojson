@@ -1,0 +1,75 @@
+{
+  "id": 874264607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436225,41.816056,-71.436225,41.816056",
+    "geom:latitude":41.816056,
+    "geom:longitude":-71.436225,
+    "iso:country":"US",
+    "sg:address":"1577 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 7001",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Xjj4AuWdVY3556E1sqzHK_41.816056_-71.436225@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314017,
+    "wof:geomhash":"010aca75eb4ba729419b4264c4934097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874264607
+        }
+    ],
+    "wof:id":874264607,
+    "wof:lastmodified":1464314017,
+    "wof:name":"Westminster Motors",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.436225,
+    41.816056,
+    -71.436225,
+    41.816056
+],
+  "geometry": {"coordinates":[-71.43622499999999,41.816056],"type":"Point"}
+}

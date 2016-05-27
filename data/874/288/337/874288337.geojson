@@ -1,0 +1,91 @@
+{
+  "id": 874288337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.303595,41.736572,-71.303595,41.736572",
+    "geom:latitude":41.736572,
+    "geom:longitude":-71.303595,
+    "iso:country":"US",
+    "sg:address":"156 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3661",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paint",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nF4MB7aErdalycS7HL1Mh_41.736572_-71.303595@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314952,
+    "wof:geomhash":"46158c9d03ae9f7d214e862b2e69d8c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874288337
+        }
+    ],
+    "wof:id":874288337,
+    "wof:lastmodified":1464314952,
+    "wof:name":"Center Ace Hardware",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.303595,
+    41.736572,
+    -71.303595,
+    41.736572
+],
+  "geometry": {"coordinates":[-71.303595,41.736572],"type":"Point"}
+}

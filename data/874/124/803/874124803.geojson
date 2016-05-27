@@ -1,0 +1,84 @@
+{
+  "id": 874124803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463753,41.566185,-71.463753,41.566185",
+    "geom:latitude":41.566185,
+    "geom:longitude":-71.463753,
+    "iso:country":"US",
+    "sg:address":"320 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 4503",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QLSGF2bFZ7nHhQ79WYxUL_41.566185_-71.463753@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312083,
+    "wof:geomhash":"3cecb9e9f15488d3d73cc1d479a5e64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874124803
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874124803
+        }
+    ],
+    "wof:id":874124803,
+    "wof:lastmodified":1464312083,
+    "wof:name":"Narragansett Bay Pediatrics",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.463753,
+    41.566185,
+    -71.463753,
+    41.566185
+],
+  "geometry": {"coordinates":[-71.463753,41.566185],"type":"Point"}
+}

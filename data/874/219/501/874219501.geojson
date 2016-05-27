@@ -1,0 +1,75 @@
+{
+  "id": 874219501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.56094,41.874182,-71.56094,41.874182",
+    "geom:latitude":41.874182,
+    "geom:longitude":-71.56094,
+    "iso:country":"US",
+    "sg:address":"633 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5827",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UkLsM3jwhDioFSiTlrt2Y_41.874182_-71.560940@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313051,
+    "wof:geomhash":"26983a6d3c0bc00e3c8b2e343bb16d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874219501
+        }
+    ],
+    "wof:id":874219501,
+    "wof:lastmodified":1464313051,
+    "wof:name":"U-Haul",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.56094,
+    41.874182,
+    -71.56094,
+    41.874182
+],
+  "geometry": {"coordinates":[-71.56094,41.874182],"type":"Point"}
+}

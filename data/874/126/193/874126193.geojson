@@ -1,0 +1,69 @@
+{
+  "id": 874126193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54252,41.894138,-71.54252,41.894138",
+    "geom:latitude":41.894138,
+    "geom:longitude":-71.54252,
+    "iso:country":"US",
+    "sg:address":"166 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4950",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62mwrppYugOfCOWo1LSnru_41.894138_-71.542520@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312096,
+    "wof:geomhash":"15c4a47211f60259f0bcf0448a834582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874126193
+        }
+    ],
+    "wof:id":874126193,
+    "wof:lastmodified":1464312096,
+    "wof:name":"Sentinel Dental Svc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.54252,
+    41.894138,
+    -71.54252,
+    41.894138
+],
+  "geometry": {"coordinates":[-71.54252,41.894138],"type":"Point"}
+}

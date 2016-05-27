@@ -1,0 +1,88 @@
+{
+  "id": 874293043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496887,41.427713,-71.496887,41.427713",
+    "geom:latitude":41.427713,
+    "geom:longitude":-71.496887,
+    "iso:country":"US",
+    "sg:address":"210 Salt Pond Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 0210",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qXKZNlJiCWj5KLwtGPuVi_41.427713_-71.496887@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315125,
+    "wof:geomhash":"047d694d7d2b0d3492bab348fc632b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293043
+        }
+    ],
+    "wof:id":874293043,
+    "wof:lastmodified":1464315125,
+    "wof:name":"J G Goffs Pub & Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.496887,
+    41.427713,
+    -71.496887,
+    41.427713
+],
+  "geometry": {"coordinates":[-71.496887,41.427713],"type":"Point"}
+}

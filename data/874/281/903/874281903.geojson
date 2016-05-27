@@ -1,0 +1,79 @@
+{
+  "id": 874281903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412032,41.799368,-71.412032,41.799368",
+    "geom:latitude":41.799368,
+    "geom:longitude":-71.412032,
+    "iso:country":"US",
+    "sg:address":"550 Prairie Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 9430",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18yVOPckay71QXhnL0JySY_41.799368_-71.412032@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314703,
+    "wof:geomhash":"b9c8bac1aaa4116116d30170d1332130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874281903
+        }
+    ],
+    "wof:id":874281903,
+    "wof:lastmodified":1464314703,
+    "wof:name":"P & J Auto Sales Inc",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.412032,
+    41.799368,
+    -71.412032,
+    41.799368
+],
+  "geometry": {"coordinates":[-71.412032,41.799368],"type":"Point"}
+}

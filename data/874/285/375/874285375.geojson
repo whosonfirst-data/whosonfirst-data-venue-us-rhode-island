@@ -1,0 +1,71 @@
+{
+  "id": 874285375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423698,41.868698,-71.423698,41.868698",
+    "geom:latitude":41.868698,
+    "geom:longitude":-71.423698,
+    "iso:country":"US",
+    "sg:address":"1021 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 2888",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OilhnOjRvoBl2Leu2d0xH_41.868998_-71.423126@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314826,
+    "wof:geomhash":"40db06c98b7c0ee038f00f46423e8dac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874285375
+        }
+    ],
+    "wof:id":874285375,
+    "wof:lastmodified":1464314826,
+    "wof:name":"Fortuna Restaurant Inc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.423698,
+    41.868698,
+    -71.423698,
+    41.868698
+],
+  "geometry": {"coordinates":[-71.423698,41.868698],"type":"Point"}
+}

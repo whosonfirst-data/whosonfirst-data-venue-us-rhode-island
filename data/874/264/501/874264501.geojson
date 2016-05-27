@@ -1,0 +1,75 @@
+{
+  "id": 874264501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477356,41.835087,-71.477356,41.835087",
+    "geom:latitude":41.835087,
+    "geom:longitude":-71.477356,
+    "iso:country":"US",
+    "sg:address":"119 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 9509",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mwRw01S1ZOuHWd8CvtBCs_41.835087_-71.477356@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314012,
+    "wof:geomhash":"29e3d293fcb4a7e7d167aaf579810230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874264501
+        }
+    ],
+    "wof:id":874264501,
+    "wof:lastmodified":1464314012,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.477356,
+    41.835087,
+    -71.477356,
+    41.835087
+],
+  "geometry": {"coordinates":[-71.477356,41.835087],"type":"Point"}
+}

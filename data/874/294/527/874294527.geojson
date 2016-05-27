@@ -1,0 +1,87 @@
+{
+  "id": 874294527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414703,41.824699,-71.414703,41.824699",
+    "geom:latitude":41.824699,
+    "geom:longitude":-71.414703,
+    "iso:country":"US",
+    "sg:address":"1 W Exchange St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 598 8001",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "lunch",
+        "american",
+        "new",
+        "barbecue",
+        "brunch",
+        "breakfast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iQbCRpLvub8giBX4BHTyF_41.824699_-71.414703@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315180,
+    "wof:geomhash":"ed72a66c8dc5526f70026f343d13a71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874294527
+        }
+    ],
+    "wof:id":874294527,
+    "wof:lastmodified":1464315180,
+    "wof:name":"Agora Restaurant & Bar",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "lunch",
+        "american",
+        "new",
+        "barbecue",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.414703,
+    41.824699,
+    -71.414703,
+    41.824699
+],
+  "geometry": {"coordinates":[-71.414703,41.824699],"type":"Point"}
+}

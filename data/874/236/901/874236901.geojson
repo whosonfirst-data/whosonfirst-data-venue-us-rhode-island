@@ -1,0 +1,73 @@
+{
+  "id": 874236901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50053,41.505919,-71.50053,41.505919",
+    "geom:latitude":41.505919,
+    "geom:longitude":-71.50053,
+    "iso:country":"US",
+    "sg:address":"1011 Shermantown Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1222",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802815,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LtZse0Sc5QOuBnQLVLGeQ_41.505919_-71.500530@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313281,
+    "wof:geomhash":"4494792ccba72a37467ede293d118bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85802815,
+            "region_id":85688509,
+            "venue_id":874236901
+        }
+    ],
+    "wof:id":874236901,
+    "wof:lastmodified":1464313281,
+    "wof:name":"Mini Manor Kennels Inc",
+    "wof:parent_id":85802815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.50053,
+    41.505919,
+    -71.50053,
+    41.505919
+],
+  "geometry": {"coordinates":[-71.50053,41.505919],"type":"Point"}
+}

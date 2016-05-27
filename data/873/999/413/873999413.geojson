@@ -1,0 +1,77 @@
+{
+  "id": 873999413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.30225,41.515558,-71.30225,41.515558",
+    "geom:latitude":41.515558,
+    "geom:longitude":-71.30225,
+    "iso:country":"US",
+    "sg:address":"38 Smythe St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 7520",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nTCEohjs5vdpYBIfCIDPa_41.515558_-71.302250@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310756,
+    "wof:geomhash":"87fdf4385c26e1587b390610ea7defc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873999413
+        }
+    ],
+    "wof:id":873999413,
+    "wof:lastmodified":1464310756,
+    "wof:name":"Town Electric Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.30225,
+    41.515558,
+    -71.30225,
+    41.515558
+],
+  "geometry": {"coordinates":[-71.30225,41.515558],"type":"Point"}
+}

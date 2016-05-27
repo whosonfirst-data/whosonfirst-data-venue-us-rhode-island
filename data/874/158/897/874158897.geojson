@@ -1,0 +1,73 @@
+{
+  "id": 874158897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.617021,41.388128,-71.617021,41.388128",
+    "geom:latitude":41.388128,
+    "geom:longitude":-71.617021,
+    "iso:country":"US",
+    "sg:address":"29 Ridgewood Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0652",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "radiation",
+        "safety",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ilo0U8Zt4DQiCCpoPvgeM_41.388128_-71.617021@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312421,
+    "wof:geomhash":"6ef8162e770144e1847b3376e678186d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874158897
+        }
+    ],
+    "wof:id":874158897,
+    "wof:lastmodified":1464312421,
+    "wof:name":"Balestracci Unlimited",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiation",
+        "safety",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -71.617021,
+    41.388128,
+    -71.617021,
+    41.388128
+],
+  "geometry": {"coordinates":[-71.61702099999999,41.388128],"type":"Point"}
+}

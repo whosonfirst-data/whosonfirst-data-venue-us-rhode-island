@@ -1,0 +1,89 @@
+{
+  "id": 874293511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404099,41.733551,-71.404099,41.733551",
+    "geom:latitude":41.733551,
+    "geom:longitude":-71.404099,
+    "iso:country":"US",
+    "sg:address":"50 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 2030",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ],
+    "sg:website":"http://locators.bankofamerica.com/a/BC-14119",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SXn1mpS2IgrCXmxPGYwQN_41.733551_-71.404099@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315140,
+    "wof:geomhash":"15db4398f92055964b84eb5b0c7124ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874293511
+        }
+    ],
+    "wof:id":874293511,
+    "wof:lastmodified":1464315140,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ]
+},
+  "bbox": [
+    -71.404099,
+    41.733551,
+    -71.404099,
+    41.733551
+],
+  "geometry": {"coordinates":[-71.404099,41.733551],"type":"Point"}
+}

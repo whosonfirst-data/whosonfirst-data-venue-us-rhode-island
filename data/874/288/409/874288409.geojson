@@ -1,0 +1,73 @@
+{
+  "id": 874288409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272873,41.672901,-71.272873,41.672901",
+    "geom:latitude":41.672901,
+    "geom:longitude":-71.272873,
+    "iso:country":"US",
+    "sg:address":"149 Bradford St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 7949",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "style",
+        "family",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AR4D0AMRIbLD5u4DsVErw_41.672901_-71.272873@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314954,
+    "wof:geomhash":"7c6b080b0d6e71612f13e94cacd6c076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288409
+        }
+    ],
+    "wof:id":874288409,
+    "wof:lastmodified":1464314954,
+    "wof:name":"Sam's Restaurant & Pizzeria",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.272873,
+    41.672901,
+    -71.272873,
+    41.672901
+],
+  "geometry": {"coordinates":[-71.272873,41.672901],"type":"Point"}
+}

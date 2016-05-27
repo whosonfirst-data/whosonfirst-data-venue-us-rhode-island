@@ -1,0 +1,79 @@
+{
+  "id": 874257843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.383092,41.725204,-71.383092,41.725204",
+    "geom:latitude":41.725204,
+    "geom:longitude":-71.383092,
+    "iso:country":"US",
+    "sg:address":"95 Royal Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 1207",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540465,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x9KoejDsz6tIiVTItlzMV_41.725204_-71.383092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313763,
+    "wof:geomhash":"bf71bd4e7b33ef5ca39ce7ce85018b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540465,
+            "region_id":85688509,
+            "venue_id":874257843
+        }
+    ],
+    "wof:id":874257843,
+    "wof:lastmodified":1464313763,
+    "wof:name":"Fig Trucking",
+    "wof:parent_id":420540465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.383092,
+    41.725204,
+    -71.383092,
+    41.725204
+],
+  "geometry": {"coordinates":[-71.383092,41.725204],"type":"Point"}
+}

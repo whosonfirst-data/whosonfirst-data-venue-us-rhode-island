@@ -1,0 +1,76 @@
+{
+  "id": 874287397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425362,41.829033,-71.425362,41.829033",
+    "geom:latitude":41.829033,
+    "geom:longitude":-71.425362,
+    "iso:country":"US",
+    "sg:address":"48 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/151453-fire--ice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 4040",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zk95cnnGltIhwLA6FGVIZ_41.829033_-71.425362@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314903,
+    "wof:geomhash":"bcac5e9e38d3c0eae668fdaafc588ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874287397
+        }
+    ],
+    "wof:id":874287397,
+    "wof:lastmodified":1464314903,
+    "wof:name":"Fire & Ice",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.425362,
+    41.829033,
+    -71.425362,
+    41.829033
+],
+  "geometry": {"coordinates":[-71.42536200000001,41.829033],"type":"Point"}
+}

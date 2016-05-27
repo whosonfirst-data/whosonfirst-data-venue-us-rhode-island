@@ -1,0 +1,86 @@
+{
+  "id": 874235731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417228,41.751578,-71.417228,41.751578",
+    "geom:latitude":41.751578,
+    "geom:longitude":-71.417228,
+    "iso:country":"US",
+    "sg:address":"980 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2230",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cards",
+        "sport",
+        "baseball",
+        "memorabilia"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yRU00ZA2iXBCwVqvljHbH_41.751578_-71.417228@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313256,
+    "wof:geomhash":"b480728b00c91a63e10ff791c40877b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874235731
+        }
+    ],
+    "wof:id":874235731,
+    "wof:lastmodified":1464313256,
+    "wof:name":"Pitcher's Mound",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cards",
+        "sport",
+        "baseball",
+        "memorabilia"
+    ]
+},
+  "bbox": [
+    -71.417228,
+    41.751578,
+    -71.417228,
+    41.751578
+],
+  "geometry": {"coordinates":[-71.41722799999999,41.751578],"type":"Point"}
+}

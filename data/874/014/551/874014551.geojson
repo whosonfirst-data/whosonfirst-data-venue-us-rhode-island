@@ -1,0 +1,73 @@
+{
+  "id": 874014551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52784,41.913628,-71.52784,41.913628",
+    "geom:latitude":41.913628,
+    "geom:longitude":-71.52784,
+    "iso:country":"US",
+    "sg:address":"170 George Washington Hwy",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1770",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engine",
+        "repair",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63orw7iicKTYnOLiZkt7zf_41.913628_-71.527840@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310887,
+    "wof:geomhash":"d3e193f18a67837d5ff86ee58ebea6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874014551
+        }
+    ],
+    "wof:id":874014551,
+    "wof:lastmodified":1464310887,
+    "wof:name":"Smithfield Diesel Inc",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "repair",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -71.52784,
+    41.913628,
+    -71.52784,
+    41.913628
+],
+  "geometry": {"coordinates":[-71.52784,41.913628],"type":"Point"}
+}

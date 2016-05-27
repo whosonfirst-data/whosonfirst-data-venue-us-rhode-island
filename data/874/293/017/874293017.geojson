@@ -1,0 +1,71 @@
+{
+  "id": 874293017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.586899,41.428501,-71.586899,41.428501",
+    "geom:latitude":41.428501,
+    "geom:longitude":-71.586899,
+    "iso:country":"US",
+    "sg:address":"393 Sand Plains Trl",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0501",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kCm34nPo7MAQ5xZLEDFkL_41.428501_-71.586899@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315124,
+    "wof:geomhash":"fc83ad7a9230e152c79ee921781d8ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874293017
+        }
+    ],
+    "wof:id":874293017,
+    "wof:lastmodified":1464315124,
+    "wof:name":"Lillibridge Jeffrey Excavation",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.586899,
+    41.428501,
+    -71.586899,
+    41.428501
+],
+  "geometry": {"coordinates":[-71.586899,41.428501],"type":"Point"}
+}

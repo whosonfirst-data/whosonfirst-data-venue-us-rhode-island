@@ -1,0 +1,73 @@
+{
+  "id": 874304527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490748,41.82756,-71.490748,41.82756",
+    "geom:latitude":41.82756,
+    "geom:longitude":-71.490748,
+    "iso:country":"US",
+    "sg:address":"38 Eagle St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2722",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "inspector"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JQofpxnhrEwGI8JguAhJz_41.827560_-71.490748@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315547,
+    "wof:geomhash":"35629718c0898756c6389a395706bab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304527
+        }
+    ],
+    "wof:id":874304527,
+    "wof:lastmodified":1464315547,
+    "wof:name":"Safe-Guard Pest Control Inc Johnston",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "inspector"
+    ]
+},
+  "bbox": [
+    -71.490748,
+    41.82756,
+    -71.490748,
+    41.82756
+],
+  "geometry": {"coordinates":[-71.490748,41.82756],"type":"Point"}
+}

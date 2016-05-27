@@ -1,0 +1,80 @@
+{
+  "id": 874301529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.392601,41.841702,-71.392601,41.841702",
+    "geom:latitude":41.841702,
+    "geom:longitude":-71.392601,
+    "iso:country":"US",
+    "sg:address":"401 Elmgrove Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 8800",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nrQmdUeieep0uJUeAiOKd_41.841702_-71.392601@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315448,
+    "wof:geomhash":"ef26b3f2e43fd3cd6f641e9d059f2b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874301529
+        }
+    ],
+    "wof:id":874301529,
+    "wof:lastmodified":1464315448,
+    "wof:name":"Jewish Community Center of Rhode Island",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.392601,
+    41.841702,
+    -71.392601,
+    41.841702
+],
+  "geometry": {"coordinates":[-71.392601,41.841702],"type":"Point"}
+}

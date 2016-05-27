@@ -1,0 +1,75 @@
+{
+  "id": 874298009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424934,41.824182,-71.424934,41.824182",
+    "geom:latitude":41.824182,
+    "geom:longitude":-71.424934,
+    "iso:country":"US",
+    "sg:address":"41 Spruce St Apt 2",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 537 1352",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pbt8W72cpBYHxw4MjxAVk_41.824182_-71.424934@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315310,
+    "wof:geomhash":"36069ef2a802e5c48a4d2ef98a0eb040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874298009
+        }
+    ],
+    "wof:id":874298009,
+    "wof:lastmodified":1464315310,
+    "wof:name":"Clean Solutions",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -71.424934,
+    41.824182,
+    -71.424934,
+    41.824182
+],
+  "geometry": {"coordinates":[-71.42493399999999,41.824182],"type":"Point"}
+}

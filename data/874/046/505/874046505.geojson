@@ -1,0 +1,71 @@
+{
+  "id": 874046505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541966,41.887275,-71.541966,41.887275",
+    "geom:latitude":41.887275,
+    "geom:longitude":-71.541966,
+    "iso:country":"US",
+    "sg:address":"109 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 9259",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "stand",
+        "refreshment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WX1clwcOYh7NDY5yluYjO_41.887275_-71.541966@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311211,
+    "wof:geomhash":"6b1c80da3d66d23056e1555512f03c81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874046505
+        }
+    ],
+    "wof:id":874046505,
+    "wof:lastmodified":1464311211,
+    "wof:name":"Del's Of Smithfield",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stand",
+        "refreshment"
+    ]
+},
+  "bbox": [
+    -71.541966,
+    41.887275,
+    -71.541966,
+    41.887275
+],
+  "geometry": {"coordinates":[-71.541966,41.887275],"type":"Point"}
+}

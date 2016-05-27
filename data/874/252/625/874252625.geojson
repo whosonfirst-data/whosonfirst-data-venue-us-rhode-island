@@ -1,0 +1,86 @@
+{
+  "id": 874252625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483758,41.442141,-71.483758,41.442141",
+    "geom:latitude":41.442141,
+    "geom:longitude":-71.483758,
+    "iso:country":"US",
+    "sg:address":"140 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5393",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66rUOF7lXyX7vmismYE09P_41.442141_-71.483758@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313617,
+    "wof:geomhash":"79bccca39ef5564e1a9a3eea13d2968a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874252625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874252625
+        }
+    ],
+    "wof:id":874252625,
+    "wof:lastmodified":1464313617,
+    "wof:name":"McDonalds",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -71.483758,
+    41.442141,
+    -71.483758,
+    41.442141
+],
+  "geometry": {"coordinates":[-71.48375799999999,41.442141],"type":"Point"}
+}

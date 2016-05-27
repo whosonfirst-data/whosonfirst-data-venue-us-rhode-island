@@ -1,0 +1,71 @@
+{
+  "id": 874055753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463464,41.818887,-71.463464,41.818887",
+    "geom:latitude":41.818887,
+    "geom:longitude":-71.463464,
+    "iso:country":"US",
+    "sg:address":"85 Eliza St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 0445",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VKEhbWG0GCQIEGvWDmCyq_41.818887_-71.463464@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311299,
+    "wof:geomhash":"80bca91cd3596eb05480d355527ad651",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874055753
+        }
+    ],
+    "wof:id":874055753,
+    "wof:lastmodified":1464311299,
+    "wof:name":"Eastern Alarm Inc",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.463464,
+    41.818887,
+    -71.463464,
+    41.818887
+],
+  "geometry": {"coordinates":[-71.463464,41.818887],"type":"Point"}
+}

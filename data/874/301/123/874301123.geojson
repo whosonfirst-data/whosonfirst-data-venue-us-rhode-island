@@ -1,0 +1,71 @@
+{
+  "id": 874301123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400903,41.83013,-71.400903,41.83013",
+    "geom:latitude":41.83013,
+    "geom:longitude":-71.400903,
+    "iso:country":"US",
+    "sg:address":"300 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 8393",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"www.bluestatecoffee.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35j5Kto6n3zguP7VN7NNq7_41.830130_-71.400903@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315435,
+    "wof:geomhash":"29e5c3b3b010dabd79edfe9374278e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301123
+        }
+    ],
+    "wof:id":874301123,
+    "wof:lastmodified":1464315435,
+    "wof:name":"Blue State Coffee",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.400903,
+    41.83013,
+    -71.400903,
+    41.83013
+],
+  "geometry": {"coordinates":[-71.400903,41.83013],"type":"Point"}
+}

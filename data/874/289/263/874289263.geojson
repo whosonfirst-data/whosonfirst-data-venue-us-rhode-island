@@ -1,0 +1,84 @@
+{
+  "id": 874289263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.701121,41.959291,-71.701121,41.959291",
+    "geom:latitude":41.959291,
+    "geom:longitude":-71.701121,
+    "iso:country":"US",
+    "sg:address":"253 Pascoag Main St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 6222",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lbsnLYneTNfHhBlpPTJ1X_41.959291_-71.701121@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314987,
+    "wof:geomhash":"3613db22b88bfbbeabef24efc62adc49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874289263
+        }
+    ],
+    "wof:id":874289263,
+    "wof:lastmodified":1464314987,
+    "wof:name":"Water Division",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "system",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.701121,
+    41.959291,
+    -71.701121,
+    41.959291
+],
+  "geometry": {"coordinates":[-71.701121,41.959291],"type":"Point"}
+}

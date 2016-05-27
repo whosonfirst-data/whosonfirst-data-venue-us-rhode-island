@@ -1,0 +1,71 @@
+{
+  "id": 874271777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.732329,41.522141,-71.732329,41.522141",
+    "geom:latitude":41.522141,
+    "geom:longitude":-71.732329,
+    "iso:country":"US",
+    "sg:address":"158 Spring St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0042",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JRFvtovLM35DSnW47WMyx_41.522141_-71.732329@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314284,
+    "wof:geomhash":"09eeb8efa2aaf8ba1db877b277159436",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874271777
+        }
+    ],
+    "wof:id":874271777,
+    "wof:lastmodified":1464314284,
+    "wof:name":"J C Tefft Fuel Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.732329,
+    41.522141,
+    -71.732329,
+    41.522141
+],
+  "geometry": {"coordinates":[-71.73232899999999,41.522141],"type":"Point"}
+}

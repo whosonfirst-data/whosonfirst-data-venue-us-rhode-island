@@ -1,0 +1,71 @@
+{
+  "id": 874082083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.289794,41.519957,-71.289794,41.519957",
+    "geom:latitude":41.519957,
+    "geom:longitude":-71.289794,
+    "iso:country":"US",
+    "sg:address":"425 E Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 3555",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:website":"www.royalplazahotel.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ge5iRn06nbFA6pbmzohID_41.519957_-71.289794@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311577,
+    "wof:geomhash":"8d7f30cdf054843aa2458126a79b6458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874082083
+        }
+    ],
+    "wof:id":874082083,
+    "wof:lastmodified":1464311577,
+    "wof:name":"Royal Plaza Hotel",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.289794,
+    41.519957,
+    -71.289794,
+    41.519957
+],
+  "geometry": {"coordinates":[-71.289794,41.519957],"type":"Point"}
+}

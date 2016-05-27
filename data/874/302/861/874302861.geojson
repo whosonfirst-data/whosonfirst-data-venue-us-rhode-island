@@ -1,0 +1,73 @@
+{
+  "id": 874302861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462962,41.817399,-71.462962,41.817399",
+    "geom:latitude":41.817399,
+    "geom:longitude":-71.462962,
+    "iso:country":"US",
+    "sg:address":"88 Eliza St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 1620",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cake",
+        "pastry",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fatXJg8l4ZXHHfrmVL4pL_41.817399_-71.462962@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315491,
+    "wof:geomhash":"9c4d21894db224add60f70e4adc316d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874302861
+        }
+    ],
+    "wof:id":874302861,
+    "wof:lastmodified":1464315491,
+    "wof:name":"Luquis Bakery",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cake",
+        "pastry",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -71.462962,
+    41.817399,
+    -71.462962,
+    41.817399
+],
+  "geometry": {"coordinates":[-71.462962,41.817399],"type":"Point"}
+}

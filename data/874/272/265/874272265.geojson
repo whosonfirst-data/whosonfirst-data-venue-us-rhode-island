@@ -1,0 +1,88 @@
+{
+  "id": 874272265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448467,41.797412,-71.448467,41.797412",
+    "geom:latitude":41.797412,
+    "geom:longitude":-71.448467,
+    "iso:country":"US",
+    "sg:address":"1070 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 3341",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        85880059,
+        404488375,
+        101720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N6L6yfuvyo6OFqyVYLi26_41.797412_-71.448467@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314305,
+    "wof:geomhash":"c029daa0c7a9118b367176d9e9d7e7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874272265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874272265
+        }
+    ],
+    "wof:id":874272265,
+    "wof:lastmodified":1464314305,
+    "wof:name":"Cranston Transvan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.448467,
+    41.797412,
+    -71.448467,
+    41.797412
+],
+  "geometry": {"coordinates":[-71.44846699999999,41.797412],"type":"Point"}
+}

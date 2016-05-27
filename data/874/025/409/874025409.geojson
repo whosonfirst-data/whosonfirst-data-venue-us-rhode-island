@@ -1,0 +1,71 @@
+{
+  "id": 874025409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500525,41.87084,-71.500525,41.87084",
+    "geom:latitude":41.87084,
+    "geom:longitude":-71.500525,
+    "iso:country":"US",
+    "sg:address":"7 Perry St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2957",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "software",
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bJewpzaqCoiQ8wn2meoXM_41.870840_-71.500525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311001,
+    "wof:geomhash":"81c991191d66e958a89ce84bda4fae03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874025409
+        }
+    ],
+    "wof:id":874025409,
+    "wof:lastmodified":1464311001,
+    "wof:name":"Marcotte Software",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "developer"
+    ]
+},
+  "bbox": [
+    -71.500525,
+    41.87084,
+    -71.500525,
+    41.87084
+],
+  "geometry": {"coordinates":[-71.500525,41.87084],"type":"Point"}
+}

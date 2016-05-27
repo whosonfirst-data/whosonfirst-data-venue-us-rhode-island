@@ -1,0 +1,80 @@
+{
+  "id": 874235207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409554,41.895174,-71.409554,41.895174",
+    "geom:latitude":41.895174,
+    "geom:longitude":-71.409554,
+    "iso:country":"US",
+    "sg:address":"40 Chapel St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 3270",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "legal",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09qtVzuxkAkhUiLQrUepE4_41.895174_-71.409554@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313244,
+    "wof:geomhash":"0a7fdea6382934e9c065f3d75da6a788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874235207
+        }
+    ],
+    "wof:id":874235207,
+    "wof:lastmodified":1464313244,
+    "wof:name":"Lincoln Senior Center",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "legal",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -71.409554,
+    41.895174,
+    -71.409554,
+    41.895174
+],
+  "geometry": {"coordinates":[-71.409554,41.895174],"type":"Point"}
+}

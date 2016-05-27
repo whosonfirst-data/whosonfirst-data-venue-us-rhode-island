@@ -1,0 +1,77 @@
+{
+  "id": 874277119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385012,41.880917,-71.385012,41.880917",
+    "geom:latitude":41.880917,
+    "geom:longitude":-71.385012,
+    "iso:country":"US",
+    "sg:address":"69 Montgomery St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8101",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OKYwYFkRixJXDByOJ7I5a_41.880917_-71.385012@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314505,
+    "wof:geomhash":"e62d355f9ae74b7e3cf8fbcab037e7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874277119
+        }
+    ],
+    "wof:id":874277119,
+    "wof:lastmodified":1464314505,
+    "wof:name":"Nurse Finders Of Providence",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.385012,
+    41.880917,
+    -71.385012,
+    41.880917
+],
+  "geometry": {"coordinates":[-71.385012,41.880917],"type":"Point"}
+}

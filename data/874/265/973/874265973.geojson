@@ -1,0 +1,77 @@
+{
+  "id": 874265973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452743,41.569463,-71.452743,41.569463",
+    "geom:latitude":41.569463,
+    "geom:longitude":-71.452743,
+    "iso:country":"US",
+    "sg:address":"30 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4444",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DkouwIA4B1vC3nQCZBgEN_41.569463_-71.452743@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314070,
+    "wof:geomhash":"9eca35ed13802b3317ac26e0d3c60b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874265973
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874265973
+        }
+    ],
+    "wof:id":874265973,
+    "wof:lastmodified":1464314070,
+    "wof:name":"Cote & D'Ambrosio",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor"
+    ]
+},
+  "bbox": [
+    -71.452743,
+    41.569463,
+    -71.452743,
+    41.569463
+],
+  "geometry": {"coordinates":[-71.452743,41.569463],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874050225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538941,41.886841,-71.538941,41.886841",
+    "geom:latitude":41.886841,
+    "geom:longitude":-71.538941,
+    "iso:country":"US",
+    "sg:address":"4 Enterprise Ln",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 9400",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13A1NDoyeazSXvaNciLBAK_41.886841_-71.538941@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"b67e33681743fc89c141addfe0710226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874050225
+        }
+    ],
+    "wof:id":874050225,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Carjon Air Conditioning & Htg",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.538941,
+    41.886841,
+    -71.538941,
+    41.886841
+],
+  "geometry": {"coordinates":[-71.53894099999999,41.886841],"type":"Point"}
+}

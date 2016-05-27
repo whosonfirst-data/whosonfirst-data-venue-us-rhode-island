@@ -1,0 +1,75 @@
+{
+  "id": 874285863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468803,41.833801,-71.468803,41.833801",
+    "geom:latitude":41.833801,
+    "geom:longitude":-71.468803,
+    "iso:country":"US",
+    "sg:address":"944 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 7468",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lounge",
+        "nightlife",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l8RPaVKdxpcanFhPrl8pz_41.833389_-71.469277@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314852,
+    "wof:geomhash":"84d01ad2469c8b56e3a40e89ee996908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874285863
+        }
+    ],
+    "wof:id":874285863,
+    "wof:lastmodified":1464314852,
+    "wof:name":"Mug Shots",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "nightlife",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.468803,
+    41.833801,
+    -71.468803,
+    41.833801
+],
+  "geometry": {"coordinates":[-71.46880299999999,41.833801],"type":"Point"}
+}

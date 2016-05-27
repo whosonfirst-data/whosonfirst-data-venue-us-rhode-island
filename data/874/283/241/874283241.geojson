@@ -1,0 +1,77 @@
+{
+  "id": 874283241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.381203,41.872898,-71.381203,41.872898",
+    "geom:latitude":41.872898,
+    "geom:longitude":-71.381203,
+    "iso:country":"US",
+    "sg:address":"79 Division St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 9995",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uZ0OnGu8V46MOLJUe4nH7_41.872929_-71.381214@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314747,
+    "wof:geomhash":"fd13eee58ebac43244365270714f32f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874283241
+        }
+    ],
+    "wof:id":874283241,
+    "wof:lastmodified":1464314747,
+    "wof:name":"National Nephrology Associates",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.381203,
+    41.872898,
+    -71.381203,
+    41.872898
+],
+  "geometry": {"coordinates":[-71.381203,41.872898],"type":"Point"}
+}

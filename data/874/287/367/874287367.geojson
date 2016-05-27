@@ -1,0 +1,78 @@
+{
+  "id": 874287367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415666,41.826952,-71.415666,41.826952",
+    "geom:latitude":41.826952,
+    "geom:longitude":-71.415666,
+    "iso:country":"US",
+    "sg:address":"134 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/101075-smokey-bones-bbq--grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 8450",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AYLd9SIo5znBSFQlk1DHy_41.826952_-71.415666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314903,
+    "wof:geomhash":"a7525cd5c447324bac1264ecdb06b467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874287367
+        }
+    ],
+    "wof:id":874287367,
+    "wof:lastmodified":1464314903,
+    "wof:name":"Smokey Bones BBQ & Grill",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.415666,
+    41.826952,
+    -71.415666,
+    41.826952
+],
+  "geometry": {"coordinates":[-71.415666,41.826952],"type":"Point"}
+}

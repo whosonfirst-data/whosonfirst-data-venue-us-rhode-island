@@ -1,0 +1,71 @@
+{
+  "id": 874272733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47767,41.39076,-71.47767,41.39076",
+    "geom:latitude":41.39076,
+    "geom:longitude":-71.47767,
+    "iso:country":"US",
+    "sg:address":"15 Glendale Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3843",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DBoJTZW1SzXzmLPHDUMbI_41.390760_-71.477670@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314320,
+    "wof:geomhash":"a03b49c991e1fe7f9c0c4e9ef383378f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874272733
+        }
+    ],
+    "wof:id":874272733,
+    "wof:lastmodified":1464314320,
+    "wof:name":"A Sauro & Sons Electric C",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.47767,
+    41.39076,
+    -71.47767,
+    41.39076
+],
+  "geometry": {"coordinates":[-71.47767,41.39076],"type":"Point"}
+}

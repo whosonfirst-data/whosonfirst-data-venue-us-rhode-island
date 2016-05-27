@@ -1,0 +1,80 @@
+{
+  "id": 874256567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424988,41.829573,-71.424988,41.829573",
+    "geom:latitude":41.829573,
+    "geom:longitude":-71.424988,
+    "iso:country":"US",
+    "sg:address":"405 Promenade St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 8300",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "banks",
+        "blood",
+        "center"
+    ],
+    "sg:website":"www.vectorsystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CU19DY7itR1R9LYLYyE1j_41.829573_-71.424988@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313708,
+    "wof:geomhash":"a24b9d3b4daadb250e4944b20b26b189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874256567
+        }
+    ],
+    "wof:id":874256567,
+    "wof:lastmodified":1464313708,
+    "wof:name":"Vector/Amerinet",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banks",
+        "blood",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.424988,
+    41.829573,
+    -71.424988,
+    41.829573
+],
+  "geometry": {"coordinates":[-71.424988,41.829573],"type":"Point"}
+}

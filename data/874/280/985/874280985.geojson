@@ -1,0 +1,71 @@
+{
+  "id": 874280985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480441,41.839798,-71.480441,41.839798",
+    "geom:latitude":41.839798,
+    "geom:longitude":-71.480441,
+    "iso:country":"US",
+    "sg:address":"63 Lafayette St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5043",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pdl7hXFZQdfZMMbUGpTyd_41.839798_-71.480441@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314664,
+    "wof:geomhash":"de1facab033c7bafe6134c62444b0888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874280985
+        }
+    ],
+    "wof:id":874280985,
+    "wof:lastmodified":1464314664,
+    "wof:name":"Green Wizard Landscaping Co",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.480441,
+    41.839798,
+    -71.480441,
+    41.839798
+],
+  "geometry": {"coordinates":[-71.480441,41.839798],"type":"Point"}
+}

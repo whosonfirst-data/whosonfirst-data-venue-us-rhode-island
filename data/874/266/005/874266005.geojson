@@ -1,0 +1,75 @@
+{
+  "id": 874266005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470399,41.675,-71.470399,41.675",
+    "geom:latitude":41.675,
+    "geom:longitude":-71.470399,
+    "iso:country":"US",
+    "sg:address":"399 Larchwood Dr",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 7342",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540483,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v9v1Rj82ieLizXgoiud43_41.675000_-71.470399@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314072,
+    "wof:geomhash":"67205bce25a6c2deb27db2082e67d715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540483,
+            "region_id":85688509,
+            "venue_id":874266005
+        }
+    ],
+    "wof:id":874266005,
+    "wof:lastmodified":1464314072,
+    "wof:name":"Carpet Doctor",
+    "wof:parent_id":420540483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.470399,
+    41.675,
+    -71.470399,
+    41.675
+],
+  "geometry": {"coordinates":[-71.470399,41.675],"type":"Point"}
+}

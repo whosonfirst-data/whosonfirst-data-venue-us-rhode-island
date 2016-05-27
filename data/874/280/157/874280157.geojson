@@ -1,0 +1,69 @@
+{
+  "id": 874280157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515305,41.986261,-71.515305,41.986261",
+    "geom:latitude":41.986261,
+    "geom:longitude":-71.515305,
+    "iso:country":"US",
+    "sg:address":"23 Warwick St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 767 3751",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I4QnB093KEnV4uNevYRWN_41.986261_-71.515305@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314616,
+    "wof:geomhash":"50cf13eec0bb0cf43f678d547641ccdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874280157
+        }
+    ],
+    "wof:id":874280157,
+    "wof:lastmodified":1464314616,
+    "wof:name":"Maria's Alterations",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -71.515305,
+    41.986261,
+    -71.515305,
+    41.986261
+],
+  "geometry": {"coordinates":[-71.515305,41.986261],"type":"Point"}
+}

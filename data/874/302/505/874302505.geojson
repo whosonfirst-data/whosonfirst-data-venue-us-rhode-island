@@ -1,0 +1,84 @@
+{
+  "id": 874302505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424698,41.834801,-71.424698,41.834801",
+    "geom:latitude":41.834801,
+    "geom:longitude":-71.424698,
+    "iso:country":"US",
+    "sg:address":"395 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 8000",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "personal",
+        "injury",
+        "bankruptcy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21n7xbCyNWfeO5Rm5CKmq6_41.834801_-71.424698@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315480,
+    "wof:geomhash":"4e580ed0a353e42d2548f8d6f27f5c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874302505
+        }
+    ],
+    "wof:id":874302505,
+    "wof:lastmodified":1464315480,
+    "wof:name":"Attorney Louis W Grande & Associates",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "injury",
+        "bankruptcy"
+    ]
+},
+  "bbox": [
+    -71.424698,
+    41.834801,
+    -71.424698,
+    41.834801
+],
+  "geometry": {"coordinates":[-71.42469800000001,41.834801],"type":"Point"}
+}

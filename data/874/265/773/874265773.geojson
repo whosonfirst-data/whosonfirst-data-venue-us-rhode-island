@@ -1,0 +1,73 @@
+{
+  "id": 874265773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543593,41.898492,-71.543593,41.898492",
+    "geom:latitude":41.898492,
+    "geom:longitude":-71.543593,
+    "iso:country":"US",
+    "sg:address":"215 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1033",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CFULDhSdHMgmFnfXMzN7Q_41.898492_-71.543593@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314063,
+    "wof:geomhash":"2074732c0e0975697945a343a380ac87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874265773
+        }
+    ],
+    "wof:id":874265773,
+    "wof:lastmodified":1464314063,
+    "wof:name":"Smithfield Emergency Mgmt",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "defense",
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.543593,
+    41.898492,
+    -71.543593,
+    41.898492
+],
+  "geometry": {"coordinates":[-71.543593,41.898492],"type":"Point"}
+}

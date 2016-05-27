@@ -1,0 +1,67 @@
+{
+  "id": 874147549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.717475,41.508053,-71.717475,41.508053",
+    "geom:latitude":41.508053,
+    "geom:longitude":-71.717475,
+    "iso:country":"US",
+    "sg:address":"24 Spring St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2851",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:website":"www.langworthy.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aOorihYsyhgU4kEcpVFLG_41.508053_-71.717475@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312307,
+    "wof:geomhash":"e138b4cb94fe38d98813db728c9d5214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874147549
+        }
+    ],
+    "wof:id":874147549,
+    "wof:lastmodified":1464312307,
+    "wof:name":"Langworthy Public Library",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.717475,
+    41.508053,
+    -71.717475,
+    41.508053
+],
+  "geometry": {"coordinates":[-71.71747499999999,41.508053],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874026133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278482,41.729047,-71.278482,41.729047",
+    "geom:latitude":41.729047,
+    "geom:longitude":-71.278482,
+    "iso:country":"US",
+    "sg:address":"74 Cutler St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 4810",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CkbwI4m013GzWKlWjauoY_41.729047_-71.278482@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311008,
+    "wof:geomhash":"fad4978fa8c1fe96a88fcfb49dbb216f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874026133
+        }
+    ],
+    "wof:id":874026133,
+    "wof:lastmodified":1464311008,
+    "wof:name":"J Rogers Automotive",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.278482,
+    41.729047,
+    -71.278482,
+    41.729047
+],
+  "geometry": {"coordinates":[-71.278482,41.729047],"type":"Point"}
+}

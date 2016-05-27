@@ -1,0 +1,71 @@
+{
+  "id": 874266481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456613,41.846965,-71.456613,41.846965",
+    "geom:latitude":41.846965,
+    "geom:longitude":-71.456613,
+    "iso:country":"US",
+    "sg:address":"34 Elmcrest Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 276 2727",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uQQrAFEqyCHc3uYQSdlk0_41.846965_-71.456613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314088,
+    "wof:geomhash":"a7ddd4dfd26307be7de941d4a6bb76db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874266481
+        }
+    ],
+    "wof:id":874266481,
+    "wof:lastmodified":1464314088,
+    "wof:name":"PDA Indpections",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -71.456613,
+    41.846965,
+    -71.456613,
+    41.846965
+],
+  "geometry": {"coordinates":[-71.456613,41.846965],"type":"Point"}
+}

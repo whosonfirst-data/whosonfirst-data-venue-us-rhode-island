@@ -1,0 +1,69 @@
+{
+  "id": 874087611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270012,41.668215,-71.270012,41.668215",
+    "geom:latitude":41.668215,
+    "geom:longitude":-71.270012,
+    "iso:country":"US",
+    "sg:address":"290 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 8825",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cRk1c1FRiKWDCUZKX6AU6_41.668215_-71.270012@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"71fb53c7a00494ab74d5886e8167eac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874087611
+        }
+    ],
+    "wof:id":874087611,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Bristol Bakery & Sandwich Shop",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.270012,
+    41.668215,
+    -71.270012,
+    41.668215
+],
+  "geometry": {"coordinates":[-71.27001199999999,41.668215],"type":"Point"}
+}

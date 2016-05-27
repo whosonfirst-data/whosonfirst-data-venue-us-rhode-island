@@ -1,0 +1,71 @@
+{
+  "id": 874292335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410178,41.903578,-71.410178,41.903578",
+    "geom:latitude":41.903578,
+    "geom:longitude":-71.410178,
+    "iso:country":"US",
+    "sg:address":"10 Franklin St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 8910",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "planning",
+        "land"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fWqZdk6Ed276OG9U1YDh4_41.903578_-71.410178@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315101,
+    "wof:geomhash":"ea62d44d4fd9db5affc0f73803547604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292335
+        }
+    ],
+    "wof:id":874292335,
+    "wof:lastmodified":1464315101,
+    "wof:name":"New Horizons Affordable Housing, Inc.",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "land"
+    ]
+},
+  "bbox": [
+    -71.410178,
+    41.903578,
+    -71.410178,
+    41.903578
+],
+  "geometry": {"coordinates":[-71.410178,41.903578],"type":"Point"}
+}

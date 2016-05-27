@@ -1,0 +1,73 @@
+{
+  "id": 874236949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460778,41.865661,-71.460778,41.865661",
+    "geom:latitude":41.865661,
+    "geom:longitude":-71.460778,
+    "iso:country":"US",
+    "sg:address":"6 Primrose Ln",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 9421",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b0aJ6HuZwoHcT2Vp8RRU1_41.865661_-71.460778@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313281,
+    "wof:geomhash":"18be07cb78ec94b34a1973f19703eb05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874236949
+        }
+    ],
+    "wof:id":874236949,
+    "wof:lastmodified":1464313281,
+    "wof:name":"A Andrade Son Construction",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.460778,
+    41.865661,
+    -71.460778,
+    41.865661
+],
+  "geometry": {"coordinates":[-71.460778,41.865661],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874175289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.374458,41.704512,-71.374458,41.704512",
+    "geom:latitude":41.704512,
+    "geom:longitude":-71.374458,
+    "iso:country":"US",
+    "sg:address":"51 Draper Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 734 3440",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540473,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pi8xuDQu9UTWs27M2KQdh_41.704512_-71.374458@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312581,
+    "wof:geomhash":"fab82f925aac1d0d884334d8db7c39da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540473,
+            "region_id":85688509,
+            "venue_id":874175289
+        }
+    ],
+    "wof:id":874175289,
+    "wof:lastmodified":1464312581,
+    "wof:name":"Greene Elementary School",
+    "wof:parent_id":420540473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.374458,
+    41.704512,
+    -71.374458,
+    41.704512
+],
+  "geometry": {"coordinates":[-71.374458,41.704512],"type":"Point"}
+}

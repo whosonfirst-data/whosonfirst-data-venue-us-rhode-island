@@ -1,0 +1,70 @@
+{
+  "id": 874085939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314346,41.480467,-71.314346,41.480467",
+    "geom:latitude":41.480467,
+    "geom:longitude":-71.314346,
+    "iso:country":"US",
+    "sg:address":"472 Thames St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 7949",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vkeZZfFnFJbSnE3LFzkdK_41.480467_-71.314346@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311620,
+    "wof:geomhash":"95a59ee845cb61b468b1078f8c435e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874085939
+        }
+    ],
+    "wof:id":874085939,
+    "wof:lastmodified":1464311620,
+    "wof:name":"Indian Grill",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.314346,
+    41.480467,
+    -71.314346,
+    41.480467
+],
+  "geometry": {"coordinates":[-71.314346,41.480467],"type":"Point"}
+}

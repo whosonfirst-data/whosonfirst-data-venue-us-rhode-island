@@ -1,0 +1,74 @@
+{
+  "id": 874064883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293415,41.53192,-71.293415,41.53192",
+    "geom:latitude":41.53192,
+    "geom:longitude":-71.293415,
+    "iso:country":"US",
+    "sg:address":"1199 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 0999",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.autocenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BH2YVJgz0aPbQ0fsmkGga_41.531920_-71.293415@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311379,
+    "wof:geomhash":"267b6be0e7ff23e2f02839872907d82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874064883
+        }
+    ],
+    "wof:id":874064883,
+    "wof:lastmodified":1464311379,
+    "wof:name":"Auto Center Mazda Of Newport",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.293415,
+    41.53192,
+    -71.293415,
+    41.53192
+],
+  "geometry": {"coordinates":[-71.293415,41.53192],"type":"Point"}
+}

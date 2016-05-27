@@ -1,0 +1,72 @@
+{
+  "id": 874287571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488956,41.859895,-71.488956,41.859895",
+    "geom:latitude":41.859895,
+    "geom:longitude":-71.488956,
+    "iso:country":"US",
+    "sg:address":"9 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/johnston/215255-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 3969",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FdD97ngAZEukI2x7sRAln_41.859895_-71.488956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314915,
+    "wof:geomhash":"57e8c7dd76e69bba65b46e93994cedd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874287571
+        }
+    ],
+    "wof:id":874287571,
+    "wof:lastmodified":1464314915,
+    "wof:name":"Burger King",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.488956,
+    41.859895,
+    -71.488956,
+    41.859895
+],
+  "geometry": {"coordinates":[-71.488956,41.859895],"type":"Point"}
+}

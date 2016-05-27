@@ -1,0 +1,81 @@
+{
+  "id": 874284841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.186808,41.673502,-71.186808,41.673502",
+    "geom:latitude":41.673502,
+    "geom:longitude":-71.186808,
+    "iso:country":"US",
+    "sg:address":"3 Blaisdell Ave",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 3380",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QOP5mhCQlvFgcuUxQox5i_41.673478_-71.186943@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314807,
+    "wof:geomhash":"6f9e3d6cc9ea028f2a762a6bf3be6b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874284841
+        }
+    ],
+    "wof:id":874284841,
+    "wof:lastmodified":1464314807,
+    "wof:name":"Al's Auto Body",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -71.186808,
+    41.673502,
+    -71.186808,
+    41.673502
+],
+  "geometry": {"coordinates":[-71.186808,41.673502],"type":"Point"}
+}

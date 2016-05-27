@@ -1,0 +1,73 @@
+{
+  "id": 874282373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460701,41.8498,-71.460701,41.8498",
+    "geom:latitude":41.8498,
+    "geom:longitude":-71.460701,
+    "iso:country":"US",
+    "sg:address":"1515 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 9451",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BRgBop78lcaLvrHJBd8XI_41.849823_-71.460837@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314720,
+    "wof:geomhash":"9f17593387dec00b81ffcb1cac08f609",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874282373
+        }
+    ],
+    "wof:id":874282373,
+    "wof:lastmodified":1464314720,
+    "wof:name":"Rhode Island Cardiovascular Group Inc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -71.460701,
+    41.8498,
+    -71.460701,
+    41.8498
+],
+  "geometry": {"coordinates":[-71.460701,41.8498],"type":"Point"}
+}

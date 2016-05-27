@@ -1,0 +1,71 @@
+{
+  "id": 874239373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507627,41.97107,-71.507627,41.97107",
+    "geom:latitude":41.97107,
+    "geom:longitude":-71.507627,
+    "iso:country":"US",
+    "sg:address":"650 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 3600",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ymsSlaYoE4JPItcKXfeX8_41.971070_-71.507627@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313328,
+    "wof:geomhash":"30907102d8ca1c03a6f4e7011c54d55c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874239373
+        }
+    ],
+    "wof:id":874239373,
+    "wof:lastmodified":1464313328,
+    "wof:name":"Pavers & More",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.507627,
+    41.97107,
+    -71.507627,
+    41.97107
+],
+  "geometry": {"coordinates":[-71.507627,41.97107],"type":"Point"}
+}

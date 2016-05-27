@@ -1,0 +1,79 @@
+{
+  "id": 874108723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450585,41.468995,-71.450585,41.468995",
+    "geom:latitude":41.468995,
+    "geom:longitude":-71.450585,
+    "iso:country":"US",
+    "sg:address":"38 Wakefield Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 9960",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b6wbT1cphiEP7GkwfsABP_41.468995_-71.450585@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311901,
+    "wof:geomhash":"6ff81f1d6a08ce70e4a51d210ae58cf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874108723
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874108723
+        }
+    ],
+    "wof:id":874108723,
+    "wof:lastmodified":1464311901,
+    "wof:name":"Z Electric Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.450585,
+    41.468995,
+    -71.450585,
+    41.468995
+],
+  "geometry": {"coordinates":[-71.450585,41.468995],"type":"Point"}
+}

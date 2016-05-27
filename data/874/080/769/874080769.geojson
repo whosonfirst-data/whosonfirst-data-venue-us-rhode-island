@@ -1,0 +1,84 @@
+{
+  "id": 874080769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451739,41.751606,-71.451739,41.751606",
+    "geom:latitude":41.751606,
+    "geom:longitude":-71.451739,
+    "iso:country":"US",
+    "sg:address":"1191 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 1700",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "installs",
+        "rug",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H0mSO07WfueJEfVdn127D_41.751606_-71.451739@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311560,
+    "wof:geomhash":"b7e64918c1387a9ac6b0286cb005db64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874080769
+        }
+    ],
+    "wof:id":874080769,
+    "wof:lastmodified":1464311560,
+    "wof:name":"Ruggieri Brothers Inc",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "rug",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.451739,
+    41.751606,
+    -71.451739,
+    41.751606
+],
+  "geometry": {"coordinates":[-71.451739,41.751606],"type":"Point"}
+}

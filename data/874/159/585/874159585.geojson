@@ -1,0 +1,90 @@
+{
+  "id": 874159585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407058,41.843093,-71.407058,41.843093",
+    "geom:latitude":41.843093,
+    "geom:longitude":-71.407058,
+    "iso:country":"US",
+    "sg:address":"839 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 2902",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34zFUgk72YlDGmQGs0r7sJ_41.843093_-71.407058@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312427,
+    "wof:geomhash":"8d9c5fbd8fb0919b3f0c9fb6ae5add1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874159585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874159585
+        }
+    ],
+    "wof:id":874159585,
+    "wof:lastmodified":1464312427,
+    "wof:name":"Laura N Ryan",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.407058,
+    41.843093,
+    -71.407058,
+    41.843093
+],
+  "geometry": {"coordinates":[-71.40705800000001,41.843093],"type":"Point"}
+}

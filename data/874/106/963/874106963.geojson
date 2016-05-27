@@ -1,0 +1,77 @@
+{
+  "id": 874106963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410595,41.884954,-71.410595,41.884954",
+    "geom:latitude":41.884954,
+    "geom:longitude":-71.410595,
+    "iso:country":"US",
+    "sg:address":"125 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 7600",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "concrete",
+        "brick",
+        "block",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcNxS6tQneXFYVtIRtBww_41.884954_-71.410595@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311882,
+    "wof:geomhash":"6b5045d80484df42269539ad2d235819",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874106963
+        }
+    ],
+    "wof:id":874106963,
+    "wof:lastmodified":1464311882,
+    "wof:name":"Corrado Block",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "concrete",
+        "brick",
+        "block",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.410595,
+    41.884954,
+    -71.410595,
+    41.884954
+],
+  "geometry": {"coordinates":[-71.410595,41.884954],"type":"Point"}
+}

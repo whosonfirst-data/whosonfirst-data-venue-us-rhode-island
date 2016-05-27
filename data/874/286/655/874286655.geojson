@@ -1,0 +1,87 @@
+{
+  "id": 874286655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604061,41.656885,-71.604061,41.656885",
+    "geom:latitude":41.656885,
+    "geom:longitude":-71.604061,
+    "iso:country":"US",
+    "sg:address":"49 Nooseneck Hill Rd",
+    "sg:city":"West Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-greenwich/138922-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 392 3335",
+    "sg:postcode":"02817",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sDHLdzUTcf3w3IhhA2794_41.656885_-71.604061@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314878,
+    "wof:geomhash":"b4b60b722ff26fa6d2da9e399a61a0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874286655
+        }
+    ],
+    "wof:id":874286655,
+    "wof:lastmodified":1464314878,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.604061,
+    41.656885,
+    -71.604061,
+    41.656885
+],
+  "geometry": {"coordinates":[-71.604061,41.656885],"type":"Point"}
+}

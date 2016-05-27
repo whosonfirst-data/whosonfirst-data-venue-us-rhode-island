@@ -1,0 +1,88 @@
+{
+  "id": 874282765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446251,41.80283,-71.446251,41.80283",
+    "geom:latitude":41.80283,
+    "geom:longitude":-71.446251,
+    "iso:country":"US",
+    "sg:address":"405 Webster Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 0980",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "replacement",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VMh1Nu8D0GqAVudg8PuZF_41.803165_-71.446700@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314732,
+    "wof:geomhash":"1039d0552eb3ea4d0f6d639690e02f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874282765
+        }
+    ],
+    "wof:id":874282765,
+    "wof:lastmodified":1464314732,
+    "wof:name":"Jack's Auto Glass",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "replacement",
+        "glass"
+    ]
+},
+  "bbox": [
+    -71.446251,
+    41.80283,
+    -71.446251,
+    41.80283
+],
+  "geometry": {"coordinates":[-71.446251,41.80283],"type":"Point"}
+}

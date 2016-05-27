@@ -1,0 +1,85 @@
+{
+  "id": 874293469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402875,41.71124,-71.402875,41.71124",
+    "geom:latitude":41.71124,
+    "geom:longitude":-71.402875,
+    "iso:country":"US",
+    "sg:address":"600 Sandy Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 5440",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.warwickhousing.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868715,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64jGmPzldv4JFZ10T4cr3m_41.711240_-71.402875@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315139,
+    "wof:geomhash":"9696c7ce3a5f31f2c6e885f2c6d46702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85868715,
+            "region_id":85688509,
+            "venue_id":874293469
+        }
+    ],
+    "wof:id":874293469,
+    "wof:lastmodified":1464315139,
+    "wof:name":"Warwick Public Library",
+    "wof:parent_id":85868715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.402875,
+    41.71124,
+    -71.402875,
+    41.71124
+],
+  "geometry": {"coordinates":[-71.40287499999999,41.71124],"type":"Point"}
+}

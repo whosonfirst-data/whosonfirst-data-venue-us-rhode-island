@@ -1,0 +1,78 @@
+{
+  "id": 874089385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271496,41.668503,-71.271496,41.668503",
+    "geom:latitude":41.668503,
+    "geom:longitude":-71.271496,
+    "iso:country":"US",
+    "sg:address":"31 Pearse Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 2398",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "orthopedic",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QzlwrTvewSujRhYGhFZoz_41.668503_-71.271496@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311654,
+    "wof:geomhash":"4f995be0790812a7f0d08be7afe18aaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874089385
+        }
+    ],
+    "wof:id":874089385,
+    "wof:lastmodified":1464311654,
+    "wof:name":"Specht Orthopedic Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "orthopedic",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -71.271496,
+    41.668503,
+    -71.271496,
+    41.668503
+],
+  "geometry": {"coordinates":[-71.271496,41.668503],"type":"Point"}
+}

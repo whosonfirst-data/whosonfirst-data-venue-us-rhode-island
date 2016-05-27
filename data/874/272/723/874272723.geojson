@@ -1,0 +1,69 @@
+{
+  "id": 874272723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.519062,41.388617,-71.519062,41.388617",
+    "geom:latitude":41.388617,
+    "geom:longitude":-71.519062,
+    "iso:country":"US",
+    "sg:address":"392 Gooseberry Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5431",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ny3dlXe3U6cl3DmdAR01h_41.388617_-71.519062@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314320,
+    "wof:geomhash":"7e9d5ffdfdf28b6d4d5b10991c0daa5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874272723
+        }
+    ],
+    "wof:id":874272723,
+    "wof:lastmodified":1464314320,
+    "wof:name":"Gooseberry Marina & Dock Bldg",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.519062,
+    41.388617,
+    -71.519062,
+    41.388617
+],
+  "geometry": {"coordinates":[-71.51906200000001,41.388617],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874015023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271068,41.577465,-71.271068,41.577465",
+    "geom:latitude":41.577465,
+    "geom:longitude":-71.271068,
+    "iso:country":"US",
+    "sg:address":"1568 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3315",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgI6e4MXDQ8mkyfwQVhZg_41.577465_-71.271068@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310891,
+    "wof:geomhash":"142c0214bc571565cc2ea75134e8ff1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874015023
+        }
+    ],
+    "wof:id":874015023,
+    "wof:lastmodified":1464310891,
+    "wof:name":"Xtra Mart",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.271068,
+    41.577465,
+    -71.271068,
+    41.577465
+],
+  "geometry": {"coordinates":[-71.271068,41.577465],"type":"Point"}
+}

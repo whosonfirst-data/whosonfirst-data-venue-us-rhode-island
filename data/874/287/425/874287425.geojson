@@ -1,0 +1,84 @@
+{
+  "id": 874287425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402717,41.856195,-71.402717,41.856195",
+    "geom:latitude":41.856195,
+    "geom:longitude":-71.402717,
+    "iso:country":"US",
+    "sg:address":"255 Collyer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/114884-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 4850",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O3auS5QMToVmizkoNdPr5_41.856195_-71.402717@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314904,
+    "wof:geomhash":"1a6f630a4fb98280d68704a9937f1ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874287425
+        }
+    ],
+    "wof:id":874287425,
+    "wof:lastmodified":1464314904,
+    "wof:name":"Chili's",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.402717,
+    41.856195,
+    -71.402717,
+    41.856195
+],
+  "geometry": {"coordinates":[-71.402717,41.856195],"type":"Point"}
+}

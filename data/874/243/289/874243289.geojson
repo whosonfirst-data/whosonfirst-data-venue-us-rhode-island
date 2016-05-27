@@ -1,0 +1,85 @@
+{
+  "id": 874243289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427382,41.77256,-71.427382,41.77256",
+    "geom:latitude":41.77256,
+    "geom:longitude":-71.427382,
+    "iso:country":"US",
+    "sg:address":"530 Wellington Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 4343",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cabinet",
+        "maker",
+        "mfg"
+    ],
+    "sg:website":"www.colecabinets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9UAM4BjQtj9TQOTVaXsO_41.772560_-71.427382@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313399,
+    "wof:geomhash":"0371968886477095a4c58ebe7691293e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874243289
+        }
+    ],
+    "wof:id":874243289,
+    "wof:lastmodified":1464313399,
+    "wof:name":"Cole Cabinet Co Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cabinet",
+        "maker",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.427382,
+    41.77256,
+    -71.427382,
+    41.77256
+],
+  "geometry": {"coordinates":[-71.42738199999999,41.77256],"type":"Point"}
+}

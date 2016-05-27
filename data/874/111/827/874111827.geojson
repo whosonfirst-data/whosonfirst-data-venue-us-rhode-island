@@ -1,0 +1,71 @@
+{
+  "id": 874111827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.262799,41.733255,-71.262799,41.733255",
+    "geom:latitude":41.733255,
+    "geom:longitude":-71.262799,
+    "iso:country":"US",
+    "sg:address":"15 Denver Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3724",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SXHjrQMUnVxCoCJ6nuH9T_41.733255_-71.262799@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311955,
+    "wof:geomhash":"85dc6cee93abb329f45ad3a5402fc8e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874111827
+        }
+    ],
+    "wof:id":874111827,
+    "wof:lastmodified":1464311955,
+    "wof:name":"Dun Rite Asphalt",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -71.262799,
+    41.733255,
+    -71.262799,
+    41.733255
+],
+  "geometry": {"coordinates":[-71.262799,41.733255],"type":"Point"}
+}

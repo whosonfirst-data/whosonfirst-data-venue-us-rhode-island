@@ -1,0 +1,75 @@
+{
+  "id": 874085213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549983,41.528144,-71.549983,41.528144",
+    "geom:latitude":41.528144,
+    "geom:longitude":-71.549983,
+    "iso:country":"US",
+    "sg:address":"526 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 296 5930",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jEpj8kU9d2E00EwBGbpRo_41.528144_-71.549983@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311611,
+    "wof:geomhash":"b9de97ceb757e210a5a22c5b51537b9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874085213
+        }
+    ],
+    "wof:id":874085213,
+    "wof:lastmodified":1464311611,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.549983,
+    41.528144,
+    -71.549983,
+    41.528144
+],
+  "geometry": {"coordinates":[-71.549983,41.528144],"type":"Point"}
+}

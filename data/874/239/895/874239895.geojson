@@ -1,0 +1,73 @@
+{
+  "id": 874239895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53329,41.475992,-71.53329,41.475992",
+    "geom:latitude":41.475992,
+    "geom:longitude":-71.53329,
+    "iso:country":"US",
+    "sg:address":"46 Crestwood Dr",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1460",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dkdom20ba3U9oDRySUsEW_41.475992_-71.533290@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313338,
+    "wof:geomhash":"b7f41dcb4d25d0f5dfe743550d299420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874239895
+        }
+    ],
+    "wof:id":874239895,
+    "wof:lastmodified":1464313338,
+    "wof:name":"Westfield Gage",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.53329,
+    41.475992,
+    -71.53329,
+    41.475992
+],
+  "geometry": {"coordinates":[-71.53328999999999,41.475992],"type":"Point"}
+}

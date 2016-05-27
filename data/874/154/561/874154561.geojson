@@ -1,0 +1,71 @@
+{
+  "id": 874154561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478053,41.393324,-71.478053,41.393324",
+    "geom:latitude":41.393324,
+    "geom:longitude":-71.478053,
+    "iso:country":"US",
+    "sg:address":"15 Kingston Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4922",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HBrMR7leqx5rvtpLggi1j_41.393324_-71.478053@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312373,
+    "wof:geomhash":"8b65961924701119e419895a6e1db19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874154561
+        }
+    ],
+    "wof:id":874154561,
+    "wof:lastmodified":1464312373,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.478053,
+    41.393324,
+    -71.478053,
+    41.393324
+],
+  "geometry": {"coordinates":[-71.478053,41.393324],"type":"Point"}
+}

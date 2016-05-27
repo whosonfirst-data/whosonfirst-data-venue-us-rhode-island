@@ -1,0 +1,73 @@
+{
+  "id": 874234061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.70056,41.514879,-71.70056,41.514879",
+    "geom:latitude":41.514879,
+    "geom:longitude":-71.70056,
+    "iso:country":"US",
+    "sg:address":"1133 Main St",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 1144",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YD280MmAKh2vdGviOQ6lh_41.514879_-71.700560@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313222,
+    "wof:geomhash":"7856780512257d3d8379f9c52b436931",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874234061
+        }
+    ],
+    "wof:id":874234061,
+    "wof:lastmodified":1464313222,
+    "wof:name":"Second Cents",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -71.70056,
+    41.514879,
+    -71.70056,
+    41.514879
+],
+  "geometry": {"coordinates":[-71.70056,41.514879],"type":"Point"}
+}

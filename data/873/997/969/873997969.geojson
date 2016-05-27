@@ -1,0 +1,75 @@
+{
+  "id": 873997969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51001,41.463201,-71.51001,41.463201",
+    "geom:latitude":41.463201,
+    "geom:longitude":-71.51001,
+    "iso:country":"US",
+    "sg:address":"1880 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2266",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "used",
+        "sales",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76raCnfCHj3slrKQojiuWZ_41.463201_-71.510010@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310747,
+    "wof:geomhash":"726aa41df76dd32cc2155d96aa1d66d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":873997969
+        }
+    ],
+    "wof:id":873997969,
+    "wof:lastmodified":1464310747,
+    "wof:name":"Kingston Auto Sales",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "sales",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.51001,
+    41.463201,
+    -71.51001,
+    41.463201
+],
+  "geometry": {"coordinates":[-71.51000999999999,41.463201],"type":"Point"}
+}

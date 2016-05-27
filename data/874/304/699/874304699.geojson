@@ -1,0 +1,67 @@
+{
+  "id": 874304699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472694,41.827288,-71.472694,41.827288",
+    "geom:latitude":41.827288,
+    "geom:longitude":-71.472694,
+    "iso:country":"US",
+    "sg:address":"602 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 7192",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VkNy7kjZaWsIlN8mQJxf9_41.827288_-71.472694@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315554,
+    "wof:geomhash":"c2d79af72b8053b334c3c05d87a2260b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304699
+        }
+    ],
+    "wof:id":874304699,
+    "wof:lastmodified":1464315554,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.472694,
+    41.827288,
+    -71.472694,
+    41.827288
+],
+  "geometry": {"coordinates":[-71.472694,41.827288],"type":"Point"}
+}

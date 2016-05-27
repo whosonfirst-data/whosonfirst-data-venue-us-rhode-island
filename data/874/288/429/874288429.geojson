@@ -1,0 +1,97 @@
+{
+  "id": 874288429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272926,41.704762,-71.272926,41.704762",
+    "geom:latitude":41.704762,
+    "geom:longitude":-71.272926,
+    "iso:country":"US",
+    "sg:address":"86 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2882",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner",
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "house",
+        "janitor",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.tjrussellcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DkMk9xzCRul10Thh9pDFE_41.704762_-71.272926@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314955,
+    "wof:geomhash":"b2aed585ae4ffa2516419ce5edbe3e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874288429
+        }
+    ],
+    "wof:id":874288429,
+    "wof:lastmodified":1464314955,
+    "wof:name":"T J Russell Supply",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "house",
+        "janitor",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.272926,
+    41.704762,
+    -71.272926,
+    41.704762
+],
+  "geometry": {"coordinates":[-71.272926,41.704762],"type":"Point"}
+}

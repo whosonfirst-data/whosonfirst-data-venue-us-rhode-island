@@ -1,0 +1,71 @@
+{
+  "id": 874238039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263328,41.718674,-71.263328,41.718674",
+    "geom:latitude":41.718674,
+    "geom:longitude":-71.263328,
+    "iso:country":"US",
+    "sg:address":"3 Harding Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 4703",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cg95CcesE8BOLaduh3Ppi_41.718674_-71.263328@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313303,
+    "wof:geomhash":"5f5d1281ffc7b74b243867a54bb66d82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874238039
+        }
+    ],
+    "wof:id":874238039,
+    "wof:lastmodified":1464313303,
+    "wof:name":"Holmes Painting Service",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.263328,
+    41.718674,
+    -71.263328,
+    41.718674
+],
+  "geometry": {"coordinates":[-71.263328,41.718674],"type":"Point"}
+}

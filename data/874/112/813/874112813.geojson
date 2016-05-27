@@ -1,0 +1,71 @@
+{
+  "id": 874112813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40017,41.824541,-71.40017,41.824541",
+    "geom:latitude":41.824541,
+    "geom:longitude":-71.40017,
+    "iso:country":"US",
+    "sg:address":"111 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 863 3465",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"www.watsoninstitute.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JUPLVzyJ9YXVtnIqns0Nr_41.824541_-71.400170@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311966,
+    "wof:geomhash":"2c831268032c9e1de8501e4b9e007d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874112813
+        }
+    ],
+    "wof:id":874112813,
+    "wof:lastmodified":1464311966,
+    "wof:name":"Watson Institute",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40017,
+    41.824541,
+    -71.40017,
+    41.824541
+],
+  "geometry": {"coordinates":[-71.40017,41.824541],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874250043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.749105,41.353024,-71.749105,41.353024",
+    "geom:latitude":41.353024,
+    "geom:longitude":-71.749105,
+    "iso:country":"US",
+    "sg:address":"14 Castle Way",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 1130",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grain"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38lNi27DYAOOIiyNdTtkNa_41.353024_-71.749105@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313567,
+    "wof:geomhash":"fbed686d3fc6bf9440dd9f7b94b0b87d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874250043
+        }
+    ],
+    "wof:id":874250043,
+    "wof:lastmodified":1464313567,
+    "wof:name":"Westerly Grain & Supply",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain"
+    ]
+},
+  "bbox": [
+    -71.749105,
+    41.353024,
+    -71.749105,
+    41.353024
+],
+  "geometry": {"coordinates":[-71.749105,41.353024],"type":"Point"}
+}

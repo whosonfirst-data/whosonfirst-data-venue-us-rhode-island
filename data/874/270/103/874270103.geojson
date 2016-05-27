@@ -1,0 +1,69 @@
+{
+  "id": 874270103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252506,41.58025,-71.252506,41.58025",
+    "geom:latitude":41.58025,
+    "geom:longitude":-71.252506,
+    "iso:country":"US",
+    "sg:address":"1824 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 9814",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yL71FIaL9FOhtqBZr6Vwi_41.580250_-71.252506@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314229,
+    "wof:geomhash":"71db876018f4313a866fb93c76979838",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874270103
+        }
+    ],
+    "wof:id":874270103,
+    "wof:lastmodified":1464314229,
+    "wof:name":"Chris's Diner",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.252506,
+    41.58025,
+    -71.252506,
+    41.58025
+],
+  "geometry": {"coordinates":[-71.252506,41.58025],"type":"Point"}
+}

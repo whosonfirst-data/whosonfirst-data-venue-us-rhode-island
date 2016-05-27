@@ -1,0 +1,80 @@
+{
+  "id": 874289309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397985,41.85898,-71.397985,41.85898",
+    "geom:latitude":41.85898,
+    "geom:longitude":-71.397985,
+    "iso:country":"US",
+    "sg:address":"545 Pawtucket Ave Unit 103",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 1886",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XW5zm0j67alcB9vk5lkkk_41.858980_-71.397985@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314988,
+    "wof:geomhash":"8c284843317c4fa061b276802778dd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874289309
+        }
+    ],
+    "wof:id":874289309,
+    "wof:lastmodified":1464314988,
+    "wof:name":"R I Computer Consulting Inc",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.397985,
+    41.85898,
+    -71.397985,
+    41.85898
+],
+  "geometry": {"coordinates":[-71.39798500000001,41.85898],"type":"Point"}
+}

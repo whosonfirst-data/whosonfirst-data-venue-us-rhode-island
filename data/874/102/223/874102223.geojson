@@ -1,0 +1,75 @@
+{
+  "id": 874102223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41794,41.814376,-71.41794,41.814376",
+    "geom:latitude":41.814376,
+    "geom:longitude":-71.41794,
+    "iso:country":"US",
+    "sg:address":"409 Pine St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 6192",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DAR1MoKMiQ3RpmAoMmS4b_41.814376_-71.417940@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311821,
+    "wof:geomhash":"a8e67031c1c4e7fe34595cdc000a6746",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874102223
+        }
+    ],
+    "wof:id":874102223,
+    "wof:lastmodified":1464311821,
+    "wof:name":"Providence Electroplating WRKS",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating"
+    ]
+},
+  "bbox": [
+    -71.41794,
+    41.814376,
+    -71.41794,
+    41.814376
+],
+  "geometry": {"coordinates":[-71.41794,41.814376],"type":"Point"}
+}

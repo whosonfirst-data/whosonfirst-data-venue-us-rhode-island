@@ -1,0 +1,72 @@
+{
+  "id": 874236541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.570969,41.691736,-71.570969,41.691736",
+    "geom:latitude":41.691736,
+    "geom:longitude":-71.570969,
+    "iso:country":"US",
+    "sg:address":"1372 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 5900",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lottery",
+        "agent"
+    ],
+    "sg:website":"www.gtech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YGYz6AJj8x70K6RQEfICm_41.691736_-71.570969@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313273,
+    "wof:geomhash":"cca342f5dfb9ba64589b8b37ded46645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874236541
+        }
+    ],
+    "wof:id":874236541,
+    "wof:lastmodified":1464313273,
+    "wof:name":"Gtech Corp",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lottery",
+        "agent"
+    ]
+},
+  "bbox": [
+    -71.570969,
+    41.691736,
+    -71.570969,
+    41.691736
+],
+  "geometry": {"coordinates":[-71.57096900000001,41.691736],"type":"Point"}
+}

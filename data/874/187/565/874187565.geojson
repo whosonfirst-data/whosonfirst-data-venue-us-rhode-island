@@ -1,0 +1,71 @@
+{
+  "id": 874187565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.538646,41.489301,-71.538646,41.489301",
+    "geom:latitude":41.489301,
+    "geom:longitude":-71.538646,
+    "iso:country":"US",
+    "sg:address":"523 Plains Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 5488",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "university"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ULzdb3NFFl4gdBcWQsce7_41.489301_-71.538646@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312715,
+    "wof:geomhash":"7d4f7bac996e9877c2723f9a4e7134be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874187565
+        }
+    ],
+    "wof:id":874187565,
+    "wof:lastmodified":1464312715,
+    "wof:name":"Facilities Services",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -71.538646,
+    41.489301,
+    -71.538646,
+    41.489301
+],
+  "geometry": {"coordinates":[-71.538646,41.489301],"type":"Point"}
+}

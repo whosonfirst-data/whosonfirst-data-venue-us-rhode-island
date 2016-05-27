@@ -1,0 +1,79 @@
+{
+  "id": 874161257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.181417,41.672162,-71.181417,41.672162",
+    "geom:latitude":41.672162,
+    "geom:longitude":-71.181417,
+    "iso:country":"US",
+    "sg:address":"19 Shove St",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 2090",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bwbLE8ufhkkTZjkORfY6v_41.672162_-71.181417@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312444,
+    "wof:geomhash":"37dff769d4894f8babc4873c4f1d2ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874161257
+        }
+    ],
+    "wof:id":874161257,
+    "wof:lastmodified":1464312444,
+    "wof:name":"Shove St Auto Body",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.181417,
+    41.672162,
+    -71.181417,
+    41.672162
+],
+  "geometry": {"coordinates":[-71.181417,41.672162],"type":"Point"}
+}

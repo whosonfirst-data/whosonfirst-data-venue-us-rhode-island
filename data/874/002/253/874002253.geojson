@@ -1,0 +1,78 @@
+{
+  "id": 874002253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478656,41.391209,-71.478656,41.391209",
+    "geom:latitude":41.391209,
+    "geom:longitude":-71.478656,
+    "iso:country":"US",
+    "sg:address":"16 Newport Ln",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3722",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XV6YqSYvFkTjVzy4ewzAc_41.391209_-71.478656@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310777,
+    "wof:geomhash":"f325e7ea8fc401ccc01d7c9a4de207f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874002253
+        }
+    ],
+    "wof:id":874002253,
+    "wof:lastmodified":1464310777,
+    "wof:name":"M J Custom Masonry and Chimney",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.478656,
+    41.391209,
+    -71.478656,
+    41.391209
+],
+  "geometry": {"coordinates":[-71.478656,41.391209],"type":"Point"}
+}

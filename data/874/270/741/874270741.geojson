@@ -1,0 +1,86 @@
+{
+  "id": 874270741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404704,41.804846,-71.404704,41.804846",
+    "geom:latitude":41.804846,
+    "geom:longitude":-71.404704,
+    "iso:country":"US",
+    "sg:address":"103 Sayles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 5722",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Uu9NVXiYSEYSpSMSaDHc1_41.804846_-71.404704@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314250,
+    "wof:geomhash":"4b2047a766d4a0ff298d65f03c55d7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874270741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874270741
+        }
+    ],
+    "wof:id":874270741,
+    "wof:lastmodified":1464314250,
+    "wof:name":"Sunset Autobody",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.404704,
+    41.804846,
+    -71.404704,
+    41.804846
+],
+  "geometry": {"coordinates":[-71.404704,41.804846],"type":"Point"}
+}

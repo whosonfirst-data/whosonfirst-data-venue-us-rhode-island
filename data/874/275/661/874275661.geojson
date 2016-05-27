@@ -1,0 +1,73 @@
+{
+  "id": 874275661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.548814,41.914476,-71.548814,41.914476",
+    "geom:latitude":41.914476,
+    "geom:longitude":-71.548814,
+    "iso:country":"US",
+    "sg:address":"9 Industrial Dr S",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8900",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "screw",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DD2j0VJ3sOxTERzwDRUEY_41.914476_-71.548814@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314435,
+    "wof:geomhash":"00365f4500e7b0ffed79703cefbbf761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874275661
+        }
+    ],
+    "wof:id":874275661,
+    "wof:lastmodified":1464314435,
+    "wof:name":"Quality Screw Machine Products",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "screw",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.548814,
+    41.914476,
+    -71.548814,
+    41.914476
+],
+  "geometry": {"coordinates":[-71.54881399999999,41.914476],"type":"Point"}
+}

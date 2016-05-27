@@ -1,0 +1,71 @@
+{
+  "id": 874164955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268018,41.662765,-71.268018,41.662765",
+    "geom:latitude":41.662765,
+    "geom:longitude":-71.268018,
+    "iso:country":"US",
+    "sg:address":"51 Walley St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 8486",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03VhWXKJN28vXd7SHWB20B_41.662765_-71.268018@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312479,
+    "wof:geomhash":"5cbab3eae684dd7e3888f598c79b7a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874164955
+        }
+    ],
+    "wof:id":874164955,
+    "wof:lastmodified":1464312479,
+    "wof:name":"Furtado Electric",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.268018,
+    41.662765,
+    -71.268018,
+    41.662765
+],
+  "geometry": {"coordinates":[-71.268018,41.662765],"type":"Point"}
+}

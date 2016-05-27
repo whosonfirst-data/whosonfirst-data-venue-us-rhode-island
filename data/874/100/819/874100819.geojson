@@ -1,0 +1,75 @@
+{
+  "id": 874100819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472428,41.729506,-71.472428,41.729506",
+    "geom:latitude":41.729506,
+    "geom:longitude":-71.472428,
+    "iso:country":"US",
+    "sg:address":"10 West St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 5111",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dnwkjf3j0fgPEhN0PypVS_41.729506_-71.472428@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"f4d5fda69979e1c5e6b97a2a3c47845c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874100819
+        }
+    ],
+    "wof:id":874100819,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Eastcoast Cleaning",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.472428,
+    41.729506,
+    -71.472428,
+    41.729506
+],
+  "geometry": {"coordinates":[-71.47242799999999,41.729506],"type":"Point"}
+}

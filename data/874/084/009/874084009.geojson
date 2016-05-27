@@ -1,0 +1,76 @@
+{
+  "id": 874084009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192746,41.583562,-71.192746,41.583562",
+    "geom:latitude":41.583562,
+    "geom:longitude":-71.192746,
+    "iso:country":"US",
+    "sg:address":"3572 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 6888",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "center",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kFt0jC8LpKv4seUFgkmHp_41.583562_-71.192746@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311599,
+    "wof:geomhash":"96fb1455b7ca2ad7bd1e3e2b629e3794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874084009
+        }
+    ],
+    "wof:id":874084009,
+    "wof:lastmodified":1464311599,
+    "wof:name":"Matt's Farm & Garden",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.192746,
+    41.583562,
+    -71.192746,
+    41.583562
+],
+  "geometry": {"coordinates":[-71.192746,41.583562],"type":"Point"}
+}

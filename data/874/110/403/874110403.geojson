@@ -1,0 +1,71 @@
+{
+  "id": 874110403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615526,41.981904,-71.615526,41.981904",
+    "geom:latitude":41.981904,
+    "geom:longitude":-71.615526,
+    "iso:country":"US",
+    "sg:address":"2455 Broncos Hwy",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2324",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zwy8rFlXQMi6eOprlJDsb_41.981904_-71.615526@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311927,
+    "wof:geomhash":"653a6b690b00a80eb46547b33574748c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874110403
+        }
+    ],
+    "wof:id":874110403,
+    "wof:lastmodified":1464311927,
+    "wof:name":"Western Hill Auto Sales & Svc",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.615526,
+    41.981904,
+    -71.615526,
+    41.981904
+],
+  "geometry": {"coordinates":[-71.615526,41.981904],"type":"Point"}
+}

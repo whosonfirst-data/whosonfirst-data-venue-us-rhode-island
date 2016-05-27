@@ -1,0 +1,70 @@
+{
+  "id": 874282273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448502,41.825001,-71.448502,41.825001",
+    "geom:latitude":41.825001,
+    "geom:longitude":-71.448502,
+    "iso:country":"US",
+    "sg:address":"935 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 1376",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03HI8w56EqE0yiIugxuL9L_41.825024_-71.447853@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314716,
+    "wof:geomhash":"2b8745310c1d7da642b0515291d9fb2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874282273
+        }
+    ],
+    "wof:id":874282273,
+    "wof:lastmodified":1464314716,
+    "wof:name":"Avenue Grocery",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.448502,
+    41.825001,
+    -71.448502,
+    41.825001
+],
+  "geometry": {"coordinates":[-71.448502,41.825001],"type":"Point"}
+}

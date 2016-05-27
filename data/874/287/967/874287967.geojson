@@ -1,0 +1,111 @@
+{
+  "id": 874287967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523257,41.696283,-71.523257,41.696283",
+    "geom:latitude":41.696283,
+    "geom:longitude":-71.523257,
+    "iso:country":"US",
+    "sg:address":"88 W Warwick Ave",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/138925-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 4920",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZKu7ORnOIQeXJiW8FKNyC_41.696386_-71.522940@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314934,
+    "wof:geomhash":"5c3edcf567d1ff5ddcfe49023b8e6d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874287967
+        }
+    ],
+    "wof:id":874287967,
+    "wof:lastmodified":1464314934,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.523257,
+    41.696283,
+    -71.523257,
+    41.696283
+],
+  "geometry": {"coordinates":[-71.523257,41.696283],"type":"Point"}
+}

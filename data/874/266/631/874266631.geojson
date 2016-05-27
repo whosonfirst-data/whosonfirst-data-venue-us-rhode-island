@@ -1,0 +1,73 @@
+{
+  "id": 874266631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592936,42.013387,-71.592936,42.013387",
+    "geom:latitude":42.013387,
+    "geom:longitude":-71.592936,
+    "iso:country":"US",
+    "sg:address":"281 Quaker Hwy",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 0541",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_442sL78VKSt9eLRtB2z4YK_42.013387_-71.592936@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314093,
+    "wof:geomhash":"3d02c5b299b5e2fe7096b9e3e2806094",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874266631
+        }
+    ],
+    "wof:id":874266631,
+    "wof:lastmodified":1464314093,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.592936,
+    42.013387,
+    -71.592936,
+    42.013387
+],
+  "geometry": {"coordinates":[-71.59293599999999,42.013387],"type":"Point"}
+}

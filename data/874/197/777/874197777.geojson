@@ -1,0 +1,86 @@
+{
+  "id": 874197777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409523,41.822937,-71.409523,41.822937",
+    "geom:latitude":41.822937,
+    "geom:longitude":-71.409523,
+    "iso:country":"US",
+    "sg:address":"56 Pine St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 8880",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "development",
+        "city",
+        "planning",
+        "strategic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JoquAQpyRtiugfqmZ6SnK_41.822937_-71.409523@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312823,
+    "wof:geomhash":"7e3aeffe2b485c31ff37e9af332daaf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874197777
+        }
+    ],
+    "wof:id":874197777,
+    "wof:lastmodified":1464312823,
+    "wof:name":"Providence Plan",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "city",
+        "planning",
+        "strategic"
+    ]
+},
+  "bbox": [
+    -71.409523,
+    41.822937,
+    -71.409523,
+    41.822937
+],
+  "geometry": {"coordinates":[-71.40952299999999,41.822937],"type":"Point"}
+}

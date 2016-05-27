@@ -1,0 +1,73 @@
+{
+  "id": 874286179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459297,41.8494,-71.459297,41.8494",
+    "geom:latitude":41.8494,
+    "geom:longitude":-71.459297,
+    "iso:country":"US",
+    "sg:address":"1450 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0576",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75JPvA8KDH2CNGZ3nXTjuR_41.849331_-71.459868@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314863,
+    "wof:geomhash":"0d2add636138eb6afd321d63102a4e0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874286179
+        }
+    ],
+    "wof:id":874286179,
+    "wof:lastmodified":1464314863,
+    "wof:name":"Douglas Wine & Spirits",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.459297,
+    41.8494,
+    -71.459297,
+    41.8494
+],
+  "geometry": {"coordinates":[-71.45929700000001,41.8494],"type":"Point"}
+}

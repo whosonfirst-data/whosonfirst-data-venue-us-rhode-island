@@ -1,0 +1,71 @@
+{
+  "id": 874261833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.331935,41.757183,-71.331935,41.757183",
+    "geom:latitude":41.757183,
+    "geom:longitude":-71.331935,
+    "iso:country":"US",
+    "sg:address":"670 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 1761",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t4HQgZKB2GYQfIAC8tguZ_41.757183_-71.331935@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313919,
+    "wof:geomhash":"b35663949f931a87b177db048066fb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874261833
+        }
+    ],
+    "wof:id":874261833,
+    "wof:lastmodified":1464313919,
+    "wof:name":"Steves Painting Company",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.331935,
+    41.757183,
+    -71.331935,
+    41.757183
+],
+  "geometry": {"coordinates":[-71.331935,41.757183],"type":"Point"}
+}

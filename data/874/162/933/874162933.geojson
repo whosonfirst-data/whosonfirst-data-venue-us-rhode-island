@@ -1,0 +1,71 @@
+{
+  "id": 874162933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.705428,41.517357,-71.705428,41.517357",
+    "geom:latitude":41.517357,
+    "geom:longitude":-71.705428,
+    "iso:country":"US",
+    "sg:address":"8 Bridge St",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0333",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08r1Pxv3kkwjDylEHafLbD_41.517357_-71.705428@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312459,
+    "wof:geomhash":"08bfbbe7cc71723a5f9ee83207e039b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874162933
+        }
+    ],
+    "wof:id":874162933,
+    "wof:lastmodified":1464312459,
+    "wof:name":"Peter T Moynihan",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.705428,
+    41.517357,
+    -71.705428,
+    41.517357
+],
+  "geometry": {"coordinates":[-71.705428,41.517357],"type":"Point"}
+}

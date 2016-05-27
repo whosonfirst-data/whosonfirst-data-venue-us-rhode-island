@@ -1,0 +1,71 @@
+{
+  "id": 874102765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.60532,41.38439,-71.60532,41.38439",
+    "geom:latitude":41.38439,
+    "geom:longitude":-71.60532,
+    "iso:country":"US",
+    "sg:address":"38 Bedford Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 3604",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "theatrical",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WnHedOllGLDxAoZWuCwwW_41.384390_-71.605320@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311828,
+    "wof:geomhash":"b41d9dbf40c370ceea866b72464d8303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874102765
+        }
+    ],
+    "wof:id":874102765,
+    "wof:lastmodified":1464311828,
+    "wof:name":"Moonlight Theatre Co",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatrical",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.60532,
+    41.38439,
+    -71.60532,
+    41.38439
+],
+  "geometry": {"coordinates":[-71.60532000000001,41.38439],"type":"Point"}
+}

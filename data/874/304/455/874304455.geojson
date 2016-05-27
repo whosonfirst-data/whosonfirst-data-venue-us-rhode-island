@@ -1,0 +1,83 @@
+{
+  "id": 874304455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541122,41.884819,-71.541122,41.884819",
+    "geom:latitude":41.884819,
+    "geom:longitude":-71.541122,
+    "iso:country":"US",
+    "sg:address":"115 Pleasant View Ave # 7",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 3695",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qZfswdohYL2hYqbN1J1Hg_41.884819_-71.541122@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315545,
+    "wof:geomhash":"d31fec4928a6eaa14e28a03c817ad12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874304455
+        }
+    ],
+    "wof:id":874304455,
+    "wof:lastmodified":1464315545,
+    "wof:name":"Spin City Laundromat",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundries-self",
+        "operated",
+        "washer",
+        "dryer",
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.541122,
+    41.884819,
+    -71.541122,
+    41.884819
+],
+  "geometry": {"coordinates":[-71.541122,41.884819],"type":"Point"}
+}

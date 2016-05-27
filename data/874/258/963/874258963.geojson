@@ -1,0 +1,71 @@
+{
+  "id": 874258963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.719517,41.504919,-71.719517,41.504919",
+    "geom:latitude":41.504919,
+    "geom:longitude":-71.719517,
+    "iso:country":"US",
+    "sg:address":"961 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7091",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jxodWfmSogfwgt1Lb6ziv_41.504919_-71.719517@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313823,
+    "wof:geomhash":"ab5078798e01309be96dbcaef15b4dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874258963
+        }
+    ],
+    "wof:id":874258963,
+    "wof:lastmodified":1464313823,
+    "wof:name":"J & C Recycling",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -71.719517,
+    41.504919,
+    -71.719517,
+    41.504919
+],
+  "geometry": {"coordinates":[-71.719517,41.504919],"type":"Point"}
+}

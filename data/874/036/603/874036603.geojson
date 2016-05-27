@@ -1,0 +1,77 @@
+{
+  "id": 874036603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477462,41.760028,-71.477462,41.760028",
+    "geom:latitude":41.760028,
+    "geom:longitude":-71.477462,
+    "iso:country":"US",
+    "sg:address":"10 Farm St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 6325",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gIUJ9YFONAaLEUqkmejO7_41.760028_-71.477462@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311112,
+    "wof:geomhash":"cd8bd5cf06f130402906867f6e88d17d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874036603
+        }
+    ],
+    "wof:id":874036603,
+    "wof:lastmodified":1464311112,
+    "wof:name":"Target Financial Svc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.477462,
+    41.760028,
+    -71.477462,
+    41.760028
+],
+  "geometry": {"coordinates":[-71.477462,41.760028],"type":"Point"}
+}

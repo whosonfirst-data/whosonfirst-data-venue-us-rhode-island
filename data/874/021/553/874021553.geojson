@@ -1,0 +1,73 @@
+{
+  "id": 874021553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.286732,41.561027,-71.286732,41.561027",
+    "geom:latitude":41.561027,
+    "geom:longitude":-71.286732,
+    "iso:country":"US",
+    "sg:address":"2311 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 7610",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XS1aiEHo2pLB2TBzLzDzw_41.561027_-71.286732@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310961,
+    "wof:geomhash":"89d06615fd506485b7d9ddcbb1611d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874021553
+        }
+    ],
+    "wof:id":874021553,
+    "wof:lastmodified":1464310961,
+    "wof:name":"John's Auto Repair",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.286732,
+    41.561027,
+    -71.286732,
+    41.561027
+],
+  "geometry": {"coordinates":[-71.286732,41.561027],"type":"Point"}
+}

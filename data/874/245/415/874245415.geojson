@@ -1,0 +1,71 @@
+{
+  "id": 874245415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523709,41.487358,-71.523709,41.487358",
+    "geom:latitude":41.487358,
+    "geom:longitude":-71.523709,
+    "iso:country":"US",
+    "sg:address":"35 Bills Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 6830",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24kOZ2JgNvfw5heOdt5ZlD_41.487358_-71.523709@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313442,
+    "wof:geomhash":"e368746baada73caf6c685e4b53c5974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874245415
+        }
+    ],
+    "wof:id":874245415,
+    "wof:lastmodified":1464313442,
+    "wof:name":"Kingston Fire Chief Office",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.523709,
+    41.487358,
+    -71.523709,
+    41.487358
+],
+  "geometry": {"coordinates":[-71.523709,41.487358],"type":"Point"}
+}

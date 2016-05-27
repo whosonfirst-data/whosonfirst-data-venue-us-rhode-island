@@ -1,0 +1,78 @@
+{
+  "id": 874304513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407434,41.81682,-71.407434,41.81682",
+    "geom:latitude":41.81682,
+    "geom:longitude":-71.407434,
+    "iso:country":"US",
+    "sg:address":"370 Richmond St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7675",
+    "sg:postcode":"02918",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steakhouse",
+        "barbeque"
+    ],
+    "sg:website":"www.ricksroadhouseri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qSRzOoyfailaFyWXmIM9N_41.816820_-71.407434@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315547,
+    "wof:geomhash":"ade655ef77cb195c39046fb23c07e97e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874304513
+        }
+    ],
+    "wof:id":874304513,
+    "wof:lastmodified":1464315547,
+    "wof:name":"Rick's Roadhouse",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steakhouse",
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -71.407434,
+    41.81682,
+    -71.407434,
+    41.81682
+],
+  "geometry": {"coordinates":[-71.40743399999999,41.81682],"type":"Point"}
+}

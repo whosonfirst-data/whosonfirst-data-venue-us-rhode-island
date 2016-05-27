@@ -1,0 +1,72 @@
+{
+  "id": 873981399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42924,41.592324,-71.42924,41.592324",
+    "geom:latitude":41.592324,
+    "geom:longitude":-71.42924,
+    "iso:country":"US",
+    "sg:address":"200 Circuit Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 0238",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "sg:website":"www.irf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iPGQ6dzCU3k34oas4hxpL_41.592324_-71.429240@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310609,
+    "wof:geomhash":"4c8461f216e395f519ed8125ee4086d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":873981399
+        }
+    ],
+    "wof:id":873981399,
+    "wof:lastmodified":1464310609,
+    "wof:name":"International Rectifier Corp",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [
+    -71.42924,
+    41.592324,
+    -71.42924,
+    41.592324
+],
+  "geometry": {"coordinates":[-71.42923999999999,41.592324],"type":"Point"}
+}

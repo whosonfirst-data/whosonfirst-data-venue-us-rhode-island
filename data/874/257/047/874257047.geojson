@@ -1,0 +1,71 @@
+{
+  "id": 874257047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.16277,41.548071,-71.16277,41.548071",
+    "geom:latitude":41.548071,
+    "geom:longitude":-71.16277,
+    "iso:country":"US",
+    "sg:address":"43 Tompkins Ln",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 2627",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RllqdlhVaVk4yOXtWIpIe_41.548071_-71.162770@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313723,
+    "wof:geomhash":"f26720ef43179f4d3d4281bf5ffcb6c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874257047
+        }
+    ],
+    "wof:id":874257047,
+    "wof:lastmodified":1464313723,
+    "wof:name":"Compton Auto Svc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.16277,
+    41.548071,
+    -71.16277,
+    41.548071
+],
+  "geometry": {"coordinates":[-71.16276999999999,41.548071],"type":"Point"}
+}

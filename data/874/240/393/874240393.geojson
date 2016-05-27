@@ -1,0 +1,75 @@
+{
+  "id": 874240393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.687139,41.968639,-71.687139,41.968639",
+    "geom:latitude":41.968639,
+    "geom:longitude":-71.687139,
+    "iso:country":"US",
+    "sg:address":"158 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 7905",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YZ7ev3HrMN2pLDSwa1KmN_41.968639_-71.687139@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313348,
+    "wof:geomhash":"00bebab6dfeba4339b114a1d816e9b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874240393
+        }
+    ],
+    "wof:id":874240393,
+    "wof:lastmodified":1464313348,
+    "wof:name":"Mike's Small Engine",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -71.687139,
+    41.968639,
+    -71.687139,
+    41.968639
+],
+  "geometry": {"coordinates":[-71.687139,41.968639],"type":"Point"}
+}

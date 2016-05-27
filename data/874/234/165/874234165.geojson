@@ -1,0 +1,77 @@
+{
+  "id": 874234165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284631,41.502793,-71.284631,41.502793",
+    "geom:latitude":41.502793,
+    "geom:longitude":-71.284631,
+    "iso:country":"US",
+    "sg:address":"55 Hammerland Way",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 5848",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "connectivity",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X34GnNTAdbmt4lv0GRSxd_41.502793_-71.284631@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313223,
+    "wof:geomhash":"0d3c846d057455e346da05a6590fdb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874234165
+        }
+    ],
+    "wof:id":874234165,
+    "wof:lastmodified":1464313223,
+    "wof:name":"Towerstream Corporation",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "connectivity",
+        "internet"
+    ]
+},
+  "bbox": [
+    -71.284631,
+    41.502793,
+    -71.284631,
+    41.502793
+],
+  "geometry": {"coordinates":[-71.284631,41.502793],"type":"Point"}
+}

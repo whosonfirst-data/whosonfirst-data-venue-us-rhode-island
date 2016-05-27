@@ -1,0 +1,86 @@
+{
+  "id": 874289909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.391948,41.868323,-71.391948,41.868323",
+    "geom:latitude":41.868323,
+    "geom:longitude":-71.391948,
+    "iso:country":"US",
+    "sg:address":"277 West Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 335 3333",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "yard",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58K4JViaYbAN55iF7sGFEx_41.868323_-71.391948@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315009,
+    "wof:geomhash":"8f8ed660377d9a33ab84f7facfadbf55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289909
+        }
+    ],
+    "wof:id":874289909,
+    "wof:lastmodified":1464315009,
+    "wof:name":"Replacement Auto Rental Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "yard",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.391948,
+    41.868323,
+    -71.391948,
+    41.868323
+],
+  "geometry": {"coordinates":[-71.391948,41.868323],"type":"Point"}
+}

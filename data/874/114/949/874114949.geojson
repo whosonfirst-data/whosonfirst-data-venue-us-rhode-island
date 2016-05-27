@@ -1,0 +1,71 @@
+{
+  "id": 874114949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448288,41.873352,-71.448288,41.873352",
+    "geom:latitude":41.873352,
+    "geom:longitude":-71.448288,
+    "iso:country":"US",
+    "sg:address":"408 Angell Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8877",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jsSQStYEQrw9H98zfbVJv_41.873352_-71.448288@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311987,
+    "wof:geomhash":"a1471edcce5f3aca50916bed8c96a724",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874114949
+        }
+    ],
+    "wof:id":874114949,
+    "wof:lastmodified":1464311987,
+    "wof:name":"All Star Electric",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.448288,
+    41.873352,
+    -71.448288,
+    41.873352
+],
+  "geometry": {"coordinates":[-71.44828800000001,41.873352],"type":"Point"}
+}

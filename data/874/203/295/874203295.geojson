@@ -1,0 +1,73 @@
+{
+  "id": 874203295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498364,41.875887,-71.498364,41.875887",
+    "geom:latitude":41.875887,
+    "geom:longitude":-71.498364,
+    "iso:country":"US",
+    "sg:address":"308 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1490",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDrZ2ngfQDlt5hmCWBAuP_41.875887_-71.498364@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312877,
+    "wof:geomhash":"0312bac8f553455e185f8f70cba3080d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874203295
+        }
+    ],
+    "wof:id":874203295,
+    "wof:lastmodified":1464312877,
+    "wof:name":"Murphy's Service Ctr",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.498364,
+    41.875887,
+    -71.498364,
+    41.875887
+],
+  "geometry": {"coordinates":[-71.498364,41.875887],"type":"Point"}
+}

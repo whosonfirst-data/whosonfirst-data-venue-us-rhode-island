@@ -1,0 +1,88 @@
+{
+  "id": 873990345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407401,41.842682,-71.407401,41.842682",
+    "geom:latitude":41.842682,
+    "geom:longitude":-71.407401,
+    "iso:country":"US",
+    "sg:address":"825 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 9700",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bgnBPef1xQgjMKc6qZ0Ba_41.842682_-71.407401@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310692,
+    "wof:geomhash":"9739065bcd60f93a4c094970814b093d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":873990345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":873990345
+        }
+    ],
+    "wof:id":873990345,
+    "wof:lastmodified":1464310692,
+    "wof:name":"Radiation Oncology Assoc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.407401,
+    41.842682,
+    -71.407401,
+    41.842682
+],
+  "geometry": {"coordinates":[-71.40740099999999,41.842682],"type":"Point"}
+}

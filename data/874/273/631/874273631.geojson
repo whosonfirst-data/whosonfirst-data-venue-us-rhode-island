@@ -1,0 +1,81 @@
+{
+  "id": 874273631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443898,41.782193,-71.443898,41.782193",
+    "geom:latitude":41.782193,
+    "geom:longitude":-71.443898,
+    "iso:country":"US",
+    "sg:address":"1047 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 9700",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BbGXBSadHKscaErPauPsD_41.782193_-71.443898@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314350,
+    "wof:geomhash":"19def5909a200572b308e6b52a00661e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874273631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874273631
+        }
+    ],
+    "wof:id":874273631,
+    "wof:lastmodified":1464314350,
+    "wof:name":"Columbian Realty Corp Cranston",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.443898,
+    41.782193,
+    -71.443898,
+    41.782193
+],
+  "geometry": {"coordinates":[-71.443898,41.782193],"type":"Point"}
+}

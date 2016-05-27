@@ -1,0 +1,71 @@
+{
+  "id": 874294033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.683296,41.5093,-71.683296,41.5093",
+    "geom:latitude":41.5093,
+    "geom:longitude":-71.683296,
+    "iso:country":"US",
+    "sg:address":"60 Kingstown Rd",
+    "sg:city":"Richmond",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2200",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mini"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qocQ321MrqG8X9IiMPn9P_41.509300_-71.683296@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315158,
+    "wof:geomhash":"7cd350834abb89883a4fabdd0d10c6bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874294033
+        }
+    ],
+    "wof:id":874294033,
+    "wof:lastmodified":1464315158,
+    "wof:name":"Golf Central Driving Range & Miniature Golf",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mini"
+    ]
+},
+  "bbox": [
+    -71.683296,
+    41.5093,
+    -71.683296,
+    41.5093
+],
+  "geometry": {"coordinates":[-71.683296,41.5093],"type":"Point"}
+}

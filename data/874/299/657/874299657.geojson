@@ -1,0 +1,79 @@
+{
+  "id": 874299657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452212,41.863624,-71.452212,41.863624",
+    "geom:latitude":41.863624,
+    "geom:longitude":-71.452212,
+    "iso:country":"US",
+    "sg:address":"1665 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3113",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MYzYDTCdKLySj4QZkV46J_41.863624_-71.452212@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315377,
+    "wof:geomhash":"02c17bc25cbb02bea20a299614ed1ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299657
+        }
+    ],
+    "wof:id":874299657,
+    "wof:lastmodified":1464315377,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.452212,
+    41.863624,
+    -71.452212,
+    41.863624
+],
+  "geometry": {"coordinates":[-71.452212,41.863624],"type":"Point"}
+}

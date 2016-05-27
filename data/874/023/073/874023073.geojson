@@ -1,0 +1,69 @@
+{
+  "id": 874023073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26915,41.720656,-71.26915,41.720656",
+    "geom:latitude":41.720656,
+    "geom:longitude":-71.26915,
+    "iso:country":"US",
+    "sg:address":"47 Patterson Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0414",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uK0XYnJLx2KchPXDjChdW_41.720656_-71.269150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310974,
+    "wof:geomhash":"b5884b9d6db5bbd5b8b64372c0e02d96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874023073
+        }
+    ],
+    "wof:id":874023073,
+    "wof:lastmodified":1464310974,
+    "wof:name":"Santas Helper Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.26915,
+    41.720656,
+    -71.26915,
+    41.720656
+],
+  "geometry": {"coordinates":[-71.26915,41.720656],"type":"Point"}
+}

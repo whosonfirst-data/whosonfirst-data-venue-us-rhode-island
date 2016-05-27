@@ -1,0 +1,75 @@
+{
+  "id": 874123339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403813,41.756218,-71.403813,41.756218",
+    "geom:latitude":41.756218,
+    "geom:longitude":-71.403813,
+    "iso:country":"US",
+    "sg:address":"333 Atlantic Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4114",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KjvZyrJ4bUwRX2elktI1T_41.756218_-71.403813@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312071,
+    "wof:geomhash":"528e4ef4d9415282ef4b5977540b0dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874123339
+        }
+    ],
+    "wof:id":874123339,
+    "wof:lastmodified":1464312071,
+    "wof:name":"Armenian Students Assn Amer",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.403813,
+    41.756218,
+    -71.403813,
+    41.756218
+],
+  "geometry": {"coordinates":[-71.403813,41.756218],"type":"Point"}
+}

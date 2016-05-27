@@ -1,0 +1,77 @@
+{
+  "id": 874199003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408342,41.823191,-71.408342,41.823191",
+    "geom:latitude":41.823191,
+    "geom:longitude":-71.408342,
+    "iso:country":"US",
+    "sg:address":"101 Dyer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 2221",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pGhjEch9nex7zwDo4A0J1_41.823191_-71.408342@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312835,
+    "wof:geomhash":"7f0674b23b1c5daa8caf13074996ffce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874199003
+        }
+    ],
+    "wof:id":874199003,
+    "wof:lastmodified":1464312835,
+    "wof:name":"Signet Investment Advisory Grp",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -71.408342,
+    41.823191,
+    -71.408342,
+    41.823191
+],
+  "geometry": {"coordinates":[-71.408342,41.823191],"type":"Point"}
+}

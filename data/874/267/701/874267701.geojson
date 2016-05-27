@@ -1,0 +1,82 @@
+{
+  "id": 874267701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249849,41.49857,-71.249849,41.49857",
+    "geom:latitude":41.49857,
+    "geom:longitude":-71.249849,
+    "iso:country":"US",
+    "sg:address":"583 Third Beach Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 2577",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wild",
+        "life",
+        "sanctuary",
+        "bird",
+        "refuge"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hVywzHBxzX1p7bhCxS4TI_41.498570_-71.249849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314140,
+    "wof:geomhash":"b87f81dc77f3679bf7240d84ffb6b658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874267701
+        }
+    ],
+    "wof:id":874267701,
+    "wof:lastmodified":1464314140,
+    "wof:name":"Norman Bird Sanctuary",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wild",
+        "life",
+        "sanctuary",
+        "bird",
+        "refuge"
+    ]
+},
+  "bbox": [
+    -71.249849,
+    41.49857,
+    -71.249849,
+    41.49857
+],
+  "geometry": {"coordinates":[-71.249849,41.49857],"type":"Point"}
+}

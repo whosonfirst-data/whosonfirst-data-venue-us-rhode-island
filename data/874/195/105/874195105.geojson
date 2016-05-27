@@ -1,0 +1,71 @@
+{
+  "id": 874195105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458339,41.586722,-71.458339,41.586722",
+    "geom:latitude":41.586722,
+    "geom:longitude":-71.458339,
+    "iso:country":"US",
+    "sg:address":"7700 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0600",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "small",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AW3muBlmVRJqD218LjO7J_41.586722_-71.458339@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312795,
+    "wof:geomhash":"acb363fe6a8b645ee75b4597db2aae6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874195105
+        }
+    ],
+    "wof:id":874195105,
+    "wof:lastmodified":1464312795,
+    "wof:name":"Dons Mower & Power Equipment",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "small",
+        "engine"
+    ]
+},
+  "bbox": [
+    -71.458339,
+    41.586722,
+    -71.458339,
+    41.586722
+],
+  "geometry": {"coordinates":[-71.458339,41.586722],"type":"Point"}
+}

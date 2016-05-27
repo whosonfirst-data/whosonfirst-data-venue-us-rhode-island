@@ -1,0 +1,73 @@
+{
+  "id": 874277859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462334,41.910236,-71.462334,41.910236",
+    "geom:latitude":41.910236,
+    "geom:longitude":-71.462334,
+    "iso:country":"US",
+    "sg:address":"16 Bridle Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 3762",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carwash",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eP8cpphzFSCbO1PwygVbc_41.910236_-71.462334@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314534,
+    "wof:geomhash":"c53e51f11781a9eb93cd13099f5208e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874277859
+        }
+    ],
+    "wof:id":874277859,
+    "wof:lastmodified":1464314534,
+    "wof:name":"Shell",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.462334,
+    41.910236,
+    -71.462334,
+    41.910236
+],
+  "geometry": {"coordinates":[-71.462334,41.910236],"type":"Point"}
+}

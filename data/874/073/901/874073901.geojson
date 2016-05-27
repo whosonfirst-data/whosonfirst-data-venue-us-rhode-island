@@ -1,0 +1,73 @@
+{
+  "id": 874073901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471322,41.826874,-71.471322,41.826874",
+    "geom:latitude":41.826874,
+    "geom:longitude":-71.471322,
+    "iso:country":"US",
+    "sg:address":"39 Dyerville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 6129",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RInmeFNXRJvbq7vMzpy9E_41.826874_-71.471322@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311493,
+    "wof:geomhash":"c4c68cdc0ec49977950b31326d4c50a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874073901
+        }
+    ],
+    "wof:id":874073901,
+    "wof:lastmodified":1464311493,
+    "wof:name":"Metals Recycling LLC",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.471322,
+    41.826874,
+    -71.471322,
+    41.826874
+],
+  "geometry": {"coordinates":[-71.471322,41.826874],"type":"Point"}
+}

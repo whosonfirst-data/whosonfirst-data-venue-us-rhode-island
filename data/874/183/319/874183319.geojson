@@ -1,0 +1,81 @@
+{
+  "id": 874183319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463981,41.729116,-71.463981,41.729116",
+    "geom:latitude":41.729116,
+    "geom:longitude":-71.463981,
+    "iso:country":"US",
+    "sg:address":"170 Knight St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 6305",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "repair",
+        "dishwasher",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZF5ICKLv4H6aaCSapzJfj_41.729116_-71.463981@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312668,
+    "wof:geomhash":"38ff0600977703c876171077546096ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874183319
+        }
+    ],
+    "wof:id":874183319,
+    "wof:lastmodified":1464312668,
+    "wof:name":"Dish Doctors Inc",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "repair",
+        "dishwasher",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -71.463981,
+    41.729116,
+    -71.463981,
+    41.729116
+],
+  "geometry": {"coordinates":[-71.463981,41.729116],"type":"Point"}
+}

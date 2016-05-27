@@ -1,0 +1,75 @@
+{
+  "id": 874270951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445229,41.752404,-71.445229,41.752404",
+    "geom:latitude":41.752404,
+    "geom:longitude":-71.445229,
+    "iso:country":"US",
+    "sg:address":"71 Glen Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 0420",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32F2kE01kSLklpDesNS6ok_41.752404_-71.445229@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314257,
+    "wof:geomhash":"48d9d214bc80efecc7de13c247f71b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874270951
+        }
+    ],
+    "wof:id":874270951,
+    "wof:lastmodified":1464314257,
+    "wof:name":"V & H Auto Repair Inc",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.445229,
+    41.752404,
+    -71.445229,
+    41.752404
+],
+  "geometry": {"coordinates":[-71.445229,41.752404],"type":"Point"}
+}

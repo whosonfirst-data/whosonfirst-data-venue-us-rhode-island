@@ -1,0 +1,79 @@
+{
+  "id": 874139565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426707,41.845424,-71.426707,41.845424",
+    "geom:latitude":41.845424,
+    "geom:longitude":-71.426707,
+    "iso:country":"US",
+    "sg:address":"328 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 7003",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21BJEMcvAnGXuVZv08mVt3_41.845424_-71.426707@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312231,
+    "wof:geomhash":"64313fe640ff1977f2eb8b653cbf54e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874139565
+        }
+    ],
+    "wof:id":874139565,
+    "wof:lastmodified":1464312231,
+    "wof:name":"Alarm Communication Elect Syst",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.426707,
+    41.845424,
+    -71.426707,
+    41.845424
+],
+  "geometry": {"coordinates":[-71.42670699999999,41.845424],"type":"Point"}
+}

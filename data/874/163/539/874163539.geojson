@@ -1,0 +1,90 @@
+{
+  "id": 874163539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434013,41.772709,-71.434013,41.772709",
+    "geom:latitude":41.772709,
+    "geom:longitude":-71.434013,
+    "iso:country":"US",
+    "sg:address":"100 Arthur St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 7210",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w3lKSn9QVObH7mIG7Yh01_41.772709_-71.434013@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312465,
+    "wof:geomhash":"b0559a36bfe717e21ef12a568b9bbd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874163539
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874163539
+        }
+    ],
+    "wof:id":874163539,
+    "wof:lastmodified":1464312465,
+    "wof:name":"Budlong Manor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.434013,
+    41.772709,
+    -71.434013,
+    41.772709
+],
+  "geometry": {"coordinates":[-71.43401299999999,41.772709],"type":"Point"}
+}

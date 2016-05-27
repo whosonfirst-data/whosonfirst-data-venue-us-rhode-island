@@ -1,0 +1,80 @@
+{
+  "id": 874266609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307859,41.725741,-71.307859,41.725741",
+    "geom:latitude":41.725741,
+    "geom:longitude":-71.307859,
+    "iso:country":"US",
+    "sg:address":"75 Highland Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3320",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "program",
+        "health",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eaOW48Qsnk28djH9FzLM7_41.725741_-71.307859@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314092,
+    "wof:geomhash":"a2f93afe10439ea3eebf17ff93940d12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874266609
+        }
+    ],
+    "wof:id":874266609,
+    "wof:lastmodified":1464314092,
+    "wof:name":"Health Care & Clinical RES",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "program",
+        "health",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -71.307859,
+    41.725741,
+    -71.307859,
+    41.725741
+],
+  "geometry": {"coordinates":[-71.30785899999999,41.725741],"type":"Point"}
+}

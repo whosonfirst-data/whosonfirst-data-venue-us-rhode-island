@@ -1,0 +1,78 @@
+{
+  "id": 874286979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458029,41.431006,-71.458029,41.431006",
+    "geom:latitude":41.431006,
+    "geom:longitude":-71.458029,
+    "iso:country":"US",
+    "sg:address":"13",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/narragansett/12045-pier-pizza-company/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9393",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54vxeEOYLuElXiJ9TtkF1c_41.431006_-71.458029@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"2e538b38034c7f7fbf206b1711f22431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874286979
+        }
+    ],
+    "wof:id":874286979,
+    "wof:lastmodified":1464314889,
+    "wof:name":"Pier Pizza Company",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.458029,
+    41.431006,
+    -71.458029,
+    41.431006
+],
+  "geometry": {"coordinates":[-71.458029,41.431006],"type":"Point"}
+}

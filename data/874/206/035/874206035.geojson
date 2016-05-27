@@ -1,0 +1,71 @@
+{
+  "id": 874206035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278609,41.488284,-71.278609,41.488284",
+    "geom:latitude":41.488284,
+    "geom:longitude":-71.278609,
+    "iso:country":"US",
+    "sg:address":"244 Allston Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 7930",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfCVaaXKHzu69akM1j7eV_41.488284_-71.278609@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312904,
+    "wof:geomhash":"9b2c29b7c3493b9e3abf6c1b4cc6cea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874206035
+        }
+    ],
+    "wof:id":874206035,
+    "wof:lastmodified":1464312904,
+    "wof:name":"Aquidneck Electric",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.278609,
+    41.488284,
+    -71.278609,
+    41.488284
+],
+  "geometry": {"coordinates":[-71.278609,41.488284],"type":"Point"}
+}

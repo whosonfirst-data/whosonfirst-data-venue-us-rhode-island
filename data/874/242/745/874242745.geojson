@@ -1,0 +1,75 @@
+{
+  "id": 874242745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.364505,41.807325,-71.364505,41.807325",
+    "geom:latitude":41.807325,
+    "geom:longitude":-71.364505,
+    "iso:country":"US",
+    "sg:address":"162 Brown St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 6110",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCcN1bLpgTRHpay07PvDq_41.807325_-71.364505@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313390,
+    "wof:geomhash":"dc16c008f1a4ab6e6beef6faf02c86c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":874242745
+        }
+    ],
+    "wof:id":874242745,
+    "wof:lastmodified":1464313390,
+    "wof:name":"Mec Cleaning Services Inc",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.364505,
+    41.807325,
+    -71.364505,
+    41.807325
+],
+  "geometry": {"coordinates":[-71.36450499999999,41.807325],"type":"Point"}
+}

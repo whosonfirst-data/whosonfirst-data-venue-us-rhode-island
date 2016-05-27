@@ -1,0 +1,75 @@
+{
+  "id": 874262147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.347736,41.811296,-71.347736,41.811296",
+    "geom:latitude":41.811296,
+    "geom:longitude":-71.347736,
+    "iso:country":"US",
+    "sg:address":"750 Waterman Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 7600",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YAkVJoWpBxVcmVCes0qOR_41.811296_-71.347736@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313930,
+    "wof:geomhash":"a76fd01889289fe9c071361825d51e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874262147
+        }
+    ],
+    "wof:id":874262147,
+    "wof:lastmodified":1464313930,
+    "wof:name":"East Providence Police Chief",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.347736,
+    41.811296,
+    -71.347736,
+    41.811296
+],
+  "geometry": {"coordinates":[-71.347736,41.811296],"type":"Point"}
+}

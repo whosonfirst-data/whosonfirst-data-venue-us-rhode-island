@@ -1,0 +1,77 @@
+{
+  "id": 874106839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394854,41.849375,-71.394854,41.849375",
+    "geom:latitude":41.849375,
+    "geom:longitude":-71.394854,
+    "iso:country":"US",
+    "sg:address":"836 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 6555",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocery",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BAl8hnxJGfnISfl4USxS3_41.849375_-71.394854@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311881,
+    "wof:geomhash":"89f3873b958d31c827aec284c5cb6eea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874106839
+        }
+    ],
+    "wof:id":874106839,
+    "wof:lastmodified":1464311881,
+    "wof:name":"Not Just Spices",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.394854,
+    41.849375,
+    -71.394854,
+    41.849375
+],
+  "geometry": {"coordinates":[-71.394854,41.849375],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 874288145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440532,41.78165,-71.440532,41.78165",
+    "geom:latitude":41.78165,
+    "geom:longitude":-71.440532,
+    "iso:country":"US",
+    "sg:address":"640 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/247222-spikes-junk-yard-dogs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 7556",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZcDugMvtpcva04S26dZd3_41.781826_-71.440235@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314941,
+    "wof:geomhash":"36fe1d625574da40ed92cc70e2bbd880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874288145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874288145
+        }
+    ],
+    "wof:id":874288145,
+    "wof:lastmodified":1464314941,
+    "wof:name":"Spike's Junk Yard Dogs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -71.440532,
+    41.78165,
+    -71.440532,
+    41.78165
+],
+  "geometry": {"coordinates":[-71.440532,41.78165],"type":"Point"}
+}

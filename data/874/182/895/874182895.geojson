@@ -1,0 +1,73 @@
+{
+  "id": 874182895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.674194,41.963045,-71.674194,41.963045",
+    "geom:latitude":41.963045,
+    "geom:longitude":-71.674194,
+    "iso:country":"US",
+    "sg:address":"266 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 241 6952",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F6TYN9QsYp8qXsjdWJlHP_41.963045_-71.674194@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312659,
+    "wof:geomhash":"5c23a2d029822de1e6b1e24551c8375b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874182895
+        }
+    ],
+    "wof:id":874182895,
+    "wof:lastmodified":1464312659,
+    "wof:name":"Advanced Furniture Repair",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.674194,
+    41.963045,
+    -71.674194,
+    41.963045
+],
+  "geometry": {"coordinates":[-71.674194,41.963045],"type":"Point"}
+}

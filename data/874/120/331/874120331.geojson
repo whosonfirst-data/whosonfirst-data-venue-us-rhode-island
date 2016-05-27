@@ -1,0 +1,79 @@
+{
+  "id": 874120331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421015,41.791203,-71.421015,41.791203",
+    "geom:latitude":41.791203,
+    "geom:longitude":-71.421015,
+    "iso:country":"US",
+    "sg:address":"172 Longfellow St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 1492",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LbA2LJCVUWZtOIPnikcEu_41.791203_-71.421015@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312044,
+    "wof:geomhash":"3fe4542d017a2ee875521b4e8445dcab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874120331
+        }
+    ],
+    "wof:id":874120331,
+    "wof:lastmodified":1464312044,
+    "wof:name":"United Steel Workers Local",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.421015,
+    41.791203,
+    -71.421015,
+    41.791203
+],
+  "geometry": {"coordinates":[-71.421015,41.791203],"type":"Point"}
+}

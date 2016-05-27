@@ -1,0 +1,76 @@
+{
+  "id": 874301365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400611,41.828126,-71.400611,41.828126",
+    "geom:latitude":41.828126,
+    "geom:longitude":-71.400611,
+    "iso:country":"US",
+    "sg:address":"178 Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 2503",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "sg:website":"www.chipotle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6es6n2RIRtXFmrSG9qiQjs_41.828126_-71.400611@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315443,
+    "wof:geomhash":"41204758db60f165a31c1207f39359f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301365
+        }
+    ],
+    "wof:id":874301365,
+    "wof:lastmodified":1464315443,
+    "wof:name":"Chipotle",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.400611,
+    41.828126,
+    -71.400611,
+    41.828126
+],
+  "geometry": {"coordinates":[-71.400611,41.828126],"type":"Point"}
+}

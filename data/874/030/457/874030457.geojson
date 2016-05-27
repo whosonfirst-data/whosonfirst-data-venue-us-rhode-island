@@ -1,0 +1,71 @@
+{
+  "id": 874030457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251121,41.736692,-71.251121,41.736692",
+    "geom:latitude":41.736692,
+    "geom:longitude":-71.251121,
+    "iso:country":"US",
+    "sg:address":"6 Prudence Ln",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2227",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yDQUoERnwFKDGMluzyFLD_41.736692_-71.251121@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311053,
+    "wof:geomhash":"578c01c295d5f811ea95169faf3fd601",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874030457
+        }
+    ],
+    "wof:id":874030457,
+    "wof:lastmodified":1464311053,
+    "wof:name":"Staton's Landscaping Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.251121,
+    41.736692,
+    -71.251121,
+    41.736692
+],
+  "geometry": {"coordinates":[-71.251121,41.736692],"type":"Point"}
+}

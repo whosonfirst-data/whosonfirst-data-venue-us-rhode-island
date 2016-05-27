@@ -1,0 +1,82 @@
+{
+  "id": 874305041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462103,41.778677,-71.462103,41.778677",
+    "geom:latitude":41.778677,
+    "geom:longitude":-71.462103,
+    "iso:country":"US",
+    "sg:address":"84 N View Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 9997",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "limousine",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gRkHqWU1uhmjLNjhNGgOC_41.778677_-71.462103@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315565,
+    "wof:geomhash":"41e9ebe3e3bdc6167ec40c443be45e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874305041
+        }
+    ],
+    "wof:id":874305041,
+    "wof:lastmodified":1464315565,
+    "wof:name":"Car One Transportation",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine",
+        "public"
+    ]
+},
+  "bbox": [
+    -71.462103,
+    41.778677,
+    -71.462103,
+    41.778677
+],
+  "geometry": {"coordinates":[-71.462103,41.778677],"type":"Point"}
+}

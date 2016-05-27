@@ -1,0 +1,89 @@
+{
+  "id": 874293521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379471,41.720982,-71.379471,41.720982",
+    "geom:latitude":41.720982,
+    "geom:longitude":-71.379471,
+    "iso:country":"US",
+    "sg:address":"26 Fuller St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 965 8278",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "insulation",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540465,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JivlNSS0DETup0W84oHqX_41.720982_-71.379471@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315141,
+    "wof:geomhash":"cdb28f602aed483f68c26a420dd45113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540465,
+            "region_id":85688509,
+            "venue_id":874293521
+        }
+    ],
+    "wof:id":874293521,
+    "wof:lastmodified":1464315141,
+    "wof:name":"R J L Insulation Home Improvement",
+    "wof:parent_id":420540465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.379471,
+    41.720982,
+    -71.379471,
+    41.720982
+],
+  "geometry": {"coordinates":[-71.379471,41.720982],"type":"Point"}
+}

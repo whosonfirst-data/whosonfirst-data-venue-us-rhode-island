@@ -1,0 +1,71 @@
+{
+  "id": 874157921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414431,41.636529,-71.414431,41.636529",
+    "geom:latitude":41.636529,
+    "geom:longitude":-71.414431,
+    "iso:country":"US",
+    "sg:address":"130 Lincoln St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 7056",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shellfish",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85835761,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sqtqglPC6CroibSrAvnQc_41.636529_-71.414431@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312407,
+    "wof:geomhash":"ccb28921a2aa6fdac2401e8c9870581a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85835761,
+            "region_id":85688509,
+            "venue_id":874157921
+        }
+    ],
+    "wof:id":874157921,
+    "wof:lastmodified":1464312407,
+    "wof:name":"Arnolds Neck Shellfisher",
+    "wof:parent_id":85835761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shellfish",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.414431,
+    41.636529,
+    -71.414431,
+    41.636529
+],
+  "geometry": {"coordinates":[-71.41443099999999,41.636529],"type":"Point"}
+}

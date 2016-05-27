@@ -1,0 +1,75 @@
+{
+  "id": 874299157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420569,41.850393,-71.420569,41.850393",
+    "geom:latitude":41.850393,
+    "geom:longitude":-71.420569,
+    "iso:country":"US",
+    "sg:address":"456 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 6962",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Se1JpQ5FBmd5iX8IJuOxu_41.850393_-71.420569@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315359,
+    "wof:geomhash":"9887d5a95e7b00af32173da6dedf1ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299157
+        }
+    ],
+    "wof:id":874299157,
+    "wof:lastmodified":1464315359,
+    "wof:name":"Riteaid Store 10249",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.420569,
+    41.850393,
+    -71.420569,
+    41.850393
+],
+  "geometry": {"coordinates":[-71.420569,41.850393],"type":"Point"}
+}

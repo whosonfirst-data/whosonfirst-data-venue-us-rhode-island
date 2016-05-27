@@ -1,0 +1,77 @@
+{
+  "id": 874054063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192047,41.65858,-71.192047,41.65858",
+    "geom:latitude":41.65858,
+    "geom:longitude":-71.192047,
+    "iso:country":"US",
+    "sg:address":"560 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 6000",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838113,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hJp0wmap5wWArV3Kv6zL6_41.658580_-71.192047@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311279,
+    "wof:geomhash":"5578efbda38e08693dfed68f4903ab7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85838113,
+            "region_id":85688509,
+            "venue_id":874054063
+        }
+    ],
+    "wof:id":874054063,
+    "wof:lastmodified":1464311279,
+    "wof:name":"Sakonnet Auto Svc",
+    "wof:parent_id":85838113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.192047,
+    41.65858,
+    -71.192047,
+    41.65858
+],
+  "geometry": {"coordinates":[-71.192047,41.65858],"type":"Point"}
+}

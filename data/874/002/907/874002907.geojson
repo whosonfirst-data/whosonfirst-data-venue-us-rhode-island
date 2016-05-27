@@ -1,0 +1,79 @@
+{
+  "id": 874002907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439547,41.746384,-71.439547,41.746384",
+    "geom:latitude":41.746384,
+    "geom:longitude":-71.439547,
+    "iso:country":"US",
+    "sg:address":"241 Lincoln Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 1216",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72y17JGjZiNV4RAY6oIA67_41.746384_-71.439547@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310790,
+    "wof:geomhash":"a03688319d5ded6452478279c6c299ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874002907
+        }
+    ],
+    "wof:id":874002907,
+    "wof:lastmodified":1464310790,
+    "wof:name":"National Auto Specialty",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.439547,
+    41.746384,
+    -71.439547,
+    41.746384
+],
+  "geometry": {"coordinates":[-71.439547,41.746384],"type":"Point"}
+}

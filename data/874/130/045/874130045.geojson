@@ -1,0 +1,86 @@
+{
+  "id": 874130045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384026,41.693709,-71.384026,41.693709",
+    "geom:latitude":41.693709,
+    "geom:longitude":-71.384026,
+    "iso:country":"US",
+    "sg:address":"28 Slater Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 0284",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838995,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Axh3yTqlfR3MZ679fQ71i_41.693709_-71.384026@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312137,
+    "wof:geomhash":"557eeb932c67cb37ba0814570fcbda59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838995,
+            "region_id":85688509,
+            "venue_id":874130045
+        }
+    ],
+    "wof:id":874130045,
+    "wof:lastmodified":1464312137,
+    "wof:name":"Eric Jackson Chimney Service",
+    "wof:parent_id":85838995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fireplace",
+        "chimney",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.384026,
+    41.693709,
+    -71.384026,
+    41.693709
+],
+  "geometry": {"coordinates":[-71.38402600000001,41.693709],"type":"Point"}
+}

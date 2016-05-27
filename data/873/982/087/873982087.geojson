@@ -1,0 +1,75 @@
+{
+  "id": 873982087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.36641,41.820444,-71.36641,41.820444",
+    "geom:latitude":41.820444,
+    "geom:longitude":-71.36641,
+    "iso:country":"US",
+    "sg:address":"328 Taunton Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 8226",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vj8eR3eISefbgb8DThEea_41.820444_-71.366410@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310620,
+    "wof:geomhash":"475f3030bf52f37aef45c3c81b4c5b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":873982087
+        }
+    ],
+    "wof:id":873982087,
+    "wof:lastmodified":1464310620,
+    "wof:name":"Alex Mandel MD",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.36641,
+    41.820444,
+    -71.36641,
+    41.820444
+],
+  "geometry": {"coordinates":[-71.36641,41.820444],"type":"Point"}
+}

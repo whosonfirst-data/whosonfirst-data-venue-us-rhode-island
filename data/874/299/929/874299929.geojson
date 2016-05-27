@@ -1,0 +1,112 @@
+{
+  "id": 874299929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410587,41.79493,-71.410587,41.79493",
+    "geom:latitude":41.79493,
+    "geom:longitude":-71.410587,
+    "iso:country":"US",
+    "sg:address":"1125 BROAD ST",
+    "sg:city":"PROVIDENCE",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 223 0438",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ],
+    "sg:website":"http://www.rentacenter.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tUUXn1q5CZxHfrGYke3Jb_41.794930_-71.410587@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315386,
+    "wof:geomhash":"873f8b6273548ab774c00596c8c1ebaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874299929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874299929
+        }
+    ],
+    "wof:id":874299929,
+    "wof:lastmodified":1464315386,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "television",
+        "leasing",
+        "radio-renting",
+        "equipment",
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.410587,
+    41.79493,
+    -71.410587,
+    41.79493
+],
+  "geometry": {"coordinates":[-71.41058700000001,41.79493],"type":"Point"}
+}

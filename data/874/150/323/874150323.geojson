@@ -1,0 +1,71 @@
+{
+  "id": 874150323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.548639,41.914273,-71.548639,41.914273",
+    "geom:latitude":41.914273,
+    "geom:longitude":-71.548639,
+    "iso:country":"US",
+    "sg:address":"1 Industrial Dr S",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4400",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laser",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a45ectu3jSOEpjXXXP2b7_41.914273_-71.548639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"a401547690d7d8dd090090cb1e3e08de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874150323
+        }
+    ],
+    "wof:id":874150323,
+    "wof:lastmodified":1464312331,
+    "wof:name":"LASER Fare Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laser",
+        "dev"
+    ]
+},
+  "bbox": [
+    -71.548639,
+    41.914273,
+    -71.548639,
+    41.914273
+],
+  "geometry": {"coordinates":[-71.54863899999999,41.914273],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873980977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455528,41.69932,-71.455528,41.69932",
+    "geom:latitude":41.69932,
+    "geom:longitude":-71.455528,
+    "iso:country":"US",
+    "sg:address":"121 Prospect St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 8883",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NYrgxpl8DMEpOWwI7HQGR_41.699320_-71.455528@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310601,
+    "wof:geomhash":"3ca0b7c0dd84432a581a0eabf31da9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":873980977
+        }
+    ],
+    "wof:id":873980977,
+    "wof:lastmodified":1464310601,
+    "wof:name":"Allen Engineering Inc",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.455528,
+    41.69932,
+    -71.455528,
+    41.69932
+],
+  "geometry": {"coordinates":[-71.455528,41.69932],"type":"Point"}
+}

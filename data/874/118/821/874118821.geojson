@@ -1,0 +1,69 @@
+{
+  "id": 874118821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535674,41.867962,-71.535674,41.867962",
+    "geom:latitude":41.867962,
+    "geom:longitude":-71.535674,
+    "iso:country":"US",
+    "sg:address":"15 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5799",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12aJS9SzKHVY49aj6rZ7ry_41.867962_-71.535674@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312023,
+    "wof:geomhash":"47a52fb5ddf530a3bcf3fe7d6999c3bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874118821
+        }
+    ],
+    "wof:id":874118821,
+    "wof:lastmodified":1464312023,
+    "wof:name":"L & R Company",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.535674,
+    41.867962,
+    -71.535674,
+    41.867962
+],
+  "geometry": {"coordinates":[-71.535674,41.867962],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874284513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.369904,41.869801,-71.369904,41.869801",
+    "geom:latitude":41.869801,
+    "geom:longitude":-71.369904,
+    "iso:country":"US",
+    "sg:address":"49 Sharon Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 6030",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47tn4x1uDVhOkU1XX1Ot55_41.869380_-71.370064@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314791,
+    "wof:geomhash":"0df446d3fa39bf45162efecc4f636600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874284513
+        }
+    ],
+    "wof:id":874284513,
+    "wof:lastmodified":1464314791,
+    "wof:name":"M O Performance Auto Repair",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.369904,
+    41.869801,
+    -71.369904,
+    41.869801
+],
+  "geometry": {"coordinates":[-71.36990400000001,41.869801],"type":"Point"}
+}

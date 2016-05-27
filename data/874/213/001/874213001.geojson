@@ -1,0 +1,64 @@
+{
+  "id": 874213001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546304,41.681329,-71.546304,41.681329",
+    "geom:latitude":41.681329,
+    "geom:longitude":-71.546304,
+    "iso:country":"US",
+    "sg:address":"91 E Shore Dr",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 2270",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_500swQY4VL6y1215lV3eKS_41.681329_-71.546304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312984,
+    "wof:geomhash":"a1306546c1c8a3ad77536c8b9d26b81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874213001
+        }
+    ],
+    "wof:id":874213001,
+    "wof:lastmodified":1464312984,
+    "wof:name":"Ye Ol Book Shoppe",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.546304,
+    41.681329,
+    -71.546304,
+    41.681329
+],
+  "geometry": {"coordinates":[-71.54630400000001,41.681329],"type":"Point"}
+}

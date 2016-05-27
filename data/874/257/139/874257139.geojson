@@ -1,0 +1,82 @@
+{
+  "id": 874257139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400483,41.701078,-71.400483,41.701078",
+    "geom:latitude":41.701078,
+    "geom:longitude":-71.400483,
+    "iso:country":"US",
+    "sg:address":"2149 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 2379",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "transmission",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838995,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ECnj5LwTr3qkYIlPi9Wxi_41.701078_-71.400483@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313728,
+    "wof:geomhash":"f64b03408fa3dde1aae4b6c280d393fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838995,
+            "region_id":85688509,
+            "venue_id":874257139
+        }
+    ],
+    "wof:id":874257139,
+    "wof:lastmodified":1464313728,
+    "wof:name":"Robichaud Racing Enterprises",
+    "wof:parent_id":85838995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.400483,
+    41.701078,
+    -71.400483,
+    41.701078
+],
+  "geometry": {"coordinates":[-71.40048299999999,41.701078],"type":"Point"}
+}

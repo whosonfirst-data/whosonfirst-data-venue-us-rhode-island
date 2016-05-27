@@ -1,0 +1,76 @@
+{
+  "id": 874285149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413399,41.821899,-71.413399,41.821899",
+    "geom:latitude":41.821899,
+    "geom:longitude":-71.413399,
+    "iso:country":"US",
+    "sg:address":"175 Mathewson St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 3225",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.gracechurchprovidence.org/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ChenzDoOZJci5fSHVzRoP_41.821398_-71.412742@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314817,
+    "wof:geomhash":"c3915f37a7ce28ccd8905fdd94dd54f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874285149
+        }
+    ],
+    "wof:id":874285149,
+    "wof:lastmodified":1464314817,
+    "wof:name":"Grace Church",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.413399,
+    41.821899,
+    -71.413399,
+    41.821899
+],
+  "geometry": {"coordinates":[-71.413399,41.821899],"type":"Point"}
+}

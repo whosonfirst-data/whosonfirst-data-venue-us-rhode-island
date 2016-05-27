@@ -1,0 +1,71 @@
+{
+  "id": 874025117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678869,41.38308,-71.678869,41.38308",
+    "geom:latitude":41.38308,
+    "geom:longitude":-71.678869,
+    "iso:country":"US",
+    "sg:address":"42 Jacqueline Ln",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 1707",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "survey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vS02ATmGgdwJaFlkQ96fl_41.383080_-71.678869@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310998,
+    "wof:geomhash":"d727cf1d31db370ba3316b0d0255bfe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874025117
+        }
+    ],
+    "wof:id":874025117,
+    "wof:lastmodified":1464310998,
+    "wof:name":"Maritime Consultants",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "survey"
+    ]
+},
+  "bbox": [
+    -71.678869,
+    41.38308,
+    -71.678869,
+    41.38308
+],
+  "geometry": {"coordinates":[-71.67886900000001,41.38308],"type":"Point"}
+}

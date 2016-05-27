@@ -1,0 +1,71 @@
+{
+  "id": 874166033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499126,41.869407,-71.499126,41.869407",
+    "geom:latitude":41.869407,
+    "geom:longitude":-71.499126,
+    "iso:country":"US",
+    "sg:address":"7 Adams St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2733",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dY7CKprFe2AFIG3rIEXDW_41.869407_-71.499126@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312490,
+    "wof:geomhash":"b188f4877737dcea638f8e8063f341b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874166033
+        }
+    ],
+    "wof:id":874166033,
+    "wof:lastmodified":1464312490,
+    "wof:name":"Tail Waggers Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.499126,
+    41.869407,
+    -71.499126,
+    41.869407
+],
+  "geometry": {"coordinates":[-71.499126,41.869407],"type":"Point"}
+}

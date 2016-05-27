@@ -1,0 +1,83 @@
+{
+  "id": 874249913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458525,41.764423,-71.458525,41.764423",
+    "geom:latitude":41.764423,
+    "geom:longitude":-71.458525,
+    "iso:country":"US",
+    "sg:address":"69 Hillside Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 6544",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "merchandise",
+        "perfume"
+    ],
+    "sg:website":"www.bathandbodyworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vZQKIujGRD1zsrYrd8TaC_41.764423_-71.458525@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313564,
+    "wof:geomhash":"f6ee5c86f81e66c1586782723b885e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874249913
+        }
+    ],
+    "wof:id":874249913,
+    "wof:lastmodified":1464313564,
+    "wof:name":"Bath & Body Works Inc",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -71.458525,
+    41.764423,
+    -71.458525,
+    41.764423
+],
+  "geometry": {"coordinates":[-71.45852499999999,41.764423],"type":"Point"}
+}

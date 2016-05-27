@@ -1,0 +1,71 @@
+{
+  "id": 874270537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.247969,41.535959,-71.247969,41.535959",
+    "geom:latitude":41.535959,
+    "geom:longitude":-71.247969,
+    "iso:country":"US",
+    "sg:address":"582 Wapping Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Vineyard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 3268",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "farm",
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hCgt0AeNEI2K1gCTKUG0w_41.535959_-71.247969@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314243,
+    "wof:geomhash":"02ad9ce46fb1b89a70ede2bfae4595ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874270537
+        }
+    ],
+    "wof:id":874270537,
+    "wof:lastmodified":1464314243,
+    "wof:name":"Greenvale Farms",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "crop"
+    ]
+},
+  "bbox": [
+    -71.247969,
+    41.535959,
+    -71.247969,
+    41.535959
+],
+  "geometry": {"coordinates":[-71.247969,41.535959],"type":"Point"}
+}

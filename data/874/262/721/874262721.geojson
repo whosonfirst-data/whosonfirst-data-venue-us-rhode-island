@@ -1,0 +1,81 @@
+{
+  "id": 874262721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402357,41.843101,-71.402357,41.843101",
+    "geom:latitude":41.843101,
+    "geom:longitude":-71.402357,
+    "iso:country":"US",
+    "sg:address":"199 Camp St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 4398",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UAa5ElQs9LUpeINckA01h_41.843101_-71.402357@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313949,
+    "wof:geomhash":"c53dc7a1e32265ee842d40bf65d383f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874262721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874262721
+        }
+    ],
+    "wof:id":874262721,
+    "wof:lastmodified":1464313949,
+    "wof:name":"Forest Drug Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.402357,
+    41.843101,
+    -71.402357,
+    41.843101
+],
+  "geometry": {"coordinates":[-71.40235699999999,41.843101],"type":"Point"}
+}

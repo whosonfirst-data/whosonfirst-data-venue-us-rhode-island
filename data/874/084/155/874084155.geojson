@@ -1,0 +1,69 @@
+{
+  "id": 874084155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.656599,41.501112,-71.656599,41.501112",
+    "geom:latitude":41.501112,
+    "geom:longitude":-71.656599,
+    "iso:country":"US",
+    "sg:address":"252 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7294",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q5Tf50CF2M7ovfo7RzpAz_41.501112_-71.656599@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311600,
+    "wof:geomhash":"d886f8f9dc0527636225a76fa3f787e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874084155
+        }
+    ],
+    "wof:id":874084155,
+    "wof:lastmodified":1464311600,
+    "wof:name":"Richmond-Carolina Fire Station",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.656599,
+    41.501112,
+    -71.656599,
+    41.501112
+],
+  "geometry": {"coordinates":[-71.656599,41.501112],"type":"Point"}
+}

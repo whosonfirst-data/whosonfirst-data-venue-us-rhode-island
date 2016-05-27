@@ -1,0 +1,69 @@
+{
+  "id": 874219217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.297226,41.736576,-71.297226,41.736576",
+    "geom:latitude":41.736576,
+    "geom:longitude":-71.297226,
+    "iso:country":"US",
+    "sg:address":"147 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2626",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DjXLhViiwO4qTBdQJxbLr_41.736576_-71.297226@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313046,
+    "wof:geomhash":"3ae5d18b296ec6fa277f747f4b001452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874219217
+        }
+    ],
+    "wof:id":874219217,
+    "wof:lastmodified":1464313046,
+    "wof:name":"Orthodontic Partners LTD",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.297226,
+    41.736576,
+    -71.297226,
+    41.736576
+],
+  "geometry": {"coordinates":[-71.29722599999999,41.736576],"type":"Point"}
+}

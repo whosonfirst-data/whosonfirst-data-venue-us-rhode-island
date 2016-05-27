@@ -1,0 +1,71 @@
+{
+  "id": 874286549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463799,41.819199,-71.463799,41.819199",
+    "geom:latitude":41.819199,
+    "geom:longitude":-71.463799,
+    "iso:country":"US",
+    "sg:address":"583 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 4553",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VW2kzFSJ406blt9jeXFPk_41.819309_-71.463875@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314875,
+    "wof:geomhash":"be050d913a12e2a4d3ba2773c251cacf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874286549
+        }
+    ],
+    "wof:id":874286549,
+    "wof:lastmodified":1464314875,
+    "wof:name":"Metro Towing",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -71.463799,
+    41.819199,
+    -71.463799,
+    41.819199
+],
+  "geometry": {"coordinates":[-71.46379899999999,41.819199],"type":"Point"}
+}

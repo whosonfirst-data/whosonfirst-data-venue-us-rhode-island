@@ -1,0 +1,71 @@
+{
+  "id": 874103185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575472,41.394292,-71.575472,41.394292",
+    "geom:latitude":41.394292,
+    "geom:longitude":-71.575472,
+    "iso:country":"US",
+    "sg:address":"755 Moonstone Beach Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2766",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EH58szSGegbPLzTAf9m2I_41.394292_-71.575472@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311834,
+    "wof:geomhash":"b597ccd1074f343182419fe508d05155",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874103185
+        }
+    ],
+    "wof:id":874103185,
+    "wof:lastmodified":1464311834,
+    "wof:name":"Moonstone Environmental Svc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -71.575472,
+    41.394292,
+    -71.575472,
+    41.394292
+],
+  "geometry": {"coordinates":[-71.575472,41.394292],"type":"Point"}
+}

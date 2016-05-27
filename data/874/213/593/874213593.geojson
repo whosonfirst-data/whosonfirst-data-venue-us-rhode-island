@@ -1,0 +1,83 @@
+{
+  "id": 874213593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483597,41.43137,-71.483597,41.43137",
+    "geom:latitude":41.43137,
+    "geom:longitude":-71.483597,
+    "iso:country":"US",
+    "sg:address":"21 Woodruff Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3800",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PknPSqHkZICBn8DQl3uIo_41.431370_-71.483597@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312990,
+    "wof:geomhash":"00a038864328094c8276ce7410f359cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874213593
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874213593
+        }
+    ],
+    "wof:id":874213593,
+    "wof:lastmodified":1464312990,
+    "wof:name":"Wakefield CVS Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.483597,
+    41.43137,
+    -71.483597,
+    41.43137
+],
+  "geometry": {"coordinates":[-71.483597,41.43137],"type":"Point"}
+}

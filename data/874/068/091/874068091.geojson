@@ -1,0 +1,71 @@
+{
+  "id": 874068091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276618,41.730585,-71.276618,41.730585",
+    "geom:latitude":41.730585,
+    "geom:longitude":-71.276618,
+    "iso:country":"US",
+    "sg:address":"133 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9305",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mXzSUD3ZMgXNtugPkSdu2_41.730585_-71.276618@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311414,
+    "wof:geomhash":"4994485ae07b03816602d6edb5823945",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874068091
+        }
+    ],
+    "wof:id":874068091,
+    "wof:lastmodified":1464311414,
+    "wof:name":"Crossroad Pub Restaurant",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.276618,
+    41.730585,
+    -71.276618,
+    41.730585
+],
+  "geometry": {"coordinates":[-71.276618,41.730585],"type":"Point"}
+}

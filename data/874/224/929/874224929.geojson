@@ -1,0 +1,86 @@
+{
+  "id": 874224929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4611,41.789932,-71.4611,41.789932",
+    "geom:latitude":41.789932,
+    "geom:longitude":-71.4611,
+    "iso:country":"US",
+    "sg:address":"21 Haven Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 6600",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bi6qDfpnnYywhxbfXh8ZP_41.789932_-71.461100@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313111,
+    "wof:geomhash":"c51380c51dca2880176f11fce85e4c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874224929
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874224929
+        }
+    ],
+    "wof:id":874224929,
+    "wof:lastmodified":1464313111,
+    "wof:name":"Joseph Moretti & Sons Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.4611,
+    41.789932,
+    -71.4611,
+    41.789932
+],
+  "geometry": {"coordinates":[-71.4611,41.789932],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874074361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458605,41.585746,-71.458605,41.585746",
+    "geom:latitude":41.585746,
+    "geom:longitude":-71.458605,
+    "iso:country":"US",
+    "sg:address":"7650 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 2220",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker"
+    ],
+    "sg:website":"www.century21.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWjK9pBJtGYBFcpaLMBHN_41.585746_-71.458605@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311497,
+    "wof:geomhash":"aa7c90ab1923a866a0d0bd2c9cebff60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874074361
+        }
+    ],
+    "wof:id":874074361,
+    "wof:lastmodified":1464311497,
+    "wof:name":"Century 21",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.458605,
+    41.585746,
+    -71.458605,
+    41.585746
+],
+  "geometry": {"coordinates":[-71.45860500000001,41.585746],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874062005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435446,41.785412,-71.435446,41.785412",
+    "geom:latitude":41.785412,
+    "geom:longitude":-71.435446,
+    "iso:country":"US",
+    "sg:address":"475 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 4740",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l7d6J370TA0AM160ZrSOI_41.785412_-71.435446@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311353,
+    "wof:geomhash":"3adafd5e59d5a4a1cb4ddfde3921ec1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874062005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874062005
+        }
+    ],
+    "wof:id":874062005,
+    "wof:lastmodified":1464311353,
+    "wof:name":"Hess Oil Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.435446,
+    41.785412,
+    -71.435446,
+    41.785412
+],
+  "geometry": {"coordinates":[-71.435446,41.785412],"type":"Point"}
+}

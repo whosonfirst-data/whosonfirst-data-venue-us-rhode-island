@@ -1,0 +1,73 @@
+{
+  "id": 874292885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.223473,41.640759,-71.223473,41.640759",
+    "geom:latitude":41.640759,
+    "geom:longitude":-71.223473,
+    "iso:country":"US",
+    "sg:address":"822 Anthony Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2392",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jsTSXe1Pe7882xSoeHQZ8_41.640759_-71.223473@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"42f839b8d132c2dd9dc5e2ad9440f9d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874292885
+        }
+    ],
+    "wof:id":874292885,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Creation Science Funding",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -71.223473,
+    41.640759,
+    -71.223473,
+    41.640759
+],
+  "geometry": {"coordinates":[-71.223473,41.640759],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874303339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483846,41.857577,-71.483846,41.857577",
+    "geom:latitude":41.857577,
+    "geom:longitude":-71.483846,
+    "iso:country":"US",
+    "sg:address":"2009 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 742 4427",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oJKkXXgAMd6IkU65Y954z_41.857577_-71.483846@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315507,
+    "wof:geomhash":"8e094c12d643ce946f70fb505da29073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303339
+        }
+    ],
+    "wof:id":874303339,
+    "wof:lastmodified":1464315507,
+    "wof:name":"Jolly Roger's Smoke Shop",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.483846,
+    41.857577,
+    -71.483846,
+    41.857577
+],
+  "geometry": {"coordinates":[-71.483846,41.857577],"type":"Point"}
+}

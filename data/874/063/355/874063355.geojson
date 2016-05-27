@@ -1,0 +1,90 @@
+{
+  "id": 874063355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435127,41.772532,-71.435127,41.772532",
+    "geom:latitude":41.772532,
+    "geom:longitude":-71.435127,
+    "iso:country":"US",
+    "sg:address":"45 Hodsell St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2011",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uZ704lXVxbh1HfvYpVOkm_41.772532_-71.435127@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311365,
+    "wof:geomhash":"07d79a669c05518319ee655a6e42d0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874063355
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874063355
+        }
+    ],
+    "wof:id":874063355,
+    "wof:lastmodified":1464311365,
+    "wof:name":"Anderson Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.435127,
+    41.772532,
+    -71.435127,
+    41.772532
+],
+  "geometry": {"coordinates":[-71.43512699999999,41.772532],"type":"Point"}
+}

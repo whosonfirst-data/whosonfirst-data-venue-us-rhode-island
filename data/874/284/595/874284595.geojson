@@ -1,0 +1,88 @@
+{
+  "id": 874284595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452347,41.789398,-71.452347,41.789398",
+    "geom:latitude":41.789398,
+    "geom:longitude":-71.452347,
+    "iso:country":"US",
+    "sg:address":"50 Gansett Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 8412",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "guitar",
+        "amplifier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EBAB7c0Tnjwxql65nwiIK_41.788956_-71.452037@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314794,
+    "wof:geomhash":"0c2bde2e54b1e5a9aaa1d19c954d4bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874284595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874284595
+        }
+    ],
+    "wof:id":874284595,
+    "wof:lastmodified":1464314794,
+    "wof:name":"Vintage World",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "amplifier"
+    ]
+},
+  "bbox": [
+    -71.452347,
+    41.789398,
+    -71.452347,
+    41.789398
+],
+  "geometry": {"coordinates":[-71.452347,41.789398],"type":"Point"}
+}

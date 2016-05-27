@@ -1,0 +1,71 @@
+{
+  "id": 874292215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486452,41.951684,-71.486452,41.951684",
+    "geom:latitude":41.951684,
+    "geom:longitude":-71.486452,
+    "iso:country":"US",
+    "sg:address":"1319 Eddie Dowling Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 0800",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813219,
+        102191575,
+        404488361,
+        85633793,
+        101720599,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N1IkajO5DuQdqCxycdcgY_41.951684_-71.486452@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315097,
+    "wof:geomhash":"509ba547e7cd6930523bf9c63f7366cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488361,
+            "locality_id":101720599,
+            "neighbourhood_id":85813219,
+            "region_id":85688509,
+            "venue_id":874292215
+        }
+    ],
+    "wof:id":874292215,
+    "wof:lastmodified":1464315097,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85813219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.486452,
+    41.951684,
+    -71.486452,
+    41.951684
+],
+  "geometry": {"coordinates":[-71.486452,41.951684],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874292629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452698,41.937,-71.452698,41.937",
+    "geom:latitude":41.937,
+    "geom:longitude":-71.452698,
+    "iso:country":"US",
+    "sg:address":"132 Old River Rd Ste 101",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1060",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42WQ3bz2n9TBMO7HhSMb5P_41.937000_-71.452698@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315111,
+    "wof:geomhash":"0e155bd8cc611999b63285d6e5d0d1a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292629
+        }
+    ],
+    "wof:id":874292629,
+    "wof:lastmodified":1464315111,
+    "wof:name":"Orthopaedic Associates",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "sport",
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -71.452698,
+    41.937,
+    -71.452698,
+    41.937
+],
+  "geometry": {"coordinates":[-71.452698,41.937],"type":"Point"}
+}

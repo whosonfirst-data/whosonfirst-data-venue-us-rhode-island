@@ -1,0 +1,71 @@
+{
+  "id": 874070029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468055,41.645117,-71.468055,41.645117",
+    "geom:latitude":41.645117,
+    "geom:longitude":-71.468055,
+    "iso:country":"US",
+    "sg:address":"81 Woodland Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 3275",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4snIJSgr2GbrbnCKfno8XM_41.645117_-71.468055@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311432,
+    "wof:geomhash":"da7ca28f3d813ec187a410ccc2521fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874070029
+        }
+    ],
+    "wof:id":874070029,
+    "wof:lastmodified":1464311432,
+    "wof:name":"Prime Time Pnt & Paperhanging",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.468055,
+    41.645117,
+    -71.468055,
+    41.645117
+],
+  "geometry": {"coordinates":[-71.46805500000001,41.645117],"type":"Point"}
+}

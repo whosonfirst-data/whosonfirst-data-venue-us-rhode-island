@@ -1,0 +1,77 @@
+{
+  "id": 874291603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440147,41.94903,-71.440147,41.94903",
+    "geom:latitude":41.94903,
+    "geom:longitude":-71.440147,
+    "iso:country":"US",
+    "sg:address":"1975 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iWo2x1CSnyzRq5z6SNIMU_41.949030_-71.440147@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315075,
+    "wof:geomhash":"5d6ccd03799bfbd90b1a5d2a939a2953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291603
+        }
+    ],
+    "wof:id":874291603,
+    "wof:lastmodified":1464315075,
+    "wof:name":"Bank of America",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.440147,
+    41.94903,
+    -71.440147,
+    41.94903
+],
+  "geometry": {"coordinates":[-71.440147,41.94903],"type":"Point"}
+}

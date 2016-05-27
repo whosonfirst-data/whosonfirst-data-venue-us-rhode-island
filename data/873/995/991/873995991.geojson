@@ -1,0 +1,77 @@
+{
+  "id": 873995991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29629,41.527739,-71.29629,41.527739",
+    "geom:latitude":41.527739,
+    "geom:longitude":-71.29629,
+    "iso:country":"US",
+    "sg:address":"876 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 8740",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PwNvu0yOPGPVoaxUoL6IE_41.527739_-71.296290@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310732,
+    "wof:geomhash":"da1ecb6badce50c752fbe4550e7e9dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873995991
+        }
+    ],
+    "wof:id":873995991,
+    "wof:lastmodified":1464310732,
+    "wof:name":"D B Mart 17",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.29629,
+    41.527739,
+    -71.29629,
+    41.527739
+],
+  "geometry": {"coordinates":[-71.29629,41.527739],"type":"Point"}
+}

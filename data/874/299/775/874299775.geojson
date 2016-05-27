@@ -1,0 +1,71 @@
+{
+  "id": 874299775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410698,41.858101,-71.410698,41.858101",
+    "geom:latitude":41.858101,
+    "geom:longitude":-71.410698,
+    "iso:country":"US",
+    "sg:address":"458 Smithfield Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 8673",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sGvXyALVFbOhbCKY4aESk_41.858101_-71.410698@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315381,
+    "wof:geomhash":"185dd660b5972c7bcd5da3c635644821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299775
+        }
+    ],
+    "wof:id":874299775,
+    "wof:lastmodified":1464315381,
+    "wof:name":"Burger King Family Restaurants",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.410698,
+    41.858101,
+    -71.410698,
+    41.858101
+],
+  "geometry": {"coordinates":[-71.410698,41.858101],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874282685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.376503,41.883801,-71.376503,41.883801",
+    "geom:latitude":41.883801,
+    "geom:longitude":-71.376503,
+    "iso:country":"US",
+    "sg:address":"400 Broadway",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 729 8100",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RRNRSlyxNWQW94afe5M9D_41.884115_-71.376564@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314730,
+    "wof:geomhash":"a4c2f635f64c75c1142ede9b105bf5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874282685
+        }
+    ],
+    "wof:id":874282685,
+    "wof:lastmodified":1464314730,
+    "wof:name":"Gee's Liquors",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.376503,
+    41.883801,
+    -71.376503,
+    41.883801
+],
+  "geometry": {"coordinates":[-71.376503,41.883801],"type":"Point"}
+}

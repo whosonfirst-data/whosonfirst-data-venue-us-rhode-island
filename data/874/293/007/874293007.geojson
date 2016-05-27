@@ -1,0 +1,88 @@
+{
+  "id": 874293007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.204575,41.643213,-71.204575,41.643213",
+    "geom:latitude":41.643213,
+    "geom:longitude":-71.204575,
+    "iso:country":"US",
+    "sg:address":"38 Williamson St",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 4446",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment-household",
+        "cabinet",
+        "hardware-builders",
+        "kitchen",
+        "contractor"
+    ],
+    "sg:website":"http://www.zipweb.com/?businessName=RogersConstructionRemodeling/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dyJbLJLFPC0bafKK1pVHm_41.643213_-71.204575@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315124,
+    "wof:geomhash":"688d329eb8d81057f98343fa02284c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874293007
+        }
+    ],
+    "wof:id":874293007,
+    "wof:lastmodified":1464315124,
+    "wof:name":"Rogers Construction-Rmdlng Inc",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-household",
+        "cabinet",
+        "hardware-builders",
+        "kitchen",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.204575,
+    41.643213,
+    -71.204575,
+    41.643213
+],
+  "geometry": {"coordinates":[-71.20457500000001,41.643213],"type":"Point"}
+}

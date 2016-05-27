@@ -1,0 +1,71 @@
+{
+  "id": 874181319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.612544,41.40932,-71.612544,41.40932",
+    "geom:latitude":41.40932,
+    "geom:longitude":-71.612544,
+    "iso:country":"US",
+    "sg:address":"7 Sand Hill Rd",
+    "sg:city":"Mapleville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 9388",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58dgwPEH5l9pA3BoqvX86y_41.409320_-71.612544@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312644,
+    "wof:geomhash":"72831990e31c7e2afce68b30bd93c942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874181319
+        }
+    ],
+    "wof:id":874181319,
+    "wof:lastmodified":1464312644,
+    "wof:name":"Pro Paving Co Inc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.612544,
+    41.40932,
+    -71.612544,
+    41.40932
+],
+  "geometry": {"coordinates":[-71.612544,41.40932],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874263451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370765,41.694662,-71.370765,41.694662",
+    "geom:latitude":41.694662,
+    "geom:longitude":-71.370765,
+    "iso:country":"US",
+    "sg:address":"18 Camp St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 4203",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540473,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kX2XmFPInU2jab2d5Ljkc_41.694662_-71.370765@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313973,
+    "wof:geomhash":"69e53b039c383792878ec48d0596d292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540473,
+            "region_id":85688509,
+            "venue_id":874263451
+        }
+    ],
+    "wof:id":874263451,
+    "wof:lastmodified":1464313973,
+    "wof:name":"Bagel Cafe",
+    "wof:parent_id":420540473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.370765,
+    41.694662,
+    -71.370765,
+    41.694662
+],
+  "geometry": {"coordinates":[-71.37076500000001,41.694662],"type":"Point"}
+}

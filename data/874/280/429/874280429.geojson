@@ -1,0 +1,64 @@
+{
+  "id": 874280429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.265923,41.729164,-71.265923,41.729164",
+    "geom:latitude":41.729164,
+    "geom:longitude":-71.265923,
+    "iso:country":"US",
+    "sg:address":"428 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 289 0877",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XNKZj0VCjqf8MBJniMcB6_41.729164_-71.265923@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314631,
+    "wof:geomhash":"0650a3027c5659e9875c68737f96384b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874280429
+        }
+    ],
+    "wof:id":874280429,
+    "wof:lastmodified":1464314631,
+    "wof:name":"Warren Mart",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.265923,
+    41.729164,
+    -71.265923,
+    41.729164
+],
+  "geometry": {"coordinates":[-71.265923,41.729164],"type":"Point"}
+}

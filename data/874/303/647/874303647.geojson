@@ -1,0 +1,70 @@
+{
+  "id": 874303647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.383845,41.815921,-71.383845,41.815921",
+    "geom:latitude":41.815921,
+    "geom:longitude":-71.383845,
+    "iso:country":"US",
+    "sg:address":"30 Veterans Memorial Pkwy",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 4444",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lfS3IckFRXWBEdq9OTAJq_41.815921_-71.383845@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315517,
+    "wof:geomhash":"b1329acd87f387a4f13eed19c69afd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874303647
+        }
+    ],
+    "wof:id":874303647,
+    "wof:lastmodified":1464315517,
+    "wof:name":"Hot Rides",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.383845,
+    41.815921,
+    -71.383845,
+    41.815921
+],
+  "geometry": {"coordinates":[-71.38384499999999,41.815921],"type":"Point"}
+}

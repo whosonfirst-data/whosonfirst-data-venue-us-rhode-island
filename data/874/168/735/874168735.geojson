@@ -1,0 +1,77 @@
+{
+  "id": 874168735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408829,41.878343,-71.408829,41.878343",
+    "geom:latitude":41.878343,
+    "geom:longitude":-71.408829,
+    "iso:country":"US",
+    "sg:address":"15 Hazel St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 6100",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qh7yMz6bYWhsX6dd2HFdv_41.878343_-71.408829@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312515,
+    "wof:geomhash":"ce1c7b3e4a86981e8134f461d2df5e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874168735
+        }
+    ],
+    "wof:id":874168735,
+    "wof:lastmodified":1464312515,
+    "wof:name":"Clinical IV Network",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.408829,
+    41.878343,
+    -71.408829,
+    41.878343
+],
+  "geometry": {"coordinates":[-71.408829,41.878343],"type":"Point"}
+}

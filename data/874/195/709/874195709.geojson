@@ -1,0 +1,69 @@
+{
+  "id": 874195709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478287,41.549402,-71.478287,41.549402",
+    "geom:latitude":41.549402,
+    "geom:longitude":-71.478287,
+    "iso:country":"US",
+    "sg:address":"215 Pinecrest Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 7274",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fBhmjKHxAy5Oimkus7iTb_41.549402_-71.478287@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312802,
+    "wof:geomhash":"451b2852d835089b74173c03fd8333a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874195709
+        }
+    ],
+    "wof:id":874195709,
+    "wof:lastmodified":1464312802,
+    "wof:name":"School Evaluation",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.478287,
+    41.549402,
+    -71.478287,
+    41.549402
+],
+  "geometry": {"coordinates":[-71.47828699999999,41.549402],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874287161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410328,41.703848,-71.410328,41.703848",
+    "geom:latitude":41.703848,
+    "geom:longitude":-71.410328,
+    "iso:country":"US",
+    "sg:address":"2424 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/236109-ronzio-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 8800",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40K28SRrHQv8scRUzL6mMR_41.703848_-71.410328@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314896,
+    "wof:geomhash":"69bb49bf5d70e4c37259327be940c390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":874287161
+        }
+    ],
+    "wof:id":874287161,
+    "wof:lastmodified":1464314896,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.410328,
+    41.703848,
+    -71.410328,
+    41.703848
+],
+  "geometry": {"coordinates":[-71.41032800000001,41.703848],"type":"Point"}
+}

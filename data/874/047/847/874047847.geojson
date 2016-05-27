@@ -1,0 +1,71 @@
+{
+  "id": 874047847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28244,41.509612,-71.28244,41.509612",
+    "geom:latitude":41.509612,
+    "geom:longitude":-71.28244,
+    "iso:country":"US",
+    "sg:address":"726 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4801",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A2dxqDsznztPzQpJhcuoQ_41.509612_-71.282440@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311222,
+    "wof:geomhash":"fb7f55a12e2caa4a32d037bdfed3280f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874047847
+        }
+    ],
+    "wof:id":874047847,
+    "wof:lastmodified":1464311222,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.28244,
+    41.509612,
+    -71.28244,
+    41.509612
+],
+  "geometry": {"coordinates":[-71.28243999999999,41.509612],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874185803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.715174,41.508216,-71.715174,41.508216",
+    "geom:latitude":41.508216,
+    "geom:longitude":-71.715174,
+    "iso:country":"US",
+    "sg:address":"996 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2229",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31F6WnCkHlD83zi9f3KZKE_41.508216_-71.715174@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312698,
+    "wof:geomhash":"245f779d48f97d258e19a97b7e6ba1ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874185803
+        }
+    ],
+    "wof:id":874185803,
+    "wof:lastmodified":1464312698,
+    "wof:name":"Hope Valley Wyoming Fire Dist",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.715174,
+    41.508216,
+    -71.715174,
+    41.508216
+],
+  "geometry": {"coordinates":[-71.715174,41.508216],"type":"Point"}
+}

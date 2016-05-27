@@ -1,0 +1,70 @@
+{
+  "id": 874288041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443903,41.865991,-71.443903,41.865991",
+    "geom:latitude":41.865991,
+    "geom:longitude":-71.443903,
+    "iso:country":"US",
+    "sg:address":"1479 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/215023-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 9066",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y7sfao9xocbumaqOzEBjf_41.865763_-71.443989@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314937,
+    "wof:geomhash":"39794c5606229a6c8a4bf96d606ecc76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874288041
+        }
+    ],
+    "wof:id":874288041,
+    "wof:lastmodified":1464314937,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.443903,
+    41.865991,
+    -71.443903,
+    41.865991
+],
+  "geometry": {"coordinates":[-71.44390300000001,41.865991],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 874287467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420689,41.789031,-71.420689,41.789031",
+    "geom:latitude":41.789031,
+    "geom:longitude":-71.420689,
+    "iso:country":"US",
+    "sg:address":"860 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/138896-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 8647",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R5cf5eiVQEQ14W4KW4Eev_41.789031_-71.420689@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314912,
+    "wof:geomhash":"386848c71dfe57f0308d742ecff0b4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874287467
+        }
+    ],
+    "wof:id":874287467,
+    "wof:lastmodified":1464314912,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.420689,
+    41.789031,
+    -71.420689,
+    41.789031
+],
+  "geometry": {"coordinates":[-71.420689,41.789031],"type":"Point"}
+}

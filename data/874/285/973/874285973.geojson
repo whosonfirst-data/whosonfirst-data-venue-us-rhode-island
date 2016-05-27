@@ -1,0 +1,70 @@
+{
+  "id": 874285973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.375099,41.887299,-71.375099,41.887299",
+    "geom:latitude":41.887299,
+    "geom:longitude":-71.375099,
+    "iso:country":"US",
+    "sg:address":"511 Broadway",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 1310",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s9R36rrQaihtTqyCncdXu_41.887231_-71.374803@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314856,
+    "wof:geomhash":"bd78b5d46d0869f68f8e460e02289cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874285973
+        }
+    ],
+    "wof:id":874285973,
+    "wof:lastmodified":1464314856,
+    "wof:name":"J & J Auto Repair",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.375099,
+    41.887299,
+    -71.375099,
+    41.887299
+],
+  "geometry": {"coordinates":[-71.37509900000001,41.887299],"type":"Point"}
+}

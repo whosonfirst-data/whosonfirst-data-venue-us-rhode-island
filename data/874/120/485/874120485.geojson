@@ -1,0 +1,71 @@
+{
+  "id": 874120485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471588,41.845768,-71.471588,41.845768",
+    "geom:latitude":41.845768,
+    "geom:longitude":-71.471588,
+    "iso:country":"US",
+    "sg:address":"1 Meadowbrook Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 0227",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O71hXeTaILk8eDpyKFVP9_41.845768_-71.471588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312045,
+    "wof:geomhash":"e730bf374f5046340085f9c00e9bde36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874120485
+        }
+    ],
+    "wof:id":874120485,
+    "wof:lastmodified":1464312045,
+    "wof:name":"Illiano Giuseppe",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -71.471588,
+    41.845768,
+    -71.471588,
+    41.845768
+],
+  "geometry": {"coordinates":[-71.471588,41.845768],"type":"Point"}
+}

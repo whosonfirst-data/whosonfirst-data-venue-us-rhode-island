@@ -1,0 +1,73 @@
+{
+  "id": 874282449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401703,41.888,-71.401703,41.888",
+    "geom:latitude":41.888,
+    "geom:longitude":-71.401703,
+    "iso:country":"US",
+    "sg:address":"824 Lonsdale Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 1980",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "car",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g7O9bYa00NaoX0BLl2QA7_41.887768_-71.401895@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314722,
+    "wof:geomhash":"5bb476a7a0dfa94d80d5f68890cc1cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874282449
+        }
+    ],
+    "wof:id":874282449,
+    "wof:lastmodified":1464314722,
+    "wof:name":"B & L Auto Sales",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "car",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.401703,
+    41.888,
+    -71.401703,
+    41.888
+],
+  "geometry": {"coordinates":[-71.401703,41.888],"type":"Point"}
+}

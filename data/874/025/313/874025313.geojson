@@ -1,0 +1,75 @@
+{
+  "id": 874025313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484612,41.709759,-71.484612,41.709759",
+    "geom:latitude":41.709759,
+    "geom:longitude":-71.484612,
+    "iso:country":"US",
+    "sg:address":"315 Commonwealth Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 1896",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eCJ934fMETD5gm5tTOYPI_41.709759_-71.484612@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311000,
+    "wof:geomhash":"ba393c29190cc9376edd0e846012e5ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874025313
+        }
+    ],
+    "wof:id":874025313,
+    "wof:lastmodified":1464311000,
+    "wof:name":"Rhode Island Sleep Diagnostics",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.484612,
+    41.709759,
+    -71.484612,
+    41.709759
+],
+  "geometry": {"coordinates":[-71.484612,41.709759],"type":"Point"}
+}

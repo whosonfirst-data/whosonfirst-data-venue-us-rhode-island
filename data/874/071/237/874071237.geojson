@@ -1,0 +1,75 @@
+{
+  "id": 874071237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408653,41.810593,-71.408653,41.810593",
+    "geom:latitude":41.810593,
+    "geom:longitude":-71.408653,
+    "iso:country":"US",
+    "sg:address":"2 Dudley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 457 1530",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69JYzdPQGCH2T4CYjo0abn_41.810593_-71.408653@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311448,
+    "wof:geomhash":"96c2aa0b0bf87d3ca145d75a06ddcbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874071237
+        }
+    ],
+    "wof:id":874071237,
+    "wof:lastmodified":1464311448,
+    "wof:name":"Michael J Hulstyn MD",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.408653,
+    41.810593,
+    -71.408653,
+    41.810593
+],
+  "geometry": {"coordinates":[-71.408653,41.810593],"type":"Point"}
+}

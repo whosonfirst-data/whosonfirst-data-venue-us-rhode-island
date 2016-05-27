@@ -1,0 +1,80 @@
+{
+  "id": 874301149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399098,41.823516,-71.399098,41.823516",
+    "geom:latitude":41.823516,
+    "geom:longitude":-71.399098,
+    "iso:country":"US",
+    "sg:address":"250 Brook St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 369 7551",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "chicken",
+        "wing"
+    ],
+    "sg:website":"www.wingsandthingsri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k7B5K3RtoZOYuCTXdMMoZ_41.823516_-71.399098@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315436,
+    "wof:geomhash":"bafe40b19f0a24233ccfbeb421edef86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301149
+        }
+    ],
+    "wof:id":874301149,
+    "wof:lastmodified":1464315436,
+    "wof:name":"Wings & Things",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "chicken",
+        "wing"
+    ]
+},
+  "bbox": [
+    -71.399098,
+    41.823516,
+    -71.399098,
+    41.823516
+],
+  "geometry": {"coordinates":[-71.399098,41.823516],"type":"Point"}
+}

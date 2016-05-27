@@ -1,0 +1,71 @@
+{
+  "id": 874214989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441751,41.952894,-71.441751,41.952894",
+    "geom:latitude":41.952894,
+    "geom:longitude":-71.441751,
+    "iso:country":"US",
+    "sg:address":"2065 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 4792",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1scPacdxh8MB6LcJ1wNIMD_41.952894_-71.441751@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313004,
+    "wof:geomhash":"5e6b80c80ac504ea50da5172f61779c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874214989
+        }
+    ],
+    "wof:id":874214989,
+    "wof:lastmodified":1464313004,
+    "wof:name":"Sisters Of The Presentation",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.441751,
+    41.952894,
+    -71.441751,
+    41.952894
+],
+  "geometry": {"coordinates":[-71.441751,41.952894],"type":"Point"}
+}

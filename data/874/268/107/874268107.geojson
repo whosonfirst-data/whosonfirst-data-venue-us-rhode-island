@@ -1,0 +1,71 @@
+{
+  "id": 874268107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51822,41.64623,-71.51822,41.64623",
+    "geom:latitude":41.64623,
+    "geom:longitude":-71.51822,
+    "iso:country":"US",
+    "sg:address":"40 Ann Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 3883",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820691,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ZkQe7Jl2iA6hTouolXqS_41.646230_-71.518220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314153,
+    "wof:geomhash":"2e6d9191b8cf6fec1cb499ca3c366abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85820691,
+            "region_id":85688509,
+            "venue_id":874268107
+        }
+    ],
+    "wof:id":874268107,
+    "wof:lastmodified":1464314153,
+    "wof:name":"William C Mateer Inc",
+    "wof:parent_id":85820691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.51822,
+    41.64623,
+    -71.51822,
+    41.64623
+],
+  "geometry": {"coordinates":[-71.51822,41.64623],"type":"Point"}
+}

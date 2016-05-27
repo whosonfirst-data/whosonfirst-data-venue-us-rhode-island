@@ -1,0 +1,77 @@
+{
+  "id": 874242133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474699,41.788166,-71.474699,41.788166",
+    "geom:latitude":41.788166,
+    "geom:longitude":-71.474699,
+    "iso:country":"US",
+    "sg:address":"67 Elena St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 3779",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jUaI0Z5BOwdps4RVvQusN_41.788166_-71.474699@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313380,
+    "wof:geomhash":"c54f96d65e00beca38343b52cfeb2a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874242133
+        }
+    ],
+    "wof:id":874242133,
+    "wof:lastmodified":1464313380,
+    "wof:name":"Springfield Self Storage",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.474699,
+    41.788166,
+    -71.474699,
+    41.788166
+],
+  "geometry": {"coordinates":[-71.474699,41.788166],"type":"Point"}
+}

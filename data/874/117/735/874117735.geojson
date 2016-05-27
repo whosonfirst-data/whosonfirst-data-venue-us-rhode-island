@@ -1,0 +1,71 @@
+{
+  "id": 874117735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51565,41.985358,-71.51565,41.985358",
+    "geom:latitude":41.985358,
+    "geom:longitude":-71.51565,
+    "iso:country":"US",
+    "sg:address":"1438 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 4992",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7idi5cQAzFS2b2HiygmRaF_41.985358_-71.515650@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312013,
+    "wof:geomhash":"f727ee5df36b50aa77ff3a3924feda53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874117735
+        }
+    ],
+    "wof:id":874117735,
+    "wof:lastmodified":1464312013,
+    "wof:name":"Irwin Dental Lab",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.51565,
+    41.985358,
+    -71.51565,
+    41.985358
+],
+  "geometry": {"coordinates":[-71.51564999999999,41.985358],"type":"Point"}
+}

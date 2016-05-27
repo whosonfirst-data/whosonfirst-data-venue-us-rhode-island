@@ -1,0 +1,73 @@
+{
+  "id": 874284401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484299,41.8694,-71.484299,41.8694",
+    "geom:latitude":41.8694,
+    "geom:longitude":-71.484299,
+    "iso:country":"US",
+    "sg:address":"21 Lori Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5950",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YPimBBdEdswILVipx23o7_41.869401_-71.484037@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314788,
+    "wof:geomhash":"c1c79d2e5ebb547973819495c554e99b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874284401
+        }
+    ],
+    "wof:id":874284401,
+    "wof:lastmodified":1464314788,
+    "wof:name":"Delli Electric Corp",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.484299,
+    41.8694,
+    -71.484299,
+    41.8694
+],
+  "geometry": {"coordinates":[-71.48429899999999,41.8694],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874145575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264957,41.560381,-71.264957,41.560381",
+    "geom:latitude":41.560381,
+    "geom:longitude":-71.264957,
+    "iso:country":"US",
+    "sg:address":"371 Union St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 9543",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "hole",
+        "golf",
+        "semi"
+    ],
+    "sg:website":"www.greenvalleyccofri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nkOQNZ6TjECqLL7AMu2cI_41.560381_-71.264957@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"9deba3c729509cdf28994b6bd3fe0783",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874145575
+        }
+    ],
+    "wof:id":874145575,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Green Valley Country Club Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "hole",
+        "golf",
+        "semi"
+    ]
+},
+  "bbox": [
+    -71.264957,
+    41.560381,
+    -71.264957,
+    41.560381
+],
+  "geometry": {"coordinates":[-71.264957,41.560381],"type":"Point"}
+}

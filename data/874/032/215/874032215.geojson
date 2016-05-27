@@ -1,0 +1,77 @@
+{
+  "id": 874032215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446064,41.816812,-71.446064,41.816812",
+    "geom:latitude":41.816812,
+    "geom:longitude":-71.446064,
+    "iso:country":"US",
+    "sg:address":"100 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6294",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cX23rLq8hCTHwmq2GLgVK_41.816812_-71.446064@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311068,
+    "wof:geomhash":"648a11c4803520180398434419807b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874032215
+        }
+    ],
+    "wof:id":874032215,
+    "wof:lastmodified":1464311068,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -71.446064,
+    41.816812,
+    -71.446064,
+    41.816812
+],
+  "geometry": {"coordinates":[-71.44606400000001,41.816812],"type":"Point"}
+}

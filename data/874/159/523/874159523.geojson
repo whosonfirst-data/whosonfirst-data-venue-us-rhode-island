@@ -1,0 +1,71 @@
+{
+  "id": 874159523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529378,41.466735,-71.529378,41.466735",
+    "geom:latitude":41.466735,
+    "geom:longitude":-71.529378,
+    "iso:country":"US",
+    "sg:address":"44 N Pasture Ln",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 4237",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i6v6WQyJKNPQSUNkq7Onx_41.466735_-71.529378@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312426,
+    "wof:geomhash":"17ab1a3efaab55d0b29f2c643bff8cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874159523
+        }
+    ],
+    "wof:id":874159523,
+    "wof:lastmodified":1464312426,
+    "wof:name":"David Faust Dr",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.529378,
+    41.466735,
+    -71.529378,
+    41.466735
+],
+  "geometry": {"coordinates":[-71.52937799999999,41.466735],"type":"Point"}
+}

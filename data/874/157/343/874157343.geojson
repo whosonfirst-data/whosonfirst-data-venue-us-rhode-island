@@ -1,0 +1,77 @@
+{
+  "id": 874157343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549606,41.915791,-71.549606,41.915791",
+    "geom:latitude":41.915791,
+    "geom:longitude":-71.549606,
+    "iso:country":"US",
+    "sg:address":"14 Industrial Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8736",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "sg:website":"www.romepacking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iFurV2tphJcDnCDkk8DAC_41.915791_-71.549606@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312402,
+    "wof:geomhash":"bc2e193f3a7506162d77e9246a0c1ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874157343
+        }
+    ],
+    "wof:id":874157343,
+    "wof:lastmodified":1464312402,
+    "wof:name":"Rome Packing Co Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.549606,
+    41.915791,
+    -71.549606,
+    41.915791
+],
+  "geometry": {"coordinates":[-71.549606,41.915791],"type":"Point"}
+}

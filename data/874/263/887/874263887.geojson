@@ -1,0 +1,83 @@
+{
+  "id": 874263887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471975,41.687764,-71.471975,41.687764",
+    "geom:latitude":41.687764,
+    "geom:longitude":-71.471975,
+    "iso:country":"US",
+    "sg:address":"395 Diamond Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 0937",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "sg:website":"www.nfgcc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I413JSKWOkQJClOTJqmKO_41.687764_-71.471975@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313987,
+    "wof:geomhash":"fe091f1189c0c5daa04200fb4cc0cec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874263887
+        }
+    ],
+    "wof:id":874263887,
+    "wof:lastmodified":1464313987,
+    "wof:name":"National Foundation For Gifted",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -71.471975,
+    41.687764,
+    -71.471975,
+    41.687764
+],
+  "geometry": {"coordinates":[-71.471975,41.687764],"type":"Point"}
+}

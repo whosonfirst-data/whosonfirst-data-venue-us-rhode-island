@@ -1,0 +1,71 @@
+{
+  "id": 874261407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408905,41.926739,-71.408905,41.926739",
+    "geom:latitude":41.926739,
+    "geom:longitude":-71.408905,
+    "iso:country":"US",
+    "sg:address":"8 Blissdale Ave",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 641 5156",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nePS5V6pv0RO650OvaJf0_41.926739_-71.408905@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313904,
+    "wof:geomhash":"534502e00de2624cfea1664a62a7bbdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874261407
+        }
+    ],
+    "wof:id":874261407,
+    "wof:lastmodified":1464313904,
+    "wof:name":"Philip J Forcier Electric",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.408905,
+    41.926739,
+    -71.408905,
+    41.926739
+],
+  "geometry": {"coordinates":[-71.408905,41.926739],"type":"Point"}
+}

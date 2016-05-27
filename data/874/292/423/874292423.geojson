@@ -1,0 +1,76 @@
+{
+  "id": 874292423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456838,41.937977,-71.456838,41.937977",
+    "geom:latitude":41.937977,
+    "geom:longitude":-71.456838,
+    "iso:country":"US",
+    "sg:address":"8 Blackstone Valley Pl",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1830",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nqLBLnsEF3yctw1xJRkk4_41.937977_-71.456838@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315104,
+    "wof:geomhash":"0d8aedc35889597a1369745cac8b863e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292423
+        }
+    ],
+    "wof:id":874292423,
+    "wof:lastmodified":1464315104,
+    "wof:name":"Fitzhugh Walter D III MD",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.456838,
+    41.937977,
+    -71.456838,
+    41.937977
+],
+  "geometry": {"coordinates":[-71.456838,41.937977],"type":"Point"}
+}

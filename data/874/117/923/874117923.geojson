@@ -1,0 +1,73 @@
+{
+  "id": 874117923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515327,41.543468,-71.515327,41.543468",
+    "geom:latitude":41.543468,
+    "geom:longitude":-71.515327,
+    "iso:country":"US",
+    "sg:address":"413 Exeter Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1421",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fombDuliQfKYfVAscn04Q_41.543468_-71.515327@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312015,
+    "wof:geomhash":"dbb11daa4944c3450da0ced2b4559b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874117923
+        }
+    ],
+    "wof:id":874117923,
+    "wof:lastmodified":1464312015,
+    "wof:name":"Don's Lawn Care",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.515327,
+    41.543468,
+    -71.515327,
+    41.543468
+],
+  "geometry": {"coordinates":[-71.515327,41.543468],"type":"Point"}
+}

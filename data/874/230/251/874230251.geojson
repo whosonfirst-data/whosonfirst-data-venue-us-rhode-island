@@ -1,0 +1,73 @@
+{
+  "id": 874230251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516375,42.018179,-71.516375,42.018179",
+    "geom:latitude":42.018179,
+    "geom:longitude":-71.516375,
+    "iso:country":"US",
+    "sg:address":"22 Power St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 0731",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41zDB6PaBNCAYAynL3UFAQ_42.018179_-71.516375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313162,
+    "wof:geomhash":"b583ae8327296529fcab0be3de667443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874230251
+        }
+    ],
+    "wof:id":874230251,
+    "wof:lastmodified":1464313162,
+    "wof:name":"Boucher & Son's Home Imprvmnt",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.516375,
+    42.018179,
+    -71.516375,
+    42.018179
+],
+  "geometry": {"coordinates":[-71.516375,42.018179],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874272549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.647906,41.41517,-71.647906,41.41517",
+    "geom:latitude":41.41517,
+    "geom:longitude":-71.647906,
+    "iso:country":"US",
+    "sg:address":"4540 S County Trl",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 1200",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "city"
+    ],
+    "sg:website":"www.charlestownri.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wPwPwpXMWSPX66OMhboY3_41.415170_-71.647906@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314314,
+    "wof:geomhash":"1f45a1b026a1c829395f8bf98d58b5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874272549
+        }
+    ],
+    "wof:id":874272549,
+    "wof:lastmodified":1464314314,
+    "wof:name":"Charlestown Town Clerk",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -71.647906,
+    41.41517,
+    -71.647906,
+    41.41517
+],
+  "geometry": {"coordinates":[-71.64790600000001,41.41517],"type":"Point"}
+}

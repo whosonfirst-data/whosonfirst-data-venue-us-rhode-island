@@ -1,0 +1,74 @@
+{
+  "id": 874292405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447789,41.934688,-71.447789,41.934688",
+    "geom:latitude":41.934688,
+    "geom:longitude":-71.447789,
+    "iso:country":"US",
+    "sg:address":"616 George Washington Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0828",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "sg:website":"www.washingtonhillliquors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yPJyuKQl7T5Av9fipnYST_41.934688_-71.447789@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315103,
+    "wof:geomhash":"d29d9ec39bfeee28d790d6cba9dfcfe3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292405
+        }
+    ],
+    "wof:id":874292405,
+    "wof:lastmodified":1464315103,
+    "wof:name":"Washington Hill Liquors",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.447789,
+    41.934688,
+    -71.447789,
+    41.934688
+],
+  "geometry": {"coordinates":[-71.447789,41.934688],"type":"Point"}
+}

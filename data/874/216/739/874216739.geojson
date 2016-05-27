@@ -1,0 +1,79 @@
+{
+  "id": 874216739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453294,41.571537,-71.453294,41.571537",
+    "geom:latitude":41.571537,
+    "geom:longitude":-71.453294,
+    "iso:country":"US",
+    "sg:address":"21 W Main St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0346",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThQ2PHt2M46SgTyQKOVGd_41.571537_-71.453294@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313020,
+    "wof:geomhash":"a6d39027afa392402cdddf33485e50df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874216739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874216739
+        }
+    ],
+    "wof:id":874216739,
+    "wof:lastmodified":1464313020,
+    "wof:name":"Wickford Gourmet Candy Shoppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.453294,
+    41.571537,
+    -71.453294,
+    41.571537
+],
+  "geometry": {"coordinates":[-71.453294,41.571537],"type":"Point"}
+}

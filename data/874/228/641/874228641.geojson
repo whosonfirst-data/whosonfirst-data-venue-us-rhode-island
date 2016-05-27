@@ -1,0 +1,71 @@
+{
+  "id": 874228641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547651,41.696004,-71.547651,41.696004",
+    "geom:latitude":41.696004,
+    "geom:longitude":-71.547651,
+    "iso:country":"US",
+    "sg:address":"650 Washington St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 5900",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pIidBFEwb0qNEtpgaIuDT_41.696004_-71.547651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313147,
+    "wof:geomhash":"63f481bbf0cadd852b27f05e17096365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874228641
+        }
+    ],
+    "wof:id":874228641,
+    "wof:lastmodified":1464313147,
+    "wof:name":"Berkley Design",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.547651,
+    41.696004,
+    -71.547651,
+    41.696004
+],
+  "geometry": {"coordinates":[-71.547651,41.696004],"type":"Point"}
+}

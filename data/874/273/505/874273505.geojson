@@ -1,0 +1,71 @@
+{
+  "id": 874273505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420973,41.482819,-71.420973,41.482819",
+    "geom:latitude":41.482819,
+    "geom:longitude":-71.420973,
+    "iso:country":"US",
+    "sg:address":"5 Treasure Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8044",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1axKLpxjLmzaVkkhm8uJpf_41.482819_-71.420973@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314345,
+    "wof:geomhash":"53f206c55b6fbeac1f789c4d528c1f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874273505
+        }
+    ],
+    "wof:id":874273505,
+    "wof:lastmodified":1464314345,
+    "wof:name":"Little Feet Landscaping",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.420973,
+    41.482819,
+    -71.420973,
+    41.482819
+],
+  "geometry": {"coordinates":[-71.420973,41.482819],"type":"Point"}
+}

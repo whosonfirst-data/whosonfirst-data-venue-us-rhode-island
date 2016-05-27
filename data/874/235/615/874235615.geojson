@@ -1,0 +1,70 @@
+{
+  "id": 874235615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312363,41.469698,-71.312363,41.469698",
+    "geom:latitude":41.469698,
+    "geom:longitude":-71.312363,
+    "iso:country":"US",
+    "sg:address":"7 Weatherly Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 3836",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UmEZyVhJ0aFt0PkvKwgGk_41.469698_-71.312363@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313254,
+    "wof:geomhash":"c54b2c16dc07596d3a4fef4c922edff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874235615
+        }
+    ],
+    "wof:id":874235615,
+    "wof:lastmodified":1464313254,
+    "wof:name":"Gladding Dance Studio",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.312363,
+    41.469698,
+    -71.312363,
+    41.469698
+],
+  "geometry": {"coordinates":[-71.312363,41.469698],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874141631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.382675,41.545752,-71.382675,41.545752",
+    "geom:latitude":41.545752,
+    "geom:longitude":-71.382675,
+    "iso:country":"US",
+    "sg:address":"9 Cutter St",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 7405",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xoWiTlkpcr44SecSCVZQz_41.545752_-71.382675@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312249,
+    "wof:geomhash":"66e5247807738815d83f4b69617e24b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874141631
+        }
+    ],
+    "wof:id":874141631,
+    "wof:lastmodified":1464312249,
+    "wof:name":"Tim Hull Electric",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.382675,
+    41.545752,
+    -71.382675,
+    41.545752
+],
+  "geometry": {"coordinates":[-71.38267500000001,41.545752],"type":"Point"}
+}

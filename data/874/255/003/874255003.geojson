@@ -1,0 +1,71 @@
+{
+  "id": 874255003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558684,41.683474,-71.558684,41.683474",
+    "geom:latitude":41.683474,
+    "geom:longitude":-71.558684,
+    "iso:country":"US",
+    "sg:address":"725 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 6300",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5125iTQfkmFFAADUxelZJ2_41.683474_-71.558684@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313675,
+    "wof:geomhash":"ef98759e3b7d3a6dc9acc5d6b9727cf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874255003
+        }
+    ],
+    "wof:id":874255003,
+    "wof:lastmodified":1464313675,
+    "wof:name":"Christy's Liquors",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -71.558684,
+    41.683474,
+    -71.558684,
+    41.683474
+],
+  "geometry": {"coordinates":[-71.558684,41.683474],"type":"Point"}
+}

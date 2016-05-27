@@ -1,0 +1,69 @@
+{
+  "id": 874167593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281858,41.716667,-71.281858,41.716667",
+    "geom:latitude":41.716667,
+    "geom:longitude":-71.281858,
+    "iso:country":"US",
+    "sg:address":"69 Locust Ter",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 6824",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_572BCosgDIrJyvSxypK5t1_41.716667_-71.281858@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312503,
+    "wof:geomhash":"9853842baf8a09139207bf462e311e16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874167593
+        }
+    ],
+    "wof:id":874167593,
+    "wof:lastmodified":1464312503,
+    "wof:name":"Accutrack Medical Svc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.281858,
+    41.716667,
+    -71.281858,
+    41.716667
+],
+  "geometry": {"coordinates":[-71.281858,41.716667],"type":"Point"}
+}

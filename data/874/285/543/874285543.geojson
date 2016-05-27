@@ -1,0 +1,71 @@
+{
+  "id": 874285543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489304,41.865002,-71.489304,41.865002",
+    "geom:latitude":41.865002,
+    "geom:longitude":-71.489304,
+    "iso:country":"US",
+    "sg:address":"129 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0480",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y79hlID3qVxdQQtiV4YBL_41.864952_-71.489084@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314834,
+    "wof:geomhash":"dfb8ef2d290386f2190a8f9d43e7397b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874285543
+        }
+    ],
+    "wof:id":874285543,
+    "wof:lastmodified":1464314834,
+    "wof:name":"Greystone Auto Center",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.489304,
+    41.865002,
+    -71.489304,
+    41.865002
+],
+  "geometry": {"coordinates":[-71.489304,41.865002],"type":"Point"}
+}

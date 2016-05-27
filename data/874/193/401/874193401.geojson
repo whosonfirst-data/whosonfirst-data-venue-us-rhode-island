@@ -1,0 +1,71 @@
+{
+  "id": 874193401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488993,41.864795,-71.488993,41.864795",
+    "geom:latitude":41.864795,
+    "geom:longitude":-71.488993,
+    "iso:country":"US",
+    "sg:address":"131 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6209",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bar",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36m8ZFu5rg4m5cW17xVeha_41.864795_-71.488993@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312774,
+    "wof:geomhash":"6287a3bdf9cfcae482dc3efd588ac9a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874193401
+        }
+    ],
+    "wof:id":874193401,
+    "wof:lastmodified":1464312774,
+    "wof:name":"Chers Restaurant",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.488993,
+    41.864795,
+    -71.488993,
+    41.864795
+],
+  "geometry": {"coordinates":[-71.48899299999999,41.864795],"type":"Point"}
+}

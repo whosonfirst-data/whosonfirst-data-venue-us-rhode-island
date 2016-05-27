@@ -1,0 +1,113 @@
+{
+  "id": 874303153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45145,41.786308,-71.45145,41.786308",
+    "geom:latitude":41.786308,
+    "geom:longitude":-71.45145,
+    "iso:country":"US",
+    "sg:address":"140 Gansett Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 3188",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "designer",
+        "supply",
+        "jeweler",
+        "hobby",
+        "model",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gUg5UA6jtINaK6oMuMgbU_41.786308_-71.451450@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315500,
+    "wof:geomhash":"919ce5760d93a95f5bb397e6e121dc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874303153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874303153
+        }
+    ],
+    "wof:id":874303153,
+    "wof:lastmodified":1464315500,
+    "wof:name":"Arlington Coin Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "designer",
+        "supply",
+        "jeweler",
+        "hobby",
+        "model",
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.45145,
+    41.786308,
+    -71.45145,
+    41.786308
+],
+  "geometry": {"coordinates":[-71.45144999999999,41.786308],"type":"Point"}
+}

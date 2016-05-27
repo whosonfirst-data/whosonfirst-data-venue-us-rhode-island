@@ -1,0 +1,70 @@
+{
+  "id": 874271307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546553,41.902626,-71.546553,41.902626",
+    "geom:latitude":41.902626,
+    "geom:longitude":-71.546553,
+    "iso:country":"US",
+    "sg:address":"180 Log Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 9864",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.esclab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gdgLjylJnOaNiQS5er4Ld_41.902626_-71.546553@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314268,
+    "wof:geomhash":"83006572d32540139585352f7ea7e274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874271307
+        }
+    ],
+    "wof:id":874271307,
+    "wof:lastmodified":1464314268,
+    "wof:name":"East Side Clinical Laboratory",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.546553,
+    41.902626,
+    -71.546553,
+    41.902626
+],
+  "geometry": {"coordinates":[-71.546553,41.902626],"type":"Point"}
+}

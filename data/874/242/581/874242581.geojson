@@ -1,0 +1,71 @@
+{
+  "id": 874242581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.558103,41.430028,-71.558103,41.430028",
+    "geom:latitude":41.430028,
+    "geom:longitude":-71.558103,
+    "iso:country":"US",
+    "sg:address":"1275 Ministerial Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5486",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53z2lmMYAXg8VxA6SuiGPg_41.430028_-71.558103@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313387,
+    "wof:geomhash":"e652e9ba6a2060139608290130bac70e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874242581
+        }
+    ],
+    "wof:id":874242581,
+    "wof:lastmodified":1464313387,
+    "wof:name":"United Rehab Management Group",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -71.558103,
+    41.430028,
+    -71.558103,
+    41.430028
+],
+  "geometry": {"coordinates":[-71.558103,41.430028],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874265401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452334,41.570881,-71.452334,41.570881",
+    "geom:latitude":41.570881,
+    "geom:longitude":-71.452334,
+    "iso:country":"US",
+    "sg:address":"99 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3285",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NP5K5CXzgnHXqkmQTExKU_41.570881_-71.452334@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314051,
+    "wof:geomhash":"359fc6890366e7b00989d1fef6e401f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874265401
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874265401
+        }
+    ],
+    "wof:id":874265401,
+    "wof:lastmodified":1464314051,
+    "wof:name":"Book Garden",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -71.452334,
+    41.570881,
+    -71.452334,
+    41.570881
+],
+  "geometry": {"coordinates":[-71.45233399999999,41.570881],"type":"Point"}
+}

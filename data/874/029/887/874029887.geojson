@@ -1,0 +1,75 @@
+{
+  "id": 874029887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299492,41.519674,-71.299492,41.519674",
+    "geom:latitude":41.519674,
+    "geom:longitude":-71.299492,
+    "iso:country":"US",
+    "sg:address":"659 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 8890",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bGRvqf0h1gvTsa1CWkQuj_41.519674_-71.299492@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311048,
+    "wof:geomhash":"88974c95432c85ba83e504b0d3bca950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874029887
+        }
+    ],
+    "wof:id":874029887,
+    "wof:lastmodified":1464311048,
+    "wof:name":"Bella's Pizza",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.299492,
+    41.519674,
+    -71.299492,
+    41.519674
+],
+  "geometry": {"coordinates":[-71.299492,41.519674],"type":"Point"}
+}

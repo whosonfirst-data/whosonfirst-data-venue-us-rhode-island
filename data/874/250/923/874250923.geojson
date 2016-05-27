@@ -1,0 +1,73 @@
+{
+  "id": 874250923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.719632,41.505422,-71.719632,41.505422",
+    "geom:latitude":41.505422,
+    "geom:longitude":-71.719632,
+    "iso:country":"US",
+    "sg:address":"60 Highview Ave",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 0919",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VRRF7EHgoxUYmgoGVmAz5_41.505422_-71.719632@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313584,
+    "wof:geomhash":"42af8e1d95edc5536d335cb2497877d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874250923
+        }
+    ],
+    "wof:id":874250923,
+    "wof:lastmodified":1464313584,
+    "wof:name":"Richmond Burner Svc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.719632,
+    41.505422,
+    -71.719632,
+    41.505422
+],
+  "geometry": {"coordinates":[-71.719632,41.505422],"type":"Point"}
+}

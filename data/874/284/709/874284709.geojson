@@ -1,0 +1,74 @@
+{
+  "id": 874284709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400101,41.888401,-71.400101,41.888401",
+    "geom:latitude":41.888401,
+    "geom:longitude":-71.400101,
+    "iso:country":"US",
+    "sg:address":"38 Crossman St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 2150",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "opportunity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K6IyN1b9u9KFf8bcHqEfh_41.888273_-71.400071@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314803,
+    "wof:geomhash":"1b8b470a65878b48900735bdc86a2c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874284709
+        }
+    ],
+    "wof:id":874284709,
+    "wof:lastmodified":1464314803,
+    "wof:name":"Brava Employment Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "opportunity"
+    ]
+},
+  "bbox": [
+    -71.400101,
+    41.888401,
+    -71.400101,
+    41.888401
+],
+  "geometry": {"coordinates":[-71.40010100000001,41.888401],"type":"Point"}
+}

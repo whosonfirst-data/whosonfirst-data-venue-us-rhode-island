@@ -1,0 +1,66 @@
+{
+  "id": 874261295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476093,41.843236,-71.476093,41.843236",
+    "geom:latitude":41.843236,
+    "geom:longitude":-71.476093,
+    "iso:country":"US",
+    "sg:address":"11 Elmo St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 9391",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FgY2TDtkDcNIuDjv7EFH0_41.843236_-71.476093@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313901,
+    "wof:geomhash":"c35d95c602bce0209a2363d86c8242d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874261295
+        }
+    ],
+    "wof:id":874261295,
+    "wof:lastmodified":1464313901,
+    "wof:name":"Cafe Mangiare",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.476093,
+    41.843236,
+    -71.476093,
+    41.843236
+],
+  "geometry": {"coordinates":[-71.47609300000001,41.843236],"type":"Point"}
+}

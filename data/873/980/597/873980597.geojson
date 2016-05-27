@@ -1,0 +1,71 @@
+{
+  "id": 873980597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433203,41.466108,-71.433203,41.466108",
+    "geom:latitude":41.466108,
+    "geom:longitude":-71.433203,
+    "iso:country":"US",
+    "sg:address":"750 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1684",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oiSQd1wWCFQnS5HqQMUQk_41.466108_-71.433203@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310595,
+    "wof:geomhash":"c41db6549a0c5957eda62fd2654f5b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":873980597
+        }
+    ],
+    "wof:id":873980597,
+    "wof:lastmodified":1464310595,
+    "wof:name":"Green Hill Builders Inc",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.433203,
+    41.466108,
+    -71.433203,
+    41.466108
+],
+  "geometry": {"coordinates":[-71.43320300000001,41.466108],"type":"Point"}
+}

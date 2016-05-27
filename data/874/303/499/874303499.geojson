@@ -1,0 +1,92 @@
+{
+  "id": 874303499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402651,41.824042,-71.402651,41.824042",
+    "geom:latitude":41.824042,
+    "geom:longitude":-71.402651,
+    "iso:country":"US",
+    "sg:address":"Brown University 21 Brown Street",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 863 2942",
+    "sg:postcode":"02912",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "flavor",
+        "local",
+        "historical"
+    ],
+    "sg:website":"dl.lib.brown.edu/libweb/about/amb/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79t1BVoDAGvbCgwXTWVxZd_41.824042_-71.402651@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315512,
+    "wof:geomhash":"1cb0192eca54757cb9eed0206ba6f0f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874303499
+        }
+    ],
+    "wof:id":874303499,
+    "wof:lastmodified":1464315512,
+    "wof:name":"Annmary Brown Memorial",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "flavor",
+        "local",
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.402651,
+    41.824042,
+    -71.402651,
+    41.824042
+],
+  "geometry": {"coordinates":[-71.40265100000001,41.824042],"type":"Point"}
+}

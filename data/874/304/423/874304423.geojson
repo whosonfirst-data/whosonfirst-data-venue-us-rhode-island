@@ -1,0 +1,70 @@
+{
+  "id": 874304423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517349,41.913833,-71.517349,41.913833",
+    "geom:latitude":41.913833,
+    "geom:longitude":-71.517349,
+    "iso:country":"US",
+    "sg:address":"945 Douglas Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 9200",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.smithfieldsuites.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IEXnuCovg0GgqRL9WiPr0_41.913833_-71.517349@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315544,
+    "wof:geomhash":"48cf6ebd2e26548d7e6674ae95e61230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874304423
+        }
+    ],
+    "wof:id":874304423,
+    "wof:lastmodified":1464315544,
+    "wof:name":"Hampton Inn and Suites",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -71.517349,
+    41.913833,
+    -71.517349,
+    41.913833
+],
+  "geometry": {"coordinates":[-71.517349,41.913833],"type":"Point"}
+}

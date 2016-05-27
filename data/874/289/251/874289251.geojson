@@ -1,0 +1,95 @@
+{
+  "id": 874289251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.702393,41.955551,-71.702393,41.955551",
+    "geom:latitude":41.955551,
+    "geom:longitude":-71.702393,
+    "iso:country":"US",
+    "sg:address":"1 S Main St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 371 4138",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://providence.citysearch.com/profile/external/604249952/pascoag_ri/dunkin_donuts.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VMUyRqKHYwDx5XMrRYRkq_41.955551_-71.702393@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314986,
+    "wof:geomhash":"5d83d142fda7bd8e8cd1e4af72acb2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874289251
+        }
+    ],
+    "wof:id":874289251,
+    "wof:lastmodified":1464314986,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.702393,
+    41.955551,
+    -71.702393,
+    41.955551
+],
+  "geometry": {"coordinates":[-71.702393,41.955551],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874283191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421799,41.858898,-71.421799,41.858898",
+    "geom:latitude":41.858898,
+    "geom:longitude":-71.421799,
+    "iso:country":"US",
+    "sg:address":"819 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 2361",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RkPXvAXvGmAVmDqyZglok_41.859098_-71.421668@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314746,
+    "wof:geomhash":"2256a40acf1bbbf1dad3df7a061ade9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874283191
+        }
+    ],
+    "wof:id":874283191,
+    "wof:lastmodified":1464314746,
+    "wof:name":"Frank's Sandwich Shop",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.421799,
+    41.858898,
+    -71.421799,
+    41.858898
+],
+  "geometry": {"coordinates":[-71.42179899999999,41.858898],"type":"Point"}
+}

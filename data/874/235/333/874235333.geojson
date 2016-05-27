@@ -1,0 +1,79 @@
+{
+  "id": 874235333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4206,41.854275,-71.4206,41.854275",
+    "geom:latitude":41.854275,
+    "geom:longitude":-71.4206,
+    "iso:country":"US",
+    "sg:address":"639 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 3509",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "precious",
+        "metal",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c2IKl4cmRaaPcZtAy0BTJ_41.854275_-71.420600@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313247,
+    "wof:geomhash":"b95bd354b0ab5a6e9d97242ff2eff579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874235333
+        }
+    ],
+    "wof:id":874235333,
+    "wof:lastmodified":1464313247,
+    "wof:name":"Chris Jewelry Co",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "precious",
+        "metal",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.4206,
+    41.854275,
+    -71.4206,
+    41.854275
+],
+  "geometry": {"coordinates":[-71.42059999999999,41.854275],"type":"Point"}
+}

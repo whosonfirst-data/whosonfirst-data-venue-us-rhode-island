@@ -1,0 +1,71 @@
+{
+  "id": 874202911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677457,41.580531,-71.677457,41.580531",
+    "geom:latitude":41.580531,
+    "geom:longitude":-71.677457,
+    "iso:country":"US",
+    "sg:address":"227 W Shore Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 392 1237",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85834465,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pEopp170OnvA56QjpdHdW_41.580531_-71.677457@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312873,
+    "wof:geomhash":"528e7ded97225eaa4a139920cb0a4e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85834465,
+            "region_id":85688509,
+            "venue_id":874202911
+        }
+    ],
+    "wof:id":874202911,
+    "wof:lastmodified":1464312873,
+    "wof:name":"Northland Building Systems",
+    "wof:parent_id":85834465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.677457,
+    41.580531,
+    -71.677457,
+    41.580531
+],
+  "geometry": {"coordinates":[-71.677457,41.580531],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874287437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447532,41.864382,-71.447532,41.864382",
+    "geom:latitude":41.864382,
+    "geom:longitude":-71.447532,
+    "iso:country":"US",
+    "sg:address":"1588 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/138877-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4310",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZWAd08vNlVxY3bj6tl7wk_41.864382_-71.447532@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314911,
+    "wof:geomhash":"9b3b57cd9aacbf008d38c2f2876b4088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874287437
+        }
+    ],
+    "wof:id":874287437,
+    "wof:lastmodified":1464314911,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.447532,
+    41.864382,
+    -71.447532,
+    41.864382
+],
+  "geometry": {"coordinates":[-71.447532,41.864382],"type":"Point"}
+}

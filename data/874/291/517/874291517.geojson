@@ -1,0 +1,76 @@
+{
+  "id": 874291517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439589,41.958947,-71.439589,41.958947",
+    "geom:latitude":41.958947,
+    "geom:longitude":-71.439589,
+    "iso:country":"US",
+    "sg:address":"17 Rocky Crest Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 9233",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wgAhlhiXGq6X8TPwfGGvA_41.958947_-71.439589@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315071,
+    "wof:geomhash":"95125ca1a812da1180a1c7480bcea03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291517
+        }
+    ],
+    "wof:id":874291517,
+    "wof:lastmodified":1464315071,
+    "wof:name":"Manville Realty",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "park"
+    ]
+},
+  "bbox": [
+    -71.439589,
+    41.958947,
+    -71.439589,
+    41.958947
+],
+  "geometry": {"coordinates":[-71.439589,41.958947],"type":"Point"}
+}

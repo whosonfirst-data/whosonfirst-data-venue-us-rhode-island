@@ -1,0 +1,76 @@
+{
+  "id": 874292721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448303,41.8955,-71.448303,41.8955",
+    "geom:latitude":41.8955,
+    "geom:longitude":-71.448303,
+    "iso:country":"US",
+    "sg:address":"1688 Louisquisset Pike",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 2722",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nHIXCPgzwbLGec8GJtfx6_41.895500_-71.448303@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315114,
+    "wof:geomhash":"f4d8a6d69e0f4978b83f72a130be2169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874292721
+        }
+    ],
+    "wof:id":874292721,
+    "wof:lastmodified":1464315114,
+    "wof:name":"Lincoln Gardens",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -71.448303,
+    41.8955,
+    -71.448303,
+    41.8955
+],
+  "geometry": {"coordinates":[-71.448303,41.8955],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874288133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430987,41.823935,-71.430987,41.823935",
+    "geom:latitude":41.823935,
+    "geom:longitude":-71.430987,
+    "iso:country":"US",
+    "sg:address":"409 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/274869-tammany-hall-pub--parlor/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 3180",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29YqAs9D5sR4dZrIrtnlf3_41.824000_-71.431565@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314940,
+    "wof:geomhash":"5bea29fdcfae2910e0daf373808deeb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874288133
+        }
+    ],
+    "wof:id":874288133,
+    "wof:lastmodified":1464314940,
+    "wof:name":"Tammany Hall Pub & Parlor",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.430987,
+    41.823935,
+    -71.430987,
+    41.823935
+],
+  "geometry": {"coordinates":[-71.430987,41.823935],"type":"Point"}
+}

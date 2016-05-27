@@ -1,0 +1,86 @@
+{
+  "id": 874294563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4188,41.8167,-71.4188,41.8167",
+    "geom:latitude":41.8167,
+    "geom:longitude":-71.4188,
+    "iso:country":"US",
+    "sg:address":"190 Broad St Ste 1",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 5454",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "interior",
+        "management",
+        "property",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pGse8aECSWKeG9FLtH2Kw_41.816700_-71.418800@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315181,
+    "wof:geomhash":"92a76dbdec2b2a5a93421ad37e220330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874294563
+        }
+    ],
+    "wof:id":874294563,
+    "wof:lastmodified":1464315181,
+    "wof:name":"Consultants Inc",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "management",
+        "property",
+        "design"
+    ]
+},
+  "bbox": [
+    -71.4188,
+    41.8167,
+    -71.4188,
+    41.8167
+],
+  "geometry": {"coordinates":[-71.4188,41.8167],"type":"Point"}
+}

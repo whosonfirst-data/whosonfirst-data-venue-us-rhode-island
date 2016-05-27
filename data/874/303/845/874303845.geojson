@@ -1,0 +1,87 @@
+{
+  "id": 874303845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3596,41.816797,-71.3596,41.816797",
+    "geom:latitude":41.816797,
+    "geom:longitude":-71.3596,
+    "iso:country":"US",
+    "sg:address":"35 Swan St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 9784",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N1rTQJ1YceEQ8qyq19ajn_41.816797_-71.359600@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315523,
+    "wof:geomhash":"ff992e0ce73f139dfdc9573e18ff8b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874303845
+        }
+    ],
+    "wof:id":874303845,
+    "wof:lastmodified":1464315523,
+    "wof:name":"Beehive Childhood Center",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.3596,
+    41.816797,
+    -71.3596,
+    41.816797
+],
+  "geometry": {"coordinates":[-71.3596,41.816797],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874192267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.299377,41.517115,-71.299377,41.517115",
+    "geom:latitude":41.517115,
+    "geom:longitude":-71.299377,
+    "iso:country":"US",
+    "sg:address":"71 E Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 7560",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "money",
+        "transfer"
+    ],
+    "sg:website":"www.shaws.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7967dL8CaezV0tF2FXEj1v_41.517115_-71.299377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312761,
+    "wof:geomhash":"3b73ccbef2120ad1fd64e23c8e021249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874192267
+        }
+    ],
+    "wof:id":874192267,
+    "wof:lastmodified":1464312761,
+    "wof:name":"Western Union",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -71.299377,
+    41.517115,
+    -71.299377,
+    41.517115
+],
+  "geometry": {"coordinates":[-71.29937700000001,41.517115],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874287885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480202,41.728076,-71.480202,41.728076",
+    "geom:latitude":41.728076,
+    "geom:longitude":-71.480202,
+    "iso:country":"US",
+    "sg:address":"336 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/9363-twist-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 734 4440",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7c9DYzdHRiOfLNlMpK8eLs_41.727765_-71.480093@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314931,
+    "wof:geomhash":"562935ca66bb12e535bdc4f822c80c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874287885
+        }
+    ],
+    "wof:id":874287885,
+    "wof:lastmodified":1464314931,
+    "wof:name":"Twist Restaurant",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.480202,
+    41.728076,
+    -71.480202,
+    41.728076
+],
+  "geometry": {"coordinates":[-71.48020200000001,41.728076],"type":"Point"}
+}

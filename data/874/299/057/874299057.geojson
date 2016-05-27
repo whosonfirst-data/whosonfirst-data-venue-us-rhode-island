@@ -1,0 +1,77 @@
+{
+  "id": 874299057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424984,41.867698,-71.424984,41.867698",
+    "geom:latitude":41.867698,
+    "geom:longitude":-71.424984,
+    "iso:country":"US",
+    "sg:address":"1058 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 4400",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mediterranean",
+        "gluten-free"
+    ],
+    "sg:website":"www.encorenprov.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aP92y56QYQpsCGCqdOMvi_41.867698_-71.424984@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315356,
+    "wof:geomhash":"d8ed0444754d18df488da4715185d7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299057
+        }
+    ],
+    "wof:id":874299057,
+    "wof:lastmodified":1464315356,
+    "wof:name":"Encore",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean",
+        "gluten-free"
+    ]
+},
+  "bbox": [
+    -71.424984,
+    41.867698,
+    -71.424984,
+    41.867698
+],
+  "geometry": {"coordinates":[-71.42498399999999,41.867698],"type":"Point"}
+}

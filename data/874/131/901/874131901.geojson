@@ -1,0 +1,76 @@
+{
+  "id": 874131901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442284,41.740221,-71.442284,41.740221",
+    "geom:latitude":41.740221,
+    "geom:longitude":-71.442284,
+    "iso:country":"US",
+    "sg:address":"57 Vermont Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 0344",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpet"
+    ],
+    "sg:website":"www.stanleysteemer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WskbTfhqqB6AWOYLyHMy1_41.740221_-71.442284@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312158,
+    "wof:geomhash":"f643a1acb7cc635520e75e93f327901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874131901
+        }
+    ],
+    "wof:id":874131901,
+    "wof:lastmodified":1464312158,
+    "wof:name":"Stanley Steemer Carpet Cleaner",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpet"
+    ]
+},
+  "bbox": [
+    -71.442284,
+    41.740221,
+    -71.442284,
+    41.740221
+],
+  "geometry": {"coordinates":[-71.442284,41.740221],"type":"Point"}
+}

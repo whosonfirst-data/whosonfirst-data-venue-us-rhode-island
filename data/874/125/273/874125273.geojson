@@ -1,0 +1,74 @@
+{
+  "id": 874125273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436692,41.944575,-71.436692,41.944575",
+    "geom:latitude":41.944575,
+    "geom:longitude":-71.436692,
+    "iso:country":"US",
+    "sg:address":"1704 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 6660",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "sg:website":"www.speedeecorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YhvlUFKDVcc4hxVRKazEs_41.944575_-71.436692@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312088,
+    "wof:geomhash":"87d7d8acbc73a40964ed7eb2dfaa0a68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874125273
+        }
+    ],
+    "wof:id":874125273,
+    "wof:lastmodified":1464312088,
+    "wof:name":"Speedee Oil Change & Tune Up",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.436692,
+    41.944575,
+    -71.436692,
+    41.944575
+],
+  "geometry": {"coordinates":[-71.43669199999999,41.944575],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874284861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462601,41.819,-71.462601,41.819",
+    "geom:latitude":41.819,
+    "geom:longitude":-71.462601,
+    "iso:country":"US",
+    "sg:address":"559 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 4554",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker",
+        "pie"
+    ],
+    "sg:website":"http://www.buonosbakery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RK9sw8eNE2oaOoxYUuQrb_41.819204_-71.462741@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314808,
+    "wof:geomhash":"163a11f7a5de2326a554ecfddf0601f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874284861
+        }
+    ],
+    "wof:id":874284861,
+    "wof:lastmodified":1464314808,
+    "wof:name":"Buonos Italian Bakery",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker",
+        "pie"
+    ]
+},
+  "bbox": [
+    -71.462601,
+    41.819,
+    -71.462601,
+    41.819
+],
+  "geometry": {"coordinates":[-71.46260100000001,41.819],"type":"Point"}
+}

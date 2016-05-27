@@ -1,0 +1,79 @@
+{
+  "id": 874284277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415398,41.879601,-71.415398,41.879601",
+    "geom:latitude":41.879601,
+    "geom:longitude":-71.415398,
+    "iso:country":"US",
+    "sg:address":"610 Smithfield Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 0636",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R1Dm1Bq5fxg8XAShmvI0W_41.880017_-71.415734@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314783,
+    "wof:geomhash":"b6acdaae51dbeb435a46641e1f4eb2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874284277
+        }
+    ],
+    "wof:id":874284277,
+    "wof:lastmodified":1464314783,
+    "wof:name":"Luxury Cleaners Inc",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -71.415398,
+    41.879601,
+    -71.415398,
+    41.879601
+],
+  "geometry": {"coordinates":[-71.415398,41.879601],"type":"Point"}
+}

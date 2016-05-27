@@ -1,0 +1,69 @@
+{
+  "id": 873980377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443501,41.558273,-71.443501,41.558273",
+    "geom:latitude":41.558273,
+    "geom:longitude":-71.443501,
+    "iso:country":"US",
+    "sg:address":"450 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9293",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PhT4YpvDFXIbfWQOSMyVj_41.558273_-71.443501@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310590,
+    "wof:geomhash":"9b559b17a5fb55fb1c64fcc6380049c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":873980377
+        }
+    ],
+    "wof:id":873980377,
+    "wof:lastmodified":1464310590,
+    "wof:name":"North Kingstown United Mthdst",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.443501,
+    41.558273,
+    -71.443501,
+    41.558273
+],
+  "geometry": {"coordinates":[-71.443501,41.558273],"type":"Point"}
+}

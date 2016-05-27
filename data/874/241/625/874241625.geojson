@@ -1,0 +1,71 @@
+{
+  "id": 874241625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274296,41.704544,-71.274296,41.704544",
+    "geom:latitude":41.704544,
+    "geom:longitude":-71.274296,
+    "iso:country":"US",
+    "sg:address":"70 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3157",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bizyU8xK9jg8oSAQqmig2_41.704544_-71.274296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313370,
+    "wof:geomhash":"8445ef65e8b54ba1accf2d174ae30074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874241625
+        }
+    ],
+    "wof:id":874241625,
+    "wof:lastmodified":1464313370,
+    "wof:name":"Carl F Benevides Construction",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.274296,
+    41.704544,
+    -71.274296,
+    41.704544
+],
+  "geometry": {"coordinates":[-71.27429600000001,41.704544],"type":"Point"}
+}

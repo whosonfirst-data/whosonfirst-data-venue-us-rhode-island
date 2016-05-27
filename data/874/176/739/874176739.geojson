@@ -1,0 +1,75 @@
+{
+  "id": 874176739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.363049,41.811447,-71.363049,41.811447",
+    "geom:latitude":41.811447,
+    "geom:longitude":-71.363049,
+    "iso:country":"US",
+    "sg:address":"24 Brown St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 486 9811",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FWmA7UOJB18sKPdc8vbsL_41.811447_-71.363049@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312594,
+    "wof:geomhash":"16e9acda9086873dfd1c556d7ca9e192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874176739
+        }
+    ],
+    "wof:id":874176739,
+    "wof:lastmodified":1464312594,
+    "wof:name":"Car 54 Airport Limo Service",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -71.363049,
+    41.811447,
+    -71.363049,
+    41.811447
+],
+  "geometry": {"coordinates":[-71.363049,41.811447],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874029833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457561,41.589699,-71.457561,41.589699",
+    "geom:latitude":41.589699,
+    "geom:longitude":-71.457561,
+    "iso:country":"US",
+    "sg:address":"7610 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9279",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85848555,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FgOBUSIcPdMVVms0Ujt7p_41.589699_-71.457561@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311047,
+    "wof:geomhash":"ff940f7e47cb8bca4dd158288c813816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874029833
+        }
+    ],
+    "wof:id":874029833,
+    "wof:lastmodified":1464311047,
+    "wof:name":"R I Ballet Arts Academy",
+    "wof:parent_id":85848555,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.457561,
+    41.589699,
+    -71.457561,
+    41.589699
+],
+  "geometry": {"coordinates":[-71.457561,41.589699],"type":"Point"}
+}

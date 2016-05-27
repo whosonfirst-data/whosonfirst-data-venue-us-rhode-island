@@ -1,0 +1,75 @@
+{
+  "id": 874204829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393101,41.785725,-71.393101,41.785725",
+    "geom:latitude":41.785725,
+    "geom:longitude":-71.393101,
+    "iso:country":"US",
+    "sg:address":"321 Harbourside Blvd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4224",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nDkUpmslCQpGjw8TUFhqO_41.785725_-71.393101@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312892,
+    "wof:geomhash":"99a429a8dce6847ef1765140513154f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874204829
+        }
+    ],
+    "wof:id":874204829,
+    "wof:lastmodified":1464312892,
+    "wof:name":"Exchange City",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.393101,
+    41.785725,
+    -71.393101,
+    41.785725
+],
+  "geometry": {"coordinates":[-71.393101,41.785725],"type":"Point"}
+}

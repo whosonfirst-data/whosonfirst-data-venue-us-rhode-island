@@ -1,0 +1,94 @@
+{
+  "id": 874293419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430529,41.755211,-71.430529,41.755211",
+    "geom:latitude":41.755211,
+    "geom:longitude":-71.430529,
+    "iso:country":"US",
+    "sg:address":"47 Manson Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4242",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "tools-cutting",
+        "cutting",
+        "drilling",
+        "hand"
+    ],
+    "sg:website":"http://www.cookhammer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d9JFVldRCH65bnX5danrX_41.755211_-71.430529@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315137,
+    "wof:geomhash":"3826470a73368a8824f2ba8f245b0558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874293419
+        }
+    ],
+    "wof:id":874293419,
+    "wof:lastmodified":1464315137,
+    "wof:name":"Cook Hammer Company Inc",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "tools-cutting",
+        "cutting",
+        "drilling",
+        "hand"
+    ]
+},
+  "bbox": [
+    -71.430529,
+    41.755211,
+    -71.430529,
+    41.755211
+],
+  "geometry": {"coordinates":[-71.43052900000001,41.755211],"type":"Point"}
+}

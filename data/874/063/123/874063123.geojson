@@ -1,0 +1,75 @@
+{
+  "id": 874063123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429087,41.81382,-71.429087,41.81382",
+    "geom:latitude":41.81382,
+    "geom:longitude":-71.429087,
+    "iso:country":"US",
+    "sg:address":"73 Harrison St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 4168",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_725UAxtT7UVCX94mFeqJ6Z_41.813820_-71.429087@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311363,
+    "wof:geomhash":"f1787e0828f3df5d7dfcdaa7e27be935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874063123
+        }
+    ],
+    "wof:id":874063123,
+    "wof:lastmodified":1464311363,
+    "wof:name":"Car Tech",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.429087,
+    41.81382,
+    -71.429087,
+    41.81382
+],
+  "geometry": {"coordinates":[-71.429087,41.81382],"type":"Point"}
+}

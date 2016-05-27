@@ -1,0 +1,81 @@
+{
+  "id": 874241185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400883,41.848859,-71.400883,41.848859",
+    "geom:latitude":41.848859,
+    "geom:longitude":-71.400883,
+    "iso:country":"US",
+    "sg:address":"330 Camp St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 275 4200",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v0R96lct0SL5lM2aUUURF_41.848859_-71.400883@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313362,
+    "wof:geomhash":"f5550aed23fc582204cadec4ac4ec500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874241185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874241185
+        }
+    ],
+    "wof:id":874241185,
+    "wof:lastmodified":1464313362,
+    "wof:name":"US Property & Fiscal Officer",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.400883,
+    41.848859,
+    -71.400883,
+    41.848859
+],
+  "geometry": {"coordinates":[-71.40088299999999,41.848859],"type":"Point"}
+}

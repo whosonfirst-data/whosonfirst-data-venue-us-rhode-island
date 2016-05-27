@@ -1,0 +1,71 @@
+{
+  "id": 874278789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53191,41.986229,-71.53191,41.986229",
+    "geom:latitude":41.986229,
+    "geom:longitude":-71.53191,
+    "iso:country":"US",
+    "sg:address":"142 Bellevue Ave",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3405",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "civil",
+        "defense"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WhOfqaBllVzcMpb0Pg75L_41.986229_-71.531910@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314566,
+    "wof:geomhash":"245ef3993a508383d45696679a75adee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874278789
+        }
+    ],
+    "wof:id":874278789,
+    "wof:lastmodified":1464314566,
+    "wof:name":"Civil Air Patrol Inc",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "defense"
+    ]
+},
+  "bbox": [
+    -71.53191,
+    41.986229,
+    -71.53191,
+    41.986229
+],
+  "geometry": {"coordinates":[-71.53191,41.986229],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 874276381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.381348,41.890034,-71.381348,41.890034",
+    "geom:latitude":41.890034,
+    "geom:longitude":-71.381348,
+    "iso:country":"US",
+    "sg:address":"655 Roosevelt Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 729 0922",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PGWA4lX8laGcfmjjtvyhw_41.890034_-71.381348@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314473,
+    "wof:geomhash":"ea4f1f9f0ecbab96eaa06cbd9a42fc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874276381
+        }
+    ],
+    "wof:id":874276381,
+    "wof:lastmodified":1464314473,
+    "wof:name":"Air Control Sheet Metal Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.381348,
+    41.890034,
+    -71.381348,
+    41.890034
+],
+  "geometry": {"coordinates":[-71.381348,41.890034],"type":"Point"}
+}

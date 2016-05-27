@@ -1,0 +1,80 @@
+{
+  "id": 874287155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423987,41.747765,-71.423987,41.747765",
+    "geom:latitude":41.747765,
+    "geom:longitude":-71.423987,
+    "iso:country":"US",
+    "sg:address":"1112 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/126557-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 5006",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XcE7HStKQj4hVIT0rFnWu_41.747765_-71.423987@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314896,
+    "wof:geomhash":"c56ea2b867911a04118781e68055ceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874287155
+        }
+    ],
+    "wof:id":874287155,
+    "wof:lastmodified":1464314896,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.423987,
+    41.747765,
+    -71.423987,
+    41.747765
+],
+  "geometry": {"coordinates":[-71.423987,41.747765],"type":"Point"}
+}

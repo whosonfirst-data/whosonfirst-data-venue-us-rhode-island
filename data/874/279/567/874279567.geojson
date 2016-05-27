@@ -1,0 +1,71 @@
+{
+  "id": 874279567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440434,41.948775,-71.440434,41.948775",
+    "geom:latitude":41.948775,
+    "geom:longitude":-71.440434,
+    "iso:country":"US",
+    "sg:address":"2172 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 1763",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7er8ijsUriOKYKsEvt8jO3_41.948775_-71.440434@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314592,
+    "wof:geomhash":"11960ccb374a1e6b293a30c762c45a32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874279567
+        }
+    ],
+    "wof:id":874279567,
+    "wof:lastmodified":1464314592,
+    "wof:name":"Walker's Jewelry",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -71.440434,
+    41.948775,
+    -71.440434,
+    41.948775
+],
+  "geometry": {"coordinates":[-71.440434,41.948775],"type":"Point"}
+}

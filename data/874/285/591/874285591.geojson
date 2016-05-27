@@ -1,0 +1,77 @@
+{
+  "id": 874285591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426303,41.790913,-71.426303,41.790913",
+    "geom:latitude":41.790913,
+    "geom:longitude":-71.426303,
+    "iso:country":"US",
+    "sg:address":"51 Ardoene St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 0279",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61d954eeOEti2OB68CVqc3_41.790844_-71.425958@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314839,
+    "wof:geomhash":"6d08f170af17457c8c3cf2bbe6858d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874285591
+        }
+    ],
+    "wof:id":874285591,
+    "wof:lastmodified":1464314839,
+    "wof:name":"Providence Insulation & Replac",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.426303,
+    41.790913,
+    -71.426303,
+    41.790913
+],
+  "geometry": {"coordinates":[-71.426303,41.790913],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874243427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501351,41.587591,-71.501351,41.587591",
+    "geom:latitude":41.587591,
+    "geom:longitude":-71.501351,
+    "iso:country":"US",
+    "sg:address":"250 Scrabbletown Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 7493",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KPAlxkvTTeON8oetXt7Vg_41.587591_-71.501351@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313402,
+    "wof:geomhash":"36106e2a1cc88637aedd15c437d834a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874243427
+        }
+    ],
+    "wof:id":874243427,
+    "wof:lastmodified":1464313402,
+    "wof:name":"Castle Financial LLC",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.501351,
+    41.587591,
+    -71.501351,
+    41.587591
+],
+  "geometry": {"coordinates":[-71.501351,41.587591],"type":"Point"}
+}

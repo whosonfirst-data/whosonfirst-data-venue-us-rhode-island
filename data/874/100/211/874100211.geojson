@@ -1,0 +1,71 @@
+{
+  "id": 874100211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442555,41.955927,-71.442555,41.955927",
+    "geom:latitude":41.955927,
+    "geom:longitude":-71.442555,
+    "iso:country":"US",
+    "sg:address":"2208 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0075",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xpTG2trh96957tuOOCONP_41.955927_-71.442555@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311796,
+    "wof:geomhash":"2c2d3f9dff3738d1dac8a2253bd44815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874100211
+        }
+    ],
+    "wof:id":874100211,
+    "wof:lastmodified":1464311796,
+    "wof:name":"Roland's Tree & Yard Care",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.442555,
+    41.955927,
+    -71.442555,
+    41.955927
+],
+  "geometry": {"coordinates":[-71.442555,41.955927],"type":"Point"}
+}

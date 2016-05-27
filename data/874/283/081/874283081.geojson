@@ -1,0 +1,77 @@
+{
+  "id": 874283081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444397,41.8307,-71.444397,41.8307",
+    "geom:latitude":41.8307,
+    "geom:longitude":-71.444397,
+    "iso:country":"US",
+    "sg:address":"221 Academy Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 2228",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocery",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kg4tw6JI9hfqXCn5ywKP5_41.830491_-71.444168@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314742,
+    "wof:geomhash":"02bf6ceafe62fbbb462df508f9addf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874283081
+        }
+    ],
+    "wof:id":874283081,
+    "wof:lastmodified":1464314742,
+    "wof:name":"Los Primo Meatmarket",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.444397,
+    41.8307,
+    -71.444397,
+    41.8307
+],
+  "geometry": {"coordinates":[-71.444397,41.8307],"type":"Point"}
+}

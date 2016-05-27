@@ -1,0 +1,87 @@
+{
+  "id": 874286611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565897,41.676159,-71.565897,41.676159",
+    "geom:latitude":41.676159,
+    "geom:longitude":-71.565897,
+    "iso:country":"US",
+    "sg:address":"111 Hopkins Hill Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/coventry/138810-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 397 2339",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qMgjhc8gUlFh8aVbT3MSe_41.676159_-71.565897@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314877,
+    "wof:geomhash":"72e7644c0a96735ad11500388988aba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874286611
+        }
+    ],
+    "wof:id":874286611,
+    "wof:lastmodified":1464314877,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.565897,
+    41.676159,
+    -71.565897,
+    41.676159
+],
+  "geometry": {"coordinates":[-71.56589700000001,41.676159],"type":"Point"}
+}

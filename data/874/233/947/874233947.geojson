@@ -1,0 +1,69 @@
+{
+  "id": 874233947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475899,41.403079,-71.475899,41.403079",
+    "geom:latitude":41.403079,
+    "geom:longitude":-71.475899,
+    "iso:country":"US",
+    "sg:address":"1 Manning Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8574",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FkOhL9X0fhnfEPFWFwdZz_41.403079_-71.475899@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313219,
+    "wof:geomhash":"3a237e7480140cee4d6b33572c77d86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874233947
+        }
+    ],
+    "wof:id":874233947,
+    "wof:lastmodified":1464313219,
+    "wof:name":"Stanleys Liquor Store",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.475899,
+    41.403079,
+    -71.475899,
+    41.403079
+],
+  "geometry": {"coordinates":[-71.475899,41.403079],"type":"Point"}
+}

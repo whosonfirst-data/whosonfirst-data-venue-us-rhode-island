@@ -1,0 +1,76 @@
+{
+  "id": 874287035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49633,41.696807,-71.49633,41.696807",
+    "geom:latitude":41.696807,
+    "geom:longitude":-71.49633,
+    "iso:country":"US",
+    "sg:address":"989 Centerville Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/53352-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 0800",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13W3JSUIlSTID3Y7XVlnow_41.696807_-71.496330@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314891,
+    "wof:geomhash":"9db0b6553028f6cf506d5398b8d4210c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874287035
+        }
+    ],
+    "wof:id":874287035,
+    "wof:lastmodified":1464314891,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.49633,
+    41.696807,
+    -71.49633,
+    41.696807
+],
+  "geometry": {"coordinates":[-71.49633,41.696807],"type":"Point"}
+}

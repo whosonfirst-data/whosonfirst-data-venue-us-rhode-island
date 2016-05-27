@@ -1,0 +1,76 @@
+{
+  "id": 874285575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.635049,41.3823,-71.635049,41.3823",
+    "geom:latitude":41.3823,
+    "geom:longitude":-71.635049,
+    "iso:country":"US",
+    "sg:address":"4259 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 213 6033",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_605vHmcrfFNsuROmjgPxf8_41.382001_-71.635697@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314835,
+    "wof:geomhash":"1d64dd018f04bb1027c00efaccd6a61f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874285575
+        }
+    ],
+    "wof:id":874285575,
+    "wof:lastmodified":1464314835,
+    "wof:name":"Crystal Clean Cleaning",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "house"
+    ]
+},
+  "bbox": [
+    -71.635049,
+    41.3823,
+    -71.635049,
+    41.3823
+],
+  "geometry": {"coordinates":[-71.635049,41.3823],"type":"Point"}
+}

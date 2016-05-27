@@ -1,0 +1,93 @@
+{
+  "id": 874076793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465029,41.805899,-71.465029,41.805899",
+    "geom:latitude":41.805899,
+    "geom:longitude":-71.465029,
+    "iso:country":"US",
+    "sg:address":"985 Plainfield St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 0650",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "info",
+        "substance",
+        "outpatient",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction"
+    ],
+    "sg:website":"www.centerforbehavioralhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31yflhQ6ePY8jXMtZfxfjQ_41.805899_-71.465029@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311518,
+    "wof:geomhash":"0b7dcccd7a5b88e1b641ee9978c99297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874076793
+        }
+    ],
+    "wof:id":874076793,
+    "wof:lastmodified":1464311518,
+    "wof:name":"Center For Behavioral Hlth RI",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "substance",
+        "outpatient",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction"
+    ]
+},
+  "bbox": [
+    -71.465029,
+    41.805899,
+    -71.465029,
+    41.805899
+],
+  "geometry": {"coordinates":[-71.465029,41.805899],"type":"Point"}
+}

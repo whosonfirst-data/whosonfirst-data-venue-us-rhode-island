@@ -1,0 +1,75 @@
+{
+  "id": 874285701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472099,41.8381,-71.472099,41.8381",
+    "geom:latitude":41.8381,
+    "geom:longitude":-71.472099,
+    "iso:country":"US",
+    "sg:address":"4 Tag Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9000",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bk0LTedSPtqU8oitUXJGl_41.837930_-71.472418@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314847,
+    "wof:geomhash":"fb223ffc4fe5ff0d9d4d77e3ddbb6f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874285701
+        }
+    ],
+    "wof:id":874285701,
+    "wof:lastmodified":1464314847,
+    "wof:name":"Gino's Auto Sales & Auto Body Works Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.472099,
+    41.8381,
+    -71.472099,
+    41.8381
+],
+  "geometry": {"coordinates":[-71.472099,41.8381],"type":"Point"}
+}

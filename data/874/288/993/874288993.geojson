@@ -1,0 +1,87 @@
+{
+  "id": 874288993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.689268,41.967757,-71.689268,41.967757",
+    "geom:latitude":41.967757,
+    "geom:longitude":-71.689268,
+    "iso:country":"US",
+    "sg:address":"120 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2266",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "store",
+        "wallcoverings"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M6LGNOsYVcZH4unFVy82I_41.967757_-71.689268@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314977,
+    "wof:geomhash":"c44aff2bd1414b83e318b3ff0ea6989c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874288993
+        }
+    ],
+    "wof:id":874288993,
+    "wof:lastmodified":1464314977,
+    "wof:name":"Lawrence Bros Inc",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "store",
+        "wallcoverings"
+    ]
+},
+  "bbox": [
+    -71.689268,
+    41.967757,
+    -71.689268,
+    41.967757
+],
+  "geometry": {"coordinates":[-71.689268,41.967757],"type":"Point"}
+}

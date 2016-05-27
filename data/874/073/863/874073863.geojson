@@ -1,0 +1,73 @@
+{
+  "id": 874073863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264642,41.67491,-71.264642,41.67491",
+    "geom:latitude":41.67491,
+    "geom:longitude":-71.264642,
+    "iso:country":"US",
+    "sg:address":"6 Francis St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 5082",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HM3QYcF8GXFmMu6ymFkrY_41.674910_-71.264642@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311492,
+    "wof:geomhash":"4ed1fd04a16221e1234314214df440a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874073863
+        }
+    ],
+    "wof:id":874073863,
+    "wof:lastmodified":1464311492,
+    "wof:name":"Sal's Auto Body",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.264642,
+    41.67491,
+    -71.264642,
+    41.67491
+],
+  "geometry": {"coordinates":[-71.26464199999999,41.67491],"type":"Point"}
+}

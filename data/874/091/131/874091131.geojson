@@ -1,0 +1,71 @@
+{
+  "id": 874091131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515651,41.985314,-71.515651,41.985314",
+    "geom:latitude":41.985314,
+    "geom:longitude":-71.515651,
+    "iso:country":"US",
+    "sg:address":"1434 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 4435",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2agSLiwDIG6TnYHq9Ehvzm_41.985314_-71.515651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311677,
+    "wof:geomhash":"3de5ce8b03b971b0ebe81497007a4785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874091131
+        }
+    ],
+    "wof:id":874091131,
+    "wof:lastmodified":1464311677,
+    "wof:name":"Autozone",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.515651,
+    41.985314,
+    -71.515651,
+    41.985314
+],
+  "geometry": {"coordinates":[-71.51565100000001,41.985314],"type":"Point"}
+}

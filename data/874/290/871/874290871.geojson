@@ -1,0 +1,70 @@
+{
+  "id": 874290871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.371101,41.892799,-71.371101,41.892799",
+    "geom:latitude":41.892799,
+    "geom:longitude":-71.371101,
+    "iso:country":"US",
+    "sg:address":"19 Benefit St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 9257",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y80Hxz0J3i6yJq4XDw6hg_41.892799_-71.371101@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315041,
+    "wof:geomhash":"2b79e0fab20acc056b52c65547926566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874290871
+        }
+    ],
+    "wof:id":874290871,
+    "wof:lastmodified":1464315041,
+    "wof:name":"Moe's Auto Sales & Service",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.371101,
+    41.892799,
+    -71.371101,
+    41.892799
+],
+  "geometry": {"coordinates":[-71.371101,41.892799],"type":"Point"}
+}

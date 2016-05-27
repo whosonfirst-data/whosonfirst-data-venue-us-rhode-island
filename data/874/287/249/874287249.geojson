@@ -1,0 +1,86 @@
+{
+  "id": 874287249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.500581,41.711679,-71.500581,41.711679",
+    "geom:latitude":41.711679,
+    "geom:longitude":-71.500581,
+    "iso:country":"US",
+    "sg:address":"350 Providence St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/53942-fu-ming/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 0522",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85844759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VMuBQzj2TsJcmrN4N3kLF_41.711679_-71.500581@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314898,
+    "wof:geomhash":"974b26b5976ef4257103d414851196fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287249
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874287249
+        }
+    ],
+    "wof:id":874287249,
+    "wof:lastmodified":1464314898,
+    "wof:name":"Fu Ming",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.500581,
+    41.711679,
+    -71.500581,
+    41.711679
+],
+  "geometry": {"coordinates":[-71.500581,41.711679],"type":"Point"}
+}

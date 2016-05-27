@@ -1,0 +1,78 @@
+{
+  "id": 874299471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411232,41.833111,-71.411232,41.833111",
+    "geom:latitude":41.833111,
+    "geom:longitude":-71.411232,
+    "iso:country":"US",
+    "sg:address":"2 Charles St Unit 2",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 1112",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "sg:website":"http://www.bayadanurses.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qTjJnCwWc3YIsYV2CA3be_41.833111_-71.411232@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315370,
+    "wof:geomhash":"e401428b5886c70b8606deb17b65fbc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874299471
+        }
+    ],
+    "wof:id":874299471,
+    "wof:lastmodified":1464315370,
+    "wof:name":"Bayada Nurses",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.411232,
+    41.833111,
+    -71.411232,
+    41.833111
+],
+  "geometry": {"coordinates":[-71.411232,41.833111],"type":"Point"}
+}

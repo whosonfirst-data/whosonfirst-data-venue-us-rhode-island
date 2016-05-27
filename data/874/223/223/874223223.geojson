@@ -1,0 +1,86 @@
+{
+  "id": 874223223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493278,41.430077,-71.493278,41.430077",
+    "geom:latitude":41.430077,
+    "geom:longitude":-71.493278,
+    "iso:country":"US",
+    "sg:address":"210 Salt Pond Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4050",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nSHMiJiwxqMoAOnY89FmH_41.430077_-71.493278@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313096,
+    "wof:geomhash":"d6dc6f4892016bd4993de484cc549eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874223223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874223223
+        }
+    ],
+    "wof:id":874223223,
+    "wof:lastmodified":1464313096,
+    "wof:name":"Marina Bay Docking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.493278,
+    41.430077,
+    -71.493278,
+    41.430077
+],
+  "geometry": {"coordinates":[-71.493278,41.430077],"type":"Point"}
+}

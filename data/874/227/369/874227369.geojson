@@ -1,0 +1,70 @@
+{
+  "id": 874227369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.292973,41.50302,-71.292973,41.50302",
+    "geom:latitude":41.50302,
+    "geom:longitude":-71.292973,
+    "iso:country":"US",
+    "sg:address":"174 Green End Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0086",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lGIUKVsJe4BD0EMEc5gJn_41.503020_-71.292973@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313134,
+    "wof:geomhash":"acf3e2ebb66dc2e91cd58ccafd4721ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874227369
+        }
+    ],
+    "wof:id":874227369,
+    "wof:lastmodified":1464313134,
+    "wof:name":"Green End Florists",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.292973,
+    41.50302,
+    -71.292973,
+    41.50302
+],
+  "geometry": {"coordinates":[-71.292973,41.50302],"type":"Point"}
+}

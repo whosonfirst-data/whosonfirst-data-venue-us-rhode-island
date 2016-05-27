@@ -1,0 +1,71 @@
+{
+  "id": 874264223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.295954,41.725049,-71.295954,41.725049",
+    "geom:latitude":41.725049,
+    "geom:longitude":-71.295954,
+    "iso:country":"US",
+    "sg:address":"9 Preston Dr",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 7022",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uP5pmoaUPA8qHTB15GVN5_41.725049_-71.295954@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313998,
+    "wof:geomhash":"ee02e128872cc729d266c21edbf73bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874264223
+        }
+    ],
+    "wof:id":874264223,
+    "wof:lastmodified":1464313998,
+    "wof:name":"Nanomaterials Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.295954,
+    41.725049,
+    -71.295954,
+    41.725049
+],
+  "geometry": {"coordinates":[-71.29595399999999,41.725049],"type":"Point"}
+}

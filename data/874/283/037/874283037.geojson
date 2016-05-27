@@ -1,0 +1,75 @@
+{
+  "id": 874283037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398598,41.868301,-71.398598,41.868301",
+    "geom:latitude":41.868301,
+    "geom:longitude":-71.398598,
+    "iso:country":"US",
+    "sg:address":"901 Main St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 0220",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H9QrF2AICCl3dtXQCFD0R_41.867978_-71.398980@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314741,
+    "wof:geomhash":"26f79ac35365f20d57ce6aaf305c7c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874283037
+        }
+    ],
+    "wof:id":874283037,
+    "wof:lastmodified":1464314741,
+    "wof:name":"Main Street Market",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -71.398598,
+    41.868301,
+    -71.398598,
+    41.868301
+],
+  "geometry": {"coordinates":[-71.39859800000001,41.868301],"type":"Point"}
+}

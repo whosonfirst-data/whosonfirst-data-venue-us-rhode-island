@@ -1,0 +1,72 @@
+{
+  "id": 874303259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468138,41.85385,-71.468138,41.85385",
+    "geom:latitude":41.85385,
+    "geom:longitude":-71.468138,
+    "iso:country":"US",
+    "sg:address":"1650 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4700",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "planning",
+        "event"
+    ],
+    "sg:website":"www.borrellievents.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802791,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vfWShkxUQlqY4Iinvdi74_41.853850_-71.468138@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315504,
+    "wof:geomhash":"af6cb7e71a7b848dcb8792167c23de72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85802791,
+            "region_id":85688509,
+            "venue_id":874303259
+        }
+    ],
+    "wof:id":874303259,
+    "wof:lastmodified":1464315504,
+    "wof:name":"Borrelli Events Services",
+    "wof:parent_id":85802791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "event"
+    ]
+},
+  "bbox": [
+    -71.468138,
+    41.85385,
+    -71.468138,
+    41.85385
+],
+  "geometry": {"coordinates":[-71.468138,41.85385],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874179185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480353,41.434303,-71.480353,41.434303",
+    "geom:latitude":41.434303,
+    "geom:longitude":-71.480353,
+    "iso:country":"US",
+    "sg:address":"350 Kingstown Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8565",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cPuN7dfvOzpBvQSBI15TL_41.434303_-71.480353@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312622,
+    "wof:geomhash":"0ea6015e9bba248cbce88cf0ce9e7b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874179185
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874179185
+        }
+    ],
+    "wof:id":874179185,
+    "wof:lastmodified":1464312622,
+    "wof:name":"Endodontic Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.480353,
+    41.434303,
+    -71.480353,
+    41.434303
+],
+  "geometry": {"coordinates":[-71.48035299999999,41.434303],"type":"Point"}
+}

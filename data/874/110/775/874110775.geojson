@@ -1,0 +1,71 @@
+{
+  "id": 874110775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.264106,41.645107,-71.264106,41.645107",
+    "geom:latitude":41.645107,
+    "geom:longitude":-71.264106,
+    "iso:country":"US",
+    "sg:address":"13 Monkey Wrench Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 5434",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fla1WUV5qtMak8B1SSmrr_41.645107_-71.264106@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311936,
+    "wof:geomhash":"e60feb218afb36350baa7c23b2e925ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874110775
+        }
+    ],
+    "wof:id":874110775,
+    "wof:lastmodified":1464311936,
+    "wof:name":"Sisters Of St Dorothy",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.264106,
+    41.645107,
+    -71.264106,
+    41.645107
+],
+  "geometry": {"coordinates":[-71.264106,41.645107],"type":"Point"}
+}

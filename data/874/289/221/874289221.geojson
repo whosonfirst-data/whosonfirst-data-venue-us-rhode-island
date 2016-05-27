@@ -1,0 +1,73 @@
+{
+  "id": 874289221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.294274,41.542159,-71.294274,41.542159",
+    "geom:latitude":41.542159,
+    "geom:longitude":-71.294274,
+    "iso:country":"US",
+    "sg:address":"35 Roosters Way",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 862 2993",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YigcznszRz3iIsENOful1_41.542159_-71.294274@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314985,
+    "wof:geomhash":"1356579e527afac4fc1bac1871b10be3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874289221
+        }
+    ],
+    "wof:id":874289221,
+    "wof:lastmodified":1464314985,
+    "wof:name":"Gaines Trucking, Inc.",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -71.294274,
+    41.542159,
+    -71.294274,
+    41.542159
+],
+  "geometry": {"coordinates":[-71.294274,41.542159],"type":"Point"}
+}

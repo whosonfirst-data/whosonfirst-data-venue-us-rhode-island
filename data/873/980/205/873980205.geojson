@@ -1,0 +1,71 @@
+{
+  "id": 873980205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460837,41.849823,-71.460837,41.849823",
+    "geom:latitude":41.849823,
+    "geom:longitude":-71.460837,
+    "iso:country":"US",
+    "sg:address":"1515 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 6044",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NYhmEe5Z3ho1zqp6tFC4v_41.849823_-71.460837@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310587,
+    "wof:geomhash":"81f549e567bebbfa1ef83614037dcbdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":873980205
+        }
+    ],
+    "wof:id":873980205,
+    "wof:lastmodified":1464310587,
+    "wof:name":"Ocean State Pulmonary",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.460837,
+    41.849823,
+    -71.460837,
+    41.849823
+],
+  "geometry": {"coordinates":[-71.460837,41.849823],"type":"Point"}
+}

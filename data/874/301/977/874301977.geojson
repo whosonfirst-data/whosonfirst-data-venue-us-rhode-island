@@ -1,0 +1,70 @@
+{
+  "id": 874301977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445536,41.858252,-71.445536,41.858252",
+    "geom:latitude":41.858252,
+    "geom:longitude":-71.445536,
+    "iso:country":"US",
+    "sg:address":"1195 Douglas Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8411",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steakhouse"
+    ],
+    "sg:website":"www.rodiziosteakhouseRI.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J66wc3rVyM2P5OcIatz5n_41.858252_-71.445536@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315463,
+    "wof:geomhash":"d93f0063d4fd4dfbdf3f7a68cad44f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874301977
+        }
+    ],
+    "wof:id":874301977,
+    "wof:lastmodified":1464315463,
+    "wof:name":"Rodizio Steakhouse",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -71.445536,
+    41.858252,
+    -71.445536,
+    41.858252
+],
+  "geometry": {"coordinates":[-71.445536,41.858252],"type":"Point"}
+}

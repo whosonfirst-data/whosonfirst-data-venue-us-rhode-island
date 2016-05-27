@@ -1,0 +1,71 @@
+{
+  "id": 874253801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.509742,41.507052,-71.509742,41.507052",
+    "geom:latitude":41.507052,
+    "geom:longitude":-71.509742,
+    "iso:country":"US",
+    "sg:address":"953 Slocum Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7360",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machinery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZSMwqoHqQ0d5RLKfsrWQZ_41.507052_-71.509742@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313641,
+    "wof:geomhash":"be97a1dcf21f269096673dbfcbdc3d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874253801
+        }
+    ],
+    "wof:id":874253801,
+    "wof:lastmodified":1464313641,
+    "wof:name":"South County Repair",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machinery"
+    ]
+},
+  "bbox": [
+    -71.509742,
+    41.507052,
+    -71.509742,
+    41.507052
+],
+  "geometry": {"coordinates":[-71.509742,41.507052],"type":"Point"}
+}

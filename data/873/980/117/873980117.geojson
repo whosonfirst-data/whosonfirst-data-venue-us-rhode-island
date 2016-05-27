@@ -1,0 +1,77 @@
+{
+  "id": 873980117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438302,41.728362,-71.438302,41.728362",
+    "geom:latitude":41.728362,
+    "geom:longitude":-71.438302,
+    "iso:country":"US",
+    "sg:address":"1960 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 9366",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CVpnilXXhZQ8WfbuHl0Ed_41.728362_-71.438302@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310585,
+    "wof:geomhash":"f6ea89d729e382aa0e4a156319a1e922",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":873980117
+        }
+    ],
+    "wof:id":873980117,
+    "wof:lastmodified":1464310585,
+    "wof:name":"New England Parking Co",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.438302,
+    41.728362,
+    -71.438302,
+    41.728362
+],
+  "geometry": {"coordinates":[-71.43830199999999,41.728362],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 874263605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395943,41.79357,-71.395943,41.79357",
+    "geom:latitude":41.79357,
+    "geom:longitude":-71.395943,
+    "iso:country":"US",
+    "sg:address":"75 Chapman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 9800",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "construction"
+    ],
+    "sg:website":"www.dimeo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VfIIdj20fyUKAi170c6G2_41.793570_-71.395943@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313978,
+    "wof:geomhash":"6cc9bcc7ae31f60738601bd4e11bbe6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874263605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874263605
+        }
+    ],
+    "wof:id":874263605,
+    "wof:lastmodified":1464313978,
+    "wof:name":"Dimeo Construction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction"
+    ]
+},
+  "bbox": [
+    -71.395943,
+    41.79357,
+    -71.395943,
+    41.79357
+],
+  "geometry": {"coordinates":[-71.395943,41.79357],"type":"Point"}
+}

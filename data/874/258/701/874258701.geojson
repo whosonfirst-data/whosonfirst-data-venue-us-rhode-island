@@ -1,0 +1,69 @@
+{
+  "id": 874258701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44406,41.861954,-71.44406,41.861954",
+    "geom:latitude":41.861954,
+    "geom:longitude":-71.44406,
+    "iso:country":"US",
+    "sg:address":"245 Rosner Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 6286",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PIZYdx1N5G9hdOxYFcEXW_41.861954_-71.444060@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313814,
+    "wof:geomhash":"80c99f3d733d0af3c2e535dcf483f671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874258701
+        }
+    ],
+    "wof:id":874258701,
+    "wof:lastmodified":1464313814,
+    "wof:name":"Nails By Rona",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.44406,
+    41.861954,
+    -71.44406,
+    41.861954
+],
+  "geometry": {"coordinates":[-71.44405999999999,41.861954],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874054877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444945,41.801848,-71.444945,41.801848",
+    "geom:latitude":41.801848,
+    "geom:longitude":-71.444945,
+    "iso:country":"US",
+    "sg:address":"912 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 1340",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S0wTrEMJd3laAx8A9IIqz_41.801848_-71.444945@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311291,
+    "wof:geomhash":"9d2439e40ef2a650a4520a907353b9f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874054877
+        }
+    ],
+    "wof:id":874054877,
+    "wof:lastmodified":1464311291,
+    "wof:name":"Cranston Cleaners Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.444945,
+    41.801848,
+    -71.444945,
+    41.801848
+],
+  "geometry": {"coordinates":[-71.444945,41.801848],"type":"Point"}
+}

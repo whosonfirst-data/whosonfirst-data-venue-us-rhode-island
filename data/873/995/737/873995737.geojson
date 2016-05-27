@@ -1,0 +1,75 @@
+{
+  "id": 873995737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4707,41.854297,-71.4707,41.854297",
+    "geom:latitude":41.854297,
+    "geom:longitude":-71.4707,
+    "iso:country":"US",
+    "sg:address":"1806 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8580",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802791,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p6fiF2sqVZ3nQCIOOngRb_41.854297_-71.470700@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310730,
+    "wof:geomhash":"501e0d4b643772b6eb34fdced3e5d4cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85802791,
+            "region_id":85688509,
+            "venue_id":873995737
+        }
+    ],
+    "wof:id":873995737,
+    "wof:lastmodified":1464310730,
+    "wof:name":"Music Magick Compact Discs",
+    "wof:parent_id":85802791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.4707,
+    41.854297,
+    -71.4707,
+    41.854297
+],
+  "geometry": {"coordinates":[-71.47069999999999,41.854297],"type":"Point"}
+}

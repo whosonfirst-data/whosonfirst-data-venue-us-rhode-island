@@ -1,0 +1,95 @@
+{
+  "id": 874300057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390999,41.8344,-71.390999,41.8344",
+    "geom:latitude":41.8344,
+    "geom:longitude":-71.390999,
+    "iso:country":"US",
+    "sg:address":"135 Elmgrove Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 3636",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "relocation",
+        "appraiser"
+    ],
+    "sg:website":"www.colemanrealtors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oWj3vV9yrgfu5XiU3z7Z0_41.834400_-71.390999@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315391,
+    "wof:geomhash":"1085d75dbe833373f988c436750c90f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874300057
+        }
+    ],
+    "wof:id":874300057,
+    "wof:lastmodified":1464315391,
+    "wof:name":"Coleman Realtors",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "relocation",
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.390999,
+    41.8344,
+    -71.390999,
+    41.8344
+],
+  "geometry": {"coordinates":[-71.39099899999999,41.8344],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873980277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.200217,41.541188,-71.200217,41.541188",
+    "geom:latitude":41.541188,
+    "geom:longitude":-71.200217,
+    "iso:country":"US",
+    "sg:address":"1 Town Way",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 2055",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DsmsiOXVZ2MFeLKtoG2Q9_41.541188_-71.200217@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310589,
+    "wof:geomhash":"1f0ed83707a02fc389126ba7dc2451ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":873980277
+        }
+    ],
+    "wof:id":873980277,
+    "wof:lastmodified":1464310589,
+    "wof:name":"Bidington Well Drilling",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -71.200217,
+    41.541188,
+    -71.200217,
+    41.541188
+],
+  "geometry": {"coordinates":[-71.20021699999999,41.541188],"type":"Point"}
+}

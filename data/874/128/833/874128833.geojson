@@ -1,0 +1,71 @@
+{
+  "id": 874128833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516301,41.575388,-71.516301,41.575388",
+    "geom:latitude":41.575388,
+    "geom:longitude":-71.516301,
+    "iso:country":"US",
+    "sg:address":"1 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9115",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lzrFbPvuQAy0iby2YXEhy_41.575388_-71.516301@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312119,
+    "wof:geomhash":"7729bb500f4b34e7bc2e61f1e4106b83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874128833
+        }
+    ],
+    "wof:id":874128833,
+    "wof:lastmodified":1464312119,
+    "wof:name":"Nick Littlefield Co",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.516301,
+    41.575388,
+    -71.516301,
+    41.575388
+],
+  "geometry": {"coordinates":[-71.516301,41.575388],"type":"Point"}
+}

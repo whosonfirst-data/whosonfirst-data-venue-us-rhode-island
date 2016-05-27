@@ -1,0 +1,73 @@
+{
+  "id": 874234615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564351,41.681622,-71.564351,41.681622",
+    "geom:latitude":41.681622,
+    "geom:longitude":-71.564351,
+    "iso:country":"US",
+    "sg:address":"804 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 7888",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twXRYWMmzVLPo2dQkvpfU_41.681622_-71.564351@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313232,
+    "wof:geomhash":"13e93fb09d3a03be7bfa34a45cd58d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874234615
+        }
+    ],
+    "wof:id":874234615,
+    "wof:lastmodified":1464313232,
+    "wof:name":"Ray Stewart's Auto Sales Grge",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.564351,
+    41.681622,
+    -71.564351,
+    41.681622
+],
+  "geometry": {"coordinates":[-71.564351,41.681622],"type":"Point"}
+}

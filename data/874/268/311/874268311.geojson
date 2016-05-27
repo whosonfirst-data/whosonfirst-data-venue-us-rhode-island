@@ -1,0 +1,76 @@
+{
+  "id": 874268311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46469,41.851801,-71.46469,41.851801",
+    "geom:latitude":41.851801,
+    "geom:longitude":-71.46469,
+    "iso:country":"US",
+    "sg:address":"3 Kristen Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9724",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iX1xAcufKMPBMOoU5pZhb_41.851801_-71.464690@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314160,
+    "wof:geomhash":"5a5808ef4a90f4ce9cf2b24ef5476541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874268311
+        }
+    ],
+    "wof:id":874268311,
+    "wof:lastmodified":1464314160,
+    "wof:name":"Greystone Mens Social Club",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.46469,
+    41.851801,
+    -71.46469,
+    41.851801
+],
+  "geometry": {"coordinates":[-71.46469,41.851801],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874259815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482918,41.866776,-71.482918,41.866776",
+    "geom:latitude":41.866776,
+    "geom:longitude":-71.482918,
+    "iso:country":"US",
+    "sg:address":"4 Karen Dr",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0921",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RnP1tPhvEwth4C82b7W7Q_41.866776_-71.482918@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313852,
+    "wof:geomhash":"15475b9ef0f0c2d8bd99a94a105e3abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874259815
+        }
+    ],
+    "wof:id":874259815,
+    "wof:lastmodified":1464313852,
+    "wof:name":"R N Electric Co",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.482918,
+    41.866776,
+    -71.482918,
+    41.866776
+],
+  "geometry": {"coordinates":[-71.482918,41.866776],"type":"Point"}
+}

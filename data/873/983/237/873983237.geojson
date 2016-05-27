@@ -1,0 +1,71 @@
+{
+  "id": 873983237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.309186,41.739754,-71.309186,41.739754",
+    "geom:latitude":41.739754,
+    "geom:longitude":-71.309186,
+    "iso:country":"US",
+    "sg:address":"57 Maple Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 4170",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vhqhLyzZZWwo7q76WvkND_41.739754_-71.309186@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310635,
+    "wof:geomhash":"0fb08c46e6eecdd9303e858209072946",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":873983237
+        }
+    ],
+    "wof:id":873983237,
+    "wof:lastmodified":1464310635,
+    "wof:name":"Stock Exchange",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -71.309186,
+    41.739754,
+    -71.309186,
+    41.739754
+],
+  "geometry": {"coordinates":[-71.309186,41.739754],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874142563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532702,41.523451,-71.532702,41.523451",
+    "geom:latitude":41.523451,
+    "geom:longitude":-71.532702,
+    "iso:country":"US",
+    "sg:address":"6 Laurel Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 378 4508",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fence"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dJHUtsJO8oPot8FyG8ZuJ_41.523451_-71.532702@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312258,
+    "wof:geomhash":"5d58eb777ac19e9d1d20056a11d14451",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874142563
+        }
+    ],
+    "wof:id":874142563,
+    "wof:lastmodified":1464312258,
+    "wof:name":"Greenwich Fence",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence"
+    ]
+},
+  "bbox": [
+    -71.532702,
+    41.523451,
+    -71.532702,
+    41.523451
+],
+  "geometry": {"coordinates":[-71.532702,41.523451],"type":"Point"}
+}

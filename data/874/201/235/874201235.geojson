@@ -1,0 +1,71 @@
+{
+  "id": 874201235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605898,41.404172,-71.605898,41.404172",
+    "geom:latitude":41.404172,
+    "geom:longitude":-71.605898,
+    "iso:country":"US",
+    "sg:address":"534 Shannock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2129",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fJDIptU2YXPAErIVp1SO6_41.404172_-71.605898@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312856,
+    "wof:geomhash":"e9b4761bf4d35d04f5749f44dbe4cf06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874201235
+        }
+    ],
+    "wof:id":874201235,
+    "wof:lastmodified":1464312856,
+    "wof:name":"Wakefield Heating Svc/Repairs",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.605898,
+    41.404172,
+    -71.605898,
+    41.404172
+],
+  "geometry": {"coordinates":[-71.605898,41.404172],"type":"Point"}
+}

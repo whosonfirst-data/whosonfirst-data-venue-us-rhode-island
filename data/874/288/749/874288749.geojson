@@ -1,0 +1,71 @@
+{
+  "id": 874288749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.617082,41.39011,-71.617082,41.39011",
+    "geom:latitude":41.39011,
+    "geom:longitude":-71.617082,
+    "iso:country":"US",
+    "sg:address":"3810 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 2020",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70p4Xq82ChH1QdXah6Dllm_41.390110_-71.617082@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314967,
+    "wof:geomhash":"6cbf4b03b5f23231a07c9da66d172eef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288749
+        }
+    ],
+    "wof:id":874288749,
+    "wof:lastmodified":1464314967,
+    "wof:name":"Charlestown Physical Therapy and Health Services",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.617082,
+    41.39011,
+    -71.617082,
+    41.39011
+],
+  "geometry": {"coordinates":[-71.617082,41.39011],"type":"Point"}
+}

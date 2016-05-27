@@ -1,0 +1,73 @@
+{
+  "id": 873982565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479998,41.836174,-71.479998,41.836174",
+    "geom:latitude":41.836174,
+    "geom:longitude":-71.479998,
+    "iso:country":"US",
+    "sg:address":"203 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 1568",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QAK7kjM1x77eW1pM1Rcac_41.836174_-71.479998@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310627,
+    "wof:geomhash":"b31fdd24201c03ff37b8b320e8b6789c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":873982565
+        }
+    ],
+    "wof:id":873982565,
+    "wof:lastmodified":1464310627,
+    "wof:name":"Warren Manor I",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.479998,
+    41.836174,
+    -71.479998,
+    41.836174
+],
+  "geometry": {"coordinates":[-71.47999799999999,41.836174],"type":"Point"}
+}

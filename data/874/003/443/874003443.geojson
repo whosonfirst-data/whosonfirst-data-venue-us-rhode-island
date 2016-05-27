@@ -1,0 +1,71 @@
+{
+  "id": 874003443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.382622,41.829014,-71.382622,41.829014",
+    "geom:latitude":41.829014,
+    "geom:longitude":-71.382622,
+    "iso:country":"US",
+    "sg:address":"81 S Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 0303",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"www.egisgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uHCs9Lf5RtDdD6XsoihI0_41.829014_-71.382622@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310797,
+    "wof:geomhash":"694450550d36bd39897ba651a8dbb0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874003443
+        }
+    ],
+    "wof:id":874003443,
+    "wof:lastmodified":1464310797,
+    "wof:name":"EGIS Group",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.382622,
+    41.829014,
+    -71.382622,
+    41.829014
+],
+  "geometry": {"coordinates":[-71.382622,41.829014],"type":"Point"}
+}

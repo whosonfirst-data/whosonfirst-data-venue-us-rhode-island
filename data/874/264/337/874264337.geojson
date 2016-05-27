@@ -1,0 +1,73 @@
+{
+  "id": 874264337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50314,41.970588,-71.50314,41.970588",
+    "geom:latitude":41.970588,
+    "geom:longitude":-71.50314,
+    "iso:country":"US",
+    "sg:address":"716 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 2883",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BVPRznezglmpfmE8iOdvX_41.970588_-71.503140@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314002,
+    "wof:geomhash":"ca7476f7c24ee76a6ed46a3691a52b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874264337
+        }
+    ],
+    "wof:id":874264337,
+    "wof:lastmodified":1464314002,
+    "wof:name":"Cote's Auto Body",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.50314,
+    41.970588,
+    -71.50314,
+    41.970588
+],
+  "geometry": {"coordinates":[-71.50314,41.970588],"type":"Point"}
+}

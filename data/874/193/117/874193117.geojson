@@ -1,0 +1,73 @@
+{
+  "id": 874193117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560587,41.689255,-71.560587,41.689255",
+    "geom:latitude":41.689255,
+    "geom:longitude":-71.560587,
+    "iso:country":"US",
+    "sg:address":"31 Sandy Bottom Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1720",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fMxJipJIKcGBZh9ug6dr5_41.689255_-71.560587@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312771,
+    "wof:geomhash":"7e692e2cee551268d4f8e4bc246b921e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874193117
+        }
+    ],
+    "wof:id":874193117,
+    "wof:lastmodified":1464312771,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.560587,
+    41.689255,
+    -71.560587,
+    41.689255
+],
+  "geometry": {"coordinates":[-71.560587,41.689255],"type":"Point"}
+}

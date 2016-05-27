@@ -1,0 +1,84 @@
+{
+  "id": 874289293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393303,41.8741,-71.393303,41.8741",
+    "geom:latitude":41.8741,
+    "geom:longitude":-71.393303,
+    "iso:country":"US",
+    "sg:address":"626 Main St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 8000",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dTEJbiBjjLXThtcWIwH6q_41.874100_-71.393303@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314988,
+    "wof:geomhash":"ba90c9f801f6312707fa4c2fa0db1872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289293
+        }
+    ],
+    "wof:id":874289293,
+    "wof:lastmodified":1464314988,
+    "wof:name":"C & D Auto Body & Sales",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "towing"
+    ]
+},
+  "bbox": [
+    -71.393303,
+    41.8741,
+    -71.393303,
+    41.8741
+],
+  "geometry": {"coordinates":[-71.393303,41.8741],"type":"Point"}
+}

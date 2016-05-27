@@ -1,0 +1,71 @@
+{
+  "id": 874113695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444182,41.489829,-71.444182,41.489829",
+    "geom:latitude":41.489829,
+    "geom:longitude":-71.444182,
+    "iso:country":"US",
+    "sg:address":"35 Overlook Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4004",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t2oCiQ7r5ESL4mRw9WC9c_41.489829_-71.444182@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311974,
+    "wof:geomhash":"b4a9b59b2a1e52129db3a0caa9d49ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874113695
+        }
+    ],
+    "wof:id":874113695,
+    "wof:lastmodified":1464311974,
+    "wof:name":"Island Automotive",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.444182,
+    41.489829,
+    -71.444182,
+    41.489829
+],
+  "geometry": {"coordinates":[-71.444182,41.489829],"type":"Point"}
+}

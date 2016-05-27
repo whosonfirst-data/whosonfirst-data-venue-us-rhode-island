@@ -1,0 +1,79 @@
+{
+  "id": 874096125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379291,41.695945,-71.379291,41.695945",
+    "geom:latitude":41.695945,
+    "geom:longitude":-71.379291,
+    "iso:country":"US",
+    "sg:address":"315 Warwick Neck Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 9876",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838995,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vNNW7JzND8fLVSi8jTUpW_41.695945_-71.379291@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311730,
+    "wof:geomhash":"a3779b1e560a2a048629ad22d344b28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838995,
+            "region_id":85688509,
+            "venue_id":874096125
+        }
+    ],
+    "wof:id":874096125,
+    "wof:lastmodified":1464311730,
+    "wof:name":"Warwick Neck Garage Inc",
+    "wof:parent_id":85838995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.379291,
+    41.695945,
+    -71.379291,
+    41.695945
+],
+  "geometry": {"coordinates":[-71.37929099999999,41.695945],"type":"Point"}
+}

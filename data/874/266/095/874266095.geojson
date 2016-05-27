@@ -1,0 +1,74 @@
+{
+  "id": 874266095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513504,41.573773,-71.513504,41.573773",
+    "geom:latitude":41.573773,
+    "geom:longitude":-71.513504,
+    "iso:country":"US",
+    "sg:address":"141 Plain Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 8061",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L5YsN6uXc20fF8ShZTiQ6_41.573773_-71.513504@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314075,
+    "wof:geomhash":"20487c2e5ad149909879801894ff7c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874266095
+        }
+    ],
+    "wof:id":874266095,
+    "wof:lastmodified":1464314075,
+    "wof:name":"Robert Daigle Marine Surveys",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -71.513504,
+    41.573773,
+    -71.513504,
+    41.573773
+],
+  "geometry": {"coordinates":[-71.513504,41.573773],"type":"Point"}
+}

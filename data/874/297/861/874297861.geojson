@@ -1,0 +1,76 @@
+{
+  "id": 874297861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426442,41.828868,-71.426442,41.828868",
+    "geom:latitude":41.828868,
+    "geom:longitude":-71.426442,
+    "iso:country":"US",
+    "sg:address":"295 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 336 6657",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.happyfeet.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JtljOX0yJ2vfF1GyguKfr_41.828868_-71.426442@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315301,
+    "wof:geomhash":"7d5510e08a358c54be02971c18bc63b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874297861
+        }
+    ],
+    "wof:id":874297861,
+    "wof:lastmodified":1464315301,
+    "wof:name":"Happy Feet",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.426442,
+    41.828868,
+    -71.426442,
+    41.828868
+],
+  "geometry": {"coordinates":[-71.42644199999999,41.828868],"type":"Point"}
+}

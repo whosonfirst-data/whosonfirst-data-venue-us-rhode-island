@@ -1,0 +1,70 @@
+{
+  "id": 874289009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686756,41.970872,-71.686756,41.970872",
+    "geom:latitude":41.970872,
+    "geom:longitude":-71.686756,
+    "iso:country":"US",
+    "sg:address":"6 Hill Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4463",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vc4aZzGll2D359z1TH29b_41.970872_-71.686756@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314977,
+    "wof:geomhash":"aabf24753b533d0959413cdf69b33e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874289009
+        }
+    ],
+    "wof:id":874289009,
+    "wof:lastmodified":1464314977,
+    "wof:name":"North Main Auto",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.686756,
+    41.970872,
+    -71.686756,
+    41.970872
+],
+  "geometry": {"coordinates":[-71.686756,41.970872],"type":"Point"}
+}

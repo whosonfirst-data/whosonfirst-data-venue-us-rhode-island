@@ -1,0 +1,72 @@
+{
+  "id": 874132573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435211,41.923649,-71.435211,41.923649",
+    "geom:latitude":41.923649,
+    "geom:longitude":-71.435211,
+    "iso:country":"US",
+    "sg:address":"22 Ducarl Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3533",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "sg:website":"www.photonicmkt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85843525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Og4MOAP08g7Q5mLV3wc3_41.923649_-71.435211@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"53f46277d3254b180578b3ee49b1deaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85843525,
+            "region_id":85688509,
+            "venue_id":874132573
+        }
+    ],
+    "wof:id":874132573,
+    "wof:lastmodified":1464312168,
+    "wof:name":"Photonic Medical Applications",
+    "wof:parent_id":85843525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -71.435211,
+    41.923649,
+    -71.435211,
+    41.923649
+],
+  "geometry": {"coordinates":[-71.435211,41.923649],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874286967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451187,41.439289,-71.451187,41.439289",
+    "geom:latitude":41.439289,
+    "geom:longitude":-71.451187,
+    "iso:country":"US",
+    "sg:address":"1 Beach St",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/narragansett/249152-village-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 8333",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z1Fuefv6hLRu9Uh2HDXDQ_41.439289_-71.451187@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"8184404a0d8af1899026cf4c6a1a80ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874286967
+        }
+    ],
+    "wof:id":874286967,
+    "wof:lastmodified":1464314889,
+    "wof:name":"Village Pizza",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.451187,
+    41.439289,
+    -71.451187,
+    41.439289
+],
+  "geometry": {"coordinates":[-71.451187,41.439289],"type":"Point"}
+}

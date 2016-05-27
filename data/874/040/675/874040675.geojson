@@ -1,0 +1,75 @@
+{
+  "id": 874040675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.287115,41.542371,-71.287115,41.542371",
+    "geom:latitude":41.542371,
+    "geom:longitude":-71.287115,
+    "iso:country":"US",
+    "sg:address":"109 Oak Forest Dr",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 5660",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "development",
+        "consulting",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2phyUOtORicUqRA0MKqn44_41.542371_-71.287115@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311150,
+    "wof:geomhash":"6b1919fed81a21bdc1f1ecc67c09c228",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874040675
+        }
+    ],
+    "wof:id":874040675,
+    "wof:lastmodified":1464311150,
+    "wof:name":"Newport Information System",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "consulting",
+        "software"
+    ]
+},
+  "bbox": [
+    -71.287115,
+    41.542371,
+    -71.287115,
+    41.542371
+],
+  "geometry": {"coordinates":[-71.287115,41.542371],"type":"Point"}
+}

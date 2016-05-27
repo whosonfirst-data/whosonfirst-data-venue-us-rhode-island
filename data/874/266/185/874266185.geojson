@@ -1,0 +1,72 @@
+{
+  "id": 874266185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.718311,41.501689,-71.718311,41.501689",
+    "geom:latitude":41.501689,
+    "geom:longitude":-71.718311,
+    "iso:country":"US",
+    "sg:address":"1 Garnet Ln",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 4655",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.esclab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RcZflXTtRiBiznpoLqu5y_41.501689_-71.718311@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314078,
+    "wof:geomhash":"219516e5e09c783981bf2cef2f3428ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874266185
+        }
+    ],
+    "wof:id":874266185,
+    "wof:lastmodified":1464314078,
+    "wof:name":"East Side Clinical Laboratory",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.718311,
+    41.501689,
+    -71.718311,
+    41.501689
+],
+  "geometry": {"coordinates":[-71.718311,41.501689],"type":"Point"}
+}

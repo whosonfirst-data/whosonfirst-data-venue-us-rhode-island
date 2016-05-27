@@ -1,0 +1,69 @@
+{
+  "id": 874150001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51794,41.982019,-71.51794,41.982019",
+    "geom:latitude":41.982019,
+    "geom:longitude":-71.51794,
+    "iso:country":"US",
+    "sg:address":"27 Chester St",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 3717",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sf5YvvCAml892yphh5vgv_41.982019_-71.517940@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312329,
+    "wof:geomhash":"198693ef10c4ed946735b00c00a89a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874150001
+        }
+    ],
+    "wof:id":874150001,
+    "wof:lastmodified":1464312329,
+    "wof:name":"Petes Plmbng Heatng",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.51794,
+    41.982019,
+    -71.51794,
+    41.982019
+],
+  "geometry": {"coordinates":[-71.51794,41.982019],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873980875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487029,41.858902,-71.487029,41.858902",
+    "geom:latitude":41.858902,
+    "geom:longitude":-71.487029,
+    "iso:country":"US",
+    "sg:address":"2073 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4640",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y0O08s3Cy07HsQ8WZ8aIB_41.858902_-71.487029@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310600,
+    "wof:geomhash":"475daa8b072ab6d80981a514986a953d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":873980875
+        }
+    ],
+    "wof:id":873980875,
+    "wof:lastmodified":1464310600,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.487029,
+    41.858902,
+    -71.487029,
+    41.858902
+],
+  "geometry": {"coordinates":[-71.48702900000001,41.858902],"type":"Point"}
+}

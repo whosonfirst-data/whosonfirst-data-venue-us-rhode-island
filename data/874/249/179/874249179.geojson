@@ -1,0 +1,73 @@
+{
+  "id": 874249179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280477,41.729745,-71.280477,41.729745",
+    "geom:latitude":41.729745,
+    "geom:longitude":-71.280477,
+    "iso:country":"US",
+    "sg:address":"51 Cole St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1071",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00N8vYMwAXhIgdMHBfSgv3_41.729745_-71.280477@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313537,
+    "wof:geomhash":"475a599c412f796537e87c944aad7137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874249179
+        }
+    ],
+    "wof:id":874249179,
+    "wof:lastmodified":1464313537,
+    "wof:name":"Dupont Tire",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.280477,
+    41.729745,
+    -71.280477,
+    41.729745
+],
+  "geometry": {"coordinates":[-71.280477,41.729745],"type":"Point"}
+}

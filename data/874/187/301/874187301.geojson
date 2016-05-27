@@ -1,0 +1,71 @@
+{
+  "id": 874187301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46005,41.85183,-71.46005,41.85183",
+    "geom:latitude":41.85183,
+    "geom:longitude":-71.46005,
+    "iso:country":"US",
+    "sg:address":"104 Wellesley Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 1899",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fOBcKQdqER6IBk5FPyxc2_41.851830_-71.460050@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312712,
+    "wof:geomhash":"319cff135ad4306c4708635f0b4af926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874187301
+        }
+    ],
+    "wof:id":874187301,
+    "wof:lastmodified":1464312712,
+    "wof:name":"Five Star General Painting",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.46005,
+    41.85183,
+    -71.46005,
+    41.85183
+],
+  "geometry": {"coordinates":[-71.46005,41.85183],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 874263477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370705,41.830208,-71.370705,41.830208",
+    "geom:latitude":41.830208,
+    "geom:longitude":-71.370705,
+    "iso:country":"US",
+    "sg:address":"2 Dexter Rd",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 4390",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "asbestos",
+        "system",
+        "contractor",
+        "ventilating",
+        "removal"
+    ],
+    "sg:website":"www.yankeefiber.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kEIT41z01WBxYT07uNbK7_41.830208_-71.370705@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313973,
+    "wof:geomhash":"7ca4be104ec2f532bcc522921d349e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874263477
+        }
+    ],
+    "wof:id":874263477,
+    "wof:lastmodified":1464313973,
+    "wof:name":"Yankee Fiber Control Inc",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "asbestos",
+        "system",
+        "contractor",
+        "ventilating",
+        "removal"
+    ]
+},
+  "bbox": [
+    -71.370705,
+    41.830208,
+    -71.370705,
+    41.830208
+],
+  "geometry": {"coordinates":[-71.370705,41.830208],"type":"Point"}
+}

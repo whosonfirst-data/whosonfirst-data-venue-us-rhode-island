@@ -1,0 +1,75 @@
+{
+  "id": 874170497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443398,41.825443,-71.443398,41.825443",
+    "geom:latitude":41.825443,
+    "geom:longitude":-71.443398,
+    "iso:country":"US",
+    "sg:address":"1 Academy Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 7033",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hb9PaVxVlbDAJxqIbnRDD_41.825443_-71.443398@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312531,
+    "wof:geomhash":"f3086322003142f59f19148c2988d6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874170497
+        }
+    ],
+    "wof:id":874170497,
+    "wof:lastmodified":1464312531,
+    "wof:name":"El Salvador Market",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.443398,
+    41.825443,
+    -71.443398,
+    41.825443
+],
+  "geometry": {"coordinates":[-71.443398,41.825443],"type":"Point"}
+}

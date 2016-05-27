@@ -1,0 +1,71 @@
+{
+  "id": 874140053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.311719,41.726721,-71.311719,41.726721",
+    "geom:latitude":41.726721,
+    "geom:longitude":-71.311719,
+    "iso:country":"US",
+    "sg:address":"4 Water Way",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 9110",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22no1Aqyq39yVuJMkfLEWh_41.726721_-71.311719@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"9ab04e67675fa1176431d8a510af8411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874140053
+        }
+    ],
+    "wof:id":874140053,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Skin Medicine & Surgery Ctr",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.311719,
+    41.726721,
+    -71.311719,
+    41.726721
+],
+  "geometry": {"coordinates":[-71.311719,41.726721],"type":"Point"}
+}

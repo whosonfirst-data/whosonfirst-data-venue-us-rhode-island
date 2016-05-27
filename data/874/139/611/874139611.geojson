@@ -1,0 +1,71 @@
+{
+  "id": 874139611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268176,41.575159,-71.268176,41.575159",
+    "geom:latitude":41.575159,
+    "geom:longitude":-71.268176,
+    "iso:country":"US",
+    "sg:address":"25 Watson Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 2270",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6biC9I2smNbj7Jl9M1CBNW_41.575159_-71.268176@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312231,
+    "wof:geomhash":"d4d6362328235ae94fd67e3eb92e31ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874139611
+        }
+    ],
+    "wof:id":874139611,
+    "wof:lastmodified":1464312231,
+    "wof:name":"J and L Painting Company",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.268176,
+    41.575159,
+    -71.268176,
+    41.575159
+],
+  "geometry": {"coordinates":[-71.268176,41.575159],"type":"Point"}
+}

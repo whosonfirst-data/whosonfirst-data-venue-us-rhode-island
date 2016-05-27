@@ -1,0 +1,78 @@
+{
+  "id": 874287559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522507,41.870421,-71.522507,41.870421",
+    "geom:latitude":41.870421,
+    "geom:longitude":-71.522507,
+    "iso:country":"US",
+    "sg:address":"375 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/91203-dangelo-grilled-sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2202",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uEwRnuxr8G4XJum3qnUft_41.870421_-71.522507@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314914,
+    "wof:geomhash":"f073bd24c7c4a5ab6ba4468fa20fb7d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874287559
+        }
+    ],
+    "wof:id":874287559,
+    "wof:lastmodified":1464314914,
+    "wof:name":"D'Angelo Grilled Sandwiches",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -71.522507,
+    41.870421,
+    -71.522507,
+    41.870421
+],
+  "geometry": {"coordinates":[-71.522507,41.870421],"type":"Point"}
+}

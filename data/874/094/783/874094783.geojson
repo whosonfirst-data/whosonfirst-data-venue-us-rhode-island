@@ -1,0 +1,71 @@
+{
+  "id": 874094783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.648933,41.38472,-71.648933,41.38472",
+    "geom:latitude":41.38472,
+    "geom:longitude":-71.648933,
+    "iso:country":"US",
+    "sg:address":"4649 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0100",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qSgG7BoMYSceI7mXhTPup_41.384720_-71.648933@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311711,
+    "wof:geomhash":"9c9d69f279c1ebf02ee7bec710a62f20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874094783
+        }
+    ],
+    "wof:id":874094783,
+    "wof:lastmodified":1464311711,
+    "wof:name":"John Ward Physical Therapy",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.648933,
+    41.38472,
+    -71.648933,
+    41.38472
+],
+  "geometry": {"coordinates":[-71.648933,41.38472],"type":"Point"}
+}

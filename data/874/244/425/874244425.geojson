@@ -1,0 +1,71 @@
+{
+  "id": 874244425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53124,41.909835,-71.53124,41.909835",
+    "geom:latitude":41.909835,
+    "geom:longitude":-71.53124,
+    "iso:country":"US",
+    "sg:address":"34 Appian Way",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 223 0021",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q77mbyPDvJUVserbkdFWj_41.909835_-71.531240@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313424,
+    "wof:geomhash":"842f91e5859fa843fbad6356315a20d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874244425
+        }
+    ],
+    "wof:id":874244425,
+    "wof:lastmodified":1464313424,
+    "wof:name":"AGI Construction",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53124,
+    41.909835,
+    -71.53124,
+    41.909835
+],
+  "geometry": {"coordinates":[-71.53124,41.909835],"type":"Point"}
+}

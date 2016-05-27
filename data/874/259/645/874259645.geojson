@@ -1,0 +1,69 @@
+{
+  "id": 874259645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3074,41.712846,-71.3074,41.712846",
+    "geom:latitude":41.712846,
+    "geom:longitude":-71.3074,
+    "iso:country":"US",
+    "sg:address":"6 Holly Ln",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 8210",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AEBoZE7n88QLpkoRDhxfa_41.712846_-71.307400@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313847,
+    "wof:geomhash":"ab2feab2b8fab4a3fff957673abf8ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874259645
+        }
+    ],
+    "wof:id":874259645,
+    "wof:lastmodified":1464313847,
+    "wof:name":"Joseph H Feller",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.3074,
+    41.712846,
+    -71.3074,
+    41.712846
+],
+  "geometry": {"coordinates":[-71.3074,41.712846],"type":"Point"}
+}

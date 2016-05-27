@@ -1,0 +1,71 @@
+{
+  "id": 874082549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273392,41.750605,-71.273392,41.750605",
+    "geom:latitude":41.750605,
+    "geom:longitude":-71.273392,
+    "iso:country":"US",
+    "sg:address":"1 New Industrial Way",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1703",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67jJcEXArQYYuW7PYQgoyL_41.750605_-71.273392@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311584,
+    "wof:geomhash":"bade211bf2d1f457208ef3b8d3447c1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874082549
+        }
+    ],
+    "wof:id":874082549,
+    "wof:lastmodified":1464311584,
+    "wof:name":"N E Tool Co",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.273392,
+    41.750605,
+    -71.273392,
+    41.750605
+],
+  "geometry": {"coordinates":[-71.273392,41.750605],"type":"Point"}
+}

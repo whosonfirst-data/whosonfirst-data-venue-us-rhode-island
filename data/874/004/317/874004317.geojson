@@ -1,0 +1,78 @@
+{
+  "id": 874004317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551262,41.722156,-71.551262,41.722156",
+    "geom:latitude":41.722156,
+    "geom:longitude":-71.551262,
+    "iso:country":"US",
+    "sg:address":"4 Birchwood Ln",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 7470",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13Xg6h69woOaZJYDDJtFMf_41.722156_-71.551262@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310807,
+    "wof:geomhash":"8981e90e0ca2dffc9b3c70d4b3c94878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874004317
+        }
+    ],
+    "wof:id":874004317,
+    "wof:lastmodified":1464310807,
+    "wof:name":"Micro Engineering",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.551262,
+    41.722156,
+    -71.551262,
+    41.722156
+],
+  "geometry": {"coordinates":[-71.55126199999999,41.722156],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874140319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.512253,41.467653,-71.512253,41.467653",
+    "geom:latitude":41.467653,
+    "geom:longitude":-71.512253,
+    "iso:country":"US",
+    "sg:address":"1922 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3770",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IhXURARIshmCoTdx0oVx6_41.467653_-71.512253@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312237,
+    "wof:geomhash":"b7d5cfee66b184157494dd20084572d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874140319
+        }
+    ],
+    "wof:id":874140319,
+    "wof:lastmodified":1464312237,
+    "wof:name":"Lickety Splits",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.512253,
+    41.467653,
+    -71.512253,
+    41.467653
+],
+  "geometry": {"coordinates":[-71.512253,41.467653],"type":"Point"}
+}

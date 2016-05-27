@@ -1,0 +1,69 @@
+{
+  "id": 874271845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488252,41.863285,-71.488252,41.863285",
+    "geom:latitude":41.863285,
+    "geom:longitude":-71.488252,
+    "iso:country":"US",
+    "sg:address":"170 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1471",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sliBXRow990SFs99aXedM_41.863285_-71.488252@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314286,
+    "wof:geomhash":"d6dead7fa5ebf1b899705f58ec9ed8c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874271845
+        }
+    ],
+    "wof:id":874271845,
+    "wof:lastmodified":1464314286,
+    "wof:name":"West End Community Police",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.488252,
+    41.863285,
+    -71.488252,
+    41.863285
+],
+  "geometry": {"coordinates":[-71.488252,41.863285],"type":"Point"}
+}

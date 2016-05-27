@@ -1,0 +1,71 @@
+{
+  "id": 874274749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.321832,41.738946,-71.321832,41.738946",
+    "geom:latitude":41.738946,
+    "geom:longitude":-71.321832,
+    "iso:country":"US",
+    "sg:address":"431 Maple Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1221",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lnwHBqMdIogQWiJbFMgJt_41.738946_-71.321832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314394,
+    "wof:geomhash":"74630d77bd1ff0583b4546e16f6087fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874274749
+        }
+    ],
+    "wof:id":874274749,
+    "wof:lastmodified":1464314394,
+    "wof:name":"Al Mastriano Construction",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.321832,
+    41.738946,
+    -71.321832,
+    41.738946
+],
+  "geometry": {"coordinates":[-71.321832,41.738946],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874017985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452603,41.78436,-71.452603,41.78436",
+    "geom:latitude":41.78436,
+    "geom:longitude":-71.452603,
+    "iso:country":"US",
+    "sg:address":"1225 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 0444",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lrgNjXAvcM4O9SEI6N5RV_41.784360_-71.452603@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310926,
+    "wof:geomhash":"a8dcfc161421c886aea874bb82854536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874017985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874017985
+        }
+    ],
+    "wof:id":874017985,
+    "wof:lastmodified":1464310926,
+    "wof:name":"YMCA Of Cranston",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.452603,
+    41.78436,
+    -71.452603,
+    41.78436
+],
+  "geometry": {"coordinates":[-71.452603,41.78436],"type":"Point"}
+}

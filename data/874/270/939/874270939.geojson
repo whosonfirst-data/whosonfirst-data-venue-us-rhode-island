@@ -1,0 +1,86 @@
+{
+  "id": 874270939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443588,41.826913,-71.443588,41.826913",
+    "geom:latitude":41.826913,
+    "geom:longitude":-71.443588,
+    "iso:country":"US",
+    "sg:address":"85 Academy Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 7676",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CoGoW90N2tAkcugLYlVLm_41.826913_-71.443588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314256,
+    "wof:geomhash":"b0c79bab52ff19c516fa51a4be9c6e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874270939
+        }
+    ],
+    "wof:id":874270939,
+    "wof:lastmodified":1464314256,
+    "wof:name":"Mt Pleasant Alarms Inc",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.443588,
+    41.826913,
+    -71.443588,
+    41.826913
+],
+  "geometry": {"coordinates":[-71.44358800000001,41.826913],"type":"Point"}
+}

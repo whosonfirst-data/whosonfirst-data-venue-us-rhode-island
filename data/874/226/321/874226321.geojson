@@ -1,0 +1,73 @@
+{
+  "id": 874226321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551844,41.525875,-71.551844,41.525875",
+    "geom:latitude":41.525875,
+    "geom:longitude":-71.551844,
+    "iso:country":"US",
+    "sg:address":"567 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0083",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oQBDcZjo9s4tIslJaCI47_41.525875_-71.551844@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313124,
+    "wof:geomhash":"d802137655678dabafab15d626712d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874226321
+        }
+    ],
+    "wof:id":874226321,
+    "wof:lastmodified":1464313124,
+    "wof:name":"Sewing Room",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -71.551844,
+    41.525875,
+    -71.551844,
+    41.525875
+],
+  "geometry": {"coordinates":[-71.551844,41.525875],"type":"Point"}
+}

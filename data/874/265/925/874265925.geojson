@@ -1,0 +1,71 @@
+{
+  "id": 874265925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545873,42.024822,-71.545873,42.024822",
+    "geom:latitude":42.024822,
+    "geom:longitude":-71.545873,
+    "iso:country":"US",
+    "sg:address":"16 Dawes St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fWQs3IPG3iR34ja9fTHOI_42.024822_-71.545873@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314069,
+    "wof:geomhash":"d270ce5511da997b95da8930fa1bb1b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874265925
+        }
+    ],
+    "wof:id":874265925,
+    "wof:lastmodified":1464314069,
+    "wof:name":"Harpin Electric",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.545873,
+    42.024822,
+    -71.545873,
+    42.024822
+],
+  "geometry": {"coordinates":[-71.545873,42.024822],"type":"Point"}
+}

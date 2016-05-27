@@ -1,0 +1,75 @@
+{
+  "id": 873981097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284921,41.727949,-71.284921,41.727949",
+    "geom:latitude":41.727949,
+    "geom:longitude":-71.284921,
+    "iso:country":"US",
+    "sg:address":"332 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1921",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E6QDRb2S8dyCzCMseaZeg_41.727949_-71.284921@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310603,
+    "wof:geomhash":"c2a2d16a448c1da8f4065ac808c98fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":873981097
+        }
+    ],
+    "wof:id":873981097,
+    "wof:lastmodified":1464310603,
+    "wof:name":"Water Street Woodworking",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -71.284921,
+    41.727949,
+    -71.284921,
+    41.727949
+],
+  "geometry": {"coordinates":[-71.284921,41.727949],"type":"Point"}
+}

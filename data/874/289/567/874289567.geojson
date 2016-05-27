@@ -1,0 +1,76 @@
+{
+  "id": 874289567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413176,41.87152,-71.413176,41.87152",
+    "geom:latitude":41.87152,
+    "geom:longitude":-71.413176,
+    "iso:country":"US",
+    "sg:address":"745 Mineral Spring Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 7919",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yttQobAovidy1fGmhXTAi_41.871520_-71.413176@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314997,
+    "wof:geomhash":"3f0e0051de15fefd1d777adf7f75545a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874289567
+        }
+    ],
+    "wof:id":874289567,
+    "wof:lastmodified":1464314997,
+    "wof:name":"Subway",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.413176,
+    41.87152,
+    -71.413176,
+    41.87152
+],
+  "geometry": {"coordinates":[-71.41317600000001,41.87152],"type":"Point"}
+}

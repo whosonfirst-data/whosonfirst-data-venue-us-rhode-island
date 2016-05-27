@@ -1,0 +1,77 @@
+{
+  "id": 874277733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349245,41.79769,-71.349245,41.79769",
+    "geom:latitude":41.79769,
+    "geom:longitude":-71.349245,
+    "iso:country":"US",
+    "sg:address":"42 Hemmingway Dr",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 8080",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45J5gupb0ukjG6wJaGuE47_41.797690_-71.349245@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314530,
+    "wof:geomhash":"fcda4280660e6b329d32b3e805ba4a8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":874277733
+        }
+    ],
+    "wof:id":874277733,
+    "wof:lastmodified":1464314530,
+    "wof:name":"Helios Medical Group",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.349245,
+    41.79769,
+    -71.349245,
+    41.79769
+],
+  "geometry": {"coordinates":[-71.349245,41.79769],"type":"Point"}
+}

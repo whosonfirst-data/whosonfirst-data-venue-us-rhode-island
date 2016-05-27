@@ -1,0 +1,76 @@
+{
+  "id": 874302423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444908,41.842498,-71.444908,41.842498",
+    "geom:latitude":41.842498,
+    "geom:longitude":-71.444908,
+    "iso:country":"US",
+    "sg:address":"1005 Smith Street",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 3004",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.lasallepizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J0glSzB2wjomYjBLpEOWR_41.842498_-71.444908@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315477,
+    "wof:geomhash":"e0c8a3f0ca967032a0f3d8e2b117a0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874302423
+        }
+    ],
+    "wof:id":874302423,
+    "wof:lastmodified":1464315477,
+    "wof:name":"LaSalle Pizzeria",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.444908,
+    41.842498,
+    -71.444908,
+    41.842498
+],
+  "geometry": {"coordinates":[-71.444908,41.842498],"type":"Point"}
+}

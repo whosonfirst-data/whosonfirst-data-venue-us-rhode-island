@@ -1,0 +1,75 @@
+{
+  "id": 874111629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384298,41.815365,-71.384298,41.815365",
+    "geom:latitude":41.815365,
+    "geom:longitude":-71.384298,
+    "iso:country":"US",
+    "sg:address":"35 2nd St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 5150",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BeFsXQyx68zLMe0Sof5aW_41.815365_-71.384298@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311952,
+    "wof:geomhash":"b43a5a6d9b2faf68fe545195b393de86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874111629
+        }
+    ],
+    "wof:id":874111629,
+    "wof:lastmodified":1464311952,
+    "wof:name":"Merry Maids",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -71.384298,
+    41.815365,
+    -71.384298,
+    41.815365
+],
+  "geometry": {"coordinates":[-71.384298,41.815365],"type":"Point"}
+}

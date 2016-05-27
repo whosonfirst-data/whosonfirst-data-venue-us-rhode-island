@@ -1,0 +1,91 @@
+{
+  "id": 874279317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452499,41.790894,-71.452499,41.790894",
+    "geom:latitude":41.790894,
+    "geom:longitude":-71.452499,
+    "iso:country":"US",
+    "sg:address":"1286 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 5333",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "retailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ruusUn94vBt5NAMzRnb5h_41.790894_-71.452499@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314583,
+    "wof:geomhash":"6be5e85796eafcbf3158a2dc6c62bad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874279317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874279317
+        }
+    ],
+    "wof:id":874279317,
+    "wof:lastmodified":1464314583,
+    "wof:name":"Capitol Stationery Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retailer"
+    ]
+},
+  "bbox": [
+    -71.452499,
+    41.790894,
+    -71.452499,
+    41.790894
+],
+  "geometry": {"coordinates":[-71.452499,41.790894],"type":"Point"}
+}

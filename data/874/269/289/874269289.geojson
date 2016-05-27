@@ -1,0 +1,81 @@
+{
+  "id": 874269289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443046,41.47507,-71.443046,41.47507",
+    "geom:latitude":41.47507,
+    "geom:longitude":-71.443046,
+    "iso:country":"US",
+    "sg:address":"4 Sumac Trl",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0046",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29VsAGhKEVbtsNLQvswCtr_41.475070_-71.443046@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314199,
+    "wof:geomhash":"e5e7ee6d829f7110ce9bea4527703033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874269289
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874269289
+        }
+    ],
+    "wof:id":874269289,
+    "wof:lastmodified":1464314199,
+    "wof:name":"Canterbury",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "accommodation",
+        "bed"
+    ]
+},
+  "bbox": [
+    -71.443046,
+    41.47507,
+    -71.443046,
+    41.47507
+],
+  "geometry": {"coordinates":[-71.443046,41.47507],"type":"Point"}
+}

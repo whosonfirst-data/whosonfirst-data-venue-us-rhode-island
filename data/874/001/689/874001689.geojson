@@ -1,0 +1,73 @@
+{
+  "id": 874001689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.310678,41.742063,-71.310678,41.742063",
+    "geom:latitude":41.742063,
+    "geom:longitude":-71.310678,
+    "iso:country":"US",
+    "sg:address":"306 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 5559",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G02OekC1PWKcySSHxAPla_41.742063_-71.310678@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310772,
+    "wof:geomhash":"43398c9da613dc0177259d516afb7f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874001689
+        }
+    ],
+    "wof:id":874001689,
+    "wof:lastmodified":1464310772,
+    "wof:name":"Barrington Construction Co",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.310678,
+    41.742063,
+    -71.310678,
+    41.742063
+],
+  "geometry": {"coordinates":[-71.310678,41.742063],"type":"Point"}
+}

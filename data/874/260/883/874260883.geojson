@@ -1,0 +1,75 @@
+{
+  "id": 874260883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314588,41.482346,-71.314588,41.482346",
+    "geom:latitude":41.482346,
+    "geom:longitude":-71.314588,
+    "iso:country":"US",
+    "sg:address":"397 Thames St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 5358",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "deli"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5x9fwBqztgDZgjmv1gnkFd_41.482346_-71.314588@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313887,
+    "wof:geomhash":"15b7f20d18fdb4faa798d444cafeb096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874260883
+        }
+    ],
+    "wof:id":874260883,
+    "wof:lastmodified":1464313887,
+    "wof:name":"Sandwich Board Deli",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli"
+    ]
+},
+  "bbox": [
+    -71.314588,
+    41.482346,
+    -71.314588,
+    41.482346
+],
+  "geometry": {"coordinates":[-71.314588,41.482346],"type":"Point"}
+}

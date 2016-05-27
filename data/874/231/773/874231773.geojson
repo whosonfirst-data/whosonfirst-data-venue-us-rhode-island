@@ -1,0 +1,77 @@
+{
+  "id": 874231773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452472,41.715361,-71.452472,41.715361",
+    "geom:latitude":41.715361,
+    "geom:longitude":-71.452472,
+    "iso:country":"US",
+    "sg:address":"41 Echo Dr",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 1900",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qdljZVGMJgs7xggTQpzmI_41.715361_-71.452472@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313183,
+    "wof:geomhash":"8185af05ed851152bd371053f62d73a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874231773
+        }
+    ],
+    "wof:id":874231773,
+    "wof:lastmodified":1464313183,
+    "wof:name":"Midland Manor Apartments",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.452472,
+    41.715361,
+    -71.452472,
+    41.715361
+],
+  "geometry": {"coordinates":[-71.452472,41.715361],"type":"Point"}
+}

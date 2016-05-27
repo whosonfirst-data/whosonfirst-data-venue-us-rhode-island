@@ -1,0 +1,73 @@
+{
+  "id": 874047111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.719208,41.505146,-71.719208,41.505146",
+    "geom:latitude":41.505146,
+    "geom:longitude":-71.719208,
+    "iso:country":"US",
+    "sg:address":"978 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7003",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gfLi5rUQ8D87wHtuhNZ3O_41.505146_-71.719208@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311216,
+    "wof:geomhash":"0e759491f8b48ea48d73c8f2b7988f2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874047111
+        }
+    ],
+    "wof:id":874047111,
+    "wof:lastmodified":1464311216,
+    "wof:name":"Atkisson Electric Co",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.719208,
+    41.505146,
+    -71.719208,
+    41.505146
+],
+  "geometry": {"coordinates":[-71.71920799999999,41.505146],"type":"Point"}
+}

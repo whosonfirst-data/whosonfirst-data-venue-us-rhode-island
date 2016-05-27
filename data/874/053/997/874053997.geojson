@@ -1,0 +1,71 @@
+{
+  "id": 874053997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443203,41.927625,-71.443203,41.927625",
+    "geom:latitude":41.927625,
+    "geom:longitude":-71.443203,
+    "iso:country":"US",
+    "sg:address":"15 Simon Sayles Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 8900",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85843525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UPTWwZI7NH6KnGY7kwgcH_41.927625_-71.443203@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311278,
+    "wof:geomhash":"d24036cc62df6eab30861bbc26db37fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85843525,
+            "region_id":85688509,
+            "venue_id":874053997
+        }
+    ],
+    "wof:id":874053997,
+    "wof:lastmodified":1464311278,
+    "wof:name":"Cerqua Dental Lab",
+    "wof:parent_id":85843525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.443203,
+    41.927625,
+    -71.443203,
+    41.927625
+],
+  "geometry": {"coordinates":[-71.443203,41.927625],"type":"Point"}
+}

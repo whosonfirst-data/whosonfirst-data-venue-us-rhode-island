@@ -1,0 +1,75 @@
+{
+  "id": 874286949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529062,41.484671,-71.529062,41.484671",
+    "geom:latitude":41.484671,
+    "geom:longitude":-71.529062,
+    "iso:country":"US",
+    "sg:address":"50 Lower College Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/224895-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V4bI1qGBdPP8fn9C114MR_41.484671_-71.529062@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314888,
+    "wof:geomhash":"4273241a53263e36c7fe84a4cb3c2ece",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874286949
+        }
+    ],
+    "wof:id":874286949,
+    "wof:lastmodified":1464314888,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.529062,
+    41.484671,
+    -71.529062,
+    41.484671
+],
+  "geometry": {"coordinates":[-71.529062,41.484671],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874145863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468604,41.566599,-71.468604,41.566599",
+    "geom:latitude":41.566599,
+    "geom:longitude":-71.468604,
+    "iso:country":"US",
+    "sg:address":"74 Dean Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 7614",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YEomNwDUYG51K1szrhR9e_41.566599_-71.468604@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312292,
+    "wof:geomhash":"36a64363bcc54dc64f5bb1a116ba05bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874145863
+        }
+    ],
+    "wof:id":874145863,
+    "wof:lastmodified":1464312292,
+    "wof:name":"Epd Excavation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.468604,
+    41.566599,
+    -71.468604,
+    41.566599
+],
+  "geometry": {"coordinates":[-71.468604,41.566599],"type":"Point"}
+}

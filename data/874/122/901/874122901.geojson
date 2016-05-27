@@ -1,0 +1,71 @@
+{
+  "id": 874122901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285084,41.72815,-71.285084,41.72815",
+    "geom:latitude":41.72815,
+    "geom:longitude":-71.285084,
+    "iso:country":"US",
+    "sg:address":"337 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3132",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "marine",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n2RZgCf9GxNw5gLZ2XKmF_41.728150_-71.285084@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312067,
+    "wof:geomhash":"ec34a15eaf8a5cc0502cadc7da430a1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874122901
+        }
+    ],
+    "wof:id":874122901,
+    "wof:lastmodified":1464312067,
+    "wof:name":"Speed's",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "electric"
+    ]
+},
+  "bbox": [
+    -71.285084,
+    41.72815,
+    -71.285084,
+    41.72815
+],
+  "geometry": {"coordinates":[-71.285084,41.72815],"type":"Point"}
+}

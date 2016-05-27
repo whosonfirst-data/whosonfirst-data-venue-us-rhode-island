@@ -1,0 +1,80 @@
+{
+  "id": 874221983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425005,41.845026,-71.425005,41.845026",
+    "geom:latitude":41.845026,
+    "geom:longitude":-71.425005,
+    "iso:country":"US",
+    "sg:address":"272 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 5834",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_158VLH7HP9CCTK1Wsubbjw_41.845026_-71.425005@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313083,
+    "wof:geomhash":"be342ad4efd58a21db789a777bd555f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874221983
+        }
+    ],
+    "wof:id":874221983,
+    "wof:lastmodified":1464313083,
+    "wof:name":"Nellie Beauty Supply",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.425005,
+    41.845026,
+    -71.425005,
+    41.845026
+],
+  "geometry": {"coordinates":[-71.425005,41.845026],"type":"Point"}
+}

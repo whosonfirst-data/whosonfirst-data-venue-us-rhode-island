@@ -1,0 +1,69 @@
+{
+  "id": 874291369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395699,41.889,-71.395699,41.889",
+    "geom:latitude":41.889,
+    "geom:longitude":-71.395699,
+    "iso:country":"US",
+    "sg:address":"250 Rand St Ofc",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 2815",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ziRZLm5BAUR403INwFGbS_41.889000_-71.395699@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315062,
+    "wof:geomhash":"b02e1f6ebd71fa23337967179df12748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874291369
+        }
+    ],
+    "wof:id":874291369,
+    "wof:lastmodified":1464315062,
+    "wof:name":"Rand Place Apts",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.395699,
+    41.889,
+    -71.395699,
+    41.889
+],
+  "geometry": {"coordinates":[-71.39569899999999,41.889],"type":"Point"}
+}

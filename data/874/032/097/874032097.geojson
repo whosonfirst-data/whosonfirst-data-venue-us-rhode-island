@@ -1,0 +1,71 @@
+{
+  "id": 874032097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546157,41.899017,-71.546157,41.899017",
+    "geom:latitude":41.899017,
+    "geom:longitude":-71.546157,
+    "iso:country":"US",
+    "sg:address":"1 Log Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 2444",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bhIiPqat0GtDSHUJpsFaG_41.899017_-71.546157@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311067,
+    "wof:geomhash":"1fa0e644ceee723148931f0af32e0386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874032097
+        }
+    ],
+    "wof:id":874032097,
+    "wof:lastmodified":1464311067,
+    "wof:name":"Rastelli Truck & Auto Sales",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.546157,
+    41.899017,
+    -71.546157,
+    41.899017
+],
+  "geometry": {"coordinates":[-71.54615699999999,41.899017],"type":"Point"}
+}

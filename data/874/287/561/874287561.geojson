@@ -1,0 +1,70 @@
+{
+  "id": 874287561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505622,41.867931,-71.505622,41.867931",
+    "geom:latitude":41.867931,
+    "geom:longitude":-71.505622,
+    "iso:country":"US",
+    "sg:address":"266 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/12033-isabellas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0060",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xZ5nHMnM5fS6yA4zyY0V0_41.867931_-71.505622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314915,
+    "wof:geomhash":"3baa72b85d53b5836f7ef6f135105923",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874287561
+        }
+    ],
+    "wof:id":874287561,
+    "wof:lastmodified":1464314915,
+    "wof:name":"Isabella's",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.505622,
+    41.867931,
+    -71.505622,
+    41.867931
+],
+  "geometry": {"coordinates":[-71.505622,41.867931],"type":"Point"}
+}

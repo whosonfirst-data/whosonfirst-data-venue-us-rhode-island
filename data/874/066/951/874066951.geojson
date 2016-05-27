@@ -1,0 +1,73 @@
+{
+  "id": 874066951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542285,41.685487,-71.542285,41.685487",
+    "geom:latitude":41.685487,
+    "geom:longitude":-71.542285,
+    "iso:country":"US",
+    "sg:address":"4 Colby Dr",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 2265",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06mNVBMU1DwbxxU7WwAula_41.685487_-71.542285@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311397,
+    "wof:geomhash":"0e0b8a0ada7fe7f0cc1e897617949384",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874066951
+        }
+    ],
+    "wof:id":874066951,
+    "wof:lastmodified":1464311397,
+    "wof:name":"James T Trainor Trucking",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.542285,
+    41.685487,
+    -71.542285,
+    41.685487
+],
+  "geometry": {"coordinates":[-71.54228500000001,41.685487],"type":"Point"}
+}

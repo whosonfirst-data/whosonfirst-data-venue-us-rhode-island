@@ -1,0 +1,75 @@
+{
+  "id": 874290439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384003,41.857899,-71.384003,41.857899",
+    "geom:latitude":41.857899,
+    "geom:longitude":-71.384003,
+    "iso:country":"US",
+    "sg:address":"752 Pleasant St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 4344",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jj6hXxFIR08z6lMM3ysLE_41.857899_-71.384003@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315027,
+    "wof:geomhash":"1edb5fac7fd48e77b14a224c86b69732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874290439
+        }
+    ],
+    "wof:id":874290439,
+    "wof:lastmodified":1464315027,
+    "wof:name":"Riverside Cemetery",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.384003,
+    41.857899,
+    -71.384003,
+    41.857899
+],
+  "geometry": {"coordinates":[-71.38400300000001,41.857899],"type":"Point"}
+}

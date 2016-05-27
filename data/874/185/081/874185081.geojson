@@ -1,0 +1,71 @@
+{
+  "id": 874185081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455482,41.870582,-71.455482,41.870582",
+    "geom:latitude":41.870582,
+    "geom:longitude":-71.455482,
+    "iso:country":"US",
+    "sg:address":"9 Sorrell Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6572",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IwDZeQFa1ff0omnPvl8k3_41.870582_-71.455482@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312692,
+    "wof:geomhash":"6092c0c2423b0647019b1085881fed1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874185081
+        }
+    ],
+    "wof:id":874185081,
+    "wof:lastmodified":1464312692,
+    "wof:name":"DAmico Mfg Co Inc",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.455482,
+    41.870582,
+    -71.455482,
+    41.870582
+],
+  "geometry": {"coordinates":[-71.455482,41.870582],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874011071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438978,41.862635,-71.438978,41.862635",
+    "geom:latitude":41.862635,
+    "geom:longitude":-71.438978,
+    "iso:country":"US",
+    "sg:address":"37 Pleasant View Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 8968",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nM7Ezj5fyoPEiOhx8LZfe_41.862635_-71.438978@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310863,
+    "wof:geomhash":"878ca9c7217ccb38323542edad9ba81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874011071
+        }
+    ],
+    "wof:id":874011071,
+    "wof:lastmodified":1464310863,
+    "wof:name":"Cacicia Electric Inc",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.438978,
+    41.862635,
+    -71.438978,
+    41.862635
+],
+  "geometry": {"coordinates":[-71.43897800000001,41.862635],"type":"Point"}
+}

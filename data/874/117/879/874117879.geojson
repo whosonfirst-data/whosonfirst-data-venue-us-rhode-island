@@ -1,0 +1,71 @@
+{
+  "id": 874117879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263207,41.692399,-71.263207,41.692399",
+    "geom:latitude":41.692399,
+    "geom:longitude":-71.263207,
+    "iso:country":"US",
+    "sg:address":"546 Metacom Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4363",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50nscZS322gdTMrXjIV0HC_41.692399_-71.263207@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"c94d29d1421140fc9d490ce4ccf52ffe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874117879
+        }
+    ],
+    "wof:id":874117879,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Harborside Properties LLC",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.263207,
+    41.692399,
+    -71.263207,
+    41.692399
+],
+  "geometry": {"coordinates":[-71.26320699999999,41.692399],"type":"Point"}
+}

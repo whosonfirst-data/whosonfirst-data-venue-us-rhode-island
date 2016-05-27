@@ -1,0 +1,83 @@
+{
+  "id": 874298671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.415001,41.837766,-71.415001,41.837766",
+    "geom:latitude":41.837766,
+    "geom:longitude":-71.415001,
+    "iso:country":"US",
+    "sg:address":"53 Ashburton St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 7665",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hall",
+        "pool"
+    ],
+    "sg:website":"www.snookersri.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0an2uTgku04ZNj56kakQ6G_41.837766_-71.415001@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315338,
+    "wof:geomhash":"bead2562953fc0e885cc2d5a8f13158e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874298671
+        }
+    ],
+    "wof:id":874298671,
+    "wof:lastmodified":1464315338,
+    "wof:name":"Snooker's Sports Billiards Bar and Grill",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [
+    -71.415001,
+    41.837766,
+    -71.415001,
+    41.837766
+],
+  "geometry": {"coordinates":[-71.415001,41.837766],"type":"Point"}
+}

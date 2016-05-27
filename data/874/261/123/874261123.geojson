@@ -1,0 +1,71 @@
+{
+  "id": 874261123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423247,41.521243,-71.423247,41.521243",
+    "geom:latitude":41.521243,
+    "geom:longitude":-71.423247,
+    "iso:country":"US",
+    "sg:address":"70 Champlin Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 8140",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gaFSWmIPEhabornozGMxa_41.521243_-71.423247@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313895,
+    "wof:geomhash":"e3fd07cc5faa25f369a9203de52647e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":874261123
+        }
+    ],
+    "wof:id":874261123,
+    "wof:lastmodified":1464313895,
+    "wof:name":"Joyce Construction Co",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -71.423247,
+    41.521243,
+    -71.423247,
+    41.521243
+],
+  "geometry": {"coordinates":[-71.423247,41.521243],"type":"Point"}
+}

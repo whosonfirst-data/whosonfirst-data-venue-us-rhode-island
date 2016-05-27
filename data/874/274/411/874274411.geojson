@@ -1,0 +1,71 @@
+{
+  "id": 874274411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53915,41.886778,-71.53915,41.886778",
+    "geom:latitude":41.886778,
+    "geom:longitude":-71.53915,
+    "iso:country":"US",
+    "sg:address":"14 Enterprise Ln",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 5459",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57vgeVaq68ivi6J2ZUtZia_41.886778_-71.539150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314382,
+    "wof:geomhash":"af07814988e7919af1782cbe2c66f573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874274411
+        }
+    ],
+    "wof:id":874274411,
+    "wof:lastmodified":1464314382,
+    "wof:name":"Dynamic Builders LLC",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53915,
+    41.886778,
+    -71.53915,
+    41.886778
+],
+  "geometry": {"coordinates":[-71.53915000000001,41.886778],"type":"Point"}
+}

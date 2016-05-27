@@ -1,0 +1,73 @@
+{
+  "id": 874056287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530196,41.488156,-71.530196,41.488156",
+    "geom:latitude":41.488156,
+    "geom:longitude":-71.530196,
+    "iso:country":"US",
+    "sg:address":"117 W Alumni Ave",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9881",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23rtuvGJqXaIgXoI4FAMIG_41.488156_-71.530196@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311303,
+    "wof:geomhash":"e33e3e16bfe207d0970883b5b026b5f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874056287
+        }
+    ],
+    "wof:id":874056287,
+    "wof:lastmodified":1464311303,
+    "wof:name":"University Of Kingston",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.530196,
+    41.488156,
+    -71.530196,
+    41.488156
+],
+  "geometry": {"coordinates":[-71.530196,41.488156],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874296427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414804,41.822999,-71.414804,41.822999",
+    "geom:latitude":41.822999,
+    "geom:longitude":-71.414804,
+    "iso:country":"US",
+    "sg:address":"121 Washington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 2121",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "new",
+        "american"
+    ],
+    "sg:website":"www.local121.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Uu4C6DGPs2KBvxVkTUIWa_41.822999_-71.414804@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315248,
+    "wof:geomhash":"b3897a82c3791efe29deb1ad8e076171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874296427
+        }
+    ],
+    "wof:id":874296427,
+    "wof:lastmodified":1464315248,
+    "wof:name":"Local 121",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.414804,
+    41.822999,
+    -71.414804,
+    41.822999
+],
+  "geometry": {"coordinates":[-71.414804,41.822999],"type":"Point"}
+}

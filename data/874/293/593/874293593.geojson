@@ -1,0 +1,65 @@
+{
+  "id": 874293593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560329,41.483481,-71.560329,41.483481",
+    "geom:latitude":41.483481,
+    "geom:longitude":-71.560329,
+    "iso:country":"US",
+    "sg:address":"1 Rail Road Ave",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yR28QBkDJAxpzGORWVFh0_41.483481_-71.560329@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315143,
+    "wof:geomhash":"a0d7f8b1e010c14f07f3bec98bb316f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874293593
+        }
+    ],
+    "wof:id":874293593,
+    "wof:lastmodified":1464315143,
+    "wof:name":"Kingston Rail Road Station",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.560329,
+    41.483481,
+    -71.560329,
+    41.483481
+],
+  "geometry": {"coordinates":[-71.560329,41.483481],"type":"Point"}
+}

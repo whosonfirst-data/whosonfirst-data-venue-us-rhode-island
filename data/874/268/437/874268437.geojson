@@ -1,0 +1,71 @@
+{
+  "id": 874268437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43328,41.556783,-71.43328,41.556783",
+    "geom:latitude":41.556783,
+    "geom:longitude":-71.43328,
+    "iso:country":"US",
+    "sg:address":"44 Anthony Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0012",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HnxDjGowDmpsGNuJqhYIX_41.556783_-71.433280@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314165,
+    "wof:geomhash":"52715f1db0520df5a0beed8ea23d049a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874268437
+        }
+    ],
+    "wof:id":874268437,
+    "wof:lastmodified":1464314165,
+    "wof:name":"Pilgrim Electric Inc",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.43328,
+    41.556783,
+    -71.43328,
+    41.556783
+],
+  "geometry": {"coordinates":[-71.43328,41.556783],"type":"Point"}
+}

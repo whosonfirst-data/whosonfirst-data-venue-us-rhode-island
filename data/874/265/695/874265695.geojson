@@ -1,0 +1,71 @@
+{
+  "id": 874265695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.364546,41.506654,-71.364546,41.506654",
+    "geom:latitude":41.506654,
+    "geom:longitude":-71.364546,
+    "iso:country":"US",
+    "sg:address":"230 Canonicus Ave",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 2846",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UgpZNP8UeDWsIfePs8FKv_41.506654_-71.364546@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314061,
+    "wof:geomhash":"5bc45d07b04ee3274d0aa4df443ed7f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874265695
+        }
+    ],
+    "wof:id":874265695,
+    "wof:lastmodified":1464314061,
+    "wof:name":"Jack's Electric Inc",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.364546,
+    41.506654,
+    -71.364546,
+    41.506654
+],
+  "geometry": {"coordinates":[-71.364546,41.506654],"type":"Point"}
+}

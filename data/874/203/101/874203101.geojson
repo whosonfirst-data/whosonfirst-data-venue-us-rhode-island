@@ -1,0 +1,78 @@
+{
+  "id": 874203101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435021,41.750529,-71.435021,41.750529",
+    "geom:latitude":41.750529,
+    "geom:longitude":-71.435021,
+    "iso:country":"US",
+    "sg:address":"88 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 8780",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "lighting"
+    ],
+    "sg:website":"www.eastcoastlighting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vl8osKfQoontTxXKVigtw_41.750529_-71.435021@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312875,
+    "wof:geomhash":"61ffd21f0309819c16592ec8987f1c55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874203101
+        }
+    ],
+    "wof:id":874203101,
+    "wof:lastmodified":1464312875,
+    "wof:name":"East Coast Lighting Svc",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "lighting"
+    ]
+},
+  "bbox": [
+    -71.435021,
+    41.750529,
+    -71.435021,
+    41.750529
+],
+  "geometry": {"coordinates":[-71.43502100000001,41.750529],"type":"Point"}
+}

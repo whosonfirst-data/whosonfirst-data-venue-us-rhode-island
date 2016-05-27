@@ -1,0 +1,75 @@
+{
+  "id": 873997725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.276509,41.704334,-71.276509,41.704334",
+    "geom:latitude":41.704334,
+    "geom:longitude":-71.276509,
+    "iso:country":"US",
+    "sg:address":"108 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6300",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "custom",
+        "built",
+        "designed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mP9YlrjQwxBXKozkqitzQ_41.704334_-71.276509@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310745,
+    "wof:geomhash":"92bfd7b57e586bd4ada753796f5373aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":873997725
+        }
+    ],
+    "wof:id":873997725,
+    "wof:lastmodified":1464310745,
+    "wof:name":"Cheetham Machinery Corp",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "custom",
+        "built",
+        "designed"
+    ]
+},
+  "bbox": [
+    -71.276509,
+    41.704334,
+    -71.276509,
+    41.704334
+],
+  "geometry": {"coordinates":[-71.276509,41.704334],"type":"Point"}
+}

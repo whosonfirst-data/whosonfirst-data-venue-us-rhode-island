@@ -1,0 +1,69 @@
+{
+  "id": 874282393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50945,41.896395,-71.50945,41.896395",
+    "geom:latitude":41.896395,
+    "geom:longitude":-71.50945,
+    "iso:country":"US",
+    "sg:address":"14 Domin Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1808",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cQcztbiBVeTbqlE34vuEy_41.896247_-71.510099@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314720,
+    "wof:geomhash":"66c3f6e6f6c380ac5ffd26b2771d83e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874282393
+        }
+    ],
+    "wof:id":874282393,
+    "wof:lastmodified":1464314720,
+    "wof:name":"Prov Baking Co",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale"
+    ]
+},
+  "bbox": [
+    -71.50945,
+    41.896395,
+    -71.50945,
+    41.896395
+],
+  "geometry": {"coordinates":[-71.50945,41.896395],"type":"Point"}
+}

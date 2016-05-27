@@ -1,0 +1,71 @@
+{
+  "id": 874262195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529266,41.48388,-71.529266,41.48388",
+    "geom:latitude":41.48388,
+    "geom:longitude":-71.529266,
+    "iso:country":"US",
+    "sg:address":"44 Lower College Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 2121",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZAqUQy0V5ILeNaYicz950_41.483880_-71.529266@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313932,
+    "wof:geomhash":"19a32289139b3a7cca50b25d1661ead5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874262195
+        }
+    ],
+    "wof:id":874262195,
+    "wof:lastmodified":1464313932,
+    "wof:name":"Uri Security",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security"
+    ]
+},
+  "bbox": [
+    -71.529266,
+    41.48388,
+    -71.529266,
+    41.48388
+],
+  "geometry": {"coordinates":[-71.52926600000001,41.48388],"type":"Point"}
+}

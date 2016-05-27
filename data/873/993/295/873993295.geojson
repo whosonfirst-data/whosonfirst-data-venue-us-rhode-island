@@ -1,0 +1,69 @@
+{
+  "id": 873993295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507032,41.878359,-71.507032,41.878359",
+    "geom:latitude":41.878359,
+    "geom:longitude":-71.507032,
+    "iso:country":"US",
+    "sg:address":"206 Pinewood Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7779",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychotherapist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gb4ajcyj24KAPZXFirwmh_41.878359_-71.507032@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310714,
+    "wof:geomhash":"769802efe8fe9525b8f0a492ae3a1891",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":873993295
+        }
+    ],
+    "wof:id":873993295,
+    "wof:lastmodified":1464310714,
+    "wof:name":"Phyllis A Barboza",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist"
+    ]
+},
+  "bbox": [
+    -71.507032,
+    41.878359,
+    -71.507032,
+    41.878359
+],
+  "geometry": {"coordinates":[-71.507032,41.878359],"type":"Point"}
+}

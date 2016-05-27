@@ -1,0 +1,79 @@
+{
+  "id": 874279043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474136,41.79274,-71.474136,41.79274",
+    "geom:latitude":41.79274,
+    "geom:longitude":-71.474136,
+    "iso:country":"US",
+    "sg:address":"24 John St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 0622",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ff14R5IshMCep0LHu8cx_41.792740_-71.474136@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314574,
+    "wof:geomhash":"c766f95393d5ffa1f03ac1ad9d2349e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874279043
+        }
+    ],
+    "wof:id":874279043,
+    "wof:lastmodified":1464314574,
+    "wof:name":"Cranston Auto Body Inc",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.474136,
+    41.79274,
+    -71.474136,
+    41.79274
+],
+  "geometry": {"coordinates":[-71.474136,41.79274],"type":"Point"}
+}

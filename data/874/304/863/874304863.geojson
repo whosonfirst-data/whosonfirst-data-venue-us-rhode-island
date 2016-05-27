@@ -1,0 +1,65 @@
+{
+  "id": 874304863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494901,41.863556,-71.494901,41.863556",
+    "geom:latitude":41.863556,
+    "geom:longitude":-71.494901,
+    "iso:country":"US",
+    "sg:address":"123 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4709",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:website":"www.geminiautoservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mKlKtDbwvA6gu4nqVOeyN_41.863556_-71.494901@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315559,
+    "wof:geomhash":"5b5953cc9d8bf2c914aa1a0817d23369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304863
+        }
+    ],
+    "wof:id":874304863,
+    "wof:lastmodified":1464315559,
+    "wof:name":"Gemini Auto Service",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.494901,
+    41.863556,
+    -71.494901,
+    41.863556
+],
+  "geometry": {"coordinates":[-71.494901,41.863556],"type":"Point"}
+}

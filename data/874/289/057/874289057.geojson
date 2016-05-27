@@ -1,0 +1,71 @@
+{
+  "id": 874289057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.73416,41.490491,-71.73416,41.490491",
+    "geom:latitude":41.490491,
+    "geom:longitude":-71.73416,
+    "iso:country":"US",
+    "sg:address":"825 Main St",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7490",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZhrRGBmQMvZzUE9BwhRaS_41.490491_-71.734160@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314979,
+    "wof:geomhash":"4fe30eacc49ad727cd553d9e51281105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874289057
+        }
+    ],
+    "wof:id":874289057,
+    "wof:lastmodified":1464314979,
+    "wof:name":"Canonchet Cliffs I",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.73416,
+    41.490491,
+    -71.73416,
+    41.490491
+],
+  "geometry": {"coordinates":[-71.73416,41.490491],"type":"Point"}
+}

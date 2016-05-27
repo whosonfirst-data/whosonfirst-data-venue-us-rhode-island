@@ -1,0 +1,76 @@
+{
+  "id": 874282699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413101,41.820499,-71.413101,41.820499",
+    "geom:latitude":41.820499,
+    "geom:longitude":-71.413101,
+    "iso:country":"US",
+    "sg:address":"8 Abbott Park Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 598 1000",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "university"
+    ],
+    "sg:website":"www.johnsonandwales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ryHN6ywBagtmLLtImBi43_41.820709_-71.413656@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314730,
+    "wof:geomhash":"b0d95b8d3850516642dd0d762ba3d16d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874282699
+        }
+    ],
+    "wof:id":874282699,
+    "wof:lastmodified":1464314730,
+    "wof:name":"Johnson & Wales University",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "university"
+    ]
+},
+  "bbox": [
+    -71.413101,
+    41.820499,
+    -71.413101,
+    41.820499
+],
+  "geometry": {"coordinates":[-71.413101,41.820499],"type":"Point"}
+}

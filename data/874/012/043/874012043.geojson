@@ -1,0 +1,89 @@
+{
+  "id": 874012043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498683,41.439051,-71.498683,41.439051",
+    "geom:latitude":41.439051,
+    "geom:longitude":-71.498683,
+    "iso:country":"US",
+    "sg:address":"315 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2126",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "yoga"
+    ],
+    "sg:website":"www.allthatmatters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AW930CJCJUsVhO4cZwbNM_41.439051_-71.498683@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310869,
+    "wof:geomhash":"8399a7bf4f3cf7fc847fa6f80e15a72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874012043
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874012043
+        }
+    ],
+    "wof:id":874012043,
+    "wof:lastmodified":1464310869,
+    "wof:name":"All That Matters",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "yoga"
+    ]
+},
+  "bbox": [
+    -71.498683,
+    41.439051,
+    -71.498683,
+    41.439051
+],
+  "geometry": {"coordinates":[-71.498683,41.439051],"type":"Point"}
+}

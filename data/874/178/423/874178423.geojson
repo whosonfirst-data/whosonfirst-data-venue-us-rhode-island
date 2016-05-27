@@ -1,0 +1,71 @@
+{
+  "id": 874178423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291047,41.727212,-71.291047,41.727212",
+    "geom:latitude":41.727212,
+    "geom:longitude":-71.291047,
+    "iso:country":"US",
+    "sg:address":"15 Briarfield Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 444 5899",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17lLhPryIVvm09tWM7TNqL_41.727212_-71.291047@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312612,
+    "wof:geomhash":"fa197ecf349b03a6de68459a7e025f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874178423
+        }
+    ],
+    "wof:id":874178423,
+    "wof:lastmodified":1464312612,
+    "wof:name":"Paul D Fadale MD",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.291047,
+    41.727212,
+    -71.291047,
+    41.727212
+],
+  "geometry": {"coordinates":[-71.29104700000001,41.727212],"type":"Point"}
+}

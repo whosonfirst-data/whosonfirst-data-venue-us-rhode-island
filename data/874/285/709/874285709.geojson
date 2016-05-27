@@ -1,0 +1,71 @@
+{
+  "id": 874285709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414497,41.884602,-71.414497,41.884602",
+    "geom:latitude":41.884602,
+    "geom:longitude":-71.414497,
+    "iso:country":"US",
+    "sg:address":"935 Smithfield Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 1212",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BV4pShsbDzMKWgs3u4RKT_41.885095_-71.414049@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314847,
+    "wof:geomhash":"bbe731bab7d4a5e38355aaba8a85c043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874285709
+        }
+    ],
+    "wof:id":874285709,
+    "wof:lastmodified":1464314847,
+    "wof:name":"Joe's Service",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.414497,
+    41.884602,
+    -71.414497,
+    41.884602
+],
+  "geometry": {"coordinates":[-71.414497,41.884602],"type":"Point"}
+}

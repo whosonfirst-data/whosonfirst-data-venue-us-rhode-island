@@ -1,0 +1,71 @@
+{
+  "id": 874034459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518021,42.015548,-71.518021,42.015548",
+    "geom:latitude":42.015548,
+    "geom:longitude":-71.518021,
+    "iso:country":"US",
+    "sg:address":"470 Gaskill St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 5988",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yrognAQcrrLUMxtOko87m_42.015548_-71.518021@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311089,
+    "wof:geomhash":"bde8ee3901d68c1f5c062eecdc163513",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874034459
+        }
+    ],
+    "wof:id":874034459,
+    "wof:lastmodified":1464311089,
+    "wof:name":"St Sauveur & Sons Painting",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.518021,
+    42.015548,
+    -71.518021,
+    42.015548
+],
+  "geometry": {"coordinates":[-71.518021,42.015548],"type":"Point"}
+}

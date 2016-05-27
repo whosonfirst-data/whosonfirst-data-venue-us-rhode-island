@@ -1,0 +1,74 @@
+{
+  "id": 874286647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541553,41.664134,-71.541553,41.664134",
+    "geom:latitude":41.664134,
+    "geom:longitude":-71.541553,
+    "iso:country":"US",
+    "sg:address":"2311 New London Tpke",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/coventry/173055-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 0165",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45q0EyubXropHjTcLM36P1_41.664134_-71.541553@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314878,
+    "wof:geomhash":"2b1ecf960df891c61f5e4d04a2d50b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874286647
+        }
+    ],
+    "wof:id":874286647,
+    "wof:lastmodified":1464314878,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.541553,
+    41.664134,
+    -71.541553,
+    41.664134
+],
+  "geometry": {"coordinates":[-71.54155299999999,41.664134],"type":"Point"}
+}

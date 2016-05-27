@@ -1,0 +1,89 @@
+{
+  "id": 874290143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399179,41.881023,-71.399179,41.881023",
+    "geom:latitude":41.881023,
+    "geom:longitude":-71.399179,
+    "iso:country":"US",
+    "sg:address":"465 Lonsdale Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 0755",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22YQWDhTHTS2rHGxsdfuLZ_41.881023_-71.399179@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315017,
+    "wof:geomhash":"fa9991579530771c1ddab584b42190ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874290143
+        }
+    ],
+    "wof:id":874290143,
+    "wof:lastmodified":1464315017,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.399179,
+    41.881023,
+    -71.399179,
+    41.881023
+],
+  "geometry": {"coordinates":[-71.399179,41.881023],"type":"Point"}
+}

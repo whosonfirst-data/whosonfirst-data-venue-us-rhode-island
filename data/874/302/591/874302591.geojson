@@ -1,0 +1,71 @@
+{
+  "id": 874302591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470398,41.833,-71.470398,41.833",
+    "geom:latitude":41.833,
+    "geom:longitude":-71.470398,
+    "iso:country":"US",
+    "sg:address":"993 Manton Ave Apt 403",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 2326",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z72kH4xe0D2hWbKk6i1XO_41.833000_-71.470398@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315483,
+    "wof:geomhash":"0e098b944c8806ceb4ead1179cc42965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874302591
+        }
+    ],
+    "wof:id":874302591,
+    "wof:lastmodified":1464315483,
+    "wof:name":"Riveredge Village Associates",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.470398,
+    41.833,
+    -71.470398,
+    41.833
+],
+  "geometry": {"coordinates":[-71.470398,41.833],"type":"Point"}
+}

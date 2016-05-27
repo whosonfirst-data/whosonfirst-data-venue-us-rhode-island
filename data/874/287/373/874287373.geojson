@@ -1,0 +1,76 @@
+{
+  "id": 874287373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409993,41.8273,-71.409993,41.8273",
+    "geom:latitude":41.8273,
+    "geom:longitude":-71.409993,
+    "iso:country":"US",
+    "sg:address":"125 Canal St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/9129-3-steeple-street-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 3620",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pEOqQXucm2R99758aTK4l_41.827300_-71.409993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314903,
+    "wof:geomhash":"994b8c206d7d6e7ddce9de866fc5304a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874287373
+        }
+    ],
+    "wof:id":874287373,
+    "wof:lastmodified":1464314903,
+    "wof:name":"3 Steeple Street Bistro",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.409993,
+    41.8273,
+    -71.409993,
+    41.8273
+],
+  "geometry": {"coordinates":[-71.409993,41.8273],"type":"Point"}
+}

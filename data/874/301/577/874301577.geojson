@@ -1,0 +1,83 @@
+{
+  "id": 874301577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421921,41.79031,-71.421921,41.79031",
+    "geom:latitude":41.79031,
+    "geom:longitude":-71.421921,
+    "iso:country":"US",
+    "sg:address":"820 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KBIApvo95bFKb6uxdU7Jx_41.790310_-71.421921@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315450,
+    "wof:geomhash":"ce6fd8d3db589d291305b543d6da7743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874301577
+        }
+    ],
+    "wof:id":874301577,
+    "wof:lastmodified":1464315450,
+    "wof:name":"USPS - United States Post Office - Edgewood Carriers",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -71.421921,
+    41.79031,
+    -71.421921,
+    41.79031
+],
+  "geometry": {"coordinates":[-71.421921,41.79031],"type":"Point"}
+}

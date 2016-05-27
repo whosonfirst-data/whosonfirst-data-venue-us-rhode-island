@@ -1,0 +1,67 @@
+{
+  "id": 874304765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473139,41.830831,-71.473139,41.830831",
+    "geom:latitude":41.830831,
+    "geom:longitude":-71.473139,
+    "iso:country":"US",
+    "sg:address":"653 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 528 1010",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:website":"www.sprint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g9UJ4MeicgM6Icso616Hs_41.830831_-71.473139@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315556,
+    "wof:geomhash":"34841f9bf5a8a24e72fb375a35453a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304765
+        }
+    ],
+    "wof:id":874304765,
+    "wof:lastmodified":1464315556,
+    "wof:name":"Sprint Authorized Representative",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.473139,
+    41.830831,
+    -71.473139,
+    41.830831
+],
+  "geometry": {"coordinates":[-71.473139,41.830831],"type":"Point"}
+}

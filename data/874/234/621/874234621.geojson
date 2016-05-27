@@ -1,0 +1,80 @@
+{
+  "id": 874234621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.378958,41.819646,-71.378958,41.819646",
+    "geom:latitude":41.819646,
+    "geom:longitude":-71.378958,
+    "iso:country":"US",
+    "sg:address":"85 Taunton Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 431 1123",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40USXimzv6Q2tVUZXlNQO2_41.819646_-71.378958@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313232,
+    "wof:geomhash":"071af19a3ae9f273ba5dfbf4e9f2e1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874234621
+        }
+    ],
+    "wof:id":874234621,
+    "wof:lastmodified":1464313232,
+    "wof:name":"Menise's Tailoring & Dry Clean",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.378958,
+    41.819646,
+    -71.378958,
+    41.819646
+],
+  "geometry": {"coordinates":[-71.378958,41.819646],"type":"Point"}
+}

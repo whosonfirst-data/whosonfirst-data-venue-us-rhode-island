@@ -1,0 +1,94 @@
+{
+  "id": 874302657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444398,41.817604,-71.444398,41.817604",
+    "geom:latitude":41.817604,
+    "geom:longitude":-71.444398,
+    "iso:country":"US",
+    "sg:address":"40 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "saving",
+        "commercial",
+        "broker",
+        "mortgage",
+        "location"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LV5NwAdROnfH7sNqxUQ9p_41.817604_-71.444398@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315485,
+    "wof:geomhash":"8cc0c5e4dfad9a0a0821710b4b696af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874302657
+        }
+    ],
+    "wof:id":874302657,
+    "wof:lastmodified":1464315485,
+    "wof:name":"Bank of America Atm",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial",
+        "broker",
+        "mortgage",
+        "location"
+    ]
+},
+  "bbox": [
+    -71.444398,
+    41.817604,
+    -71.444398,
+    41.817604
+],
+  "geometry": {"coordinates":[-71.44439800000001,41.817604],"type":"Point"}
+}

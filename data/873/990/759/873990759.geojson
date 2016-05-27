@@ -1,0 +1,90 @@
+{
+  "id": 873990759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396128,41.795969,-71.396128,41.795969",
+    "geom:latitude":41.795969,
+    "geom:longitude":-71.396128,
+    "iso:country":"US",
+    "sg:address":"3 Terminal Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7809",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ZAzhUSDk1ACho7W1XFKS_41.795969_-71.396128@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"02a0ff5e94a8267e93b3c0e8c0863377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":873990759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":873990759
+        }
+    ],
+    "wof:id":873990759,
+    "wof:lastmodified":1464310695,
+    "wof:name":"M A Gammino Construction Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.396128,
+    41.795969,
+    -71.396128,
+    41.795969
+],
+  "geometry": {"coordinates":[-71.396128,41.795969],"type":"Point"}
+}

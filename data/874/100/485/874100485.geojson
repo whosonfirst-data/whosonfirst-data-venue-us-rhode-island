@@ -1,0 +1,88 @@
+{
+  "id": 874100485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435616,41.785152,-71.435616,41.785152",
+    "geom:latitude":41.785152,
+    "geom:longitude":-71.435616,
+    "iso:country":"US",
+    "sg:address":"460 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 4488",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vSzvfDrFEMUutTo3WFwb7_41.785152_-71.435616@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311801,
+    "wof:geomhash":"4fb76a0b4ba96e22ef2c87104adb0d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874100485
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874100485
+        }
+    ],
+    "wof:id":874100485,
+    "wof:lastmodified":1464311801,
+    "wof:name":"Aarons Sales & Lease Ownership",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.435616,
+    41.785152,
+    -71.435616,
+    41.785152
+],
+  "geometry": {"coordinates":[-71.435616,41.785152],"type":"Point"}
+}

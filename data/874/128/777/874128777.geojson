@@ -1,0 +1,71 @@
+{
+  "id": 874128777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466302,41.852321,-71.466302,41.852321",
+    "geom:latitude":41.852321,
+    "geom:longitude":-71.466302,
+    "iso:country":"US",
+    "sg:address":"1588 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5300",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aZtPhOUYSWijazJmISLrp_41.852321_-71.466302@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312118,
+    "wof:geomhash":"681a01111cf191fd1a40641cd808fe49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874128777
+        }
+    ],
+    "wof:id":874128777,
+    "wof:lastmodified":1464312118,
+    "wof:name":"Anthony Pricolo Dental Lab",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.466302,
+    41.852321,
+    -71.466302,
+    41.852321
+],
+  "geometry": {"coordinates":[-71.466302,41.852321],"type":"Point"}
+}

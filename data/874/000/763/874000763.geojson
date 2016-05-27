@@ -1,0 +1,73 @@
+{
+  "id": 874000763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.29169,41.541423,-71.29169,41.541423",
+    "geom:latitude":41.541423,
+    "geom:longitude":-71.29169,
+    "iso:country":"US",
+    "sg:address":"1590 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 9120",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zWIqjxinTkiFBxhGO55hf_41.541423_-71.291690@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310765,
+    "wof:geomhash":"0476bf1814ebb0fffadb5bd87e150d69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874000763
+        }
+    ],
+    "wof:id":874000763,
+    "wof:lastmodified":1464310765,
+    "wof:name":"BRS Building Co",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.29169,
+    41.541423,
+    -71.29169,
+    41.541423
+],
+  "geometry": {"coordinates":[-71.29169,41.541423],"type":"Point"}
+}

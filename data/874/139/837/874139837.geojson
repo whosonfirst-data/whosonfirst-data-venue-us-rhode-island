@@ -1,0 +1,71 @@
+{
+  "id": 874139837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278829,41.729962,-71.278829,41.729962",
+    "geom:latitude":41.729962,
+    "geom:longitude":-71.278829,
+    "iso:country":"US",
+    "sg:address":"137 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2850",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "boiler",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Sy4QxITkNBJKt6EMGOg0Y_41.729962_-71.278829@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312233,
+    "wof:geomhash":"5693480a93431b386c760eb5f5f553e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874139837
+        }
+    ],
+    "wof:id":874139837,
+    "wof:lastmodified":1464312233,
+    "wof:name":"R J Sanders Inc",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boiler",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -71.278829,
+    41.729962,
+    -71.278829,
+    41.729962
+],
+  "geometry": {"coordinates":[-71.278829,41.729962],"type":"Point"}
+}

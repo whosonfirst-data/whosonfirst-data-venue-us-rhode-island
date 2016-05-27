@@ -1,0 +1,79 @@
+{
+  "id": 874259173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450457,41.470569,-71.450457,41.470569",
+    "geom:latitude":41.470569,
+    "geom:longitude":-71.450457,
+    "iso:country":"US",
+    "sg:address":"39 John St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1343",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OILst2Ss0zkQH3DxoYMp7_41.470569_-71.450457@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313830,
+    "wof:geomhash":"9879413fc323f15ba549502dc8b062d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874259173
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874259173
+        }
+    ],
+    "wof:id":874259173,
+    "wof:lastmodified":1464313830,
+    "wof:name":"Photo Shoppe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -71.450457,
+    41.470569,
+    -71.450457,
+    41.470569
+],
+  "geometry": {"coordinates":[-71.450457,41.470569],"type":"Point"}
+}

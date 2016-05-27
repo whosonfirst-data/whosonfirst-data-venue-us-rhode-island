@@ -1,0 +1,71 @@
+{
+  "id": 873994513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.575513,42.002814,-71.575513,42.002814",
+    "geom:latitude":42.002814,
+    "geom:longitude":-71.575513,
+    "iso:country":"US",
+    "sg:address":"52 Greene St",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 5016",
+    "sg:postcode":"02876",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v2rF7cYfICRLAesyluzo7_42.002814_-71.575513@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310722,
+    "wof:geomhash":"253c02753511ea46a2196a822af3a079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":873994513
+        }
+    ],
+    "wof:id":873994513,
+    "wof:lastmodified":1464310722,
+    "wof:name":"Sharons Property LLC",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.575513,
+    42.002814,
+    -71.575513,
+    42.002814
+],
+  "geometry": {"coordinates":[-71.575513,42.002814],"type":"Point"}
+}

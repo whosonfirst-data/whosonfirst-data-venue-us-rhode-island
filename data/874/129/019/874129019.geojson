@@ -1,0 +1,86 @@
+{
+  "id": 874129019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407165,41.792279,-71.407165,41.792279",
+    "geom:latitude":41.792279,
+    "geom:longitude":-71.407165,
+    "iso:country":"US",
+    "sg:address":"1258 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 0401",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z1uyQADCovXFDr7LkedNB_41.792279_-71.407165@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312121,
+    "wof:geomhash":"0657ba9dc9affa2dc08c51b9f70cabd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874129019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874129019
+        }
+    ],
+    "wof:id":874129019,
+    "wof:lastmodified":1464312121,
+    "wof:name":"Carmela' S Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.407165,
+    41.792279,
+    -71.407165,
+    41.792279
+],
+  "geometry": {"coordinates":[-71.40716500000001,41.792279],"type":"Point"}
+}

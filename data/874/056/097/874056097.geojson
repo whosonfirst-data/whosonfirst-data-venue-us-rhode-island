@@ -1,0 +1,81 @@
+{
+  "id": 874056097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488723,41.442274,-71.488723,41.442274",
+    "geom:latitude":41.442274,
+    "geom:longitude":-71.488723,
+    "iso:country":"US",
+    "sg:address":"667 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4555",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dbXi5W0aCWBg2Tzlf0o7T_41.442274_-71.488723@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311302,
+    "wof:geomhash":"03c7cc93ba765c65f2994ec966ee3aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874056097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874056097
+        }
+    ],
+    "wof:id":874056097,
+    "wof:lastmodified":1464311302,
+    "wof:name":"Wakefield Liquors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.488723,
+    41.442274,
+    -71.488723,
+    41.442274
+],
+  "geometry": {"coordinates":[-71.48872299999999,41.442274],"type":"Point"}
+}

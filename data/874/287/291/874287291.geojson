@@ -1,0 +1,87 @@
+{
+  "id": 874287291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496052,41.714744,-71.496052,41.714744",
+    "geom:latitude":41.714744,
+    "geom:longitude":-71.496052,
+    "iso:country":"US",
+    "sg:address":"4 Blossom St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/58418-the-west-valley-inn/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2834",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X8HmkLOLtKJP7uktC3k6y_41.714744_-71.496052@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314900,
+    "wof:geomhash":"898267ceb517ea1c44648b9b5dadc6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287291
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287291
+        }
+    ],
+    "wof:id":874287291,
+    "wof:lastmodified":1464314900,
+    "wof:name":"The West Valley Inn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.496052,
+    41.714744,
+    -71.496052,
+    41.714744
+],
+  "geometry": {"coordinates":[-71.49605200000001,41.714744],"type":"Point"}
+}

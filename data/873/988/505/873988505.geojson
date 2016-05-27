@@ -1,0 +1,78 @@
+{
+  "id": 873988505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461014,41.512931,-71.461014,41.512931",
+    "geom:latitude":41.512931,
+    "geom:longitude":-71.461014,
+    "iso:country":"US",
+    "sg:address":"2415 Tower Hill Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 8190",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "riding",
+        "equine",
+        "academy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hv9a579qtDzHVCABYzx66_41.512931_-71.461014@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310679,
+    "wof:geomhash":"2743e18c771da3e0cd8364a079940ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":873988505
+        }
+    ],
+    "wof:id":873988505,
+    "wof:lastmodified":1464310679,
+    "wof:name":"Tower Hill Equestrian Ctr",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "riding",
+        "equine",
+        "academy"
+    ]
+},
+  "bbox": [
+    -71.461014,
+    41.512931,
+    -71.461014,
+    41.512931
+],
+  "geometry": {"coordinates":[-71.46101400000001,41.512931],"type":"Point"}
+}

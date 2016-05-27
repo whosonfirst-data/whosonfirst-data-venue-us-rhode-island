@@ -1,0 +1,75 @@
+{
+  "id": 874283313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429901,41.8461,-71.429901,41.8461",
+    "geom:latitude":41.8461,
+    "geom:longitude":-71.429901,
+    "iso:country":"US",
+    "sg:address":"405 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 0545",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YPPdMF39VOSm7SfRibEXp_41.846256_-71.430145@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314750,
+    "wof:geomhash":"53fe62a936f153395fd4fdd394468bbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874283313
+        }
+    ],
+    "wof:id":874283313,
+    "wof:lastmodified":1464314750,
+    "wof:name":"Your Mother's Home Cooking",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.429901,
+    41.8461,
+    -71.429901,
+    41.8461
+],
+  "geometry": {"coordinates":[-71.429901,41.8461],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874039909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402454,41.828959,-71.402454,41.828959",
+    "geom:latitude":41.828959,
+    "geom:longitude":-71.402454,
+    "iso:country":"US",
+    "sg:address":"201 Meeting St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 1530",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QT8t26Jq0p4esEcMVatUF_41.828959_-71.402454@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311142,
+    "wof:geomhash":"eeb20f0b62ffe63e435a015510912b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874039909
+        }
+    ],
+    "wof:id":874039909,
+    "wof:lastmodified":1464311142,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.402454,
+    41.828959,
+    -71.402454,
+    41.828959
+],
+  "geometry": {"coordinates":[-71.40245400000001,41.828959],"type":"Point"}
+}

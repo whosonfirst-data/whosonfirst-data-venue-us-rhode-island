@@ -1,0 +1,71 @@
+{
+  "id": 874021155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493177,41.86057,-71.493177,41.86057",
+    "geom:latitude":41.86057,
+    "geom:longitude":-71.493177,
+    "iso:country":"US",
+    "sg:address":"44 Harris Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2637",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46BpjrxHOBEAMUF915rs4I_41.860570_-71.493177@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310958,
+    "wof:geomhash":"334d7db34802d37049ae313e38e30b7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874021155
+        }
+    ],
+    "wof:id":874021155,
+    "wof:lastmodified":1464310958,
+    "wof:name":"Cox Painting",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.493177,
+    41.86057,
+    -71.493177,
+    41.86057
+],
+  "geometry": {"coordinates":[-71.493177,41.86057],"type":"Point"}
+}

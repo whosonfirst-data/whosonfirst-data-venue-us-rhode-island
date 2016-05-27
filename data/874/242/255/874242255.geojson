@@ -1,0 +1,75 @@
+{
+  "id": 874242255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.35298,41.762613,-71.35298,41.762613",
+    "geom:latitude":41.762613,
+    "geom:longitude":-71.35298,
+    "iso:country":"US",
+    "sg:address":"30 Theresa St",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 4922",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HBOcnPriz8vAdulqsT9R0_41.762613_-71.352980@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313382,
+    "wof:geomhash":"d068575d5cca4ee4286069dba3d5729c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874242255
+        }
+    ],
+    "wof:id":874242255,
+    "wof:lastmodified":1464313382,
+    "wof:name":"Doctor Shine Cleaning Inc",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.35298,
+    41.762613,
+    -71.35298,
+    41.762613
+],
+  "geometry": {"coordinates":[-71.35298,41.762613],"type":"Point"}
+}

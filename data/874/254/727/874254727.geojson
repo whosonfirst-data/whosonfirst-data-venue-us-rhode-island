@@ -1,0 +1,71 @@
+{
+  "id": 874254727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541817,41.885853,-71.541817,41.885853",
+    "geom:latitude":41.885853,
+    "geom:longitude":-71.541817,
+    "iso:country":"US",
+    "sg:address":"132 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 7711",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "transcription",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vqX7gloxFWI4ziIthWA51_41.885853_-71.541817@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313664,
+    "wof:geomhash":"c81bba365c02960311ecbb7396d5362d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874254727
+        }
+    ],
+    "wof:id":874254727,
+    "wof:lastmodified":1464313664,
+    "wof:name":"Promed Transcription Svc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transcription",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.541817,
+    41.885853,
+    -71.541817,
+    41.885853
+],
+  "geometry": {"coordinates":[-71.54181699999999,41.885853],"type":"Point"}
+}

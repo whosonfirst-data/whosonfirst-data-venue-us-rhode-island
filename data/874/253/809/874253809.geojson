@@ -1,0 +1,71 @@
+{
+  "id": 874253809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440417,41.94874,-71.440417,41.94874",
+    "geom:latitude":41.94874,
+    "geom:longitude":-71.440417,
+    "iso:country":"US",
+    "sg:address":"2190 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 5193",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x90tIrjseUDJi9Na8Sek3_41.948740_-71.440417@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313642,
+    "wof:geomhash":"be2d34bf537c50aa06ef7ff4b7ce9842",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874253809
+        }
+    ],
+    "wof:id":874253809,
+    "wof:lastmodified":1464313642,
+    "wof:name":"Jasneek Medical Staffing",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "group"
+    ]
+},
+  "bbox": [
+    -71.440417,
+    41.94874,
+    -71.440417,
+    41.94874
+],
+  "geometry": {"coordinates":[-71.440417,41.94874],"type":"Point"}
+}

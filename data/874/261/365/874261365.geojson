@@ -1,0 +1,75 @@
+{
+  "id": 874261365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385269,41.828776,-71.385269,41.828776",
+    "geom:latitude":41.828776,
+    "geom:longitude":-71.385269,
+    "iso:country":"US",
+    "sg:address":"139 Medway St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 7360",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PqrLwISvH8JCLCk29H0as_41.828776_-71.385269@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313903,
+    "wof:geomhash":"fe4208e7e8d32a3d6b0ae414c1e434e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874261365
+        }
+    ],
+    "wof:id":874261365,
+    "wof:lastmodified":1464313903,
+    "wof:name":"Wayland Square Parking Lot",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -71.385269,
+    41.828776,
+    -71.385269,
+    41.828776
+],
+  "geometry": {"coordinates":[-71.38526899999999,41.828776],"type":"Point"}
+}

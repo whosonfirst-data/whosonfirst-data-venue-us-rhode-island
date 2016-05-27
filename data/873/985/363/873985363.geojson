@@ -1,0 +1,75 @@
+{
+  "id": 873985363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404698,41.79063,-71.404698,41.79063",
+    "geom:latitude":41.79063,
+    "geom:longitude":-71.404698,
+    "iso:country":"US",
+    "sg:address":"15 Broom St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8282",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G3TZPZFPcZEkqR6imVLhy_41.790630_-71.404698@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310652,
+    "wof:geomhash":"36f8c3065b8fcb4cfab1aa9f9deb804d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":873985363
+        }
+    ],
+    "wof:id":873985363,
+    "wof:lastmodified":1464310652,
+    "wof:name":"R D Preservation Co Inc",
+    "wof:parent_id":420558783,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.404698,
+    41.79063,
+    -71.404698,
+    41.79063
+],
+  "geometry": {"coordinates":[-71.404698,41.79063],"type":"Point"}
+}

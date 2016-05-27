@@ -1,0 +1,70 @@
+{
+  "id": 874291391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399907,41.92713,-71.399907,41.92713",
+    "geom:latitude":41.92713,
+    "geom:longitude":-71.399907,
+    "iso:country":"US",
+    "sg:address":"1270 High St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 305 5222",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet"
+    ],
+    "sg:website":"www.alphadogcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nmCiZlCPOKVXCVlfEQ7U5_41.927130_-71.399907@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315063,
+    "wof:geomhash":"b12af407498293e1d9bc1109edb08b71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291391
+        }
+    ],
+    "wof:id":874291391,
+    "wof:lastmodified":1464315063,
+    "wof:name":"Alpha Dog Center",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -71.399907,
+    41.92713,
+    -71.399907,
+    41.92713
+],
+  "geometry": {"coordinates":[-71.399907,41.92713],"type":"Point"}
+}

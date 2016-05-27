@@ -1,0 +1,94 @@
+{
+  "id": 874288465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274641,41.693241,-71.274641,41.693241",
+    "geom:latitude":41.693241,
+    "geom:longitude":-71.274641,
+    "iso:country":"US",
+    "sg:address":"61 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3433",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "dent",
+        "towing",
+        "removal",
+        "painting"
+    ],
+    "sg:website":"http://www.safewayautosales.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nV1lIbXk2gnGsnsstsSO2_41.693241_-71.274641@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314957,
+    "wof:geomhash":"927ea7bd491041f7d62aa225072b2a43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288465
+        }
+    ],
+    "wof:id":874288465,
+    "wof:lastmodified":1464314957,
+    "wof:name":"Safe-Way Auto Body Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "dent",
+        "towing",
+        "removal",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.274641,
+    41.693241,
+    -71.274641,
+    41.693241
+],
+  "geometry": {"coordinates":[-71.274641,41.693241],"type":"Point"}
+}

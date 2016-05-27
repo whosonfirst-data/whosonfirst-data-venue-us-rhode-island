@@ -1,0 +1,71 @@
+{
+  "id": 874258607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.686449,41.970272,-71.686449,41.970272",
+    "geom:latitude":41.970272,
+    "geom:longitude":-71.686449,
+    "iso:country":"US",
+    "sg:address":"49 Granite St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 1812",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PA7X4NNpWH80iDR98LSSR_41.970272_-71.686449@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313791,
+    "wof:geomhash":"99c4e1d8b3833458c28ea79c2abcb62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874258607
+        }
+    ],
+    "wof:id":874258607,
+    "wof:lastmodified":1464313791,
+    "wof:name":"Pb Construction",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.686449,
+    41.970272,
+    -71.686449,
+    41.970272
+],
+  "geometry": {"coordinates":[-71.686449,41.970272],"type":"Point"}
+}

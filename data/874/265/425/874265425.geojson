@@ -1,0 +1,71 @@
+{
+  "id": 874265425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527123,42.018212,-71.527123,42.018212",
+    "geom:latitude":42.018212,
+    "geom:longitude":-71.527123,
+    "iso:country":"US",
+    "sg:address":"29 Federal St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 6100",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n2H2G4nrOOAm9WuB2SLQ1_42.018212_-71.527123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314052,
+    "wof:geomhash":"0073d87f8045b467b8e122ce18f28c19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874265425
+        }
+    ],
+    "wof:id":874265425,
+    "wof:lastmodified":1464314052,
+    "wof:name":"E L Gentes Co",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.527123,
+    42.018212,
+    -71.527123,
+    42.018212
+],
+  "geometry": {"coordinates":[-71.527123,42.018212],"type":"Point"}
+}

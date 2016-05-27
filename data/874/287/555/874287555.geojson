@@ -1,0 +1,74 @@
+{
+  "id": 874287555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.549439,41.921506,-71.549439,41.921506",
+    "geom:latitude":41.921506,
+    "geom:longitude":-71.549439,
+    "iso:country":"US",
+    "sg:address":"371 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/68319-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 4570",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46BcLXg5atcBgGrBcNokTe_41.921506_-71.549439@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314914,
+    "wof:geomhash":"29984e9c413caf21dfb4bf8f4ab802f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874287555
+        }
+    ],
+    "wof:id":874287555,
+    "wof:lastmodified":1464314914,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.549439,
+    41.921506,
+    -71.549439,
+    41.921506
+],
+  "geometry": {"coordinates":[-71.54943900000001,41.921506],"type":"Point"}
+}

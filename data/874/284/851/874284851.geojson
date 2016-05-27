@@ -1,0 +1,71 @@
+{
+  "id": 874284851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468002,41.833698,-71.468002,41.833698",
+    "geom:latitude":41.833698,
+    "geom:longitude":-71.468002,
+    "iso:country":"US",
+    "sg:address":"935 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 5612",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qVHT7MfgWvu7a6duwNmrV_41.833909_-71.468099@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314807,
+    "wof:geomhash":"f63bc5dbb74ab35bdbef4d1795c55751",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874284851
+        }
+    ],
+    "wof:id":874284851,
+    "wof:lastmodified":1464314807,
+    "wof:name":"Cvs/Pharmacy",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -71.468002,
+    41.833698,
+    -71.468002,
+    41.833698
+],
+  "geometry": {"coordinates":[-71.468002,41.833698],"type":"Point"}
+}

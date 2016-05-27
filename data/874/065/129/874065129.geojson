@@ -1,0 +1,69 @@
+{
+  "id": 874065129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.753176,41.57238,-71.753176,41.57238",
+    "geom:latitude":41.57238,
+    "geom:longitude":-71.753176,
+    "iso:country":"US",
+    "sg:address":"52 Woody Hill Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2741",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueWmn8YFQUpIYYLY1Kv8u_41.572380_-71.753176@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311381,
+    "wof:geomhash":"1c30777ac15cc2f22be03ced6c87faf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":874065129
+        }
+    ],
+    "wof:id":874065129,
+    "wof:lastmodified":1464311381,
+    "wof:name":"Dr Vinyl",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -71.753176,
+    41.57238,
+    -71.753176,
+    41.57238
+],
+  "geometry": {"coordinates":[-71.753176,41.57238],"type":"Point"}
+}

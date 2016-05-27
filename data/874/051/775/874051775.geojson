@@ -1,0 +1,71 @@
+{
+  "id": 874051775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448729,41.947291,-71.448729,41.947291",
+    "geom:latitude":41.947291,
+    "geom:longitude":-71.448729,
+    "iso:country":"US",
+    "sg:address":"32 Timberland Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 9311",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ccIp7mcGuFobVMVWyUErK_41.947291_-71.448729@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311258,
+    "wof:geomhash":"0394352708ad352033eb8c08ce906a48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874051775
+        }
+    ],
+    "wof:id":874051775,
+    "wof:lastmodified":1464311258,
+    "wof:name":"Barboza M & Sons Roofing Co",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.448729,
+    41.947291,
+    -71.448729,
+    41.947291
+],
+  "geometry": {"coordinates":[-71.448729,41.947291],"type":"Point"}
+}

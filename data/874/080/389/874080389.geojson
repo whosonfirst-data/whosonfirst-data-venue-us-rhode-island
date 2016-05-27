@@ -1,0 +1,75 @@
+{
+  "id": 874080389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450004,41.661625,-71.450004,41.661625",
+    "geom:latitude":41.661625,
+    "geom:longitude":-71.450004,
+    "iso:country":"US",
+    "sg:address":"130 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 0510",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6puCff23eqV9Ks1VGbYa57_41.661625_-71.450004@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311555,
+    "wof:geomhash":"8858c7067635532be8cdba64ec88ea16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874080389
+        }
+    ],
+    "wof:id":874080389,
+    "wof:lastmodified":1464311555,
+    "wof:name":"Green Door",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.450004,
+    41.661625,
+    -71.450004,
+    41.661625
+],
+  "geometry": {"coordinates":[-71.45000400000001,41.661625],"type":"Point"}
+}

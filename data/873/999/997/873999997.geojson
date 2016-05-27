@@ -1,0 +1,77 @@
+{
+  "id": 873999997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413437,41.797211,-71.413437,41.797211",
+    "geom:latitude":41.797211,
+    "geom:longitude":-71.413437,
+    "iso:country":"US",
+    "sg:address":"1021 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7615",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZxJ4m9BAjssAmNAbao8dp_41.797211_-71.413437@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310760,
+    "wof:geomhash":"c5b78f4ef66e60e5656949d04b5a142a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":873999997
+        }
+    ],
+    "wof:id":873999997,
+    "wof:lastmodified":1464310760,
+    "wof:name":"World Travel Svc",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -71.413437,
+    41.797211,
+    -71.413437,
+    41.797211
+],
+  "geometry": {"coordinates":[-71.413437,41.797211],"type":"Point"}
+}

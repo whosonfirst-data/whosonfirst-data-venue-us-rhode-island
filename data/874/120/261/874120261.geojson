@@ -1,0 +1,71 @@
+{
+  "id": 874120261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.59219,41.496374,-71.59219,41.496374",
+    "geom:latitude":41.496374,
+    "geom:longitude":-71.59219,
+    "iso:country":"US",
+    "sg:address":"141 Laurel Ln",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 1627",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eWgCHnBo2BIoW9MJhXG8I_41.496374_-71.592190@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312043,
+    "wof:geomhash":"a9afa9529a275999dcf8d2e638c621fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874120261
+        }
+    ],
+    "wof:id":874120261,
+    "wof:lastmodified":1464312043,
+    "wof:name":"Laurel Design & Construction",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -71.59219,
+    41.496374,
+    -71.59219,
+    41.496374
+],
+  "geometry": {"coordinates":[-71.59219,41.496374],"type":"Point"}
+}

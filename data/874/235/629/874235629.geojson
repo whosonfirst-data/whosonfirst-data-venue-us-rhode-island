@@ -1,0 +1,79 @@
+{
+  "id": 874235629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44985,41.82162,-71.44985,41.82162",
+    "geom:latitude":41.82162,
+    "geom:longitude":-71.44985,
+    "iso:country":"US",
+    "sg:address":"50 Curtis St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 7100",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burial",
+        "casket",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ezLN5dwOstkf8Jji3NNrM_41.821620_-71.449850@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313255,
+    "wof:geomhash":"23b73154c09d5713554a2a026b503337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874235629
+        }
+    ],
+    "wof:id":874235629,
+    "wof:lastmodified":1464313255,
+    "wof:name":"Colony Casket Inc",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burial",
+        "casket",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.44985,
+    41.82162,
+    -71.44985,
+    41.82162
+],
+  "geometry": {"coordinates":[-71.44985,41.82162],"type":"Point"}
+}

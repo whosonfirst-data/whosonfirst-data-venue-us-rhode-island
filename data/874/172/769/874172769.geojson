@@ -1,0 +1,71 @@
+{
+  "id": 874172769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5228,41.457174,-71.5228,41.457174",
+    "geom:latitude":41.457174,
+    "geom:longitude":-71.5228,
+    "iso:country":"US",
+    "sg:address":"381 Curtis Corner Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0996",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M64ZJmynluBcxUiizVzTz_41.457174_-71.522800@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312556,
+    "wof:geomhash":"e70aa09f9f30420849d9732d8063911f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874172769
+        }
+    ],
+    "wof:id":874172769,
+    "wof:lastmodified":1464312556,
+    "wof:name":"Sherman's Garage Pee Wee",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.5228,
+    41.457174,
+    -71.5228,
+    41.457174
+],
+  "geometry": {"coordinates":[-71.5228,41.457174],"type":"Point"}
+}

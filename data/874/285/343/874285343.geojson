@@ -1,0 +1,87 @@
+{
+  "id": 874285343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436557,41.776543,-71.436557,41.776543",
+    "geom:latitude":41.776543,
+    "geom:longitude":-71.436557,
+    "iso:country":"US",
+    "sg:address":"65 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 0800",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"http://www.durfeehardware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mKJR3OBaQHIONKVL6tdm9_41.776934_-71.436533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314824,
+    "wof:geomhash":"0089c6848bb9e807e4b5da5bb3564cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874285343
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874285343
+        }
+    ],
+    "wof:id":874285343,
+    "wof:lastmodified":1464314824,
+    "wof:name":"Durfee True Value Hardware",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.436557,
+    41.776543,
+    -71.436557,
+    41.776543
+],
+  "geometry": {"coordinates":[-71.43655699999999,41.776543],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873983507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501282,41.878643,-71.501282,41.878643",
+    "geom:latitude":41.878643,
+    "geom:longitude":-71.501282,
+    "iso:country":"US",
+    "sg:address":"349 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9050",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43HOY0d87UsihMuheKhNF1_41.878643_-71.501282@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310638,
+    "wof:geomhash":"7dc1d1309e8fad66d9ffe64e3babcbda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":873983507
+        }
+    ],
+    "wof:id":873983507,
+    "wof:lastmodified":1464310638,
+    "wof:name":"Exclusive Cleaners & Laundry",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -71.501282,
+    41.878643,
+    -71.501282,
+    41.878643
+],
+  "geometry": {"coordinates":[-71.501282,41.878643],"type":"Point"}
+}

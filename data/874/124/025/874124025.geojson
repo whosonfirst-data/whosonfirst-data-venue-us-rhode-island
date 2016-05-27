@@ -1,0 +1,71 @@
+{
+  "id": 874124025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424896,41.619509,-71.424896,41.619509",
+    "geom:latitude":41.619509,
+    "geom:longitude":-71.424896,
+    "iso:country":"US",
+    "sg:address":"374 Perimeter Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9661",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "water",
+        "transport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85835761,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DfCfyWiwFXWsOxuXwYr8M_41.619509_-71.424896@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312077,
+    "wof:geomhash":"fcfad28fe08f74445dd35ebbe25d147a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85835761,
+            "region_id":85688509,
+            "venue_id":874124025
+        }
+    ],
+    "wof:id":874124025,
+    "wof:lastmodified":1464312077,
+    "wof:name":"North Atlantic Marine Salvage",
+    "wof:parent_id":85835761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "transport"
+    ]
+},
+  "bbox": [
+    -71.424896,
+    41.619509,
+    -71.424896,
+    41.619509
+],
+  "geometry": {"coordinates":[-71.424896,41.619509],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874262271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478067,41.475967,-71.478067,41.475967",
+    "geom:latitude":41.475967,
+    "geom:longitude":-71.478067,
+    "iso:country":"US",
+    "sg:address":"167 Table Rock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 3756",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85841471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WxVW6NUVC9PVOa1ewPyCP_41.475967_-71.478067@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313934,
+    "wof:geomhash":"0de5d122aa9b82b97b89a54cfed962b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874262271
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874262271
+        }
+    ],
+    "wof:id":874262271,
+    "wof:lastmodified":1464313934,
+    "wof:name":"Mooresfield Builders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.478067,
+    41.475967,
+    -71.478067,
+    41.475967
+],
+  "geometry": {"coordinates":[-71.478067,41.475967],"type":"Point"}
+}

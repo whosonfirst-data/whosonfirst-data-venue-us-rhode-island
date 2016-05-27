@@ -1,0 +1,69 @@
+{
+  "id": 874226881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462524,41.849489,-71.462524,41.849489",
+    "geom:latitude":41.849489,
+    "geom:longitude":-71.462524,
+    "iso:country":"US",
+    "sg:address":"54 Homewood Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5660",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sT2hEOURiyQW5MedlGCS3_41.849489_-71.462524@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313129,
+    "wof:geomhash":"2f2f61f69bc3bc5c373ab2a548a0e911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874226881
+        }
+    ],
+    "wof:id":874226881,
+    "wof:lastmodified":1464313129,
+    "wof:name":"North Providence Shell",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.462524,
+    41.849489,
+    -71.462524,
+    41.849489
+],
+  "geometry": {"coordinates":[-71.462524,41.849489],"type":"Point"}
+}

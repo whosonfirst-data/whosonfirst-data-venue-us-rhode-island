@@ -1,0 +1,75 @@
+{
+  "id": 874203249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27572,41.744985,-71.27572,41.744985",
+    "geom:latitude":41.744985,
+    "geom:longitude":-71.27572,
+    "iso:country":"US",
+    "sg:address":"4 Paiva St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7725",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "retail",
+        "bakery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ScuGOLU96ox32xNUP8j8_41.744985_-71.275720@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312877,
+    "wof:geomhash":"9b9ca497332089d52b113eaafb123515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874203249
+        }
+    ],
+    "wof:id":874203249,
+    "wof:lastmodified":1464312877,
+    "wof:name":"Honey Dew",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "retail",
+        "bakery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.27572,
+    41.744985,
+    -71.27572,
+    41.744985
+],
+  "geometry": {"coordinates":[-71.27572000000001,41.744985],"type":"Point"}
+}

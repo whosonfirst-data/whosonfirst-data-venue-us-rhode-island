@@ -1,0 +1,73 @@
+{
+  "id": 874111621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249776,41.567844,-71.249776,41.567844",
+    "geom:latitude":41.567844,
+    "geom:longitude":-71.249776,
+    "iso:country":"US",
+    "sg:address":"7 Eyler Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 1358",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q6r9lH9sdGswwKb3ttlQa_41.567844_-71.249776@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311951,
+    "wof:geomhash":"2907c5fe805e5aafa24fbab6c4c21109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874111621
+        }
+    ],
+    "wof:id":874111621,
+    "wof:lastmodified":1464311951,
+    "wof:name":"Trucking Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.249776,
+    41.567844,
+    -71.249776,
+    41.567844
+],
+  "geometry": {"coordinates":[-71.249776,41.567844],"type":"Point"}
+}

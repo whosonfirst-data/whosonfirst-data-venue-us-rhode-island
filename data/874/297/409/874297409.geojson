@@ -1,0 +1,71 @@
+{
+  "id": 874297409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.41551,41.821152,-71.41551,41.821152",
+    "geom:latitude":41.821152,
+    "geom:longitude":-71.41551,
+    "iso:country":"US",
+    "sg:address":"69 Empire St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 6964",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E9ikP7rnAyjb0VAI9wIDh_41.821152_-71.415510@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315281,
+    "wof:geomhash":"7d511fa5e29edc83c1cfaf3ce5be9db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874297409
+        }
+    ],
+    "wof:id":874297409,
+    "wof:lastmodified":1464315281,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.41551,
+    41.821152,
+    -71.41551,
+    41.821152
+],
+  "geometry": {"coordinates":[-71.41551,41.821152],"type":"Point"}
+}

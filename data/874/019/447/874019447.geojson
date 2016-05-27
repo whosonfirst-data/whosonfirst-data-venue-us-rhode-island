@@ -1,0 +1,71 @@
+{
+  "id": 874019447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567191,41.400341,-71.567191,41.400341",
+    "geom:latitude":41.400341,
+    "geom:longitude":-71.567191,
+    "iso:country":"US",
+    "sg:address":"2300 Post Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4184",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fka8XK6ZiPeLxHa56etbJ_41.400341_-71.567191@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310942,
+    "wof:geomhash":"847ab685b47e3a37c9dfd7cf9e8818fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874019447
+        }
+    ],
+    "wof:id":874019447,
+    "wof:lastmodified":1464310942,
+    "wof:name":"Sibley Smith Co",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.567191,
+    41.400341,
+    -71.567191,
+    41.400341
+],
+  "geometry": {"coordinates":[-71.56719099999999,41.400341],"type":"Point"}
+}

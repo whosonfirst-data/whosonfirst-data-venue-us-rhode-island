@@ -1,0 +1,77 @@
+{
+  "id": 874108597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421952,41.843951,-71.421952,41.843951",
+    "geom:latitude":41.843951,
+    "geom:longitude":-71.421952,
+    "iso:country":"US",
+    "sg:address":"44 Salina St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 2766",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nWXO0Y9nlhF092DCpE3QE_41.843951_-71.421952@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311900,
+    "wof:geomhash":"be27378b9bef5350ba154e025c761c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874108597
+        }
+    ],
+    "wof:id":874108597,
+    "wof:lastmodified":1464311900,
+    "wof:name":"Stephen's Masonry",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.421952,
+    41.843951,
+    -71.421952,
+    41.843951
+],
+  "geometry": {"coordinates":[-71.421952,41.843951],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 874009501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495975,41.447982,-71.495975,41.447982",
+    "geom:latitude":41.447982,
+    "geom:longitude":-71.495975,
+    "iso:country":"US",
+    "sg:address":"316 Columbia St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9585",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "membership",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0REXysr5yujSGIOtP74SVH_41.447982_-71.495975@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310852,
+    "wof:geomhash":"0b7907f93cb3614a4f9724638b5da9c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874009501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874009501
+        }
+    ],
+    "wof:id":874009501,
+    "wof:lastmodified":1464310852,
+    "wof:name":"Technical Industries Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership",
+        "sport"
+    ]
+},
+  "bbox": [
+    -71.495975,
+    41.447982,
+    -71.495975,
+    41.447982
+],
+  "geometry": {"coordinates":[-71.495975,41.447982],"type":"Point"}
+}

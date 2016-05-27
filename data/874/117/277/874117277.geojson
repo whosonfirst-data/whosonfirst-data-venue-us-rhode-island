@@ -1,0 +1,71 @@
+{
+  "id": 874117277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438128,41.876361,-71.438128,41.876361",
+    "geom:latitude":41.876361,
+    "geom:longitude":-71.438128,
+    "iso:country":"US",
+    "sg:address":"27 Woodward Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 4910",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "site"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67cIucY4SQ8bLGsQRncwyk_41.876361_-71.438128@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312009,
+    "wof:geomhash":"0b05d3d0a92565af33771f9405be2359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874117277
+        }
+    ],
+    "wof:id":874117277,
+    "wof:lastmodified":1464312009,
+    "wof:name":"Lincoln Mobile Estates",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "site"
+    ]
+},
+  "bbox": [
+    -71.438128,
+    41.876361,
+    -71.438128,
+    41.876361
+],
+  "geometry": {"coordinates":[-71.43812800000001,41.876361],"type":"Point"}
+}

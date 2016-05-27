@@ -1,0 +1,71 @@
+{
+  "id": 874200811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561807,41.399874,-71.561807,41.399874",
+    "geom:latitude":41.399874,
+    "geom:longitude":-71.561807,
+    "iso:country":"US",
+    "sg:address":"2180 Post Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4612",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MiZdABuZ93fy0dkXoPV8D_41.399874_-71.561807@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312852,
+    "wof:geomhash":"cfcf9f1a9ca55cb7289c6e4fbe5c88e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874200811
+        }
+    ],
+    "wof:id":874200811,
+    "wof:lastmodified":1464312852,
+    "wof:name":"Scotts' Auto Repair Svc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.561807,
+    41.399874,
+    -71.561807,
+    41.399874
+],
+  "geometry": {"coordinates":[-71.561807,41.399874],"type":"Point"}
+}

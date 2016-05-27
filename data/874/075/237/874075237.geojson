@@ -1,0 +1,71 @@
+{
+  "id": 874075237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.574298,41.493154,-71.574298,41.493154",
+    "geom:latitude":41.493154,
+    "geom:longitude":-71.574298,
+    "iso:country":"US",
+    "sg:address":"21 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4054",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BorB7s5R5JQXwX2OZmYSD_41.493154_-71.574298@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311505,
+    "wof:geomhash":"bcbf2f32b53dcee75503ec8645bda83c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874075237
+        }
+    ],
+    "wof:id":874075237,
+    "wof:lastmodified":1464311505,
+    "wof:name":"Kenyon Corn Meal Co",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -71.574298,
+    41.493154,
+    -71.574298,
+    41.493154
+],
+  "geometry": {"coordinates":[-71.574298,41.493154],"type":"Point"}
+}

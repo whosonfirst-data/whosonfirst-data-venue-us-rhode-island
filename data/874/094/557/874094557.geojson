@@ -1,0 +1,81 @@
+{
+  "id": 874094557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452374,41.570328,-71.452374,41.570328",
+    "geom:latitude":41.570328,
+    "geom:longitude":-71.452374,
+    "iso:country":"US",
+    "sg:address":"55 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 268 1579",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "city",
+        "resource",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DoYoNE0QAkWEAlwmUM1ak_41.570328_-71.452374@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311708,
+    "wof:geomhash":"d2b11a7b172d17c888814a5cab576640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874094557
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874094557
+        }
+    ],
+    "wof:id":874094557,
+    "wof:lastmodified":1464311708,
+    "wof:name":"North Kingstown Welfare Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    -71.452374,
+    41.570328,
+    -71.452374,
+    41.570328
+],
+  "geometry": {"coordinates":[-71.45237400000001,41.570328],"type":"Point"}
+}

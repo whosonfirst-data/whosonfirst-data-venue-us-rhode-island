@@ -1,0 +1,83 @@
+{
+  "id": 874293425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424432,41.758667,-71.424432,41.758667",
+    "geom:latitude":41.758667,
+    "geom:longitude":-71.424432,
+    "iso:country":"US",
+    "sg:address":"1791 Elmwood Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 626 4719",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "brake",
+        "tire"
+    ],
+    "sg:website":"http://www.leotireandauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yGSETVJDqqO5jAPvdXamf_41.758667_-71.424432@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315138,
+    "wof:geomhash":"912da2ccadc128ab15e68b9b9f458b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874293425
+        }
+    ],
+    "wof:id":874293425,
+    "wof:lastmodified":1464315138,
+    "wof:name":"Leos Tire Sales",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake",
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.424432,
+    41.758667,
+    -71.424432,
+    41.758667
+],
+  "geometry": {"coordinates":[-71.424432,41.758667],"type":"Point"}
+}

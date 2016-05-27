@@ -1,0 +1,89 @@
+{
+  "id": 874287005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48945,41.711586,-71.48945,41.711586",
+    "geom:latitude":41.711586,
+    "geom:longitude":-71.48945,
+    "iso:country":"US",
+    "sg:address":"1010 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/215271-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 6391",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1swfEumRZ36AZFPizknNSg_41.711586_-71.489450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"f4113e767ec45d8740328c80d2fd2646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287005
+        }
+    ],
+    "wof:id":874287005,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Burger King",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.48945,
+    41.711586,
+    -71.48945,
+    41.711586
+],
+  "geometry": {"coordinates":[-71.48945000000001,41.711586],"type":"Point"}
+}

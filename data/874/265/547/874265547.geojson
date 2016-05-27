@@ -1,0 +1,71 @@
+{
+  "id": 874265547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461891,41.861515,-71.461891,41.861515",
+    "geom:latitude":41.861515,
+    "geom:longitude":-71.461891,
+    "iso:country":"US",
+    "sg:address":"1840 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4900",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NW9Tl99WUfkwPAfPteQmT_41.861515_-71.461891@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314056,
+    "wof:geomhash":"a66fbbd148c83d52a964ecf7655c9266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874265547
+        }
+    ],
+    "wof:id":874265547,
+    "wof:lastmodified":1464314056,
+    "wof:name":"Medical Imaging Associates",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "billing"
+    ]
+},
+  "bbox": [
+    -71.461891,
+    41.861515,
+    -71.461891,
+    41.861515
+],
+  "geometry": {"coordinates":[-71.46189099999999,41.861515],"type":"Point"}
+}

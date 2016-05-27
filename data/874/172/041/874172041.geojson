@@ -1,0 +1,80 @@
+{
+  "id": 874172041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.768854,41.353912,-71.768854,41.353912",
+    "geom:latitude":41.353912,
+    "geom:longitude":-71.768854,
+    "iso:country":"US",
+    "sg:address":"10 Dunns Corner Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 7271",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "mover",
+        "moving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6soN7grEkmn28n7w2nbSsu_41.353912_-71.768854@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312550,
+    "wof:geomhash":"c8535d0a803520a75e81c3f702a6560c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874172041
+        }
+    ],
+    "wof:id":874172041,
+    "wof:lastmodified":1464312550,
+    "wof:name":"C & W Building Movers Inc",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mover",
+        "moving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.768854,
+    41.353912,
+    -71.768854,
+    41.353912
+],
+  "geometry": {"coordinates":[-71.768854,41.353912],"type":"Point"}
+}

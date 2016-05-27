@@ -1,0 +1,71 @@
+{
+  "id": 874293143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274467,41.73661,-71.274467,41.73661",
+    "geom:latitude":41.73661,
+    "geom:longitude":-71.274467,
+    "iso:country":"US",
+    "sg:address":"288 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 9554",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QabOiwfO8IS8vosx23PSi_41.736610_-71.274467@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315128,
+    "wof:geomhash":"0147c0ca6c0f64ccbb52a9e84e11e142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874293143
+        }
+    ],
+    "wof:id":874293143,
+    "wof:lastmodified":1464315128,
+    "wof:name":"Ram Auto Sales",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -71.274467,
+    41.73661,
+    -71.274467,
+    41.73661
+],
+  "geometry": {"coordinates":[-71.274467,41.73661],"type":"Point"}
+}

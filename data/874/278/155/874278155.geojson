@@ -1,0 +1,71 @@
+{
+  "id": 874278155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436699,41.552179,-71.436699,41.552179",
+    "geom:latitude":41.552179,
+    "geom:longitude":-71.436699,
+    "iso:country":"US",
+    "sg:address":"96 Congdon Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9238",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50kaLjk4sLXPXyCZc0uM47_41.552179_-71.436699@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314545,
+    "wof:geomhash":"675e5769fc062db6fae110e6220f24c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874278155
+        }
+    ],
+    "wof:id":874278155,
+    "wof:lastmodified":1464314545,
+    "wof:name":"Service Convenience",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.436699,
+    41.552179,
+    -71.436699,
+    41.552179
+],
+  "geometry": {"coordinates":[-71.436699,41.552179],"type":"Point"}
+}

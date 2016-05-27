@@ -1,0 +1,78 @@
+{
+  "id": 874303131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437302,41.824402,-71.437302,41.824402",
+    "geom:latitude":41.824402,
+    "geom:longitude":-71.437302,
+    "iso:country":"US",
+    "sg:address":"661 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 9110",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36XdgrcSzDOrpdYguQYIi0_41.824402_-71.437302@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315500,
+    "wof:geomhash":"1b1ceb321a472ff78be632500781b7d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874303131
+        }
+    ],
+    "wof:id":874303131,
+    "wof:lastmodified":1464315500,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -71.437302,
+    41.824402,
+    -71.437302,
+    41.824402
+],
+  "geometry": {"coordinates":[-71.437302,41.824402],"type":"Point"}
+}

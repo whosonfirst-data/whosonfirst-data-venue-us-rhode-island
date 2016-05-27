@@ -1,0 +1,75 @@
+{
+  "id": 874251337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452361,41.664492,-71.452361,41.664492",
+    "geom:latitude":41.664492,
+    "geom:longitude":-71.452361,
+    "iso:country":"US",
+    "sg:address":"258 Spencer Ave",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 3585",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NUJFrF5NwNZqfrbdk4IMp_41.664492_-71.452361@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313592,
+    "wof:geomhash":"2e4f6b581e8d877a5a674251d6e971df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874251337
+        }
+    ],
+    "wof:id":874251337,
+    "wof:lastmodified":1464313592,
+    "wof:name":"David Kass MD Inc",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.452361,
+    41.664492,
+    -71.452361,
+    41.664492
+],
+  "geometry": {"coordinates":[-71.452361,41.664492],"type":"Point"}
+}

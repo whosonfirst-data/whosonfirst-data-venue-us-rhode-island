@@ -1,0 +1,73 @@
+{
+  "id": 874113329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.708728,41.468409,-71.708728,41.468409",
+    "geom:latitude":41.468409,
+    "geom:longitude":-71.708728,
+    "iso:country":"US",
+    "sg:address":"28 Sandy Pond Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3391",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GqhSvqGxQ0HQtw9t3vG3A_41.468409_-71.708728@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311970,
+    "wof:geomhash":"da8c85bde0a7434d9256326678f40773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874113329
+        }
+    ],
+    "wof:id":874113329,
+    "wof:lastmodified":1464311970,
+    "wof:name":"Falcone Electric",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.708728,
+    41.468409,
+    -71.708728,
+    41.468409
+],
+  "geometry": {"coordinates":[-71.70872799999999,41.468409],"type":"Point"}
+}

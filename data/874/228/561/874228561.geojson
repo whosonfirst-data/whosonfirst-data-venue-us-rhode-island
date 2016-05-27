@@ -1,0 +1,71 @@
+{
+  "id": 874228561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2787,41.678722,-71.2787,41.678722",
+    "geom:latitude":41.678722,
+    "geom:longitude":-71.2787,
+    "iso:country":"US",
+    "sg:address":"805 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1566",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hm4MUHaDL0qgo8EyE3x1y_41.678722_-71.278700@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313146,
+    "wof:geomhash":"43622bc5d70f9aa4e30bc82b5ac47f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874228561
+        }
+    ],
+    "wof:id":874228561,
+    "wof:lastmodified":1464313146,
+    "wof:name":"Topside Lounge",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.2787,
+    41.678722,
+    -71.2787,
+    41.678722
+],
+  "geometry": {"coordinates":[-71.2787,41.678722],"type":"Point"}
+}

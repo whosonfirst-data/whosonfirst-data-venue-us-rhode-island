@@ -1,0 +1,81 @@
+{
+  "id": 874271553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495003,41.444779,-71.495003,41.444779",
+    "geom:latitude":41.444779,
+    "geom:longitude":-71.495003,
+    "iso:country":"US",
+    "sg:address":"153 School St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9679",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mX1WiRnMVCaZbfp2PTxMM_41.444779_-71.495003@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314276,
+    "wof:geomhash":"dbd7b49d488b79fa715db5fd61087ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874271553
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874271553
+        }
+    ],
+    "wof:id":874271553,
+    "wof:lastmodified":1464314276,
+    "wof:name":"South Road School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.495003,
+    41.444779,
+    -71.495003,
+    41.444779
+],
+  "geometry": {"coordinates":[-71.495003,41.444779],"type":"Point"}
+}

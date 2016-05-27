@@ -1,0 +1,71 @@
+{
+  "id": 874305047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456688,41.761299,-71.456688,41.761299",
+    "geom:latitude":41.761299,
+    "geom:longitude":-71.456688,
+    "iso:country":"US",
+    "sg:address":"200 Midway Rd Ste 200",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 9855",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76jhDuqbWIFJA17uTLFwtL_41.761299_-71.456688@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315565,
+    "wof:geomhash":"d5a760581397f32ca1cf30dc3cb445e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874305047
+        }
+    ],
+    "wof:id":874305047,
+    "wof:lastmodified":1464315565,
+    "wof:name":"USPS - United States Post Office - Garden City",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.456688,
+    41.761299,
+    -71.456688,
+    41.761299
+],
+  "geometry": {"coordinates":[-71.456688,41.761299],"type":"Point"}
+}

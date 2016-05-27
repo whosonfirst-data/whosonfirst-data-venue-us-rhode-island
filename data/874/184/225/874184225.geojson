@@ -1,0 +1,79 @@
+{
+  "id": 874184225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424986,41.779089,-71.424986,41.779089",
+    "geom:latitude":41.779089,
+    "geom:longitude":-71.424986,
+    "iso:country":"US",
+    "sg:address":"372 Wellington Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 4411",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QjMrq17xng4dQEYvEVdlj_41.779089_-71.424986@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312681,
+    "wof:geomhash":"41e7ff890c1b161aafb0107c2a475729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874184225
+        }
+    ],
+    "wof:id":874184225,
+    "wof:lastmodified":1464312681,
+    "wof:name":"Speedway Collision Ctr Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.424986,
+    41.779089,
+    -71.424986,
+    41.779089
+],
+  "geometry": {"coordinates":[-71.424986,41.779089],"type":"Point"}
+}

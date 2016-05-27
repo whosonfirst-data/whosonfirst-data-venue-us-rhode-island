@@ -1,0 +1,69 @@
+{
+  "id": 874181391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465079,41.576768,-71.465079,41.576768",
+    "geom:latitude":41.576768,
+    "geom:longitude":-71.465079,
+    "iso:country":"US",
+    "sg:address":"22 Juniper Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5955",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "auctioneer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5787Jcbbmz8VvjwWmOmRiz_41.576768_-71.465079@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"7ed031d88abef4b70ff87c3a9f30092c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874181391
+        }
+    ],
+    "wof:id":874181391,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Daniel Buck Auctions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auctioneer"
+    ]
+},
+  "bbox": [
+    -71.465079,
+    41.576768,
+    -71.465079,
+    41.576768
+],
+  "geometry": {"coordinates":[-71.465079,41.576768],"type":"Point"}
+}

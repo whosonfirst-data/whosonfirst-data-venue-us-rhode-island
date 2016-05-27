@@ -1,0 +1,69 @@
+{
+  "id": 874090361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.642207,41.943872,-71.642207,41.943872",
+    "geom:latitude":41.943872,
+    "geom:longitude":-71.642207,
+    "iso:country":"US",
+    "sg:address":"610 Maureen Cir",
+    "sg:city":"Mapleville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 0650",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67oFniRYiminzAhtpU5RSB_41.943872_-71.642207@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311667,
+    "wof:geomhash":"c9b31aea94de9b417dd5654c35ac3b47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874090361
+        }
+    ],
+    "wof:id":874090361,
+    "wof:lastmodified":1464311667,
+    "wof:name":"Martin's Painting & Home Rpr",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.642207,
+    41.943872,
+    -71.642207,
+    41.943872
+],
+  "geometry": {"coordinates":[-71.642207,41.943872],"type":"Point"}
+}

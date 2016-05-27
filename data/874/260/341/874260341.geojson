@@ -1,0 +1,71 @@
+{
+  "id": 874260341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457314,41.860119,-71.457314,41.860119",
+    "geom:latitude":41.860119,
+    "geom:longitude":-71.457314,
+    "iso:country":"US",
+    "sg:address":"20 Marblehead Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4330",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cheese",
+        "processor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GGZ6nTNIzdMCyk06OmnYy_41.860119_-71.457314@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313869,
+    "wof:geomhash":"dd4b7859f17cee25dccdf0bc637f612c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874260341
+        }
+    ],
+    "wof:id":874260341,
+    "wof:lastmodified":1464313869,
+    "wof:name":"Pandora's Products",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "processor"
+    ]
+},
+  "bbox": [
+    -71.457314,
+    41.860119,
+    -71.457314,
+    41.860119
+],
+  "geometry": {"coordinates":[-71.457314,41.860119],"type":"Point"}
+}

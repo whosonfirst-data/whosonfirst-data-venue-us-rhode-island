@@ -1,0 +1,69 @@
+{
+  "id": 874168361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252242,41.57855,-71.252242,41.57855",
+    "geom:latitude":41.57855,
+    "geom:longitude":-71.252242,
+    "iso:country":"US",
+    "sg:address":"1780 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4688",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VpRtcwcg1iXZ0RQnJKgXb_41.578550_-71.252242@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312511,
+    "wof:geomhash":"b85f36a4582d09e143d63dd7bcbfd558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874168361
+        }
+    ],
+    "wof:id":874168361,
+    "wof:lastmodified":1464312511,
+    "wof:name":"W De Castro & Sons Farm",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.252242,
+    41.57855,
+    -71.252242,
+    41.57855
+],
+  "geometry": {"coordinates":[-71.252242,41.57855],"type":"Point"}
+}

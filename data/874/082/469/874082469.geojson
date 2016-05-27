@@ -1,0 +1,75 @@
+{
+  "id": 874082469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49385,42.00574,-71.49385,42.00574",
+    "geom:latitude":42.00574,
+    "geom:longitude":-71.49385,
+    "iso:country":"US",
+    "sg:address":"39 Sweet Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 4080",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wObB8LDQIhH95A675NtMr_42.005740_-71.493850@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311583,
+    "wof:geomhash":"9e3246396eba444e9326e416f1e89191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":874082469
+        }
+    ],
+    "wof:id":874082469,
+    "wof:lastmodified":1464311583,
+    "wof:name":"Dupras Baking Co",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.49385,
+    42.00574,
+    -71.49385,
+    42.00574
+],
+  "geometry": {"coordinates":[-71.49384999999999,42.00574],"type":"Point"}
+}

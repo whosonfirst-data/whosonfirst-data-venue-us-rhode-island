@@ -1,0 +1,90 @@
+{
+  "id": 874302663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443333,41.813099,-71.443333,41.813099",
+    "geom:latitude":41.813099,
+    "geom:longitude":-71.443333,
+    "iso:country":"US",
+    "sg:address":"83 Pilsudski St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 595 9070",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "marble-natural",
+        "top",
+        "counter",
+        "stone",
+        "granite"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ur5YKSUDm4pFi9xhn9i5Y_41.813099_-71.443333@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315485,
+    "wof:geomhash":"ccb5b6b907a37d1d38fcf5a38be1c3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874302663
+        }
+    ],
+    "wof:id":874302663,
+    "wof:lastmodified":1464315485,
+    "wof:name":"Palace Designs Granite & Marble",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "marble-natural",
+        "top",
+        "counter",
+        "stone",
+        "granite"
+    ]
+},
+  "bbox": [
+    -71.443333,
+    41.813099,
+    -71.443333,
+    41.813099
+],
+  "geometry": {"coordinates":[-71.443333,41.813099],"type":"Point"}
+}

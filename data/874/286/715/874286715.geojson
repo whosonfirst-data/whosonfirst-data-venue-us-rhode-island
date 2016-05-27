@@ -1,0 +1,76 @@
+{
+  "id": 874286715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534344,41.870181,-71.534344,41.870181",
+    "geom:latitude":41.870181,
+    "geom:longitude":-71.534344,
+    "iso:country":"US",
+    "sg:address":"446 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/84807-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 1044",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A83gQCQUq07r0ekaKX1Rw_41.870181_-71.534344@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314880,
+    "wof:geomhash":"bf76a882f74e94c2f0f1dcb442aa725f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874286715
+        }
+    ],
+    "wof:id":874286715,
+    "wof:lastmodified":1464314880,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -71.534344,
+    41.870181,
+    -71.534344,
+    41.870181
+],
+  "geometry": {"coordinates":[-71.534344,41.870181],"type":"Point"}
+}

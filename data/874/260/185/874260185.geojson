@@ -1,0 +1,82 @@
+{
+  "id": 874260185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.252318,41.584581,-71.252318,41.584581",
+    "geom:latitude":41.584581,
+    "geom:longitude":-71.252318,
+    "iso:country":"US",
+    "sg:address":"1970 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 5318",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "used",
+        "towing",
+        "sales",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6M3dYbcNxmgnqyBq8OaQx9_41.584581_-71.252318@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313864,
+    "wof:geomhash":"827d61116caab3515fd5f5fc45c64066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874260185
+        }
+    ],
+    "wof:id":874260185,
+    "wof:lastmodified":1464313864,
+    "wof:name":"Budd's Auto Repair",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "used",
+        "towing",
+        "sales",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.252318,
+    41.584581,
+    -71.252318,
+    41.584581
+],
+  "geometry": {"coordinates":[-71.252318,41.584581],"type":"Point"}
+}

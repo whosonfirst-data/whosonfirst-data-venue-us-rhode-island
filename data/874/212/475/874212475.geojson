@@ -1,0 +1,73 @@
+{
+  "id": 874212475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49969,42.027228,-71.49969,42.027228",
+    "geom:latitude":42.027228,
+    "geom:longitude":-71.49969,
+    "iso:country":"US",
+    "sg:address":"700 Rathbun St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 6811",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uIdcUWNtuXwLMGxT4nR8t_42.027228_-71.499690@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312979,
+    "wof:geomhash":"9e335082da22c3b90eee033e1ccf8f7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874212475
+        }
+    ],
+    "wof:id":874212475,
+    "wof:lastmodified":1464312979,
+    "wof:name":"Blackstone Automotive",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.49969,
+    42.027228,
+    -71.49969,
+    42.027228
+],
+  "geometry": {"coordinates":[-71.49969,42.027228],"type":"Point"}
+}

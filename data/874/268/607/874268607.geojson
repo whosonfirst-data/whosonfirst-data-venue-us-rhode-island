@@ -1,0 +1,85 @@
+{
+  "id": 874268607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485326,41.473606,-71.485326,41.473606",
+    "geom:latitude":41.473606,
+    "geom:longitude":-71.485326,
+    "iso:country":"US",
+    "sg:address":"62 Erin Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 0200",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85845577,
+        102191575,
+        404488343,
+        101720623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UMMQzUK3HbA68MwyNKSuq_41.473606_-71.485326@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314176,
+    "wof:geomhash":"62fafc7fea914bff2e10636ea77af705",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874268607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874268607
+        }
+    ],
+    "wof:id":874268607,
+    "wof:lastmodified":1464314176,
+    "wof:name":"Business Enterprise Systems",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -71.485326,
+    41.473606,
+    -71.485326,
+    41.473606
+],
+  "geometry": {"coordinates":[-71.485326,41.473606],"type":"Point"}
+}

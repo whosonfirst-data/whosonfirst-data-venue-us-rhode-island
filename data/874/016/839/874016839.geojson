@@ -1,0 +1,69 @@
+{
+  "id": 874016839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.635879,41.970358,-71.635879,41.970358",
+    "geom:latitude":41.970358,
+    "geom:longitude":-71.635879,
+    "iso:country":"US",
+    "sg:address":"1915 Victory Hwy",
+    "sg:city":"Glendale",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 5450",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mdDftALqEjUFBeDJV52Rg_41.970358_-71.635879@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310906,
+    "wof:geomhash":"037ca4e54b06479da4ff3f1e51228043",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874016839
+        }
+    ],
+    "wof:id":874016839,
+    "wof:lastmodified":1464310906,
+    "wof:name":"Glendale Oil Svc",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.635879,
+    41.970358,
+    -71.635879,
+    41.970358
+],
+  "geometry": {"coordinates":[-71.635879,41.970358],"type":"Point"}
+}

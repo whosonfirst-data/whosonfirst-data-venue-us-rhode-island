@@ -1,0 +1,71 @@
+{
+  "id": 873982207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.599359,41.368118,-71.599359,41.368118",
+    "geom:latitude":41.368118,
+    "geom:longitude":-71.599359,
+    "iso:country":"US",
+    "sg:address":"130 Rosebriar Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0853",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pQqTkr3E8shM0LplUEYLW_41.368118_-71.599359@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310622,
+    "wof:geomhash":"5cb88c6341cc1964423dd090bfde597c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":873982207
+        }
+    ],
+    "wof:id":873982207,
+    "wof:lastmodified":1464310622,
+    "wof:name":"Heffernan Apts Inc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.599359,
+    41.368118,
+    -71.599359,
+    41.368118
+],
+  "geometry": {"coordinates":[-71.59935900000001,41.368118],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874167745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400832,41.701173,-71.400832,41.701173",
+    "geom:latitude":41.701173,
+    "geom:longitude":-71.400832,
+    "iso:country":"US",
+    "sg:address":"2157 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5544",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838995,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YVr8dpzDte2VRJWP1HZ0Z_41.701173_-71.400832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312504,
+    "wof:geomhash":"c9f247a2d6f0c350d68f884a7e709137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838995,
+            "region_id":85688509,
+            "venue_id":874167745
+        }
+    ],
+    "wof:id":874167745,
+    "wof:lastmodified":1464312504,
+    "wof:name":"Fred's Auto Haus Inc",
+    "wof:parent_id":85838995,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.400832,
+    41.701173,
+    -71.400832,
+    41.701173
+],
+  "geometry": {"coordinates":[-71.40083199999999,41.701173],"type":"Point"}
+}

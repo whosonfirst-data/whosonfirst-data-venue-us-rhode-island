@@ -1,0 +1,74 @@
+{
+  "id": 874202881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457397,41.818352,-71.457397,41.818352",
+    "geom:latitude":41.818352,
+    "geom:longitude":-71.457397,
+    "iso:country":"US",
+    "sg:address":"401 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 9355",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dad4Nt9WbwAE4iVCA9dts_41.818352_-71.457397@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312873,
+    "wof:geomhash":"c0b6506470e968bc5dffa53de410c449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874202881
+        }
+    ],
+    "wof:id":874202881,
+    "wof:lastmodified":1464312873,
+    "wof:name":"Hartford Avenue Laundromat",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.457397,
+    41.818352,
+    -71.457397,
+    41.818352
+],
+  "geometry": {"coordinates":[-71.457397,41.818352],"type":"Point"}
+}

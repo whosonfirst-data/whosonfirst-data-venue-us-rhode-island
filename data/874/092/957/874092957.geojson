@@ -1,0 +1,73 @@
+{
+  "id": 874092957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400218,41.930861,-71.400218,41.930861",
+    "geom:latitude":41.930861,
+    "geom:longitude":-71.400218,
+    "iso:country":"US",
+    "sg:address":"28 Seneca St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 2978",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16S30yxaXncPxYgOHypr9q_41.930861_-71.400218@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311694,
+    "wof:geomhash":"0aef1df14eb0f3321df0521bf726687b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874092957
+        }
+    ],
+    "wof:id":874092957,
+    "wof:lastmodified":1464311694,
+    "wof:name":"Ajax Floor Cleaning",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.400218,
+    41.930861,
+    -71.400218,
+    41.930861
+],
+  "geometry": {"coordinates":[-71.400218,41.930861],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874177591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.533234,41.575859,-71.533234,41.575859",
+    "geom:latitude":41.575859,
+    "geom:longitude":-71.533234,
+    "iso:country":"US",
+    "sg:address":"5 Enwright Ct",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3292",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "cabinet",
+        "kitchen",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P3tMI7F3reblHf5dhedZS_41.575859_-71.533234@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312602,
+    "wof:geomhash":"7a93399fdf2a5a00ecd75e2c7cea89a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874177591
+        }
+    ],
+    "wof:id":874177591,
+    "wof:lastmodified":1464312602,
+    "wof:name":"Charpentier Installations Co",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cabinet",
+        "kitchen",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.533234,
+    41.575859,
+    -71.533234,
+    41.575859
+],
+  "geometry": {"coordinates":[-71.53323399999999,41.575859],"type":"Point"}
+}

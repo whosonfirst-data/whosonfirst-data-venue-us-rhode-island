@@ -1,0 +1,73 @@
+{
+  "id": 873979521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.718311,41.501689,-71.718311,41.501689",
+    "geom:latitude":41.501689,
+    "geom:longitude":-71.718311,
+    "iso:country":"US",
+    "sg:address":"1 Garnet Ln",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 0380",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r2V6wUPg9AKqdNkr2mocu_41.501689_-71.718311@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310574,
+    "wof:geomhash":"219516e5e09c783981bf2cef2f3428ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":873979521
+        }
+    ],
+    "wof:id":873979521,
+    "wof:lastmodified":1464310574,
+    "wof:name":"Northern Ri Physical Therapy",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.718311,
+    41.501689,
+    -71.718311,
+    41.501689
+],
+  "geometry": {"coordinates":[-71.718311,41.501689],"type":"Point"}
+}

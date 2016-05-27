@@ -1,0 +1,78 @@
+{
+  "id": 874260471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523539,42.055408,-71.523539,42.055408",
+    "geom:latitude":42.055408,
+    "geom:longitude":-71.523539,
+    "iso:country":"US",
+    "sg:address":"204 Elm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 6673",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "system",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YbJYl7A7GwqMq1Un1ZBlm_42.055408_-71.523539@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313873,
+    "wof:geomhash":"2c5ccfe3e3b21b6a5dc5d5168fbaf2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874260471
+        }
+    ],
+    "wof:id":874260471,
+    "wof:lastmodified":1464313873,
+    "wof:name":"American National Power Inc",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "system",
+        "power"
+    ]
+},
+  "bbox": [
+    -71.523539,
+    42.055408,
+    -71.523539,
+    42.055408
+],
+  "geometry": {"coordinates":[-71.523539,42.055408],"type":"Point"}
+}

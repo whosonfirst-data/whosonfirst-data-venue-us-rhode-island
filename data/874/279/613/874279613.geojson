@@ -1,0 +1,71 @@
+{
+  "id": 874279613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285349,41.731415,-71.285349,41.731415",
+    "geom:latitude":41.731415,
+    "geom:longitude":-71.285349,
+    "iso:country":"US",
+    "sg:address":"183 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 4479",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LLMY4AHyH9Fv0mzpJNn6S_41.731415_-71.285349@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314594,
+    "wof:geomhash":"401acb310ad5f0124c519a7d97d9914d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874279613
+        }
+    ],
+    "wof:id":874279613,
+    "wof:lastmodified":1464314594,
+    "wof:name":"Sanford Machinery Works",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.285349,
+    41.731415,
+    -71.285349,
+    41.731415
+],
+  "geometry": {"coordinates":[-71.285349,41.731415],"type":"Point"}
+}

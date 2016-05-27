@@ -1,0 +1,69 @@
+{
+  "id": 874103179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.590671,41.500596,-71.590671,41.500596",
+    "geom:latitude":41.500596,
+    "geom:longitude":-71.590671,
+    "iso:country":"US",
+    "sg:address":"320 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2279",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PxNEvI0WIvK2pcabZNl74_41.500596_-71.590671@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311834,
+    "wof:geomhash":"de96833cd6e25c546fd1aa70cbc6ec4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874103179
+        }
+    ],
+    "wof:id":874103179,
+    "wof:lastmodified":1464311834,
+    "wof:name":"Richmond Antique Ctr",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -71.590671,
+    41.500596,
+    -71.590671,
+    41.500596
+],
+  "geometry": {"coordinates":[-71.590671,41.500596],"type":"Point"}
+}

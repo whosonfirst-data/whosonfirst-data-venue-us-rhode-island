@@ -1,0 +1,73 @@
+{
+  "id": 874261401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514546,41.501168,-71.514546,41.501168",
+    "geom:latitude":41.501168,
+    "geom:longitude":-71.514546,
+    "iso:country":"US",
+    "sg:address":"86 Stony Fort Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4364",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_145kN1Sspi8ErDsY57Y03O_41.501168_-71.514546@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313904,
+    "wof:geomhash":"a640464fdb9b8cb09a7a71f3182ed12d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874261401
+        }
+    ],
+    "wof:id":874261401,
+    "wof:lastmodified":1464313904,
+    "wof:name":"Wakefield Disposal",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.514546,
+    41.501168,
+    -71.514546,
+    41.501168
+],
+  "geometry": {"coordinates":[-71.514546,41.501168],"type":"Point"}
+}

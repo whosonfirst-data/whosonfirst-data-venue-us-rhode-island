@@ -1,0 +1,75 @@
+{
+  "id": 874284961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431099,41.8195,-71.431099,41.8195",
+    "geom:latitude":41.8195,
+    "geom:longitude":-71.431099,
+    "iso:country":"US",
+    "sg:address":"392 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 2200",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y1zGC62KynjPuluCeng2k_41.819423_-71.430774@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314811,
+    "wof:geomhash":"2233c4feaf7c80e9b474b26278bf4871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874284961
+        }
+    ],
+    "wof:id":874284961,
+    "wof:lastmodified":1464314811,
+    "wof:name":"Broadway Gas",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.431099,
+    41.8195,
+    -71.431099,
+    41.8195
+],
+  "geometry": {"coordinates":[-71.431099,41.8195],"type":"Point"}
+}

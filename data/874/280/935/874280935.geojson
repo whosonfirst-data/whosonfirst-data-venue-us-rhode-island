@@ -1,0 +1,71 @@
+{
+  "id": 874280935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449035,41.89959,-71.449035,41.89959",
+    "geom:latitude":41.89959,
+    "geom:longitude":-71.449035,
+    "iso:country":"US",
+    "sg:address":"2 Anne Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 2940",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PLNdfqpgYiWVc4UzrLigw_41.899590_-71.449035@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314661,
+    "wof:geomhash":"576abdb0d17c1715da15962d2aeaad54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874280935
+        }
+    ],
+    "wof:id":874280935,
+    "wof:lastmodified":1464314661,
+    "wof:name":"Becks Burner Service",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.449035,
+    41.89959,
+    -71.449035,
+    41.89959
+],
+  "geometry": {"coordinates":[-71.44903499999999,41.89959],"type":"Point"}
+}

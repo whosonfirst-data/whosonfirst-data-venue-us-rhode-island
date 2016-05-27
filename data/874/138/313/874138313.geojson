@@ -1,0 +1,71 @@
+{
+  "id": 874138313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567382,41.680966,-71.567382,41.680966",
+    "geom:latitude":41.680966,
+    "geom:longitude":-71.567382,
+    "iso:country":"US",
+    "sg:address":"892 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 7146",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31iV4ND6kweFV0AvCMybu2_41.680966_-71.567382@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312220,
+    "wof:geomhash":"91c099a78cd70c5a318bf9d8167cafbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874138313
+        }
+    ],
+    "wof:id":874138313,
+    "wof:lastmodified":1464312220,
+    "wof:name":"Sport & Spine Physical Therapy",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.567382,
+    41.680966,
+    -71.567382,
+    41.680966
+],
+  "geometry": {"coordinates":[-71.56738199999999,41.680966],"type":"Point"}
+}

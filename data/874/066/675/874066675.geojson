@@ -1,0 +1,73 @@
+{
+  "id": 874066675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312273,41.739224,-71.312273,41.739224",
+    "geom:latitude":41.739224,
+    "geom:longitude":-71.312273,
+    "iso:country":"US",
+    "sg:address":"70 Maple Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 4059",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XNOlEiTMSUi0gcs3BGMtM_41.739224_-71.312273@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311394,
+    "wof:geomhash":"0ecda6c98d5d84c26688d36e1c7059be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874066675
+        }
+    ],
+    "wof:id":874066675,
+    "wof:lastmodified":1464311394,
+    "wof:name":"ME Boyle Transportation Inc",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.312273,
+    41.739224,
+    -71.312273,
+    41.739224
+],
+  "geometry": {"coordinates":[-71.312273,41.739224],"type":"Point"}
+}

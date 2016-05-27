@@ -1,0 +1,71 @@
+{
+  "id": 874073525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.609214,41.993067,-71.609214,41.993067",
+    "geom:latitude":41.993067,
+    "geom:longitude":-71.609214,
+    "iso:country":"US",
+    "sg:address":"185 Inman Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 7271",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cFDrSDrVAqt7FGMP67XP0_41.993067_-71.609214@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311486,
+    "wof:geomhash":"90c0df4fd5e8f93ef3ab7156af6604e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874073525
+        }
+    ],
+    "wof:id":874073525,
+    "wof:lastmodified":1464311486,
+    "wof:name":"Amphora LLC",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -71.609214,
+    41.993067,
+    -71.609214,
+    41.993067
+],
+  "geometry": {"coordinates":[-71.60921399999999,41.993067],"type":"Point"}
+}

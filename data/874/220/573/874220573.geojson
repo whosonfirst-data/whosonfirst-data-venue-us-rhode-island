@@ -1,0 +1,73 @@
+{
+  "id": 874220573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496714,41.473932,-71.496714,41.473932",
+    "geom:latitude":41.473932,
+    "geom:longitude":-71.496714,
+    "iso:country":"US",
+    "sg:address":"501 Rose Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6322",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C7d0vnm1HN5aETycS7UXL_41.473932_-71.496714@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313070,
+    "wof:geomhash":"67edc174aa716b79d1b1ac346ca4de91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874220573
+        }
+    ],
+    "wof:id":874220573,
+    "wof:lastmodified":1464313070,
+    "wof:name":"John Stedman Excavating",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.496714,
+    41.473932,
+    -71.496714,
+    41.473932
+],
+  "geometry": {"coordinates":[-71.496714,41.473932],"type":"Point"}
+}

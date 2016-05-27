@@ -1,0 +1,71 @@
+{
+  "id": 874267957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397903,41.931225,-71.397903,41.931225",
+    "geom:latitude":41.931225,
+    "geom:longitude":-71.397903,
+    "iso:country":"US",
+    "sg:address":"100 Seneca St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 658 5104",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "miscellaneous",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21gHrfalT1wtdlaao8u8i8_41.931225_-71.397903@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314148,
+    "wof:geomhash":"76da1b40ed81d135ed115843e21c38e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874267957
+        }
+    ],
+    "wof:id":874267957,
+    "wof:lastmodified":1464314148,
+    "wof:name":"Retail Store Systems",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "miscellaneous",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.397903,
+    41.931225,
+    -71.397903,
+    41.931225
+],
+  "geometry": {"coordinates":[-71.397903,41.931225],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874128823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450431,41.57523,-71.450431,41.57523",
+    "geom:latitude":41.57523,
+    "geom:longitude":-71.450431,
+    "iso:country":"US",
+    "sg:address":"67 Esmond Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 8160",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "marina",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OIMomUlWVrAQBB9KuTRfn_41.575230_-71.450431@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312119,
+    "wof:geomhash":"9dcd2bb9fe0e522be814478ab170eddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874128823
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874128823
+        }
+    ],
+    "wof:id":874128823,
+    "wof:lastmodified":1464312119,
+    "wof:name":"Wickford Marina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marina",
+        "operation"
+    ]
+},
+  "bbox": [
+    -71.450431,
+    41.57523,
+    -71.450431,
+    41.57523
+],
+  "geometry": {"coordinates":[-71.45043099999999,41.57523],"type":"Point"}
+}

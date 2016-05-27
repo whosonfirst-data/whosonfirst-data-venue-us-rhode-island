@@ -1,0 +1,69 @@
+{
+  "id": 874181427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462095,41.559496,-71.462095,41.559496",
+    "geom:latitude":41.559496,
+    "geom:longitude":-71.462095,
+    "iso:country":"US",
+    "sg:address":"57 Clover Ct",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 583 0087",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BFkZ0vYwq5p0kyHugYnNr_41.559496_-71.462095@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312645,
+    "wof:geomhash":"4ddfbfc14999ccdd65fe289656a8d215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874181427
+        }
+    ],
+    "wof:id":874181427,
+    "wof:lastmodified":1464312645,
+    "wof:name":"Beach Bum Don's Inc",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.462095,
+    41.559496,
+    -71.462095,
+    41.559496
+],
+  "geometry": {"coordinates":[-71.46209500000001,41.559496],"type":"Point"}
+}

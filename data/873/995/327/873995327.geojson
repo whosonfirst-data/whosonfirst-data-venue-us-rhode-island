@@ -1,0 +1,77 @@
+{
+  "id": 873995327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.417123,41.831273,-71.417123,41.831273",
+    "geom:latitude":41.831273,
+    "geom:longitude":-71.417123,
+    "iso:country":"US",
+    "sg:address":"83 Park St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7390",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10s2ke89rEUUc2ioFHMsCD_41.831273_-71.417123@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310728,
+    "wof:geomhash":"b22f9810f6db85de2eeb2857a2a4408b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":873995327
+        }
+    ],
+    "wof:id":873995327,
+    "wof:lastmodified":1464310728,
+    "wof:name":"American Legion",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "social"
+    ]
+},
+  "bbox": [
+    -71.417123,
+    41.831273,
+    -71.417123,
+    41.831273
+],
+  "geometry": {"coordinates":[-71.417123,41.831273],"type":"Point"}
+}

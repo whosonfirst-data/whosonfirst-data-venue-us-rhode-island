@@ -1,0 +1,75 @@
+{
+  "id": 874238663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453911,41.905675,-71.453911,41.905675",
+    "geom:latitude":41.905675,
+    "geom:longitude":-71.453911,
+    "iso:country":"US",
+    "sg:address":"3 Fair Oaks Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 4337",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FWT4LKUqDl2qypWwGfFc5_41.905675_-71.453911@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313315,
+    "wof:geomhash":"fca978691df58e626104a957496008cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874238663
+        }
+    ],
+    "wof:id":874238663,
+    "wof:lastmodified":1464313315,
+    "wof:name":"Tony's Remodeling Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "house",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.453911,
+    41.905675,
+    -71.453911,
+    41.905675
+],
+  "geometry": {"coordinates":[-71.45391100000001,41.905675],"type":"Point"}
+}

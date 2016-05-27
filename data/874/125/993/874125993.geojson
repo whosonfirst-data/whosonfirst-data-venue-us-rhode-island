@@ -1,0 +1,69 @@
+{
+  "id": 874125993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26003,41.546471,-71.26003,41.546471",
+    "geom:latitude":41.546471,
+    "geom:longitude":-71.26003,
+    "iso:country":"US",
+    "sg:address":"324 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 619 1509",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "profit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cIQBCtAdF8kPWzQcMuNl1_41.546471_-71.260030@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312094,
+    "wof:geomhash":"b050bcc940c1a95f26736e20c79d5a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874125993
+        }
+    ],
+    "wof:id":874125993,
+    "wof:lastmodified":1464312094,
+    "wof:name":"Newport Cty Interfaith Hospita",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "profit"
+    ]
+},
+  "bbox": [
+    -71.26003,
+    41.546471,
+    -71.26003,
+    41.546471
+],
+  "geometry": {"coordinates":[-71.26003,41.546471],"type":"Point"}
+}

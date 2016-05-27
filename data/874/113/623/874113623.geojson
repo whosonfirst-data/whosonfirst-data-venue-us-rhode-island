@@ -1,0 +1,86 @@
+{
+  "id": 874113623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499953,41.711433,-71.499953,41.711433",
+    "geom:latitude":41.711433,
+    "geom:longitude":-71.499953,
+    "iso:country":"US",
+    "sg:address":"1060 Toll Gate Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 4850",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VQL3BoNy6vpxiG8F6zSQz_41.711433_-71.499953@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311973,
+    "wof:geomhash":"ce7b217e9dee4f824a906a1df7d3acab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874113623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874113623
+        }
+    ],
+    "wof:id":874113623,
+    "wof:lastmodified":1464311973,
+    "wof:name":"Security Cleansers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.499953,
+    41.711433,
+    -71.499953,
+    41.711433
+],
+  "geometry": {"coordinates":[-71.499953,41.711433],"type":"Point"}
+}

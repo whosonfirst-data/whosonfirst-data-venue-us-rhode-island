@@ -1,0 +1,80 @@
+{
+  "id": 874289865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40403,41.877158,-71.40403,41.877158",
+    "geom:latitude":41.877158,
+    "geom:longitude":-71.40403,
+    "iso:country":"US",
+    "sg:address":"483 Weeden St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 4675",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aexrHpC5yZclut7FLWn4h_41.877158_-71.404030@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315008,
+    "wof:geomhash":"0e03a10f1f335fb812b8209f91923935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874289865
+        }
+    ],
+    "wof:id":874289865,
+    "wof:lastmodified":1464315008,
+    "wof:name":"Providence Head Start",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.40403,
+    41.877158,
+    -71.40403,
+    41.877158
+],
+  "geometry": {"coordinates":[-71.40403000000001,41.877158],"type":"Point"}
+}

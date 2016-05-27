@@ -1,0 +1,70 @@
+{
+  "id": 874145639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.25132,41.573453,-71.25132,41.573453",
+    "geom:latitude":41.573453,
+    "geom:longitude":-71.25132,
+    "iso:country":"US",
+    "sg:address":"50 Schoolhouse Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 9700",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "resistor"
+    ],
+    "sg:website":"www.ims-resistors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jN0c3Dp6xk8S4tPC7tyuR_41.573453_-71.251320@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"27c54aee659037109cc7a7eb5bda4209",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874145639
+        }
+    ],
+    "wof:id":874145639,
+    "wof:lastmodified":1464312285,
+    "wof:name":"IMS Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resistor"
+    ]
+},
+  "bbox": [
+    -71.25132,
+    41.573453,
+    -71.25132,
+    41.573453
+],
+  "geometry": {"coordinates":[-71.25132000000001,41.573453],"type":"Point"}
+}

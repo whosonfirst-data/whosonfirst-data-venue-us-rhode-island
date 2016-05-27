@@ -1,0 +1,90 @@
+{
+  "id": 874210505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481749,41.430938,-71.481749,41.430938",
+    "geom:latitude":41.430938,
+    "geom:longitude":-71.481749,
+    "iso:country":"US",
+    "sg:address":"5 Woodruff Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 1000",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IWte2gVqdspkX4FU1p4mP_41.430938_-71.481749@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312955,
+    "wof:geomhash":"616a1a297b72f2f9309d4807710f9d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874210505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874210505
+        }
+    ],
+    "wof:id":874210505,
+    "wof:lastmodified":1464312955,
+    "wof:name":"Easter Seals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.481749,
+    41.430938,
+    -71.481749,
+    41.430938
+],
+  "geometry": {"coordinates":[-71.48174899999999,41.430938],"type":"Point"}
+}

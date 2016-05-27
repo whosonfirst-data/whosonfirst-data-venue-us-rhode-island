@@ -1,0 +1,83 @@
+{
+  "id": 874141033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192551,41.618868,-71.192551,41.618868",
+    "geom:latitude":41.618868,
+    "geom:longitude":-71.192551,
+    "iso:country":"US",
+    "sg:address":"367 Bulgarmarsh Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 5051",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MB6Y8UtVRfrVtgd1GNxsN_41.618868_-71.192551@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312243,
+    "wof:geomhash":"cb6b1438ab2b4a76055c68d21b640711",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874141033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874141033
+        }
+    ],
+    "wof:id":874141033,
+    "wof:lastmodified":1464312243,
+    "wof:name":"William S Sanford Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.192551,
+    41.618868,
+    -71.192551,
+    41.618868
+],
+  "geometry": {"coordinates":[-71.19255099999999,41.618868],"type":"Point"}
+}

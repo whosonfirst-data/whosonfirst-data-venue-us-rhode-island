@@ -1,0 +1,73 @@
+{
+  "id": 874264577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473323,41.83316,-71.473323,41.83316",
+    "geom:latitude":41.83316,
+    "geom:longitude":-71.473323,
+    "iso:country":"US",
+    "sg:address":"39 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4129",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKE6wQpThyQpw1TREo6C1_41.833160_-71.473323@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314015,
+    "wof:geomhash":"2312e6e0443b04aa8c858d5e2c64ddec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874264577
+        }
+    ],
+    "wof:id":874264577,
+    "wof:lastmodified":1464314015,
+    "wof:name":"Atlantic Locksmiths",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -71.473323,
+    41.83316,
+    -71.473323,
+    41.83316
+],
+  "geometry": {"coordinates":[-71.47332299999999,41.83316],"type":"Point"}
+}

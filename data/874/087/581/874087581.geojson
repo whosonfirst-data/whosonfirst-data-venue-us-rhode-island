@@ -1,0 +1,76 @@
+{
+  "id": 874087581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.593155,41.701975,-71.593155,41.701975",
+    "geom:latitude":41.701975,
+    "geom:longitude":-71.593155,
+    "iso:country":"US",
+    "sg:address":"1600 Flat River Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 0004",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KJduSrJINJ5JSQE6heCIz_41.701975_-71.593155@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311637,
+    "wof:geomhash":"18ba84b3620ded863b42f08226c1987d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874087581
+        }
+    ],
+    "wof:id":874087581,
+    "wof:lastmodified":1464311637,
+    "wof:name":"Certified Auto Transport Tract",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.593155,
+    41.701975,
+    -71.593155,
+    41.701975
+],
+  "geometry": {"coordinates":[-71.593155,41.701975],"type":"Point"}
+}

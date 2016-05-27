@@ -1,0 +1,87 @@
+{
+  "id": 874304443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53196,41.873611,-71.53196,41.873611",
+    "geom:latitude":41.873611,
+    "geom:longitude":-71.53196,
+    "iso:country":"US",
+    "sg:address":"33 Cedar Swamp Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 5597",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "sand",
+        "gravel",
+        "fill",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dz5E79HufaU7rRWYW3ID0_41.873611_-71.531960@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315545,
+    "wof:geomhash":"f4ab6fdb731990ac573d8dda18decaae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874304443
+        }
+    ],
+    "wof:id":874304443,
+    "wof:lastmodified":1464315545,
+    "wof:name":"Apple Valley Sand & Gravel Corp",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "sand",
+        "gravel",
+        "fill",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53196,
+    41.873611,
+    -71.53196,
+    41.873611
+],
+  "geometry": {"coordinates":[-71.53196,41.873611],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874215365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464745,41.819435,-71.464745,41.819435",
+    "geom:latitude":41.819435,
+    "geom:longitude":-71.464745,
+    "iso:country":"US",
+    "sg:address":"612 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 6255",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZaKK5m9ORsLXUQB5ZFWB_41.819435_-71.464745@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313008,
+    "wof:geomhash":"e74aaf599cd2e811983c1b62392cfb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874215365
+        }
+    ],
+    "wof:id":874215365,
+    "wof:lastmodified":1464313008,
+    "wof:name":"Bonao Liquors",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.464745,
+    41.819435,
+    -71.464745,
+    41.819435
+],
+  "geometry": {"coordinates":[-71.46474499999999,41.819435],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874271975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462517,41.820691,-71.462517,41.820691",
+    "geom:latitude":41.820691,
+    "geom:longitude":-71.462517,
+    "iso:country":"US",
+    "sg:address":"11 Hilarity St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 965 4773",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PHBdRTCWkWfqFw74U9rMH_41.820691_-71.462517@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314290,
+    "wof:geomhash":"56f7d748db7ef19cb1d80d8b476e65b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874271975
+        }
+    ],
+    "wof:id":874271975,
+    "wof:lastmodified":1464314290,
+    "wof:name":"Masters Blueprints",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.462517,
+    41.820691,
+    -71.462517,
+    41.820691
+],
+  "geometry": {"coordinates":[-71.46251700000001,41.820691],"type":"Point"}
+}

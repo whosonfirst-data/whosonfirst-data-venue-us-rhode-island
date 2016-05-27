@@ -1,0 +1,71 @@
+{
+  "id": 873979727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263117,41.54185,-71.263117,41.54185",
+    "geom:latitude":41.54185,
+    "geom:longitude":-71.263117,
+    "iso:country":"US",
+    "sg:address":"126 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 0847",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3We3bSmXHiYTdGsytH9iHu_41.541850_-71.263117@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310578,
+    "wof:geomhash":"6898f7ab735f622ea4070e9b764f4bb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873979727
+        }
+    ],
+    "wof:id":873979727,
+    "wof:lastmodified":1464310578,
+    "wof:name":"Sherman's Heating & Plumbing",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.263117,
+    41.54185,
+    -71.263117,
+    41.54185
+],
+  "geometry": {"coordinates":[-71.26311699999999,41.54185],"type":"Point"}
+}

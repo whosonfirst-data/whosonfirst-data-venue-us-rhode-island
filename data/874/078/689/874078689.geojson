@@ -1,0 +1,91 @@
+{
+  "id": 874078689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424245,41.794286,-71.424245,41.794286",
+    "geom:latitude":41.794286,
+    "geom:longitude":-71.424245,
+    "iso:country":"US",
+    "sg:address":"645 Elmwood Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 5940",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "educational",
+        "for",
+        "technical",
+        "agency",
+        "immigrant",
+        "institute"
+    ],
+    "sg:website":"www.iiri.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o4Wd103EUh5jpJ17y9B4m_41.794286_-71.424245@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311540,
+    "wof:geomhash":"983b38dd0a362b344495c46d13a650b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874078689
+        }
+    ],
+    "wof:id":874078689,
+    "wof:lastmodified":1464311540,
+    "wof:name":"International Institute Of RI",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "for",
+        "technical",
+        "agency",
+        "immigrant",
+        "institute"
+    ]
+},
+  "bbox": [
+    -71.424245,
+    41.794286,
+    -71.424245,
+    41.794286
+],
+  "geometry": {"coordinates":[-71.424245,41.794286],"type":"Point"}
+}

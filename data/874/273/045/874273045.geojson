@@ -1,0 +1,71 @@
+{
+  "id": 874273045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.636843,42.009324,-71.636843,42.009324",
+    "geom:latitude":42.009324,
+    "geom:longitude":-71.636843,
+    "iso:country":"US",
+    "sg:address":"55 E Ironstone Rd",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 8106",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "piping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O7hw7pJsyOi9IhhQD7nQ8_42.009324_-71.636843@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314330,
+    "wof:geomhash":"abb52a392a40421c676ba9f393ed5481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874273045
+        }
+    ],
+    "wof:id":874273045,
+    "wof:lastmodified":1464314330,
+    "wof:name":"Daniel L Marshall Gnrl Piping",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.636843,
+    42.009324,
+    -71.636843,
+    42.009324
+],
+  "geometry": {"coordinates":[-71.636843,42.009324],"type":"Point"}
+}

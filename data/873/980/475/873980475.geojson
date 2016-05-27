@@ -1,0 +1,81 @@
+{
+  "id": 873980475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481389,41.442276,-71.481389,41.442276",
+    "geom:latitude":41.442276,
+    "geom:longitude":-71.481389,
+    "iso:country":"US",
+    "sg:address":"55 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2210",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KLMxNcvu1RCD8JELmAdfD_41.442276_-71.481389@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310592,
+    "wof:geomhash":"345b97bfe60390141fe340727145fbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":873980475
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":873980475
+        }
+    ],
+    "wof:id":873980475,
+    "wof:lastmodified":1464310592,
+    "wof:name":"Fantastic Sam's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.481389,
+    41.442276,
+    -71.481389,
+    41.442276
+],
+  "geometry": {"coordinates":[-71.48138899999999,41.442276],"type":"Point"}
+}

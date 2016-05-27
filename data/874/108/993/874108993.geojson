@@ -1,0 +1,69 @@
+{
+  "id": 874108993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467114,41.851704,-71.467114,41.851704",
+    "geom:latitude":41.851704,
+    "geom:longitude":-71.467114,
+    "iso:country":"US",
+    "sg:address":"5 Country Pkwy",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 6260",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "toilet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hIYTNblkeyWgaGLi3NyYE_41.851704_-71.467114@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311903,
+    "wof:geomhash":"dbce5631a38ab75bab9a8555d15b01ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874108993
+        }
+    ],
+    "wof:id":874108993,
+    "wof:lastmodified":1464311903,
+    "wof:name":"Reds Portable Restrooms",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toilet"
+    ]
+},
+  "bbox": [
+    -71.467114,
+    41.851704,
+    -71.467114,
+    41.851704
+],
+  "geometry": {"coordinates":[-71.467114,41.851704],"type":"Point"}
+}

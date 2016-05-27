@@ -1,0 +1,71 @@
+{
+  "id": 874116237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440983,41.54341,-71.440983,41.54341",
+    "geom:latitude":41.54341,
+    "geom:longitude":-71.440983,
+    "iso:country":"US",
+    "sg:address":"1028 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0642",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Hm0x4GZT49d484VftweNW_41.543410_-71.440983@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311999,
+    "wof:geomhash":"a6a56f4aeb60a328a6463ebce28dbf1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":874116237
+        }
+    ],
+    "wof:id":874116237,
+    "wof:lastmodified":1464311999,
+    "wof:name":"Kane's Gun Shop",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -71.440983,
+    41.54341,
+    -71.440983,
+    41.54341
+],
+  "geometry": {"coordinates":[-71.440983,41.54341],"type":"Point"}
+}

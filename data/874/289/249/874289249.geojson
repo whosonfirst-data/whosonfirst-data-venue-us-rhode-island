@@ -1,0 +1,71 @@
+{
+  "id": 874289249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649893,41.963221,-71.649893,41.963221",
+    "geom:latitude":41.963221,
+    "geom:longitude":-71.649893,
+    "iso:country":"US",
+    "sg:address":"80 Whitney Ln",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3891",
+    "sg:postcode":"02858",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pottery-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kHYUjKSMBWvH59BY8Qs6q_41.963221_-71.649893@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314986,
+    "wof:geomhash":"c40bad62f2069d336d6f8539996fe943",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874289249
+        }
+    ],
+    "wof:id":874289249,
+    "wof:lastmodified":1464314986,
+    "wof:name":"Functional Pottery",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.649893,
+    41.963221,
+    -71.649893,
+    41.963221
+],
+  "geometry": {"coordinates":[-71.64989300000001,41.963221],"type":"Point"}
+}

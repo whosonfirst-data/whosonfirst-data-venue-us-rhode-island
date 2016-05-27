@@ -1,0 +1,70 @@
+{
+  "id": 874286931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531673,41.398971,-71.531673,41.398971",
+    "geom:latitude":41.398971,
+    "geom:longitude":-71.531673,
+    "iso:country":"US",
+    "sg:address":"109 Succotash Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/280079-jims-dock/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2050",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4alRjQnFz3UdqrGbgynlcL_41.398971_-71.531673@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314888,
+    "wof:geomhash":"ab85769c8fe7ca9c848c769b4a27940d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874286931
+        }
+    ],
+    "wof:id":874286931,
+    "wof:lastmodified":1464314888,
+    "wof:name":"Jim's Dock",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.531673,
+    41.398971,
+    -71.531673,
+    41.398971
+],
+  "geometry": {"coordinates":[-71.531673,41.398971],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874280849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442394,41.547071,-71.442394,41.547071",
+    "geom:latitude":41.547071,
+    "geom:longitude":-71.442394,
+    "iso:country":"US",
+    "sg:address":"35 Weaver Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 9719",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zv0Nns1EmmFbMUr65kwgP_41.547071_-71.442394@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314657,
+    "wof:geomhash":"35bb4a1d6be19505870038ffb747eb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874280849
+        }
+    ],
+    "wof:id":874280849,
+    "wof:lastmodified":1464314657,
+    "wof:name":"Robert B Trivett MD",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.442394,
+    41.547071,
+    -71.442394,
+    41.547071
+],
+  "geometry": {"coordinates":[-71.44239399999999,41.547071],"type":"Point"}
+}

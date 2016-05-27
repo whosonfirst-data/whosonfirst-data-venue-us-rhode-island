@@ -1,0 +1,78 @@
+{
+  "id": 874288061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39493,41.785719,-71.39493,41.785719",
+    "geom:latitude":41.785719,
+    "geom:longitude":-71.39493,
+    "iso:country":"US",
+    "sg:address":"1031 Narragansett Blvd ",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/291091-boulevard-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2730",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0af3fdEptopdcLzUfhdVdH_41.785279_-71.394665@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314938,
+    "wof:geomhash":"b53f88720629760902f41ad874d78d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874288061
+        }
+    ],
+    "wof:id":874288061,
+    "wof:lastmodified":1464314938,
+    "wof:name":"Boulevard Pizza",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.39493,
+    41.785719,
+    -71.39493,
+    41.785719
+],
+  "geometry": {"coordinates":[-71.39493,41.785719],"type":"Point"}
+}

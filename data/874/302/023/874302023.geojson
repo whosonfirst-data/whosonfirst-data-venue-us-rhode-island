@@ -1,0 +1,71 @@
+{
+  "id": 874302023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432838,41.837276,-71.432838,41.837276",
+    "geom:latitude":41.837276,
+    "geom:longitude":-71.432838,
+    "iso:country":"US",
+    "sg:address":"Corner of Smith and Pinehurst Ave.",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 0123",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:website":"www.milanospizzari.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iEwAyJfzMdvSBgzyqUd14_41.837276_-71.432838@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315464,
+    "wof:geomhash":"51910c031e29622b3e8ce1c2e73e10bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874302023
+        }
+    ],
+    "wof:id":874302023,
+    "wof:lastmodified":1464315464,
+    "wof:name":"Milano's Pizza & Olive's Deli",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.432838,
+    41.837276,
+    -71.432838,
+    41.837276
+],
+  "geometry": {"coordinates":[-71.432838,41.837276],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874092499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443642,41.771358,-71.443642,41.771358",
+    "geom:latitude":41.771358,
+    "geom:longitude":-71.443642,
+    "iso:country":"US",
+    "sg:address":"84 Waldron Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 2234",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RufTVw3M0NbZ9FirrZANH_41.771358_-71.443642@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311690,
+    "wof:geomhash":"92d6731d00039d1c3f04142e0ae277d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874092499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874092499
+        }
+    ],
+    "wof:id":874092499,
+    "wof:lastmodified":1464311690,
+    "wof:name":"Nicholas Muschiano",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.443642,
+    41.771358,
+    -71.443642,
+    41.771358
+],
+  "geometry": {"coordinates":[-71.443642,41.771358],"type":"Point"}
+}

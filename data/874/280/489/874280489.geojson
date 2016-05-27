@@ -1,0 +1,69 @@
+{
+  "id": 874280489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.492771,41.696766,-71.492771,41.696766",
+    "geom:latitude":41.696766,
+    "geom:longitude":-71.492771,
+    "iso:country":"US",
+    "sg:address":"890 Centerville Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 4690",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FEfSdAwtel2pwL7geohcX_41.696766_-71.492771@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314635,
+    "wof:geomhash":"a85a5ce5349407128a5c753c6ef0a805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874280489
+        }
+    ],
+    "wof:id":874280489,
+    "wof:lastmodified":1464314635,
+    "wof:name":"Kent County",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -71.492771,
+    41.696766,
+    -71.492771,
+    41.696766
+],
+  "geometry": {"coordinates":[-71.492771,41.696766],"type":"Point"}
+}

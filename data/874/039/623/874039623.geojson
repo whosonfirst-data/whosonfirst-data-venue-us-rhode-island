@@ -1,0 +1,89 @@
+{
+  "id": 874039623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.190138,41.559092,-71.190138,41.559092",
+    "geom:latitude":41.559092,
+    "geom:longitude":-71.190138,
+    "iso:country":"US",
+    "sg:address":"4213 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 1111",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burglar",
+        "closed",
+        "fire",
+        "alarm",
+        "system",
+        "detection",
+        "t",
+        "circuit"
+    ],
+    "sg:website":"www.messengersystems.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2osaCeQUPwjtdNKdshZDD8_41.559092_-71.190138@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311140,
+    "wof:geomhash":"92b28ead5fbdadb649c9db7c46a46255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874039623
+        }
+    ],
+    "wof:id":874039623,
+    "wof:lastmodified":1464311140,
+    "wof:name":"Messenger Security Systems Inc",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burglar",
+        "closed",
+        "fire",
+        "alarm",
+        "system",
+        "detection",
+        "t",
+        "circuit"
+    ]
+},
+  "bbox": [
+    -71.190138,
+    41.559092,
+    -71.190138,
+    41.559092
+],
+  "geometry": {"coordinates":[-71.190138,41.559092],"type":"Point"}
+}

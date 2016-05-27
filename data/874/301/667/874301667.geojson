@@ -1,0 +1,82 @@
+{
+  "id": 874301667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419612,41.805233,-71.419612,41.805233",
+    "geom:latitude":41.805233,
+    "geom:longitude":-71.419612,
+    "iso:country":"US",
+    "sg:address":"693 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 2330",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "historical",
+        "employer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iWxSCGFb2TMW6Aa196tO7_41.805233_-71.419612@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315452,
+    "wof:geomhash":"ac7feb1d6b0d56d9377263b04d427f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874301667
+        }
+    ],
+    "wof:id":874301667,
+    "wof:lastmodified":1464315452,
+    "wof:name":"Elmwood Foundation for Architectural & Historic Preservation",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical",
+        "employer"
+    ]
+},
+  "bbox": [
+    -71.419612,
+    41.805233,
+    -71.419612,
+    41.805233
+],
+  "geometry": {"coordinates":[-71.419612,41.805233],"type":"Point"}
+}

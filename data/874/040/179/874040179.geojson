@@ -1,0 +1,69 @@
+{
+  "id": 874040179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.748908,41.875355,-71.748908,41.875355",
+    "geom:latitude":41.875355,
+    "geom:longitude":-71.748908,
+    "iso:country":"US",
+    "sg:address":"170 George Allen Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2662",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855567,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HOEWiy8U6PWKMBSTGOzZY_41.875355_-71.748908@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311144,
+    "wof:geomhash":"7434bd899a1e7beec02a8a6e8cd86f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85855567,
+            "region_id":85688509,
+            "venue_id":874040179
+        }
+    ],
+    "wof:id":874040179,
+    "wof:lastmodified":1464311144,
+    "wof:name":"St Pierre Home Improvement",
+    "wof:parent_id":85855567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.748908,
+    41.875355,
+    -71.748908,
+    41.875355
+],
+  "geometry": {"coordinates":[-71.748908,41.875355],"type":"Point"}
+}

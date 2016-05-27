@@ -1,0 +1,71 @@
+{
+  "id": 874231843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424477,41.866516,-71.424477,41.866516",
+    "geom:latitude":41.866516,
+    "geom:longitude":-71.424477,
+    "iso:country":"US",
+    "sg:address":"1040 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 1700",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bknSYrbmRQAxxlynohuHC_41.866516_-71.424477@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313184,
+    "wof:geomhash":"afaf9a9450c8f2d2c1cf2b16c5077d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874231843
+        }
+    ],
+    "wof:id":874231843,
+    "wof:lastmodified":1464313184,
+    "wof:name":"Village Motor Car Co Inc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.424477,
+    41.866516,
+    -71.424477,
+    41.866516
+],
+  "geometry": {"coordinates":[-71.424477,41.866516],"type":"Point"}
+}

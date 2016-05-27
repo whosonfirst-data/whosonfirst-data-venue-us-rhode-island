@@ -1,0 +1,71 @@
+{
+  "id": 874218255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677185,41.966179,-71.677185,41.966179",
+    "geom:latitude":41.966179,
+    "geom:longitude":-71.677185,
+    "iso:country":"US",
+    "sg:address":"105 Harrisville Main St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4300",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aaspIBkTGZl78qDyjHU2r_41.966179_-71.677185@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313035,
+    "wof:geomhash":"e20908ca5c2d887c9625facb3ed2ec69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874218255
+        }
+    ],
+    "wof:id":874218255,
+    "wof:lastmodified":1464313035,
+    "wof:name":"Burrillville Clerk",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.677185,
+    41.966179,
+    -71.677185,
+    41.966179
+],
+  "geometry": {"coordinates":[-71.67718499999999,41.966179],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 874153303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447561,41.776584,-71.447561,41.776584",
+    "geom:latitude":41.776584,
+    "geom:longitude":-71.447561,
+    "iso:country":"US",
+    "sg:address":"916 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 5050",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "sg:website":"www.sterlings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RgAz06ChmwdoizTAR2hkX_41.776584_-71.447561@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312358,
+    "wof:geomhash":"beb613a7885fcd3c7508e8ecea1e4b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874153303
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874153303
+        }
+    ],
+    "wof:id":874153303,
+    "wof:lastmodified":1464312358,
+    "wof:name":"Sterling Shoe & Pedorthic Svcs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.447561,
+    41.776584,
+    -71.447561,
+    41.776584
+],
+  "geometry": {"coordinates":[-71.44756099999999,41.776584],"type":"Point"}
+}

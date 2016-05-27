@@ -1,0 +1,89 @@
+{
+  "id": 874301533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400718,41.830233,-71.400718,41.830233",
+    "geom:latitude":41.830233,
+    "geom:longitude":-71.400718,
+    "iso:country":"US",
+    "sg:address":"297 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 7016",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clothing",
+        "store",
+        "women's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XVFrj8xApLmVcCrEPj8Wr_41.830233_-71.400718@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315448,
+    "wof:geomhash":"db2a9981c20406464cbcbe2e4b39d335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301533
+        }
+    ],
+    "wof:id":874301533,
+    "wof:lastmodified":1464315448,
+    "wof:name":"La Femme Boutique",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "store",
+        "women's"
+    ]
+},
+  "bbox": [
+    -71.400718,
+    41.830233,
+    -71.400718,
+    41.830233
+],
+  "geometry": {"coordinates":[-71.400718,41.830233],"type":"Point"}
+}

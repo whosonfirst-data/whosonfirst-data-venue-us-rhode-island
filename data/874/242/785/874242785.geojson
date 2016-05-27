@@ -1,0 +1,69 @@
+{
+  "id": 874242785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.245625,41.517692,-71.245625,41.517692",
+    "geom:latitude":41.517692,
+    "geom:longitude":-71.245625,
+    "iso:country":"US",
+    "sg:address":"25 Peckham Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 1335",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GCKVN0IngCKinv2ec6dfr_41.517692_-71.245625@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313391,
+    "wof:geomhash":"f33bc3ee32ea9c1fab248016f08d56cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874242785
+        }
+    ],
+    "wof:id":874242785,
+    "wof:lastmodified":1464313391,
+    "wof:name":"Property Maint By Kevin Carlos",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.245625,
+    41.517692,
+    -71.245625,
+    41.517692
+],
+  "geometry": {"coordinates":[-71.245625,41.517692],"type":"Point"}
+}

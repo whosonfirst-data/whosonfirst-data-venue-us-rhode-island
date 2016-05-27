@@ -1,0 +1,75 @@
+{
+  "id": 874096381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.526609,41.464417,-71.526609,41.464417",
+    "geom:latitude":41.464417,
+    "geom:longitude":-71.526609,
+    "iso:country":"US",
+    "sg:address":"1240 South Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 5755",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aReSRboaES0WBFnkOdhfW_41.464417_-71.526609@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311733,
+    "wof:geomhash":"e10e88b8566a2424b262499f67702975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874096381
+        }
+    ],
+    "wof:id":874096381,
+    "wof:lastmodified":1464311733,
+    "wof:name":"Steven Kroll Builders",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.526609,
+    41.464417,
+    -71.526609,
+    41.464417
+],
+  "geometry": {"coordinates":[-71.52660899999999,41.464417],"type":"Point"}
+}

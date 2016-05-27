@@ -1,0 +1,81 @@
+{
+  "id": 874070421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495503,41.441314,-71.495503,41.441314",
+    "geom:latitude":41.441314,
+    "geom:longitude":-71.495503,
+    "iso:country":"US",
+    "sg:address":"17 Columbia St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7066",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xi33e9O6De5fG5a9GwCtx_41.441314_-71.495503@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311435,
+    "wof:geomhash":"826d0c1ee58abde7be4a3f1d71ca0519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874070421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874070421
+        }
+    ],
+    "wof:id":874070421,
+    "wof:lastmodified":1464311435,
+    "wof:name":"Campus Cinema",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.495503,
+    41.441314,
+    -71.495503,
+    41.441314
+],
+  "geometry": {"coordinates":[-71.495503,41.441314],"type":"Point"}
+}

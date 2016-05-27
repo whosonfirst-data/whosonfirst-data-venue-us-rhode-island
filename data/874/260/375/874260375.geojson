@@ -1,0 +1,86 @@
+{
+  "id": 874260375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408788,41.793398,-71.408788,41.793398",
+    "geom:latitude":41.793398,
+    "geom:longitude":-71.408788,
+    "iso:country":"US",
+    "sg:address":"1193 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 5500",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wQkSCfOgQ6o6TCXbXcUeX_41.793398_-71.408788@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313870,
+    "wof:geomhash":"6860f8a8764ed7bccc6ea70316439ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874260375
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874260375
+        }
+    ],
+    "wof:id":874260375,
+    "wof:lastmodified":1464313870,
+    "wof:name":"Home Clean Home",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.408788,
+    41.793398,
+    -71.408788,
+    41.793398
+],
+  "geometry": {"coordinates":[-71.408788,41.793398],"type":"Point"}
+}

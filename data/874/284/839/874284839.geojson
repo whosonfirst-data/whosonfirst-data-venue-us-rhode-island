@@ -1,0 +1,69 @@
+{
+  "id": 874284839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425903,41.932499,-71.425903,41.932499",
+    "geom:latitude":41.932499,
+    "geom:longitude":-71.425903,
+    "iso:country":"US",
+    "sg:address":"3 Ryan Ave",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 1000",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qMXqVS0Hv2iE8w8LATECj_41.932617_-71.425389@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314807,
+    "wof:geomhash":"dfb51637e81f76b9610d71f3168c23af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874284839
+        }
+    ],
+    "wof:id":874284839,
+    "wof:lastmodified":1464314807,
+    "wof:name":"Warner's Appliance Service",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.425903,
+    41.932499,
+    -71.425903,
+    41.932499
+],
+  "geometry": {"coordinates":[-71.42590300000001,41.932499],"type":"Point"}
+}

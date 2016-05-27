@@ -1,0 +1,84 @@
+{
+  "id": 874034843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.382762,41.885713,-71.382762,41.885713",
+    "geom:latitude":41.885713,
+    "geom:longitude":-71.382762,
+    "iso:country":"US",
+    "sg:address":"38 Cross St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 2888",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pmr9gdbvJajBsyikPwAOp_41.885713_-71.382762@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311093,
+    "wof:geomhash":"bca8e2e1ed3c4f5c40d3dc59bd3fdd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874034843
+        }
+    ],
+    "wof:id":874034843,
+    "wof:lastmodified":1464311093,
+    "wof:name":"Lincoln Sheet Metal Inc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.382762,
+    41.885713,
+    -71.382762,
+    41.885713
+],
+  "geometry": {"coordinates":[-71.382762,41.885713],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874252135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448986,41.753597,-71.448986,41.753597",
+    "geom:latitude":41.753597,
+    "geom:longitude":-71.448986,
+    "iso:country":"US",
+    "sg:address":"1102 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 780 8934",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "industrial",
+        "system",
+        "automation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W4cGY3zCrk0qFBAJsFTEL_41.753597_-71.448986@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313607,
+    "wof:geomhash":"8eaf6f74cb2a8c5fb5fa57baffcedfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874252135
+        }
+    ],
+    "wof:id":874252135,
+    "wof:lastmodified":1464313607,
+    "wof:name":"Timperley Automation System S",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial",
+        "system",
+        "automation"
+    ]
+},
+  "bbox": [
+    -71.448986,
+    41.753597,
+    -71.448986,
+    41.753597
+],
+  "geometry": {"coordinates":[-71.448986,41.753597],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874266337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542403,41.895527,-71.542403,41.895527",
+    "geom:latitude":41.895527,
+    "geom:longitude":-71.542403,
+    "iso:country":"US",
+    "sg:address":"1 Halsey Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1326",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3x0K6I2a1zW0QuHoLodLwT_41.895527_-71.542403@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314083,
+    "wof:geomhash":"fcc1fa5b08f9ee3f7b644f9ed2c7adef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874266337
+        }
+    ],
+    "wof:id":874266337,
+    "wof:lastmodified":1464314083,
+    "wof:name":"K J Drew Trucking Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.542403,
+    41.895527,
+    -71.542403,
+    41.895527
+],
+  "geometry": {"coordinates":[-71.54240299999999,41.895527],"type":"Point"}
+}

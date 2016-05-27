@@ -1,0 +1,80 @@
+{
+  "id": 874289099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649489,41.952676,-71.649489,41.952676",
+    "geom:latitude":41.952676,
+    "geom:longitude":-71.649489,
+    "iso:country":"US",
+    "sg:address":"963 Victory Hwy",
+    "sg:city":"Mapleville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2400",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "equipment",
+        "self defense",
+        "martial art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OfHJpPcyT50NW7h8OErqQ_41.952676_-71.649489@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314980,
+    "wof:geomhash":"eb02f629040960edc1112882be3182ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874289099
+        }
+    ],
+    "wof:id":874289099,
+    "wof:lastmodified":1464314980,
+    "wof:name":"U S A Karate",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "equipment",
+        "self defense",
+        "martial art"
+    ]
+},
+  "bbox": [
+    -71.649489,
+    41.952676,
+    -71.649489,
+    41.952676
+],
+  "geometry": {"coordinates":[-71.649489,41.952676],"type":"Point"}
+}

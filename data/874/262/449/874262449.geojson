@@ -1,0 +1,75 @@
+{
+  "id": 874262449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3948,41.790262,-71.3948,41.790262",
+    "geom:latitude":41.790262,
+    "geom:longitude":-71.3948,
+    "iso:country":"US",
+    "sg:address":"93 Ohio Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 3655",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LRRTA43SFfl4phrjYTImT_41.790262_-71.394800@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313941,
+    "wof:geomhash":"0848b770a70c4ca1f8c0a2ec0ed38e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874262449
+        }
+    ],
+    "wof:id":874262449,
+    "wof:lastmodified":1464313941,
+    "wof:name":"Major Cleaning Services",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.3948,
+    41.790262,
+    -71.3948,
+    41.790262
+],
+  "geometry": {"coordinates":[-71.3948,41.790262],"type":"Point"}
+}

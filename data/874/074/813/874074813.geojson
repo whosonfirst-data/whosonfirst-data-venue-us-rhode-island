@@ -1,0 +1,71 @@
+{
+  "id": 874074813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40221,41.889231,-71.40221,41.889231",
+    "geom:latitude":41.889231,
+    "geom:longitude":-71.40221,
+    "iso:country":"US",
+    "sg:address":"888 Lonsdale Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8440",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NOJI77em8GosVwMHvaoXh_41.889231_-71.402210@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311501,
+    "wof:geomhash":"cd4c7411a9fb1b7ac08a651f02ad9012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874074813
+        }
+    ],
+    "wof:id":874074813,
+    "wof:lastmodified":1464311501,
+    "wof:name":"High Tech Construction Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.40221,
+    41.889231,
+    -71.40221,
+    41.889231
+],
+  "geometry": {"coordinates":[-71.40221,41.889231],"type":"Point"}
+}

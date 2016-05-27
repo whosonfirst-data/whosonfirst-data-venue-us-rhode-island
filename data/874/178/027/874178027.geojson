@@ -1,0 +1,77 @@
+{
+  "id": 874178027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464499,41.681112,-71.464499,41.681112",
+    "geom:latitude":41.681112,
+    "geom:longitude":-71.464499,
+    "iso:country":"US",
+    "sg:address":"84 Peacock Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 2585",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540483,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p0oMoHpwiNPRTE3JVlIU1_41.681112_-71.464499@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312606,
+    "wof:geomhash":"df38b2a69b19d41b7244f831505cf6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540483,
+            "region_id":85688509,
+            "venue_id":874178027
+        }
+    ],
+    "wof:id":874178027,
+    "wof:lastmodified":1464312606,
+    "wof:name":"R C Smith Electric",
+    "wof:parent_id":420540483,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.464499,
+    41.681112,
+    -71.464499,
+    41.681112
+],
+  "geometry": {"coordinates":[-71.464499,41.681112],"type":"Point"}
+}

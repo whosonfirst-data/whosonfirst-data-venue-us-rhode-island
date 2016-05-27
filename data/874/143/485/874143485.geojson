@@ -1,0 +1,71 @@
+{
+  "id": 874143485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535241,41.694565,-71.535241,41.694565",
+    "geom:latitude":41.694565,
+    "geom:longitude":-71.535241,
+    "iso:country":"US",
+    "sg:address":"30 Whitford St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 8693",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IleS8pElvWu62EIdYen8n_41.694565_-71.535241@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312267,
+    "wof:geomhash":"e2594de21e017f8e7f7c4edb148cfbbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874143485
+        }
+    ],
+    "wof:id":874143485,
+    "wof:lastmodified":1464312267,
+    "wof:name":"Nunes & Sons",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.535241,
+    41.694565,
+    -71.535241,
+    41.694565
+],
+  "geometry": {"coordinates":[-71.535241,41.694565],"type":"Point"}
+}

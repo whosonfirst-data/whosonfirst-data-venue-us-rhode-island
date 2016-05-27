@@ -1,0 +1,75 @@
+{
+  "id": 874075343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437109,41.805711,-71.437109,41.805711",
+    "geom:latitude":41.805711,
+    "geom:longitude":-71.437109,
+    "iso:country":"US",
+    "sg:address":"685 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 0231",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V7tuBtPFSpSphuFO7siOl_41.805711_-71.437109@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311505,
+    "wof:geomhash":"8be9d000b10beca6f916bb47ba38c0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874075343
+        }
+    ],
+    "wof:id":874075343,
+    "wof:lastmodified":1464311505,
+    "wof:name":"Studio City",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -71.437109,
+    41.805711,
+    -71.437109,
+    41.805711
+],
+  "geometry": {"coordinates":[-71.43710900000001,41.805711],"type":"Point"}
+}

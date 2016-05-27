@@ -1,0 +1,73 @@
+{
+  "id": 874267413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296521,41.549803,-71.296521,41.549803",
+    "geom:latitude":41.549803,
+    "geom:longitude":-71.296521,
+    "iso:country":"US",
+    "sg:address":"91 Greene Ln",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 848 9910",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rVaCcylIH8HtvXYRyJ30b_41.549803_-71.296521@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314125,
+    "wof:geomhash":"cb6952634633b2119dc504d2ad2fd742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874267413
+        }
+    ],
+    "wof:id":874267413,
+    "wof:lastmodified":1464314125,
+    "wof:name":"Simmons Farm Stand",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.296521,
+    41.549803,
+    -71.296521,
+    41.549803
+],
+  "geometry": {"coordinates":[-71.296521,41.549803],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874236629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281707,41.697758,-71.281707,41.697758",
+    "geom:latitude":41.697758,
+    "geom:longitude":-71.281707,
+    "iso:country":"US",
+    "sg:address":"16 Meadow Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0251",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zy6FrahlW1aM9Pu5k9oG3_41.697758_-71.281707@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313275,
+    "wof:geomhash":"9791872eed8c8a42055df4771ae09efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874236629
+        }
+    ],
+    "wof:id":874236629,
+    "wof:lastmodified":1464313275,
+    "wof:name":"Family Tree",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.281707,
+    41.697758,
+    -71.281707,
+    41.697758
+],
+  "geometry": {"coordinates":[-71.281707,41.697758],"type":"Point"}
+}

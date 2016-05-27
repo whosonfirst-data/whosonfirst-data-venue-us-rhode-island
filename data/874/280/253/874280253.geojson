@@ -1,0 +1,79 @@
+{
+  "id": 874280253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463516,41.466431,-71.463516,41.466431",
+    "geom:latitude":41.466431,
+    "geom:longitude":-71.463516,
+    "iso:country":"US",
+    "sg:address":"4087 Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7210",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LTvWj25qZsDIAkpnjNSoJ_41.466431_-71.463516@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314621,
+    "wof:geomhash":"f84d9e390453537bc80e0aded0623daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874280253
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874280253
+        }
+    ],
+    "wof:id":874280253,
+    "wof:lastmodified":1464314621,
+    "wof:name":"Getty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.463516,
+    41.466431,
+    -71.463516,
+    41.466431
+],
+  "geometry": {"coordinates":[-71.463516,41.466431],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874257317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441039,41.935482,-71.441039,41.935482",
+    "geom:latitude":41.935482,
+    "geom:longitude":-71.441039,
+    "iso:country":"US",
+    "sg:address":"614 George Washington Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1925",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54bBtRkbWdLw9JFLx1eULB_41.935482_-71.441039@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313737,
+    "wof:geomhash":"cc87bac718d9f52e38cbcc21d050ed2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874257317
+        }
+    ],
+    "wof:id":874257317,
+    "wof:lastmodified":1464313737,
+    "wof:name":"R W Bruno Heating & Cooling",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.441039,
+    41.935482,
+    -71.441039,
+    41.935482
+],
+  "geometry": {"coordinates":[-71.441039,41.935482],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874157259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.307647,41.481705,-71.307647,41.481705",
+    "geom:latitude":41.481705,
+    "geom:longitude":-71.307647,
+    "iso:country":"US",
+    "sg:address":"1 Casino Ter",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 8210",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yUGq7iyaDzZNZUXIkYE9J_41.481705_-71.307647@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312401,
+    "wof:geomhash":"821c9df5715153433a7e6afa638b9333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874157259
+        }
+    ],
+    "wof:id":874157259,
+    "wof:lastmodified":1464312401,
+    "wof:name":"Katrina's Bakery",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.307647,
+    41.481705,
+    -71.307647,
+    41.481705
+],
+  "geometry": {"coordinates":[-71.307647,41.481705],"type":"Point"}
+}

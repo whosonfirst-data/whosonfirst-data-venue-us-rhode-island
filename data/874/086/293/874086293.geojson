@@ -1,0 +1,77 @@
+{
+  "id": 874086293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396255,41.860851,-71.396255,41.860851",
+    "geom:latitude":41.860851,
+    "geom:longitude":-71.396255,
+    "iso:country":"US",
+    "sg:address":"519 Pawtucket Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 6097",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qngbclxfXp2DK6c6VADe1_41.860851_-71.396255@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311623,
+    "wof:geomhash":"86861079abe798b1aad5fe9314a47312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874086293
+        }
+    ],
+    "wof:id":874086293,
+    "wof:lastmodified":1464311623,
+    "wof:name":"Car Care Ctr",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.396255,
+    41.860851,
+    -71.396255,
+    41.860851
+],
+  "geometry": {"coordinates":[-71.396255,41.860851],"type":"Point"}
+}

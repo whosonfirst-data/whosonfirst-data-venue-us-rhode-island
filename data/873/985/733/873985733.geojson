@@ -1,0 +1,71 @@
+{
+  "id": 873985733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678522,41.966229,-71.678522,41.966229",
+    "geom:latitude":41.966229,
+    "geom:longitude":-71.678522,
+    "iso:country":"US",
+    "sg:address":"463 Chapel St",
+    "sg:city":"Block Island",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 466 5400",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VUWol0JSCPPF5gq8JVbzd_41.966229_-71.678522@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310655,
+    "wof:geomhash":"91eb019c1b2105f98b25e2a4c68aa7c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":873985733
+        }
+    ],
+    "wof:id":873985733,
+    "wof:lastmodified":1464310655,
+    "wof:name":"Pocketful Of Posies",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.678522,
+    41.966229,
+    -71.678522,
+    41.966229
+],
+  "geometry": {"coordinates":[-71.678522,41.966229],"type":"Point"}
+}

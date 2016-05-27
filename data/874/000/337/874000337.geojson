@@ -1,0 +1,75 @@
+{
+  "id": 874000337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389699,41.829034,-71.389699,41.829034",
+    "geom:latitude":41.829034,
+    "geom:longitude":-71.389699,
+    "iso:country":"US",
+    "sg:address":"105 Medway St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8820",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UMun39emeeHsGTgbQ1KlY_41.829034_-71.389699@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310763,
+    "wof:geomhash":"30ad6df8ff58c3ed8e7bf7d63317ebdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874000337
+        }
+    ],
+    "wof:id":874000337,
+    "wof:lastmodified":1464310763,
+    "wof:name":"Susan S Raesner",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.389699,
+    41.829034,
+    -71.389699,
+    41.829034
+],
+  "geometry": {"coordinates":[-71.38969899999999,41.829034],"type":"Point"}
+}

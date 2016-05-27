@@ -1,0 +1,78 @@
+{
+  "id": 874287905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436094,41.733272,-71.436094,41.733272",
+    "geom:latitude":41.733272,
+    "geom:longitude":-71.436094,
+    "iso:country":"US",
+    "sg:address":"1748 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/215268-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 781 738 6166",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xy4zvFDt3ChC9nD4qXeMe_41.733846_-71.435766@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314932,
+    "wof:geomhash":"a4229dbd8caafcc1939c9939db25dc9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874287905
+        }
+    ],
+    "wof:id":874287905,
+    "wof:lastmodified":1464314932,
+    "wof:name":"Burger King",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.436094,
+    41.733272,
+    -71.436094,
+    41.733272
+],
+  "geometry": {"coordinates":[-71.436094,41.733272],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874098267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.528589,41.991297,-71.528589,41.991297",
+    "geom:latitude":41.991297,
+    "geom:longitude":-71.528589,
+    "iso:country":"US",
+    "sg:address":"567 S Main St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 5412",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X4agbxkARiSg3XHWSZlTi_41.991297_-71.528589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311760,
+    "wof:geomhash":"34bcc07577cc5b897447ecfa9d5e5703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874098267
+        }
+    ],
+    "wof:id":874098267,
+    "wof:lastmodified":1464311760,
+    "wof:name":"D & S Properties LLC",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "ope",
+        "apartment",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.528589,
+    41.991297,
+    -71.528589,
+    41.991297
+],
+  "geometry": {"coordinates":[-71.528589,41.991297],"type":"Point"}
+}

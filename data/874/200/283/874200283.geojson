@@ -1,0 +1,78 @@
+{
+  "id": 874200283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.19009,41.619701,-71.19009,41.619701",
+    "geom:latitude":41.619701,
+    "geom:longitude":-71.19009,
+    "iso:country":"US",
+    "sg:address":"221 Bulgarmarsh Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 3190",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_191be29AeGGLykDRNttQou_41.619701_-71.190090@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"4c5b3e5bd869289a78c561fa0d79e3dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874200283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874200283
+        }
+    ],
+    "wof:id":874200283,
+    "wof:lastmodified":1464312846,
+    "wof:name":"Henry Taylor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.19009,
+    41.619701,
+    -71.19009,
+    41.619701
+],
+  "geometry": {"coordinates":[-71.19009,41.619701],"type":"Point"}
+}

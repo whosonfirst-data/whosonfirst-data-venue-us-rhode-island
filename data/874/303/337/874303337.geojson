@@ -1,0 +1,69 @@
+{
+  "id": 874303337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457497,41.848701,-71.457497,41.848701",
+    "geom:latitude":41.848701,
+    "geom:longitude":-71.457497,
+    "iso:country":"US",
+    "sg:address":"1358 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2525",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ophthalmologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MzpEtd0TWoNOAJHcnGtq3_41.848701_-71.457497@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315507,
+    "wof:geomhash":"eba9d827a587e86c5fef4e9034c9c032",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303337
+        }
+    ],
+    "wof:id":874303337,
+    "wof:lastmodified":1464315507,
+    "wof:name":"Fargnoli Donald V MD",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist"
+    ]
+},
+  "bbox": [
+    -71.457497,
+    41.848701,
+    -71.457497,
+    41.848701
+],
+  "geometry": {"coordinates":[-71.457497,41.848701],"type":"Point"}
+}

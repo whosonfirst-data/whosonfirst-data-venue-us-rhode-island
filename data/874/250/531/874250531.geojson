@@ -1,0 +1,71 @@
+{
+  "id": 874250531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.532116,41.99007,-71.532116,41.99007",
+    "geom:latitude":41.99007,
+    "geom:longitude":-71.532116,
+    "iso:country":"US",
+    "sg:address":"63 Park Dr",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 1213",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kb3eWYZMnCLJ5NEZq5j27_41.990070_-71.532116@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313577,
+    "wof:geomhash":"c811af0807f4191336f5f7d798617624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874250531
+        }
+    ],
+    "wof:id":874250531,
+    "wof:lastmodified":1464313577,
+    "wof:name":"Michael S Olin MD",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.532116,
+    41.99007,
+    -71.532116,
+    41.99007
+],
+  "geometry": {"coordinates":[-71.532116,41.99007],"type":"Point"}
+}

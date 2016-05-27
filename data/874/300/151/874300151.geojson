@@ -1,0 +1,77 @@
+{
+  "id": 874300151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386101,41.8298,-71.386101,41.8298",
+    "geom:latitude":41.8298,
+    "geom:longitude":-71.386101,
+    "iso:country":"US",
+    "sg:address":"35 S Angell St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 3804",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72SD1aC53ezSeYj3ifW8mD_41.829800_-71.386101@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315394,
+    "wof:geomhash":"71f31f76148e855cf5725e2f3fd2f763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874300151
+        }
+    ],
+    "wof:id":874300151,
+    "wof:lastmodified":1464315394,
+    "wof:name":"Lambert Laurie Licsw",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.386101,
+    41.8298,
+    -71.386101,
+    41.8298
+],
+  "geometry": {"coordinates":[-71.386101,41.8298],"type":"Point"}
+}

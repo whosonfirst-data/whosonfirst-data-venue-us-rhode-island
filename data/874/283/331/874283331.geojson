@@ -1,0 +1,75 @@
+{
+  "id": 874283331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425797,41.823601,-71.425797,41.823601",
+    "geom:latitude":41.823601,
+    "geom:longitude":-71.425797,
+    "iso:country":"US",
+    "sg:address":"244 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 8282",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mediterranean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZGULqAlZm4Nm5K5arZptF_41.823445_-71.425865@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314750,
+    "wof:geomhash":"06caf735ce918b486dfaa702e67384e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874283331
+        }
+    ],
+    "wof:id":874283331,
+    "wof:lastmodified":1464314750,
+    "wof:name":"Opa Restaurant",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -71.425797,
+    41.823601,
+    -71.425797,
+    41.823601
+],
+  "geometry": {"coordinates":[-71.425797,41.823601],"type":"Point"}
+}

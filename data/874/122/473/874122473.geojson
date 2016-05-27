@@ -1,0 +1,73 @@
+{
+  "id": 874122473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293534,41.531688,-71.293534,41.531688",
+    "geom:latitude":41.531688,
+    "geom:longitude":-71.293534,
+    "iso:country":"US",
+    "sg:address":"1215 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 9600",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XAcaNDqSkN1DtpDicXpH5_41.531688_-71.293534@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312063,
+    "wof:geomhash":"a8508b4d3c15ced6570f675f7ec5272b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874122473
+        }
+    ],
+    "wof:id":874122473,
+    "wof:lastmodified":1464312063,
+    "wof:name":"Autocenter Volkswagen-Newport",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.293534,
+    41.531688,
+    -71.293534,
+    41.531688
+],
+  "geometry": {"coordinates":[-71.29353399999999,41.531688],"type":"Point"}
+}

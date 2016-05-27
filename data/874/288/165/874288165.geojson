@@ -1,0 +1,106 @@
+{
+  "id": 874288165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.361958,41.831495,-71.361958,41.831495",
+    "geom:latitude":41.831495,
+    "geom:longitude":-71.361958,
+    "iso:country":"US",
+    "sg:address":"399 N Broadway",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-providence/138900-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 3213",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UCVfw6XHG0Bzh7BHKUxoS_41.831947_-71.361198@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314941,
+    "wof:geomhash":"f21c267a2ae469326e02f6763a8ae32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874288165
+        }
+    ],
+    "wof:id":874288165,
+    "wof:lastmodified":1464314941,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "tea",
+        "american",
+        "bagel",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.361958,
+    41.831495,
+    -71.361958,
+    41.831495
+],
+  "geometry": {"coordinates":[-71.361958,41.831495],"type":"Point"}
+}

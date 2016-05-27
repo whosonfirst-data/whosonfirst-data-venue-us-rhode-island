@@ -1,0 +1,84 @@
+{
+  "id": 874193671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410047,41.82314,-71.410047,41.82314",
+    "geom:latitude":41.82314,
+    "geom:longitude":-71.410047,
+    "iso:country":"US",
+    "sg:address":"64 Orange St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 7320",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "duplication",
+        "tape",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QunSv358AnnMEMPpN9S7n_41.823140_-71.410047@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312776,
+    "wof:geomhash":"61d9d418b6d2d073d1a0b51c0bd70add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874193671
+        }
+    ],
+    "wof:id":874193671,
+    "wof:lastmodified":1464312776,
+    "wof:name":"Ritz Camera Ctr",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplication",
+        "tape",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.410047,
+    41.82314,
+    -71.410047,
+    41.82314
+],
+  "geometry": {"coordinates":[-71.41004700000001,41.82314],"type":"Point"}
+}

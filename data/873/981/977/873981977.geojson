@@ -1,0 +1,86 @@
+{
+  "id": 873981977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405366,41.841368,-71.405366,41.841368",
+    "geom:latitude":41.841368,
+    "geom:longitude":-71.405366,
+    "iso:country":"US",
+    "sg:address":"19 Duncan Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 8928",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aXyaOFrYJmNJWAp3s9dBt_41.841368_-71.405366@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310619,
+    "wof:geomhash":"1c032ec750330da48ef4bcbc3b194104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":873981977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":873981977
+        }
+    ],
+    "wof:id":873981977,
+    "wof:lastmodified":1464310619,
+    "wof:name":"Preferred Janitorial",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.405366,
+    41.841368,
+    -71.405366,
+    41.841368
+],
+  "geometry": {"coordinates":[-71.405366,41.841368],"type":"Point"}
+}

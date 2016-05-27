@@ -1,0 +1,75 @@
+{
+  "id": 874254451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467651,41.700052,-71.467651,41.700052",
+    "geom:latitude":41.700052,
+    "geom:longitude":-71.467651,
+    "iso:country":"US",
+    "sg:address":"166 Toll Gate Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 0452",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803293,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zke93VuI8ijhSpPFsvIGf_41.700052_-71.467651@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313657,
+    "wof:geomhash":"9d9545ff932908a6de4617913a5648c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803293,
+            "region_id":85688509,
+            "venue_id":874254451
+        }
+    ],
+    "wof:id":874254451,
+    "wof:lastmodified":1464313657,
+    "wof:name":"Lifespan Laboratories",
+    "wof:parent_id":85803293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.467651,
+    41.700052,
+    -71.467651,
+    41.700052
+],
+  "geometry": {"coordinates":[-71.467651,41.700052],"type":"Point"}
+}

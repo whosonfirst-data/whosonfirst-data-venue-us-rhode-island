@@ -1,0 +1,75 @@
+{
+  "id": 874241059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.768402,41.351444,-71.768402,41.351444",
+    "geom:latitude":41.351444,
+    "geom:longitude":-71.768402,
+    "iso:country":"US",
+    "sg:address":"1 Langworthy Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 0577",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829765,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29RX7Mo0t9HPScGaVrlGfg_41.351444_-71.768402@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313359,
+    "wof:geomhash":"4ec92666b5f06990831cf1263554adba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":85829765,
+            "region_id":85688509,
+            "venue_id":874241059
+        }
+    ],
+    "wof:id":874241059,
+    "wof:lastmodified":1464313359,
+    "wof:name":"Dunns Corners Fire Dist",
+    "wof:parent_id":85829765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.768402,
+    41.351444,
+    -71.768402,
+    41.351444
+],
+  "geometry": {"coordinates":[-71.76840199999999,41.351444],"type":"Point"}
+}

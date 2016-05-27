@@ -1,0 +1,77 @@
+{
+  "id": 874258163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449486,41.667446,-71.449486,41.667446",
+    "geom:latitude":41.667446,
+    "geom:longitude":-71.449486,
+    "iso:country":"US",
+    "sg:address":"4552 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 5094",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I5tPJug9DvbX5qilTOBhU_41.667446_-71.449486@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313775,
+    "wof:geomhash":"b23f0e044d9c69a0440082759097c710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874258163
+        }
+    ],
+    "wof:id":874258163,
+    "wof:lastmodified":1464313775,
+    "wof:name":"Ocean Food Mart",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.449486,
+    41.667446,
+    -71.449486,
+    41.667446
+],
+  "geometry": {"coordinates":[-71.44948599999999,41.667446],"type":"Point"}
+}

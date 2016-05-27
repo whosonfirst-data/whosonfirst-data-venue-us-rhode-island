@@ -1,0 +1,73 @@
+{
+  "id": 874282769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268051,41.71534,-71.268051,41.71534",
+    "geom:latitude":41.71534,
+    "geom:longitude":-71.268051,
+    "iso:country":"US",
+    "sg:address":"639 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7393",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vnDXgJcxerJnHU8LNNezH_41.715357_-71.268028@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314732,
+    "wof:geomhash":"872ee1cb37286da5bf5798bc1da24535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874282769
+        }
+    ],
+    "wof:id":874282769,
+    "wof:lastmodified":1464314732,
+    "wof:name":"S T Sambandam Md",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.268051,
+    41.71534,
+    -71.268051,
+    41.71534
+],
+  "geometry": {"coordinates":[-71.268051,41.71534],"type":"Point"}
+}

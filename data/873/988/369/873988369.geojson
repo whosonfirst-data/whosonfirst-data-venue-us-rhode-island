@@ -1,0 +1,73 @@
+{
+  "id": 873988369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.555495,41.717171,-71.555495,41.717171",
+    "geom:latitude":41.717171,
+    "geom:longitude":-71.555495,
+    "iso:country":"US",
+    "sg:address":"44 Knotty Oak Shrs",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 0721",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BHqQrAmC5VsmvXjhjj1Cw_41.717171_-71.555495@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310678,
+    "wof:geomhash":"38ef90d784af387f8583def463ff276a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":873988369
+        }
+    ],
+    "wof:id":873988369,
+    "wof:lastmodified":1464310678,
+    "wof:name":"A&R Delivery Srv",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.555495,
+    41.717171,
+    -71.555495,
+    41.717171
+],
+  "geometry": {"coordinates":[-71.55549499999999,41.717171],"type":"Point"}
+}

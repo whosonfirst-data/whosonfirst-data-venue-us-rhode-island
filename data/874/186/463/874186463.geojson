@@ -1,0 +1,71 @@
+{
+  "id": 874186463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448573,41.904375,-71.448573,41.904375",
+    "geom:latitude":41.904375,
+    "geom:longitude":-71.448573,
+    "iso:country":"US",
+    "sg:address":"4 Ledge Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 7871",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bp2ui2zhAyzNoK6YTJ9cf_41.904375_-71.448573@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312704,
+    "wof:geomhash":"72a5dfd5d4236a969e75442b8a191e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874186463
+        }
+    ],
+    "wof:id":874186463,
+    "wof:lastmodified":1464312704,
+    "wof:name":"Harkness Painting",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.448573,
+    41.904375,
+    -71.448573,
+    41.904375
+],
+  "geometry": {"coordinates":[-71.448573,41.904375],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874301659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421861,41.814616,-71.421861,41.814616",
+    "geom:latitude":41.814616,
+    "geom:longitude":-71.421861,
+    "iso:country":"US",
+    "sg:address":"41 Central St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 1801",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.firehouse13.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U2YAimE9B0WGMBujnKWLN_41.814616_-71.421861@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315452,
+    "wof:geomhash":"ce477da3affc9663dd102194f41bfcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874301659
+        }
+    ],
+    "wof:id":874301659,
+    "wof:lastmodified":1464315452,
+    "wof:name":"Firehouse 13",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -71.421861,
+    41.814616,
+    -71.421861,
+    41.814616
+],
+  "geometry": {"coordinates":[-71.42186100000001,41.814616],"type":"Point"}
+}

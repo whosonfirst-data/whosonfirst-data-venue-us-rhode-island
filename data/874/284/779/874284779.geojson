@@ -1,0 +1,78 @@
+{
+  "id": 874284779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404344,41.754615,-71.404344,41.754615",
+    "geom:latitude":41.754615,
+    "geom:longitude":-71.404344,
+    "iso:country":"US",
+    "sg:address":"781 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7283",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "part"
+    ],
+    "sg:website":"http://www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ogTVO6paa0lOMJCuKDV6f_41.755164_-71.404452@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314805,
+    "wof:geomhash":"d7d114dde84be356123f1e1921d1e44f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874284779
+        }
+    ],
+    "wof:id":874284779,
+    "wof:lastmodified":1464314805,
+    "wof:name":"AutoZone",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part"
+    ]
+},
+  "bbox": [
+    -71.404344,
+    41.754615,
+    -71.404344,
+    41.754615
+],
+  "geometry": {"coordinates":[-71.40434399999999,41.754615],"type":"Point"}
+}

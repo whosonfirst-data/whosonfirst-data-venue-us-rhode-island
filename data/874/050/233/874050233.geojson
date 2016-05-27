@@ -1,0 +1,73 @@
+{
+  "id": 874050233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.732193,41.473385,-71.732193,41.473385",
+    "geom:latitude":41.473385,
+    "geom:longitude":-71.732193,
+    "iso:country":"US",
+    "sg:address":"1 Red Fox Ln",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 2541",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dtNsuyHuI1A8c6cDgXlua_41.473385_-71.732193@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311243,
+    "wof:geomhash":"831b7b9b4ae88917deafd7848f73f084",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874050233
+        }
+    ],
+    "wof:id":874050233,
+    "wof:lastmodified":1464311243,
+    "wof:name":"Blackstone Construction",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.732193,
+    41.473385,
+    -71.732193,
+    41.473385
+],
+  "geometry": {"coordinates":[-71.732193,41.473385],"type":"Point"}
+}

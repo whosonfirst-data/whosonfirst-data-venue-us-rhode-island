@@ -1,0 +1,79 @@
+{
+  "id": 874283961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400398,41.827801,-71.400398,41.827801",
+    "geom:latitude":41.827801,
+    "geom:longitude":-71.400398,
+    "iso:country":"US",
+    "sg:address":"228 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 1311",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "gourmet",
+        "shop",
+        "bakery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_357RBp0yqfRoAEuRIo2XHR_41.827972_-71.400712@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314772,
+    "wof:geomhash":"d2492a39945c5028a8ef307e99d12644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874283961
+        }
+    ],
+    "wof:id":874283961,
+    "wof:lastmodified":1464314772,
+    "wof:name":"Bagel Gourmet Ole",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop",
+        "bakery"
+    ]
+},
+  "bbox": [
+    -71.400398,
+    41.827801,
+    -71.400398,
+    41.827801
+],
+  "geometry": {"coordinates":[-71.400398,41.827801],"type":"Point"}
+}

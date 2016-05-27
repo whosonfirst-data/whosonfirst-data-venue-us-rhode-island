@@ -1,0 +1,66 @@
+{
+  "id": 874246327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.550095,41.482136,-71.550095,41.482136",
+    "geom:latitude":41.482136,
+    "geom:longitude":-71.550095,
+    "iso:country":"US",
+    "sg:address":"3362 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8898",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42VzDVh7ML5DrVrr5ksTOJ_41.482136_-71.550095@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313459,
+    "wof:geomhash":"f9a4d3049f8e7440d44d5954f052d59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874246327
+        }
+    ],
+    "wof:id":874246327,
+    "wof:lastmodified":1464313459,
+    "wof:name":"Shengli Oriental Market",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.550095,
+    41.482136,
+    -71.550095,
+    41.482136
+],
+  "geometry": {"coordinates":[-71.550095,41.482136],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874285027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401802,41.864399,-71.401802,41.864399",
+    "geom:latitude":41.864399,
+    "geom:longitude":-71.401802,
+    "iso:country":"US",
+    "sg:address":"62 Woodlawn Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 729 1767",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52s8cfrBX6aERrPSA9UqGl_41.864177_-71.401626@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314813,
+    "wof:geomhash":"9e2c8d7480e78914aead2d5bb675fe10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874285027
+        }
+    ],
+    "wof:id":874285027,
+    "wof:lastmodified":1464314813,
+    "wof:name":"Pinto's Auto & Truck Repairs",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.401802,
+    41.864399,
+    -71.401802,
+    41.864399
+],
+  "geometry": {"coordinates":[-71.401802,41.864399],"type":"Point"}
+}

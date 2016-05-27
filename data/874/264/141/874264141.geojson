@@ -1,0 +1,86 @@
+{
+  "id": 874264141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408375,41.84288,-71.408375,41.84288",
+    "geom:latitude":41.84288,
+    "geom:longitude":-71.408375,
+    "iso:country":"US",
+    "sg:address":"5 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 0177",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FvBEXxR05sC1gIAtUmAyY_41.842880_-71.408375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313995,
+    "wof:geomhash":"0244d182991d2bed5cc56ad3ff7242e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874264141
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874264141
+        }
+    ],
+    "wof:id":874264141,
+    "wof:lastmodified":1464313995,
+    "wof:name":"North Burial Ground",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.408375,
+    41.84288,
+    -71.408375,
+    41.84288
+],
+  "geometry": {"coordinates":[-71.40837500000001,41.84288],"type":"Point"}
+}

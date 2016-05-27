@@ -1,0 +1,79 @@
+{
+  "id": 874088485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44422,41.816296,-71.44422,41.816296",
+    "geom:latitude":41.816296,
+    "geom:longitude":-71.44422,
+    "iso:country":"US",
+    "sg:address":"103 Dike St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 1526",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "die",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eO1KPnNOxvynrYdhArfpQ_41.816296_-71.444220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311646,
+    "wof:geomhash":"edf30e66d05ae3947b2cb88f8136e5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874088485
+        }
+    ],
+    "wof:id":874088485,
+    "wof:lastmodified":1464311646,
+    "wof:name":"Providence Machine and Tl Work",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "die",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.44422,
+    41.816296,
+    -71.44422,
+    41.816296
+],
+  "geometry": {"coordinates":[-71.44422,41.816296],"type":"Point"}
+}

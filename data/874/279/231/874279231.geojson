@@ -1,0 +1,71 @@
+{
+  "id": 874279231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472998,41.784527,-71.472998,41.784527",
+    "geom:latitude":41.784527,
+    "geom:longitude":-71.472998,
+    "iso:country":"US",
+    "sg:address":"250 Atwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 7172",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:website":"www.brooks-rx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f0Oy6ty3W8Cwe285PPXku_41.784527_-71.472998@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314580,
+    "wof:geomhash":"e4e794fc9791f324d9e6ba8160138125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874279231
+        }
+    ],
+    "wof:id":874279231,
+    "wof:lastmodified":1464314580,
+    "wof:name":"Brooks Pharmacy",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.472998,
+    41.784527,
+    -71.472998,
+    41.784527
+],
+  "geometry": {"coordinates":[-71.472998,41.784527],"type":"Point"}
+}

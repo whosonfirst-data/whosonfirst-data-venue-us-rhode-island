@@ -1,0 +1,76 @@
+{
+  "id": 874223579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516846,41.713888,-71.516846,41.713888",
+    "geom:latitude":41.713888,
+    "geom:longitude":-71.516846,
+    "iso:country":"US",
+    "sg:address":"119 E Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 0286",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "convenient",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85844759,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Az2U5EMly30LPrZZl97vO_41.713888_-71.516846@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"f94d12129de6a95063bacb2de87e8163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85844759,
+            "region_id":85688509,
+            "venue_id":874223579
+        }
+    ],
+    "wof:id":874223579,
+    "wof:lastmodified":1464313099,
+    "wof:name":"6 11 Express",
+    "wof:parent_id":85844759,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenient",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -71.516846,
+    41.713888,
+    -71.516846,
+    41.713888
+],
+  "geometry": {"coordinates":[-71.516846,41.713888],"type":"Point"}
+}

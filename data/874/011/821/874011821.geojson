@@ -1,0 +1,77 @@
+{
+  "id": 874011821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431966,41.829757,-71.431966,41.829757",
+    "geom:latitude":41.829757,
+    "geom:longitude":-71.431966,
+    "iso:country":"US",
+    "sg:address":"550 Valley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 4343",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51aYGjgZfJSIt1ESERDCTm_41.829757_-71.431966@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310868,
+    "wof:geomhash":"4d38a7f0fd22bf6c040348660ff9ff1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874011821
+        }
+    ],
+    "wof:id":874011821,
+    "wof:lastmodified":1464310868,
+    "wof:name":"Brandon's Music Installation",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.431966,
+    41.829757,
+    -71.431966,
+    41.829757
+],
+  "geometry": {"coordinates":[-71.431966,41.829757],"type":"Point"}
+}

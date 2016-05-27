@@ -1,0 +1,73 @@
+{
+  "id": 874232323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438091,41.551837,-71.438091,41.551837",
+    "geom:latitude":41.551837,
+    "geom:longitude":-71.438091,
+    "iso:country":"US",
+    "sg:address":"67 Bates Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 7737",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v1IzqnrK3aYsQYXRoO7PT_41.551837_-71.438091@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313191,
+    "wof:geomhash":"89ee072171a1b85c9254667b3005ca9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874232323
+        }
+    ],
+    "wof:id":874232323,
+    "wof:lastmodified":1464313191,
+    "wof:name":"A A Valet Storage Mobile Pick",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.438091,
+    41.551837,
+    -71.438091,
+    41.551837
+],
+  "geometry": {"coordinates":[-71.438091,41.551837],"type":"Point"}
+}

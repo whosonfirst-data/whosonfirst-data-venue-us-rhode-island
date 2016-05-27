@@ -1,0 +1,86 @@
+{
+  "id": 874096505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434168,41.778506,-71.434168,41.778506",
+    "geom:latitude":41.778506,
+    "geom:longitude":-71.434168,
+    "iso:country":"US",
+    "sg:address":"37 Potter St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 9779",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jdqNE6MkQXEz415L67Jdi_41.778506_-71.434168@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311737,
+    "wof:geomhash":"d811402b109910c013d8d16010005c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874096505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874096505
+        }
+    ],
+    "wof:id":874096505,
+    "wof:lastmodified":1464311737,
+    "wof:name":"Hill Roofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.434168,
+    41.778506,
+    -71.434168,
+    41.778506
+],
+  "geometry": {"coordinates":[-71.434168,41.778506],"type":"Point"}
+}

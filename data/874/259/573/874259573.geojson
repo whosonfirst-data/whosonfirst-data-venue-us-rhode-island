@@ -1,0 +1,71 @@
+{
+  "id": 874259573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426542,41.933049,-71.426542,41.933049",
+    "geom:latitude":41.933049,
+    "geom:longitude":-71.426542,
+    "iso:country":"US",
+    "sg:address":"1265 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 767 3000",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V3gHmFPGr3DwgTU1RaOfU_41.933049_-71.426542@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313844,
+    "wof:geomhash":"861119c21dddfeddce88716e24d16d94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874259573
+        }
+    ],
+    "wof:id":874259573,
+    "wof:lastmodified":1464313844,
+    "wof:name":"Beaudoin Realty",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.426542,
+    41.933049,
+    -71.426542,
+    41.933049
+],
+  "geometry": {"coordinates":[-71.426542,41.933049],"type":"Point"}
+}

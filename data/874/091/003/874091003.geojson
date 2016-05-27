@@ -1,0 +1,69 @@
+{
+  "id": 874091003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501782,41.866494,-71.501782,41.866494",
+    "geom:latitude":41.866494,
+    "geom:longitude":-71.501782,
+    "iso:country":"US",
+    "sg:address":"167 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6390",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FdsbJAothdZSEmgfnsWtT_41.866494_-71.501782@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311675,
+    "wof:geomhash":"8ed844d6ff17df5a0780c863fdd84290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874091003
+        }
+    ],
+    "wof:id":874091003,
+    "wof:lastmodified":1464311675,
+    "wof:name":"Sal's Truck Sales Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -71.501782,
+    41.866494,
+    -71.501782,
+    41.866494
+],
+  "geometry": {"coordinates":[-71.50178200000001,41.866494],"type":"Point"}
+}

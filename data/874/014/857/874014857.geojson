@@ -1,0 +1,71 @@
+{
+  "id": 874014857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.678201,41.966336,-71.678201,41.966336",
+    "geom:latitude":41.966336,
+    "geom:longitude":-71.678201,
+    "iso:country":"US",
+    "sg:address":"474 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 5411",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vm9gEGfZhguMo9WTuLSPl_41.966336_-71.678201@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310889,
+    "wof:geomhash":"754a6a70116721327ebe8f28f7436691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874014857
+        }
+    ],
+    "wof:id":874014857,
+    "wof:lastmodified":1464310889,
+    "wof:name":"Berean Baptist Church",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.678201,
+    41.966336,
+    -71.678201,
+    41.966336
+],
+  "geometry": {"coordinates":[-71.678201,41.966336],"type":"Point"}
+}

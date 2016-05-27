@@ -1,0 +1,71 @@
+{
+  "id": 874173557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467838,41.853561,-71.467838,41.853561",
+    "geom:latitude":41.853561,
+    "geom:longitude":-71.467838,
+    "iso:country":"US",
+    "sg:address":"1648 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 0506",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802791,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_478vkWmje34EdMp9KnfVsa_41.853561_-71.467838@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312563,
+    "wof:geomhash":"995213175e1d12de6b86346da38dee9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85802791,
+            "region_id":85688509,
+            "venue_id":874173557
+        }
+    ],
+    "wof:id":874173557,
+    "wof:lastmodified":1464312563,
+    "wof:name":"SPS General Contractors",
+    "wof:parent_id":85802791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.467838,
+    41.853561,
+    -71.467838,
+    41.853561
+],
+  "geometry": {"coordinates":[-71.467838,41.853561],"type":"Point"}
+}

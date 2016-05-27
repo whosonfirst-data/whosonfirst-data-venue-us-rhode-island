@@ -1,0 +1,76 @@
+{
+  "id": 874301151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400317,41.827514,-71.400317,41.827514",
+    "geom:latitude":41.827514,
+    "geom:longitude":-71.400317,
+    "iso:country":"US",
+    "sg:address":"215-217 Thayer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 7373",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger"
+    ],
+    "sg:website":"www.bbcfoodsusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QHTKesBA1S1FOASxVJJfx_41.827514_-71.400317@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315436,
+    "wof:geomhash":"15b0164e449239ae95fa838a0ce163a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301151
+        }
+    ],
+    "wof:id":874301151,
+    "wof:lastmodified":1464315436,
+    "wof:name":"Better Burger Company",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger"
+    ]
+},
+  "bbox": [
+    -71.400317,
+    41.827514,
+    -71.400317,
+    41.827514
+],
+  "geometry": {"coordinates":[-71.400317,41.827514],"type":"Point"}
+}

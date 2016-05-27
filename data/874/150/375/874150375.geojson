@@ -1,0 +1,79 @@
+{
+  "id": 874150375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450828,41.56742,-71.450828,41.56742",
+    "geom:latitude":41.56742,
+    "geom:longitude":-71.450828,
+    "iso:country":"US",
+    "sg:address":"64 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3444",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29JXtbT9uQA8z6euoENqBD_41.567420_-71.450828@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312331,
+    "wof:geomhash":"f02673877d4484c700bb42b444f0b56e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874150375
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874150375
+        }
+    ],
+    "wof:id":874150375,
+    "wof:lastmodified":1464312331,
+    "wof:name":"Coghlin Thomas J Phys",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.450828,
+    41.56742,
+    -71.450828,
+    41.56742
+],
+  "geometry": {"coordinates":[-71.450828,41.56742],"type":"Point"}
+}

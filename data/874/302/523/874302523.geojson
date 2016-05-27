@@ -1,0 +1,95 @@
+{
+  "id": 874302523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435419,41.824323,-71.435419,41.824323",
+    "geom:latitude":41.824323,
+    "geom:longitude":-71.435419,
+    "iso:country":"US",
+    "sg:address":"548 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 455 0711",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "money",
+        "location",
+        "order"
+    ],
+    "sg:website":"www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S4azWsYqeOVsTLrzK4zhL_41.824323_-71.435419@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315481,
+    "wof:geomhash":"9243a7a5d0e912b81b7fa8ec7b12893d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874302523
+        }
+    ],
+    "wof:id":874302523,
+    "wof:lastmodified":1464315481,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "location",
+        "order"
+    ]
+},
+  "bbox": [
+    -71.435419,
+    41.824323,
+    -71.435419,
+    41.824323
+],
+  "geometry": {"coordinates":[-71.435419,41.824323],"type":"Point"}
+}

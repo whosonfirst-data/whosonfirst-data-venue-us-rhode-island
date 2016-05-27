@@ -1,0 +1,69 @@
+{
+  "id": 874135923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.523526,41.716937,-71.523526,41.716937",
+    "geom:latitude":41.716937,
+    "geom:longitude":-71.523526,
+    "iso:country":"US",
+    "sg:address":"943 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 0173",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85830837,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c6ViNenrVrJLY99ygPVcp_41.716937_-71.523526@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312199,
+    "wof:geomhash":"906669db7bc825404218700c84ad127c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85830837,
+            "region_id":85688509,
+            "venue_id":874135923
+        }
+    ],
+    "wof:id":874135923,
+    "wof:lastmodified":1464312199,
+    "wof:name":"Appliance Master Inc",
+    "wof:parent_id":85830837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -71.523526,
+    41.716937,
+    -71.523526,
+    41.716937
+],
+  "geometry": {"coordinates":[-71.523526,41.716937],"type":"Point"}
+}

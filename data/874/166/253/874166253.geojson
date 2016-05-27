@@ -1,0 +1,71 @@
+{
+  "id": 874166253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.561866,41.915699,-71.561866,41.915699",
+    "geom:latitude":41.915699,
+    "geom:longitude":-71.561866,
+    "iso:country":"US",
+    "sg:address":"82 Burlingame Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1343",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qMmYjmofksH0W5VTtsi3r_41.915699_-71.561866@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312492,
+    "wof:geomhash":"6a5a85ddaa1a34ab379423cbbafd4536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874166253
+        }
+    ],
+    "wof:id":874166253,
+    "wof:lastmodified":1464312492,
+    "wof:name":"John's Cars Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -71.561866,
+    41.915699,
+    -71.561866,
+    41.915699
+],
+  "geometry": {"coordinates":[-71.56186599999999,41.915699],"type":"Point"}
+}

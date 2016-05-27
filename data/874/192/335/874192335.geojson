@@ -1,0 +1,69 @@
+{
+  "id": 874192335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440462,41.948836,-71.440462,41.948836",
+    "geom:latitude":41.948836,
+    "geom:longitude":-71.440462,
+    "iso:country":"US",
+    "sg:address":"2140 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 3000",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m4GJFCmW8P3xUcRLYpq9J_41.948836_-71.440462@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312762,
+    "wof:geomhash":"c40fa8630efd24619c515a5d9133a0d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874192335
+        }
+    ],
+    "wof:id":874192335,
+    "wof:lastmodified":1464312762,
+    "wof:name":"Urgent Medical Care",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.440462,
+    41.948836,
+    -71.440462,
+    41.948836
+],
+  "geometry": {"coordinates":[-71.440462,41.948836],"type":"Point"}
+}

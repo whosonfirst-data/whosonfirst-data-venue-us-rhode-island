@@ -1,0 +1,70 @@
+{
+  "id": 874299671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423632,41.851717,-71.423632,41.851717",
+    "geom:latitude":41.851717,
+    "geom:longitude":-71.423632,
+    "iso:country":"US",
+    "sg:address":"538 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 632 4047",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PckKn3Q60xip8oLWwTdpr_41.851717_-71.423632@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315377,
+    "wof:geomhash":"5f92c88b4812b6a35ac8a7d534252a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299671
+        }
+    ],
+    "wof:id":874299671,
+    "wof:lastmodified":1464315377,
+    "wof:name":"Andre's Auto",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.423632,
+    41.851717,
+    -71.423632,
+    41.851717
+],
+  "geometry": {"coordinates":[-71.423632,41.851717],"type":"Point"}
+}

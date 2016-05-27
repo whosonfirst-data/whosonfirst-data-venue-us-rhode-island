@@ -1,0 +1,71 @@
+{
+  "id": 874121021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400903,41.837303,-71.400903,41.837303",
+    "geom:latitude":41.837303,
+    "geom:longitude":-71.400903,
+    "iso:country":"US",
+    "sg:address":"398 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 6700",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"www.clarkeflowers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PhNE87E6tXTkpNnlukXYa_41.837303_-71.400903@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312050,
+    "wof:geomhash":"f8cefbdf140a940dfa4d6a745b306bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874121021
+        }
+    ],
+    "wof:id":874121021,
+    "wof:lastmodified":1464312050,
+    "wof:name":"Clarke Flower Shops Inc",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.400903,
+    41.837303,
+    -71.400903,
+    41.837303
+],
+  "geometry": {"coordinates":[-71.400903,41.837303],"type":"Point"}
+}

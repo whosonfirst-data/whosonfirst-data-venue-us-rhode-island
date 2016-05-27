@@ -1,0 +1,71 @@
+{
+  "id": 874162291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.300399,41.542147,-71.300399,41.542147",
+    "geom:latitude":41.542147,
+    "geom:longitude":-71.300399,
+    "iso:country":"US",
+    "sg:address":"5 Algonquin Dr",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 6051",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rhs4RwaTKUAlhCg35HliU_41.542147_-71.300399@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312453,
+    "wof:geomhash":"76c2c14754758a6e1405dd9af2c1f4c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874162291
+        }
+    ],
+    "wof:id":874162291,
+    "wof:lastmodified":1464312453,
+    "wof:name":"Weathertight Painting",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.300399,
+    41.542147,
+    -71.300399,
+    41.542147
+],
+  "geometry": {"coordinates":[-71.300399,41.542147],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874299617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465401,41.861,-71.465401,41.861",
+    "geom:latitude":41.861,
+    "geom:longitude":-71.465401,
+    "iso:country":"US",
+    "sg:address":"1868 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6816",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tj7yYJ86o49S7X7pGyFGU_41.861000_-71.465401@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315375,
+    "wof:geomhash":"cb7558f2c76e4ac56cc8c35348768a52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874299617
+        }
+    ],
+    "wof:id":874299617,
+    "wof:lastmodified":1464315375,
+    "wof:name":"GMAC Mortgage",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.465401,
+    41.861,
+    -71.465401,
+    41.861
+],
+  "geometry": {"coordinates":[-71.465401,41.861],"type":"Point"}
+}

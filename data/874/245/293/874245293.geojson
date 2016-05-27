@@ -1,0 +1,75 @@
+{
+  "id": 874245293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.366958,41.830604,-71.366958,41.830604",
+    "geom:latitude":41.830604,
+    "geom:longitude":-71.366958,
+    "iso:country":"US",
+    "sg:address":"20 Tallman Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 6200",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g2wqFLkwl5ZpOHAR90GYZ_41.830604_-71.366958@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313439,
+    "wof:geomhash":"3f4ab093ed5a9a7c4dc98e108fa92fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874245293
+        }
+    ],
+    "wof:id":874245293,
+    "wof:lastmodified":1464313439,
+    "wof:name":"All Mobile Towing",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.366958,
+    41.830604,
+    -71.366958,
+    41.830604
+],
+  "geometry": {"coordinates":[-71.366958,41.830604],"type":"Point"}
+}

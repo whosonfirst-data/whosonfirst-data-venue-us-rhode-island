@@ -1,0 +1,94 @@
+{
+  "id": 874066807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.399312,41.792439,-71.399312,41.792439",
+    "geom:latitude":41.792439,
+    "geom:longitude":-71.399312,
+    "iso:country":"US",
+    "sg:address":"185 Toronto Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 3600",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "parts",
+        "conditioning",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jpaMhbkhYzRukiN2nFjJS_41.792439_-71.399312@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311395,
+    "wof:geomhash":"0a3418901510f5d7e5abebdf22945499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874066807
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874066807
+        }
+    ],
+    "wof:id":874066807,
+    "wof:lastmodified":1464311395,
+    "wof:name":"United Refrigeration",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "parts",
+        "conditioning",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.399312,
+    41.792439,
+    -71.399312,
+    41.792439
+],
+  "geometry": {"coordinates":[-71.39931199999999,41.792439],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 874267985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477472,41.444597,-71.477472,41.444597",
+    "geom:latitude":41.444597,
+    "geom:longitude":-71.477472,
+    "iso:country":"US",
+    "sg:address":"4979 Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 2242",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xPyvcBjaaRgoH0lI3be6b_41.444597_-71.477472@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314149,
+    "wof:geomhash":"029f41ce47e26665a5d70f146713fe8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874267985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874267985
+        }
+    ],
+    "wof:id":874267985,
+    "wof:lastmodified":1464314149,
+    "wof:name":"Benjamin S Vogel MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.477472,
+    41.444597,
+    -71.477472,
+    41.444597
+],
+  "geometry": {"coordinates":[-71.47747200000001,41.444597],"type":"Point"}
+}

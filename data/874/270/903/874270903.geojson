@@ -1,0 +1,75 @@
+{
+  "id": 874270903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384038,41.82773,-71.384038,41.82773",
+    "geom:latitude":41.82773,
+    "geom:longitude":-71.384038,
+    "iso:country":"US",
+    "sg:address":"291 Waterman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 6222",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "homeopath"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Nrw2iISbeYvRSDpwRv9TK_41.827730_-71.384038@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314255,
+    "wof:geomhash":"df27246e0e9eed6bd87862190f3811e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874270903
+        }
+    ],
+    "wof:id":874270903,
+    "wof:lastmodified":1464314255,
+    "wof:name":"Well Being Ctr For Homeo",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homeopath"
+    ]
+},
+  "bbox": [
+    -71.384038,
+    41.82773,
+    -71.384038,
+    41.82773
+],
+  "geometry": {"coordinates":[-71.384038,41.82773],"type":"Point"}
+}

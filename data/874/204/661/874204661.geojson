@@ -1,0 +1,71 @@
+{
+  "id": 874204661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507067,41.384829,-71.507067,41.384829",
+    "geom:latitude":41.384829,
+    "geom:longitude":-71.507067,
+    "iso:country":"US",
+    "sg:address":"272 Great Island Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 1593",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ice",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GcCD98vCWD7w4Kz9qseok_41.384829_-71.507067@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312890,
+    "wof:geomhash":"12dc51df499b627e11926947e99e3fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874204661
+        }
+    ],
+    "wof:id":874204661,
+    "wof:lastmodified":1464312890,
+    "wof:name":"Slavin Ice Company LLC",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ice",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.507067,
+    41.384829,
+    -71.507067,
+    41.384829
+],
+  "geometry": {"coordinates":[-71.50706700000001,41.384829],"type":"Point"}
+}

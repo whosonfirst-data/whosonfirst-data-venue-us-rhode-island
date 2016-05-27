@@ -1,0 +1,71 @@
+{
+  "id": 874227011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485326,41.368232,-71.485326,41.368232",
+    "geom:latitude":41.368232,
+    "geom:longitude":-71.485326,
+    "iso:country":"US",
+    "sg:address":"2 Louise Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4055",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847637,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Js0edzgGzAgoRC0cXKcxL_41.368232_-71.485326@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313131,
+    "wof:geomhash":"40938b91cd7caca3bebd4be21335563a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847637,
+            "region_id":85688509,
+            "venue_id":874227011
+        }
+    ],
+    "wof:id":874227011,
+    "wof:lastmodified":1464313131,
+    "wof:name":"Joseph F Connolly Electrical",
+    "wof:parent_id":85847637,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.485326,
+    41.368232,
+    -71.485326,
+    41.368232
+],
+  "geometry": {"coordinates":[-71.485326,41.368232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874260371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2525,41.580191,-71.2525,41.580191",
+    "geom:latitude":41.580191,
+    "geom:longitude":-71.2525,
+    "iso:country":"US",
+    "sg:address":"1844 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 7483",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OpBnESv4VDckHyTiSRpkJ_41.580191_-71.252500@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313870,
+    "wof:geomhash":"fd877999105f5e6d6de389e6e166c44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874260371
+        }
+    ],
+    "wof:id":874260371,
+    "wof:lastmodified":1464313870,
+    "wof:name":"Island Auto Sales",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.2525,
+    41.580191,
+    -71.2525,
+    41.580191
+],
+  "geometry": {"coordinates":[-71.2525,41.580191],"type":"Point"}
+}

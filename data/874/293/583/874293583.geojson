@@ -1,0 +1,75 @@
+{
+  "id": 874293583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.651066,41.502355,-71.651066,41.502355",
+    "geom:latitude":41.502355,
+    "geom:longitude":-71.651066,
+    "iso:country":"US",
+    "sg:address":"300 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 491 9570",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.meadowbrookschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vrt9xvpeyXnnSPiQfDVMK_41.502355_-71.651066@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315143,
+    "wof:geomhash":"bd0e58437d4e963ce7934b758955d4d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874293583
+        }
+    ],
+    "wof:id":874293583,
+    "wof:lastmodified":1464315143,
+    "wof:name":"Meadowbrook Waldorf School",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.651066,
+    41.502355,
+    -71.651066,
+    41.502355
+],
+  "geometry": {"coordinates":[-71.651066,41.502355],"type":"Point"}
+}

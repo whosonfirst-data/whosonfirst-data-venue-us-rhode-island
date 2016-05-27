@@ -1,0 +1,81 @@
+{
+  "id": 874196399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436332,41.785009,-71.436332,41.785009",
+    "geom:latitude":41.785009,
+    "geom:longitude":-71.436332,
+    "iso:country":"US",
+    "sg:address":"54 Speck Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 3939",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3et8X6a3LQuFxKz5zb4wDQ_41.785009_-71.436332@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312809,
+    "wof:geomhash":"689055d8ec42c16147dc071611130f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874196399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874196399
+        }
+    ],
+    "wof:id":874196399,
+    "wof:lastmodified":1464312809,
+    "wof:name":"Henderson Learning Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.436332,
+    41.785009,
+    -71.436332,
+    41.785009
+],
+  "geometry": {"coordinates":[-71.43633199999999,41.785009],"type":"Point"}
+}

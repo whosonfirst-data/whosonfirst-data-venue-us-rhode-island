@@ -1,0 +1,75 @@
+{
+  "id": 874299905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430365,41.853937,-71.430365,41.853937",
+    "geom:latitude":41.853937,
+    "geom:longitude":-71.430365,
+    "iso:country":"US",
+    "sg:address":"754 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 6050",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nB7qzbZxutgfpUK1pemLQ_41.853937_-71.430365@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315386,
+    "wof:geomhash":"7e73072d0749ca2faa5776611c167a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874299905
+        }
+    ],
+    "wof:id":874299905,
+    "wof:lastmodified":1464315386,
+    "wof:name":"Varity Vehicle Rentals",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -71.430365,
+    41.853937,
+    -71.430365,
+    41.853937
+],
+  "geometry": {"coordinates":[-71.43036499999999,41.853937],"type":"Point"}
+}

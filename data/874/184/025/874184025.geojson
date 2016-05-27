@@ -1,0 +1,71 @@
+{
+  "id": 874184025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27613,41.729793,-71.27613,41.729793",
+    "geom:latitude":41.729793,
+    "geom:longitude":-71.27613,
+    "iso:country":"US",
+    "sg:address":"205 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 2303",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YrH6JzyO4RHM0gJEEUPUy_41.729793_-71.276130@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312678,
+    "wof:geomhash":"850c5ecf9ac34ba76512d4d0c9355bc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874184025
+        }
+    ],
+    "wof:id":874184025,
+    "wof:lastmodified":1464312678,
+    "wof:name":"Bristol County Dodge Chrysler",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.27613,
+    41.729793,
+    -71.27613,
+    41.729793
+],
+  "geometry": {"coordinates":[-71.27612999999999,41.729793],"type":"Point"}
+}

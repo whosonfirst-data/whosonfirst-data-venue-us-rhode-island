@@ -1,0 +1,77 @@
+{
+  "id": 874171285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410403,41.818906,-71.410403,41.818906",
+    "geom:latitude":41.818906,
+    "geom:longitude":-71.410403,
+    "iso:country":"US",
+    "sg:address":"70 Ship St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 863 1110",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3305Y14m9GLfyUMW0K8dfP_41.818906_-71.410403@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312542,
+    "wof:geomhash":"c3a58c1023455f0b78746a50f71f2ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874171285
+        }
+    ],
+    "wof:id":874171285,
+    "wof:lastmodified":1464312542,
+    "wof:name":"Brown University",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.410403,
+    41.818906,
+    -71.410403,
+    41.818906
+],
+  "geometry": {"coordinates":[-71.410403,41.818906],"type":"Point"}
+}

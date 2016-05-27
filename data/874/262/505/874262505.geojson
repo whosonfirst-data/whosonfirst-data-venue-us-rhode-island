@@ -1,0 +1,69 @@
+{
+  "id": 874262505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542296,41.893787,-71.542296,41.893787",
+    "geom:latitude":41.893787,
+    "geom:longitude":-71.542296,
+    "iso:country":"US",
+    "sg:address":"170 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0580",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eCCsSf4z6qGkNTjpDdD01_41.893787_-71.542296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313942,
+    "wof:geomhash":"a57b58a74dfffff174dd49f35e16d7ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874262505
+        }
+    ],
+    "wof:id":874262505,
+    "wof:lastmodified":1464313942,
+    "wof:name":"Pleasant View Day Care Ctr",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -71.542296,
+    41.893787,
+    -71.542296,
+    41.893787
+],
+  "geometry": {"coordinates":[-71.54229599999999,41.893787],"type":"Point"}
+}

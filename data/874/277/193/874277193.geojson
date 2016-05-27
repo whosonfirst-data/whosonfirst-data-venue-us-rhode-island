@@ -1,0 +1,71 @@
+{
+  "id": 874277193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.577003,41.494586,-71.577003,41.494586",
+    "geom:latitude":41.494586,
+    "geom:longitude":-71.577003,
+    "iso:country":"US",
+    "sg:address":"76 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4545",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zho0LClhXPYUHvdr3azGc_41.494586_-71.577003@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314507,
+    "wof:geomhash":"afdcae97389eba6db49fac0b41d712cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874277193
+        }
+    ],
+    "wof:id":874277193,
+    "wof:lastmodified":1464314507,
+    "wof:name":"Backyard Habitats",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.577003,
+    41.494586,
+    -71.577003,
+    41.494586
+],
+  "geometry": {"coordinates":[-71.577003,41.494586],"type":"Point"}
+}

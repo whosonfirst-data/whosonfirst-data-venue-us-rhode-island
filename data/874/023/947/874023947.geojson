@@ -1,0 +1,71 @@
+{
+  "id": 874023947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.27915,41.730148,-71.27915,41.730148",
+    "geom:latitude":41.730148,
+    "geom:longitude":-71.27915,
+    "iso:country":"US",
+    "sg:address":"100 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2141",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beverage",
+        "dispensing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_609CQJuEVLHJX7gVXqKuZr_41.730148_-71.279150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310983,
+    "wof:geomhash":"32eba735bd2a436bfd8b495f8ef23665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874023947
+        }
+    ],
+    "wof:id":874023947,
+    "wof:lastmodified":1464310983,
+    "wof:name":"Nitro Tap",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beverage",
+        "dispensing"
+    ]
+},
+  "bbox": [
+    -71.27915,
+    41.730148,
+    -71.27915,
+    41.730148
+],
+  "geometry": {"coordinates":[-71.27915,41.730148],"type":"Point"}
+}

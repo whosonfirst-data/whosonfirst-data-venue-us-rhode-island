@@ -1,0 +1,82 @@
+{
+  "id": 874288909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.543666,41.699753,-71.543666,41.699753",
+    "geom:latitude":41.699753,
+    "geom:longitude":-71.543666,
+    "iso:country":"US",
+    "sg:address":"445 Fairview Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 3089",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "guitar",
+        "amplifier",
+        "consumer",
+        "theater",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jsXEp74TGKc4xh2yXuWbt_41.699753_-71.543666@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314973,
+    "wof:geomhash":"ed30fd398be240d7ca393ff3fbe406d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874288909
+        }
+    ],
+    "wof:id":874288909,
+    "wof:lastmodified":1464314973,
+    "wof:name":"Spotlight Karaoke",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "amplifier",
+        "consumer",
+        "theater",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.543666,
+    41.699753,
+    -71.543666,
+    41.699753
+],
+  "geometry": {"coordinates":[-71.543666,41.699753],"type":"Point"}
+}

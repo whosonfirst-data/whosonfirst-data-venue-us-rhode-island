@@ -1,0 +1,70 @@
+{
+  "id": 874289303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406601,41.880402,-71.406601,41.880402",
+    "geom:latitude":41.880402,
+    "geom:longitude":-71.406601,
+    "iso:country":"US",
+    "sg:address":"30 Lockbridge St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 0400",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.aetnabridge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6siaaD43HsUIFvGT3LCLmL_41.880402_-71.406601@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314988,
+    "wof:geomhash":"c51111c2a7051338477e3cdcf73decc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874289303
+        }
+    ],
+    "wof:id":874289303,
+    "wof:lastmodified":1464314988,
+    "wof:name":"Aetna Bridge",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.406601,
+    41.880402,
+    -71.406601,
+    41.880402
+],
+  "geometry": {"coordinates":[-71.40660099999999,41.880402],"type":"Point"}
+}

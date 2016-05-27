@@ -1,0 +1,77 @@
+{
+  "id": 874271001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456822,41.567741,-71.456822,41.567741",
+    "geom:latitude":41.567741,
+    "geom:longitude":-71.456822,
+    "iso:country":"US",
+    "sg:address":"145 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9318",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qmQR2Mt9B9EtiQ8FKEexn_41.567741_-71.456822@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314259,
+    "wof:geomhash":"60b9e1bae00c2977ed60ca363e738e66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874271001
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874271001
+        }
+    ],
+    "wof:id":874271001,
+    "wof:lastmodified":1464314259,
+    "wof:name":"Dental Fears Ctr-New England",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.456822,
+    41.567741,
+    -71.456822,
+    41.567741
+],
+  "geometry": {"coordinates":[-71.456822,41.567741],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874140063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408125,41.793046,-71.408125,41.793046",
+    "geom:latitude":41.793046,
+    "geom:longitude":-71.408125,
+    "iso:country":"US",
+    "sg:address":"1224 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3598",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PqGxcUS1VbCjDmVOmjFHX_41.793046_-71.408125@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312235,
+    "wof:geomhash":"e0caba22f71f850fe2f4c8033d996322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874140063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874140063
+        }
+    ],
+    "wof:id":874140063,
+    "wof:lastmodified":1464312235,
+    "wof:name":"Malecon Restaurant Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.408125,
+    41.793046,
+    -71.408125,
+    41.793046
+],
+  "geometry": {"coordinates":[-71.408125,41.793046],"type":"Point"}
+}

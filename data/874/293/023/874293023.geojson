@@ -1,0 +1,86 @@
+{
+  "id": 874293023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489479,41.437889,-71.489479,41.437889",
+    "geom:latitude":41.437889,
+    "geom:longitude":-71.489479,
+    "iso:country":"US",
+    "sg:address":"6 Shadow Farm Way",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9511",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KCDKKFrSt1MnXeBLA8MCR_41.437889_-71.489479@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315124,
+    "wof:geomhash":"ec06771e04d1cec604d9edd0f51f7a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293023
+        }
+    ],
+    "wof:id":874293023,
+    "wof:lastmodified":1464315124,
+    "wof:name":"Fogg Management Consulting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.489479,
+    41.437889,
+    -71.489479,
+    41.437889
+],
+  "geometry": {"coordinates":[-71.489479,41.437889],"type":"Point"}
+}

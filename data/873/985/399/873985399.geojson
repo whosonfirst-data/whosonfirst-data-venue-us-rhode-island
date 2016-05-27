@@ -1,0 +1,71 @@
+{
+  "id": 873985399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39954,41.925525,-71.39954,41.925525",
+    "geom:latitude":41.925525,
+    "geom:longitude":-71.39954,
+    "iso:country":"US",
+    "sg:address":"1216 High St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 5025",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0713so1flQgyq0Y7E8xUvi_41.925525_-71.399540@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"a3a50c4db64accb6a90eca1ad15df062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":873985399
+        }
+    ],
+    "wof:id":873985399,
+    "wof:lastmodified":1464310653,
+    "wof:name":"JMK Construction Inc",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -71.39954,
+    41.925525,
+    -71.39954,
+    41.925525
+],
+  "geometry": {"coordinates":[-71.39954,41.925525],"type":"Point"}
+}

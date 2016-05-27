@@ -1,0 +1,88 @@
+{
+  "id": 874004421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403633,41.792088,-71.403633,41.792088",
+    "geom:latitude":41.792088,
+    "geom:longitude":-71.403633,
+    "iso:country":"US",
+    "sg:address":"321 Chapman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3488",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KOAB21mkKfg8aVNQwmKkh_41.792088_-71.403633@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310808,
+    "wof:geomhash":"183a5c7b1dc8ed2797ac0df554c1ce17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874004421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874004421
+        }
+    ],
+    "wof:id":874004421,
+    "wof:lastmodified":1464310808,
+    "wof:name":"C K Contractor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.403633,
+    41.792088,
+    -71.403633,
+    41.792088
+],
+  "geometry": {"coordinates":[-71.403633,41.792088],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874249555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.497891,41.43809,-71.497891,41.43809",
+    "geom:latitude":41.43809,
+    "geom:longitude":-71.497891,
+    "iso:country":"US",
+    "sg:address":"27 Pine St",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 6334",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uguMJ8D9Dx3lyc3jWWOds_41.438090_-71.497891@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313554,
+    "wof:geomhash":"82658c6b5c5cb02ac995bedccad3e2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874249555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874249555
+        }
+    ],
+    "wof:id":874249555,
+    "wof:lastmodified":1464313554,
+    "wof:name":"Rhode Island PC Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -71.497891,
+    41.43809,
+    -71.497891,
+    41.43809
+],
+  "geometry": {"coordinates":[-71.497891,41.43809],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 874146823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285146,41.527228,-71.285146,41.527228",
+    "geom:latitude":41.527228,
+    "geom:longitude":-71.285146,
+    "iso:country":"US",
+    "sg:address":"211 Airport Access Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 4550",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102522713,
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50OaUn3cLBQh8uPfcDjZzQ_41.527228_-71.285146@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"1dabe2c9a4e9ae4a2d3d5bd0cc55594a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102522713,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874146823
+        }
+    ],
+    "wof:id":874146823,
+    "wof:lastmodified":1464312301,
+    "wof:name":"Chris Aircraft Inc",
+    "wof:parent_id":102522713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.285146,
+    41.527228,
+    -71.285146,
+    41.527228
+],
+  "geometry": {"coordinates":[-71.285146,41.527228],"type":"Point"}
+}

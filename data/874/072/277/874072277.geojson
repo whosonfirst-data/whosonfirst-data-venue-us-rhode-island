@@ -1,0 +1,71 @@
+{
+  "id": 874072277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564175,41.486151,-71.564175,41.486151",
+    "geom:latitude":41.486151,
+    "geom:longitude":-71.564175,
+    "iso:country":"US",
+    "sg:address":"3711 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0800",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MX75fhMpv4Vd0fAXspOT2_41.486151_-71.564175@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311466,
+    "wof:geomhash":"f8c93dc50c04ec74d96f0cfbe23a505a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874072277
+        }
+    ],
+    "wof:id":874072277,
+    "wof:lastmodified":1464311466,
+    "wof:name":"Kenyon House Restaurant",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.564175,
+    41.486151,
+    -71.564175,
+    41.486151
+],
+  "geometry": {"coordinates":[-71.56417500000001,41.486151],"type":"Point"}
+}

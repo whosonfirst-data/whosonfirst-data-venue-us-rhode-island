@@ -1,0 +1,77 @@
+{
+  "id": 874124785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438225,41.828409,-71.438225,41.828409",
+    "geom:latitude":41.828409,
+    "geom:longitude":-71.438225,
+    "iso:country":"US",
+    "sg:address":"20 Prescott St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 632 0703",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ep8Z7ZAC8bXiXwdvTasd4_41.828409_-71.438225@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312083,
+    "wof:geomhash":"c90e1fbf523aee06e50a0c37e36e8cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874124785
+        }
+    ],
+    "wof:id":874124785,
+    "wof:lastmodified":1464312083,
+    "wof:name":"Chei Auto Repair",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.438225,
+    41.828409,
+    -71.438225,
+    41.828409
+],
+  "geometry": {"coordinates":[-71.438225,41.828409],"type":"Point"}
+}

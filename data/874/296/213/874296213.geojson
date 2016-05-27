@@ -1,0 +1,81 @@
+{
+  "id": 874296213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425887,41.828967,-71.425887,41.828967",
+    "geom:latitude":41.828967,
+    "geom:longitude":-71.425887,
+    "iso:country":"US",
+    "sg:address":"One Providence Place 3rd Fl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 432 6587",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supply"
+    ],
+    "sg:website":"www.lush.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EBFG2hXpDHGgvUysDq5Lj_41.828967_-71.425887@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315240,
+    "wof:geomhash":"78d4085feed4481581d2487dada308ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874296213
+        }
+    ],
+    "wof:id":874296213,
+    "wof:lastmodified":1464315240,
+    "wof:name":"Lush",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.425887,
+    41.828967,
+    -71.425887,
+    41.828967
+],
+  "geometry": {"coordinates":[-71.425887,41.828967],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874302667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461545,41.834188,-71.461545,41.834188",
+    "geom:latitude":41.834188,
+    "geom:longitude":-71.461545,
+    "iso:country":"US",
+    "sg:address":"50 Obediah Brown Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 9325",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://www.district44.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z5g7z5mhXKyXY6pUjS1Rz_41.834188_-71.461545@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315485,
+    "wof:geomhash":"a737204809939b718e0d9fe205736b34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874302667
+        }
+    ],
+    "wof:id":874302667,
+    "wof:lastmodified":1464315485,
+    "wof:name":"Pleasant View School",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.461545,
+    41.834188,
+    -71.461545,
+    41.834188
+],
+  "geometry": {"coordinates":[-71.461545,41.834188],"type":"Point"}
+}

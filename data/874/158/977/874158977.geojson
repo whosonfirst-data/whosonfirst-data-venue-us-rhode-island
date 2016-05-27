@@ -1,0 +1,71 @@
+{
+  "id": 874158977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278784,41.676725,-71.278784,41.676725",
+    "geom:latitude":41.676725,
+    "geom:longitude":-71.278784,
+    "iso:country":"US",
+    "sg:address":"775 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 7970",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NZM5F2GRMyHyPECtDUDNJ_41.676725_-71.278784@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312421,
+    "wof:geomhash":"8c578c2084c1cac38e06629cfe328942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874158977
+        }
+    ],
+    "wof:id":874158977,
+    "wof:lastmodified":1464312421,
+    "wof:name":"Sip-N-Dip",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.278784,
+    41.676725,
+    -71.278784,
+    41.676725
+],
+  "geometry": {"coordinates":[-71.278784,41.676725],"type":"Point"}
+}

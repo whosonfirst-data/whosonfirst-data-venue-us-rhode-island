@@ -1,0 +1,71 @@
+{
+  "id": 874160787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428589,41.556656,-71.428589,41.556656",
+    "geom:latitude":41.556656,
+    "geom:longitude":-71.428589,
+    "iso:country":"US",
+    "sg:address":"115 Buena Vista Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2945",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IOlWFGO1UvMB86tFg4qrh_41.556656_-71.428589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312440,
+    "wof:geomhash":"1b4e8f7bdc8efcb4c597b025409d67ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874160787
+        }
+    ],
+    "wof:id":874160787,
+    "wof:lastmodified":1464312440,
+    "wof:name":"Goodview Properties LLC",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.428589,
+    41.556656,
+    -71.428589,
+    41.556656
+],
+  "geometry": {"coordinates":[-71.428589,41.556656],"type":"Point"}
+}

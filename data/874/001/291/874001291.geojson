@@ -1,0 +1,70 @@
+{
+  "id": 874001291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.364104,41.866394,-71.364104,41.866394",
+    "geom:latitude":41.866394,
+    "geom:longitude":-71.364104,
+    "iso:country":"US",
+    "sg:address":"30 Monticello Rd",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 9426",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hwweo2CBDghV0gpj69gNV_41.866394_-71.364104@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"1212ceeb9fa48971020bddbc450b9348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874001291
+        }
+    ],
+    "wof:id":874001291,
+    "wof:lastmodified":1464310769,
+    "wof:name":"US Post Office",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.364104,
+    41.866394,
+    -71.364104,
+    41.866394
+],
+  "geometry": {"coordinates":[-71.364104,41.866394],"type":"Point"}
+}

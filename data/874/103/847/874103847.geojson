@@ -1,0 +1,73 @@
+{
+  "id": 874103847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281485,41.728514,-71.281485,41.728514",
+    "geom:latitude":41.728514,
+    "geom:longitude":-71.281485,
+    "iso:country":"US",
+    "sg:address":"17 Croade St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 2177",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "reading",
+        "instruction",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3odLaIiSAsTFTS5hL1ZHSU_41.728514_-71.281485@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311842,
+    "wof:geomhash":"0a40329010fd1d31afd1932b65867102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874103847
+        }
+    ],
+    "wof:id":874103847,
+    "wof:lastmodified":1464311842,
+    "wof:name":"Literacy Volunteers Of America",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reading",
+        "instruction",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.281485,
+    41.728514,
+    -71.281485,
+    41.728514
+],
+  "geometry": {"coordinates":[-71.281485,41.728514],"type":"Point"}
+}

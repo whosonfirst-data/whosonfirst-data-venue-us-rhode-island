@@ -1,0 +1,88 @@
+{
+  "id": 874289225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28318,41.518131,-71.28318,41.518131",
+    "geom:latitude":41.518131,
+    "geom:longitude":-71.28318,
+    "iso:country":"US",
+    "sg:address":"1120 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 8750",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bookkeeping",
+        "return",
+        "accountants-certified",
+        "preparation-business",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qqUcyrkDUzgLKNsWlG48E_41.518131_-71.283180@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314985,
+    "wof:geomhash":"ec6011e8534134153a3f8f952012d8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874289225
+        }
+    ],
+    "wof:id":874289225,
+    "wof:lastmodified":1464314985,
+    "wof:name":"Flynn Financial Group",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookkeeping",
+        "return",
+        "accountants-certified",
+        "preparation-business",
+        "public"
+    ]
+},
+  "bbox": [
+    -71.28318,
+    41.518131,
+    -71.28318,
+    41.518131
+],
+  "geometry": {"coordinates":[-71.28318,41.518131],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874291615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425725,41.92838,-71.425725,41.92838",
+    "geom:latitude":41.92838,
+    "geom:longitude":-71.425725,
+    "iso:country":"US",
+    "sg:address":"30 Martin St Ste 2",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 8867",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "order",
+        "online"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VdWsV3Z0IkuVtPfxjJxpR_41.928380_-71.425725@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315076,
+    "wof:geomhash":"137763b1c4ca82ba2a50f5ce77cf5911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291615
+        }
+    ],
+    "wof:id":874291615,
+    "wof:lastmodified":1464315076,
+    "wof:name":"Multi Network Alliance",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "order",
+        "online"
+    ]
+},
+  "bbox": [
+    -71.425725,
+    41.92838,
+    -71.425725,
+    41.92838
+],
+  "geometry": {"coordinates":[-71.425725,41.92838],"type":"Point"}
+}

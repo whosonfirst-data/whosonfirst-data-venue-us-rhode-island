@@ -1,0 +1,88 @@
+{
+  "id": 874288367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.262329,41.652481,-71.262329,41.652481",
+    "geom:latitude":41.652481,
+    "geom:longitude":-71.262329,
+    "iso:country":"US",
+    "sg:address":"10 Metacom Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 4500",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "technical",
+        "industrial",
+        "college",
+        "business",
+        "trade"
+    ],
+    "sg:website":"http://www.law.rwu.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Ayimn044NMpJWeMkbSpR_41.652481_-71.262329@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314953,
+    "wof:geomhash":"48c5ac8f0df71f4234c50aafa95dbd4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874288367
+        }
+    ],
+    "wof:id":874288367,
+    "wof:lastmodified":1464314953,
+    "wof:name":"Roger Williams Univ-Law School",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "industrial",
+        "college",
+        "business",
+        "trade"
+    ]
+},
+  "bbox": [
+    -71.262329,
+    41.652481,
+    -71.262329,
+    41.652481
+],
+  "geometry": {"coordinates":[-71.26232899999999,41.652481],"type":"Point"}
+}

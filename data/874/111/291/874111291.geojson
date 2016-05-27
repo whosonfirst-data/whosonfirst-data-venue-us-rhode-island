@@ -1,0 +1,71 @@
+{
+  "id": 874111291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422089,41.92968,-71.422089,41.92968",
+    "geom:latitude":41.92968,
+    "geom:longitude":-71.422089,
+    "iso:country":"US",
+    "sg:address":"1099 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 7020",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MyphPQzub3gKbUqBkAXIJ_41.929680_-71.422089@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311945,
+    "wof:geomhash":"d513addc10a7bfb577aa7cf6383af971",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874111291
+        }
+    ],
+    "wof:id":874111291,
+    "wof:lastmodified":1464311945,
+    "wof:name":"Clermont Plumbing & Heating",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.422089,
+    41.92968,
+    -71.422089,
+    41.92968
+],
+  "geometry": {"coordinates":[-71.422089,41.92968],"type":"Point"}
+}

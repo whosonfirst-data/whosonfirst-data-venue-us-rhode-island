@@ -1,0 +1,71 @@
+{
+  "id": 873980479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434304,41.864607,-71.434304,41.864607",
+    "geom:latitude":41.864607,
+    "geom:longitude":-71.434304,
+    "iso:country":"US",
+    "sg:address":"88 Elena St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 9060",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PURWSBvim0wp0JZRTWV5j_41.864607_-71.434304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310592,
+    "wof:geomhash":"e886badfeabe6dda489e78ac142c397d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":873980479
+        }
+    ],
+    "wof:id":873980479,
+    "wof:lastmodified":1464310592,
+    "wof:name":"Ricci L Woodworking",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.434304,
+    41.864607,
+    -71.434304,
+    41.864607
+],
+  "geometry": {"coordinates":[-71.434304,41.864607],"type":"Point"}
+}

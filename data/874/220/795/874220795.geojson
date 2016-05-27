@@ -1,0 +1,71 @@
+{
+  "id": 874220795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.612779,41.409535,-71.612779,41.409535",
+    "geom:latitude":41.409535,
+    "geom:longitude":-71.612779,
+    "iso:country":"US",
+    "sg:address":"14 Sand Hill Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6336",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zwJJruekxpdfgF7WsYRvL_41.409535_-71.612779@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313072,
+    "wof:geomhash":"6c0d497da0f8885d4e16134ab3fb2780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874220795
+        }
+    ],
+    "wof:id":874220795,
+    "wof:lastmodified":1464313072,
+    "wof:name":"Rainbow Painting",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.612779,
+    41.409535,
+    -71.612779,
+    41.409535
+],
+  "geometry": {"coordinates":[-71.612779,41.409535],"type":"Point"}
+}

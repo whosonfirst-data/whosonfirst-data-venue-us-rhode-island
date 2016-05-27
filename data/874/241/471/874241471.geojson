@@ -1,0 +1,75 @@
+{
+  "id": 874241471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453115,41.656339,-71.453115,41.656339",
+    "geom:latitude":41.656339,
+    "geom:longitude":-71.453115,
+    "iso:country":"US",
+    "sg:address":"559 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9842",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63hSZPqoasIH4rENsYqLPt_41.656339_-71.453115@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313368,
+    "wof:geomhash":"a87f0bcf39b0eddbae0d17dde71451ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874241471
+        }
+    ],
+    "wof:id":874241471,
+    "wof:lastmodified":1464313368,
+    "wof:name":"Highlights Salon",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.453115,
+    41.656339,
+    -71.453115,
+    41.656339
+],
+  "geometry": {"coordinates":[-71.453115,41.656339],"type":"Point"}
+}

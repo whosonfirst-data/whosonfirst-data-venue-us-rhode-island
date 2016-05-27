@@ -1,0 +1,73 @@
+{
+  "id": 874149109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.187472,41.570298,-71.187472,41.570298",
+    "geom:latitude":41.570298,
+    "geom:longitude":-71.187472,
+    "iso:country":"US",
+    "sg:address":"3940 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 4400",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor",
+        "sheet",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tz3nQr0hibMlKkHQfqz1D_41.570298_-71.187472@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312321,
+    "wof:geomhash":"c971954986c4bb1456f5fea2bc09c386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874149109
+        }
+    ],
+    "wof:id":874149109,
+    "wof:lastmodified":1464312321,
+    "wof:name":"Metal Works",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "sheet",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.187472,
+    41.570298,
+    -71.187472,
+    41.570298
+],
+  "geometry": {"coordinates":[-71.187472,41.570298],"type":"Point"}
+}

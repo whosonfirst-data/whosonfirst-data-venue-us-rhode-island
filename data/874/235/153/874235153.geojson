@@ -1,0 +1,88 @@
+{
+  "id": 874235153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439591,41.780746,-71.439591,41.780746",
+    "geom:latitude":41.780746,
+    "geom:longitude":-71.439591,
+    "iso:country":"US",
+    "sg:address":"941 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 3200",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1996ZPDDoAl0LUqwHsnKGx_41.780746_-71.439591@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313243,
+    "wof:geomhash":"df51cab9ac243495f85b32958f47bd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874235153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874235153
+        }
+    ],
+    "wof:id":874235153,
+    "wof:lastmodified":1464313243,
+    "wof:name":"Family Violence Intervention",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.439591,
+    41.780746,
+    -71.439591,
+    41.780746
+],
+  "geometry": {"coordinates":[-71.43959099999999,41.780746],"type":"Point"}
+}

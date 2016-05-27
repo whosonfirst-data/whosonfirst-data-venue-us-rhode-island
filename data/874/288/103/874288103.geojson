@@ -1,0 +1,78 @@
+{
+  "id": 874288103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440262,41.832332,-71.440262,41.832332",
+    "geom:latitude":41.832332,
+    "geom:longitude":-71.440262,
+    "iso:country":"US",
+    "sg:address":"996 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/80949-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 8880",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PDwBY5l5aIbvPakAkRLEe_41.832329_-71.440131@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314939,
+    "wof:geomhash":"3d614f9606d52c412269dc86ae80df95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874288103
+        }
+    ],
+    "wof:id":874288103,
+    "wof:lastmodified":1464314939,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.440262,
+    41.832332,
+    -71.440262,
+    41.832332
+],
+  "geometry": {"coordinates":[-71.440262,41.832332],"type":"Point"}
+}

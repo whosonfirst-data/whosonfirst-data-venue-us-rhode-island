@@ -1,0 +1,70 @@
+{
+  "id": 874057683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.50887,41.459909,-71.50887,41.459909",
+    "geom:latitude":41.459909,
+    "geom:longitude":-71.50887,
+    "iso:country":"US",
+    "sg:address":"1696 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 000 1111",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85845577,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rUewhwh2faYiqUgdmdkJw_41.459909_-71.508870@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311315,
+    "wof:geomhash":"80b91328cf6b8117f66f8e973a0f3730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874057683
+        }
+    ],
+    "wof:id":874057683,
+    "wof:lastmodified":1464311315,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.50887,
+    41.459909,
+    -71.50887,
+    41.459909
+],
+  "geometry": {"coordinates":[-71.50887,41.459909],"type":"Point"}
+}

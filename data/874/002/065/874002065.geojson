@@ -1,0 +1,71 @@
+{
+  "id": 874002065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370589,41.548137,-71.370589,41.548137",
+    "geom:latitude":41.548137,
+    "geom:longitude":-71.370589,
+    "iso:country":"US",
+    "sg:address":"242 America Way",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 3221",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IDWbwqZcgM0K5mqSBVImU_41.548137_-71.370589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310775,
+    "wof:geomhash":"73b0db6d91182cb9f00a5efdaa94d6e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874002065
+        }
+    ],
+    "wof:id":874002065,
+    "wof:lastmodified":1464310775,
+    "wof:name":"Km Gladding Excavating Inc",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.370589,
+    41.548137,
+    -71.370589,
+    41.548137
+],
+  "geometry": {"coordinates":[-71.370589,41.548137],"type":"Point"}
+}

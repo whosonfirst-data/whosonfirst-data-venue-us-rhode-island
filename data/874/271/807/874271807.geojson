@@ -1,0 +1,71 @@
+{
+  "id": 874271807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.537828,41.875769,-71.537828,41.875769",
+    "geom:latitude":41.875769,
+    "geom:longitude":-71.537828,
+    "iso:country":"US",
+    "sg:address":"17 Spencer Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 1400",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iz0qUgvBaqkH8AOtzLPva_41.875769_-71.537828@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314285,
+    "wof:geomhash":"eadb957bd90991e4ac25ae320e38d96b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874271807
+        }
+    ],
+    "wof:id":874271807,
+    "wof:lastmodified":1464314285,
+    "wof:name":"Eagle Associates",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.537828,
+    41.875769,
+    -71.537828,
+    41.875769
+],
+  "geometry": {"coordinates":[-71.537828,41.875769],"type":"Point"}
+}

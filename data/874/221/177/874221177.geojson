@@ -1,0 +1,73 @@
+{
+  "id": 874221177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489351,41.853093,-71.489351,41.853093",
+    "geom:latitude":41.853093,
+    "geom:longitude":-71.489351,
+    "iso:country":"US",
+    "sg:address":"4 Vinton St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2588",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0swvhdqxukuR2AM682vVBi_41.853093_-71.489351@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313076,
+    "wof:geomhash":"4b546e1d4835a7dbf17058b630513f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874221177
+        }
+    ],
+    "wof:id":874221177,
+    "wof:lastmodified":1464313076,
+    "wof:name":"J&R Enterprises",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.489351,
+    41.853093,
+    -71.489351,
+    41.853093
+],
+  "geometry": {"coordinates":[-71.489351,41.853093],"type":"Point"}
+}

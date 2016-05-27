@@ -1,0 +1,75 @@
+{
+  "id": 874109549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.360876,41.822711,-71.360876,41.822711",
+    "geom:latitude":41.822711,
+    "geom:longitude":-71.360876,
+    "iso:country":"US",
+    "sg:address":"41 Goldsmith Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 0570",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809611,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xwPEIW7PBAXk57kAlxiL9_41.822711_-71.360876@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311908,
+    "wof:geomhash":"b5ac49612b5229bcff9b0a82f8091235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85809611,
+            "region_id":85688509,
+            "venue_id":874109549
+        }
+    ],
+    "wof:id":874109549,
+    "wof:lastmodified":1464311908,
+    "wof:name":"Capitol Cleaning Co",
+    "wof:parent_id":85809611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.360876,
+    41.822711,
+    -71.360876,
+    41.822711
+],
+  "geometry": {"coordinates":[-71.360876,41.822711],"type":"Point"}
+}

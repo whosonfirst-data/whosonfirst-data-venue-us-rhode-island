@@ -1,0 +1,75 @@
+{
+  "id": 874302031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450988,41.845407,-71.450988,41.845407",
+    "geom:latitude":41.845407,
+    "geom:longitude":-71.450988,
+    "iso:country":"US",
+    "sg:address":"1190 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1255",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6omtQ8upFCFLt0ldWvNR8J_41.845407_-71.450988@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315465,
+    "wof:geomhash":"690fff3cd9a61371951cd68899a757e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874302031
+        }
+    ],
+    "wof:id":874302031,
+    "wof:lastmodified":1464315465,
+    "wof:name":"Darlington Home Builders Inc",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.450988,
+    41.845407,
+    -71.450988,
+    41.845407
+],
+  "geometry": {"coordinates":[-71.450988,41.845407],"type":"Point"}
+}

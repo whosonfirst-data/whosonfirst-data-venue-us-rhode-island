@@ -1,0 +1,80 @@
+{
+  "id": 874287877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450708,41.70884,-71.450708,41.70884",
+    "geom:latitude":41.70884,
+    "geom:longitude":-71.450708,
+    "iso:country":"US",
+    "sg:address":"2757 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/83115-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5770",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bh0Wqr2pVewlql80KEgS7_41.709020_-71.450667@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314931,
+    "wof:geomhash":"6b24d0bf4c67edc2e9da8ad48d793449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874287877
+        }
+    ],
+    "wof:id":874287877,
+    "wof:lastmodified":1464314931,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.450708,
+    41.70884,
+    -71.450708,
+    41.70884
+],
+  "geometry": {"coordinates":[-71.45070800000001,41.70884],"type":"Point"}
+}

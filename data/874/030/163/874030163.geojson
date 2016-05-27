@@ -1,0 +1,71 @@
+{
+  "id": 874030163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47828,41.858118,-71.47828,41.858118",
+    "geom:latitude":41.858118,
+    "geom:longitude":-71.47828,
+    "iso:country":"US",
+    "sg:address":"19 Brown Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8082",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U4oWVWa7PH3z2NSKwWKy8_41.858118_-71.478280@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311050,
+    "wof:geomhash":"7c3479b6826054807c76b4b089f937e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874030163
+        }
+    ],
+    "wof:id":874030163,
+    "wof:lastmodified":1464311050,
+    "wof:name":"Landscaping Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.47828,
+    41.858118,
+    -71.47828,
+    41.858118
+],
+  "geometry": {"coordinates":[-71.47828,41.858118],"type":"Point"}
+}

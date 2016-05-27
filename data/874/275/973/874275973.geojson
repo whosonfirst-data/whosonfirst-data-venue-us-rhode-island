@@ -1,0 +1,71 @@
+{
+  "id": 874275973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249639,41.567017,-71.249639,41.567017",
+    "geom:latitude":41.567017,
+    "geom:longitude":-71.249639,
+    "iso:country":"US",
+    "sg:address":"43 Benedict Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4135",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k7uamFfY7g96iXJqOJfyN_41.567017_-71.249639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314452,
+    "wof:geomhash":"db0a6aece900c18f553d30c83ffc8465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874275973
+        }
+    ],
+    "wof:id":874275973,
+    "wof:lastmodified":1464314452,
+    "wof:name":"Mintwater Farm Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.249639,
+    41.567017,
+    -71.249639,
+    41.567017
+],
+  "geometry": {"coordinates":[-71.249639,41.567017],"type":"Point"}
+}

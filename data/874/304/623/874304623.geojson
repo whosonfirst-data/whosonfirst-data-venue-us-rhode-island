@@ -1,0 +1,81 @@
+{
+  "id": 874304623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471772,41.832853,-71.471772,41.832853",
+    "geom:latitude":41.832853,
+    "geom:longitude":-71.471772,
+    "iso:country":"US",
+    "sg:address":"39 Greenville Ave Apt 1",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 9229",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "announcement",
+        "services-commercial",
+        "invitation"
+    ],
+    "sg:website":"http://www.louispress.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Mjwz066tMg6Be2hZKnTqA_41.832853_-71.471772@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315551,
+    "wof:geomhash":"4b9d4b25237c0dd5647354c8f7cf9206",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304623
+        }
+    ],
+    "wof:id":874304623,
+    "wof:lastmodified":1464315551,
+    "wof:name":"Louis Press Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "announcement",
+        "services-commercial",
+        "invitation"
+    ]
+},
+  "bbox": [
+    -71.471772,
+    41.832853,
+    -71.471772,
+    41.832853
+],
+  "geometry": {"coordinates":[-71.471772,41.832853],"type":"Point"}
+}

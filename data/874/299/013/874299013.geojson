@@ -1,0 +1,71 @@
+{
+  "id": 874299013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422036,41.869132,-71.422036,41.869132",
+    "geom:latitude":41.869132,
+    "geom:longitude":-71.422036,
+    "iso:country":"US",
+    "sg:address":"990 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 7008",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59VnIxWQZY98lEFVG4ruYL_41.869132_-71.422036@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315355,
+    "wof:geomhash":"f74f25e77d8f366e71d88eb236afcbf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299013
+        }
+    ],
+    "wof:id":874299013,
+    "wof:lastmodified":1464315355,
+    "wof:name":"Mortgage Acceptance Group",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.422036,
+    41.869132,
+    -71.422036,
+    41.869132
+],
+  "geometry": {"coordinates":[-71.42203600000001,41.869132],"type":"Point"}
+}

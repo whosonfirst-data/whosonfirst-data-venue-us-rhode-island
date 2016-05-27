@@ -1,0 +1,66 @@
+{
+  "id": 874259893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553546,41.522156,-71.553546,41.522156",
+    "geom:latitude":41.522156,
+    "geom:longitude":-71.553546,
+    "iso:country":"US",
+    "sg:address":"630 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0495",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C17dZCi70lN8TC1v4G001_41.522156_-71.553546@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313855,
+    "wof:geomhash":"e1e07921ccc137cc26b98f2e01f7be4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874259893
+        }
+    ],
+    "wof:id":874259893,
+    "wof:lastmodified":1464313855,
+    "wof:name":"Good Old Country Store",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.553546,
+    41.522156,
+    -71.553546,
+    41.522156
+],
+  "geometry": {"coordinates":[-71.553546,41.522156],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874223113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45668,41.848065,-71.45668,41.848065",
+    "geom:latitude":41.848065,
+    "geom:longitude":-71.45668,
+    "iso:country":"US",
+    "sg:address":"1352 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8370",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vqOGmbpWLvelBfS2e63XF_41.848065_-71.456680@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313095,
+    "wof:geomhash":"a8a520208762dc1a7d602f2c8604e9c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874223113
+        }
+    ],
+    "wof:id":874223113,
+    "wof:lastmodified":1464313095,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.45668,
+    41.848065,
+    -71.45668,
+    41.848065
+],
+  "geometry": {"coordinates":[-71.45668000000001,41.848065],"type":"Point"}
+}

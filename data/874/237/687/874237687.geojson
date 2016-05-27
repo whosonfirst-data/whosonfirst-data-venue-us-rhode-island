@@ -1,0 +1,77 @@
+{
+  "id": 874237687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419618,41.784057,-71.419618,41.784057",
+    "geom:latitude":41.784057,
+    "geom:longitude":-71.419618,
+    "iso:country":"US",
+    "sg:address":"30 Carlisle St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 6549",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51US2oXEY2vSRUouZ8z0WZ_41.784057_-71.419618@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313297,
+    "wof:geomhash":"9c5a7e258fb0c18b1f7d0547526c6e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874237687
+        }
+    ],
+    "wof:id":874237687,
+    "wof:lastmodified":1464313297,
+    "wof:name":"Daniel Perez",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -71.419618,
+    41.784057,
+    -71.419618,
+    41.784057
+],
+  "geometry": {"coordinates":[-71.419618,41.784057],"type":"Point"}
+}

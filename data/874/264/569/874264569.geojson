@@ -1,0 +1,77 @@
+{
+  "id": 874264569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416585,41.85382,-71.416585,41.85382",
+    "geom:latitude":41.85382,
+    "geom:longitude":-71.416585,
+    "iso:country":"US",
+    "sg:address":"103 Ledge St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9248",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PLgNSsMZI0bSmvTHergVE_41.853820_-71.416585@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314014,
+    "wof:geomhash":"335eb3dc64bffbb5b6ff5bbf059ae869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874264569
+        }
+    ],
+    "wof:id":874264569,
+    "wof:lastmodified":1464314014,
+    "wof:name":"Bavaro's Service Ctr",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.416585,
+    41.85382,
+    -71.416585,
+    41.85382
+],
+  "geometry": {"coordinates":[-71.416585,41.85382],"type":"Point"}
+}

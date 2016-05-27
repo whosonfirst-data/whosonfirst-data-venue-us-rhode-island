@@ -1,0 +1,72 @@
+{
+  "id": 874287807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396544,41.886249,-71.396544,41.886249",
+    "geom:latitude":41.886249,
+    "geom:longitude":-71.396544,
+    "iso:country":"US",
+    "sg:address":"650 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/central-falls/249150-village-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 3800",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CeVdWV8bIdHJ0AE8xGeSV_41.885938_-71.396433@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314928,
+    "wof:geomhash":"c60bbe4825c72f403dc2881b27ae8321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874287807
+        }
+    ],
+    "wof:id":874287807,
+    "wof:lastmodified":1464314928,
+    "wof:name":"Village Pizza",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.396544,
+    41.886249,
+    -71.396544,
+    41.886249
+],
+  "geometry": {"coordinates":[-71.39654400000001,41.886249],"type":"Point"}
+}

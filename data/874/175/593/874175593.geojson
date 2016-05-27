@@ -1,0 +1,79 @@
+{
+  "id": 874175593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450755,41.566486,-71.450755,41.566486",
+    "geom:latitude":41.566486,
+    "geom:longitude":-71.450755,
+    "iso:country":"US",
+    "sg:address":"19 Updike Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1370",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CxCBE6oQGfKRuPZawgem1_41.566486_-71.450755@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312584,
+    "wof:geomhash":"9dd3f99ca812dc977d88ea20bab24c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874175593
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874175593
+        }
+    ],
+    "wof:id":874175593,
+    "wof:lastmodified":1464312584,
+    "wof:name":"Wkfd Bay Radio 1370",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -71.450755,
+    41.566486,
+    -71.450755,
+    41.566486
+],
+  "geometry": {"coordinates":[-71.450755,41.566486],"type":"Point"}
+}

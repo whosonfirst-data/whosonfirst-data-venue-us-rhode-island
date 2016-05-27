@@ -1,0 +1,69 @@
+{
+  "id": 874078865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485154,41.857861,-71.485154,41.857861",
+    "geom:latitude":41.857861,
+    "geom:longitude":-71.485154,
+    "iso:country":"US",
+    "sg:address":"2050 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 3050",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pFTind9MC5OtAUjcLekCE_41.857861_-71.485154@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311541,
+    "wof:geomhash":"cfe913f330c2d8ffb49312a3d1f0eb45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874078865
+        }
+    ],
+    "wof:id":874078865,
+    "wof:lastmodified":1464311541,
+    "wof:name":"Tim Hortons",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.485154,
+    41.857861,
+    -71.485154,
+    41.857861
+],
+  "geometry": {"coordinates":[-71.48515399999999,41.857861],"type":"Point"}
+}

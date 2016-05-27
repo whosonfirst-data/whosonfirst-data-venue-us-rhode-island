@@ -1,0 +1,82 @@
+{
+  "id": 874276897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275751,41.571392,-71.275751,41.571392",
+    "geom:latitude":41.571392,
+    "geom:longitude":-71.275751,
+    "iso:country":"US",
+    "sg:address":"1847 W Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 842 5438",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "facility",
+        "management",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2clvkNdDN5wDTylZN8eFwu_41.571392_-71.275751@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314493,
+    "wof:geomhash":"b75a67268c7070be6fa60d50b994258c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874276897
+        }
+    ],
+    "wof:id":874276897,
+    "wof:lastmodified":1464314493,
+    "wof:name":"Raytheon",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "management",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.275751,
+    41.571392,
+    -71.275751,
+    41.571392
+],
+  "geometry": {"coordinates":[-71.275751,41.571392],"type":"Point"}
+}

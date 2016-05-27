@@ -1,0 +1,75 @@
+{
+  "id": 874001999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460121,41.829406,-71.460121,41.829406",
+    "geom:latitude":41.829406,
+    "geom:longitude":-71.460121,
+    "iso:country":"US",
+    "sg:address":"40 Leander St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 2030",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540533,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wJoxCZuPZylvHZpH57YNg_41.829406_-71.460121@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310775,
+    "wof:geomhash":"eef9cd71b150033c88b112966e790243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540533,
+            "region_id":85688509,
+            "venue_id":874001999
+        }
+    ],
+    "wof:id":874001999,
+    "wof:lastmodified":1464310775,
+    "wof:name":"Chris's Nail Salon",
+    "wof:parent_id":420540533,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -71.460121,
+    41.829406,
+    -71.460121,
+    41.829406
+],
+  "geometry": {"coordinates":[-71.460121,41.829406],"type":"Point"}
+}

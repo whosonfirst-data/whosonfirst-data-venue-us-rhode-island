@@ -1,0 +1,69 @@
+{
+  "id": 874263715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499362,41.880868,-71.499362,41.880868",
+    "geom:latitude":41.880868,
+    "geom:longitude":-71.499362,
+    "iso:country":"US",
+    "sg:address":"28 Lincoln St",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2448",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j4TPxazWnwYN7NTaPvqvw_41.880868_-71.499362@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313981,
+    "wof:geomhash":"3d012e731c96293aba2cfcf50fe14397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874263715
+        }
+    ],
+    "wof:id":874263715,
+    "wof:lastmodified":1464313981,
+    "wof:name":"Pro Touch Janitorial Sv",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.499362,
+    41.880868,
+    -71.499362,
+    41.880868
+],
+  "geometry": {"coordinates":[-71.499362,41.880868],"type":"Point"}
+}

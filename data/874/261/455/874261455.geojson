@@ -1,0 +1,69 @@
+{
+  "id": 874261455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436074,41.933815,-71.436074,41.933815",
+    "geom:latitude":41.933815,
+    "geom:longitude":-71.436074,
+    "iso:country":"US",
+    "sg:address":"6 Hidden Valley Ln",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3473",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RB3fj4g9ZAnZmZO4zSo3X_41.933815_-71.436074@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313906,
+    "wof:geomhash":"20f755140a570c03ae8a4b3fde62bc8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874261455
+        }
+    ],
+    "wof:id":874261455,
+    "wof:lastmodified":1464313906,
+    "wof:name":"Mobile Welding Service",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.436074,
+    41.933815,
+    -71.436074,
+    41.933815
+],
+  "geometry": {"coordinates":[-71.436074,41.933815],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874280461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408061,41.737141,-71.408061,41.737141",
+    "geom:latitude":41.737141,
+    "geom:longitude":-71.408061,
+    "iso:country":"US",
+    "sg:address":"1434 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 6350",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31KIjw0P5o4RIxebLorSZ4_41.737141_-71.408061@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314633,
+    "wof:geomhash":"31e208bf05435be5acf4878917497edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874280461
+        }
+    ],
+    "wof:id":874280461,
+    "wof:lastmodified":1464314633,
+    "wof:name":"Brennans' Braces",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.408061,
+    41.737141,
+    -71.408061,
+    41.737141
+],
+  "geometry": {"coordinates":[-71.408061,41.737141],"type":"Point"}
+}

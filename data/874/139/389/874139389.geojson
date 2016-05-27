@@ -1,0 +1,81 @@
+{
+  "id": 874139389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501942,41.699488,-71.501942,41.699488",
+    "geom:latitude":41.699488,
+    "geom:longitude":-71.501942,
+    "iso:country":"US",
+    "sg:address":"456 Gauvin Dr",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 1208",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XKR1MxOmVvUFEoTLjaokD_41.699488_-71.501942@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312230,
+    "wof:geomhash":"830de781c1d84c729c8ff5d0edc79649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874139389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874139389
+        }
+    ],
+    "wof:id":874139389,
+    "wof:lastmodified":1464312230,
+    "wof:name":"Repworks Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.501942,
+    41.699488,
+    -71.501942,
+    41.699488
+],
+  "geometry": {"coordinates":[-71.501942,41.699488],"type":"Point"}
+}

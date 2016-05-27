@@ -1,0 +1,73 @@
+{
+  "id": 874211741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475906,41.844871,-71.475906,41.844871",
+    "geom:latitude":41.844871,
+    "geom:longitude":-71.475906,
+    "iso:country":"US",
+    "sg:address":"1 Humbert St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 4804",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HnvQVB0Lw8HRRmNlnPUuy_41.844871_-71.475906@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312971,
+    "wof:geomhash":"2f19dc3c7233d1ca8fecd1ec18066ad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874211741
+        }
+    ],
+    "wof:id":874211741,
+    "wof:lastmodified":1464312971,
+    "wof:name":"New England Cash Dispensing",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -71.475906,
+    41.844871,
+    -71.475906,
+    41.844871
+],
+  "geometry": {"coordinates":[-71.47590599999999,41.844871],"type":"Point"}
+}

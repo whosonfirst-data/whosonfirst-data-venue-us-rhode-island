@@ -1,0 +1,69 @@
+{
+  "id": 874001249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411324,41.635474,-71.411324,41.635474",
+    "geom:latitude":41.635474,
+    "geom:longitude":-71.411324,
+    "iso:country":"US",
+    "sg:address":"117 Mount View Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 8837",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85835761,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N8CHzxfsjoQwlutWDtC7o_41.635474_-71.411324@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"e9fb19415941534d5db2b0b6fb4403b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85835761,
+            "region_id":85688509,
+            "venue_id":874001249
+        }
+    ],
+    "wof:id":874001249,
+    "wof:lastmodified":1464310769,
+    "wof:name":"Northeast ARC Users Group",
+    "wof:parent_id":85835761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social"
+    ]
+},
+  "bbox": [
+    -71.411324,
+    41.635474,
+    -71.411324,
+    41.635474
+],
+  "geometry": {"coordinates":[-71.41132399999999,41.635474],"type":"Point"}
+}

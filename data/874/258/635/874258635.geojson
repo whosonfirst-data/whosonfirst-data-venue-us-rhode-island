@@ -1,0 +1,77 @@
+{
+  "id": 874258635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433349,41.8339,-71.433349,41.8339",
+    "geom:latitude":41.8339,
+    "geom:longitude":-71.433349,
+    "iso:country":"US",
+    "sg:address":"825 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 5300",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37WdRD7QCmJUTfb6DoRcYH_41.833900_-71.433349@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313812,
+    "wof:geomhash":"ba6a7989e7cc8f04cabfd2991fee1da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874258635
+        }
+    ],
+    "wof:id":874258635,
+    "wof:lastmodified":1464313812,
+    "wof:name":"Purvi Chokshi MD",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.433349,
+    41.8339,
+    -71.433349,
+    41.8339
+],
+  "geometry": {"coordinates":[-71.43334900000001,41.8339],"type":"Point"}
+}

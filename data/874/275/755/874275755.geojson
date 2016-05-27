@@ -1,0 +1,71 @@
+{
+  "id": 874275755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.735092,41.990006,-71.735092,41.990006",
+    "geom:latitude":41.990006,
+    "geom:longitude":-71.735092,
+    "iso:country":"US",
+    "sg:address":"585 Stone Barn Rd",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 2912",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "chicken",
+        "egg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846229,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RMCJuf2ujRFBFUNk8SJlr_41.990006_-71.735092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314441,
+    "wof:geomhash":"e6ef881c94e61aad83e1883760951e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85846229,
+            "region_id":85688509,
+            "venue_id":874275755
+        }
+    ],
+    "wof:id":874275755,
+    "wof:lastmodified":1464314441,
+    "wof:name":"Dimond Egg Farm",
+    "wof:parent_id":85846229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken",
+        "egg"
+    ]
+},
+  "bbox": [
+    -71.735092,
+    41.990006,
+    -71.735092,
+    41.990006
+],
+  "geometry": {"coordinates":[-71.73509199999999,41.990006],"type":"Point"}
+}

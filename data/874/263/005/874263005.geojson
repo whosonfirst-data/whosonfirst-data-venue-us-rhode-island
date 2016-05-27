@@ -1,0 +1,71 @@
+{
+  "id": 874263005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.247453,41.528823,-71.247453,41.528823",
+    "geom:latitude":41.528823,
+    "geom:longitude":-71.247453,
+    "iso:country":"US",
+    "sg:address":"878 Wapping Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 9240",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surgery",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NPBUr8pXVFPWnrdZdOOPx_41.528823_-71.247453@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313958,
+    "wof:geomhash":"65c9ba75f0b9f8e12dbfc4ee0670c974",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874263005
+        }
+    ],
+    "wof:id":874263005,
+    "wof:lastmodified":1464313958,
+    "wof:name":"Beverly Oral Surgery Assoc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -71.247453,
+    41.528823,
+    -71.247453,
+    41.528823
+],
+  "geometry": {"coordinates":[-71.24745299999999,41.528823],"type":"Point"}
+}

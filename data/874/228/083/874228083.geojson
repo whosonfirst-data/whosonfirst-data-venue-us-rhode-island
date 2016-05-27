@@ -1,0 +1,71 @@
+{
+  "id": 874228083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.513945,41.609773,-71.513945,41.609773",
+    "geom:latitude":41.609773,
+    "geom:longitude":-71.513945,
+    "iso:country":"US",
+    "sg:address":"1 Brier Ct",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 1754",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820691,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ayN54q67sMz1qFR5jwMUE_41.609773_-71.513945@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313141,
+    "wof:geomhash":"af3fdba035ea8f591f7e85d4b570c3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85820691,
+            "region_id":85688509,
+            "venue_id":874228083
+        }
+    ],
+    "wof:id":874228083,
+    "wof:lastmodified":1464313141,
+    "wof:name":"Dina Flam",
+    "wof:parent_id":85820691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.513945,
+    41.609773,
+    -71.513945,
+    41.609773
+],
+  "geometry": {"coordinates":[-71.51394500000001,41.609773],"type":"Point"}
+}

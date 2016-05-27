@@ -1,0 +1,77 @@
+{
+  "id": 874057639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515428,41.472072,-71.515428,41.472072",
+    "geom:latitude":41.472072,
+    "geom:longitude":-71.515428,
+    "iso:country":"US",
+    "sg:address":"2360 Kingstown Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9614",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wWtMfrwwSamddMb7w1hTb_41.472072_-71.515428@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311314,
+    "wof:geomhash":"3cd4dd703588a2149c9ee7844b2c7b55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874057639
+        }
+    ],
+    "wof:id":874057639,
+    "wof:lastmodified":1464311314,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.515428,
+    41.472072,
+    -71.515428,
+    41.472072
+],
+  "geometry": {"coordinates":[-71.515428,41.472072],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874227697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43015,41.850256,-71.43015,41.850256",
+    "geom:latitude":41.850256,
+    "geom:longitude":-71.43015,
+    "iso:country":"US",
+    "sg:address":"20 Lancashire St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 3828",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5exfBAhqBWtDvvZZHDqWZ9_41.850256_-71.430150@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313137,
+    "wof:geomhash":"674eb3abb48284dc869439ec55a3422f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874227697
+        }
+    ],
+    "wof:id":874227697,
+    "wof:lastmodified":1464313137,
+    "wof:name":"EKG Enterprises",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -71.43015,
+    41.850256,
+    -71.43015,
+    41.850256
+],
+  "geometry": {"coordinates":[-71.43015,41.850256],"type":"Point"}
+}

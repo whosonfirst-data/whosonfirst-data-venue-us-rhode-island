@@ -1,0 +1,73 @@
+{
+  "id": 874021541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.522463,42.053349,-71.522463,42.053349",
+    "geom:latitude":42.053349,
+    "geom:longitude":-71.522463,
+    "iso:country":"US",
+    "sg:address":"193 Elm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 9274",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6btmuZ04ZGuLO6xzRQjsmW_42.053349_-71.522463@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310960,
+    "wof:geomhash":"942deca06250b5b099b14155796e5280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874021541
+        }
+    ],
+    "wof:id":874021541,
+    "wof:lastmodified":1464310960,
+    "wof:name":"Felix's Automotive Frame Rpr",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.522463,
+    42.053349,
+    -71.522463,
+    42.053349
+],
+  "geometry": {"coordinates":[-71.522463,42.053349],"type":"Point"}
+}

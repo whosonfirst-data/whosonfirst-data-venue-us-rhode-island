@@ -1,0 +1,71 @@
+{
+  "id": 874251607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462376,41.828867,-71.462376,41.828867",
+    "geom:latitude":41.828867,
+    "geom:longitude":-71.462376,
+    "iso:country":"US",
+    "sg:address":"688 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 9182",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YiUVp81Iw6bY2YK4wsuer_41.828867_-71.462376@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313597,
+    "wof:geomhash":"12febf71de343b654963602ec8caa268",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874251607
+        }
+    ],
+    "wof:id":874251607,
+    "wof:lastmodified":1464313597,
+    "wof:name":"Elegant Auto",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.462376,
+    41.828867,
+    -71.462376,
+    41.828867
+],
+  "geometry": {"coordinates":[-71.46237600000001,41.828867],"type":"Point"}
+}

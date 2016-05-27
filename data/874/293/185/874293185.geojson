@@ -1,0 +1,91 @@
+{
+  "id": 874293185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272971,41.750113,-71.272971,41.750113",
+    "geom:latitude":41.750113,
+    "geom:longitude":-71.272971,
+    "iso:country":"US",
+    "sg:address":"7 Commercial Way",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3110",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "jig",
+        "die",
+        "fixture",
+        "machine",
+        "automobile",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zbQOccF2ks9acjAiqSh5r_41.750113_-71.272971@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315130,
+    "wof:geomhash":"f520274f0f7a6ff7dc2426c570b315b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874293185
+        }
+    ],
+    "wof:id":874293185,
+    "wof:lastmodified":1464315130,
+    "wof:name":"Rapidie Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "jig",
+        "die",
+        "fixture",
+        "machine",
+        "automobile",
+        "maker"
+    ]
+},
+  "bbox": [
+    -71.272971,
+    41.750113,
+    -71.272971,
+    41.750113
+],
+  "geometry": {"coordinates":[-71.272971,41.750113],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874003279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459091,41.726525,-71.459091,41.726525",
+    "geom:latitude":41.726525,
+    "geom:longitude":-71.459091,
+    "iso:country":"US",
+    "sg:address":"20 Altieri Way",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 277 7090",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "newspaper",
+        "publishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ALYM1UYziNvaKdAOT6fDp_41.726525_-71.459091@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310795,
+    "wof:geomhash":"886b81a592922beda0c06e7ef07ef527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874003279
+        }
+    ],
+    "wof:id":874003279,
+    "wof:lastmodified":1464310795,
+    "wof:name":"Providence Journal Company",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper",
+        "publishing"
+    ]
+},
+  "bbox": [
+    -71.459091,
+    41.726525,
+    -71.459091,
+    41.726525
+],
+  "geometry": {"coordinates":[-71.459091,41.726525],"type":"Point"}
+}

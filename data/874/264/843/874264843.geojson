@@ -1,0 +1,75 @@
+{
+  "id": 874264843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.314377,41.490287,-71.314377,41.490287",
+    "geom:latitude":41.490287,
+    "geom:longitude":-71.314377,
+    "iso:country":"US",
+    "sg:address":"19 Charles St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 6669",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MO6IUx4GLK0PomM0PK0GG_41.490287_-71.314377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314028,
+    "wof:geomhash":"da6f8a976229861b656605520fec107e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874264843
+        }
+    ],
+    "wof:id":874264843,
+    "wof:lastmodified":1464314028,
+    "wof:name":"La Petite Auberage Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.314377,
+    41.490287,
+    -71.314377,
+    41.490287
+],
+  "geometry": {"coordinates":[-71.31437699999999,41.490287],"type":"Point"}
+}

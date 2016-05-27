@@ -1,0 +1,81 @@
+{
+  "id": 874298791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425302,41.852434,-71.425302,41.852434",
+    "geom:latitude":41.852434,
+    "geom:longitude":-71.425302,
+    "iso:country":"US",
+    "sg:address":"650 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 0127",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VvzooPkJS5ciUwek0U8dZ_41.852434_-71.425302@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315348,
+    "wof:geomhash":"a1b8ceeab804b80cca42a5cf33a50f3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874298791
+        }
+    ],
+    "wof:id":874298791,
+    "wof:lastmodified":1464315348,
+    "wof:name":"Subway",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.425302,
+    41.852434,
+    -71.425302,
+    41.852434
+],
+  "geometry": {"coordinates":[-71.425302,41.852434],"type":"Point"}
+}

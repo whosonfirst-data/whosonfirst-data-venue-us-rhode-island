@@ -1,0 +1,73 @@
+{
+  "id": 874235791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283472,41.729456,-71.283472,41.729456",
+    "geom:latitude":41.729456,
+    "geom:longitude":-71.283472,
+    "iso:country":"US",
+    "sg:address":"8 State St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0772",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jICXuyKEDOl9IXiadbpIz_41.729456_-71.283472@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313257,
+    "wof:geomhash":"897e05000329f0c6fa9f9384a4f507f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874235791
+        }
+    ],
+    "wof:id":874235791,
+    "wof:lastmodified":1464313257,
+    "wof:name":"Pawsitively Pets Grooming",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.283472,
+    41.729456,
+    -71.283472,
+    41.729456
+],
+  "geometry": {"coordinates":[-71.283472,41.729456],"type":"Point"}
+}

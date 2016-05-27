@@ -1,0 +1,71 @@
+{
+  "id": 874010077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.531633,41.486763,-71.531633,41.486763",
+    "geom:latitude":41.486763,
+    "geom:longitude":-71.531633,
+    "iso:country":"US",
+    "sg:address":"6 Butterfield Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8738",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29lFn7rUrtN8iNHXaMcydx_41.486763_-71.531633@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310856,
+    "wof:geomhash":"754f3a58de3d98d0e553bc32a5ed29d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874010077
+        }
+    ],
+    "wof:id":874010077,
+    "wof:lastmodified":1464310856,
+    "wof:name":"Lab Corp",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.531633,
+    41.486763,
+    -71.531633,
+    41.486763
+],
+  "geometry": {"coordinates":[-71.531633,41.486763],"type":"Point"}
+}

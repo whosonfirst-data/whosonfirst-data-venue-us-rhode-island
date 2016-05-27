@@ -1,0 +1,77 @@
+{
+  "id": 874267005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406192,41.823661,-71.406192,41.823661",
+    "geom:latitude":41.823661,
+    "geom:longitude":-71.406192,
+    "iso:country":"US",
+    "sg:address":"72 S Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 0640",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "reporting",
+        "court"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yMPrjf690EEpEkga0ff3W_41.823661_-71.406192@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314106,
+    "wof:geomhash":"a241158200a777a7c18598cc18a8ad7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874267005
+        }
+    ],
+    "wof:id":874267005,
+    "wof:lastmodified":1464314106,
+    "wof:name":"Catuogno Court Reporting Svc",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reporting",
+        "court"
+    ]
+},
+  "bbox": [
+    -71.406192,
+    41.823661,
+    -71.406192,
+    41.823661
+],
+  "geometry": {"coordinates":[-71.406192,41.823661],"type":"Point"}
+}

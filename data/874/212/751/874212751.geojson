@@ -1,0 +1,69 @@
+{
+  "id": 874212751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429678,41.492438,-71.429678,41.492438",
+    "geom:latitude":41.492438,
+    "geom:longitude":-71.429678,
+    "iso:country":"US",
+    "sg:address":"220 S Ferry Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 874 6842",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849661,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R7PTwUhLnJ7ePBgBFFEeM_41.492438_-71.429678@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312982,
+    "wof:geomhash":"4c236e33823de4a2aa41866faa03ac6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849661,
+            "region_id":85688509,
+            "venue_id":874212751
+        }
+    ],
+    "wof:id":874212751,
+    "wof:lastmodified":1464312982,
+    "wof:name":"Rhode Island Sea Grant Publica",
+    "wof:parent_id":85849661,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.429678,
+    41.492438,
+    -71.429678,
+    41.492438
+],
+  "geometry": {"coordinates":[-71.429678,41.492438],"type":"Point"}
+}

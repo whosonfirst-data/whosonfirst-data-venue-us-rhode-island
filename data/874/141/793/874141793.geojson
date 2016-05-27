@@ -1,0 +1,71 @@
+{
+  "id": 874141793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551165,41.694687,-71.551165,41.694687",
+    "geom:latitude":41.694687,
+    "geom:longitude":-71.551165,
+    "iso:country":"US",
+    "sg:address":"700 Washington St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 0095",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VYlA8x65dhzUqbSJE9dk4_41.694687_-71.551165@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312251,
+    "wof:geomhash":"401fcf3292e672eac550028765a2572e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874141793
+        }
+    ],
+    "wof:id":874141793,
+    "wof:lastmodified":1464312251,
+    "wof:name":"Little House Of Consignment",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -71.551165,
+    41.694687,
+    -71.551165,
+    41.694687
+],
+  "geometry": {"coordinates":[-71.551165,41.694687],"type":"Point"}
+}

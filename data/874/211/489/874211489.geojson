@@ -1,0 +1,73 @@
+{
+  "id": 874211489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283753,41.552235,-71.283753,41.552235",
+    "geom:latitude":41.552235,
+    "geom:longitude":-71.283753,
+    "iso:country":"US",
+    "sg:address":"32 Perrault St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 6354",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment",
+        "complex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WUlMbZkIAqOnuPLUSxr0c_41.552235_-71.283753@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312968,
+    "wof:geomhash":"d86de266b47195cdc212b89713143f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874211489
+        }
+    ],
+    "wof:id":874211489,
+    "wof:lastmodified":1464312968,
+    "wof:name":"Seabury Apartments",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "complex"
+    ]
+},
+  "bbox": [
+    -71.283753,
+    41.552235,
+    -71.283753,
+    41.552235
+],
+  "geometry": {"coordinates":[-71.283753,41.552235],"type":"Point"}
+}

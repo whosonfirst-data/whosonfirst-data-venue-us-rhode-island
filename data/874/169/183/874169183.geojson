@@ -1,0 +1,77 @@
+{
+  "id": 874169183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471927,41.825834,-71.471927,41.825834",
+    "geom:latitude":41.825834,
+    "geom:longitude":-71.471927,
+    "iso:country":"US",
+    "sg:address":"577 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 0630",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "export",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gj19h4bsf9tt35gq9Ih66_41.825834_-71.471927@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"96bc90ed9908827592f73ba24e68edcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874169183
+        }
+    ],
+    "wof:id":874169183,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Global Auto Sales Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "export",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.471927,
+    41.825834,
+    -71.471927,
+    41.825834
+],
+  "geometry": {"coordinates":[-71.47192699999999,41.825834],"type":"Point"}
+}

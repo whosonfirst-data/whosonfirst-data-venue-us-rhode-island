@@ -1,0 +1,73 @@
+{
+  "id": 874282579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477095,41.835138,-71.477095,41.835138",
+    "geom:latitude":41.835138,
+    "geom:longitude":-71.477095,
+    "iso:country":"US",
+    "sg:address":"119 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9694",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LspYioXBqWIk5y2QI8cWE_41.835087_-71.477356@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314726,
+    "wof:geomhash":"613b8ccaa2561216e793eda41c73e61c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874282579
+        }
+    ],
+    "wof:id":874282579,
+    "wof:lastmodified":1464314726,
+    "wof:name":"Hawk Auto Service Center",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.477095,
+    41.835138,
+    -71.477095,
+    41.835138
+],
+  "geometry": {"coordinates":[-71.47709500000001,41.835138],"type":"Point"}
+}

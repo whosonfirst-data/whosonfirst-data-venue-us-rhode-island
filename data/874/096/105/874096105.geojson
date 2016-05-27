@@ -1,0 +1,79 @@
+{
+  "id": 874096105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440376,41.728996,-71.440376,41.728996",
+    "geom:latitude":41.728996,
+    "geom:longitude":-71.440376,
+    "iso:country":"US",
+    "sg:address":"84 Kilvert St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 2657",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BmUFMKPSdznZiP3tjqZsU_41.728996_-71.440376@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311730,
+    "wof:geomhash":"263bd199ccd60ce9ef32b30e4b4b0acf",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874096105
+        }
+    ],
+    "wof:id":874096105,
+    "wof:lastmodified":1464311730,
+    "wof:name":"Atlas Music Corp",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.440376,
+    41.728996,
+    -71.440376,
+    41.728996
+],
+  "geometry": {"coordinates":[-71.440376,41.728996],"type":"Point"}
+}

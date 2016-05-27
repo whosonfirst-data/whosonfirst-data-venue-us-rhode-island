@@ -1,0 +1,79 @@
+{
+  "id": 874257807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.59103,41.855467,-71.59103,41.855467",
+    "geom:latitude":41.855467,
+    "geom:longitude":-71.59103,
+    "iso:country":"US",
+    "sg:address":"136 Pole Bridge Rd",
+    "sg:city":"North Scituate",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 934 2112",
+    "sg:postcode":"02857",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ge5wX9QunRp7Gp2hQTxz3_41.855467_-71.591030@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313762,
+    "wof:geomhash":"d3d9aeda1656bebddf2d63b36a1a1b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874257807
+        }
+    ],
+    "wof:id":874257807,
+    "wof:lastmodified":1464313762,
+    "wof:name":"Baffoni Trucking",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.59103,
+    41.855467,
+    -71.59103,
+    41.855467
+],
+  "geometry": {"coordinates":[-71.59103,41.855467],"type":"Point"}
+}

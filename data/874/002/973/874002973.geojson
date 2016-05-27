@@ -1,0 +1,71 @@
+{
+  "id": 874002973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444634,41.934834,-71.444634,41.934834",
+    "geom:latitude":41.934834,
+    "geom:longitude":-71.444634,
+    "iso:country":"US",
+    "sg:address":"662 George Washington Hwy",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 0957",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QFZXiVtBWnX8lZTI1WKjz_41.934834_-71.444634@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310792,
+    "wof:geomhash":"60c05a043b577dec23ef21340c4a89de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874002973
+        }
+    ],
+    "wof:id":874002973,
+    "wof:lastmodified":1464310792,
+    "wof:name":"Computer Ed Business Ctr",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.444634,
+    41.934834,
+    -71.444634,
+    41.934834
+],
+  "geometry": {"coordinates":[-71.44463399999999,41.934834],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874305127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40303,41.849976,-71.40303,41.849976",
+    "geom:latitude":41.849976,
+    "geom:longitude":-71.40303,
+    "iso:country":"US",
+    "sg:address":"One Richmond Square",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 8000",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:website":"http://dynadec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t7uqX3ylzcXbyJU8Q6cP9_41.849976_-71.403030@1308186499"
+    },
+    "wof:country":"US",
+    "wof:created":1464315568,
+    "wof:geomhash":"2d54d916ba3d8f3223c483a4a81bef19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874305127
+        }
+    ],
+    "wof:id":874305127,
+    "wof:lastmodified":1464315568,
+    "wof:name":"Dynadec",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.40303,
+    41.849976,
+    -71.40303,
+    41.849976
+],
+  "geometry": {"coordinates":[-71.40303,41.849976],"type":"Point"}
+}

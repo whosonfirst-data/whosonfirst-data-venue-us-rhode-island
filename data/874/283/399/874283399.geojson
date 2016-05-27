@@ -1,0 +1,71 @@
+{
+  "id": 874283399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472382,41.827198,-71.472382,41.827198",
+    "geom:latitude":41.827198,
+    "geom:longitude":-71.472382,
+    "iso:country":"US",
+    "sg:address":"595 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 2424",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_256eiIcAod3B71HB9SeRRU_41.826664_-71.472237@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314753,
+    "wof:geomhash":"5cb90d7f296a34941be1a5ed7cbaf147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874283399
+        }
+    ],
+    "wof:id":874283399,
+    "wof:lastmodified":1464314753,
+    "wof:name":"Shear Ecstacy Hair Salon",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.472382,
+    41.827198,
+    -71.472382,
+    41.827198
+],
+  "geometry": {"coordinates":[-71.472382,41.827198],"type":"Point"}
+}

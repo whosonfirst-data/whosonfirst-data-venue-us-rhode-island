@@ -1,0 +1,77 @@
+{
+  "id": 873987985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4477,41.47457,-71.4477,41.47457",
+    "geom:latitude":41.47457,
+    "geom:longitude":-71.4477,
+    "iso:country":"US",
+    "sg:address":"70 S River Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0541",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mqb9IOfrpJS8OK7X5Gxah_41.474570_-71.447700@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310675,
+    "wof:geomhash":"e06488f7072019dc7d8fa66d6af720a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":873987985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":873987985
+        }
+    ],
+    "wof:id":873987985,
+    "wof:lastmodified":1464310675,
+    "wof:name":"Bonnett Liquors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.4477,
+    41.47457,
+    -71.4477,
+    41.47457
+],
+  "geometry": {"coordinates":[-71.4477,41.47457],"type":"Point"}
+}

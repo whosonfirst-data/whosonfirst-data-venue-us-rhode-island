@@ -1,0 +1,93 @@
+{
+  "id": 874301615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431813,41.804623,-71.431813,41.804623",
+    "geom:latitude":41.804623,
+    "geom:longitude":-71.431813,
+    "iso:country":"US",
+    "sg:address":"68 Salem St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1200",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "salvage",
+        "metals-wholesale",
+        "metal",
+        "surplus",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X1XayV1QC9GiyoH0cuSUB_41.804623_-71.431813@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315451,
+    "wof:geomhash":"7794099c0f31e96e7d2964f51ad70a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874301615
+        }
+    ],
+    "wof:id":874301615,
+    "wof:lastmodified":1464315451,
+    "wof:name":"Aluminum & Copper Recycling",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage",
+        "metals-wholesale",
+        "metal",
+        "surplus",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.431813,
+    41.804623,
+    -71.431813,
+    41.804623
+],
+  "geometry": {"coordinates":[-71.43181300000001,41.804623],"type":"Point"}
+}

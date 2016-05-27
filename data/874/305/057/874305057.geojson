@@ -1,0 +1,104 @@
+{
+  "id": 874305057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.467163,41.781929,-71.467163,41.781929",
+    "geom:latitude":41.781929,
+    "geom:longitude":-71.467163,
+    "iso:country":"US",
+    "sg:address":"39 Phenix Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 4140",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "style",
+        "family",
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "party",
+        "meeting",
+        "banquet",
+        "italian"
+    ],
+    "sg:website":"http://www.tony-papa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qElzvTl8ucl06pqwl19Wq_41.781929_-71.467163@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315566,
+    "wof:geomhash":"7e2584493e307565fab4bccb2b1bfd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874305057
+        }
+    ],
+    "wof:id":874305057,
+    "wof:lastmodified":1464315566,
+    "wof:name":"Tony Papa's",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family",
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "party",
+        "meeting",
+        "banquet",
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.467163,
+    41.781929,
+    -71.467163,
+    41.781929
+],
+  "geometry": {"coordinates":[-71.467163,41.781929],"type":"Point"}
+}

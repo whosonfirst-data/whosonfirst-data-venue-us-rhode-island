@@ -1,0 +1,77 @@
+{
+  "id": 874223629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450417,41.567413,-71.450417,41.567413",
+    "geom:latitude":41.567413,
+    "geom:longitude":-71.450417,
+    "iso:country":"US",
+    "sg:address":"51 Gregory Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4623",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x3lrxIGSMcR9s8okdZewY_41.567413_-71.450417@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313099,
+    "wof:geomhash":"51751f7e28362b0f27386546c8231c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874223629
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874223629
+        }
+    ],
+    "wof:id":874223629,
+    "wof:lastmodified":1464313099,
+    "wof:name":"Colonial Liquor Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.450417,
+    41.567413,
+    -71.450417,
+    41.567413
+],
+  "geometry": {"coordinates":[-71.450417,41.567413],"type":"Point"}
+}

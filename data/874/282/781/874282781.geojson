@@ -1,0 +1,76 @@
+{
+  "id": 874282781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.677455,41.96635,-71.677455,41.96635",
+    "geom:latitude":41.96635,
+    "geom:longitude":-71.677455,
+    "iso:country":"US",
+    "sg:address":"485 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 6888",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wgEAv9232ydlXPklHboCg_41.966153_-71.677972@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314733,
+    "wof:geomhash":"2e8704e1005943c1e5b5decbb6284c14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874282781
+        }
+    ],
+    "wof:id":874282781,
+    "wof:lastmodified":1464314733,
+    "wof:name":"Li'l General Store",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.677455,
+    41.96635,
+    -71.677455,
+    41.96635
+],
+  "geometry": {"coordinates":[-71.67745499999999,41.96635],"type":"Point"}
+}

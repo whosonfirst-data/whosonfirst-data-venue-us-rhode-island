@@ -1,0 +1,86 @@
+{
+  "id": 874054641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420242,41.807247,-71.420242,41.807247",
+    "geom:latitude":41.807247,
+    "geom:longitude":-71.420242,
+    "iso:country":"US",
+    "sg:address":"599 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 7576",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "eating",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zz7SgjXtgNBHu4KQDWwKG_41.807247_-71.420242@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311289,
+    "wof:geomhash":"a51ec9a1de7d46c92ce2be83df2cf86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874054641
+        }
+    ],
+    "wof:id":874054641,
+    "wof:lastmodified":1464311289,
+    "wof:name":"Ann's Rest Home",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "eating",
+        "community"
+    ]
+},
+  "bbox": [
+    -71.420242,
+    41.807247,
+    -71.420242,
+    41.807247
+],
+  "geometry": {"coordinates":[-71.420242,41.807247],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874278011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488334,41.826344,-71.488334,41.826344",
+    "geom:latitude":41.826344,
+    "geom:longitude":-71.488334,
+    "iso:country":"US",
+    "sg:address":"14 Birchwood Dr",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 2567",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DM2BtqMm40FFnLUvZh6V3_41.826344_-71.488334@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314539,
+    "wof:geomhash":"f0edb4e18b050b004645edc075d5cfd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874278011
+        }
+    ],
+    "wof:id":874278011,
+    "wof:lastmodified":1464314539,
+    "wof:name":"Ocean State Gifts",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.488334,
+    41.826344,
+    -71.488334,
+    41.826344
+],
+  "geometry": {"coordinates":[-71.48833399999999,41.826344],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874300051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.392227,41.822075,-71.392227,41.822075",
+    "geom:latitude":41.822075,
+    "geom:longitude":-71.392227,
+    "iso:country":"US",
+    "sg:address":"146 Ives Street",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 9000",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "barbeque"
+    ],
+    "sg:website":"www.unitedbbq.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ceNZDHU3HFFMRFOGIVu26_41.822075_-71.392227@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315391,
+    "wof:geomhash":"771be7ef96bf5ab0f0bdb3530eb66c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874300051
+        }
+    ],
+    "wof:id":874300051,
+    "wof:lastmodified":1464315391,
+    "wof:name":"United BBQ",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbeque"
+    ]
+},
+  "bbox": [
+    -71.392227,
+    41.822075,
+    -71.392227,
+    41.822075
+],
+  "geometry": {"coordinates":[-71.39222700000001,41.822075],"type":"Point"}
+}

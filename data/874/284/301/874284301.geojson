@@ -1,0 +1,77 @@
+{
+  "id": 874284301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428605,41.846143,-71.428605,41.846143",
+    "geom:latitude":41.846143,
+    "geom:longitude":-71.428605,
+    "iso:country":"US",
+    "sg:address":"375 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 6655",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s5UT2iY2n1Tk4JC3b7woK_41.846039_-71.428669@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314784,
+    "wof:geomhash":"924d71607970c3a2fc2135c2f99ad742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874284301
+        }
+    ],
+    "wof:id":874284301,
+    "wof:lastmodified":1464314784,
+    "wof:name":"Lily's Spa",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.428605,
+    41.846143,
+    -71.428605,
+    41.846143
+],
+  "geometry": {"coordinates":[-71.428605,41.846143],"type":"Point"}
+}

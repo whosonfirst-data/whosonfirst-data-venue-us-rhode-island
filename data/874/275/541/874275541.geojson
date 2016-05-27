@@ -1,0 +1,77 @@
+{
+  "id": 874275541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433703,41.828791,-71.433703,41.828791",
+    "geom:latitude":41.828791,
+    "geom:longitude":-71.433703,
+    "iso:country":"US",
+    "sg:address":"466 Valley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 7613",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l6jEMTRBaBATUCi2W7ZtH_41.828791_-71.433703@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314428,
+    "wof:geomhash":"6fc06dc42b5cf3ba95d786d6b81fd937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874275541
+        }
+    ],
+    "wof:id":874275541,
+    "wof:lastmodified":1464314428,
+    "wof:name":"Valley Street Auto Sales",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.433703,
+    41.828791,
+    -71.433703,
+    41.828791
+],
+  "geometry": {"coordinates":[-71.43370299999999,41.828791],"type":"Point"}
+}

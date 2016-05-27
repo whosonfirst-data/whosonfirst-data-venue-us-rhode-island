@@ -1,0 +1,77 @@
+{
+  "id": 873981515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.498207,41.993562,-71.498207,41.993562",
+    "geom:latitude":41.993562,
+    "geom:longitude":-71.498207,
+    "iso:country":"US",
+    "sg:address":"356 Rhode Island Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 7583",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wbKuY7KkSbZlqYhKDo8ka_41.993562_-71.498207@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310610,
+    "wof:geomhash":"b08ce1c33ec8129d5f52e0806f4d1b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":873981515
+        }
+    ],
+    "wof:id":873981515,
+    "wof:lastmodified":1464310610,
+    "wof:name":"Woonsocket Disposal & Quik Box",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.498207,
+    41.993562,
+    -71.498207,
+    41.993562
+],
+  "geometry": {"coordinates":[-71.49820699999999,41.993562],"type":"Point"}
+}

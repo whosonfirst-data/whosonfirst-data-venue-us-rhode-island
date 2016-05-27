@@ -1,0 +1,71 @@
+{
+  "id": 873995061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.699974,41.514701,-71.699974,41.514701",
+    "geom:latitude":41.514701,
+    "geom:longitude":-71.699974,
+    "iso:country":"US",
+    "sg:address":"1136 Main St",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 5002",
+    "sg:postcode":"02898",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uvPSBfplHycKnDfZdshBh_41.514701_-71.699974@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310726,
+    "wof:geomhash":"5b9b70afd94a5a9613ea3ff8a196282c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":873995061
+        }
+    ],
+    "wof:id":873995061,
+    "wof:lastmodified":1464310726,
+    "wof:name":"Richmond Sports",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sport"
+    ]
+},
+  "bbox": [
+    -71.699974,
+    41.514701,
+    -71.699974,
+    41.514701
+],
+  "geometry": {"coordinates":[-71.699974,41.514701],"type":"Point"}
+}

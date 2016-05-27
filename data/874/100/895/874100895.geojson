@@ -1,0 +1,73 @@
+{
+  "id": 874100895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.282207,41.729232,-71.282207,41.729232",
+    "geom:latitude":41.729232,
+    "geom:longitude":-71.282207,
+    "iso:country":"US",
+    "sg:address":"504 Main St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3966",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18c24tSuIwpSYXt0cKegC1_41.729232_-71.282207@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311806,
+    "wof:geomhash":"4f64a205673a3a13d33b2f85bad1e65c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874100895
+        }
+    ],
+    "wof:id":874100895,
+    "wof:lastmodified":1464311806,
+    "wof:name":"Main Street Electronics",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.282207,
+    41.729232,
+    -71.282207,
+    41.729232
+],
+  "geometry": {"coordinates":[-71.282207,41.729232],"type":"Point"}
+}

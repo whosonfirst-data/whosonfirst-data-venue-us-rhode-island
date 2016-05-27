@@ -1,0 +1,73 @@
+{
+  "id": 874254921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472541,41.827988,-71.472541,41.827988",
+    "geom:latitude":41.827988,
+    "geom:longitude":-71.472541,
+    "iso:country":"US",
+    "sg:address":"622 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 0020",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aDNFPzY7quoYPEz8VqARC_41.827988_-71.472541@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313673,
+    "wof:geomhash":"75492e69a903a90c9f8a821883dcf7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874254921
+        }
+    ],
+    "wof:id":874254921,
+    "wof:lastmodified":1464313673,
+    "wof:name":"Joint Java",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -71.472541,
+    41.827988,
+    -71.472541,
+    41.827988
+],
+  "geometry": {"coordinates":[-71.47254100000001,41.827988],"type":"Point"}
+}

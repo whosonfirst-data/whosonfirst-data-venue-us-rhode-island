@@ -1,0 +1,71 @@
+{
+  "id": 874233461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397069,41.878018,-71.397069,41.878018",
+    "geom:latitude":41.878018,
+    "geom:longitude":-71.397069,
+    "iso:country":"US",
+    "sg:address":"5 Carpenter St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 5839",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ILS7lRmQda0Ff1V6oYW5b_41.878018_-71.397069@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313208,
+    "wof:geomhash":"9094958b51c8254fcdf9011cb401146c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874233461
+        }
+    ],
+    "wof:id":874233461,
+    "wof:lastmodified":1464313208,
+    "wof:name":"Nulco Lighting",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -71.397069,
+    41.878018,
+    -71.397069,
+    41.878018
+],
+  "geometry": {"coordinates":[-71.397069,41.878018],"type":"Point"}
+}

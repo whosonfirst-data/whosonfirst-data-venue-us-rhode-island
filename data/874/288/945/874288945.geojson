@@ -1,0 +1,87 @@
+{
+  "id": 874288945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536392,41.86676,-71.536392,41.86676",
+    "geom:latitude":41.86676,
+    "geom:longitude":-71.536392,
+    "iso:country":"US",
+    "sg:address":"37 Lark Industrial Pkwy B",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5332",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "audio-visual",
+        "stereo",
+        "equipment-wholesale",
+        "video",
+        "equipment-dealers",
+        "audio",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.videologyinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TPjFoIWHGHNEkjxdzzm9N_41.866760_-71.536392@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314975,
+    "wof:geomhash":"c6502d35e84aff20eaf5fdfaad50ae08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874288945
+        }
+    ],
+    "wof:id":874288945,
+    "wof:lastmodified":1464314975,
+    "wof:name":"Videology",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio-visual",
+        "stereo",
+        "equipment-wholesale",
+        "video",
+        "equipment-dealers",
+        "audio",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.536392,
+    41.86676,
+    -71.536392,
+    41.86676
+],
+  "geometry": {"coordinates":[-71.53639200000001,41.86676],"type":"Point"}
+}

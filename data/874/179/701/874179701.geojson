@@ -1,0 +1,73 @@
+{
+  "id": 874179701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484657,41.857822,-71.484657,41.857822",
+    "geom:latitude":41.857822,
+    "geom:longitude":-71.484657,
+    "iso:country":"US",
+    "sg:address":"2001 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2140",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YTyIT7xHbD4s93z4jtx7g_41.857822_-71.484657@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312627,
+    "wof:geomhash":"d7743d27ae99e5bf7156da6d6c09c14c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874179701
+        }
+    ],
+    "wof:id":874179701,
+    "wof:lastmodified":1464312627,
+    "wof:name":"Pets II",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.484657,
+    41.857822,
+    -71.484657,
+    41.857822
+],
+  "geometry": {"coordinates":[-71.484657,41.857822],"type":"Point"}
+}

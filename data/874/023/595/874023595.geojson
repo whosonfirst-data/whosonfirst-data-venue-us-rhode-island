@@ -1,0 +1,70 @@
+{
+  "id": 874023595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.298221,41.523733,-71.298221,41.523733",
+    "geom:latitude":41.523733,
+    "geom:longitude":-71.298221,
+    "iso:country":"US",
+    "sg:address":"700 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 1573",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dII5KRcvQG2z3hJNV9kOk_41.523733_-71.298221@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310979,
+    "wof:geomhash":"eb493e9c9e2397e90900174e84c01a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874023595
+        }
+    ],
+    "wof:id":874023595,
+    "wof:lastmodified":1464310979,
+    "wof:name":"Middletown Public Library",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.298221,
+    41.523733,
+    -71.298221,
+    41.523733
+],
+  "geometry": {"coordinates":[-71.298221,41.523733],"type":"Point"}
+}

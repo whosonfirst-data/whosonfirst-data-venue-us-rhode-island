@@ -1,0 +1,75 @@
+{
+  "id": 874282909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482002,41.858501,-71.482002,41.858501",
+    "geom:latitude":41.858501,
+    "geom:longitude":-71.482002,
+    "iso:country":"US",
+    "sg:address":"2204 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 7500",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17d6LnDt3ZTbTf9tA31xiO_41.858304_-71.482070@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314737,
+    "wof:geomhash":"aff64d2bcf8301aa03fa75abb90e902d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874282909
+        }
+    ],
+    "wof:id":874282909,
+    "wof:lastmodified":1464314737,
+    "wof:name":"Home Owners Link",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage",
+        "loan",
+        "broker",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.482002,
+    41.858501,
+    -71.482002,
+    41.858501
+],
+  "geometry": {"coordinates":[-71.48200199999999,41.858501],"type":"Point"}
+}

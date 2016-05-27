@@ -1,0 +1,71 @@
+{
+  "id": 874076393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.710325,41.526768,-71.710325,41.526768",
+    "geom:latitude":41.526768,
+    "geom:longitude":-71.710325,
+    "iso:country":"US",
+    "sg:address":"33 Lisa Ln",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7628",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rz9N0B82xYu6eA6ATBz1s_41.526768_-71.710325@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311515,
+    "wof:geomhash":"07c31839d4519cc73eef978b7e341d33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":874076393
+        }
+    ],
+    "wof:id":874076393,
+    "wof:lastmodified":1464311515,
+    "wof:name":"Devereaux Electric Inc",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.710325,
+    41.526768,
+    -71.710325,
+    41.526768
+],
+  "geometry": {"coordinates":[-71.710325,41.526768],"type":"Point"}
+}

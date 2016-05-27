@@ -1,0 +1,71 @@
+{
+  "id": 874184903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272389,41.730547,-71.272389,41.730547",
+    "geom:latitude":41.730547,
+    "geom:longitude":-71.272389,
+    "iso:country":"US",
+    "sg:address":"10 Central St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 0452",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cNzp2AVjdeJIf1wdBamnO_41.730547_-71.272389@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312690,
+    "wof:geomhash":"0db76d1185eddf87bc5804db235ef011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874184903
+        }
+    ],
+    "wof:id":874184903,
+    "wof:lastmodified":1464312690,
+    "wof:name":"RIPICO Builders",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.272389,
+    41.730547,
+    -71.272389,
+    41.730547
+],
+  "geometry": {"coordinates":[-71.272389,41.730547],"type":"Point"}
+}

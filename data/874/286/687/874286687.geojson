@@ -1,0 +1,71 @@
+{
+  "id": 874286687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49467,41.662847,-71.49467,41.662847",
+    "geom:latitude":41.662847,
+    "geom:longitude":-71.49467,
+    "iso:country":"US",
+    "sg:address":"1000 Division Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/201229-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MQH6tofu5g6JHnzlHUrwt_41.662847_-71.494670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314879,
+    "wof:geomhash":"6b0c47e07026d0a81bcb8e609854d2ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874286687
+        }
+    ],
+    "wof:id":874286687,
+    "wof:lastmodified":1464314879,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.49467,
+    41.662847,
+    -71.49467,
+    41.662847
+],
+  "geometry": {"coordinates":[-71.49467,41.662847],"type":"Point"}
+}

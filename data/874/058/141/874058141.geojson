@@ -1,0 +1,76 @@
+{
+  "id": 874058141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534011,41.572417,-71.534011,41.572417",
+    "geom:latitude":41.572417,
+    "geom:longitude":-71.534011,
+    "iso:country":"US",
+    "sg:address":"93 Cedar Grove Dr",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7900",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hlT8l3HSed4FR4zDxEqvG_41.572417_-71.534011@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311319,
+    "wof:geomhash":"3fb61d355e63db461a25a9b098e15f5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874058141
+        }
+    ],
+    "wof:id":874058141,
+    "wof:lastmodified":1464311319,
+    "wof:name":"United Associates Ltd",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.534011,
+    41.572417,
+    -71.534011,
+    41.572417
+],
+  "geometry": {"coordinates":[-71.53401100000001,41.572417],"type":"Point"}
+}

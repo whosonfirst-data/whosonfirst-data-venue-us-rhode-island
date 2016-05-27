@@ -1,0 +1,86 @@
+{
+  "id": 873984795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502724,41.44379,-71.502724,41.44379",
+    "geom:latitude":41.44379,
+    "geom:longitude":-71.502724,
+    "iso:country":"US",
+    "sg:address":"236 High St",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 9020",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7496wIPATf40usZdvOXg6E_41.443790_-71.502724@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310648,
+    "wof:geomhash":"dc4bd8ea92f56edd9e4e8e4fe366fc75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":873984795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":873984795
+        }
+    ],
+    "wof:id":873984795,
+    "wof:lastmodified":1464310648,
+    "wof:name":"Ethnic Concepts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.502724,
+    41.44379,
+    -71.502724,
+    41.44379
+],
+  "geometry": {"coordinates":[-71.502724,41.44379],"type":"Point"}
+}

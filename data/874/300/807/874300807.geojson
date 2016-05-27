@@ -1,0 +1,81 @@
+{
+  "id": 874300807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.387501,41.826656,-71.387501,41.826656",
+    "geom:latitude":41.826656,
+    "geom:longitude":-71.387501,
+    "iso:country":"US",
+    "sg:address":"133 Pitman St Riverview Place",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 7008",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.luminoussalonandspa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xt94EB9wPtRJp5eTr92qk_41.826656_-71.387501@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315416,
+    "wof:geomhash":"8b7cd97071526ca5cc850a704034f8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874300807
+        }
+    ],
+    "wof:id":874300807,
+    "wof:lastmodified":1464315416,
+    "wof:name":"Luminous Salon & Spa",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -71.387501,
+    41.826656,
+    -71.387501,
+    41.826656
+],
+  "geometry": {"coordinates":[-71.387501,41.826656],"type":"Point"}
+}

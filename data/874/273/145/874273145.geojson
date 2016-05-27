@@ -1,0 +1,71 @@
+{
+  "id": 874273145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.619655,41.409839,-71.619655,41.409839",
+    "geom:latitude":41.409839,
+    "geom:longitude":-71.619655,
+    "iso:country":"US",
+    "sg:address":"55 Old Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 787 5790",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jRUm5KBI95oHken1r9Qgl_41.409839_-71.619655@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314334,
+    "wof:geomhash":"6aa307017d132763476dd01df51c13d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874273145
+        }
+    ],
+    "wof:id":874273145,
+    "wof:lastmodified":1464314334,
+    "wof:name":"R I Ductmasters",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.619655,
+    41.409839,
+    -71.619655,
+    41.409839
+],
+  "geometry": {"coordinates":[-71.61965499999999,41.409839],"type":"Point"}
+}

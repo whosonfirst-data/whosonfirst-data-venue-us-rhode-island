@@ -1,0 +1,88 @@
+{
+  "id": 874285687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403778,41.798468,-71.403778,41.798468",
+    "geom:latitude":41.798468,
+    "geom:longitude":-71.403778,
+    "iso:country":"US",
+    "sg:address":"65 Pavilion Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 1441",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consultant",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bbNUjbActQqZhHQRhpGEd_41.798377_-71.404117@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314846,
+    "wof:geomhash":"f90612de6eacc49bf7f692d59106f7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874285687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874285687
+        }
+    ],
+    "wof:id":874285687,
+    "wof:lastmodified":1464314846,
+    "wof:name":"Ryla Teleservices, Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.403778,
+    41.798468,
+    -71.403778,
+    41.798468
+],
+  "geometry": {"coordinates":[-71.403778,41.798468],"type":"Point"}
+}

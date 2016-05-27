@@ -1,0 +1,71 @@
+{
+  "id": 874299569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42177,41.858684,-71.42177,41.858684",
+    "geom:latitude":41.858684,
+    "geom:longitude":-71.42177,
+    "iso:country":"US",
+    "sg:address":"812 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 3121",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:website":"www.atrtreehouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X2u0XwmWcwG0QZsgEuFLt_41.858684_-71.421770@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315374,
+    "wof:geomhash":"081e0a5d97fbd51232c133819dbf4263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874299569
+        }
+    ],
+    "wof:id":874299569,
+    "wof:lastmodified":1464315374,
+    "wof:name":"Atr Treehouse",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.42177,
+    41.858684,
+    -71.42177,
+    41.858684
+],
+  "geometry": {"coordinates":[-71.42177,41.858684],"type":"Point"}
+}

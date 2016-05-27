@@ -1,0 +1,75 @@
+{
+  "id": 874292507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408212,41.892043,-71.408212,41.892043",
+    "geom:latitude":41.892043,
+    "geom:longitude":-71.408212,
+    "iso:country":"US",
+    "sg:address":"85 Industrial Cir 2102",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 475 9780",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "sg:website":"www.edge-athletics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YoIuYYjLLoDrFzTHCpS5j_41.892043_-71.408212@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315107,
+    "wof:geomhash":"7239884632a9d14a7c03ddee6b536e41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292507
+        }
+    ],
+    "wof:id":874292507,
+    "wof:lastmodified":1464315107,
+    "wof:name":"Edge Athletics",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -71.408212,
+    41.892043,
+    -71.408212,
+    41.892043
+],
+  "geometry": {"coordinates":[-71.40821200000001,41.892043],"type":"Point"}
+}

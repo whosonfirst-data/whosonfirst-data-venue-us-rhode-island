@@ -1,0 +1,71 @@
+{
+  "id": 874136895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476158,41.843193,-71.476158,41.843193",
+    "geom:latitude":41.843193,
+    "geom:longitude":-71.476158,
+    "iso:country":"US",
+    "sg:address":"2 Elmo St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4305",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_090t1xkRUDoJaGWQfSFNBE_41.843193_-71.476158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312208,
+    "wof:geomhash":"faf226d4b87b6524ee447154721bce36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874136895
+        }
+    ],
+    "wof:id":874136895,
+    "wof:lastmodified":1464312208,
+    "wof:name":"Hope Baptist Church",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.476158,
+    41.843193,
+    -71.476158,
+    41.843193
+],
+  "geometry": {"coordinates":[-71.476158,41.843193],"type":"Point"}
+}

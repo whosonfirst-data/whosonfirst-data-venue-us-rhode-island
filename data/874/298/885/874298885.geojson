@@ -1,0 +1,74 @@
+{
+  "id": 874298885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466309,41.860956,-71.466309,41.860956",
+    "geom:latitude":41.860956,
+    "geom:longitude":-71.466309,
+    "iso:country":"US",
+    "sg:address":"1875 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 3200",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29M60nQpaK6dk0MD47rdPy_41.860956_-71.466309@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315351,
+    "wof:geomhash":"0ad0b632976a7372dfcfe1b3d549e8df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874298885
+        }
+    ],
+    "wof:id":874298885,
+    "wof:lastmodified":1464315351,
+    "wof:name":"Vision World",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -71.466309,
+    41.860956,
+    -71.466309,
+    41.860956
+],
+  "geometry": {"coordinates":[-71.466309,41.860956],"type":"Point"}
+}

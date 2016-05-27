@@ -1,0 +1,73 @@
+{
+  "id": 874173315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.516164,41.376415,-71.516164,41.376415",
+    "geom:latitude":41.376415,
+    "geom:longitude":-71.516164,
+    "iso:country":"US",
+    "sg:address":"1151 Succotash Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1089",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qIAGq90LPv4Lqwx2VSZHJ_41.376415_-71.516164@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312561,
+    "wof:geomhash":"5f0846b38a660270a54437fc33e5d71c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874173315
+        }
+    ],
+    "wof:id":874173315,
+    "wof:lastmodified":1464312561,
+    "wof:name":"R & R Dock Co LLC",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "handler",
+        "marine"
+    ]
+},
+  "bbox": [
+    -71.516164,
+    41.376415,
+    -71.516164,
+    41.376415
+],
+  "geometry": {"coordinates":[-71.516164,41.376415],"type":"Point"}
+}

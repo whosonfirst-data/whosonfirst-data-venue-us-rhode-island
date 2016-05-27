@@ -1,0 +1,70 @@
+{
+  "id": 874182889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416029,41.894233,-71.416029,41.894233",
+    "geom:latitude":41.894233,
+    "geom:longitude":-71.416029,
+    "iso:country":"US",
+    "sg:address":"55 Woodland St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 7954",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.wesley-umc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RMRfSe5nNYpf2tYNqP9v9_41.894233_-71.416029@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312659,
+    "wof:geomhash":"e65d764db25aeb592e72a3410ddc3146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874182889
+        }
+    ],
+    "wof:id":874182889,
+    "wof:lastmodified":1464312659,
+    "wof:name":"Wesley United Methodist Church",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.416029,
+    41.894233,
+    -71.416029,
+    41.894233
+],
+  "geometry": {"coordinates":[-71.41602899999999,41.894233],"type":"Point"}
+}

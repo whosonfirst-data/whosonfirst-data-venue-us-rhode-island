@@ -1,0 +1,71 @@
+{
+  "id": 874048261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.515596,41.986145,-71.515596,41.986145",
+    "geom:latitude":41.986145,
+    "geom:longitude":-71.515596,
+    "iso:country":"US",
+    "sg:address":"1280 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 3310",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eczjfmcmp15z9Dzj7TRsd_41.986145_-71.515596@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311225,
+    "wof:geomhash":"6f98405374276036283513ff7f90e875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874048261
+        }
+    ],
+    "wof:id":874048261,
+    "wof:lastmodified":1464311225,
+    "wof:name":"Credit Union Central Falls",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.515596,
+    41.986145,
+    -71.515596,
+    41.986145
+],
+  "geometry": {"coordinates":[-71.515596,41.986145],"type":"Point"}
+}

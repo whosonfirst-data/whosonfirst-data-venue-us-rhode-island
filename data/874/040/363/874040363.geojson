@@ -1,0 +1,73 @@
+{
+  "id": 874040363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.733846,41.511981,-71.733846,41.511981",
+    "geom:latitude":41.511981,
+    "geom:longitude":-71.733846,
+    "iso:country":"US",
+    "sg:address":"182 Fenner Hill Rd",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7220",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720615,
+        102081219,
+        85809305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qUwy89VhCpPCGEz4nK2MS_41.511981_-71.733846@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311146,
+    "wof:geomhash":"6064743973e697727e88a17c33802d40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720615,
+            "neighbourhood_id":85809305,
+            "region_id":85688509,
+            "venue_id":874040363
+        }
+    ],
+    "wof:id":874040363,
+    "wof:lastmodified":1464311146,
+    "wof:name":"Crider Excavation Inc",
+    "wof:parent_id":85809305,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.733846,
+    41.511981,
+    -71.733846,
+    41.511981
+],
+  "geometry": {"coordinates":[-71.733846,41.511981],"type":"Point"}
+}

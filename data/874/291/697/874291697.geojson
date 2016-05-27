@@ -1,0 +1,74 @@
+{
+  "id": 874291697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428596,41.935001,-71.428596,41.935001",
+    "geom:latitude":41.935001,
+    "geom:longitude":-71.428596,
+    "iso:country":"US",
+    "sg:address":"1238 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 2400",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6exULQKmJuGjB5IYGge0h0_41.935001_-71.428596@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315079,
+    "wof:geomhash":"ec16fec5d033e2184808cf03b134e80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291697
+        }
+    ],
+    "wof:id":874291697,
+    "wof:lastmodified":1464315079,
+    "wof:name":"Hamel's Tire Center",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.428596,
+    41.935001,
+    -71.428596,
+    41.935001
+],
+  "geometry": {"coordinates":[-71.428596,41.935001],"type":"Point"}
+}

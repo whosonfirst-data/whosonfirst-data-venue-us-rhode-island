@@ -1,0 +1,77 @@
+{
+  "id": 874220303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452244,41.570908,-71.452244,41.570908",
+    "geom:latitude":41.570908,
+    "geom:longitude":-71.452244,
+    "iso:country":"US",
+    "sg:address":"97 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4881",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pb8PMtW9vj6fMISUAlPrd_41.570908_-71.452244@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313066,
+    "wof:geomhash":"f798bdf8ec08b19f81a61c8b1db79c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874220303
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874220303
+        }
+    ],
+    "wof:id":874220303,
+    "wof:lastmodified":1464313066,
+    "wof:name":"Wickford Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.452244,
+    41.570908,
+    -71.452244,
+    41.570908
+],
+  "geometry": {"coordinates":[-71.45224399999999,41.570908],"type":"Point"}
+}

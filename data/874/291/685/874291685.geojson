@@ -1,0 +1,70 @@
+{
+  "id": 874291685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428802,41.935699,-71.428802,41.935699",
+    "geom:latitude":41.935699,
+    "geom:longitude":-71.428802,
+    "iso:country":"US",
+    "sg:address":"1270 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 9611",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.junglejunction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33DKQYTE50hBZCn5idkdru_41.935699_-71.428802@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315079,
+    "wof:geomhash":"a0ae09abf556aef1001ea4b457c26080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291685
+        }
+    ],
+    "wof:id":874291685,
+    "wof:lastmodified":1464315079,
+    "wof:name":"Jungle Junction",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.428802,
+    41.935699,
+    -71.428802,
+    41.935699
+],
+  "geometry": {"coordinates":[-71.428802,41.935699],"type":"Point"}
+}

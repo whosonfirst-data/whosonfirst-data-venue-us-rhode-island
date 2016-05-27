@@ -1,0 +1,70 @@
+{
+  "id": 874288651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.641796,41.386053,-71.641796,41.386053",
+    "geom:latitude":41.386053,
+    "geom:longitude":-71.641796,
+    "iso:country":"US",
+    "sg:address":"5001B S County Trl",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 2275",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.atlanticanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UkW5KEnWxBLOPEDDGYRLr_41.386053_-71.641796@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314963,
+    "wof:geomhash":"e973448deb740457a9c351524dda03e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288651
+        }
+    ],
+    "wof:id":874288651,
+    "wof:lastmodified":1464314963,
+    "wof:name":"Atlantic Animal Hospital",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.641796,
+    41.386053,
+    -71.641796,
+    41.386053
+],
+  "geometry": {"coordinates":[-71.641796,41.386053],"type":"Point"}
+}

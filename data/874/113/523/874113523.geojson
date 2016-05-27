@@ -1,0 +1,71 @@
+{
+  "id": 874113523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293204,41.532922,-71.293204,41.532922",
+    "geom:latitude":41.532922,
+    "geom:longitude":-71.293204,
+    "iso:country":"US",
+    "sg:address":"1360 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 4422",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z6R3OCmSbligIu6vVKkKp_41.532922_-71.293204@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311972,
+    "wof:geomhash":"1b1e379a64b161589a08bf7588925c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874113523
+        }
+    ],
+    "wof:id":874113523,
+    "wof:lastmodified":1464311972,
+    "wof:name":"Rent-A-Center",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -71.293204,
+    41.532922,
+    -71.293204,
+    41.532922
+],
+  "geometry": {"coordinates":[-71.293204,41.532922],"type":"Point"}
+}

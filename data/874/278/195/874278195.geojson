@@ -1,0 +1,87 @@
+{
+  "id": 874278195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4031,41.792299,-71.4031,41.792299",
+    "geom:latitude":41.792299,
+    "geom:longitude":-71.4031,
+    "iso:country":"US",
+    "sg:address":"217 Chapman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 4847",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lacquer"
+    ],
+    "sg:website":"www.spectrumcoatings.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Od3llM44CGpZJT3NvhAoX_41.792299_-71.403100@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314546,
+    "wof:geomhash":"2b3e0bdf84af1e5f21748a6782e9470e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874278195
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874278195
+        }
+    ],
+    "wof:id":874278195,
+    "wof:lastmodified":1464314546,
+    "wof:name":"Spectrum Coatings Laboratories",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lacquer"
+    ]
+},
+  "bbox": [
+    -71.4031,
+    41.792299,
+    -71.4031,
+    41.792299
+],
+  "geometry": {"coordinates":[-71.40309999999999,41.792299],"type":"Point"}
+}

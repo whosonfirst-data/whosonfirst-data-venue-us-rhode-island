@@ -1,0 +1,75 @@
+{
+  "id": 874156629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421575,41.833683,-71.421575,41.833683",
+    "geom:latitude":41.833683,
+    "geom:longitude":-71.421575,
+    "iso:country":"US",
+    "sg:address":"285 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 7567",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xTxO7xgnSGHT66OKV43Xu_41.833683_-71.421575@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312395,
+    "wof:geomhash":"b186ce395f34c42b4b218ac85f94723a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874156629
+        }
+    ],
+    "wof:id":874156629,
+    "wof:lastmodified":1464312395,
+    "wof:name":"American Legion Post",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -71.421575,
+    41.833683,
+    -71.421575,
+    41.833683
+],
+  "geometry": {"coordinates":[-71.421575,41.833683],"type":"Point"}
+}

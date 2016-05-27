@@ -1,0 +1,70 @@
+{
+  "id": 874304095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.366272,41.841905,-71.366272,41.841905",
+    "geom:latitude":41.841905,
+    "geom:longitude":-71.366272,
+    "iso:country":"US",
+    "sg:address":"155 Roger Williams Ave",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 9494",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HaeLfdYJZhHi6HLV5g0qV_41.841905_-71.366272@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315532,
+    "wof:geomhash":"3e3be0234df337db96045424d853e605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874304095
+        }
+    ],
+    "wof:id":874304095,
+    "wof:lastmodified":1464315532,
+    "wof:name":"Steve's Auto Care Center",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.366272,
+    41.841905,
+    -71.366272,
+    41.841905
+],
+  "geometry": {"coordinates":[-71.366272,41.841905],"type":"Point"}
+}

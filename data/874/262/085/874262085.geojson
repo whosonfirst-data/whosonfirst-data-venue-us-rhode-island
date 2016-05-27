@@ -1,0 +1,90 @@
+{
+  "id": 874262085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411625,41.855028,-71.411625,41.855028",
+    "geom:latitude":41.855028,
+    "geom:longitude":-71.411625,
+    "iso:country":"US",
+    "sg:address":"451 Silver Spring St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 4911",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "fixture",
+        "cabinet",
+        "equipment",
+        "store",
+        "kitchen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GOPq705Kqnmt7A4Ed3b4b_41.855028_-71.411625@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313928,
+    "wof:geomhash":"48e57282d306e64b795831428a6b2c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874262085
+        }
+    ],
+    "wof:id":874262085,
+    "wof:lastmodified":1464313928,
+    "wof:name":"Atlas Fabrication Inc",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "fixture",
+        "cabinet",
+        "equipment",
+        "store",
+        "kitchen"
+    ]
+},
+  "bbox": [
+    -71.411625,
+    41.855028,
+    -71.411625,
+    41.855028
+],
+  "geometry": {"coordinates":[-71.411625,41.855028],"type":"Point"}
+}

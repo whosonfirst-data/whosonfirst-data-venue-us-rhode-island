@@ -1,0 +1,93 @@
+{
+  "id": 874299939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397022,41.792193,-71.397022,41.792193",
+    "geom:latitude":41.792193,
+    "geom:longitude":-71.397022,
+    "iso:country":"US",
+    "sg:address":"840 Allens Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8887",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85817503,
+        404488357,
+        101720573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27oIVTh5S89r7lHeO1h9P2_41.792193_-71.397022@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315387,
+    "wof:geomhash":"0ba2aca362993a5a183062bbf4b81881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874299939
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874299939
+        }
+    ],
+    "wof:id":874299939,
+    "wof:lastmodified":1464315387,
+    "wof:name":"Oriental Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "take"
+    ]
+},
+  "bbox": [
+    -71.397022,
+    41.792193,
+    -71.397022,
+    41.792193
+],
+  "geometry": {"coordinates":[-71.39702200000001,41.792193],"type":"Point"}
+}

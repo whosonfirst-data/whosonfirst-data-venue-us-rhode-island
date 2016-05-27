@@ -1,0 +1,87 @@
+{
+  "id": 874287939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403251,41.719863,-71.403251,41.719863",
+    "geom:latitude":41.719863,
+    "geom:longitude":-71.403251,
+    "iso:country":"US",
+    "sg:address":"2080 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/98957-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 8190",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868715,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OT50iZLabpdUZL9K9HTzC_41.719955_-71.403252@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314933,
+    "wof:geomhash":"b95d62cc03dbb788ce58a9c411434ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85868715,
+            "region_id":85688509,
+            "venue_id":874287939
+        }
+    ],
+    "wof:id":874287939,
+    "wof:lastmodified":1464314933,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85868715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.403251,
+    41.719863,
+    -71.403251,
+    41.719863
+],
+  "geometry": {"coordinates":[-71.403251,41.719863],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874298595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409373,41.837663,-71.409373,41.837663",
+    "geom:latitude":41.837663,
+    "geom:longitude":-71.409373,
+    "iso:country":"US",
+    "sg:address":"585 N. Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 4956",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.luvmypet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZN6R4mdkIHRAuUm1vuUuU_41.837663_-71.409373@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315335,
+    "wof:geomhash":"a1e921c375aa086c4182c97f97aba073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874298595
+        }
+    ],
+    "wof:id":874298595,
+    "wof:lastmodified":1464315335,
+    "wof:name":"Luv My Pet",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.409373,
+    41.837663,
+    -71.409373,
+    41.837663
+],
+  "geometry": {"coordinates":[-71.409373,41.837663],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874234311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443375,41.959088,-71.443375,41.959088",
+    "geom:latitude":41.959088,
+    "geom:longitude":-71.443375,
+    "iso:country":"US",
+    "sg:address":"2360 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 405 0196",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "party",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xyPnQceH0FwEBzS2I99en_41.959088_-71.443375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313227,
+    "wof:geomhash":"61589468571373322212bc23e387f353",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874234311
+        }
+    ],
+    "wof:id":874234311,
+    "wof:lastmodified":1464313227,
+    "wof:name":"Let's Party",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.443375,
+    41.959088,
+    -71.443375,
+    41.959088
+],
+  "geometry": {"coordinates":[-71.443375,41.959088],"type":"Point"}
+}

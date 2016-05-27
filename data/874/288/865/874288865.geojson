@@ -1,0 +1,80 @@
+{
+  "id": 874288865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.765633,41.872189,-71.765633,41.872189",
+    "geom:latitude":41.872189,
+    "geom:longitude":-71.765633,
+    "iso:country":"US",
+    "sg:address":"1010 Reynolds Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 595 3983",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837631,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T7WEtsd6aHhC4SkG4Fxhe_41.872189_-71.765633@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314972,
+    "wof:geomhash":"9f6e240ec42f27b571141c189c2c9131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85837631,
+            "region_id":85688509,
+            "venue_id":874288865
+        }
+    ],
+    "wof:id":874288865,
+    "wof:lastmodified":1464314972,
+    "wof:name":"Woolite Corporation",
+    "wof:parent_id":85837631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "online",
+        "order",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -71.765633,
+    41.872189,
+    -71.765633,
+    41.872189
+],
+  "geometry": {"coordinates":[-71.76563299999999,41.872189],"type":"Point"}
+}

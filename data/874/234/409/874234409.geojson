@@ -1,0 +1,71 @@
+{
+  "id": 874234409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.375082,41.546366,-71.375082,41.546366",
+    "geom:latitude":41.546366,
+    "geom:longitude":-71.375082,
+    "iso:country":"US",
+    "sg:address":"959 N Main Rd",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 0881",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NfKNlLEdfEgNCSlP6d18H_41.546366_-71.375082@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313228,
+    "wof:geomhash":"2e769bf7fe6a3c7773c931a72b6e133e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874234409
+        }
+    ],
+    "wof:id":874234409,
+    "wof:lastmodified":1464313228,
+    "wof:name":"De Vellis Masonry",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.375082,
+    41.546366,
+    -71.375082,
+    41.546366
+],
+  "geometry": {"coordinates":[-71.37508200000001,41.546366],"type":"Point"}
+}

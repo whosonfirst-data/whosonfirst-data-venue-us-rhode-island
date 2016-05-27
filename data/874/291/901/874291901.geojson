@@ -1,0 +1,79 @@
+{
+  "id": 874291901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441849,41.952436,-71.441849,41.952436",
+    "geom:latitude":41.952436,
+    "geom:longitude":-71.441849,
+    "iso:country":"US",
+    "sg:address":"2136 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1220",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14IZCSMfg1McukDGdJA9oW_41.952436_-71.441849@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315086,
+    "wof:geomhash":"6adfabcdc376bd24dbe573eb622bd9dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291901
+        }
+    ],
+    "wof:id":874291901,
+    "wof:lastmodified":1464315086,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "drugstore",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.441849,
+    41.952436,
+    -71.441849,
+    41.952436
+],
+  "geometry": {"coordinates":[-71.441849,41.952436],"type":"Point"}
+}

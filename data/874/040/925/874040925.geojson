@@ -1,0 +1,75 @@
+{
+  "id": 874040925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.419975,41.850262,-71.419975,41.850262",
+    "geom:latitude":41.850262,
+    "geom:longitude":-71.419975,
+    "iso:country":"US",
+    "sg:address":"397 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 0756",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pager"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vZLP3ZatgHIN1nkUEC9vY_41.850262_-71.419975@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311152,
+    "wof:geomhash":"7817f3a9d7bbfc99a72a6fa9640af7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874040925
+        }
+    ],
+    "wof:id":874040925,
+    "wof:lastmodified":1464311152,
+    "wof:name":"Providence Pager Repair",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pager"
+    ]
+},
+  "bbox": [
+    -71.419975,
+    41.850262,
+    -71.419975,
+    41.850262
+],
+  "geometry": {"coordinates":[-71.41997499999999,41.850262],"type":"Point"}
+}

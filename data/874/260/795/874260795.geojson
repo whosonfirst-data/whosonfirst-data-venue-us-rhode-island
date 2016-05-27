@@ -1,0 +1,73 @@
+{
+  "id": 874260795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496468,41.598031,-71.496468,41.598031",
+    "geom:latitude":41.598031,
+    "geom:longitude":-71.496468,
+    "iso:country":"US",
+    "sg:address":"3662 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 6655",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TS7ovNzYQuTPASQCYHNlV_41.598031_-71.496468@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313884,
+    "wof:geomhash":"51b1e8437d5b0ad29fb554208a342c18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874260795
+        }
+    ],
+    "wof:id":874260795,
+    "wof:lastmodified":1464313884,
+    "wof:name":"Stony Lane Motors Ltd Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.496468,
+    41.598031,
+    -71.496468,
+    41.598031
+],
+  "geometry": {"coordinates":[-71.49646799999999,41.598031],"type":"Point"}
+}

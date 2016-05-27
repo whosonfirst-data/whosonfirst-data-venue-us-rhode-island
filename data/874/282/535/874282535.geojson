@@ -1,0 +1,81 @@
+{
+  "id": 874282535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445099,41.816898,-71.445099,41.816898",
+    "geom:latitude":41.816898,
+    "geom:longitude":-71.445099,
+    "iso:country":"US",
+    "sg:address":"106 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 7001",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k5uuWq2ux3iB9eHKmre2j_41.816795_-71.445932@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314725,
+    "wof:geomhash":"4290143e73b76d2c3d63ae331f88dda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874282535
+        }
+    ],
+    "wof:id":874282535,
+    "wof:lastmodified":1464314725,
+    "wof:name":"Westminister Auto Body",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.445099,
+    41.816898,
+    -71.445099,
+    41.816898
+],
+  "geometry": {"coordinates":[-71.445099,41.816898],"type":"Point"}
+}

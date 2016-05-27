@@ -1,0 +1,73 @@
+{
+  "id": 874274141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469795,41.833309,-71.469795,41.833309",
+    "geom:latitude":41.833309,
+    "geom:longitude":-71.469795,
+    "iso:country":"US",
+    "sg:address":"991 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 1223",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2npyiC0HigsK0PBRP51h4V_41.833309_-71.469795@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314372,
+    "wof:geomhash":"d1a62a6ebdb6d28731f23c1e5b039b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874274141
+        }
+    ],
+    "wof:id":874274141,
+    "wof:lastmodified":1464314372,
+    "wof:name":"Ray's Laundry & Cleaners",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -71.469795,
+    41.833309,
+    -71.469795,
+    41.833309
+],
+  "geometry": {"coordinates":[-71.469795,41.833309],"type":"Point"}
+}

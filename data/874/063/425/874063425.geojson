@@ -1,0 +1,71 @@
+{
+  "id": 874063425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445118,41.880993,-71.445118,41.880993",
+    "geom:latitude":41.880993,
+    "geom:longitude":-71.445118,
+    "iso:country":"US",
+    "sg:address":"6 Christopher Dr",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 2605",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BkhRJUKHiyTPbzY2kvc4X_41.880993_-71.445118@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311366,
+    "wof:geomhash":"307ea38e2ca43e2c4b7d20a56690d80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874063425
+        }
+    ],
+    "wof:id":874063425,
+    "wof:lastmodified":1464311366,
+    "wof:name":"Expressions",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.445118,
+    41.880993,
+    -71.445118,
+    41.880993
+],
+  "geometry": {"coordinates":[-71.44511799999999,41.880993],"type":"Point"}
+}

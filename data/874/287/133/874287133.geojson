@@ -1,0 +1,78 @@
+{
+  "id": 874287133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404996,41.764315,-71.404996,41.764315",
+    "geom:latitude":41.764315,
+    "geom:longitude":-71.404996,
+    "iso:country":"US",
+    "sg:address":"422 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/56707-ronzio-pizza--subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 7750",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805471,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ah0Mnh9ARKhCw6omjz8Be_41.764315_-71.404996@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314895,
+    "wof:geomhash":"e0ed960f297e9681f79de2c7965e2b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85805471,
+            "region_id":85688509,
+            "venue_id":874287133
+        }
+    ],
+    "wof:id":874287133,
+    "wof:lastmodified":1464314895,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85805471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.404996,
+    41.764315,
+    -71.404996,
+    41.764315
+],
+  "geometry": {"coordinates":[-71.404996,41.764315],"type":"Point"}
+}

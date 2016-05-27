@@ -1,0 +1,79 @@
+{
+  "id": 874102639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.370001,41.858787,-71.370001,41.858787",
+    "geom:latitude":41.858787,
+    "geom:longitude":-71.370001,
+    "iso:country":"US",
+    "sg:address":"29 Birchland St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 4275",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rnAgKBErIJsE6Xu8VogMc_41.858787_-71.370001@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311827,
+    "wof:geomhash":"6c45687c4c35f80f758940cf4b367ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874102639
+        }
+    ],
+    "wof:id":874102639,
+    "wof:lastmodified":1464311827,
+    "wof:name":"Arrow Electric Company",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.370001,
+    41.858787,
+    -71.370001,
+    41.858787
+],
+  "geometry": {"coordinates":[-71.370001,41.858787],"type":"Point"}
+}

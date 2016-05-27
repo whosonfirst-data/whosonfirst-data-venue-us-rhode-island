@@ -1,0 +1,73 @@
+{
+  "id": 874028395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.471613,41.825128,-71.471613,41.825128",
+    "geom:latitude":41.825128,
+    "geom:longitude":-71.471613,
+    "iso:country":"US",
+    "sg:address":"547 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8305",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LEb1vNihSvOc6Uh39N6uC_41.825128_-71.471613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311028,
+    "wof:geomhash":"0f5eabf223aa033f964eab79575cdcd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874028395
+        }
+    ],
+    "wof:id":874028395,
+    "wof:lastmodified":1464311028,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.471613,
+    41.825128,
+    -71.471613,
+    41.825128
+],
+  "geometry": {"coordinates":[-71.471613,41.825128],"type":"Point"}
+}

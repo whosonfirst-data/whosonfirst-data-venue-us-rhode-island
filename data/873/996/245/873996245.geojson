@@ -1,0 +1,86 @@
+{
+  "id": 873996245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412264,41.796424,-71.412264,41.796424",
+    "geom:latitude":41.796424,
+    "geom:longitude":-71.412264,
+    "iso:country":"US",
+    "sg:address":"1058 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 7860",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coffee",
+        "dist",
+        "mills",
+        "related",
+        "item",
+        "roasting"
+    ],
+    "sg:website":"www.millscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a3gBhuFhzH0Ad0IVJHe8K_41.796424_-71.412264@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310734,
+    "wof:geomhash":"de56323853f22e56c1476e62f8669a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":873996245
+        }
+    ],
+    "wof:id":873996245,
+    "wof:lastmodified":1464310734,
+    "wof:name":"Mills Coffee Roasting Co",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "dist",
+        "mills",
+        "related",
+        "item",
+        "roasting"
+    ]
+},
+  "bbox": [
+    -71.412264,
+    41.796424,
+    -71.412264,
+    41.796424
+],
+  "geometry": {"coordinates":[-71.41226399999999,41.796424],"type":"Point"}
+}

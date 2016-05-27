@@ -1,0 +1,71 @@
+{
+  "id": 874055235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.52506,41.425774,-71.52506,41.425774",
+    "geom:latitude":41.425774,
+    "geom:longitude":-71.52506,
+    "iso:country":"US",
+    "sg:address":"44 Congdon Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1967",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oPsCFMAMpwF3Y69BdIH7o_41.425774_-71.525060@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311294,
+    "wof:geomhash":"d9bc4c83d4d08ff7caaa4a10d171de4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874055235
+        }
+    ],
+    "wof:id":874055235,
+    "wof:lastmodified":1464311294,
+    "wof:name":"Stephen Garnett Builders",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.52506,
+    41.425774,
+    -71.52506,
+    41.425774
+],
+  "geometry": {"coordinates":[-71.52506,41.425774],"type":"Point"}
+}

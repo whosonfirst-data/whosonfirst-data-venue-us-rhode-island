@@ -1,0 +1,75 @@
+{
+  "id": 874278785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.350233,41.86398,-71.350233,41.86398",
+    "geom:latitude":41.86398,
+    "geom:longitude":-71.350233,
+    "iso:country":"US",
+    "sg:address":"45 Whirlaway Pl",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 3718",
+    "sg:postcode":"02861",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WFg95GGK5tufAJXZ8jLyt_41.863980_-71.350233@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314565,
+    "wof:geomhash":"585830498c2277c6eb07d4314df44881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874278785
+        }
+    ],
+    "wof:id":874278785,
+    "wof:lastmodified":1464314565,
+    "wof:name":"Cleaning Svcs",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.350233,
+    41.86398,
+    -71.350233,
+    41.86398
+],
+  "geometry": {"coordinates":[-71.350233,41.86398],"type":"Point"}
+}

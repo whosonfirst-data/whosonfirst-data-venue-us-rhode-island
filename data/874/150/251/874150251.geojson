@@ -1,0 +1,71 @@
+{
+  "id": 874150251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470206,41.833135,-71.470206,41.833135",
+    "geom:latitude":41.833135,
+    "geom:longitude":-71.470206,
+    "iso:country":"US",
+    "sg:address":"977 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 7593",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rfDixa9gT2O78COiJkHMQ_41.833135_-71.470206@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312330,
+    "wof:geomhash":"ff2d24a9c4d9aed2b13ffb6c575dd7bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874150251
+        }
+    ],
+    "wof:id":874150251,
+    "wof:lastmodified":1464312330,
+    "wof:name":"All Star Cafe",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -71.470206,
+    41.833135,
+    -71.470206,
+    41.833135
+],
+  "geometry": {"coordinates":[-71.470206,41.833135],"type":"Point"}
+}

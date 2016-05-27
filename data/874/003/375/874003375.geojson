@@ -1,0 +1,71 @@
+{
+  "id": 874003375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547448,41.728716,-71.547448,41.728716",
+    "geom:latitude":41.728716,
+    "geom:longitude":-71.547448,
+    "iso:country":"US",
+    "sg:address":"11 Richard Ct",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 7261",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RloD6vNEzJGtA0Bb9Szdw_41.728716_-71.547448@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310796,
+    "wof:geomhash":"ce938c187443f16bf010bd707922e327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874003375
+        }
+    ],
+    "wof:id":874003375,
+    "wof:lastmodified":1464310796,
+    "wof:name":"Andre Jutras Carpentry",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.547448,
+    41.728716,
+    -71.547448,
+    41.728716
+],
+  "geometry": {"coordinates":[-71.547448,41.728716],"type":"Point"}
+}

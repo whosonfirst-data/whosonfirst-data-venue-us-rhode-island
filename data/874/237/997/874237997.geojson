@@ -1,0 +1,77 @@
+{
+  "id": 874237997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.675136,41.925575,-71.675136,41.925575",
+    "geom:latitude":41.925575,
+    "geom:longitude":-71.675136,
+    "iso:country":"US",
+    "sg:address":"140 Money Hill Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4468",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540539,
+        102191575,
+        404488365,
+        85633793,
+        101720589,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FGFY03c4bXPm4PGKZ0DXc_41.925575_-71.675136@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313302,
+    "wof:geomhash":"d2da092ef4f7b0c6feeb6492da9eb1d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488365,
+            "locality_id":101720589,
+            "neighbourhood_id":420540539,
+            "region_id":85688509,
+            "venue_id":874237997
+        }
+    ],
+    "wof:id":874237997,
+    "wof:lastmodified":1464313302,
+    "wof:name":"Any Where Auto",
+    "wof:parent_id":420540539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.675136,
+    41.925575,
+    -71.675136,
+    41.925575
+],
+  "geometry": {"coordinates":[-71.67513599999999,41.925575],"type":"Point"}
+}

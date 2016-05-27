@@ -1,0 +1,71 @@
+{
+  "id": 874221681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.488804,41.560674,-71.488804,41.560674",
+    "geom:latitude":41.560674,
+    "geom:longitude":-71.488804,
+    "iso:country":"US",
+    "sg:address":"740 Oak Hill Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4545",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qcjgqwNfQ7HotAgv92L5s_41.560674_-71.488804@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313081,
+    "wof:geomhash":"a25b4e3ce012eb78be7cfff57d278ca7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874221681
+        }
+    ],
+    "wof:id":874221681,
+    "wof:lastmodified":1464313081,
+    "wof:name":"South County Nursing Ctr",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.488804,
+    41.560674,
+    -71.488804,
+    41.560674
+],
+  "geometry": {"coordinates":[-71.488804,41.560674],"type":"Point"}
+}

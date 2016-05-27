@@ -1,0 +1,88 @@
+{
+  "id": 874141203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433945,41.778563,-71.433945,41.778563",
+    "geom:latitude":41.778563,
+    "geom:longitude":-71.433945,
+    "iso:country":"US",
+    "sg:address":"790 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 2886",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CQxXPCu8M0jpPz2Z2Ob1Y_41.778563_-71.433945@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312245,
+    "wof:geomhash":"61177b7bf08ef98e8b7895761b397a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874141203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874141203
+        }
+    ],
+    "wof:id":874141203,
+    "wof:lastmodified":1464312245,
+    "wof:name":"Kar Kare Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.433945,
+    41.778563,
+    -71.433945,
+    41.778563
+],
+  "geometry": {"coordinates":[-71.43394499999999,41.778563],"type":"Point"}
+}

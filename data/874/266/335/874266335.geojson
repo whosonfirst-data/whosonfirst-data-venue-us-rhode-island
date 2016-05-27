@@ -1,0 +1,71 @@
+{
+  "id": 874266335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429563,41.92716,-71.429563,41.92716",
+    "geom:latitude":41.92716,
+    "geom:longitude":-71.429563,
+    "iso:country":"US",
+    "sg:address":"3 Martin St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 8380",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FPfRvcePlr2xC21sgYqX9_41.927160_-71.429563@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314083,
+    "wof:geomhash":"21ab80559c8d526b4f0179a7e06d5bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874266335
+        }
+    ],
+    "wof:id":874266335,
+    "wof:lastmodified":1464314083,
+    "wof:name":"Pet Food Experts Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.429563,
+    41.92716,
+    -71.429563,
+    41.92716
+],
+  "geometry": {"coordinates":[-71.429563,41.92716],"type":"Point"}
+}

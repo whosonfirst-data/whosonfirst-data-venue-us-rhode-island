@@ -1,0 +1,92 @@
+{
+  "id": 874290139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.379518,41.888583,-71.379518,41.888583",
+    "geom:latitude":41.888583,
+    "geom:longitude":-71.379518,
+    "iso:country":"US",
+    "sg:address":"242 Middle St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 277 9000",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "party",
+        "planning",
+        "event",
+        "store"
+    ],
+    "sg:website":"www.regalreptiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ayAL61VTMfBsvVL3FnaBI_41.888583_-71.379518@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315017,
+    "wof:geomhash":"7a46c86471f8ff8c0f33136900d44a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874290139
+        }
+    ],
+    "wof:id":874290139,
+    "wof:lastmodified":1464315017,
+    "wof:name":"Regal Reptiles",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "planning",
+        "event",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.379518,
+    41.888583,
+    -71.379518,
+    41.888583
+],
+  "geometry": {"coordinates":[-71.379518,41.888583],"type":"Point"}
+}

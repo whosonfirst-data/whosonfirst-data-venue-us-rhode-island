@@ -1,0 +1,71 @@
+{
+  "id": 874258721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458325,41.813414,-71.458325,41.813414",
+    "geom:latitude":41.813414,
+    "geom:longitude":-71.458325,
+    "iso:country":"US",
+    "sg:address":"30 Alverson Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 454 0727",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5opQNF0FPodO8zTtHdKjTW_41.813414_-71.458325@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313815,
+    "wof:geomhash":"575df74943ea49f2050171d7edc77d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874258721
+        }
+    ],
+    "wof:id":874258721,
+    "wof:lastmodified":1464313815,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.458325,
+    41.813414,
+    -71.458325,
+    41.813414
+],
+  "geometry": {"coordinates":[-71.458325,41.813414],"type":"Point"}
+}

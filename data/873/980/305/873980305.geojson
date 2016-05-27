@@ -1,0 +1,69 @@
+{
+  "id": 873980305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449325,41.854193,-71.449325,41.854193",
+    "geom:latitude":41.854193,
+    "geom:longitude":-71.449325,
+    "iso:country":"US",
+    "sg:address":"11 John F Kennedy Cir",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 9024",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TyatQbECGVmBqLXiV2WDy_41.854193_-71.449325@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310589,
+    "wof:geomhash":"e798ac249f10850cd8da730fb791b3e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":873980305
+        }
+    ],
+    "wof:id":873980305,
+    "wof:lastmodified":1464310589,
+    "wof:name":"Laundry World Inc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.449325,
+    41.854193,
+    -71.449325,
+    41.854193
+],
+  "geometry": {"coordinates":[-71.449325,41.854193],"type":"Point"}
+}

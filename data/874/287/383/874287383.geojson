@@ -1,0 +1,78 @@
+{
+  "id": 874287383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424976,41.829036,-71.424976,41.829036",
+    "geom:latitude":41.829036,
+    "geom:longitude":-71.424976,
+    "iso:country":"US",
+    "sg:address":"81 Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/85700-pizzeria-regina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 4245",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MJOa6YgOQLlQlF4oT1Tso_41.829036_-71.424976@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314903,
+    "wof:geomhash":"3e091c51d9a28489b2d4bed420c331dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874287383
+        }
+    ],
+    "wof:id":874287383,
+    "wof:lastmodified":1464314903,
+    "wof:name":"Pizzeria Regina",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.424976,
+    41.829036,
+    -71.424976,
+    41.829036
+],
+  "geometry": {"coordinates":[-71.424976,41.829036],"type":"Point"}
+}

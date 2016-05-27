@@ -1,0 +1,70 @@
+{
+  "id": 874119877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413231,41.83967,-71.413231,41.83967",
+    "geom:latitude":41.83967,
+    "geom:longitude":-71.413231,
+    "iso:country":"US",
+    "sg:address":"55 Corliss St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 457 1600",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bq7VjIaYrwxpxJdJ8sdrk_41.839670_-71.413231@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312034,
+    "wof:geomhash":"fb70e758c7824046e98de305f8195ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874119877
+        }
+    ],
+    "wof:id":874119877,
+    "wof:lastmodified":1464312034,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.413231,
+    41.83967,
+    -71.413231,
+    41.83967
+],
+  "geometry": {"coordinates":[-71.413231,41.83967],"type":"Point"}
+}

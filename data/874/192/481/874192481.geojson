@@ -1,0 +1,71 @@
+{
+  "id": 874192481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465343,41.576951,-71.465343,41.576951",
+    "geom:latitude":41.576951,
+    "geom:longitude":-71.465343,
+    "iso:country":"US",
+    "sg:address":"221 Juniper Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7215",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instrument",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dYg3R6SCREIGSywvo5mBm_41.576951_-71.465343@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312764,
+    "wof:geomhash":"6657c5b38abb5ed287de242d48d4a7da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874192481
+        }
+    ],
+    "wof:id":874192481,
+    "wof:lastmodified":1464312764,
+    "wof:name":"Cassaday Design Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.465343,
+    41.576951,
+    -71.465343,
+    41.576951
+],
+  "geometry": {"coordinates":[-71.465343,41.576951],"type":"Point"}
+}

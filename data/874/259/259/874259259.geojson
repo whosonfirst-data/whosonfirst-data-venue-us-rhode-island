@@ -1,0 +1,79 @@
+{
+  "id": 874259259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447327,41.4771,-71.447327,41.4771",
+    "geom:latitude":41.4771,
+    "geom:longitude":-71.447327,
+    "iso:country":"US",
+    "sg:address":"121 N River Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9413",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consulting",
+        "related"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eTaVUPxnquhSnd7YAJfGM_41.477100_-71.447327@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313833,
+    "wof:geomhash":"8a66d43ce014fcf0abc87dfbf22b3040",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874259259
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874259259
+        }
+    ],
+    "wof:id":874259259,
+    "wof:lastmodified":1464313833,
+    "wof:name":"Teraspeed Consulting Group LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "related"
+    ]
+},
+  "bbox": [
+    -71.447327,
+    41.4771,
+    -71.447327,
+    41.4771
+],
+  "geometry": {"coordinates":[-71.447327,41.4771],"type":"Point"}
+}

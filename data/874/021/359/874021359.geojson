@@ -1,0 +1,87 @@
+{
+  "id": 874021359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436758,41.776166,-71.436758,41.776166",
+    "geom:latitude":41.776166,
+    "geom:longitude":-71.436758,
+    "iso:country":"US",
+    "sg:address":"45 Rolfe Sq",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 0066",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "sg:website":"www.tourofraternal.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04TmB6ajZF7DlCxSWnOZiY_41.776166_-71.436758@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310959,
+    "wof:geomhash":"137c850e2900e015429adf64603eb596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874021359
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874021359
+        }
+    ],
+    "wof:id":874021359,
+    "wof:lastmodified":1464310959,
+    "wof:name":"Touro Fraternal Assn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -71.436758,
+    41.776166,
+    -71.436758,
+    41.776166
+],
+  "geometry": {"coordinates":[-71.436758,41.776166],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874257033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472115,41.839558,-71.472115,41.839558",
+    "geom:latitude":41.839558,
+    "geom:longitude":-71.472115,
+    "iso:country":"US",
+    "sg:address":"17 Metcalf Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2970",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24j82GAB8phdZ0ojBSBrxi_41.839558_-71.472115@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313722,
+    "wof:geomhash":"c0618f06b96f0e5a2046ecd45bffdf7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874257033
+        }
+    ],
+    "wof:id":874257033,
+    "wof:lastmodified":1464313722,
+    "wof:name":"Ruff Stone Tavern",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.472115,
+    41.839558,
+    -71.472115,
+    41.839558
+],
+  "geometry": {"coordinates":[-71.472115,41.839558],"type":"Point"}
+}

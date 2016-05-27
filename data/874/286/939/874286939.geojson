@@ -1,0 +1,86 @@
+{
+  "id": 874286939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470408,41.455956,-71.470408,41.455956",
+    "geom:latitude":41.455956,
+    "geom:longitude":-71.470408,
+    "iso:country":"US",
+    "sg:address":"59 S County Commons Way",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/south-kingstown/280080-shogun-steak--seafood-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 1311",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p8VR91NyGx093U41GyZ2F_41.455956_-71.470408@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314888,
+    "wof:geomhash":"3d87e498865fa0f2e7720ba5cd2cceed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874286939
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874286939
+        }
+    ],
+    "wof:id":874286939,
+    "wof:lastmodified":1464314888,
+    "wof:name":"Shogun Steak & Seafood House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -71.470408,
+    41.455956,
+    -71.470408,
+    41.455956
+],
+  "geometry": {"coordinates":[-71.47040800000001,41.455956],"type":"Point"}
+}

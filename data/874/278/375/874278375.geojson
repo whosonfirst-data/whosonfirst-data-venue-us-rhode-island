@@ -1,0 +1,71 @@
+{
+  "id": 874278375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.564537,41.690782,-71.564537,41.690782",
+    "geom:latitude":41.690782,
+    "geom:longitude":-71.564537,
+    "iso:country":"US",
+    "sg:address":"1160 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 0474",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rmbt0Eqqfj477h8wg8ntN_41.690782_-71.564537@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314552,
+    "wof:geomhash":"33984d97ba5d71162ac4f8299161634a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874278375
+        }
+    ],
+    "wof:id":874278375,
+    "wof:lastmodified":1464314552,
+    "wof:name":"Best Express",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -71.564537,
+    41.690782,
+    -71.564537,
+    41.690782
+],
+  "geometry": {"coordinates":[-71.564537,41.690782],"type":"Point"}
+}

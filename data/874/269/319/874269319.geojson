@@ -1,0 +1,71 @@
+{
+  "id": 874269319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544546,41.663131,-71.544546,41.663131",
+    "geom:latitude":41.663131,
+    "geom:longitude":-71.544546,
+    "iso:country":"US",
+    "sg:address":"4 Grafton St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 827 7771",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e8ECh1WndPInXFCCOsst5_41.663131_-71.544546@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314200,
+    "wof:geomhash":"3fba7a081b43f9cfe3ced3c8702cade4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874269319
+        }
+    ],
+    "wof:id":874269319,
+    "wof:lastmodified":1464314200,
+    "wof:name":"Development Connection",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -71.544546,
+    41.663131,
+    -71.544546,
+    41.663131
+],
+  "geometry": {"coordinates":[-71.544546,41.663131],"type":"Point"}
+}

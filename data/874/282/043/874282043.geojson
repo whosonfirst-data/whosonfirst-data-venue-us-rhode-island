@@ -1,0 +1,71 @@
+{
+  "id": 874282043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.243113,41.581901,-71.243113,41.581901",
+    "geom:latitude":41.581901,
+    "geom:longitude":-71.243113,
+    "iso:country":"US",
+    "sg:address":"65 Friends St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3575",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nonphysical",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DfES0g0sl9eJCjlfn1aK1_41.581901_-71.243113@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314708,
+    "wof:geomhash":"288d215b7955c1874c57332d5ea64b74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874282043
+        }
+    ],
+    "wof:id":874282043,
+    "wof:lastmodified":1464314708,
+    "wof:name":"Access New England Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonphysical",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.243113,
+    41.581901,
+    -71.243113,
+    41.581901
+],
+  "geometry": {"coordinates":[-71.24311299999999,41.581901],"type":"Point"}
+}

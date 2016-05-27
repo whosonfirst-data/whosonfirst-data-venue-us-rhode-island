@@ -1,0 +1,76 @@
+{
+  "id": 874288205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458616,41.761578,-71.458616,41.761578",
+    "geom:latitude":41.761578,
+    "geom:longitude":-71.458616,
+    "iso:country":"US",
+    "sg:address":"100 Hillside Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/54002-newport-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 3397",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JR8S1oMwbooJi2An2KaXM_41.761314_-71.458646@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314943,
+    "wof:geomhash":"884153e220376cb5186a6e2151de4444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874288205
+        }
+    ],
+    "wof:id":874288205,
+    "wof:lastmodified":1464314943,
+    "wof:name":"Newport Creamery",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.458616,
+    41.761578,
+    -71.458616,
+    41.761578
+],
+  "geometry": {"coordinates":[-71.45861600000001,41.761578],"type":"Point"}
+}

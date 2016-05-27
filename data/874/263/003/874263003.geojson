@@ -1,0 +1,71 @@
+{
+  "id": 874263003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.592335,42.012847,-71.592335,42.012847",
+    "geom:latitude":42.012847,
+    "geom:longitude":-71.592335,
+    "iso:country":"US",
+    "sg:address":"229 Quaker Hwy",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 2140",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bEF2v8W3PkVHSG2KnAnP5_42.012847_-71.592335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313958,
+    "wof:geomhash":"22cad97cd132a59fa48939f5edd1c06b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874263003
+        }
+    ],
+    "wof:id":874263003,
+    "wof:lastmodified":1464313958,
+    "wof:name":"Spl Electrical Corp",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.592335,
+    42.012847,
+    -71.592335,
+    42.012847
+],
+  "geometry": {"coordinates":[-71.59233500000001,42.012847],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 874274357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.577568,42.00154,-71.577568,42.00154",
+    "geom:latitude":42.00154,
+    "geom:longitude":-71.577568,
+    "iso:country":"US",
+    "sg:address":"102 Greene St",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 3974",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836347,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rsTYPd5qdr9S5NWBP1fU_42.001540_-71.577568@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314380,
+    "wof:geomhash":"4745947f2981224c65d2075548a3a5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85836347,
+            "region_id":85688509,
+            "venue_id":874274357
+        }
+    ],
+    "wof:id":874274357,
+    "wof:lastmodified":1464314380,
+    "wof:name":"Anchor Elder Care Inc",
+    "wof:parent_id":85836347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.577568,
+    42.00154,
+    -71.577568,
+    42.00154
+],
+  "geometry": {"coordinates":[-71.577568,42.00154],"type":"Point"}
+}

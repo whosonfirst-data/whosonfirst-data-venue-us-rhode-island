@@ -1,0 +1,75 @@
+{
+  "id": 874263333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.387053,41.885807,-71.387053,41.885807",
+    "geom:latitude":41.885807,
+    "geom:longitude":-71.387053,
+    "iso:country":"US",
+    "sg:address":"507 Broad St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 4303",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iVz5dBodLk9Y29Vm3id8A_41.885807_-71.387053@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313969,
+    "wof:geomhash":"223972fdd82981c999f166e0e2cbc0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874263333
+        }
+    ],
+    "wof:id":874263333,
+    "wof:lastmodified":1464313969,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.387053,
+    41.885807,
+    -71.387053,
+    41.885807
+],
+  "geometry": {"coordinates":[-71.38705299999999,41.885807],"type":"Point"}
+}

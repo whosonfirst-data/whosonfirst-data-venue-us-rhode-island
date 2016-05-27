@@ -1,0 +1,84 @@
+{
+  "id": 874277359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42231,41.774235,-71.42231,41.774235",
+    "geom:latitude":41.774235,
+    "geom:longitude":-71.42231,
+    "iso:country":"US",
+    "sg:address":"1553 Elmwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 9113",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "manager",
+        "property",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GoYg0XtKCNNtyPsUBQxQh_41.774235_-71.422310@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314513,
+    "wof:geomhash":"4790275d69b6f34395cc590850440eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874277359
+        }
+    ],
+    "wof:id":874277359,
+    "wof:lastmodified":1464314513,
+    "wof:name":"Elmwood Sports Shop Inc",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "property",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.42231,
+    41.774235,
+    -71.42231,
+    41.774235
+],
+  "geometry": {"coordinates":[-71.42231,41.774235],"type":"Point"}
+}

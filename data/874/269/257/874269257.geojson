@@ -1,0 +1,78 @@
+{
+  "id": 874269257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42593,41.90517,-71.42593,41.90517",
+    "geom:latitude":41.90517,
+    "geom:longitude":-71.42593,
+    "iso:country":"US",
+    "sg:address":"2 Manchester Print Works Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 7892",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "state",
+        "park",
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oqkEZuvi85uIAO0w6D0rD_41.905170_-71.425930@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314198,
+    "wof:geomhash":"726adaabc7f8e12d8daf7d0d96401c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874269257
+        }
+    ],
+    "wof:id":874269257,
+    "wof:lastmodified":1464314198,
+    "wof:name":"Lincoln Woods State Park",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park",
+        "parks"
+    ]
+},
+  "bbox": [
+    -71.42593,
+    41.90517,
+    -71.42593,
+    41.90517
+],
+  "geometry": {"coordinates":[-71.42592999999999,41.90517],"type":"Point"}
+}

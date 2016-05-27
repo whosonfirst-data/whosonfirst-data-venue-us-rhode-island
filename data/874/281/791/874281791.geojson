@@ -1,0 +1,90 @@
+{
+  "id": 874281791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479927,41.430575,-71.479927,41.430575",
+    "geom:latitude":41.430575,
+    "geom:longitude":-71.479927,
+    "iso:country":"US",
+    "sg:address":"361 S Pier Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8666",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oyng0rFvEa5LJ9JGCOb8w_41.430575_-71.479927@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314700,
+    "wof:geomhash":"f19a6ba6a4ac1c00db3b96d444bbd9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874281791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874281791
+        }
+    ],
+    "wof:id":874281791,
+    "wof:lastmodified":1464314700,
+    "wof:name":"Frageorgia Painting Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.479927,
+    41.430575,
+    -71.479927,
+    41.430575
+],
+  "geometry": {"coordinates":[-71.479927,41.430575],"type":"Point"}
+}

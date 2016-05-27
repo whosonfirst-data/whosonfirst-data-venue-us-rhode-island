@@ -1,0 +1,69 @@
+{
+  "id": 874299325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447403,41.8549,-71.447403,41.8549",
+    "geom:latitude":41.8549,
+    "geom:longitude":-71.447403,
+    "iso:country":"US",
+    "sg:address":"33 Smithfield Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 4433",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1en2qSt8IyjITG84G0tXX5_41.854900_-71.447403@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315365,
+    "wof:geomhash":"51399d9c1698d90b4ea24c774838072f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874299325
+        }
+    ],
+    "wof:id":874299325,
+    "wof:lastmodified":1464315365,
+    "wof:name":"Card Smart",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "card"
+    ]
+},
+  "bbox": [
+    -71.447403,
+    41.8549,
+    -71.447403,
+    41.8549
+],
+  "geometry": {"coordinates":[-71.44740299999999,41.8549],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 874286455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446759,41.797528,-71.446759,41.797528",
+    "geom:latitude":41.797528,
+    "geom:longitude":-71.446759,
+    "iso:country":"US",
+    "sg:address":"125 Carlsbad St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 6490",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "agency",
+        "steamship",
+        "shipping",
+        "trucking"
+    ],
+    "sg:website":"http://www.jewelersshipping.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LuystcsndbxQa5CQzJFKv_41.797624_-71.446204@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314872,
+    "wof:geomhash":"574c864fb051cb51b74c1e806e761645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874286455
+        }
+    ],
+    "wof:id":874286455,
+    "wof:lastmodified":1464314872,
+    "wof:name":"Jewelers Shipping Association",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "steamship",
+        "shipping",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.446759,
+    41.797528,
+    -71.446759,
+    41.797528
+],
+  "geometry": {"coordinates":[-71.446759,41.797528],"type":"Point"}
+}

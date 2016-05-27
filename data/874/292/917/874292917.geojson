@@ -1,0 +1,77 @@
+{
+  "id": 874292917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.26342,41.583943,-71.26342,41.583943",
+    "geom:latitude":41.583943,
+    "geom:longitude":-71.26342,
+    "iso:country":"US",
+    "sg:address":"227 Hilltop Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3591",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TbPrf1ekztadPe840Bdi9_41.583943_-71.263420@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315120,
+    "wof:geomhash":"bccc61cda821f63be8d5c3db6eea5fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874292917
+        }
+    ],
+    "wof:id":874292917,
+    "wof:lastmodified":1464315120,
+    "wof:name":"Mark E Appleman Md",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.26342,
+    41.583943,
+    -71.26342,
+    41.583943
+],
+  "geometry": {"coordinates":[-71.26342,41.583943],"type":"Point"}
+}

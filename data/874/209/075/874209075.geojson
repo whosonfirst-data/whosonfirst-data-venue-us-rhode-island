@@ -1,0 +1,73 @@
+{
+  "id": 874209075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.293624,41.531391,-71.293624,41.531391",
+    "geom:latitude":41.531391,
+    "geom:longitude":-71.293624,
+    "iso:country":"US",
+    "sg:address":"1235 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 3250",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m3jKf9AAH1fxv2119WWty_41.531391_-71.293624@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312940,
+    "wof:geomhash":"70f2b6349f9dfd9a03b472d1b6875d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874209075
+        }
+    ],
+    "wof:id":874209075,
+    "wof:lastmodified":1464312940,
+    "wof:name":"Airlines Rent A Car & Leasing",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.293624,
+    41.531391,
+    -71.293624,
+    41.531391
+],
+  "geometry": {"coordinates":[-71.29362399999999,41.531391],"type":"Point"}
+}

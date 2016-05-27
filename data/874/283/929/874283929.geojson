@@ -1,0 +1,82 @@
+{
+  "id": 874283929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424622,41.747478,-71.424622,41.747478",
+    "geom:latitude":41.747478,
+    "geom:longitude":-71.424622,
+    "iso:country":"US",
+    "sg:address":"1138 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 780 9880",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store",
+        "furniture"
+    ],
+    "sg:website":"http://www.shopaarons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZKkdi3PlsmM3bf4XTAA75_41.747548_-71.424177@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314771,
+    "wof:geomhash":"095f960d0d613c03df66b0eac3b1aef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874283929
+        }
+    ],
+    "wof:id":874283929,
+    "wof:lastmodified":1464314771,
+    "wof:name":"Aaron's Sales & Lease Ownership",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.424622,
+    41.747478,
+    -71.424622,
+    41.747478
+],
+  "geometry": {"coordinates":[-71.424622,41.747478],"type":"Point"}
+}

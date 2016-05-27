@@ -1,0 +1,71 @@
+{
+  "id": 874169173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562403,41.382563,-71.562403,41.382563",
+    "geom:latitude":41.382563,
+    "geom:longitude":-71.562403,
+    "iso:country":"US",
+    "sg:address":"501 Matunuck Schoolhouse Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8642",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uC0wE7BdgioTFhseqMAbS_41.382563_-71.562403@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312519,
+    "wof:geomhash":"19f7bca571fc82533180f6e2129c39a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874169173
+        }
+    ],
+    "wof:id":874169173,
+    "wof:lastmodified":1464312519,
+    "wof:name":"Saugatucket Assoc Inc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.562403,
+    41.382563,
+    -71.562403,
+    41.382563
+],
+  "geometry": {"coordinates":[-71.562403,41.382563],"type":"Point"}
+}

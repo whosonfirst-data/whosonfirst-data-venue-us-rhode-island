@@ -1,0 +1,79 @@
+{
+  "id": 874169771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457974,41.567026,-71.457974,41.567026",
+    "geom:latitude":41.567026,
+    "geom:longitude":-71.457974,
+    "iso:country":"US",
+    "sg:address":"266 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 267 9046",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x3VMvS17JARwuyNF6wRVe_41.567026_-71.457974@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"45c9d6ef6b194eabf8f0bec574103d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874169771
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874169771
+        }
+    ],
+    "wof:id":874169771,
+    "wof:lastmodified":1464312524,
+    "wof:name":"ABC Septic Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -71.457974,
+    41.567026,
+    -71.457974,
+    41.567026
+],
+  "geometry": {"coordinates":[-71.45797399999999,41.567026],"type":"Point"}
+}

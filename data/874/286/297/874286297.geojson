@@ -1,0 +1,75 @@
+{
+  "id": 874286297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469101,41.833401,-71.469101,41.833401",
+    "geom:latitude":41.833401,
+    "geom:longitude":-71.469101,
+    "iso:country":"US",
+    "sg:address":"961 Manton Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 4148",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DE9Ob3erRIwahzmM7umC2_41.833738_-71.468826@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314867,
+    "wof:geomhash":"2470be94aa0fcf8da4487689ed4f87bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874286297
+        }
+    ],
+    "wof:id":874286297,
+    "wof:lastmodified":1464314867,
+    "wof:name":"Mega Liquors",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.469101,
+    41.833401,
+    -71.469101,
+    41.833401
+],
+  "geometry": {"coordinates":[-71.46910099999999,41.833401],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874284159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437401,41.827099,-71.437401,41.827099",
+    "geom:latitude":41.827099,
+    "geom:longitude":-71.437401,
+    "iso:country":"US",
+    "sg:address":"375 Valley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 1908",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kTwrK4YdT6kv1P1H5B7vy_41.827180_-71.436728@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314780,
+    "wof:geomhash":"584410cf4db1a8b9686d7fcca036bdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874284159
+        }
+    ],
+    "wof:id":874284159,
+    "wof:lastmodified":1464314780,
+    "wof:name":"Gramajo Bros",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.437401,
+    41.827099,
+    -71.437401,
+    41.827099
+],
+  "geometry": {"coordinates":[-71.43740099999999,41.827099],"type":"Point"}
+}

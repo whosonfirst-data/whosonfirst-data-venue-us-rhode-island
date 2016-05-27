@@ -1,0 +1,70 @@
+{
+  "id": 874286819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284372,41.489654,-71.284372,41.489654",
+    "geom:latitude":41.489654,
+    "geom:longitude":-71.284372,
+    "iso:country":"US",
+    "sg:address":"55 Purgatory Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/249037-atlantic-beach-club/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 2750",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zIw3lLlZeHAZrIw9mAWom_41.489654_-71.284372@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314884,
+    "wof:geomhash":"30a8b875541035e980b457df4bcc05f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874286819
+        }
+    ],
+    "wof:id":874286819,
+    "wof:lastmodified":1464314884,
+    "wof:name":"Atlantic Beach Club",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.284372,
+    41.489654,
+    -71.284372,
+    41.489654
+],
+  "geometry": {"coordinates":[-71.284372,41.489654],"type":"Point"}
+}

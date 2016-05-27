@@ -1,0 +1,71 @@
+{
+  "id": 874271495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.261416,41.669352,-71.261416,41.669352",
+    "geom:latitude":41.669352,
+    "geom:longitude":-71.261416,
+    "iso:country":"US",
+    "sg:address":"60 Dewolf Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 0351",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807603,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rp2XJGRTK8c3IgPjbQR5S_41.669352_-71.261416@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314274,
+    "wof:geomhash":"506028d777632a242d08d2f1747bc257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85807603,
+            "region_id":85688509,
+            "venue_id":874271495
+        }
+    ],
+    "wof:id":874271495,
+    "wof:lastmodified":1464314274,
+    "wof:name":"Balzano Family Properties LLC",
+    "wof:parent_id":85807603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.261416,
+    41.669352,
+    -71.261416,
+    41.669352
+],
+  "geometry": {"coordinates":[-71.261416,41.669352],"type":"Point"}
+}

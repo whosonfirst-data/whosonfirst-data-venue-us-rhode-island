@@ -1,0 +1,91 @@
+{
+  "id": 874299919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395972,41.783245,-71.395972,41.783245",
+    "geom:latitude":41.783245,
+    "geom:longitude":-71.395972,
+    "iso:country":"US",
+    "sg:address":"156 Armington St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 8809",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6inRg5z9dDSuc47vYtIY3a_41.783245_-71.395972@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315386,
+    "wof:geomhash":"85da95c9f739eb0fb38353824d8205fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874299919
+        }
+    ],
+    "wof:id":874299919,
+    "wof:lastmodified":1464315386,
+    "wof:name":"C & C Fence Company",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.395972,
+    41.783245,
+    -71.395972,
+    41.783245
+],
+  "geometry": {"coordinates":[-71.395972,41.783245],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874126551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.192275,41.463636,-71.192275,41.463636",
+    "geom:latitude":41.463636,
+    "geom:longitude":-71.192275,
+    "iso:country":"US",
+    "sg:address":"163 Sakonnet Point Rd",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 2681",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846741,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ucKJoiXp0kUDnLwXU41J_41.463636_-71.192275@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312099,
+    "wof:geomhash":"b8efe5695c8b03964e5bbbacf7da0811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846741,
+            "region_id":85688509,
+            "venue_id":874126551
+        }
+    ],
+    "wof:id":874126551,
+    "wof:lastmodified":1464312099,
+    "wof:name":"Sakonnet Yacht Club",
+    "wof:parent_id":85846741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -71.192275,
+    41.463636,
+    -71.192275,
+    41.463636
+],
+  "geometry": {"coordinates":[-71.192275,41.463636],"type":"Point"}
+}

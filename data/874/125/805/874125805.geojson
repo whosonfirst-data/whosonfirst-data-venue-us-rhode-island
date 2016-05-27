@@ -1,0 +1,71 @@
+{
+  "id": 874125805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40814,41.904592,-71.40814,41.904592",
+    "geom:latitude":41.904592,
+    "geom:longitude":-71.40814,
+    "iso:country":"US",
+    "sg:address":"202 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Junior College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 2221",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "technical",
+        "institute"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S2A7dZgVwjfcNRsLkvCEY_41.904592_-71.408140@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312092,
+    "wof:geomhash":"ed377452db99c8b77f6d47d393e71b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874125805
+        }
+    ],
+    "wof:id":874125805,
+    "wof:lastmodified":1464312092,
+    "wof:name":"H & R Block Tax Svc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "institute"
+    ]
+},
+  "bbox": [
+    -71.40814,
+    41.904592,
+    -71.40814,
+    41.904592
+],
+  "geometry": {"coordinates":[-71.40814,41.904592],"type":"Point"}
+}

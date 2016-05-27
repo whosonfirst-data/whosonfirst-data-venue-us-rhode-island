@@ -1,0 +1,85 @@
+{
+  "id": 874291493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458515,41.97669,-71.458515,41.97669",
+    "geom:latitude":41.97669,
+    "geom:longitude":-71.458515,
+    "iso:country":"US",
+    "sg:address":"3353 Mendon Rd Ste 3",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 658 1212",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813219,
+        102191575,
+        404488361,
+        85633793,
+        101720599,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yGDzLoIGECfLdbq6DclQV_41.976690_-71.458515@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315070,
+    "wof:geomhash":"40c566e0d81c921b2613d3746c7ce294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488361,
+            "locality_id":101720599,
+            "neighbourhood_id":85813219,
+            "region_id":85688509,
+            "venue_id":874291493
+        }
+    ],
+    "wof:id":874291493,
+    "wof:lastmodified":1464315070,
+    "wof:name":"Harkow, Joel Md",
+    "wof:parent_id":85813219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.458515,
+    41.97669,
+    -71.458515,
+    41.97669
+],
+  "geometry": {"coordinates":[-71.45851500000001,41.97669],"type":"Point"}
+}

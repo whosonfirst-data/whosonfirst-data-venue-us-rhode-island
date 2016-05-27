@@ -1,0 +1,69 @@
+{
+  "id": 873983743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.738069,41.5746,-71.738069,41.5746",
+    "geom:latitude":41.5746,
+    "geom:longitude":-71.738069,
+    "iso:country":"US",
+    "sg:address":"2250 Ten Rod Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 9599",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5R8II86wbDaMaGhBr7oJFN_41.574600_-71.738069@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310640,
+    "wof:geomhash":"650ee79a84c1d8ec83b392f720d17727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":873983743
+        }
+    ],
+    "wof:id":873983743,
+    "wof:lastmodified":1464310640,
+    "wof:name":"Ocean State Consulting Svcs",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.738069,
+    41.5746,
+    -71.738069,
+    41.5746
+],
+  "geometry": {"coordinates":[-71.738069,41.5746],"type":"Point"}
+}

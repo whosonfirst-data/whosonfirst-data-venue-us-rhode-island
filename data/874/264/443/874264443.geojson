@@ -1,0 +1,71 @@
+{
+  "id": 874264443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291726,41.543104,-71.291726,41.543104",
+    "geom:latitude":41.543104,
+    "geom:longitude":-71.291726,
+    "iso:country":"US",
+    "sg:address":"1652 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 0729",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73mSdV1Gm7yMFVpVIXbO4t_41.543104_-71.291726@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314009,
+    "wof:geomhash":"64b3db05c09aff030333a8bbfbb6e970",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874264443
+        }
+    ],
+    "wof:id":874264443,
+    "wof:lastmodified":1464314009,
+    "wof:name":"Smith Sand Blasting",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.291726,
+    41.543104,
+    -71.291726,
+    41.543104
+],
+  "geometry": {"coordinates":[-71.291726,41.543104],"type":"Point"}
+}

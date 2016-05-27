@@ -1,0 +1,74 @@
+{
+  "id": 874268975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501093,41.687543,-71.501093,41.687543",
+    "geom:latitude":41.687543,
+    "geom:longitude":-71.501093,
+    "iso:country":"US",
+    "sg:address":"425 Quaker Ln",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 2880",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mhynKSvDXoTl7CxzCKcDN_41.687543_-71.501093@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314189,
+    "wof:geomhash":"5c4c1bb245f99877cde0776bc5147d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874268975
+        }
+    ],
+    "wof:id":874268975,
+    "wof:lastmodified":1464314189,
+    "wof:name":"Sunoco A Plus",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.501093,
+    41.687543,
+    -71.501093,
+    41.687543
+],
+  "geometry": {"coordinates":[-71.501093,41.687543],"type":"Point"}
+}

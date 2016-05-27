@@ -1,0 +1,73 @@
+{
+  "id": 874100001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.605514,41.388376,-71.605514,41.388376",
+    "geom:latitude":41.388376,
+    "geom:longitude":-71.605514,
+    "iso:country":"US",
+    "sg:address":"116 Canterbury Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2483",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "deep",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b8G9sIKmRimNU4sZiEKbG_41.388376_-71.605514@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311792,
+    "wof:geomhash":"fde4a992d1f45a21fea28c25cdc9ee99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874100001
+        }
+    ],
+    "wof:id":874100001,
+    "wof:lastmodified":1464311792,
+    "wof:name":"Bite",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "deep",
+        "sea"
+    ]
+},
+  "bbox": [
+    -71.605514,
+    41.388376,
+    -71.605514,
+    41.388376
+],
+  "geometry": {"coordinates":[-71.605514,41.388376],"type":"Point"}
+}

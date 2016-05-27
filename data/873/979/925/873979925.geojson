@@ -1,0 +1,71 @@
+{
+  "id": 873979925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466238,41.643104,-71.466238,41.643104",
+    "geom:latitude":41.643104,
+    "geom:longitude":-71.466238,
+    "iso:country":"US",
+    "sg:address":"31 S Pierce Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 2748",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rOYQhONJsCF5xaQvGes3g_41.643104_-71.466238@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310582,
+    "wof:geomhash":"e10900b970547bea561059af563c70fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":873979925
+        }
+    ],
+    "wof:id":873979925,
+    "wof:lastmodified":1464310582,
+    "wof:name":"Percival Painting",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.466238,
+    41.643104,
+    -71.466238,
+    41.643104
+],
+  "geometry": {"coordinates":[-71.466238,41.643104],"type":"Point"}
+}

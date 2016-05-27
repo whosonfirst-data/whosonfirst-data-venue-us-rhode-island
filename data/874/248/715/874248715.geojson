@@ -1,0 +1,84 @@
+{
+  "id": 874248715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476132,41.84472,-71.476132,41.84472",
+    "geom:latitude":41.84472,
+    "geom:longitude":-71.476132,
+    "iso:country":"US",
+    "sg:address":"9 Humbert St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 8330",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "stampings",
+        "injection",
+        "molding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13m9TBYnF7WxOLXgQzshjo_41.844720_-71.476132@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313519,
+    "wof:geomhash":"3c1e3edcf844e82ec2c83dfdae00a146",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874248715
+        }
+    ],
+    "wof:id":874248715,
+    "wof:lastmodified":1464313519,
+    "wof:name":"Eastern Manufacturing Company",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "stampings",
+        "injection",
+        "molding"
+    ]
+},
+  "bbox": [
+    -71.476132,
+    41.84472,
+    -71.476132,
+    41.84472
+],
+  "geometry": {"coordinates":[-71.47613200000001,41.84472],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874283741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426201,41.869999,-71.426201,41.869999",
+    "geom:latitude":41.869999,
+    "geom:longitude":-71.426201,
+    "iso:country":"US",
+    "sg:address":"1135 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 9111",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pyKOzvizOc02EhRNZ3WbK_41.870008_-71.425964@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314764,
+    "wof:geomhash":"1d30aa0a91a34ffd47a14a97f10cc50b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874283741
+        }
+    ],
+    "wof:id":874283741,
+    "wof:lastmodified":1464314764,
+    "wof:name":"Multi-State Restoration Llc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.426201,
+    41.869999,
+    -71.426201,
+    41.869999
+],
+  "geometry": {"coordinates":[-71.42620100000001,41.869999],"type":"Point"}
+}

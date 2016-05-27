@@ -1,0 +1,77 @@
+{
+  "id": 874304121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.345597,41.830022,-71.345597,41.830022",
+    "geom:latitude":41.830022,
+    "geom:longitude":-71.345597,
+    "iso:country":"US",
+    "sg:address":"65 Hunts Mills Rd",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Historic",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 1750",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wzQ1uZIvLeKYl0uKscX3S_41.830022_-71.345597@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315533,
+    "wof:geomhash":"85caf5c570d9834438009282854272f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874304121
+        }
+    ],
+    "wof:id":874304121,
+    "wof:lastmodified":1464315533,
+    "wof:name":"East Providence Historical Society",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "historical"
+    ]
+},
+  "bbox": [
+    -71.345597,
+    41.830022,
+    -71.345597,
+    41.830022
+],
+  "geometry": {"coordinates":[-71.345597,41.830022],"type":"Point"}
+}

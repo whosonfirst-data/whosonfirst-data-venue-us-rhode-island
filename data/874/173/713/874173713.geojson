@@ -1,0 +1,69 @@
+{
+  "id": 874173713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.777678,41.920013,-71.777678,41.920013",
+    "geom:latitude":41.920013,
+    "geom:longitude":-71.777678,
+    "iso:country":"US",
+    "sg:address":"2400 Putnam Pike",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 8333",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizzeria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855567,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PNwW9t5xXxKpwm32SszFG_41.920013_-71.777678@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312565,
+    "wof:geomhash":"54541e750e15626db0d545f766d1d10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85855567,
+            "region_id":85688509,
+            "venue_id":874173713
+        }
+    ],
+    "wof:id":874173713,
+    "wof:lastmodified":1464312565,
+    "wof:name":"Europa Food & Pizza",
+    "wof:parent_id":85855567,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria"
+    ]
+},
+  "bbox": [
+    -71.777678,
+    41.920013,
+    -71.777678,
+    41.920013
+],
+  "geometry": {"coordinates":[-71.77767799999999,41.920013],"type":"Point"}
+}

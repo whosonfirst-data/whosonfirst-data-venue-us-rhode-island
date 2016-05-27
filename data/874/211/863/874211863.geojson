@@ -1,0 +1,71 @@
+{
+  "id": 874211863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.464531,41.856834,-71.464531,41.856834",
+    "geom:latitude":41.856834,
+    "geom:longitude":-71.464531,
+    "iso:country":"US",
+    "sg:address":"624 Fruit Hill Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 9211",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "window",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iHwc2ZsIVqVOcyYgEK63Y_41.856834_-71.464531@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312972,
+    "wof:geomhash":"512b5657c26429cb46be2ecbd8c02d9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874211863
+        }
+    ],
+    "wof:id":874211863,
+    "wof:lastmodified":1464312972,
+    "wof:name":"Action Window Cleaning LLC",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.464531,
+    41.856834,
+    -71.464531,
+    41.856834
+],
+  "geometry": {"coordinates":[-71.46453099999999,41.856834],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 874134745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410248,41.884849,-71.410248,41.884849",
+    "geom:latitude":41.884849,
+    "geom:longitude":-71.410248,
+    "iso:country":"US",
+    "sg:address":"135 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 0083",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hIdk9UMmxsBqDAdduIyg8_41.884849_-71.410248@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312188,
+    "wof:geomhash":"b272842af72a0e11fee9526400cfb258",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874134745
+        }
+    ],
+    "wof:id":874134745,
+    "wof:lastmodified":1464312188,
+    "wof:name":"Providence & Worcester RR",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.410248,
+    41.884849,
+    -71.410248,
+    41.884849
+],
+  "geometry": {"coordinates":[-71.410248,41.884849],"type":"Point"}
+}

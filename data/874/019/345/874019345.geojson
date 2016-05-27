@@ -1,0 +1,69 @@
+{
+  "id": 874019345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451347,41.858436,-71.451347,41.858436",
+    "geom:latitude":41.858436,
+    "geom:longitude":-71.451347,
+    "iso:country":"US",
+    "sg:address":"10 Carl Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 5964",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6giPKBTotBlWb68eew7IY4_41.858436_-71.451347@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310941,
+    "wof:geomhash":"f05736bb96b8456f6fe8f30609c022db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874019345
+        }
+    ],
+    "wof:id":874019345,
+    "wof:lastmodified":1464310941,
+    "wof:name":"Allstate Medical Systems Inc",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -71.451347,
+    41.858436,
+    -71.451347,
+    41.858436
+],
+  "geometry": {"coordinates":[-71.451347,41.858436],"type":"Point"}
+}

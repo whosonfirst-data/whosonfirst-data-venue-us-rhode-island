@@ -1,0 +1,71 @@
+{
+  "id": 874286547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461569,41.849993,-71.461569,41.849993",
+    "geom:latitude":41.849993,
+    "geom:longitude":-71.461569,
+    "iso:country":"US",
+    "sg:address":"1524 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4111",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VT1lMyqBHpX0vzqHqQlYj_41.850144_-71.461820@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314874,
+    "wof:geomhash":"406ba1a8e26cf3273bb1da9563428ce7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874286547
+        }
+    ],
+    "wof:id":874286547,
+    "wof:lastmodified":1464314874,
+    "wof:name":"Auto Doctor",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.461569,
+    41.849993,
+    -71.461569,
+    41.849993
+],
+  "geometry": {"coordinates":[-71.461569,41.849993],"type":"Point"}
+}

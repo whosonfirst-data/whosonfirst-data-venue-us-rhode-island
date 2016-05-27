@@ -1,0 +1,79 @@
+{
+  "id": 874025063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397729,41.778455,-71.397729,41.778455",
+    "geom:latitude":41.778455,
+    "geom:longitude":-71.397729,
+    "iso:country":"US",
+    "sg:address":"180 Norwood Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 7810",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PdR80PctSVrDqesBth3Bw_41.778455_-71.397729@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310997,
+    "wof:geomhash":"de039589ad72f78a01a2aa00ea1ab86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874025063
+        }
+    ],
+    "wof:id":874025063,
+    "wof:lastmodified":1464310997,
+    "wof:name":"Ri Primary Care Physician Corp",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -71.397729,
+    41.778455,
+    -71.397729,
+    41.778455
+],
+  "geometry": {"coordinates":[-71.397729,41.778455],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874146083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.397503,41.883372,-71.397503,41.883372",
+    "geom:latitude":41.883372,
+    "geom:longitude":-71.397503,
+    "iso:country":"US",
+    "sg:address":"280 Rand St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 3000",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "canned",
+        "grocer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43PLiQg3u4TBiNvVN3gQqF_41.883372_-71.397503@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312294,
+    "wof:geomhash":"e30ab3cb50272044777fe44f210ae8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874146083
+        }
+    ],
+    "wof:id":874146083,
+    "wof:lastmodified":1464312294,
+    "wof:name":"Porino's Gourmet Foods",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "grocer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.397503,
+    41.883372,
+    -71.397503,
+    41.883372
+],
+  "geometry": {"coordinates":[-71.397503,41.883372],"type":"Point"}
+}

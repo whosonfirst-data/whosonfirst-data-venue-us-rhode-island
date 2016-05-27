@@ -1,0 +1,71 @@
+{
+  "id": 874260287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444892,41.620425,-71.444892,41.620425",
+    "geom:latitude":41.620425,
+    "geom:longitude":-71.444892,
+    "iso:country":"US",
+    "sg:address":"328 Potter Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 1054",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "professor",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837947,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_479aOOFUfj8PpknTxvvztb_41.620425_-71.444892@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313868,
+    "wof:geomhash":"8f6e079242ef0a71e1aac2ae987338d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85837947,
+            "region_id":85688509,
+            "venue_id":874260287
+        }
+    ],
+    "wof:id":874260287,
+    "wof:lastmodified":1464313868,
+    "wof:name":"Wickford Educational Cons",
+    "wof:parent_id":85837947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "professor",
+        "contract"
+    ]
+},
+  "bbox": [
+    -71.444892,
+    41.620425,
+    -71.444892,
+    41.620425
+],
+  "geometry": {"coordinates":[-71.444892,41.620425],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 874299839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407509,41.842481,-71.407509,41.842481",
+    "geom:latitude":41.842481,
+    "geom:longitude":-71.407509,
+    "iso:country":"US",
+    "sg:address":"827 N Main St Ste 6",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 5030",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "medicine",
+        "surgeon",
+        "sport",
+        "rehabilitation",
+        "physical"
+    ],
+    "sg:website":"http://www.jrmd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85867163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lRsq60pVRGfH0FzJmWvYe_41.842481_-71.407509@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315384,
+    "wof:geomhash":"3c25f2daec2e09e3556474d1c6b4c5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874299839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874299839
+        }
+    ],
+    "wof:id":874299839,
+    "wof:lastmodified":1464315384,
+    "wof:name":"Sports Medicine & Performance",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "medicine",
+        "surgeon",
+        "sport",
+        "rehabilitation",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.407509,
+    41.842481,
+    -71.407509,
+    41.842481
+],
+  "geometry": {"coordinates":[-71.407509,41.842481],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874158073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499895,41.591331,-71.499895,41.591331",
+    "geom:latitude":41.591331,
+    "geom:longitude":-71.499895,
+    "iso:country":"US",
+    "sg:address":"3961 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3629",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7vSr07PxjDHzFOKjpVCu_41.591331_-71.499895@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312409,
+    "wof:geomhash":"bad78530f523db3f8de628ef1ce37d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874158073
+        }
+    ],
+    "wof:id":874158073,
+    "wof:lastmodified":1464312409,
+    "wof:name":"Ziggy's Auto Svc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.499895,
+    41.591331,
+    -71.499895,
+    41.591331
+],
+  "geometry": {"coordinates":[-71.499895,41.591331],"type":"Point"}
+}

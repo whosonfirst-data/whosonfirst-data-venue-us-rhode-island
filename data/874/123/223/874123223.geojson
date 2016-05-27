@@ -1,0 +1,69 @@
+{
+  "id": 874123223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524017,41.392212,-71.524017,41.392212",
+    "geom:latitude":41.392212,
+    "geom:longitude":-71.524017,
+    "iso:country":"US",
+    "sg:address":"200 Gooseberry Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4460",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K4XJiZbvwreXRNmLCmDaY_41.392212_-71.524017@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312070,
+    "wof:geomhash":"5a2d3ca98d66ea84b2d9417beb40bbdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874123223
+        }
+    ],
+    "wof:id":874123223,
+    "wof:lastmodified":1464312070,
+    "wof:name":"Highpoint Trawlers Inc",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.524017,
+    41.392212,
+    -71.524017,
+    41.392212
+],
+  "geometry": {"coordinates":[-71.524017,41.392212],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874293281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439865,41.724586,-71.439865,41.724586",
+    "geom:latitude":41.724586,
+    "geom:longitude":-71.439865,
+    "iso:country":"US",
+    "sg:address":"2100 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 8888",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.providencewarwickairportsuites.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ThWLCkoXQwDmvhPKMd3Bz_41.724586_-71.439865@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315133,
+    "wof:geomhash":"647ded642b6bbff2849cd41742b83b2a",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874293281
+        }
+    ],
+    "wof:id":874293281,
+    "wof:lastmodified":1464315133,
+    "wof:name":"Hampton Inn and Suites",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -71.439865,
+    41.724586,
+    -71.439865,
+    41.724586
+],
+  "geometry": {"coordinates":[-71.439865,41.724586],"type":"Point"}
+}

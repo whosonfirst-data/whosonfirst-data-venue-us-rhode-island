@@ -1,0 +1,69 @@
+{
+  "id": 874251541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53737,41.886576,-71.53737,41.886576",
+    "geom:latitude":41.886576,
+    "geom:longitude":-71.53737,
+    "iso:country":"US",
+    "sg:address":"305 Mountaindale Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9009",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EpUhmachljqoKBVhImmVL_41.886576_-71.537370@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313596,
+    "wof:geomhash":"149cd693159554843e1036c9da514578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874251541
+        }
+    ],
+    "wof:id":874251541,
+    "wof:lastmodified":1464313596,
+    "wof:name":"Custom Cut Wood",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.53737,
+    41.886576,
+    -71.53737,
+    41.886576
+],
+  "geometry": {"coordinates":[-71.53737,41.886576],"type":"Point"}
+}

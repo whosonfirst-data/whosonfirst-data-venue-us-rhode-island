@@ -1,0 +1,79 @@
+{
+  "id": 874077851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.369828,41.821516,-71.369828,41.821516",
+    "geom:latitude":41.821516,
+    "geom:longitude":-71.369828,
+    "iso:country":"US",
+    "sg:address":"318 Waterman Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 5930",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gJwSOVMgAbC2olr1wnx4J_41.821516_-71.369828@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311527,
+    "wof:geomhash":"c483cb68be7318ae52fe158a45885b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874077851
+        }
+    ],
+    "wof:id":874077851,
+    "wof:lastmodified":1464311527,
+    "wof:name":"Artificial Kidney Ctr",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.369828,
+    41.821516,
+    -71.369828,
+    41.821516
+],
+  "geometry": {"coordinates":[-71.369828,41.821516],"type":"Point"}
+}

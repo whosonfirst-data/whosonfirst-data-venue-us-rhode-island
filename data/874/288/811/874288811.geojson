@@ -1,0 +1,71 @@
+{
+  "id": 874288811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679802,41.3666,-71.679802,41.3666",
+    "geom:latitude":41.3666,
+    "geom:longitude":-71.679802,
+    "iso:country":"US",
+    "sg:address":"5327 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 0232",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "seafood",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aFFUwz8oTwmGzESccWmIx_41.366600_-71.679802@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314970,
+    "wof:geomhash":"cfd4975c3d4d078bf8b05c5edbd94f34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288811
+        }
+    ],
+    "wof:id":874288811,
+    "wof:lastmodified":1464314970,
+    "wof:name":"Market by the Sea",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "market"
+    ]
+},
+  "bbox": [
+    -71.679802,
+    41.3666,
+    -71.679802,
+    41.3666
+],
+  "geometry": {"coordinates":[-71.679802,41.3666],"type":"Point"}
+}

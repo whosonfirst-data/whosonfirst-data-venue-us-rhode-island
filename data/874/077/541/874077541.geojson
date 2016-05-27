@@ -1,0 +1,71 @@
+{
+  "id": 874077541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529853,41.901913,-71.529853,41.901913",
+    "geom:latitude":41.901913,
+    "geom:longitude":-71.529853,
+    "iso:country":"US",
+    "sg:address":"36 Capron Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6835",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "product",
+        "asphalt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qSq8w5kGKaaaVO7N4LSY2_41.901913_-71.529853@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311524,
+    "wof:geomhash":"b10fd0c1c4065265e0cb6fd189a31ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874077541
+        }
+    ],
+    "wof:id":874077541,
+    "wof:lastmodified":1464311524,
+    "wof:name":"New England Paving Company",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "asphalt"
+    ]
+},
+  "bbox": [
+    -71.529853,
+    41.901913,
+    -71.529853,
+    41.901913
+],
+  "geometry": {"coordinates":[-71.529853,41.901913],"type":"Point"}
+}

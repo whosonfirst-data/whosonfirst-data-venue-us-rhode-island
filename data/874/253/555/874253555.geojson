@@ -1,0 +1,90 @@
+{
+  "id": 874253555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.490233,41.424775,-71.490233,41.424775",
+    "geom:latitude":41.424775,
+    "geom:longitude":-71.490233,
+    "iso:country":"US",
+    "sg:address":"19 Ospray Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 6939",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mtv8mLw76zKADJgiaZFlV_41.424775_-71.490233@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313637,
+    "wof:geomhash":"05f9e20b8f472d56dcb3bf8a0217091d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874253555
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874253555
+        }
+    ],
+    "wof:id":874253555,
+    "wof:lastmodified":1464313637,
+    "wof:name":"Wayne Johnson Painting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.490233,
+    41.424775,
+    -71.490233,
+    41.424775
+],
+  "geometry": {"coordinates":[-71.490233,41.424775],"type":"Point"}
+}

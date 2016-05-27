@@ -1,0 +1,98 @@
+{
+  "id": 874293029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499439,41.438333,-71.499439,41.438333",
+    "geom:latitude":41.438333,
+    "geom:longitude":-71.499439,
+    "iso:country":"US",
+    "sg:address":"344 Main St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 3353",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qRxkWY6Rz5lKPlI8SXmNN_41.438333_-71.499439@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315124,
+    "wof:geomhash":"897b3a63ad6dc6e276fbcb77818f23e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293029
+        }
+    ],
+    "wof:id":874293029,
+    "wof:lastmodified":1464315124,
+    "wof:name":"El Fuego Mexican Grill Wakefield",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.499439,
+    41.438333,
+    -71.499439,
+    41.438333
+],
+  "geometry": {"coordinates":[-71.499439,41.438333],"type":"Point"}
+}

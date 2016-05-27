@@ -1,0 +1,77 @@
+{
+  "id": 874261095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475506,41.432756,-71.475506,41.432756",
+    "geom:latitude":41.432756,
+    "geom:longitude":-71.475506,
+    "iso:country":"US",
+    "sg:address":"47 Inez St",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7634",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xvUSXN79UsNxfN4qIQIPZ_41.432756_-71.475506@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313894,
+    "wof:geomhash":"123ee9457409bfbd2c04005df2bd7d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874261095
+        }
+    ],
+    "wof:id":874261095,
+    "wof:lastmodified":1464313894,
+    "wof:name":"Gem Plumbing",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.475506,
+    41.432756,
+    -71.475506,
+    41.432756
+],
+  "geometry": {"coordinates":[-71.475506,41.432756],"type":"Point"}
+}

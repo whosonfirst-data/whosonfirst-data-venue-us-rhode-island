@@ -1,0 +1,71 @@
+{
+  "id": 874136085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455819,41.816,-71.455819,41.816",
+    "geom:latitude":41.816,
+    "geom:longitude":-71.455819,
+    "iso:country":"US",
+    "sg:address":"40 Laurel Hill Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 0051",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OGU66Xz01vXrFpieAHZSE_41.816000_-71.455819@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312201,
+    "wof:geomhash":"1f9af8171b6f27f50591b38c48ce944e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874136085
+        }
+    ],
+    "wof:id":874136085,
+    "wof:lastmodified":1464312201,
+    "wof:name":"Hartford Park Community Ctr",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.455819,
+    41.816,
+    -71.455819,
+    41.816
+],
+  "geometry": {"coordinates":[-71.45581900000001,41.816],"type":"Point"}
+}

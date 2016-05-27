@@ -1,0 +1,79 @@
+{
+  "id": 874148773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406098,41.733504,-71.406098,41.733504",
+    "geom:latitude":41.733504,
+    "geom:longitude":-71.406098,
+    "iso:country":"US",
+    "sg:address":"2 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5257",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826377,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bYc7Y3NoOofr4DYqa6Ioc_41.733504_-71.406098@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312318,
+    "wof:geomhash":"bdbc095f452a2e3de7542f263318d46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85826377,
+            "region_id":85688509,
+            "venue_id":874148773
+        }
+    ],
+    "wof:id":874148773,
+    "wof:lastmodified":1464312318,
+    "wof:name":"Ocean State Collision",
+    "wof:parent_id":85826377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.406098,
+    41.733504,
+    -71.406098,
+    41.733504
+],
+  "geometry": {"coordinates":[-71.406098,41.733504],"type":"Point"}
+}

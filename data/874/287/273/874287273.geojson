@@ -1,0 +1,78 @@
+{
+  "id": 874287273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.525604,41.703107,-71.525604,41.703107",
+    "geom:latitude":41.703107,
+    "geom:longitude":-71.525604,
+    "iso:country":"US",
+    "sg:address":"77 Washington St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/58379-hong-kong-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 3553",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803395,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1teobYi9C2SKScISw5eUtT_41.703107_-71.525604@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314899,
+    "wof:geomhash":"ff8ccaa419f6ac3a4d39eee92eb8391a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874287273
+        }
+    ],
+    "wof:id":874287273,
+    "wof:lastmodified":1464314899,
+    "wof:name":"Hong Kong Restaurant",
+    "wof:parent_id":85803395,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.525604,
+    41.703107,
+    -71.525604,
+    41.703107
+],
+  "geometry": {"coordinates":[-71.525604,41.703107],"type":"Point"}
+}

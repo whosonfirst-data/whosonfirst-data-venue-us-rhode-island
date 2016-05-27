@@ -1,0 +1,76 @@
+{
+  "id": 874283431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449097,41.8256,-71.449097,41.8256",
+    "geom:latitude":41.8256,
+    "geom:longitude":-71.449097,
+    "iso:country":"US",
+    "sg:address":"15 Montrose St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 3111",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "caterer"
+    ],
+    "sg:website":"www.cozycaterers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28O8FibxVjuf2DWeuXeDOk_41.825737_-71.449448@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314754,
+    "wof:geomhash":"34c6f78e3a18ee3e0d8e4de70327128a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874283431
+        }
+    ],
+    "wof:id":874283431,
+    "wof:lastmodified":1464314754,
+    "wof:name":"Cozy Caterers",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -71.449097,
+    41.8256,
+    -71.449097,
+    41.8256
+],
+  "geometry": {"coordinates":[-71.44909699999999,41.8256],"type":"Point"}
+}

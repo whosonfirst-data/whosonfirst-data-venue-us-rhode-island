@@ -1,0 +1,71 @@
+{
+  "id": 874076889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43375,41.754608,-71.43375,41.754608",
+    "geom:latitude":41.754608,
+    "geom:longitude":-71.43375,
+    "iso:country":"US",
+    "sg:address":"60 Jefferson Park Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 4900",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:website":"www.emcinsurance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eFrk4wqDbiWPADEe8BinN_41.754608_-71.433750@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311519,
+    "wof:geomhash":"5c4f033fe4c1921fe8674ced96dd9623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874076889
+        }
+    ],
+    "wof:id":874076889,
+    "wof:lastmodified":1464311519,
+    "wof:name":"EMC Insurance Co",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43375,
+    41.754608,
+    -71.43375,
+    41.754608
+],
+  "geometry": {"coordinates":[-71.43375,41.754608],"type":"Point"}
+}

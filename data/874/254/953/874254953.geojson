@@ -1,0 +1,75 @@
+{
+  "id": 874254953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468909,41.82686,-71.468909,41.82686",
+    "geom:latitude":41.82686,
+    "geom:longitude":-71.468909,
+    "iso:country":"US",
+    "sg:address":"89 Celia St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 7799",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "recycling",
+        "metal",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dTtRghC6UBy1nUg7Kd6D5_41.826860_-71.468909@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313674,
+    "wof:geomhash":"43234766b9b9652dfb601bbb46f37cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874254953
+        }
+    ],
+    "wof:id":874254953,
+    "wof:lastmodified":1464313674,
+    "wof:name":"Metals Recycling-Thyssen",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "metal",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.468909,
+    41.82686,
+    -71.468909,
+    41.82686
+],
+  "geometry": {"coordinates":[-71.468909,41.82686],"type":"Point"}
+}

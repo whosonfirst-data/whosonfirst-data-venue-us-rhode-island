@@ -1,0 +1,80 @@
+{
+  "id": 874303021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441296,41.815601,-71.441296,41.815601",
+    "geom:latitude":41.815601,
+    "geom:longitude":-71.441296,
+    "iso:country":"US",
+    "sg:address":"45 Dike St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 8822",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "relief",
+        "disaster",
+        "recovery"
+    ],
+    "sg:website":"http://www.arcpia.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BNhhM5ZA8fEmoly3fa2w7_41.815601_-71.441296@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315496,
+    "wof:geomhash":"0957f3b1f9912a271508f4584af0d3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874303021
+        }
+    ],
+    "wof:id":874303021,
+    "wof:lastmodified":1464315496,
+    "wof:name":"American Reconstruction Corporation",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relief",
+        "disaster",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -71.441296,
+    41.815601,
+    -71.441296,
+    41.815601
+],
+  "geometry": {"coordinates":[-71.44129599999999,41.815601],"type":"Point"}
+}

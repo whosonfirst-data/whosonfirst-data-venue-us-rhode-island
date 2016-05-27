@@ -1,0 +1,71 @@
+{
+  "id": 874279119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420079,41.92936,-71.420079,41.92936",
+    "geom:latitude":41.92936,
+    "geom:longitude":-71.420079,
+    "iso:country":"US",
+    "sg:address":"4 Whipple St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 312 0017",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KPozceC3mD2ojhC0qGSjK_41.929360_-71.420079@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314576,
+    "wof:geomhash":"62fb4ac7684cfdf57f3ac3328f24892a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874279119
+        }
+    ],
+    "wof:id":874279119,
+    "wof:lastmodified":1464314576,
+    "wof:name":"S & D Road Svc",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.420079,
+    41.92936,
+    -71.420079,
+    41.92936
+],
+  "geometry": {"coordinates":[-71.420079,41.92936],"type":"Point"}
+}

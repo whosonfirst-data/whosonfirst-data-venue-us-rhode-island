@@ -1,0 +1,84 @@
+{
+  "id": 874293343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450829,41.712299,-71.450829,41.712299",
+    "geom:latitude":41.712299,
+    "geom:longitude":-71.450829,
+    "iso:country":"US",
+    "sg:address":"821 Main Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 7999",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "windows-wholesale",
+        "window",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UAdmpz2sHdSYME5MeM9yc_41.712299_-71.450829@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315135,
+    "wof:geomhash":"45d02f33c1d01dbb57902bf939269fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874293343
+        }
+    ],
+    "wof:id":874293343,
+    "wof:lastmodified":1464315135,
+    "wof:name":"Marshall Siding And Window",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows-wholesale",
+        "window",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.450829,
+    41.712299,
+    -71.450829,
+    41.712299
+],
+  "geometry": {"coordinates":[-71.450829,41.712299],"type":"Point"}
+}

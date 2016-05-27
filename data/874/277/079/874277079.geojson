@@ -1,0 +1,85 @@
+{
+  "id": 874277079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193635,41.60537,-71.193635,41.60537",
+    "geom:latitude":41.60537,
+    "geom:longitude":-71.193635,
+    "iso:country":"US",
+    "sg:address":"2753 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 3285",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hWGTBFcnmYCgNLFhpRXSt_41.605370_-71.193635@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314504,
+    "wof:geomhash":"ee0531385370e08c6da957c4d0451564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874277079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874277079
+        }
+    ],
+    "wof:id":874277079,
+    "wof:lastmodified":1464314504,
+    "wof:name":"Past and Presents Ltd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "antique"
+    ]
+},
+  "bbox": [
+    -71.193635,
+    41.60537,
+    -71.193635,
+    41.60537
+],
+  "geometry": {"coordinates":[-71.193635,41.60537],"type":"Point"}
+}

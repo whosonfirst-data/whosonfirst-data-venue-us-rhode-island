@@ -1,0 +1,89 @@
+{
+  "id": 874293133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280373,41.730202,-71.280373,41.730202",
+    "geom:latitude":41.730202,
+    "geom:longitude":-71.280373,
+    "iso:country":"US",
+    "sg:address":"75 Child St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7617",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ],
+    "sg:website":"http://www.hrblock.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ucB5Sy7NaCOCYV97rm5Ec_41.730202_-71.280373@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315128,
+    "wof:geomhash":"821f28c00ac885a6679e055913bde7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293133
+        }
+    ],
+    "wof:id":874293133,
+    "wof:lastmodified":1464315128,
+    "wof:name":"H&R Block",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "preparation-business",
+        "taxes-consultants",
+        "loan",
+        "reporting",
+        "representative",
+        "alternative",
+        "bookkeeping"
+    ]
+},
+  "bbox": [
+    -71.280373,
+    41.730202,
+    -71.280373,
+    41.730202
+],
+  "geometry": {"coordinates":[-71.280373,41.730202],"type":"Point"}
+}

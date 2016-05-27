@@ -1,0 +1,81 @@
+{
+  "id": 874279239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452849,41.790944,-71.452849,41.790944",
+    "geom:latitude":41.790944,
+    "geom:longitude":-71.452849,
+    "iso:country":"US",
+    "sg:address":"1287 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 6533",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pF4YbFkdBYYXflQIEoIFX_41.790944_-71.452849@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314580,
+    "wof:geomhash":"fa4517d81ac0aee0701f85182933d399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874279239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874279239
+        }
+    ],
+    "wof:id":874279239,
+    "wof:lastmodified":1464314580,
+    "wof:name":"Deluxe Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.452849,
+    41.790944,
+    -71.452849,
+    41.790944
+],
+  "geometry": {"coordinates":[-71.452849,41.790944],"type":"Point"}
+}

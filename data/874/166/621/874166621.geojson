@@ -1,0 +1,71 @@
+{
+  "id": 874166621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283962,41.69112,-71.283962,41.69112",
+    "geom:latitude":41.69112,
+    "geom:longitude":-71.283962,
+    "iso:country":"US",
+    "sg:address":"72 Fales Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 4983",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xKfkLbsxsCFtcpGKCwbef_41.691120_-71.283962@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312495,
+    "wof:geomhash":"a776315dc624df971ec1cb1471416d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874166621
+        }
+    ],
+    "wof:id":874166621,
+    "wof:lastmodified":1464312495,
+    "wof:name":"Vans Electric",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.283962,
+    41.69112,
+    -71.283962,
+    41.69112
+],
+  "geometry": {"coordinates":[-71.283962,41.69112],"type":"Point"}
+}

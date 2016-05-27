@@ -1,0 +1,79 @@
+{
+  "id": 874147339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53512,41.453031,-71.53512,41.453031",
+    "geom:latitude":41.453031,
+    "geom:longitude":-71.53512,
+    "iso:country":"US",
+    "sg:address":"881 Curtis Corner Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 6304",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "sand",
+        "gravel",
+        "pit",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hS7U5B1bOG1svksGXxryM_41.453031_-71.535120@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312305,
+    "wof:geomhash":"b1cf4940a9d5e88b30ba734905948977",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874147339
+        }
+    ],
+    "wof:id":874147339,
+    "wof:lastmodified":1464312305,
+    "wof:name":"George Sherman Sand & Gravel",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "sand",
+        "gravel",
+        "pit",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53512,
+    41.453031,
+    -71.53512,
+    41.453031
+],
+  "geometry": {"coordinates":[-71.53512000000001,41.453031],"type":"Point"}
+}

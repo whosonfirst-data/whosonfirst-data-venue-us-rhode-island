@@ -1,0 +1,71 @@
+{
+  "id": 874268933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.603301,41.659318,-71.603301,41.659318",
+    "geom:latitude":41.659318,
+    "geom:longitude":-71.603301,
+    "iso:country":"US",
+    "sg:address":"9 Nooseneck Hill Rd",
+    "sg:city":"West Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 8932",
+    "sg:postcode":"02817",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q69OUXeD16mxOVFSV27KX_41.659318_-71.603301@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314188,
+    "wof:geomhash":"cc97ffcbfaf19ec0b21af8862d8dd057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874268933
+        }
+    ],
+    "wof:id":874268933,
+    "wof:lastmodified":1464314188,
+    "wof:name":"Washington County Auto Ctr",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.603301,
+    41.659318,
+    -71.603301,
+    41.659318
+],
+  "geometry": {"coordinates":[-71.603301,41.659318],"type":"Point"}
+}

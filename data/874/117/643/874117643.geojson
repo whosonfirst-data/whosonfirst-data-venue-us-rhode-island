@@ -1,0 +1,71 @@
+{
+  "id": 874117643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271318,41.572845,-71.271318,41.572845",
+    "geom:latitude":41.572845,
+    "geom:longitude":-71.271318,
+    "iso:country":"US",
+    "sg:address":"143 Watson Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 1800",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jt0RbpyZZyNyuH2Ou7lZJ_41.572845_-71.271318@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312012,
+    "wof:geomhash":"dfdab19ddd8a9f278585260c99b8a5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874117643
+        }
+    ],
+    "wof:id":874117643,
+    "wof:lastmodified":1464312012,
+    "wof:name":"Furniture Medic",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.271318,
+    41.572845,
+    -71.271318,
+    41.572845
+],
+  "geometry": {"coordinates":[-71.27131799999999,41.572845],"type":"Point"}
+}

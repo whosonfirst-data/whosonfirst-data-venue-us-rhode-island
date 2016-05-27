@@ -1,0 +1,86 @@
+{
+  "id": 874228849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483966,41.441957,-71.483966,41.441957",
+    "geom:latitude":41.441957,
+    "geom:longitude":-71.483966,
+    "iso:country":"US",
+    "sg:address":"133 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 1980",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G0X59W6H1ZxOVAwRFmv0M_41.441957_-71.483966@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313149,
+    "wof:geomhash":"60bee75d8da475ed75f67e1e6edc9e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874228849
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874228849
+        }
+    ],
+    "wof:id":874228849,
+    "wof:lastmodified":1464313149,
+    "wof:name":"South County Electrolysis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.483966,
+    41.441957,
+    -71.483966,
+    41.441957
+],
+  "geometry": {"coordinates":[-71.483966,41.441957],"type":"Point"}
+}

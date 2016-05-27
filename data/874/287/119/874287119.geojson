@@ -1,0 +1,78 @@
+{
+  "id": 874287119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480656,41.723659,-71.480656,41.723659",
+    "geom:latitude":41.723659,
+    "geom:longitude":-71.480656,
+    "iso:country":"US",
+    "sg:address":"400 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/215270-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 5357",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ndAJCH2d1CYQMn2WXYVua_41.723659_-71.480656@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314894,
+    "wof:geomhash":"30b0e1891f7242fed12192bf19c5fdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287119
+        }
+    ],
+    "wof:id":874287119,
+    "wof:lastmodified":1464314894,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.480656,
+    41.723659,
+    -71.480656,
+    41.723659
+],
+  "geometry": {"coordinates":[-71.480656,41.723659],"type":"Point"}
+}

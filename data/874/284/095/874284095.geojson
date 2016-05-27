@@ -1,0 +1,71 @@
+{
+  "id": 874284095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484596,41.8578,-71.484596,41.8578",
+    "geom:latitude":41.8578,
+    "geom:longitude":-71.484596,
+    "iso:country":"US",
+    "sg:address":"2251 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9307",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "director",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fQGeE7xCjL8JgKBq0wKW5_41.857987_-71.484648@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314777,
+    "wof:geomhash":"a12b7a704b1cd19b856a0c62ec1b903d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874284095
+        }
+    ],
+    "wof:id":874284095,
+    "wof:lastmodified":1464314777,
+    "wof:name":"Robbins Funeral Home",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.484596,
+    41.8578,
+    -71.484596,
+    41.8578
+],
+  "geometry": {"coordinates":[-71.484596,41.8578],"type":"Point"}
+}

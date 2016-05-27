@@ -1,0 +1,80 @@
+{
+  "id": 874196189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401654,41.7565,-71.401654,41.7565",
+    "geom:latitude":41.7565,
+    "geom:longitude":-71.401654,
+    "iso:country":"US",
+    "sg:address":"172 Washington St",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 8940",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840949,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BEHlt20xDSWDmEJSx9y6B_41.756500_-71.401654@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312807,
+    "wof:geomhash":"c142a5935b357636423f7a5d187b392f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85840949,
+            "region_id":85688509,
+            "venue_id":874196189
+        }
+    ],
+    "wof:id":874196189,
+    "wof:lastmodified":1464312807,
+    "wof:name":"Veterans Foreign Wars Post 183",
+    "wof:parent_id":85840949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -71.401654,
+    41.7565,
+    -71.401654,
+    41.7565
+],
+  "geometry": {"coordinates":[-71.40165399999999,41.7565],"type":"Point"}
+}

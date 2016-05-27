@@ -1,0 +1,77 @@
+{
+  "id": 874254877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451761,41.750223,-71.451761,41.750223",
+    "geom:latitude":41.750223,
+    "geom:longitude":-71.451761,
+    "iso:country":"US",
+    "sg:address":"1200 Pontiac Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 463 9915",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M2vaukZ0xcX9qjSOkrVD5_41.750223_-71.451761@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313672,
+    "wof:geomhash":"36f1262eccc265aa9fbf50ee2928cd2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874254877
+        }
+    ],
+    "wof:id":874254877,
+    "wof:lastmodified":1464313672,
+    "wof:name":"Pontiac Avenue Exxon",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station"
+    ]
+},
+  "bbox": [
+    -71.451761,
+    41.750223,
+    -71.451761,
+    41.750223
+],
+  "geometry": {"coordinates":[-71.451761,41.750223],"type":"Point"}
+}

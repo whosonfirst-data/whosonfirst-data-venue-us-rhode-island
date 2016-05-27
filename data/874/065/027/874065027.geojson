@@ -1,0 +1,84 @@
+{
+  "id": 874065027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.465446,41.425748,-71.465446,41.425748",
+    "geom:latitude":41.425748,
+    "geom:longitude":-71.465446,
+    "iso:country":"US",
+    "sg:address":"149 S Pier Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 8212",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "windows",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yznIbldOUv6GXB9kPpURF_41.425748_-71.465446@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311380,
+    "wof:geomhash":"cebd08f5407909064032689b17d2d2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874065027
+        }
+    ],
+    "wof:id":874065027,
+    "wof:lastmodified":1464311380,
+    "wof:name":"John L Di Panni Inc",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "windows",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.465446,
+    41.425748,
+    -71.465446,
+    41.425748
+],
+  "geometry": {"coordinates":[-71.465446,41.425748],"type":"Point"}
+}

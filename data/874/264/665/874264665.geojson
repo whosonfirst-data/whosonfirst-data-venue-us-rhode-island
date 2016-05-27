@@ -1,0 +1,71 @@
+{
+  "id": 874264665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.431273,41.87768,-71.431273,41.87768",
+    "geom:latitude":41.87768,
+    "geom:longitude":-71.431273,
+    "iso:country":"US",
+    "sg:address":"115 Manchester Farm Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 1125",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gyaXtQjtCSrf9D9T5bvEw_41.877680_-71.431273@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314020,
+    "wof:geomhash":"45bb84ae1f2cc2972152c1e79eca5efa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874264665
+        }
+    ],
+    "wof:id":874264665,
+    "wof:lastmodified":1464314020,
+    "wof:name":"Joda Properties Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.431273,
+    41.87768,
+    -71.431273,
+    41.87768
+],
+  "geometry": {"coordinates":[-71.431273,41.87768],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874280539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.771767,41.851974,-71.771767,41.851974",
+    "geom:latitude":41.851974,
+    "geom:longitude":-71.771767,
+    "iso:country":"US",
+    "sg:address":"209 Hartford Pike",
+    "sg:city":"Foster",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 2319",
+    "sg:postcode":"02825",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837631,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A4IYoENQHv1kQIfL4HVWX_41.851974_-71.771767@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314637,
+    "wof:geomhash":"04fd73cebbe437bf68379c6f9d7422e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85837631,
+            "region_id":85688509,
+            "venue_id":874280539
+        }
+    ],
+    "wof:id":874280539,
+    "wof:lastmodified":1464314637,
+    "wof:name":"Toms Small Engine Repair",
+    "wof:parent_id":85837631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -71.771767,
+    41.851974,
+    -71.771767,
+    41.851974
+],
+  "geometry": {"coordinates":[-71.771767,41.851974],"type":"Point"}
+}

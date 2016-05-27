@@ -1,0 +1,89 @@
+{
+  "id": 874285395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408096,41.842602,-71.408096,41.842602",
+    "geom:latitude":41.842602,
+    "geom:longitude":-71.408096,
+    "iso:country":"US",
+    "sg:address":"36 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 9000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "equipment",
+        "furniture"
+    ],
+    "sg:website":"www.nationaloffice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PtXpXgb64ORBr8DPAKyQx_41.842455_-71.408376@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314827,
+    "wof:geomhash":"05566e652087fa9e645655ff733455f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874285395
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874285395
+        }
+    ],
+    "wof:id":874285395,
+    "wof:lastmodified":1464314827,
+    "wof:name":"National Office Furniture Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.408096,
+    41.842602,
+    -71.408096,
+    41.842602
+],
+  "geometry": {"coordinates":[-71.408096,41.842602],"type":"Point"}
+}

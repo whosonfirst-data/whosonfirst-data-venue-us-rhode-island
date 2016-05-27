@@ -1,0 +1,73 @@
+{
+  "id": 874286971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450921,41.440001,-71.450921,41.440001",
+    "geom:latitude":41.440001,
+    "geom:longitude":-71.450921,
+    "iso:country":"US",
+    "sg:address":"77 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/narragansett/224898-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Xq3QqXoSxd1ici0XwTtJ_41.440001_-71.450921@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"d540518f3e9ad62b0ce66ede3afd0b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85836301,
+            "region_id":85688509,
+            "venue_id":874286971
+        }
+    ],
+    "wof:id":874286971,
+    "wof:lastmodified":1464314889,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":85836301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.450921,
+    41.440001,
+    -71.450921,
+    41.440001
+],
+  "geometry": {"coordinates":[-71.45092099999999,41.440001],"type":"Point"}
+}

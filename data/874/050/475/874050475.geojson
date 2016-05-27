@@ -1,0 +1,73 @@
+{
+  "id": 874050475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404001,41.894088,-71.404001,41.894088",
+    "geom:latitude":41.894088,
+    "geom:longitude":-71.404001,
+    "iso:country":"US",
+    "sg:address":"1103 Lonsdale Ave",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 1428",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39DceBoxTLvUCg88e5nva5_41.894088_-71.404001@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311245,
+    "wof:geomhash":"d399501c1efa638779c4554fd5631010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874050475
+        }
+    ],
+    "wof:id":874050475,
+    "wof:lastmodified":1464311245,
+    "wof:name":"Pet-A-Gree Grooming Inc",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.404001,
+    41.894088,
+    -71.404001,
+    41.894088
+],
+  "geometry": {"coordinates":[-71.40400099999999,41.894088],"type":"Point"}
+}

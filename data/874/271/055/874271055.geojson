@@ -1,0 +1,76 @@
+{
+  "id": 874271055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296305,41.527711,-71.296305,41.527711",
+    "geom:latitude":41.527711,
+    "geom:longitude":-71.296305,
+    "iso:country":"US",
+    "sg:address":"878 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 845 5092",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "center"
+    ],
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PmvOxld2WT4rlFLs2Va87_41.527711_-71.296305@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314260,
+    "wof:geomhash":"03e056959571a07be56e0b36dd53b2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874271055
+        }
+    ],
+    "wof:id":874271055,
+    "wof:lastmodified":1464314260,
+    "wof:name":"Home Depot",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -71.296305,
+    41.527711,
+    -71.296305,
+    41.527711
+],
+  "geometry": {"coordinates":[-71.296305,41.527711],"type":"Point"}
+}

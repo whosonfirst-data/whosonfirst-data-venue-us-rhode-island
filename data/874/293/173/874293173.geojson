@@ -1,0 +1,77 @@
+{
+  "id": 874293173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284667,41.724719,-71.284667,41.724719",
+    "geom:latitude":41.724719,
+    "geom:longitude":-71.284667,
+    "iso:country":"US",
+    "sg:address":"461 Water St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8300",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.blountboats.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UnRFt6T9EOl45YXeBE9RN_41.724719_-71.284667@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315129,
+    "wof:geomhash":"f361de5ad8de6c47a9889189a526f825",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874293173
+        }
+    ],
+    "wof:id":874293173,
+    "wof:lastmodified":1464315129,
+    "wof:name":"Blount Boats, Inc.",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -71.284667,
+    41.724719,
+    -71.284667,
+    41.724719
+],
+  "geometry": {"coordinates":[-71.284667,41.724719],"type":"Point"}
+}

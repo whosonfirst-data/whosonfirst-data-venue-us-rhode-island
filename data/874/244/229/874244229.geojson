@@ -1,0 +1,78 @@
+{
+  "id": 874244229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394596,41.82755,-71.394596,41.82755",
+    "geom:latitude":41.82755,
+    "geom:longitude":-71.394596,
+    "iso:country":"US",
+    "sg:address":"159 Waterman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 7110",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "sg:website":"www.nature.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60cnp53PUi6IGXbgcYRYMd_41.827550_-71.394596@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313421,
+    "wof:geomhash":"aaa8df6be0a4d207750f4e1ff7781d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874244229
+        }
+    ],
+    "wof:id":874244229,
+    "wof:lastmodified":1464313421,
+    "wof:name":"Nature Conservancy",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -71.394596,
+    41.82755,
+    -71.394596,
+    41.82755
+],
+  "geometry": {"coordinates":[-71.39459600000001,41.82755],"type":"Point"}
+}

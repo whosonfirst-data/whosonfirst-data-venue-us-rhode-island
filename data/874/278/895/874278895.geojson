@@ -1,0 +1,88 @@
+{
+  "id": 874278895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481795,41.442214,-71.481795,41.442214",
+    "geom:latitude":41.442214,
+    "geom:longitude":-71.481795,
+    "iso:country":"US",
+    "sg:address":"71 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3611",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "temporary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gt8qspSgT6rLwx1yqfIBM_41.442214_-71.481795@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314569,
+    "wof:geomhash":"12cc2879636e0f01c96d4d7a7353532b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874278895
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874278895
+        }
+    ],
+    "wof:id":874278895,
+    "wof:lastmodified":1464314569,
+    "wof:name":"Nursefinders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "temporary"
+    ]
+},
+  "bbox": [
+    -71.481795,
+    41.442214,
+    -71.481795,
+    41.442214
+],
+  "geometry": {"coordinates":[-71.48179500000001,41.442214],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874175575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476362,41.841921,-71.476362,41.841921",
+    "geom:latitude":41.841921,
+    "geom:longitude":-71.476362,
+    "iso:country":"US",
+    "sg:address":"258 Woonasquatucket Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0793",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64RhkciWW899z4p19AWLbV_41.841921_-71.476362@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312584,
+    "wof:geomhash":"4d476642a5aabf50845954e8ad6b11d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874175575
+        }
+    ],
+    "wof:id":874175575,
+    "wof:lastmodified":1464312584,
+    "wof:name":"Borrelli's Bakery",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -71.476362,
+    41.841921,
+    -71.476362,
+    41.841921
+],
+  "geometry": {"coordinates":[-71.47636199999999,41.841921],"type":"Point"}
+}

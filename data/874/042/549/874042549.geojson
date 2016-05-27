@@ -1,0 +1,71 @@
+{
+  "id": 874042549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428825,41.935181,-71.428825,41.935181",
+    "geom:latitude":41.935181,
+    "geom:longitude":-71.428825,
+    "iso:country":"US",
+    "sg:address":"1300 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3190",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "offset"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kySdmYS775UvW2SQ4KFYV_41.935181_-71.428825@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311170,
+    "wof:geomhash":"bd1a470c541544fa2dcda14b0389a524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874042549
+        }
+    ],
+    "wof:id":874042549,
+    "wof:lastmodified":1464311170,
+    "wof:name":"B & M Printing Inc",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "offset"
+    ]
+},
+  "bbox": [
+    -71.428825,
+    41.935181,
+    -71.428825,
+    41.935181
+],
+  "geometry": {"coordinates":[-71.428825,41.935181],"type":"Point"}
+}

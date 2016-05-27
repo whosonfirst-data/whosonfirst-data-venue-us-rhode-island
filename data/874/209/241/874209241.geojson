@@ -1,0 +1,71 @@
+{
+  "id": 874209241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.275736,41.704576,-71.275736,41.704576",
+    "geom:latitude":41.704576,
+    "geom:longitude":-71.275736,
+    "iso:country":"US",
+    "sg:address":"95 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 254 1282",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "course",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1deHpBmNvp1aRW5pHS2bQx_41.704576_-71.275736@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312941,
+    "wof:geomhash":"4835ad2872b26bdcc925230baf96fceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874209241
+        }
+    ],
+    "wof:id":874209241,
+    "wof:lastmodified":1464312941,
+    "wof:name":"Bristol Golf Club",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.275736,
+    41.704576,
+    -71.275736,
+    41.704576
+],
+  "geometry": {"coordinates":[-71.27573599999999,41.704576],"type":"Point"}
+}

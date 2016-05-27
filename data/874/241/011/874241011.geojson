@@ -1,0 +1,79 @@
+{
+  "id": 874241011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405811,41.823076,-71.405811,41.823076",
+    "geom:latitude":41.823076,
+    "geom:longitude":-71.405811,
+    "iso:country":"US",
+    "sg:address":"203 S Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 6640",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "surveyor",
+        "land",
+        "environmental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DhQNmROv7DT8ef8N308Dq_41.823076_-71.405811@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313359,
+    "wof:geomhash":"8f4c9fb9b1a74eeec4ad2e3bf4087d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874241011
+        }
+    ],
+    "wof:id":874241011,
+    "wof:lastmodified":1464313359,
+    "wof:name":"UDM Land Sciences",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor",
+        "land",
+        "environmental"
+    ]
+},
+  "bbox": [
+    -71.405811,
+    41.823076,
+    -71.405811,
+    41.823076
+],
+  "geometry": {"coordinates":[-71.405811,41.823076],"type":"Point"}
+}

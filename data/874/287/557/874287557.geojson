@@ -1,0 +1,72 @@
+{
+  "id": 874287557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530864,41.871692,-71.530864,41.871692",
+    "geom:latitude":41.871692,
+    "geom:longitude":-71.530864,
+    "iso:country":"US",
+    "sg:address":"9 Cedar Swamp Rd ",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/293623-ronzio-pizza--subs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 830 5758",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t2vTqwYwFbTpLLic9Ci4z_41.871692_-71.530864@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314914,
+    "wof:geomhash":"711090ffe1f11e8dfe7530a3af03d6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874287557
+        }
+    ],
+    "wof:id":874287557,
+    "wof:lastmodified":1464314914,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.530864,
+    41.871692,
+    -71.530864,
+    41.871692
+],
+  "geometry": {"coordinates":[-71.53086399999999,41.871692],"type":"Point"}
+}

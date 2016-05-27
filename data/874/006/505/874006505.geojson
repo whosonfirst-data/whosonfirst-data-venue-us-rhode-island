@@ -1,0 +1,70 @@
+{
+  "id": 874006505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485039,41.822165,-71.485039,41.822165",
+    "geom:latitude":41.822165,
+    "geom:longitude":-71.485039,
+    "iso:country":"US",
+    "sg:address":"1126 Hartford Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 351 2750",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "employment"
+    ],
+    "sg:website":"www.tri-town.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iJDnwVn3Z3S6S9Oy04vIq_41.822165_-71.485039@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310829,
+    "wof:geomhash":"6bc586a5904701a8819e568009ae4a3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874006505
+        }
+    ],
+    "wof:id":874006505,
+    "wof:lastmodified":1464310829,
+    "wof:name":"Tri-Town Community Action",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "employment"
+    ]
+},
+  "bbox": [
+    -71.485039,
+    41.822165,
+    -71.485039,
+    41.822165
+],
+  "geometry": {"coordinates":[-71.485039,41.822165],"type":"Point"}
+}

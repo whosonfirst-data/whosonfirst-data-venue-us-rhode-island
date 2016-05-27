@@ -1,0 +1,81 @@
+{
+  "id": 874028901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.835323,41.401188,-71.835323,41.401188",
+    "geom:latitude":41.401188,
+    "geom:longitude":-71.835323,
+    "iso:country":"US",
+    "sg:address":"39 Springbrook Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 348 2296",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420555689,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509,
+        420540585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lZ1rfmgpkQxrY1cWweN9e_41.401188_-71.835323@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311038,
+    "wof:geomhash":"99781e26c7e50eee7c1a31b0c1c54af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":420555689,
+            "region_id":85688509,
+            "venue_id":874028901
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":420540585,
+            "region_id":85688509,
+            "venue_id":874028901
+        }
+    ],
+    "wof:id":874028901,
+    "wof:lastmodified":1464311038,
+    "wof:name":"Springbrook Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.835323,
+    41.401188,
+    -71.835323,
+    41.401188
+],
+  "geometry": {"coordinates":[-71.835323,41.401188],"type":"Point"}
+}

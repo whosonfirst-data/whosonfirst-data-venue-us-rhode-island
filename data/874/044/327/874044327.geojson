@@ -1,0 +1,71 @@
+{
+  "id": 874044327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44812,41.87307,-71.44812,41.87307",
+    "geom:latitude":41.87307,
+    "geom:longitude":-71.44812,
+    "iso:country":"US",
+    "sg:address":"395 Angell Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8767",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ETvpvX7Kndua4DxZ0zHRV_41.873070_-71.448120@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311187,
+    "wof:geomhash":"a7be112ea39d7ecb6472b53a85ae669a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874044327
+        }
+    ],
+    "wof:id":874044327,
+    "wof:lastmodified":1464311187,
+    "wof:name":"Woodworks",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.44812,
+    41.87307,
+    -71.44812,
+    41.87307
+],
+  "geometry": {"coordinates":[-71.44812,41.87307],"type":"Point"}
+}

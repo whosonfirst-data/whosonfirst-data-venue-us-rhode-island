@@ -1,0 +1,79 @@
+{
+  "id": 874136309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425156,41.834916,-71.425156,41.834916",
+    "geom:latitude":41.834916,
+    "geom:longitude":-71.425156,
+    "iso:country":"US",
+    "sg:address":"428 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 2322",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "correctional",
+        "institution",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d1pVCECzccofRE8xZU5xV_41.834916_-71.425156@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312203,
+    "wof:geomhash":"6366a4e34e92785e1eb5c9612bb9e696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874136309
+        }
+    ],
+    "wof:id":874136309,
+    "wof:lastmodified":1464312203,
+    "wof:name":"Common Cause Washington DC Inc",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution",
+        "social"
+    ]
+},
+  "bbox": [
+    -71.425156,
+    41.834916,
+    -71.425156,
+    41.834916
+],
+  "geometry": {"coordinates":[-71.425156,41.834916],"type":"Point"}
+}

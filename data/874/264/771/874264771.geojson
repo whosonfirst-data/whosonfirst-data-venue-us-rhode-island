@@ -1,0 +1,73 @@
+{
+  "id": 874264771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.254247,41.580455,-71.254247,41.580455",
+    "geom:latitude":41.580455,
+    "geom:longitude":-71.254247,
+    "iso:country":"US",
+    "sg:address":"21 Ladiera Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3270",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5huKHNNAOPRyFxj6TlIpBK_41.580455_-71.254247@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314026,
+    "wof:geomhash":"5334716e1d8b93485835e17be5ee9074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874264771
+        }
+    ],
+    "wof:id":874264771,
+    "wof:lastmodified":1464314026,
+    "wof:name":"Hawk Trucking Co Inc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.254247,
+    41.580455,
+    -71.254247,
+    41.580455
+],
+  "geometry": {"coordinates":[-71.25424700000001,41.580455],"type":"Point"}
+}

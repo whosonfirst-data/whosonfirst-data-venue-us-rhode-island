@@ -1,0 +1,77 @@
+{
+  "id": 874283007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.427719,41.823675,-71.427719,41.823675",
+    "geom:latitude":41.823675,
+    "geom:longitude":-71.427719,
+    "iso:country":"US",
+    "sg:address":"292 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 8464",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cafe",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f89zF5f4DQBTfnkTeE8Yf_41.823577_-71.427792@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314740,
+    "wof:geomhash":"8c1c5e9cab2dcdaf4b2ed3b937e0ebf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874283007
+        }
+    ],
+    "wof:id":874283007,
+    "wof:lastmodified":1464314740,
+    "wof:name":"Artini's",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe",
+        "bar"
+    ]
+},
+  "bbox": [
+    -71.427719,
+    41.823675,
+    -71.427719,
+    41.823675
+],
+  "geometry": {"coordinates":[-71.427719,41.823675],"type":"Point"}
+}

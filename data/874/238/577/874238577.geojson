@@ -1,0 +1,71 @@
+{
+  "id": 874238577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425915,41.866179,-71.425915,41.866179",
+    "geom:latitude":41.866179,
+    "geom:longitude":-71.425915,
+    "iso:country":"US",
+    "sg:address":"184 Obed Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 8552",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_113457DIdwvThtdWYFeI76_41.866179_-71.425915@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313313,
+    "wof:geomhash":"354c5628460faa8449370c7f6d655020",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874238577
+        }
+    ],
+    "wof:id":874238577,
+    "wof:lastmodified":1464313313,
+    "wof:name":"Al's Electric",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.425915,
+    41.866179,
+    -71.425915,
+    41.866179
+],
+  "geometry": {"coordinates":[-71.425915,41.866179],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874281405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.28224,41.71663,-71.28224,41.71663",
+    "geom:latitude":41.71663,
+    "geom:longitude":-71.28224,
+    "iso:country":"US",
+    "sg:address":"57 Locust Ter",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3860",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71V8VAl0WG8ZDwhlVRdyAc_41.716630_-71.282240@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314687,
+    "wof:geomhash":"518f1d148099ecb641a2c6f7a4748a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874281405
+        }
+    ],
+    "wof:id":874281405,
+    "wof:lastmodified":1464314687,
+    "wof:name":"Mp Ferrara Plbg Htg Co",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.28224,
+    41.71663,
+    -71.28224,
+    41.71663
+],
+  "geometry": {"coordinates":[-71.28224,41.71663],"type":"Point"}
+}

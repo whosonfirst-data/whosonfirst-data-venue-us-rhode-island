@@ -1,0 +1,71 @@
+{
+  "id": 874267661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.281433,41.692089,-71.281433,41.692089",
+    "geom:latitude":41.692089,
+    "geom:longitude":-71.281433,
+    "iso:country":"US",
+    "sg:address":"86 Greylock Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0100",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wHDogJh2Fg1lttBruLkju_41.692089_-71.281433@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314138,
+    "wof:geomhash":"b32481456ef371433ce9fd7879436b4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874267661
+        }
+    ],
+    "wof:id":874267661,
+    "wof:lastmodified":1464314138,
+    "wof:name":"New England Homeworks",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -71.281433,
+    41.692089,
+    -71.281433,
+    41.692089
+],
+  "geometry": {"coordinates":[-71.28143300000001,41.692089],"type":"Point"}
+}

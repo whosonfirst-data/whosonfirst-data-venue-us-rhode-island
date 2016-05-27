@@ -1,0 +1,75 @@
+{
+  "id": 874067203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.375349,41.877673,-71.375349,41.877673",
+    "geom:latitude":41.877673,
+    "geom:longitude":-71.375349,
+    "iso:country":"US",
+    "sg:address":"11 Walnut St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 5187",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nq2p4Q9Dtl5DmgYHr5Cea_41.877673_-71.375349@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311399,
+    "wof:geomhash":"594b4a0172187cf1ace1900bd28e5c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874067203
+        }
+    ],
+    "wof:id":874067203,
+    "wof:lastmodified":1464311399,
+    "wof:name":"Weeden Manor",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.375349,
+    41.877673,
+    -71.375349,
+    41.877673
+],
+  "geometry": {"coordinates":[-71.375349,41.877673],"type":"Point"}
+}

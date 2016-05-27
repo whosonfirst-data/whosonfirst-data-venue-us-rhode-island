@@ -1,0 +1,88 @@
+{
+  "id": 874269517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410454,41.794807,-71.410454,41.794807",
+    "geom:latitude":41.794807,
+    "geom:longitude":-71.410454,
+    "iso:country":"US",
+    "sg:address":"1112 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 4321",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QobdE2SCPqc8kMa3rFFIx_41.794807_-71.410454@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314210,
+    "wof:geomhash":"0503c392e4b76a22a30c41d409aacf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874269517
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874269517
+        }
+    ],
+    "wof:id":874269517,
+    "wof:lastmodified":1464314210,
+    "wof:name":"Las Americas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.410454,
+    41.794807,
+    -71.410454,
+    41.794807
+],
+  "geometry": {"coordinates":[-71.410454,41.794807],"type":"Point"}
+}

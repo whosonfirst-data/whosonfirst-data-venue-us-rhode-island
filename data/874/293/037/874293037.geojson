@@ -1,0 +1,86 @@
+{
+  "id": 874293037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486618,41.438751,-71.486618,41.438751",
+    "geom:latitude":41.438751,
+    "geom:longitude":-71.486618,
+    "iso:country":"US",
+    "sg:address":"515 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0008",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B6pisJ6TLP2soCCUTuUF6_41.438751_-71.486618@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315125,
+    "wof:geomhash":"a823063168add488ce2f3bb4bc1b0b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874293037
+        }
+    ],
+    "wof:id":874293037,
+    "wof:lastmodified":1464315125,
+    "wof:name":"Chelo's Hometown Bar & Grille",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.486618,
+    41.438751,
+    -71.486618,
+    41.438751
+],
+  "geometry": {"coordinates":[-71.48661800000001,41.438751],"type":"Point"}
+}

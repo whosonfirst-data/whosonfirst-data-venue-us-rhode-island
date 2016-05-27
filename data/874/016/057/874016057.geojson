@@ -1,0 +1,71 @@
+{
+  "id": 874016057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.65937,41.482233,-71.65937,41.482233",
+    "geom:latitude":41.482233,
+    "geom:longitude":-71.65937,
+    "iso:country":"US",
+    "sg:address":"22 Susan Dr",
+    "sg:city":"Carolina",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6004",
+    "sg:postcode":"02812",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YCC5PwZh8gTcBpgCc3u6R_41.482233_-71.659370@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"9cf8abc2298544fff124ec8b3ca6ddae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874016057
+        }
+    ],
+    "wof:id":874016057,
+    "wof:lastmodified":1464310900,
+    "wof:name":"Home Towne Bldg & Remodeling",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -71.65937,
+    41.482233,
+    -71.65937,
+    41.482233
+],
+  "geometry": {"coordinates":[-71.65937,41.482233],"type":"Point"}
+}

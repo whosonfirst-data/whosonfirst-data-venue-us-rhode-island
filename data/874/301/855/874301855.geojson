@@ -1,0 +1,77 @@
+{
+  "id": 874301855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428802,41.8311,-71.428802,41.8311",
+    "geom:latitude":41.8311,
+    "geom:longitude":-71.428802,
+    "iso:country":"US",
+    "sg:address":"550 Valley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 0458",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vnq2UuYfZEWTzeIBtpYGA_41.831100_-71.428802@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315459,
+    "wof:geomhash":"80582183f31d26b3ce2cfcc382093ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874301855
+        }
+    ],
+    "wof:id":874301855,
+    "wof:lastmodified":1464315459,
+    "wof:name":"Friendship Auto Body",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.428802,
+    41.8311,
+    -71.428802,
+    41.8311
+],
+  "geometry": {"coordinates":[-71.428802,41.8311],"type":"Point"}
+}

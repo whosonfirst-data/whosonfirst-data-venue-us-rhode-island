@@ -1,0 +1,71 @@
+{
+  "id": 874239091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395247,41.885155,-71.395247,41.885155",
+    "geom:latitude":41.885155,
+    "geom:longitude":-71.395247,
+    "iso:country":"US",
+    "sg:address":"521 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 0812",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sByQou8L8LnFel60VYp8S_41.885155_-71.395247@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313323,
+    "wof:geomhash":"f102027e724619864b52c05c3eb32fd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874239091
+        }
+    ],
+    "wof:id":874239091,
+    "wof:lastmodified":1464313323,
+    "wof:name":"Civic Mortgage",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.395247,
+    41.885155,
+    -71.395247,
+    41.885155
+],
+  "geometry": {"coordinates":[-71.395247,41.885155],"type":"Point"}
+}

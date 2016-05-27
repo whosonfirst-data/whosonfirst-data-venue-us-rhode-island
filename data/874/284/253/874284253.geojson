@@ -1,0 +1,80 @@
+{
+  "id": 874284253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3936,41.878399,-71.3936,41.878399",
+    "geom:latitude":41.878399,
+    "geom:longitude":-71.3936,
+    "iso:country":"US",
+    "sg:address":"312 Barton St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 1435",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PyCJ5RUXxgO4NHjpzh3yf_41.878768_-71.393044@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314782,
+    "wof:geomhash":"0e53788c52b5ccb77442e7a64ec7832b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874284253
+        }
+    ],
+    "wof:id":874284253,
+    "wof:lastmodified":1464314782,
+    "wof:name":"Luzitania Baking Co",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.3936,
+    41.878399,
+    -71.3936,
+    41.878399
+],
+  "geometry": {"coordinates":[-71.39360000000001,41.878399],"type":"Point"}
+}

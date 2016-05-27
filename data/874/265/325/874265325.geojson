@@ -1,0 +1,71 @@
+{
+  "id": 874265325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.542071,41.886328,-71.542071,41.886328",
+    "geom:latitude":41.886328,
+    "geom:longitude":-71.542071,
+    "iso:country":"US",
+    "sg:address":"124 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 9898",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ueIQxWEKMcuCB5p8EUs09_41.886328_-71.542071@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314048,
+    "wof:geomhash":"7a61aa734be7945059fbdb06202519a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874265325
+        }
+    ],
+    "wof:id":874265325,
+    "wof:lastmodified":1464314048,
+    "wof:name":"Cerronis Service Center Inc",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.542071,
+    41.886328,
+    -71.542071,
+    41.886328
+],
+  "geometry": {"coordinates":[-71.54207100000001,41.886328],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874113069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.285175,41.730937,-71.285175,41.730937",
+    "geom:latitude":41.730937,
+    "geom:longitude":-71.285175,
+    "iso:country":"US",
+    "sg:address":"232 Water St",
+    "sg:city":"Block Island",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 466 2145",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44AR1Z3y09njhRpAnUVbAm_41.730937_-71.285175@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311968,
+    "wof:geomhash":"0721a8ffcbd10a5be1abc40e0529e738",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874113069
+        }
+    ],
+    "wof:id":874113069,
+    "wof:lastmodified":1464311968,
+    "wof:name":"Ice Cream Place",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.285175,
+    41.730937,
+    -71.285175,
+    41.730937
+],
+  "geometry": {"coordinates":[-71.285175,41.730937],"type":"Point"}
+}

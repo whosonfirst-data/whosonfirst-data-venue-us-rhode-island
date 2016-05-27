@@ -1,0 +1,78 @@
+{
+  "id": 874288175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463442,41.782955,-71.463442,41.782955",
+    "geom:latitude":41.782955,
+    "geom:longitude":-71.463442,
+    "iso:country":"US",
+    "sg:address":"1464 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/236099-ronzio-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 9300",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tsVlVF5raK5qp8agxZMq1_41.782985_-71.463610@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314942,
+    "wof:geomhash":"afc45092d50989d1af90ed75fd8a4e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874288175
+        }
+    ],
+    "wof:id":874288175,
+    "wof:lastmodified":1464314942,
+    "wof:name":"Ronzio Pizza & Subs",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.463442,
+    41.782955,
+    -71.463442,
+    41.782955
+],
+  "geometry": {"coordinates":[-71.463442,41.782955],"type":"Point"}
+}

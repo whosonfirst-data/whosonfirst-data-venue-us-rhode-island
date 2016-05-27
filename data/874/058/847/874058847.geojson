@@ -1,0 +1,86 @@
+{
+  "id": 874058847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.402463,41.843319,-71.402463,41.843319",
+    "geom:latitude":41.843319,
+    "geom:longitude":-71.402463,
+    "iso:country":"US",
+    "sg:address":"190 Camp St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 5474",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06SBSr1TZR03DoOaxyKbO3_41.843319_-71.402463@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311325,
+    "wof:geomhash":"958206f23c254381e190b167b4100f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874058847
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874058847
+        }
+    ],
+    "wof:id":874058847,
+    "wof:lastmodified":1464311325,
+    "wof:name":"Camp Street Cmnty Ministries",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -71.402463,
+    41.843319,
+    -71.402463,
+    41.843319
+],
+  "geometry": {"coordinates":[-71.402463,41.843319],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874248357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.484862,41.857864,-71.484862,41.857864",
+    "geom:latitude":41.857864,
+    "geom:longitude":-71.484862,
+    "iso:country":"US",
+    "sg:address":"1995 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 0096",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rB0OcugwEZVitAXIVyUwY_41.857864_-71.484862@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313505,
+    "wof:geomhash":"3379160773208c7e70bfa298ab50a843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874248357
+        }
+    ],
+    "wof:id":874248357,
+    "wof:lastmodified":1464313505,
+    "wof:name":"North Providence Public Svc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.484862,
+    41.857864,
+    -71.484862,
+    41.857864
+],
+  "geometry": {"coordinates":[-71.48486200000001,41.857864],"type":"Point"}
+}

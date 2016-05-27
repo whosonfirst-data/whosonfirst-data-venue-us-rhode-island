@@ -1,0 +1,79 @@
+{
+  "id": 874265305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438445,41.804608,-71.438445,41.804608",
+    "geom:latitude":41.804608,
+    "geom:longitude":-71.438445,
+    "iso:country":"US",
+    "sg:address":"719 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7163",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LGYvIK39GuEEFTGjAJqhP_41.804608_-71.438445@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314048,
+    "wof:geomhash":"a923204284810351503d9e02750c38b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874265305
+        }
+    ],
+    "wof:id":874265305,
+    "wof:lastmodified":1464314048,
+    "wof:name":"Charron Supply Co",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "fixture",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.438445,
+    41.804608,
+    -71.438445,
+    41.804608
+],
+  "geometry": {"coordinates":[-71.438445,41.804608],"type":"Point"}
+}

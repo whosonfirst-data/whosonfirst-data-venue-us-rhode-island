@@ -1,0 +1,71 @@
+{
+  "id": 874098849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567715,41.712552,-71.567715,41.712552",
+    "geom:latitude":41.712552,
+    "geom:longitude":-71.567715,
+    "iso:country":"US",
+    "sg:address":"48 Moss Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 5019",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xPbaOS8Xw2JZXtkqMze74_41.712552_-71.567715@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311769,
+    "wof:geomhash":"7d54dba798288f9a89e5a5342be80e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874098849
+        }
+    ],
+    "wof:id":874098849,
+    "wof:lastmodified":1464311769,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.567715,
+    41.712552,
+    -71.567715,
+    41.712552
+],
+  "geometry": {"coordinates":[-71.56771500000001,41.712552],"type":"Point"}
+}

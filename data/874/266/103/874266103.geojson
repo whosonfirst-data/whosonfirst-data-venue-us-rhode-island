@@ -1,0 +1,73 @@
+{
+  "id": 874266103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476788,41.845221,-71.476788,41.845221",
+    "geom:latitude":41.845221,
+    "geom:longitude":-71.476788,
+    "iso:country":"US",
+    "sg:address":"345 Woonasquatucket Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9654",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "lithographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c4auIvSM5KkGzKIKWSXuX_41.845221_-71.476788@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314075,
+    "wof:geomhash":"2b6e779c827bad69cac034b4001274b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874266103
+        }
+    ],
+    "wof:id":874266103,
+    "wof:lastmodified":1464314075,
+    "wof:name":"Hopkins Press",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "lithographic"
+    ]
+},
+  "bbox": [
+    -71.476788,
+    41.845221,
+    -71.476788,
+    41.845221
+],
+  "geometry": {"coordinates":[-71.476788,41.845221],"type":"Point"}
+}

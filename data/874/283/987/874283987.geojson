@@ -1,0 +1,74 @@
+{
+  "id": 874283987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.473775,41.832316,-71.473775,41.832316",
+    "geom:latitude":41.832316,
+    "geom:longitude":-71.473775,
+    "iso:country":"US",
+    "sg:address":"705 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 5520",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizzeria",
+        "pizza"
+    ],
+    "sg:website":"www.johnstonpizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39sTKkNthsRopsBWe6B6PU_41.832559_-71.474034@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314773,
+    "wof:geomhash":"fff6e3e4c8f633b6678db1fd4033a7e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874283987
+        }
+    ],
+    "wof:id":874283987,
+    "wof:lastmodified":1464314773,
+    "wof:name":"Johnston Pizza House",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.473775,
+    41.832316,
+    -71.473775,
+    41.832316
+],
+  "geometry": {"coordinates":[-71.473775,41.832316],"type":"Point"}
+}

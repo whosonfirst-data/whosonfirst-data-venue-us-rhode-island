@@ -1,0 +1,86 @@
+{
+  "id": 874286047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4496,41.813999,-71.4496,41.813999",
+    "geom:latitude":41.813999,
+    "geom:longitude":-71.4496,
+    "iso:country":"US",
+    "sg:address":"6 Heath St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 2203",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "installation",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vtB4BEGe2yMKuNMoLWuAN_41.814357_-71.449925@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314859,
+    "wof:geomhash":"c1bc5b31f027a05ce6c9a4a69464dd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874286047
+        }
+    ],
+    "wof:id":874286047,
+    "wof:lastmodified":1464314859,
+    "wof:name":"Cande Electro Auto",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "installation",
+        "radio"
+    ]
+},
+  "bbox": [
+    -71.4496,
+    41.813999,
+    -71.4496,
+    41.813999
+],
+  "geometry": {"coordinates":[-71.4496,41.813999],"type":"Point"}
+}

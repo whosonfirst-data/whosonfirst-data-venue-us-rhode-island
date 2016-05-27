@@ -1,0 +1,79 @@
+{
+  "id": 874284203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451698,41.8461,-71.451698,41.8461",
+    "geom:latitude":41.8461,
+    "geom:longitude":-71.451698,
+    "iso:country":"US",
+    "sg:address":"1216 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9638",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MQDF706NzhdUwVTtKSKot_41.845543_-71.450943@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314781,
+    "wof:geomhash":"8f8c23a2d7909356fcc6b040ed7d13a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874284203
+        }
+    ],
+    "wof:id":874284203,
+    "wof:lastmodified":1464314781,
+    "wof:name":"Rainone's Liquor Store",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.451698,
+    41.8461,
+    -71.451698,
+    41.8461
+],
+  "geometry": {"coordinates":[-71.45169799999999,41.8461],"type":"Point"}
+}

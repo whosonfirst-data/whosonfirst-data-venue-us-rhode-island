@@ -1,0 +1,86 @@
+{
+  "id": 874235861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439498,41.780676,-71.439498,41.780676",
+    "geom:latitude":41.780676,
+    "geom:longitude":-71.439498,
+    "iso:country":"US",
+    "sg:address":"945 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 3900",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EvOhW6xcL6iV6mB5bC8WJ_41.780676_-71.439498@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313258,
+    "wof:geomhash":"b31972573874861b38e63c40dac0e08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874235861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874235861
+        }
+    ],
+    "wof:id":874235861,
+    "wof:lastmodified":1464313258,
+    "wof:name":"New England Law Ctr Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.439498,
+    41.780676,
+    -71.439498,
+    41.780676
+],
+  "geometry": {"coordinates":[-71.439498,41.780676],"type":"Point"}
+}

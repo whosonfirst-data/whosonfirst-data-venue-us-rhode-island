@@ -1,0 +1,69 @@
+{
+  "id": 874266999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.25443,41.563165,-71.25443,41.563165",
+    "geom:latitude":41.563165,
+    "geom:longitude":-71.25443,
+    "iso:country":"US",
+    "sg:address":"16 Clearview Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 1840",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nsCNmzFKMFEAbLF5DToDl_41.563165_-71.254430@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314106,
+    "wof:geomhash":"d78282d60e63cc1bd9aa4294d9b9457c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874266999
+        }
+    ],
+    "wof:id":874266999,
+    "wof:lastmodified":1464314106,
+    "wof:name":"Nail Shoppe",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -71.25443,
+    41.563165,
+    -71.25443,
+    41.563165
+],
+  "geometry": {"coordinates":[-71.25443,41.563165],"type":"Point"}
+}

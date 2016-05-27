@@ -1,0 +1,71 @@
+{
+  "id": 874052231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510251,41.463493,-71.510251,41.463493",
+    "geom:latitude":41.463493,
+    "geom:longitude":-71.510251,
+    "iso:country":"US",
+    "sg:address":"1927 Kingstown Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2550",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74KIOFWDpBsIkULNTCQZH0_41.463493_-71.510251@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311261,
+    "wof:geomhash":"fcb7737f7d2652a7e34a5ab14721238a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874052231
+        }
+    ],
+    "wof:id":874052231,
+    "wof:lastmodified":1464311261,
+    "wof:name":"Marianne's Hair Co",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.510251,
+    41.463493,
+    -71.510251,
+    41.463493
+],
+  "geometry": {"coordinates":[-71.510251,41.463493],"type":"Point"}
+}

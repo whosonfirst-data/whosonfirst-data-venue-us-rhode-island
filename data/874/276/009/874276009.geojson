@@ -1,0 +1,79 @@
+{
+  "id": 874276009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.413159,41.851396,-71.413159,41.851396",
+    "geom:latitude":41.851396,
+    "geom:longitude":-71.413159,
+    "iso:country":"US",
+    "sg:address":"240 Silver Spring St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 5466",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a6JQ58J3RBjAoMyOMPhvZ_41.851396_-71.413159@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314454,
+    "wof:geomhash":"f7e37a837e0fe9509fec4ee7ff9e37a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874276009
+        }
+    ],
+    "wof:id":874276009,
+    "wof:lastmodified":1464314454,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.413159,
+    41.851396,
+    -71.413159,
+    41.851396
+],
+  "geometry": {"coordinates":[-71.41315899999999,41.851396],"type":"Point"}
+}

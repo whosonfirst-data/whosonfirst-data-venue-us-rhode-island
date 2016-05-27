@@ -1,0 +1,71 @@
+{
+  "id": 874139155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.55029,41.482175,-71.55029,41.482175",
+    "geom:latitude":41.482175,
+    "geom:longitude":-71.55029,
+    "iso:country":"US",
+    "sg:address":"3411 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8122",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N4kCZOFFQAT5EF4YbHBPj_41.482175_-71.550290@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312228,
+    "wof:geomhash":"bfcf7eb14741adf268631b67f09e7eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874139155
+        }
+    ],
+    "wof:id":874139155,
+    "wof:lastmodified":1464312228,
+    "wof:name":"Drake Petroleum Company Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.55029,
+    41.482175,
+    -71.55029,
+    41.482175
+],
+  "geometry": {"coordinates":[-71.55029,41.482175],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874291781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403603,41.9473,-71.403603,41.9473",
+    "geom:latitude":41.9473,
+    "geom:longitude":-71.403603,
+    "iso:country":"US",
+    "sg:address":"2077 Diamond Hill Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 7979",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:website":"www.davesmarketplace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54GFIJUxzskGgHyTULshZN_41.947300_-71.403603@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315082,
+    "wof:geomhash":"c4a3c2eb2b191c0f0e1a830ace6536c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874291781
+        }
+    ],
+    "wof:id":874291781,
+    "wof:lastmodified":1464315082,
+    "wof:name":"Dave's Marketplace",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.403603,
+    41.9473,
+    -71.403603,
+    41.9473
+],
+  "geometry": {"coordinates":[-71.403603,41.9473],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 874169539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.319862,41.506548,-71.319862,41.506548",
+    "geom:latitude":41.506548,
+    "geom:longitude":-71.319862,
+    "iso:country":"US",
+    "sg:address":"190 Admiral Kalbfus Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 9590",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sound",
+        "equipment",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a69rPyzcVNs4eTicAMDk5_41.506548_-71.319862@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312522,
+    "wof:geomhash":"1e1f3ac6dda39209b386b2d36c0162a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874169539
+        }
+    ],
+    "wof:id":874169539,
+    "wof:lastmodified":1464312522,
+    "wof:name":"Stage Craft Audio",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sound",
+        "equipment",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.319862,
+    41.506548,
+    -71.319862,
+    41.506548
+],
+  "geometry": {"coordinates":[-71.319862,41.506548],"type":"Point"}
+}

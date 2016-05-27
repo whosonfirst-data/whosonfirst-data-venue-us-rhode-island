@@ -1,0 +1,80 @@
+{
+  "id": 874288113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44349,41.832345,-71.44349,41.832345",
+    "geom:latitude":41.832345,
+    "geom:longitude":-71.44349,
+    "iso:country":"US",
+    "sg:address":"1075 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/83109-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 9800",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CNXw8RzMaYwu28Iu84iPm_41.832347_-71.443660@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314939,
+    "wof:geomhash":"fc9f494a1eb747cc81f9e50d1ce7570c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874288113
+        }
+    ],
+    "wof:id":874288113,
+    "wof:lastmodified":1464314939,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.44349,
+    41.832345,
+    -71.44349,
+    41.832345
+],
+  "geometry": {"coordinates":[-71.44349,41.832345],"type":"Point"}
+}

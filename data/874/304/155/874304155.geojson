@@ -1,0 +1,85 @@
+{
+  "id": 874304155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.354625,41.857198,-71.354625,41.857198",
+    "geom:latitude":41.857198,
+    "geom:longitude":-71.354625,
+    "iso:country":"US",
+    "sg:address":"67 Newport Ave",
+    "sg:city":"Rumford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 7056",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ],
+    "sg:website":"www.burgerking.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EKIzpmFG9XhPCibsJ1peQ_41.857198_-71.354625@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315535,
+    "wof:geomhash":"cd8f4d3135b87db481b961bcffccdb77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874304155
+        }
+    ],
+    "wof:id":874304155,
+    "wof:lastmodified":1464315535,
+    "wof:name":"Burger King Family Restaurants",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -71.354625,
+    41.857198,
+    -71.354625,
+    41.857198
+],
+  "geometry": {"coordinates":[-71.354625,41.857198],"type":"Point"}
+}

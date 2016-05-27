@@ -1,0 +1,76 @@
+{
+  "id": 874205879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.734271,41.996836,-71.734271,41.996836",
+    "geom:latitude":41.996836,
+    "geom:longitude":-71.734271,
+    "iso:country":"US",
+    "sg:address":"170 Donahue Rd",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 1935",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846229,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14a3tNS0H4Fm6xFJRLmhXp_41.996836_-71.734271@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312903,
+    "wof:geomhash":"b8793e07cce0fd1da549cfbd0a0d2982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85846229,
+            "region_id":85688509,
+            "venue_id":874205879
+        }
+    ],
+    "wof:id":874205879,
+    "wof:lastmodified":1464312903,
+    "wof:name":"All That Junk Removal Company",
+    "wof:parent_id":85846229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.734271,
+    41.996836,
+    -71.734271,
+    41.996836
+],
+  "geometry": {"coordinates":[-71.73427100000001,41.996836],"type":"Point"}
+}

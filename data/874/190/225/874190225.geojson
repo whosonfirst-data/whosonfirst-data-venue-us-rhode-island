@@ -1,0 +1,77 @@
+{
+  "id": 874190225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472938,41.7257,-71.472938,41.7257",
+    "geom:latitude":41.7257,
+    "geom:longitude":-71.472938,
+    "iso:country":"US",
+    "sg:address":"307 Greenwich Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 6213",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842689,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n1RHHH4DliYNUbTiJBVlH_41.725700_-71.472938@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312742,
+    "wof:geomhash":"8ef1c5613f65a1d79e193451ff706473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85842689,
+            "region_id":85688509,
+            "venue_id":874190225
+        }
+    ],
+    "wof:id":874190225,
+    "wof:lastmodified":1464312742,
+    "wof:name":"Rhazes Pediatric Assn Inc",
+    "wof:parent_id":85842689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.472938,
+    41.7257,
+    -71.472938,
+    41.7257
+],
+  "geometry": {"coordinates":[-71.472938,41.7257],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873987035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54846,41.726944,-71.54846,41.726944",
+    "geom:latitude":41.726944,
+    "geom:longitude":-71.54846,
+    "iso:country":"US",
+    "sg:address":"91 Hill St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 0417",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ynLGRN1PylcZgu5oWTsI1_41.726944_-71.548460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310669,
+    "wof:geomhash":"f02fc4a79282740902ffbf9271684f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":873987035
+        }
+    ],
+    "wof:id":873987035,
+    "wof:lastmodified":1464310669,
+    "wof:name":"Tom Skurka Construction",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.54846,
+    41.726944,
+    -71.54846,
+    41.726944
+],
+  "geometry": {"coordinates":[-71.54846000000001,41.726944],"type":"Point"}
+}

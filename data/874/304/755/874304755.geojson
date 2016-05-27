@@ -1,0 +1,71 @@
+{
+  "id": 874304755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469045,41.824776,-71.469045,41.824776",
+    "geom:latitude":41.824776,
+    "geom:longitude":-71.469045,
+    "iso:country":"US",
+    "sg:address":"1 Lucia St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 2206",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CBlDn6llo4oEQs0dIELBy_41.824776_-71.469045@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315555,
+    "wof:geomhash":"5b5dd93a208ce336e1e3c198b1943a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304755
+        }
+    ],
+    "wof:id":874304755,
+    "wof:lastmodified":1464315555,
+    "wof:name":"Capital Tire Co Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.469045,
+    41.824776,
+    -71.469045,
+    41.824776
+],
+  "geometry": {"coordinates":[-71.46904499999999,41.824776],"type":"Point"}
+}

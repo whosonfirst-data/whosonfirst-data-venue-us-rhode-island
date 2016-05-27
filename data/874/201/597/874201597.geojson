@@ -1,0 +1,86 @@
+{
+  "id": 874201597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406518,41.802357,-71.406518,41.802357",
+    "geom:latitude":41.802357,
+    "geom:longitude":-71.406518,
+    "iso:country":"US",
+    "sg:address":"946 Eddy St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 6700",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uEifBp8f9dbP5rjM2CP8w_41.802357_-71.406518@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312859,
+    "wof:geomhash":"2e445359dc330cab8c72820c870a5a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874201597
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874201597
+        }
+    ],
+    "wof:id":874201597,
+    "wof:lastmodified":1464312859,
+    "wof:name":"M & M Finishing Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating"
+    ]
+},
+  "bbox": [
+    -71.406518,
+    41.802357,
+    -71.406518,
+    41.802357
+],
+  "geometry": {"coordinates":[-71.40651800000001,41.802357],"type":"Point"}
+}

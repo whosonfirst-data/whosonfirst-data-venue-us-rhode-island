@@ -1,0 +1,75 @@
+{
+  "id": 874113283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.425943,41.8354,-71.425943,41.8354",
+    "geom:latitude":41.8354,
+    "geom:longitude":-71.425943,
+    "iso:country":"US",
+    "sg:address":"459 Smith St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 7554",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qYFcLywqCI6knAoPARVuW_41.835400_-71.425943@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311970,
+    "wof:geomhash":"ec918a2639f722796423553e9e2134c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874113283
+        }
+    ],
+    "wof:id":874113283,
+    "wof:lastmodified":1464311970,
+    "wof:name":"Inner City Hair Design",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.425943,
+    41.8354,
+    -71.425943,
+    41.8354
+],
+  "geometry": {"coordinates":[-71.425943,41.8354],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874145959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.626099,41.385816,-71.626099,41.385816",
+    "geom:latitude":41.385816,
+    "geom:longitude":-71.626099,
+    "iso:country":"US",
+    "sg:address":"350 Narrow Ln",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3230",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "yard",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iHoi7n9lSBfFUdvoqagTt_41.385816_-71.626099@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312293,
+    "wof:geomhash":"1021ab6c6c0699516a63e1a2360d8d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874145959
+        }
+    ],
+    "wof:id":874145959,
+    "wof:lastmodified":1464312293,
+    "wof:name":"Charlestown Equipment Rental",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -71.626099,
+    41.385816,
+    -71.626099,
+    41.385816
+],
+  "geometry": {"coordinates":[-71.626099,41.385816],"type":"Point"}
+}

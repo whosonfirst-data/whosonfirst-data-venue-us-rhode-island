@@ -1,0 +1,75 @@
+{
+  "id": 874143257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405101,41.747703,-71.405101,41.747703",
+    "geom:latitude":41.747703,
+    "geom:longitude":-71.405101,
+    "iso:country":"US",
+    "sg:address":"999 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 7540",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dP8GTNffH5hup6OqI8vHb_41.747703_-71.405101@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312264,
+    "wof:geomhash":"90cad5d50f249e089c989996626ca666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874143257
+        }
+    ],
+    "wof:id":874143257,
+    "wof:lastmodified":1464312264,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.405101,
+    41.747703,
+    -71.405101,
+    41.747703
+],
+  "geometry": {"coordinates":[-71.405101,41.747703],"type":"Point"}
+}

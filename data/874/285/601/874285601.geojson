@@ -1,0 +1,71 @@
+{
+  "id": 874285601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396807,41.886729,-71.396807,41.886729",
+    "geom:latitude":41.886729,
+    "geom:longitude":-71.396807,
+    "iso:country":"US",
+    "sg:address":"693 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 305 3320",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocery",
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63lWsgKs9e7QQFqSJwrq5V_41.886640_-71.396935@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314839,
+    "wof:geomhash":"2e19e8ea3bf5e6313204dccbe40397f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874285601
+        }
+    ],
+    "wof:id":874285601,
+    "wof:lastmodified":1464314839,
+    "wof:name":"Bravo Supermarket",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.396807,
+    41.886729,
+    -71.396807,
+    41.886729
+],
+  "geometry": {"coordinates":[-71.396807,41.886729],"type":"Point"}
+}

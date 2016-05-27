@@ -1,0 +1,86 @@
+{
+  "id": 874054331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48881,41.442059,-71.48881,41.442059",
+    "geom:latitude":41.442059,
+    "geom:longitude":-71.48881,
+    "iso:country":"US",
+    "sg:address":"682 Kingstown Rd",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2278",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B5m6OnLW68aaQcUcXsT7B_41.442059_-71.488810@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311281,
+    "wof:geomhash":"1a3b71c61d997e4177864687d105200e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874054331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874054331
+        }
+    ],
+    "wof:id":874054331,
+    "wof:lastmodified":1464311281,
+    "wof:name":"Printing Express",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -71.48881,
+    41.442059,
+    -71.48881,
+    41.442059
+],
+  "geometry": {"coordinates":[-71.48881,41.442059],"type":"Point"}
+}

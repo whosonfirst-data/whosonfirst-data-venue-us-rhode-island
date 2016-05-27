@@ -1,0 +1,73 @@
+{
+  "id": 874102951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.482345,41.832449,-71.482345,41.832449",
+    "geom:latitude":41.832449,
+    "geom:longitude":-71.482345,
+    "iso:country":"US",
+    "sg:address":"59 Jackson Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 0814",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z9AQiwU1dV2VapluL6HqC_41.832449_-71.482345@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311831,
+    "wof:geomhash":"cfc05b679c580538235389d6149838f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874102951
+        }
+    ],
+    "wof:id":874102951,
+    "wof:lastmodified":1464311831,
+    "wof:name":"P N L Construction",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.482345,
+    41.832449,
+    -71.482345,
+    41.832449
+],
+  "geometry": {"coordinates":[-71.482345,41.832449],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874287111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.487502,41.716202,-71.487502,41.716202",
+    "geom:latitude":41.716202,
+    "geom:longitude":-71.487502,
+    "iso:country":"US",
+    "sg:address":"877 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/215020-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 9209",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wUVKHjZInCFZHpnut4b1L_41.716202_-71.487502@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314894,
+    "wof:geomhash":"c7c4d6a80e47c44ed2c905bb0d6cbc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287111
+        }
+    ],
+    "wof:id":874287111,
+    "wof:lastmodified":1464314894,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -71.487502,
+    41.716202,
+    -71.487502,
+    41.716202
+],
+  "geometry": {"coordinates":[-71.48750200000001,41.716202],"type":"Point"}
+}

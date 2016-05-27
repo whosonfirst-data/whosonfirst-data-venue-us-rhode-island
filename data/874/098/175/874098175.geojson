@@ -1,0 +1,71 @@
+{
+  "id": 874098175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432776,41.939969,-71.432776,41.939969",
+    "geom:latitude":41.939969,
+    "geom:longitude":-71.432776,
+    "iso:country":"US",
+    "sg:address":"1512 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3090",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_028KtFGuOAhkBXmiMeXQt3_41.939969_-71.432776@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"4da38d2e895255e2888c18f4ac2deebf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874098175
+        }
+    ],
+    "wof:id":874098175,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Town of Cumberland Ems",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -71.432776,
+    41.939969,
+    -71.432776,
+    41.939969
+],
+  "geometry": {"coordinates":[-71.432776,41.939969],"type":"Point"}
+}

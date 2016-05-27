@@ -1,0 +1,71 @@
+{
+  "id": 874242449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481642,41.822921,-71.481642,41.822921",
+    "geom:latitude":41.822921,
+    "geom:longitude":-71.481642,
+    "iso:country":"US",
+    "sg:address":"7 Meadow St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 4680",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ivz9CELb0kCMXFji31onT_41.822921_-71.481642@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313385,
+    "wof:geomhash":"8dc147aff885a475d73d7b8374c776ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874242449
+        }
+    ],
+    "wof:id":874242449,
+    "wof:lastmodified":1464313385,
+    "wof:name":"Simone Bros Excavating",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.481642,
+    41.822921,
+    -71.481642,
+    41.822921
+],
+  "geometry": {"coordinates":[-71.48164199999999,41.822921],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874100653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541962,41.88609,-71.541962,41.88609",
+    "geom:latitude":41.88609,
+    "geom:longitude":-71.541962,
+    "iso:country":"US",
+    "sg:address":"128 Pleasant View Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 2553",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RudbHbL3Fmtj1uqeNjlfR_41.886090_-71.541962@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311803,
+    "wof:geomhash":"cec5bb8ad4f2af7b6f3a8d0618a79cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874100653
+        }
+    ],
+    "wof:id":874100653,
+    "wof:lastmodified":1464311803,
+    "wof:name":"On Your Toes Dance Studio",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.541962,
+    41.88609,
+    -71.541962,
+    41.88609
+],
+  "geometry": {"coordinates":[-71.541962,41.88609],"type":"Point"}
+}

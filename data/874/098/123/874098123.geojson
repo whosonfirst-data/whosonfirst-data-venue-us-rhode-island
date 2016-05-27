@@ -1,0 +1,71 @@
+{
+  "id": 874098123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40939,41.884791,-71.40939,41.884791",
+    "geom:latitude":41.884791,
+    "geom:longitude":-71.40939,
+    "iso:country":"US",
+    "sg:address":"145 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 9030",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kyRSQwvvK1NosDIe505wi_41.884791_-71.409390@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311758,
+    "wof:geomhash":"51869ef4cf5fc60f50f84cc0b2bae9fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874098123
+        }
+    ],
+    "wof:id":874098123,
+    "wof:lastmodified":1464311758,
+    "wof:name":"Miller's Truck Sales & Repair",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.40939,
+    41.884791,
+    -71.40939,
+    41.884791
+],
+  "geometry": {"coordinates":[-71.40939,41.884791],"type":"Point"}
+}

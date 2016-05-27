@@ -1,0 +1,73 @@
+{
+  "id": 874243999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.179246,41.643529,-71.179246,41.643529",
+    "geom:latitude":41.643529,
+    "geom:longitude":-71.179246,
+    "iso:country":"US",
+    "sg:address":"50 Industrial Way",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 6760",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34NAmMBUEIqlIDllYPrhhH_41.643529_-71.179246@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313412,
+    "wof:geomhash":"3a98ada8e6688b4eda7e8d889a5e381e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874243999
+        }
+    ],
+    "wof:id":874243999,
+    "wof:lastmodified":1464313412,
+    "wof:name":"Public Works Dept",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.179246,
+    41.643529,
+    -71.179246,
+    41.643529
+],
+  "geometry": {"coordinates":[-71.17924600000001,41.643529],"type":"Point"}
+}

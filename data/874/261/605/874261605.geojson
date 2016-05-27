@@ -1,0 +1,71 @@
+{
+  "id": 874261605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.517894,41.475277,-71.517894,41.475277",
+    "geom:latitude":41.475277,
+    "geom:longitude":-71.517894,
+    "iso:country":"US",
+    "sg:address":"2291 Kingstown Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0930",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09iQiOJ2q1Mnxm74TXpx1G_41.475277_-71.517894@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313911,
+    "wof:geomhash":"46c1bf19a802d0f7c766ff1fb1b854d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874261605
+        }
+    ],
+    "wof:id":874261605,
+    "wof:lastmodified":1464313911,
+    "wof:name":"Christ United Methodist Church",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.517894,
+    41.475277,
+    -71.517894,
+    41.475277
+],
+  "geometry": {"coordinates":[-71.517894,41.475277],"type":"Point"}
+}

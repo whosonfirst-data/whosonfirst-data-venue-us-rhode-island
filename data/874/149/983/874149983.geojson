@@ -1,0 +1,88 @@
+{
+  "id": 874149983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441459,41.772434,-71.441459,41.772434",
+    "geom:latitude":41.772434,
+    "geom:longitude":-71.441459,
+    "iso:country":"US",
+    "sg:address":"141 Chestnut Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 0021",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "food"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZHYJZ15bwGXpJFcASXkHc_41.772434_-71.441459@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312328,
+    "wof:geomhash":"c52994ca78f82c1a479c73e1c0cf99e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874149983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874149983
+        }
+    ],
+    "wof:id":874149983,
+    "wof:lastmodified":1464312328,
+    "wof:name":"L G P Distributors Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "food"
+    ]
+},
+  "bbox": [
+    -71.441459,
+    41.772434,
+    -71.441459,
+    41.772434
+],
+  "geometry": {"coordinates":[-71.44145899999999,41.772434],"type":"Point"}
+}

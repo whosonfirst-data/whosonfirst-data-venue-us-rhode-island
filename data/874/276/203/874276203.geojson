@@ -1,0 +1,74 @@
+{
+  "id": 874276203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.553303,41.482377,-71.553303,41.482377",
+    "geom:latitude":41.482377,
+    "geom:longitude":-71.553303,
+    "iso:country":"US",
+    "sg:address":"46 Liberty Ln",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3739",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.key.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CpsJP9EEZDpaxa4zg4MNl_41.482377_-71.553303@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314465,
+    "wof:geomhash":"2daa7b6f579eb012cf52ee5800a6a2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874276203
+        }
+    ],
+    "wof:id":874276203,
+    "wof:lastmodified":1464314465,
+    "wof:name":"Key Program",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.553303,
+    41.482377,
+    -71.553303,
+    41.482377
+],
+  "geometry": {"coordinates":[-71.553303,41.482377],"type":"Point"}
+}

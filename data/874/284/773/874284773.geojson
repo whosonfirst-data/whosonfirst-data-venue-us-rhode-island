@@ -1,0 +1,77 @@
+{
+  "id": 874284773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.444901,41.851898,-71.444901,41.851898",
+    "geom:latitude":41.851898,
+    "geom:longitude":-71.444901,
+    "iso:country":"US",
+    "sg:address":"868 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 8400",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "orthopedist",
+        "rehabilitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OCaIJGKjzApyP9kZ7tZjU_41.852086_-71.445385@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314805,
+    "wof:geomhash":"b5a5b7722b4fc51e3763abd5a3462dd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874284773
+        }
+    ],
+    "wof:id":874284773,
+    "wof:lastmodified":1464314805,
+    "wof:name":"Orthopedic Services",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -71.444901,
+    41.851898,
+    -71.444901,
+    41.851898
+],
+  "geometry": {"coordinates":[-71.444901,41.851898],"type":"Point"}
+}

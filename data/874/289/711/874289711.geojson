@@ -1,0 +1,70 @@
+{
+  "id": 874289711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.394194,41.879982,-71.394194,41.879982",
+    "geom:latitude":41.879982,
+    "geom:longitude":-71.394194,
+    "iso:country":"US",
+    "sg:address":"210 Conant St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 2520",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.ruiconstruction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NRrU4NZlJhAmY8cugig8c_41.879982_-71.394194@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315002,
+    "wof:geomhash":"22130dcb3902a0a4f3de3a9f7725d2ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874289711
+        }
+    ],
+    "wof:id":874289711,
+    "wof:lastmodified":1464315002,
+    "wof:name":"Rui Construction",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.394194,
+    41.879982,
+    -71.394194,
+    41.879982
+],
+  "geometry": {"coordinates":[-71.394194,41.879982],"type":"Point"}
+}

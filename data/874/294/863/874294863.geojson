@@ -1,0 +1,76 @@
+{
+  "id": 874294863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.412625,41.823045,-71.412625,41.823045",
+    "geom:latitude":41.823045,
+    "geom:longitude":-71.412625,
+    "iso:country":"US",
+    "sg:address":"225 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Cheese",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 7177",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.farmsteadinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WT8NxdyxKiUj0JCBt5mMv_41.823045_-71.412625@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315190,
+    "wof:geomhash":"e30fc8dbe44afe132bb46a0f3d29df8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874294863
+        }
+    ],
+    "wof:id":874294863,
+    "wof:lastmodified":1464315190,
+    "wof:name":"Farmstead Downcity",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.412625,
+    41.823045,
+    -71.412625,
+    41.823045
+],
+  "geometry": {"coordinates":[-71.41262500000001,41.823045],"type":"Point"}
+}

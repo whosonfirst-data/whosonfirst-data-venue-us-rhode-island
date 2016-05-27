@@ -1,0 +1,73 @@
+{
+  "id": 873992909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249185,41.53764,-71.249185,41.53764",
+    "geom:latitude":41.53764,
+    "geom:longitude":-71.249185,
+    "iso:country":"US",
+    "sg:address":"460 Bramans Ln",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 9663",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A9YnSHzU4sp8dJ1aFxaIs_41.537640_-71.249185@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310711,
+    "wof:geomhash":"d225a59b6b6e6637bacd85ad33c29f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":873992909
+        }
+    ],
+    "wof:id":873992909,
+    "wof:lastmodified":1464310711,
+    "wof:name":"Happy Dog Pet Sitting",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -71.249185,
+    41.53764,
+    -71.249185,
+    41.53764
+],
+  "geometry": {"coordinates":[-71.249185,41.53764],"type":"Point"}
+}

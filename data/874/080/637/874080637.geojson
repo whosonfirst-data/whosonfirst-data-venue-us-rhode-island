@@ -1,0 +1,71 @@
+{
+  "id": 874080637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679282,41.406535,-71.679282,41.406535",
+    "geom:latitude":41.406535,
+    "geom:longitude":-71.679282,
+    "iso:country":"US",
+    "sg:address":"560 Kings Factory Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6207",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24BsCnziIH5SF3nUXddY49_41.406535_-71.679282@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311558,
+    "wof:geomhash":"58e870dfc4138d862b1833afb5b49934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874080637
+        }
+    ],
+    "wof:id":874080637,
+    "wof:lastmodified":1464311558,
+    "wof:name":"Quality Painting",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.679282,
+    41.406535,
+    -71.679282,
+    41.406535
+],
+  "geometry": {"coordinates":[-71.679282,41.406535],"type":"Point"}
+}

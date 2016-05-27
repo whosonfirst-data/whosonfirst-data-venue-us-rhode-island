@@ -1,0 +1,71 @@
+{
+  "id": 874261235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.493279,41.909324,-71.493279,41.909324",
+    "geom:latitude":41.909324,
+    "geom:longitude":-71.493279,
+    "iso:country":"US",
+    "sg:address":"120 Orchard Meadows Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 0411",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GyBl66wNYlErZbOMbNTEe_41.909324_-71.493279@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313899,
+    "wof:geomhash":"94d2d22b4d690b343e6f3bcabedc7be9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874261235
+        }
+    ],
+    "wof:id":874261235,
+    "wof:lastmodified":1464313899,
+    "wof:name":"Villela Eri Fenn",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -71.493279,
+    41.909324,
+    -71.493279,
+    41.909324
+],
+  "geometry": {"coordinates":[-71.493279,41.909324],"type":"Point"}
+}

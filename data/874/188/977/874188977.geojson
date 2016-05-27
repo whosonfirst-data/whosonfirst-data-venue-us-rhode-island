@@ -1,0 +1,79 @@
+{
+  "id": 874188977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489159,41.725342,-71.489159,41.725342",
+    "geom:latitude":41.725342,
+    "geom:longitude":-71.489159,
+    "iso:country":"US",
+    "sg:address":"5 Aster St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 822 2639",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816599,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43ds8GxfdpSRDzm3KhP0mZ_41.725342_-71.489159@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312730,
+    "wof:geomhash":"7602dbb182a75114b0880b1086057614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874188977
+        }
+    ],
+    "wof:id":874188977,
+    "wof:lastmodified":1464312730,
+    "wof:name":"Village Collision Center",
+    "wof:parent_id":85816599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.489159,
+    41.725342,
+    -71.489159,
+    41.725342
+],
+  "geometry": {"coordinates":[-71.489159,41.725342],"type":"Point"}
+}

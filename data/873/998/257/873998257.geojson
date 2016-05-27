@@ -1,0 +1,88 @@
+{
+  "id": 873998257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480612,41.430642,-71.480612,41.430642",
+    "geom:latitude":41.430642,
+    "geom:longitude":-71.480612,
+    "iso:country":"US",
+    "sg:address":"354 S Pier Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 9369",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4znjXckaIuSJMz3N5atCbR_41.430642_-71.480612@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310749,
+    "wof:geomhash":"db0c21f11a7439f7967adeaba53f2364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":873998257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":873998257
+        }
+    ],
+    "wof:id":873998257,
+    "wof:lastmodified":1464310749,
+    "wof:name":"Ocean View Taxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -71.480612,
+    41.430642,
+    -71.480612,
+    41.430642
+],
+  "geometry": {"coordinates":[-71.48061199999999,41.430642],"type":"Point"}
+}

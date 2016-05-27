@@ -1,0 +1,77 @@
+{
+  "id": 874135717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45275,41.569224,-71.45275,41.569224",
+    "geom:latitude":41.569224,
+    "geom:longitude":-71.45275,
+    "iso:country":"US",
+    "sg:address":"39 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5073",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aqF463PxSFfa0s5MAgmmC_41.569224_-71.452750@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312197,
+    "wof:geomhash":"193e54887637754e5e758ea663a80de5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874135717
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874135717
+        }
+    ],
+    "wof:id":874135717,
+    "wof:lastmodified":1464312197,
+    "wof:name":"Jiro's Custom Tailoring",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -71.45275,
+    41.569224,
+    -71.45275,
+    41.569224
+],
+  "geometry": {"coordinates":[-71.45274999999999,41.569224],"type":"Point"}
+}

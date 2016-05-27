@@ -1,0 +1,73 @@
+{
+  "id": 874205511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438092,41.958264,-71.438092,41.958264",
+    "geom:latitude":41.958264,
+    "geom:longitude":-71.438092,
+    "iso:country":"US",
+    "sg:address":"66 High Ridge Dr",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 6155",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6P1BNBxTW4TFi7o4ZV83X3_41.958264_-71.438092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312899,
+    "wof:geomhash":"7d2b8cd67301fcce33752ae956ca69b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874205511
+        }
+    ],
+    "wof:id":874205511,
+    "wof:lastmodified":1464312899,
+    "wof:name":"Francis J George",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -71.438092,
+    41.958264,
+    -71.438092,
+    41.958264
+],
+  "geometry": {"coordinates":[-71.438092,41.958264],"type":"Point"}
+}

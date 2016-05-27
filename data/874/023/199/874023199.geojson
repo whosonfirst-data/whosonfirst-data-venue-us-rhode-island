@@ -1,0 +1,71 @@
+{
+  "id": 874023199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.554092,41.696919,-71.554092,41.696919",
+    "geom:latitude":41.696919,
+    "geom:longitude":-71.554092,
+    "iso:country":"US",
+    "sg:address":"14 Manchester Cir",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 4367",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "affordable",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hjbWHCoYD2ushWABJY1tV_41.696919_-71.554092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310975,
+    "wof:geomhash":"16f79122efa7df2dd239af5b787f5713",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874023199
+        }
+    ],
+    "wof:id":874023199,
+    "wof:lastmodified":1464310975,
+    "wof:name":"Coventry Housing Assoc Corp",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "affordable",
+        "housing"
+    ]
+},
+  "bbox": [
+    -71.554092,
+    41.696919,
+    -71.554092,
+    41.696919
+],
+  "geometry": {"coordinates":[-71.554092,41.696919],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874045777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.185392,41.640893,-71.185392,41.640893",
+    "geom:latitude":41.640893,
+    "geom:longitude":-71.185392,
+    "iso:country":"US",
+    "sg:address":"20 Industrial Way",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 625 6722",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vg5KmhLxxrQWVq2jIDQY0_41.640893_-71.185392@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311204,
+    "wof:geomhash":"53d77dc239c1efd79dc3e3f30d350ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874045777
+        }
+    ],
+    "wof:id":874045777,
+    "wof:lastmodified":1464311204,
+    "wof:name":"Tiverton Police Dept",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.185392,
+    41.640893,
+    -71.185392,
+    41.640893
+],
+  "geometry": {"coordinates":[-71.18539199999999,41.640893],"type":"Point"}
+}

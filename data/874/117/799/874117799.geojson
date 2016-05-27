@@ -1,0 +1,69 @@
+{
+  "id": 874117799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.773219,41.363182,-71.773219,41.363182",
+    "geom:latitude":41.363182,
+    "geom:longitude":-71.773219,
+    "iso:country":"US",
+    "sg:address":"77 Dunns Corner Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 3011",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Lwd6eZiC1zugPWUsfprk_41.363182_-71.773219@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312014,
+    "wof:geomhash":"eebfe5d8a37449f21acf721ca8b25b30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874117799
+        }
+    ],
+    "wof:id":874117799,
+    "wof:lastmodified":1464312014,
+    "wof:name":"Rjs Repair",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.773219,
+    41.363182,
+    -71.773219,
+    41.363182
+],
+  "geometry": {"coordinates":[-71.773219,41.363182],"type":"Point"}
+}

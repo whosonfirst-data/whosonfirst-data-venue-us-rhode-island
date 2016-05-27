@@ -1,0 +1,71 @@
+{
+  "id": 874269741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.691428,41.971973,-71.691428,41.971973",
+    "geom:latitude":41.971973,
+    "geom:longitude":-71.691428,
+    "iso:country":"US",
+    "sg:address":"17 Sanwood Dr",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 567 7878",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wkxCsyYMNl0t7aZ5dLV09_41.971973_-71.691428@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314217,
+    "wof:geomhash":"4082082d1a9646d7d752c599a530a104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874269741
+        }
+    ],
+    "wof:id":874269741,
+    "wof:lastmodified":1464314217,
+    "wof:name":"M Squared Computer Design",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -71.691428,
+    41.971973,
+    -71.691428,
+    41.971973
+],
+  "geometry": {"coordinates":[-71.691428,41.971973],"type":"Point"}
+}

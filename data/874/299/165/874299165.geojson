@@ -1,0 +1,77 @@
+{
+  "id": 874299165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429939,41.875343,-71.429939,41.875343",
+    "geom:latitude":41.875343,
+    "geom:longitude":-71.429939,
+    "iso:country":"US",
+    "sg:address":"1 Randall Sq Ste 102",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 0558",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "analytical",
+        "laboratory"
+    ],
+    "sg:website":"http://www.questdiagnostics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K6MnT072OOUQ0EURJQvV2_41.875343_-71.429939@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315360,
+    "wof:geomhash":"88564c208a9d151aa9925036f18571a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299165
+        }
+    ],
+    "wof:id":874299165,
+    "wof:lastmodified":1464315360,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "analytical",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.429939,
+    41.875343,
+    -71.429939,
+    41.875343
+],
+  "geometry": {"coordinates":[-71.429939,41.875343],"type":"Point"}
+}

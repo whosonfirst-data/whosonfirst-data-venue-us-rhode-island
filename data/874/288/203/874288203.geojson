@@ -1,0 +1,76 @@
+{
+  "id": 874288203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463475,41.783078,-71.463475,41.783078",
+    "geom:latitude":41.783078,
+    "geom:longitude":-71.463475,
+    "iso:country":"US",
+    "sg:address":"1463 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/245094-marchettis-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 7649",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1H7iKxiEg2ZZ0e5MpConQE_41.783114_-71.463720@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314943,
+    "wof:geomhash":"8dbdcb05975966154b64d1fe47619b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874288203
+        }
+    ],
+    "wof:id":874288203,
+    "wof:lastmodified":1464314943,
+    "wof:name":"Marchetti's Restaurant",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.463475,
+    41.783078,
+    -71.463475,
+    41.783078
+],
+  "geometry": {"coordinates":[-71.463475,41.783078],"type":"Point"}
+}

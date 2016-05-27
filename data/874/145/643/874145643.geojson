@@ -1,0 +1,71 @@
+{
+  "id": 874145643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.159846,41.555895,-71.159846,41.555895",
+    "geom:latitude":41.555895,
+    "geom:longitude":-71.159846,
+    "iso:country":"US",
+    "sg:address":"23 Long Hwy",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 2342",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48fRYSkB0gHyutcfPaDNc1_41.555895_-71.159846@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312285,
+    "wof:geomhash":"b6f938e0dae49ea3ea488b921b178068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874145643
+        }
+    ],
+    "wof:id":874145643,
+    "wof:lastmodified":1464312285,
+    "wof:name":"Walts Mustang Shop",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.159846,
+    41.555895,
+    -71.159846,
+    41.555895
+],
+  "geometry": {"coordinates":[-71.159846,41.555895],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874219341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449952,41.709847,-71.449952,41.709847",
+    "geom:latitude":41.709847,
+    "geom:longitude":-71.449952,
+    "iso:country":"US",
+    "sg:address":"2736 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 4050",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IN4jXgbSSrMuHeIbv3M0u_41.709847_-71.449952@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313048,
+    "wof:geomhash":"b87bd477484509c31125a7885a570231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874219341
+        }
+    ],
+    "wof:id":874219341,
+    "wof:lastmodified":1464313048,
+    "wof:name":"Fresenius Medical Care",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -71.449952,
+    41.709847,
+    -71.449952,
+    41.709847
+],
+  "geometry": {"coordinates":[-71.449952,41.709847],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874261315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468379,41.637965,-71.468379,41.637965",
+    "geom:latitude":41.637965,
+    "geom:longitude":-71.468379,
+    "iso:country":"US",
+    "sg:address":"5835 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 3390",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ILwLxDfg8ajNZJDMLejwl_41.637965_-71.468379@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313902,
+    "wof:geomhash":"60f80bb47f74b5aa2a9f474b59a1cde5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874261315
+        }
+    ],
+    "wof:id":874261315,
+    "wof:lastmodified":1464313902,
+    "wof:name":"Siavash Ghoreishi MD",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.468379,
+    41.637965,
+    -71.468379,
+    41.637965
+],
+  "geometry": {"coordinates":[-71.468379,41.637965],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874219399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441979,41.726178,-71.441979,41.726178",
+    "geom:latitude":41.726178,
+    "geom:longitude":-71.441979,
+    "iso:country":"US",
+    "sg:address":"103 Glenham Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 8180",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NRV5Es8fb9U3Am0v6j1Hc_41.726178_-71.441979@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313049,
+    "wof:geomhash":"bf787d96a0cd5eb59d78715eb59e0775",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874219399
+        }
+    ],
+    "wof:id":874219399,
+    "wof:lastmodified":1464313049,
+    "wof:name":"Read Sheet Metal",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.441979,
+    41.726178,
+    -71.441979,
+    41.726178
+],
+  "geometry": {"coordinates":[-71.441979,41.726178],"type":"Point"}
+}

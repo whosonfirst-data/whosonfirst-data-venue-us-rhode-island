@@ -1,0 +1,84 @@
+{
+  "id": 874299977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401173,41.78899,-71.401173,41.78899",
+    "geom:latitude":41.78899,
+    "geom:longitude":-71.401173,
+    "iso:country":"US",
+    "sg:address":"325 Ohio Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Stadium",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 6902",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "stadiums",
+        "athletic",
+        "field"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22c0t2JMsuiXEfw7XvNMDg_41.788990_-71.401173@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315388,
+    "wof:geomhash":"a45f6344e838bbd05dbf42a3e1c49aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874299977
+        }
+    ],
+    "wof:id":874299977,
+    "wof:lastmodified":1464315388,
+    "wof:name":"Washington Park Bensica",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stadiums",
+        "athletic",
+        "field"
+    ]
+},
+  "bbox": [
+    -71.401173,
+    41.78899,
+    -71.401173,
+    41.78899
+],
+  "geometry": {"coordinates":[-71.401173,41.78899],"type":"Point"}
+}

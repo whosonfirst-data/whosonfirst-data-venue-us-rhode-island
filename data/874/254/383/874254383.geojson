@@ -1,0 +1,85 @@
+{
+  "id": 874254383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485257,41.464993,-71.485257,41.464993",
+    "geom:latitude":41.464993,
+    "geom:longitude":-71.485257,
+    "iso:country":"US",
+    "sg:address":"723 Broad Rock Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 0130",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85841471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SH4pc1NfbwUjpRETOdjg6_41.464993_-71.485257@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313655,
+    "wof:geomhash":"6149b51cf2eb851432d050a2763e8847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874254383
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874254383
+        }
+    ],
+    "wof:id":874254383,
+    "wof:lastmodified":1464313655,
+    "wof:name":"Mike Monahan Design",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "design"
+    ]
+},
+  "bbox": [
+    -71.485257,
+    41.464993,
+    -71.485257,
+    41.464993
+],
+  "geometry": {"coordinates":[-71.485257,41.464993],"type":"Point"}
+}

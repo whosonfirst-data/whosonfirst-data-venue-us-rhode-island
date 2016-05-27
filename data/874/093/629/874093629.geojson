@@ -1,0 +1,71 @@
+{
+  "id": 874093629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.251246,41.572974,-71.251246,41.572974",
+    "geom:latitude":41.572974,
+    "geom:longitude":-71.251246,
+    "iso:country":"US",
+    "sg:address":"1430 E Main Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 682 2225",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bathroom",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Rs3jlJjyegDSh737lOHHZ_41.572974_-71.251246@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311700,
+    "wof:geomhash":"e74e4fbb21e14660875787ff359195c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874093629
+        }
+    ],
+    "wof:id":874093629,
+    "wof:lastmodified":1464311700,
+    "wof:name":"Beyond The Woods",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -71.251246,
+    41.572974,
+    -71.251246,
+    41.572974
+],
+  "geometry": {"coordinates":[-71.25124599999999,41.572974],"type":"Point"}
+}

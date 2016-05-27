@@ -1,0 +1,71 @@
+{
+  "id": 874261543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447304,41.870338,-71.447304,41.870338",
+    "geom:latitude":41.870338,
+    "geom:longitude":-71.447304,
+    "iso:country":"US",
+    "sg:address":"263 Lexington Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 2889",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A0JqhXCgVZ81zo05kZK54_41.870338_-71.447304@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313909,
+    "wof:geomhash":"4d15966d6c29a082a773b94157f7a4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874261543
+        }
+    ],
+    "wof:id":874261543,
+    "wof:lastmodified":1464313909,
+    "wof:name":"John Morrell Painting Company",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.447304,
+    41.870338,
+    -71.447304,
+    41.870338
+],
+  "geometry": {"coordinates":[-71.447304,41.870338],"type":"Point"}
+}

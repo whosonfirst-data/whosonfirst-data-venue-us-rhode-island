@@ -1,0 +1,74 @@
+{
+  "id": 874292757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410223,41.884532,-71.410223,41.884532",
+    "geom:latitude":41.884532,
+    "geom:longitude":-71.410223,
+    "iso:country":"US",
+    "sg:address":"109 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 5790",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gZxt9hhUSujqa1N9yGQLC_41.884532_-71.410223@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315115,
+    "wof:geomhash":"f060e9d58617e6f9f78c16ae111360d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874292757
+        }
+    ],
+    "wof:id":874292757,
+    "wof:lastmodified":1464315115,
+    "wof:name":"Miss Sheila's School of Dancing",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -71.410223,
+    41.884532,
+    -71.410223,
+    41.884532
+],
+  "geometry": {"coordinates":[-71.410223,41.884532],"type":"Point"}
+}

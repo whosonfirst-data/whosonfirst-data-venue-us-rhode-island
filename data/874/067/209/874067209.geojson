@@ -1,0 +1,77 @@
+{
+  "id": 874067209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3898,41.874992,-71.3898,41.874992",
+    "geom:latitude":41.874992,
+    "geom:longitude":-71.3898,
+    "iso:country":"US",
+    "sg:address":"206 Pine St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 2953",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mWgoglD4GpphcrrpB4aDp_41.874992_-71.389800@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311399,
+    "wof:geomhash":"b5f7c4dc229ed33310945de2c17f4f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874067209
+        }
+    ],
+    "wof:id":874067209,
+    "wof:lastmodified":1464311399,
+    "wof:name":"Axle Shop",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.3898,
+    41.874992,
+    -71.3898,
+    41.874992
+],
+  "geometry": {"coordinates":[-71.38979999999999,41.874992],"type":"Point"}
+}

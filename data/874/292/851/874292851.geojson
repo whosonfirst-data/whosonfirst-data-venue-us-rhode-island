@@ -1,0 +1,74 @@
+{
+  "id": 874292851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.223396,41.642879,-71.223396,41.642879",
+    "geom:latitude":41.642879,
+    "geom:longitude":-71.223396,
+    "iso:country":"US",
+    "sg:address":"903 Anthony Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 4318",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "variety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xoQ7LMQMYi5t0fPaqTb57_41.642879_-71.223396@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315118,
+    "wof:geomhash":"c13343cde6bfa8a678ade5f26f37df00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874292851
+        }
+    ],
+    "wof:id":874292851,
+    "wof:lastmodified":1464315118,
+    "wof:name":"Little Corner Store",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "variety"
+    ]
+},
+  "bbox": [
+    -71.223396,
+    41.642879,
+    -71.223396,
+    41.642879
+],
+  "geometry": {"coordinates":[-71.22339599999999,41.642879],"type":"Point"}
+}

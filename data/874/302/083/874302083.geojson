@@ -1,0 +1,70 @@
+{
+  "id": 874302083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439201,41.849201,-71.439201,41.849201",
+    "geom:latitude":41.849201,
+    "geom:longitude":-71.439201,
+    "iso:country":"US",
+    "sg:address":"685 Admiral St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 228 0081",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880037,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vTasM0W5Hoz5Plm6aWeVz_41.849201_-71.439201@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315466,
+    "wof:geomhash":"552af9e31aadc0088919d7ecc168b2eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880037,
+            "region_id":85688509,
+            "venue_id":874302083
+        }
+    ],
+    "wof:id":874302083,
+    "wof:lastmodified":1464315466,
+    "wof:name":"Lasalle Bakery",
+    "wof:parent_id":85880037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.439201,
+    41.849201,
+    -71.439201,
+    41.849201
+],
+  "geometry": {"coordinates":[-71.439201,41.849201],"type":"Point"}
+}

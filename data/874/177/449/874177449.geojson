@@ -1,0 +1,72 @@
+{
+  "id": 874177449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.480648,41.556171,-71.480648,41.556171",
+    "geom:latitude":41.556171,
+    "geom:longitude":-71.480648,
+    "iso:country":"US",
+    "sg:address":"381 Oak Hill Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7666",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "retail",
+        "used"
+    ],
+    "sg:website":"www.kingstownparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6soB31VpYnkYJnDCJXKoEK_41.556171_-71.480648@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312600,
+    "wof:geomhash":"94237d32ad2c3e6c60fdcf888fa050e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874177449
+        }
+    ],
+    "wof:id":874177449,
+    "wof:lastmodified":1464312600,
+    "wof:name":"Kingstown Auto Recycling",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "retail",
+        "used"
+    ]
+},
+  "bbox": [
+    -71.480648,
+    41.556171,
+    -71.480648,
+    41.556171
+],
+  "geometry": {"coordinates":[-71.480648,41.556171],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874112885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.348858,41.752995,-71.348858,41.752995",
+    "geom:latitude":41.752995,
+    "geom:longitude":-71.348858,
+    "iso:country":"US",
+    "sg:address":"101 Narragansett Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 0009",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i7TygZey90h7LkNJseTaL_41.752995_-71.348858@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311966,
+    "wof:geomhash":"ce8f4478c35875fd492b6b1a5125c97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874112885
+        }
+    ],
+    "wof:id":874112885,
+    "wof:lastmodified":1464311966,
+    "wof:name":"Custom Navigation Systems",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.348858,
+    41.752995,
+    -71.348858,
+    41.752995
+],
+  "geometry": {"coordinates":[-71.34885800000001,41.752995],"type":"Point"}
+}

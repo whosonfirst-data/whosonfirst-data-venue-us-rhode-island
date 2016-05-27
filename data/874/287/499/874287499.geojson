@@ -1,0 +1,91 @@
+{
+  "id": 874287499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4418,41.780663,-71.4418,41.780663",
+    "geom:latitude":41.780663,
+    "geom:longitude":-71.4418,
+    "iso:country":"US",
+    "sg:address":"680 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/239270-walts-roast-beef/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 2530",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rh3pL1gWVbnMF0IlQe8Bu_41.780663_-71.441800@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314913,
+    "wof:geomhash":"ebfa284aadbe7b1c15f8f79fcf50543a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874287499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874287499
+        }
+    ],
+    "wof:id":874287499,
+    "wof:lastmodified":1464314913,
+    "wof:name":"Walt's Roast Beef",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.4418,
+    41.780663,
+    -71.4418,
+    41.780663
+],
+  "geometry": {"coordinates":[-71.4418,41.780663],"type":"Point"}
+}

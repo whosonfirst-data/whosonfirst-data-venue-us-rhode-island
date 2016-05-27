@@ -1,0 +1,70 @@
+{
+  "id": 874153735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428341,41.777518,-71.428341,41.777518",
+    "geom:latitude":41.777518,
+    "geom:longitude":-71.428341,
+    "iso:country":"US",
+    "sg:address":"675 Park Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 467 7740",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558667,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DtsgBD3qwUnHWRMcWrOtc_41.777518_-71.428341@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312363,
+    "wof:geomhash":"1df730f642544637e81aba31e1277097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874153735
+        }
+    ],
+    "wof:id":874153735,
+    "wof:lastmodified":1464312363,
+    "wof:name":"CVS Pharmacy",
+    "wof:parent_id":420558667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.428341,
+    41.777518,
+    -71.428341,
+    41.777518
+],
+  "geometry": {"coordinates":[-71.428341,41.777518],"type":"Point"}
+}

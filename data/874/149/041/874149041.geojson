@@ -1,0 +1,75 @@
+{
+  "id": 874149041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.390714,41.763799,-71.390714,41.763799",
+    "geom:latitude":41.763799,
+    "geom:longitude":-71.390714,
+    "iso:country":"US",
+    "sg:address":"13 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8880",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840949,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DOhpzNIHxaTeQGTENJgt7_41.763799_-71.390714@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312320,
+    "wof:geomhash":"4b3554a86beae9919581e27232ba49b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85840949,
+            "region_id":85688509,
+            "venue_id":874149041
+        }
+    ],
+    "wof:id":874149041,
+    "wof:lastmodified":1464312320,
+    "wof:name":"Hunter's Servicenter",
+    "wof:parent_id":85840949,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.390714,
+    41.763799,
+    -71.390714,
+    41.763799
+],
+  "geometry": {"coordinates":[-71.390714,41.763799],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874283225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.386703,41.834801,-71.386703,41.834801",
+    "geom:latitude":41.834801,
+    "geom:longitude":-71.386703,
+    "iso:country":"US",
+    "sg:address":"518 Lloyd Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 6120",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "development",
+        "montessori",
+        "school",
+        "center",
+        "kindergarten",
+        "academic",
+        "elementary"
+    ],
+    "sg:website":"www.montessorichildrenshouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Twot3bZIvR7tT7hmC5EG5_41.834835_-71.387321@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314747,
+    "wof:geomhash":"8ebec7ae83415ef7490ab5bbbc5be5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874283225
+        }
+    ],
+    "wof:id":874283225,
+    "wof:lastmodified":1464314747,
+    "wof:name":"Montessori Children's House",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "montessori",
+        "school",
+        "center",
+        "kindergarten",
+        "academic",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.386703,
+    41.834801,
+    -71.386703,
+    41.834801
+],
+  "geometry": {"coordinates":[-71.386703,41.834801],"type":"Point"}
+}

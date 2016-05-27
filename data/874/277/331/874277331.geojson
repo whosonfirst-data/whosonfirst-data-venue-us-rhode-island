@@ -1,0 +1,71 @@
+{
+  "id": 874277331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440994,41.554905,-71.440994,41.554905",
+    "geom:latitude":41.554905,
+    "geom:longitude":-71.440994,
+    "iso:country":"US",
+    "sg:address":"590 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 8052",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EPqQ48T7hiuaxty3lZHm0_41.554905_-71.440994@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314512,
+    "wof:geomhash":"25d0e95870dd7bba25c729c358be7649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874277331
+        }
+    ],
+    "wof:id":874277331,
+    "wof:lastmodified":1464314512,
+    "wof:name":"Sunoco",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.440994,
+    41.554905,
+    -71.440994,
+    41.554905
+],
+  "geometry": {"coordinates":[-71.440994,41.554905],"type":"Point"}
+}

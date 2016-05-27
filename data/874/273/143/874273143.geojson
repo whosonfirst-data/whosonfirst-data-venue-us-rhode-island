@@ -1,0 +1,71 @@
+{
+  "id": 874273143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501646,41.865344,-71.501646,41.865344",
+    "geom:latitude":41.865344,
+    "geom:longitude":-71.501646,
+    "iso:country":"US",
+    "sg:address":"150 Scenery Ln",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 7505",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ZJ0dKBFPatvtBkS45Sd8_41.865344_-71.501646@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314334,
+    "wof:geomhash":"f3983e9fb59fc54d1693a633b440a3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874273143
+        }
+    ],
+    "wof:id":874273143,
+    "wof:lastmodified":1464314334,
+    "wof:name":"Garry's Golf Shop",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "golf"
+    ]
+},
+  "bbox": [
+    -71.501646,
+    41.865344,
+    -71.501646,
+    41.865344
+],
+  "geometry": {"coordinates":[-71.50164599999999,41.865344],"type":"Point"}
+}

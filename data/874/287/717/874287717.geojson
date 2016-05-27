@@ -1,0 +1,87 @@
+{
+  "id": 874287717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.551026,41.871024,-71.551026,41.871024",
+    "geom:latitude":41.871024,
+    "geom:longitude":-71.551026,
+    "iso:country":"US",
+    "sg:address":"568 Putnam Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/smithfield/234105-newport-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 2122",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D8upYoplu0dC6JJRo0Dpc_41.870926_-71.550753@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314920,
+    "wof:geomhash":"b9533a2fcae11b7ddd03aa603848dd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874287717
+        }
+    ],
+    "wof:id":874287717,
+    "wof:lastmodified":1464314920,
+    "wof:name":"Newport Creamery",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.551026,
+    41.871024,
+    -71.551026,
+    41.871024
+],
+  "geometry": {"coordinates":[-71.55102599999999,41.871024],"type":"Point"}
+}

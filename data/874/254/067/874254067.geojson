@@ -1,0 +1,70 @@
+{
+  "id": 874254067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507004,41.384976,-71.507004,41.384976",
+    "geom:latitude":41.384976,
+    "geom:longitude":-71.507004,
+    "iso:country":"US",
+    "sg:address":"296 Great Island Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4460",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cruise"
+    ],
+    "sg:website":"www.bostonharborcruises.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Sq4RsbOu4EgAy3MBVHl0x_41.384976_-71.507004@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313647,
+    "wof:geomhash":"d435cea1f117b6c58a5a4092aaa58ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874254067
+        }
+    ],
+    "wof:id":874254067,
+    "wof:lastmodified":1464313647,
+    "wof:name":"Boston Harbor Cruises",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cruise"
+    ]
+},
+  "bbox": [
+    -71.507004,
+    41.384976,
+    -71.507004,
+    41.384976
+],
+  "geometry": {"coordinates":[-71.50700399999999,41.384976],"type":"Point"}
+}

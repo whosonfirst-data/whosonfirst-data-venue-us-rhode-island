@@ -1,0 +1,84 @@
+{
+  "id": 874283615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398399,41.820099,-71.398399,41.820099",
+    "geom:latitude":41.820099,
+    "geom:longitude":-71.398399,
+    "iso:country":"US",
+    "sg:address":"127 Brook St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 9650",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "store",
+        "package"
+    ],
+    "sg:website":"www.campuswines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880039,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JW3a45E8QnCJDuYaidENC_41.820494_-71.398303@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314760,
+    "wof:geomhash":"fb679727cea07448ba780b9bcfaa13f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880039,
+            "region_id":85688509,
+            "venue_id":874283615
+        }
+    ],
+    "wof:id":874283615,
+    "wof:lastmodified":1464314760,
+    "wof:name":"Campus Fine Wines",
+    "wof:parent_id":85880039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "store",
+        "package"
+    ]
+},
+  "bbox": [
+    -71.398399,
+    41.820099,
+    -71.398399,
+    41.820099
+],
+  "geometry": {"coordinates":[-71.398399,41.820099],"type":"Point"}
+}

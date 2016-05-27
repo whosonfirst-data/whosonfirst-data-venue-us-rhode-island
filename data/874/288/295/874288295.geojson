@@ -1,0 +1,77 @@
+{
+  "id": 874288295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.331099,41.745042,-71.331099,41.745042",
+    "geom:latitude":41.745042,
+    "geom:longitude":-71.331099,
+    "iso:country":"US",
+    "sg:address":"200 Middle Hwy",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 3859",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LaOQOrtQISof5HtoTIijg_41.745042_-71.331099@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314946,
+    "wof:geomhash":"4de010c349d7eb058d5e2e9b7efbcb59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874288295
+        }
+    ],
+    "wof:id":874288295,
+    "wof:lastmodified":1464314946,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -71.331099,
+    41.745042,
+    -71.331099,
+    41.745042
+],
+  "geometry": {"coordinates":[-71.33109899999999,41.745042],"type":"Point"}
+}

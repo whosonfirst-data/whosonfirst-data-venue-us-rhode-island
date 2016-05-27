@@ -1,0 +1,90 @@
+{
+  "id": 874293567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.764343,41.351822,-71.764343,41.351822",
+    "geom:latitude":41.351822,
+    "geom:longitude":-71.764343,
+    "iso:country":"US",
+    "sg:address":"240 Post Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 322 2030",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ],
+    "sg:website":"http://www.timhortons.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85815497,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vT66Xloo6gj1N9TSCneDS_41.351822_-71.764343@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315142,
+    "wof:geomhash":"7030a22a3a1274c50765fdee549fb310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85815497,
+            "region_id":85688509,
+            "venue_id":874293567
+        }
+    ],
+    "wof:id":874293567,
+    "wof:lastmodified":1464315142,
+    "wof:name":"Tim Horton's",
+    "wof:parent_id":85815497,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "espresso",
+        "lunch",
+        "brunch",
+        "breakfast"
+    ]
+},
+  "bbox": [
+    -71.764343,
+    41.351822,
+    -71.764343,
+    41.351822
+],
+  "geometry": {"coordinates":[-71.764343,41.351822],"type":"Point"}
+}

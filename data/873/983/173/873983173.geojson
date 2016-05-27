@@ -1,0 +1,75 @@
+{
+  "id": 873983173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430253,41.701319,-71.430253,41.701319",
+    "geom:latitude":41.701319,
+    "geom:longitude":-71.430253,
+    "iso:country":"US",
+    "sg:address":"206 Buttonwoods Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 736 5519",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857733,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZdQ3JFw3ye1RvRHgobLjk_41.701319_-71.430253@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310634,
+    "wof:geomhash":"da3f61747cf63d499cd3f596979ca880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85857733,
+            "region_id":85688509,
+            "venue_id":873983173
+        }
+    ],
+    "wof:id":873983173,
+    "wof:lastmodified":1464310634,
+    "wof:name":"Buttonwoods Tanning Salon",
+    "wof:parent_id":85857733,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -71.430253,
+    41.701319,
+    -71.430253,
+    41.701319
+],
+  "geometry": {"coordinates":[-71.43025299999999,41.701319],"type":"Point"}
+}

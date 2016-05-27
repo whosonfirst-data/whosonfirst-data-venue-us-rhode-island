@@ -1,0 +1,71 @@
+{
+  "id": 874077055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459053,41.852115,-71.459053,41.852115",
+    "geom:latitude":41.852115,
+    "geom:longitude":-71.459053,
+    "iso:country":"US",
+    "sg:address":"85 Belvedere Blvd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 8872",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Em6y9L3e39m27WjbGq5Ib_41.852115_-71.459053@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311520,
+    "wof:geomhash":"a3e276a28f923eff12b0daed9e1be6e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874077055
+        }
+    ],
+    "wof:id":874077055,
+    "wof:lastmodified":1464311520,
+    "wof:name":"Park View Service Company",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.459053,
+    41.852115,
+    -71.459053,
+    41.852115
+],
+  "geometry": {"coordinates":[-71.459053,41.852115],"type":"Point"}
+}

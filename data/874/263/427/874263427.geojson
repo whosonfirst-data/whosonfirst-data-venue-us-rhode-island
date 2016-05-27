@@ -1,0 +1,71 @@
+{
+  "id": 874263427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535809,42.019101,-71.535809,42.019101",
+    "geom:latitude":42.019101,
+    "geom:longitude":-71.535809,
+    "iso:country":"US",
+    "sg:address":"120 Main St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 2353",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N9fGC3ECnseLVIYL2o85R_42.019101_-71.535809@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313972,
+    "wof:geomhash":"6b4b86dee793bdde6e1c352e6f68a11b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874263427
+        }
+    ],
+    "wof:id":874263427,
+    "wof:lastmodified":1464313972,
+    "wof:name":"Dave's Auto",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.535809,
+    42.019101,
+    -71.535809,
+    42.019101
+],
+  "geometry": {"coordinates":[-71.535809,42.019101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874169341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544336,41.897658,-71.544336,41.897658",
+    "geom:latitude":41.897658,
+    "geom:longitude":-71.544336,
+    "iso:country":"US",
+    "sg:address":"46 Log Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0517",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "collision"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850525,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fthoRtmRxRmk5a80q5xcr_41.897658_-71.544336@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"7dbb38df5e310a0fd58c4c6a420281ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85850525,
+            "region_id":85688509,
+            "venue_id":874169341
+        }
+    ],
+    "wof:id":874169341,
+    "wof:lastmodified":1464312520,
+    "wof:name":"Finish Line Collision Centre",
+    "wof:parent_id":85850525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "collision"
+    ]
+},
+  "bbox": [
+    -71.544336,
+    41.897658,
+    -71.544336,
+    41.897658
+],
+  "geometry": {"coordinates":[-71.544336,41.897658],"type":"Point"}
+}

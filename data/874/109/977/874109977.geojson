@@ -1,0 +1,81 @@
+{
+  "id": 874109977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.454666,41.790648,-71.454666,41.790648",
+    "geom:latitude":41.790648,
+    "geom:longitude":-71.454666,
+    "iso:country":"US",
+    "sg:address":"1333 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 0559",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I560WAiwrUm32V0YgwE6u_41.790648_-71.454666@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311919,
+    "wof:geomhash":"4327b9915a860073c10d6a44e5b59e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874109977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874109977
+        }
+    ],
+    "wof:id":874109977,
+    "wof:lastmodified":1464311919,
+    "wof:name":"Wandies By Pina",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.454666,
+    41.790648,
+    -71.454666,
+    41.790648
+],
+  "geometry": {"coordinates":[-71.454666,41.790648],"type":"Point"}
+}

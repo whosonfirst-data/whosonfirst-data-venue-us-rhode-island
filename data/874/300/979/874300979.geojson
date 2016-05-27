@@ -1,0 +1,79 @@
+{
+  "id": 874300979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396103,41.841099,-71.396103,41.841099",
+    "geom:latitude":41.841099,
+    "geom:longitude":-71.396103,
+    "iso:country":"US",
+    "sg:address":"85 Taft Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 2470",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V59hByhRVdW86GIrsSpVa_41.841099_-71.396103@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315427,
+    "wof:geomhash":"6daafc4fe4a56bd761054037524decb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874300979
+        }
+    ],
+    "wof:id":874300979,
+    "wof:lastmodified":1464315427,
+    "wof:name":"Schechter Alperin Day School",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.396103,
+    41.841099,
+    -71.396103,
+    41.841099
+],
+  "geometry": {"coordinates":[-71.396103,41.841099],"type":"Point"}
+}

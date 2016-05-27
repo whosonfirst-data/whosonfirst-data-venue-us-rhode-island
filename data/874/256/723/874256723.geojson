@@ -1,0 +1,73 @@
+{
+  "id": 874256723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.248261,41.512818,-71.248261,41.512818",
+    "geom:latitude":41.512818,
+    "geom:longitude":-71.248261,
+    "iso:country":"US",
+    "sg:address":"25 Bartlett Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 9787",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "landscape",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dNWsi0WyjZARY1U1zzCRr_41.512818_-71.248261@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313713,
+    "wof:geomhash":"b6f5b0392195b6196d62f91adb8e440b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874256723
+        }
+    ],
+    "wof:id":874256723,
+    "wof:lastmodified":1464313713,
+    "wof:name":"John Erik Nelson Properties Lt",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "landscape",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.248261,
+    41.512818,
+    -71.248261,
+    41.512818
+],
+  "geometry": {"coordinates":[-71.248261,41.512818],"type":"Point"}
+}

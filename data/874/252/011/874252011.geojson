@@ -1,0 +1,69 @@
+{
+  "id": 874252011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.304317,41.73761,-71.304317,41.73761",
+    "geom:latitude":41.73761,
+    "geom:longitude":-71.304317,
+    "iso:country":"US",
+    "sg:address":"259 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1213",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836423,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fwmhMqIikItAzdPeOD7qu_41.737610_-71.304317@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313606,
+    "wof:geomhash":"c3d929e1e340622c50e911872a400e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85836423,
+            "region_id":85688509,
+            "venue_id":874252011
+        }
+    ],
+    "wof:id":874252011,
+    "wof:lastmodified":1464313606,
+    "wof:name":"Bagels Etc",
+    "wof:parent_id":85836423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -71.304317,
+    41.73761,
+    -71.304317,
+    41.73761
+],
+  "geometry": {"coordinates":[-71.304317,41.73761],"type":"Point"}
+}

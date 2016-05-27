@@ -1,0 +1,66 @@
+{
+  "id": 874304867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474405,41.8329,-71.474405,41.8329",
+    "geom:latitude":41.8329,
+    "geom:longitude":-71.474405,
+    "iso:country":"US",
+    "sg:address":"710 Killingly St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 270 1661",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z0jp6wDGEYcBj92DHraQ3_41.832900_-71.474405@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315559,
+    "wof:geomhash":"f6c638a5bcfe853662563b55507174cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304867
+        }
+    ],
+    "wof:id":874304867,
+    "wof:lastmodified":1464315559,
+    "wof:name":"Nortisa Auto Service and Repair",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.474405,
+    41.8329,
+    -71.474405,
+    41.8329
+],
+  "geometry": {"coordinates":[-71.474405,41.8329],"type":"Point"}
+}

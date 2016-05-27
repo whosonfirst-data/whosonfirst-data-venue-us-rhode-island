@@ -1,0 +1,71 @@
+{
+  "id": 874149629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.505458,41.867756,-71.505458,41.867756",
+    "geom:latitude":41.867756,
+    "geom:longitude":-71.505458,
+    "iso:country":"US",
+    "sg:address":"260 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 1433",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D8bpAJ165MVbNSkh3k7XU_41.867756_-71.505458@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312325,
+    "wof:geomhash":"bd31d4faae78b4c7de9f8f006514d605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874149629
+        }
+    ],
+    "wof:id":874149629,
+    "wof:lastmodified":1464312325,
+    "wof:name":"Greenville Water District",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -71.505458,
+    41.867756,
+    -71.505458,
+    41.867756
+],
+  "geometry": {"coordinates":[-71.505458,41.867756],"type":"Point"}
+}

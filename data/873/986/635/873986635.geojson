@@ -1,0 +1,90 @@
+{
+  "id": 873986635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.441032,41.77378,-71.441032,41.77378",
+    "geom:latitude":41.77378,
+    "geom:longitude":-71.441032,
+    "iso:country":"US",
+    "sg:address":"64 Waterman Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1541",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78K8OSBv5t7TtssXl5ByLr_41.773780_-71.441032@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310666,
+    "wof:geomhash":"7a7adcef5d5b9e766c3733cd10b09e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":873986635
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":873986635
+        }
+    ],
+    "wof:id":873986635,
+    "wof:lastmodified":1464310666,
+    "wof:name":"Florios Floors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.441032,
+    41.77378,
+    -71.441032,
+    41.77378
+],
+  "geometry": {"coordinates":[-71.44103200000001,41.77378],"type":"Point"}
+}

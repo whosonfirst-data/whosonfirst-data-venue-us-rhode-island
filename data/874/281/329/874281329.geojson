@@ -1,0 +1,71 @@
+{
+  "id": 874281329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470442,41.843528,-71.470442,41.843528",
+    "geom:latitude":41.843528,
+    "geom:longitude":-71.470442,
+    "iso:country":"US",
+    "sg:address":"4 Laurel St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 4040",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DWzAXjS71gDfdQuYxptNW_41.843528_-71.470442@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314684,
+    "wof:geomhash":"080f9122ee4149d55f31dc36d082b8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874281329
+        }
+    ],
+    "wof:id":874281329,
+    "wof:lastmodified":1464314684,
+    "wof:name":"Grand Lawn Sprinkler Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.470442,
+    41.843528,
+    -71.470442,
+    41.843528
+],
+  "geometry": {"coordinates":[-71.47044200000001,41.843528],"type":"Point"}
+}

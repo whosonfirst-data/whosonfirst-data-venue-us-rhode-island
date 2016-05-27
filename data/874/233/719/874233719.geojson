@@ -1,0 +1,69 @@
+{
+  "id": 874233719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449901,41.516882,-71.449901,41.516882",
+    "geom:latitude":41.516882,
+    "geom:longitude":-71.449901,
+    "iso:country":"US",
+    "sg:address":"1320 Gilbert Stuart Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2980",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MRYvZzHfXM1RJEjAulGVj_41.516882_-71.449901@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313214,
+    "wof:geomhash":"f1f90ed2ff24f864d54dea610718b216",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":874233719
+        }
+    ],
+    "wof:id":874233719,
+    "wof:lastmodified":1464313214,
+    "wof:name":"Mels Wldg Light Fabrication",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -71.449901,
+    41.516882,
+    -71.449901,
+    41.516882
+],
+  "geometry": {"coordinates":[-71.449901,41.516882],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874005223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.562795,41.415077,-71.562795,41.415077",
+    "geom:latitude":41.415077,
+    "geom:longitude":-71.562795,
+    "iso:country":"US",
+    "sg:address":"684 Ministerial Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5505",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "towing"
+    ],
+    "sg:website":"www.atlanticdiving.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FqfSXXsbuuShpksb5vx8n_41.415077_-71.562795@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310817,
+    "wof:geomhash":"5fceaf2d8d020f77ccf61d4e5aea0ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874005223
+        }
+    ],
+    "wof:id":874005223,
+    "wof:lastmodified":1464310817,
+    "wof:name":"Atlantic Commercial Diving Co",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -71.562795,
+    41.415077,
+    -71.562795,
+    41.415077
+],
+  "geometry": {"coordinates":[-71.56279499999999,41.415077],"type":"Point"}
+}

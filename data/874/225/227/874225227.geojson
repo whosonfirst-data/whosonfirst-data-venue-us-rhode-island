@@ -1,0 +1,71 @@
+{
+  "id": 874225227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.545906,42.015302,-71.545906,42.015302",
+    "geom:latitude":42.015302,
+    "geom:longitude":-71.545906,
+    "iso:country":"US",
+    "sg:address":"8 Butler St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 5818",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0exgKnxEK1ZPNT1HKK3gdf_42.015302_-71.545906@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313113,
+    "wof:geomhash":"e74342b058c1644205e3b5cf6765bee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874225227
+        }
+    ],
+    "wof:id":874225227,
+    "wof:lastmodified":1464313113,
+    "wof:name":"Blackstone Nursing Home",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.545906,
+    42.015302,
+    -71.545906,
+    42.015302
+],
+  "geometry": {"coordinates":[-71.545906,42.015302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873985377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443328,41.491974,-71.443328,41.491974",
+    "geom:latitude":41.491974,
+    "geom:longitude":-71.443328,
+    "iso:country":"US",
+    "sg:address":"6 Pontiac Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 1469",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YZjyI3ACe43SBmu6XttUH_41.491974_-71.443328@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"5da03c81f3b494239e45aace13f60de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":873985377
+        }
+    ],
+    "wof:id":873985377,
+    "wof:lastmodified":1464310653,
+    "wof:name":"Wojcik Electric",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.443328,
+    41.491974,
+    -71.443328,
+    41.491974
+],
+  "geometry": {"coordinates":[-71.44332799999999,41.491974],"type":"Point"}
+}

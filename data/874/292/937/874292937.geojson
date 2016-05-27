@@ -1,0 +1,71 @@
+{
+  "id": 874292937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446913,41.500764,-71.446913,41.500764",
+    "geom:latitude":41.500764,
+    "geom:longitude":-71.446913,
+    "iso:country":"US",
+    "sg:address":"18 Coral Shell Ter",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 0131",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841471,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aOHdNyph1nL2pAWZyDlY8_41.500764_-71.446913@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315121,
+    "wof:geomhash":"fc98d8d279e3cb9d291995d4e3c9dc72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874292937
+        }
+    ],
+    "wof:id":874292937,
+    "wof:lastmodified":1464315121,
+    "wof:name":"Louis Hair Studio",
+    "wof:parent_id":85841471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -71.446913,
+    41.500764,
+    -71.446913,
+    41.500764
+],
+  "geometry": {"coordinates":[-71.446913,41.500764],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874251407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53405,41.87518,-71.53405,41.87518",
+    "geom:latitude":41.87518,
+    "geom:longitude":-71.53405,
+    "iso:country":"US",
+    "sg:address":"47 Cedar Swamp Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 9708",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42lUlXzwY3KW48XQFTmY4b_41.875180_-71.534050@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313593,
+    "wof:geomhash":"579a930c9a9db67663397b960de9408b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874251407
+        }
+    ],
+    "wof:id":874251407,
+    "wof:lastmodified":1464313593,
+    "wof:name":"Piccoli Paving Garage",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53405,
+    41.87518,
+    -71.53405,
+    41.87518
+],
+  "geometry": {"coordinates":[-71.53404999999999,41.87518],"type":"Point"}
+}

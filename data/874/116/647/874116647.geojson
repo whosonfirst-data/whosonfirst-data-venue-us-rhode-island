@@ -1,0 +1,83 @@
+{
+  "id": 874116647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.205516,41.592407,-71.205516,41.592407",
+    "geom:latitude":41.592407,
+    "geom:longitude":-71.205516,
+    "iso:country":"US",
+    "sg:address":"31 Seapowet Ave",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 4224",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595,
+        85868751,
+        102191575,
+        404488353,
+        101720605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fd7KOHe1oNZabdhctuf5N_41.592407_-71.205516@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312003,
+    "wof:geomhash":"bacb6ec20112c5fab6fbf8f0ebfb92bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874116647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874116647
+        }
+    ],
+    "wof:id":874116647,
+    "wof:lastmodified":1464312003,
+    "wof:name":"Lady JS Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.205516,
+    41.592407,
+    -71.205516,
+    41.592407
+],
+  "geometry": {"coordinates":[-71.205516,41.592407],"type":"Point"}
+}

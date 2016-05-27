@@ -1,0 +1,71 @@
+{
+  "id": 874001165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249878,41.509457,-71.249878,41.509457",
+    "geom:latitude":41.509457,
+    "geom:longitude":-71.249878,
+    "iso:country":"US",
+    "sg:address":"1518 Green End Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 5481",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846565,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gjfZpMniDxe28VWJ816Po_41.509457_-71.249878@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310768,
+    "wof:geomhash":"c12e78863db29af86cbf70b1c39d5b6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85846565,
+            "region_id":85688509,
+            "venue_id":874001165
+        }
+    ],
+    "wof:id":874001165,
+    "wof:lastmodified":1464310768,
+    "wof:name":"Meticulous Paint Job",
+    "wof:parent_id":85846565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.249878,
+    41.509457,
+    -71.249878,
+    41.509457
+],
+  "geometry": {"coordinates":[-71.249878,41.509457],"type":"Point"}
+}

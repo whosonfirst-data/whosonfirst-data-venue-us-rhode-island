@@ -1,0 +1,73 @@
+{
+  "id": 874298819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422897,41.869202,-71.422897,41.869202",
+    "geom:latitude":41.869202,
+    "geom:longitude":-71.422897,
+    "iso:country":"US",
+    "sg:address":"1005 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 5560",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vgCrAgy0Hi9753z9dcmfQ_41.869202_-71.422897@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315348,
+    "wof:geomhash":"b90a6c2806f4aa6168f9be06eca368de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874298819
+        }
+    ],
+    "wof:id":874298819,
+    "wof:lastmodified":1464315348,
+    "wof:name":"Sak's Mineral Spring Liquor",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.422897,
+    41.869202,
+    -71.422897,
+    41.869202
+],
+  "geometry": {"coordinates":[-71.42289700000001,41.869202],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874143347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499755,41.673785,-71.499755,41.673785",
+    "geom:latitude":41.673785,
+    "geom:longitude":-71.499755,
+    "iso:country":"US",
+    "sg:address":"800 Quaker Ln",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 6600",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical",
+        "center",
+        "rehabilitation",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85812969,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EU2MHfh3b8JowW6FhM4JM_41.673785_-71.499755@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312265,
+    "wof:geomhash":"e977c5ee993da412c9e40fe1711818fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85812969,
+            "region_id":85688509,
+            "venue_id":874143347
+        }
+    ],
+    "wof:id":874143347,
+    "wof:lastmodified":1464312265,
+    "wof:name":"Sargent Rehabilitation Center",
+    "wof:parent_id":85812969,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center",
+        "rehabilitation",
+        "out"
+    ]
+},
+  "bbox": [
+    -71.499755,
+    41.673785,
+    -71.499755,
+    41.673785
+],
+  "geometry": {"coordinates":[-71.49975499999999,41.673785],"type":"Point"}
+}

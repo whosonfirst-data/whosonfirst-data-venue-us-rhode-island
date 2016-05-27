@@ -1,0 +1,76 @@
+{
+  "id": 874298137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416444,41.830414,-71.416444,41.830414",
+    "geom:latitude":41.830414,
+    "geom:longitude":-71.416444,
+    "iso:country":"US",
+    "sg:address":"1 Avenue of the Arts",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 4862",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "performing"
+    ],
+    "sg:website":"www.vmari.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LXaF7FtIabwZ9VFjF3bLX_41.830414_-71.416444@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315314,
+    "wof:geomhash":"23aac28d6a9a28c4b0db451616893d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874298137
+        }
+    ],
+    "wof:id":874298137,
+    "wof:lastmodified":1464315314,
+    "wof:name":"Veterans Memorial Auditorium",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -71.416444,
+    41.830414,
+    -71.416444,
+    41.830414
+],
+  "geometry": {"coordinates":[-71.416444,41.830414],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874285391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.395401,41.885101,-71.395401,41.885101",
+    "geom:latitude":41.885101,
+    "geom:longitude":-71.395401,
+    "iso:country":"US",
+    "sg:address":"551 Dexter St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 2120",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pEpof4OdUrXnsLwReCp0P_41.884895_-71.395023@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314827,
+    "wof:geomhash":"56461efa52fe9e77b184b5c60fa29c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874285391
+        }
+    ],
+    "wof:id":874285391,
+    "wof:lastmodified":1464314827,
+    "wof:name":"Central Falls Liquors",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.395401,
+    41.885101,
+    -71.395401,
+    41.885101
+],
+  "geometry": {"coordinates":[-71.39540100000001,41.885101],"type":"Point"}
+}

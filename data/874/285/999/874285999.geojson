@@ -1,0 +1,78 @@
+{
+  "id": 874285999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426598,41.824402,-71.426598,41.824402",
+    "geom:latitude":41.824402,
+    "geom:longitude":-71.426598,
+    "iso:country":"US",
+    "sg:address":"90 Spruce St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 4676",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "shop"
+    ],
+    "sg:website":"www.rosebudsalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tAsU5JUmyVsbCKblZ3F01_41.824192_-71.426432@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314857,
+    "wof:geomhash":"242d257b7232811e4ea6b0cc7b0918eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874285999
+        }
+    ],
+    "wof:id":874285999,
+    "wof:lastmodified":1464314857,
+    "wof:name":"Rosebud Salon",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.426598,
+    41.824402,
+    -71.426598,
+    41.824402
+],
+  "geometry": {"coordinates":[-71.426598,41.824402],"type":"Point"}
+}

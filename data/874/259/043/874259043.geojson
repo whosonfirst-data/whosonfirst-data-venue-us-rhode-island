@@ -1,0 +1,86 @@
+{
+  "id": 874259043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458186,41.431524,-71.458186,41.431524",
+    "geom:latitude":41.431524,
+    "geom:longitude":-71.458186,
+    "iso:country":"US",
+    "sg:address":"14 Pier Market Pl",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2468",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "stylist",
+        "hair",
+        "manager",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t0W2t2QswCyhIjB0WGiE2_41.431524_-71.458186@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313826,
+    "wof:geomhash":"31db1d5fbd43ce35cb2f8415cec54aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874259043
+        }
+    ],
+    "wof:id":874259043,
+    "wof:lastmodified":1464313826,
+    "wof:name":"Awesome Hair",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stylist",
+        "hair",
+        "manager",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -71.458186,
+    41.431524,
+    -71.458186,
+    41.431524
+],
+  "geometry": {"coordinates":[-71.458186,41.431524],"type":"Point"}
+}

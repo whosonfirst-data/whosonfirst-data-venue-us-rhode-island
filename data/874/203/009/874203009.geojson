@@ -1,0 +1,71 @@
+{
+  "id": 874203009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280427,41.708327,-71.280427,41.708327",
+    "geom:latitude":41.708327,
+    "geom:longitude":-71.280427,
+    "iso:country":"US",
+    "sg:address":"1401 Hope St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 7500",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "environmental",
+        "org"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iN7Jkldy2ESL2LPCgkMYN_41.708327_-71.280427@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312874,
+    "wof:geomhash":"0d27f3cb29329cc20a841abeb4355f31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874203009
+        }
+    ],
+    "wof:id":874203009,
+    "wof:lastmodified":1464312874,
+    "wof:name":"Audubon Society Eec",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "org"
+    ]
+},
+  "bbox": [
+    -71.280427,
+    41.708327,
+    -71.280427,
+    41.708327
+],
+  "geometry": {"coordinates":[-71.280427,41.708327],"type":"Point"}
+}

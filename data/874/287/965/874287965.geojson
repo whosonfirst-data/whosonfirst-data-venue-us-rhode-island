@@ -1,0 +1,74 @@
+{
+  "id": 874287965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.5238,41.715821,-71.5238,41.715821",
+    "geom:latitude":41.715821,
+    "geom:longitude":-71.5238,
+    "iso:country":"US",
+    "sg:address":"977 Main St",
+    "sg:city":"West Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/west-warwick/56704-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 3636",
+    "sg:postcode":"02893",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85830837,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PyuGR1OOQofJdV3iR0tpZ_41.716360_-71.523569@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314934,
+    "wof:geomhash":"83067894c7dab564e010d65bebed955f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85830837,
+            "region_id":85688509,
+            "venue_id":874287965
+        }
+    ],
+    "wof:id":874287965,
+    "wof:lastmodified":1464314934,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85830837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.5238,
+    41.715821,
+    -71.5238,
+    41.715821
+],
+  "geometry": {"coordinates":[-71.52379999999999,41.715821],"type":"Point"}
+}

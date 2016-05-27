@@ -1,0 +1,75 @@
+{
+  "id": 874282513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.411102,41.885201,-71.411102,41.885201",
+    "geom:latitude":41.885201,
+    "geom:longitude":-71.411102,
+    "iso:country":"US",
+    "sg:address":"107 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 3350",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "art",
+        "performing",
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0je1YCVpxP2dYFayrgwG0e_41.885144_-71.411219@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314724,
+    "wof:geomhash":"02bda229615f10aa82ee4e8caf7ff02d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874282513
+        }
+    ],
+    "wof:id":874282513,
+    "wof:lastmodified":1464314724,
+    "wof:name":"Miss Sheri's School of Dance",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "performing",
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.411102,
+    41.885201,
+    -71.411102,
+    41.885201
+],
+  "geometry": {"coordinates":[-71.411102,41.885201],"type":"Point"}
+}

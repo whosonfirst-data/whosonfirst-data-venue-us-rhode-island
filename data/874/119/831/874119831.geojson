@@ -1,0 +1,75 @@
+{
+  "id": 874119831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439132,41.872657,-71.439132,41.872657",
+    "geom:latitude":41.872657,
+    "geom:longitude":-71.439132,
+    "iso:country":"US",
+    "sg:address":"675 Woodward Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 2479",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "sprinkler",
+        "install",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j9UXzjtG76KKKqqosRudH_41.872657_-71.439132@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312034,
+    "wof:geomhash":"d38177e7fe563c832f8edace6b6a5e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874119831
+        }
+    ],
+    "wof:id":874119831,
+    "wof:lastmodified":1464312034,
+    "wof:name":"Grinnell Fire Protection",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "sprinkler",
+        "install",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.439132,
+    41.872657,
+    -71.439132,
+    41.872657
+],
+  "geometry": {"coordinates":[-71.439132,41.872657],"type":"Point"}
+}

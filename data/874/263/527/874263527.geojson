@@ -1,0 +1,75 @@
+{
+  "id": 874263527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278513,41.692813,-71.278513,41.692813",
+    "geom:latitude":41.692813,
+    "geom:longitude":-71.278513,
+    "iso:country":"US",
+    "sg:address":"19 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6840",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6clpG8oGapKTPMFsKGtGfJ_41.692813_-71.278513@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313975,
+    "wof:geomhash":"c2cab8b99457614771f243e52a79c08b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874263527
+        }
+    ],
+    "wof:id":874263527,
+    "wof:lastmodified":1464313975,
+    "wof:name":"Dee Jay's Car Wash",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -71.278513,
+    41.692813,
+    -71.278513,
+    41.692813
+],
+  "geometry": {"coordinates":[-71.278513,41.692813],"type":"Point"}
+}

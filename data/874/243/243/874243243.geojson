@@ -1,0 +1,69 @@
+{
+  "id": 874243243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.642832,41.386622,-71.642832,41.386622",
+    "geom:latitude":41.386622,
+    "geom:longitude":-71.642832,
+    "iso:country":"US",
+    "sg:address":"10 Crossland St",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0640",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CMd0UHT8QTMsdl3NLeeIU_41.386622_-71.642832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313399,
+    "wof:geomhash":"3950c56ed315fbcec122d6faf436f5ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874243243
+        }
+    ],
+    "wof:id":874243243,
+    "wof:lastmodified":1464313399,
+    "wof:name":"Corning",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -71.642832,
+    41.386622,
+    -71.642832,
+    41.386622
+],
+  "geometry": {"coordinates":[-71.642832,41.386622],"type":"Point"}
+}

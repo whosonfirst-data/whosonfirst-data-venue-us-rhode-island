@@ -1,0 +1,69 @@
+{
+  "id": 874298467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416624,41.827388,-71.416624,41.827388",
+    "geom:latitude":41.827388,
+    "geom:longitude":-71.416624,
+    "iso:country":"US",
+    "sg:address":"One Providence Pl",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880051,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LI3k93bb2EI9ryCGEtWk6_41.827388_-71.416624@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315328,
+    "wof:geomhash":"4b4cb450224af2adec3fd8ac3bc0f175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880051,
+            "region_id":85688509,
+            "venue_id":874298467
+        }
+    ],
+    "wof:id":874298467,
+    "wof:lastmodified":1464315328,
+    "wof:name":"Teavana",
+    "wof:parent_id":85880051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.416624,
+    41.827388,
+    -71.416624,
+    41.827388
+],
+  "geometry": {"coordinates":[-71.416624,41.827388],"type":"Point"}
+}

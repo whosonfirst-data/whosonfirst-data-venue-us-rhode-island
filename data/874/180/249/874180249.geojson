@@ -1,0 +1,88 @@
+{
+  "id": 874180249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461442,41.792541,-71.461442,41.792541",
+    "geom:latitude":41.792541,
+    "geom:longitude":-71.461442,
+    "iso:country":"US",
+    "sg:address":"45 Church St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 2254",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ornamental",
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y6YoxTr36EmTJUW8ulyiH_41.792541_-71.461442@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312632,
+    "wof:geomhash":"22808aebd6db2af27ae48891b6afb951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874180249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874180249
+        }
+    ],
+    "wof:id":874180249,
+    "wof:lastmodified":1464312632,
+    "wof:name":"Tedeschi's Greenhouses",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -71.461442,
+    41.792541,
+    -71.461442,
+    41.792541
+],
+  "geometry": {"coordinates":[-71.46144200000001,41.792541],"type":"Point"}
+}

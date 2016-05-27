@@ -1,0 +1,71 @@
+{
+  "id": 874288601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.634465,41.382475,-71.634465,41.382475",
+    "geom:latitude":41.382475,
+    "geom:longitude":-71.634465,
+    "iso:country":"US",
+    "sg:address":"4259 Old Post Rd Apt 2",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0100",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1od3HMMAw7ag7MNb61Scqn_41.382475_-71.634465@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314962,
+    "wof:geomhash":"0616ce60e5b233b956c37bbf37d7ded1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288601
+        }
+    ],
+    "wof:id":874288601,
+    "wof:lastmodified":1464314962,
+    "wof:name":"Ward John Physical Therapy",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.634465,
+    41.382475,
+    -71.634465,
+    41.382475
+],
+  "geometry": {"coordinates":[-71.63446500000001,41.382475],"type":"Point"}
+}

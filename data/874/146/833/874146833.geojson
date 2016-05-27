@@ -1,0 +1,82 @@
+{
+  "id": 874146833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410171,41.874386,-71.410171,41.874386",
+    "geom:latitude":41.874386,
+    "geom:longitude":-71.410171,
+    "iso:country":"US",
+    "sg:address":"51 Fairlawn Ave",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 5300",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plating",
+        "vacuum",
+        "or",
+        "electroplating"
+    ],
+    "sg:website":"www.provmet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818545,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JaGHN18Oc7Hw1ST5e69LL_41.874386_-71.410171@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312301,
+    "wof:geomhash":"a2fb2538cd2a9bcda3d9cae7fa67aa9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85818545,
+            "region_id":85688509,
+            "venue_id":874146833
+        }
+    ],
+    "wof:id":874146833,
+    "wof:lastmodified":1464312301,
+    "wof:name":"Providence Metallizing Company",
+    "wof:parent_id":85818545,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating",
+        "vacuum",
+        "or",
+        "electroplating"
+    ]
+},
+  "bbox": [
+    -71.410171,
+    41.874386,
+    -71.410171,
+    41.874386
+],
+  "geometry": {"coordinates":[-71.41017100000001,41.874386],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874278865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.32399,41.745418,-71.32399,41.745418",
+    "geom:latitude":41.745418,
+    "geom:longitude":-71.32399,
+    "iso:country":"US",
+    "sg:address":"84 Upland Way",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1907",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0maF2aFCITc0VJagxOP04C_41.745418_-71.323990@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314568,
+    "wof:geomhash":"08ef20292ea5e8f4dff866883f39580f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874278865
+        }
+    ],
+    "wof:id":874278865,
+    "wof:lastmodified":1464314568,
+    "wof:name":"Highway Dept-Public Works",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -71.32399,
+    41.745418,
+    -71.32399,
+    41.745418
+],
+  "geometry": {"coordinates":[-71.32398999999999,41.745418],"type":"Point"}
+}

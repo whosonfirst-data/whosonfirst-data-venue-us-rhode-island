@@ -1,0 +1,76 @@
+{
+  "id": 874287413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426963,41.824046,-71.426963,41.824046",
+    "geom:latitude":41.824046,
+    "geom:longitude":-71.426963,
+    "iso:country":"US",
+    "sg:address":"59 De Pasquale Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/261114-caffe-dolce-vita/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 8240",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fwYwB5DTlhqWRqxFhjLMG_41.824046_-71.426963@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314904,
+    "wof:geomhash":"0bd4cc29915f4433f0837311f8563d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874287413
+        }
+    ],
+    "wof:id":874287413,
+    "wof:lastmodified":1464314904,
+    "wof:name":"Caffe Dolce Vita",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.426963,
+    41.824046,
+    -71.426963,
+    41.824046
+],
+  "geometry": {"coordinates":[-71.426963,41.824046],"type":"Point"}
+}

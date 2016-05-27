@@ -1,0 +1,73 @@
+{
+  "id": 874232805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.530812,41.426217,-71.530812,41.426217",
+    "geom:latitude":41.426217,
+    "geom:longitude":-71.530812,
+    "iso:country":"US",
+    "sg:address":"35 Alexander Ct",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 4341",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wsw0BlKQIDBKHlRhzX3c2_41.426217_-71.530812@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313197,
+    "wof:geomhash":"131d63db6297785f8e4fd8342b2fb5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874232805
+        }
+    ],
+    "wof:id":874232805,
+    "wof:lastmodified":1464313197,
+    "wof:name":"Sweenor Builders Inc",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.530812,
+    41.426217,
+    -71.530812,
+    41.426217
+],
+  "geometry": {"coordinates":[-71.530812,41.426217],"type":"Point"}
+}

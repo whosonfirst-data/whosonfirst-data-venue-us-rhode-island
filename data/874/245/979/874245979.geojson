@@ -1,0 +1,71 @@
+{
+  "id": 874245979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410846,42.009756,-71.410846,42.009756",
+    "geom:latitude":42.009756,
+    "geom:longitude":-71.410846,
+    "iso:country":"US",
+    "sg:address":"15 Highland View Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 6333",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822571,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZQM5rNuR0oS4UbfdJCqTB_42.009756_-71.410846@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313453,
+    "wof:geomhash":"c95d17a5c2d847b606a2e986d5ace5c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822571,
+            "region_id":85688509,
+            "venue_id":874245979
+        }
+    ],
+    "wof:id":874245979,
+    "wof:lastmodified":1464313453,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85822571,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.410846,
+    42.009756,
+    -71.410846,
+    42.009756
+],
+  "geometry": {"coordinates":[-71.41084600000001,42.009756],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 874299741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428761,41.867815,-71.428761,41.867815",
+    "geom:latitude":41.867815,
+    "geom:longitude":-71.428761,
+    "iso:country":"US",
+    "sg:address":"1132 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 723 6425",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ObBx3e5g6KKdI3UoFEbVC_41.867815_-71.428761@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315380,
+    "wof:geomhash":"5dcc4281b30603206d3bfb08eeeb6edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299741
+        }
+    ],
+    "wof:id":874299741,
+    "wof:lastmodified":1464315380,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.428761,
+    41.867815,
+    -71.428761,
+    41.867815
+],
+  "geometry": {"coordinates":[-71.42876099999999,41.867815],"type":"Point"}
+}

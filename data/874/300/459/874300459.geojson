@@ -1,0 +1,82 @@
+{
+  "id": 874300459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396076,41.84684,-71.396076,41.84684",
+    "geom:latitude":41.84684,
+    "geom:longitude":-71.396076,
+    "iso:country":"US",
+    "sg:address":"742 Hope St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 3036",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t7qJCnEAqAPj2gnklsKFN_41.846840_-71.396076@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315405,
+    "wof:geomhash":"b837a2fd65076dfc1d196d56f62357e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874300459
+        }
+    ],
+    "wof:id":874300459,
+    "wof:lastmodified":1464315405,
+    "wof:name":"Metlife Home Loans",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -71.396076,
+    41.84684,
+    -71.396076,
+    41.84684
+],
+  "geometry": {"coordinates":[-71.39607599999999,41.84684],"type":"Point"}
+}

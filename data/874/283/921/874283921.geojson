@@ -1,0 +1,78 @@
+{
+  "id": 874283921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.422798,41.8232,-71.422798,41.8232",
+    "geom:latitude":41.8232,
+    "geom:longitude":-71.422798,
+    "iso:country":"US",
+    "sg:address":"141 Atwells Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 8171",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "italian"
+    ],
+    "sg:website":"www.angelosonthehill.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZG2Rge4tNNBOTbO097kqN_41.823330_-71.423126@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314770,
+    "wof:geomhash":"01b62f96b5b3f2b999e1b020c0e2e600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874283921
+        }
+    ],
+    "wof:id":874283921,
+    "wof:lastmodified":1464314770,
+    "wof:name":"Angelo's Civita Farnese Restaurant",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.422798,
+    41.8232,
+    -71.422798,
+    41.8232
+],
+  "geometry": {"coordinates":[-71.422798,41.8232],"type":"Point"}
+}

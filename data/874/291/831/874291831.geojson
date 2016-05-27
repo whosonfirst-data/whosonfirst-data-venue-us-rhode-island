@@ -1,0 +1,70 @@
+{
+  "id": 874291831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.436796,41.943899,-71.436796,41.943899",
+    "geom:latitude":41.943899,
+    "geom:longitude":-71.436796,
+    "iso:country":"US",
+    "sg:address":"1764 Mendon Rd Ste 2",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 6111",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "spa"
+    ],
+    "sg:website":"www.salonmichiquesspa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PhjHZrcmcYMN9gGoi53fa_41.943899_-71.436796@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315084,
+    "wof:geomhash":"25ab53ea9de987dbf1f435c4b02abc16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291831
+        }
+    ],
+    "wof:id":874291831,
+    "wof:lastmodified":1464315084,
+    "wof:name":"Salon Michique's Spa",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa"
+    ]
+},
+  "bbox": [
+    -71.436796,
+    41.943899,
+    -71.436796,
+    41.943899
+],
+  "geometry": {"coordinates":[-71.436796,41.943899],"type":"Point"}
+}

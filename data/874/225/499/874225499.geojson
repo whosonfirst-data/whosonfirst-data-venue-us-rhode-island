@@ -1,0 +1,79 @@
+{
+  "id": 874225499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43804,41.804868,-71.43804,41.804868",
+    "geom:latitude":41.804868,
+    "geom:longitude":-71.43804,
+    "iso:country":"US",
+    "sg:address":"744 Cranston St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 7510",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XroXNvhT4jtxUoO2iUJcr_41.804868_-71.438040@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313116,
+    "wof:geomhash":"a4f8329a09c091c9bcf59daf7bab74a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874225499
+        }
+    ],
+    "wof:id":874225499,
+    "wof:lastmodified":1464313116,
+    "wof:name":"Rudy's Auto Sales",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.43804,
+    41.804868,
+    -71.43804,
+    41.804868
+],
+  "geometry": {"coordinates":[-71.43804,41.804868],"type":"Point"}
+}

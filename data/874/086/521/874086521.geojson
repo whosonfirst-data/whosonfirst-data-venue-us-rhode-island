@@ -1,0 +1,73 @@
+{
+  "id": 874086521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.675375,41.965351,-71.675375,41.965351",
+    "geom:latitude":41.965351,
+    "geom:longitude":-71.675375,
+    "iso:country":"US",
+    "sg:address":"26 East Ave",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4256",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qjcdEgrhxBpNbPsEDqWJv_41.965351_-71.675375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311626,
+    "wof:geomhash":"b066ded1eaceec39119821ff065cc112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874086521
+        }
+    ],
+    "wof:id":874086521,
+    "wof:lastmodified":1464311626,
+    "wof:name":"Board Of Admin Assembly",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -71.675375,
+    41.965351,
+    -71.675375,
+    41.965351
+],
+  "geometry": {"coordinates":[-71.675375,41.965351],"type":"Point"}
+}

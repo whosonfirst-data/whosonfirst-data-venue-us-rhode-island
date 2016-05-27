@@ -1,0 +1,72 @@
+{
+  "id": 874284443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470001,41.819698,-71.470001,41.819698",
+    "geom:latitude":41.819698,
+    "geom:longitude":-71.470001,
+    "iso:country":"US",
+    "sg:address":"729 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 3235",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "donut"
+    ],
+    "sg:website":"www.honeydewdonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40XrhwNzquk6wiiXEORQfj_41.819933_-71.469839@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314789,
+    "wof:geomhash":"5c7bb6a7a4b4b533ee1bcbc6d526788f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874284443
+        }
+    ],
+    "wof:id":874284443,
+    "wof:lastmodified":1464314789,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "donut"
+    ]
+},
+  "bbox": [
+    -71.470001,
+    41.819698,
+    -71.470001,
+    41.819698
+],
+  "geometry": {"coordinates":[-71.470001,41.819698],"type":"Point"}
+}

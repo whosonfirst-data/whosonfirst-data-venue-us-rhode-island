@@ -1,0 +1,70 @@
+{
+  "id": 874298695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428299,41.868099,-71.428299,41.868099",
+    "geom:latitude":41.868099,
+    "geom:longitude":-71.428299,
+    "iso:country":"US",
+    "sg:address":"1130 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 0573",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.publicstorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aa9Qg18lVgOr9R37F5wTK_41.868099_-71.428299@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315339,
+    "wof:geomhash":"4079ca9a92cb42e374aae1c182dbd669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874298695
+        }
+    ],
+    "wof:id":874298695,
+    "wof:lastmodified":1464315339,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -71.428299,
+    41.868099,
+    -71.428299,
+    41.868099
+],
+  "geometry": {"coordinates":[-71.428299,41.868099],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 874035861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.451607,41.832519,-71.451607,41.832519",
+    "geom:latitude":41.832519,
+    "geom:longitude":-71.451607,
+    "iso:country":"US",
+    "sg:address":"1282 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 1248",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540501,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UeMbK0sNdEo1KnNtWE8Hm_41.832519_-71.451607@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311103,
+    "wof:geomhash":"6b546c291d16a98f7774538f93ea6c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420540501,
+            "region_id":85688509,
+            "venue_id":874035861
+        }
+    ],
+    "wof:id":874035861,
+    "wof:lastmodified":1464311103,
+    "wof:name":"Rodeo Restaurant",
+    "wof:parent_id":420540501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.451607,
+    41.832519,
+    -71.451607,
+    41.832519
+],
+  "geometry": {"coordinates":[-71.451607,41.832519],"type":"Point"}
+}

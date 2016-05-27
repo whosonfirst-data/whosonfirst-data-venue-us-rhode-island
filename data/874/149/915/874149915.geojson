@@ -1,0 +1,73 @@
+{
+  "id": 874149915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51518,41.471669,-71.51518,41.471669",
+    "geom:latitude":41.471669,
+    "geom:longitude":-71.51518,
+    "iso:country":"US",
+    "sg:address":"2340 Kingstown Rd",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 9444",
+    "sg:postcode":"02881",
+    "sg:province":"RI",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ua7vK3CrcD4kjgqpO1BQB_41.471669_-71.515180@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312328,
+    "wof:geomhash":"f7162f30bc8d5ebafdbd7ee893996ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874149915
+        }
+    ],
+    "wof:id":874149915,
+    "wof:lastmodified":1464312328,
+    "wof:name":"Bi Rentals LLC",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -71.51518,
+    41.471669,
+    -71.51518,
+    41.471669
+],
+  "geometry": {"coordinates":[-71.51518,41.471669],"type":"Point"}
+}

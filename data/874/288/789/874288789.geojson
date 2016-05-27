@@ -1,0 +1,71 @@
+{
+  "id": 874288789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.680199,41.3932,-71.680199,41.3932",
+    "geom:latitude":41.3932,
+    "geom:longitude":-71.680199,
+    "iso:country":"US",
+    "sg:address":"RR 2",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6344",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64zSJm9io9vYDrWLpQnPTW_41.393200_-71.680199@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314969,
+    "wof:geomhash":"a7f3b032b39eaf0695cef78324fa316e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288789
+        }
+    ],
+    "wof:id":874288789,
+    "wof:lastmodified":1464314969,
+    "wof:name":"Charlestown Auto Bdy",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.680199,
+    41.3932,
+    -71.680199,
+    41.3932
+],
+  "geometry": {"coordinates":[-71.680199,41.3932],"type":"Point"}
+}

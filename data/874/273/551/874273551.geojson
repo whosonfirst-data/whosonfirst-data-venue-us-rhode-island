@@ -1,0 +1,69 @@
+{
+  "id": 874273551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476144,41.655482,-71.476144,41.655482",
+    "geom:latitude":41.655482,
+    "geom:longitude":-71.476144,
+    "iso:country":"US",
+    "sg:address":"40 Old Greenwich Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 5642",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vPDEnhlSmfEb5PNqxeYQZ_41.655482_-71.476144@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314347,
+    "wof:geomhash":"b4e667291cb53b1322eddb75462b38e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874273551
+        }
+    ],
+    "wof:id":874273551,
+    "wof:lastmodified":1464314347,
+    "wof:name":"Hope Nursing Home Care LLC",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -71.476144,
+    41.655482,
+    -71.476144,
+    41.655482
+],
+  "geometry": {"coordinates":[-71.47614400000001,41.655482],"type":"Point"}
+}

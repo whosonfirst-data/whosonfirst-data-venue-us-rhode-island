@@ -1,0 +1,71 @@
+{
+  "id": 874291457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433039,41.9403,-71.433039,41.9403",
+    "geom:latitude":41.9403,
+    "geom:longitude":-71.433039,
+    "iso:country":"US",
+    "sg:address":"1595 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 2327",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YVDZaU23dzHfCmjhA38Yw_41.940300_-71.433039@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315068,
+    "wof:geomhash":"2319210ee364956e8454bcfa9c75233d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291457
+        }
+    ],
+    "wof:id":874291457,
+    "wof:lastmodified":1464315068,
+    "wof:name":"Chi Engineering Svcs",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.433039,
+    41.9403,
+    -71.433039,
+    41.9403
+],
+  "geometry": {"coordinates":[-71.43303899999999,41.9403],"type":"Point"}
+}

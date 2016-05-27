@@ -1,0 +1,75 @@
+{
+  "id": 874016177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.2191,41.628693,-71.2191,41.628693",
+    "geom:latitude":41.628693,
+    "geom:longitude":-71.2191,
+    "iso:country":"US",
+    "sg:address":"92 Point Rd",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 3121",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u4e46KNfEpChxUJEHw60a_41.628693_-71.219100@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310900,
+    "wof:geomhash":"09076b0191f8862ddfdcaa88228db351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874016177
+        }
+    ],
+    "wof:id":874016177,
+    "wof:lastmodified":1464310900,
+    "wof:name":"Ostrander Construction Co",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.2191,
+    41.628693,
+    -71.2191,
+    41.628693
+],
+  "geometry": {"coordinates":[-71.2191,41.628693],"type":"Point"}
+}

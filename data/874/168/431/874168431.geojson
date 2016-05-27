@@ -1,0 +1,86 @@
+{
+  "id": 874168431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.308421,41.482829,-71.308421,41.482829",
+    "geom:latitude":41.482829,
+    "geom:longitude":-71.308421,
+    "iso:country":"US",
+    "sg:address":"208 Bellevue Ave",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 2673",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fitness",
+        "program",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72m74VjbNM0ZcRLU10Lmww_41.482829_-71.308421@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312511,
+    "wof:geomhash":"063a3984102ca8c3b890b5f13e1914fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874168431
+        }
+    ],
+    "wof:id":874168431,
+    "wof:lastmodified":1464312511,
+    "wof:name":"Core Pilates & Fitness Train",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "program",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -71.308421,
+    41.482829,
+    -71.308421,
+    41.482829
+],
+  "geometry": {"coordinates":[-71.308421,41.482829],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874272715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.364142,41.546161,-71.364142,41.546161",
+    "geom:latitude":41.546161,
+    "geom:longitude":-71.364142,
+    "iso:country":"US",
+    "sg:address":"679 E Shore Rd",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 1579",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E95qlmPTpiBFhYRRDewUa_41.546161_-71.364142@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314320,
+    "wof:geomhash":"12d28f1a6e518dcf63ef712d836d8503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874272715
+        }
+    ],
+    "wof:id":874272715,
+    "wof:lastmodified":1464314320,
+    "wof:name":"Pennco",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.364142,
+    41.546161,
+    -71.364142,
+    41.546161
+],
+  "geometry": {"coordinates":[-71.364142,41.546161],"type":"Point"}
+}

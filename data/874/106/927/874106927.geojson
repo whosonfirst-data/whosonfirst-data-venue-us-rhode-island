@@ -1,0 +1,86 @@
+{
+  "id": 874106927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405288,41.793948,-71.405288,41.793948",
+    "geom:latitude":41.793948,
+    "geom:longitude":-71.405288,
+    "iso:country":"US",
+    "sg:address":"99 Porter St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 5774",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        420558783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EupIW4v0ST6MUyIN1Hxpy_41.793948_-71.405288@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311882,
+    "wof:geomhash":"d43c5d8bf462d8a8132948421794f23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874106927
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874106927
+        }
+    ],
+    "wof:id":874106927,
+    "wof:lastmodified":1464311882,
+    "wof:name":"Ocean State Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.405288,
+    41.793948,
+    -71.405288,
+    41.793948
+],
+  "geometry": {"coordinates":[-71.405288,41.793948],"type":"Point"}
+}

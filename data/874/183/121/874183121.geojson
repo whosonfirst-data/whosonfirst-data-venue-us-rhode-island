@@ -1,0 +1,75 @@
+{
+  "id": 874183121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434432,41.941849,-71.434432,41.941849",
+    "geom:latitude":41.941849,
+    "geom:longitude":-71.434432,
+    "iso:country":"US",
+    "sg:address":"1595 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 5040",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "propane",
+        "distributor",
+        "appliance",
+        "ga"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cu6ZHVJrFpdG2FxPzs7W3_41.941849_-71.434432@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312661,
+    "wof:geomhash":"ba2a9019f98d3b1c482b20105f459fd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874183121
+        }
+    ],
+    "wof:id":874183121,
+    "wof:lastmodified":1464312661,
+    "wof:name":"Southern Union Company Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "distributor",
+        "appliance",
+        "ga"
+    ]
+},
+  "bbox": [
+    -71.434432,
+    41.941849,
+    -71.434432,
+    41.941849
+],
+  "geometry": {"coordinates":[-71.434432,41.941849],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874141113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401669,41.801076,-71.401669,41.801076",
+    "geom:latitude":41.801076,
+    "geom:longitude":-71.401669,
+    "iso:country":"US",
+    "sg:address":"15 Thurbers Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 4800",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880045,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WUZS7raV8ozLHkhmBLpCS_41.801076_-71.401669@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312244,
+    "wof:geomhash":"e4617c025ea65052819dba6b149ba94b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874141113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874141113
+        }
+    ],
+    "wof:id":874141113,
+    "wof:lastmodified":1464312244,
+    "wof:name":"Capital Video Corporation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.401669,
+    41.801076,
+    -71.401669,
+    41.801076
+],
+  "geometry": {"coordinates":[-71.401669,41.801076],"type":"Point"}
+}

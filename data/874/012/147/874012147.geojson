@@ -1,0 +1,69 @@
+{
+  "id": 874012147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.291188,41.74433,-71.291188,41.74433",
+    "geom:latitude":41.74433,
+    "geom:longitude":-71.291188,
+    "iso:country":"US",
+    "sg:address":"60 Orchard Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 9129",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R0YoUvis3JP0zs5ftxzt6_41.744330_-71.291188@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310870,
+    "wof:geomhash":"75d06c5db27ce4eebc17a3613803e0a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874012147
+        }
+    ],
+    "wof:id":874012147,
+    "wof:lastmodified":1464310870,
+    "wof:name":"Patriot Equipment Services",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.291188,
+    41.74433,
+    -71.291188,
+    41.74433
+],
+  "geometry": {"coordinates":[-71.29118800000001,41.74433],"type":"Point"}
+}

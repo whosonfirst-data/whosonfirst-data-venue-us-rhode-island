@@ -1,0 +1,88 @@
+{
+  "id": 874303985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.338467,41.780129,-71.338467,41.780129",
+    "geom:latitude":41.780129,
+    "geom:longitude":-71.338467,
+    "iso:country":"US",
+    "sg:address":"471 Forbes St",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 433 0800",
+    "sg:postcode":"02915",
+    "sg:province":"RI",
+    "sg:tags":[
+        "personal",
+        "living",
+        "assisted",
+        "home",
+        "elder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85828117,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1flC5R3HjVK55D9sovSaPP_41.780129_-71.338467@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315528,
+    "wof:geomhash":"76360788e16484c5540d2291eb07a9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85828117,
+            "region_id":85688509,
+            "venue_id":874303985
+        }
+    ],
+    "wof:id":874303985,
+    "wof:lastmodified":1464315528,
+    "wof:name":"Forbes Street Group Home",
+    "wof:parent_id":85828117,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "living",
+        "assisted",
+        "home",
+        "elder"
+    ]
+},
+  "bbox": [
+    -71.338467,
+    41.780129,
+    -71.338467,
+    41.780129
+],
+  "geometry": {"coordinates":[-71.33846699999999,41.780129],"type":"Point"}
+}

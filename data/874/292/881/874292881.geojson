@@ -1,0 +1,92 @@
+{
+  "id": 874292881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.230642,41.622655,-71.230642,41.622655",
+    "geom:latitude":41.622655,
+    "geom:longitude":-71.230642,
+    "iso:country":"US",
+    "sg:address":"414 Park Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 0157",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "roofing",
+        "contractor",
+        "siding",
+        "maintenance",
+        "improvement",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868751,
+        102191575,
+        404488353,
+        85633793,
+        101720605,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20KWS4tAh8Ak9AD72Lr9iU_41.622655_-71.230642@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315119,
+    "wof:geomhash":"4a3ff67f252449cb2c160610f4a1a770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488353,
+            "locality_id":101720605,
+            "neighbourhood_id":85868751,
+            "region_id":85688509,
+            "venue_id":874292881
+        }
+    ],
+    "wof:id":874292881,
+    "wof:lastmodified":1464315119,
+    "wof:name":"Custom Building",
+    "wof:parent_id":85868751,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "roofing",
+        "contractor",
+        "siding",
+        "maintenance",
+        "improvement",
+        "painting"
+    ]
+},
+  "bbox": [
+    -71.230642,
+    41.622655,
+    -71.230642,
+    41.622655
+],
+  "geometry": {"coordinates":[-71.230642,41.622655],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874286989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.267993,41.715178,-71.267993,41.715178",
+    "geom:latitude":41.715178,
+    "geom:longitude":-71.267993,
+    "iso:country":"US",
+    "sg:address":"651 Metacom Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warren/176635-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1794",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X5JZR6zDR5htHudYTHstK_41.715178_-71.267993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"ec2a3dafee59482009fd6b44c4354b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874286989
+        }
+    ],
+    "wof:id":874286989,
+    "wof:lastmodified":1464314889,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -71.267993,
+    41.715178,
+    -71.267993,
+    41.715178
+],
+  "geometry": {"coordinates":[-71.267993,41.715178],"type":"Point"}
+}

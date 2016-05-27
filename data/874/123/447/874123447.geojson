@@ -1,0 +1,73 @@
+{
+  "id": 874123447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405908,41.891882,-71.405908,41.891882",
+    "geom:latitude":41.891882,
+    "geom:longitude":-71.405908,
+    "iso:country":"US",
+    "sg:address":"55 Conduit St",
+    "sg:city":"Central Falls",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 721 2253",
+    "sg:postcode":"02863",
+    "sg:province":"RI",
+    "sg:tags":[
+        "distributor",
+        "food",
+        "ethnic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QWXAmsAB9j6YgaDP5cchJ_41.891882_-71.405908@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312072,
+    "wof:geomhash":"db6d49126f912af3fa5dc7cbf166c59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874123447
+        }
+    ],
+    "wof:id":874123447,
+    "wof:lastmodified":1464312072,
+    "wof:name":"Toledo Ethnic Products",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "food",
+        "ethnic"
+    ]
+},
+  "bbox": [
+    -71.405908,
+    41.891882,
+    -71.405908,
+    41.891882
+],
+  "geometry": {"coordinates":[-71.405908,41.891882],"type":"Point"}
+}

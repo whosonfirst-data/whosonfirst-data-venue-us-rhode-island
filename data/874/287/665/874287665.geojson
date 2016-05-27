@@ -1,0 +1,77 @@
+{
+  "id": 874287665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499386,41.790279,-71.499386,41.790279",
+    "geom:latitude":41.790279,
+    "geom:longitude":-71.499386,
+    "iso:country":"US",
+    "sg:address":"1820 Plainfield Pike",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/201226-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02921",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848809,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t1BFMQCQtnBqgh7ueDKxa_41.790279_-71.499386@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314918,
+    "wof:geomhash":"c06aa4c821b4392038eb2d578619f291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85848809,
+            "region_id":85688509,
+            "venue_id":874287665
+        }
+    ],
+    "wof:id":874287665,
+    "wof:lastmodified":1464314918,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.499386,
+    41.790279,
+    -71.499386,
+    41.790279
+],
+  "geometry": {"coordinates":[-71.499386,41.790279],"type":"Point"}
+}

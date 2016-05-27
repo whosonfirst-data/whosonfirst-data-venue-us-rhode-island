@@ -1,0 +1,75 @@
+{
+  "id": 874268531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450509,41.77159,-71.450509,41.77159",
+    "geom:latitude":41.77159,
+    "geom:longitude":-71.450509,
+    "iso:country":"US",
+    "sg:address":"10 Crossway Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 1330",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14WUgPnwaJyWo0sr6wUEtk_41.771590_-71.450509@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314173,
+    "wof:geomhash":"320a6526fe6b00bf7a991f8867de1424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874268531
+        }
+    ],
+    "wof:id":874268531,
+    "wof:lastmodified":1464314173,
+    "wof:name":"Theodore G Kanelos DDS",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.450509,
+    41.77159,
+    -71.450509,
+    41.77159
+],
+  "geometry": {"coordinates":[-71.450509,41.77159],"type":"Point"}
+}

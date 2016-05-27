@@ -1,0 +1,74 @@
+{
+  "id": 874052291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284834,41.558984,-71.284834,41.558984",
+    "geom:latitude":41.558984,
+    "geom:longitude":-71.284834,
+    "iso:country":"US",
+    "sg:address":"849 Union St",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 5300",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "automatic",
+        "merchandising"
+    ],
+    "sg:website":"www.automaticvending.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qi94TnsUt9yton0SSzdGF_41.558984_-71.284834@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311262,
+    "wof:geomhash":"29507eef466901f1c48f4cabf5bd7f78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874052291
+        }
+    ],
+    "wof:id":874052291,
+    "wof:lastmodified":1464311262,
+    "wof:name":"Automatic Vending Svc",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "automatic",
+        "merchandising"
+    ]
+},
+  "bbox": [
+    -71.284834,
+    41.558984,
+    -71.284834,
+    41.558984
+],
+  "geometry": {"coordinates":[-71.284834,41.558984],"type":"Point"}
+}

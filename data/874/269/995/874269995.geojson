@@ -1,0 +1,70 @@
+{
+  "id": 874269995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.521839,41.544806,-71.521839,41.544806",
+    "geom:latitude":41.544806,
+    "geom:longitude":-71.521839,
+    "iso:country":"US",
+    "sg:address":"54 Exeter Rd",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6318",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.canonicus.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ilvYiAPRSkLKbhMoR1gqd_41.544806_-71.521839@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314226,
+    "wof:geomhash":"7b667a567c02563f7c12314ad7a994a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874269995
+        }
+    ],
+    "wof:id":874269995,
+    "wof:lastmodified":1464314226,
+    "wof:name":"Canonicus Camp & Conference",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -71.521839,
+    41.544806,
+    -71.521839,
+    41.544806
+],
+  "geometry": {"coordinates":[-71.521839,41.544806],"type":"Point"}
+}

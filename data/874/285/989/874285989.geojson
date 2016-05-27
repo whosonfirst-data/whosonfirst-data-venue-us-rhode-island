@@ -1,0 +1,88 @@
+{
+  "id": 874285989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447227,41.777529,-71.447227,41.777529",
+    "geom:latitude":41.777529,
+    "geom:longitude":-71.447227,
+    "iso:country":"US",
+    "sg:address":"14 Ausdale Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 9790",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumber",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SK9t6HvixLiMd5faEAOlW_41.777647_-71.447601@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314857,
+    "wof:geomhash":"f3f9805aa10acb986b0ab22f2e12db50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874285989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874285989
+        }
+    ],
+    "wof:id":874285989,
+    "wof:lastmodified":1464314857,
+    "wof:name":"Molone Plumbing & Heating Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.447227,
+    41.777529,
+    -71.447227,
+    41.777529
+],
+  "geometry": {"coordinates":[-71.447227,41.777529],"type":"Point"}
+}

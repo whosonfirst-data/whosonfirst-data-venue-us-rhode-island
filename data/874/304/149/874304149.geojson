@@ -1,0 +1,71 @@
+{
+  "id": 874304149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.354443,41.856774,-71.354443,41.856774",
+    "geom:latitude":41.856774,
+    "geom:longitude":-71.354443,
+    "iso:country":"US",
+    "sg:address":"72 Newport Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 8372",
+    "sg:postcode":"02916",
+    "sg:province":"RI",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540541,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lTzV4fFhzEVSCyWFm1EfJ_41.856774_-71.354443@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315535,
+    "wof:geomhash":"4d88ea99f999035ecf5711d6fbfc00a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540541,
+            "region_id":85688509,
+            "venue_id":874304149
+        }
+    ],
+    "wof:id":874304149,
+    "wof:lastmodified":1464315535,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420540541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.354443,
+    41.856774,
+    -71.354443,
+    41.856774
+],
+  "geometry": {"coordinates":[-71.354443,41.856774],"type":"Point"}
+}

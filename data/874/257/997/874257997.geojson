@@ -1,0 +1,77 @@
+{
+  "id": 874257997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43845,41.85515,-71.43845,41.85515",
+    "geom:latitude":41.85515,
+    "geom:longitude":-71.43845,
+    "iso:country":"US",
+    "sg:address":"1001 Branch Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 1781",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "school",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854453,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I1jtOfnjBTCwWr08URFAx_41.855150_-71.438450@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313768,
+    "wof:geomhash":"1efa0aea48789fa98ec1652cc308e150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854453,
+            "region_id":85688509,
+            "venue_id":874257997
+        }
+    ],
+    "wof:id":874257997,
+    "wof:lastmodified":1464313768,
+    "wof:name":"Veazie Annex II",
+    "wof:parent_id":85854453,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "educational"
+    ]
+},
+  "bbox": [
+    -71.43845,
+    41.85515,
+    -71.43845,
+    41.85515
+],
+  "geometry": {"coordinates":[-71.43845,41.85515],"type":"Point"}
+}

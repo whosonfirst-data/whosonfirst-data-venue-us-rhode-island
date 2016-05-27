@@ -1,0 +1,70 @@
+{
+  "id": 874287427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.443446,41.865395,-71.443446,41.865395",
+    "geom:latitude":41.865395,
+    "geom:longitude":-71.443446,
+    "iso:country":"US",
+    "sg:address":"1460 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-providence/219125-bickfords-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 9442",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SSSXOQqb4FqGYI0zwwjzU_41.865395_-71.443446@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314905,
+    "wof:geomhash":"70ee554c819ea3f110ce2e6a3e110d5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874287427
+        }
+    ],
+    "wof:id":874287427,
+    "wof:lastmodified":1464314905,
+    "wof:name":"Bickford's Family Restaurant",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.443446,
+    41.865395,
+    -71.443446,
+    41.865395
+],
+  "geometry": {"coordinates":[-71.44344599999999,41.865395],"type":"Point"}
+}

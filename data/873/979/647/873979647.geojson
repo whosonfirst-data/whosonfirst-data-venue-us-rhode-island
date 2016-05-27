@@ -1,0 +1,93 @@
+{
+  "id": 873979647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.38529,41.817725,-71.38529,41.817725",
+    "geom:latitude":41.817725,
+    "geom:longitude":-71.38529,
+    "iso:country":"US",
+    "sg:address":"100 Water St",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 438 2626",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heavy",
+        "foundation",
+        "driving",
+        "mfg",
+        "construction",
+        "pile",
+        "rent"
+    ],
+    "sg:website":"www.american-equipment.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76AjtaChiwRw6aWt0zlpP4_41.817725_-71.385290@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310577,
+    "wof:geomhash":"f58c0c007530ee4dc41e89d5113f4968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":873979647
+        }
+    ],
+    "wof:id":873979647,
+    "wof:lastmodified":1464310577,
+    "wof:name":"American Equipment & Fbrctng",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "foundation",
+        "driving",
+        "mfg",
+        "construction",
+        "pile",
+        "rent"
+    ]
+},
+  "bbox": [
+    -71.38529,
+    41.817725,
+    -71.38529,
+    41.817725
+],
+  "geometry": {"coordinates":[-71.38529,41.817725],"type":"Point"}
+}

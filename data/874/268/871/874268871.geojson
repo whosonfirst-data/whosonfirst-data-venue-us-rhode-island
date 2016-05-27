@@ -1,0 +1,75 @@
+{
+  "id": 874268871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442888,41.719441,-71.442888,41.719441",
+    "geom:latitude":41.719441,
+    "geom:longitude":-71.442888,
+    "iso:country":"US",
+    "sg:address":"2300 Post Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 2577",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Y8Zb7avTNjCsYQn0RH0dM_41.719441_-71.442888@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314186,
+    "wof:geomhash":"47075a2a8b675999f3c4aa9ae65e51de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874268871
+        }
+    ],
+    "wof:id":874268871,
+    "wof:lastmodified":1464314186,
+    "wof:name":"Tony's Barber Shop",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.442888,
+    41.719441,
+    -71.442888,
+    41.719441
+],
+  "geometry": {"coordinates":[-71.442888,41.719441],"type":"Point"}
+}

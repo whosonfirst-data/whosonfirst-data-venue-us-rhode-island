@@ -1,0 +1,71 @@
+{
+  "id": 874279139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.249982,41.577423,-71.249982,41.577423",
+    "geom:latitude":41.577423,
+    "geom:longitude":-71.249982,
+    "iso:country":"US",
+    "sg:address":"114 Sherwood Ter",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 6824",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oeozNrI9EMsSpwDYvQhve_41.577423_-71.249982@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314577,
+    "wof:geomhash":"9ec94f29e0f2c33d3941af84b374392a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874279139
+        }
+    ],
+    "wof:id":874279139,
+    "wof:lastmodified":1464314577,
+    "wof:name":"Raise N' Cane",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -71.249982,
+    41.577423,
+    -71.249982,
+    41.577423
+],
+  "geometry": {"coordinates":[-71.249982,41.577423],"type":"Point"}
+}

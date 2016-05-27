@@ -1,0 +1,71 @@
+{
+  "id": 874230879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508183,41.895955,-71.508183,41.895955",
+    "geom:latitude":41.895955,
+    "geom:longitude":-71.508183,
+    "iso:country":"US",
+    "sg:address":"110 Stillwater Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 1141",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sKzccoyLJNpsNrTzIqUF6_41.895955_-71.508183@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313173,
+    "wof:geomhash":"c6b7846f7eb7e0a6d71eea4976d6bcf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874230879
+        }
+    ],
+    "wof:id":874230879,
+    "wof:lastmodified":1464313173,
+    "wof:name":"General Auto Body",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.508183,
+    41.895955,
+    -71.508183,
+    41.895955
+],
+  "geometry": {"coordinates":[-71.508183,41.895955],"type":"Point"}
+}

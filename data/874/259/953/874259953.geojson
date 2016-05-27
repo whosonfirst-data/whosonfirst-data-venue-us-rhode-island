@@ -1,0 +1,69 @@
+{
+  "id": 874259953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496754,41.393686,-71.496754,41.393686",
+    "geom:latitude":41.393686,
+    "geom:longitude":-71.496754,
+    "iso:country":"US",
+    "sg:address":"70 Franks Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 3893",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UxdcEZLeZiEY9LGFTqXpu_41.393686_-71.496754@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313857,
+    "wof:geomhash":"a8a42efeb7af0304e4a0cfe139f32292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874259953
+        }
+    ],
+    "wof:id":874259953,
+    "wof:lastmodified":1464313857,
+    "wof:name":"Elizabeth Conklin MD",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.496754,
+    41.393686,
+    -71.496754,
+    41.393686
+],
+  "geometry": {"coordinates":[-71.496754,41.393686],"type":"Point"}
+}

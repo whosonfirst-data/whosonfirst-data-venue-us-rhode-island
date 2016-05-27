@@ -1,0 +1,76 @@
+{
+  "id": 874287489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452468,41.772134,-71.452468,41.772134",
+    "geom:latitude":41.772134,
+    "geom:longitude":-71.452468,
+    "iso:country":"US",
+    "sg:address":"1073 Reservoir Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/247229-spain/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 8686",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "spanish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06oM7C7b9Qt1xeEVwyCe2d_41.772134_-71.452468@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314912,
+    "wof:geomhash":"33e623194c9c293402e67abd77cde31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874287489
+        }
+    ],
+    "wof:id":874287489,
+    "wof:lastmodified":1464314912,
+    "wof:name":"Spain",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spanish"
+    ]
+},
+  "bbox": [
+    -71.452468,
+    41.772134,
+    -71.452468,
+    41.772134
+],
+  "geometry": {"coordinates":[-71.452468,41.772134],"type":"Point"}
+}

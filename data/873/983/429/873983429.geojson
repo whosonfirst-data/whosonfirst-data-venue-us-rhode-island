@@ -1,0 +1,73 @@
+{
+  "id": 873983429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.61587,41.390891,-71.61587,41.390891",
+    "geom:latitude":41.390891,
+    "geom:longitude":-71.61587,
+    "iso:country":"US",
+    "sg:address":"3769 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 213 6525",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mSthkRvqV53FrCTFjH9aV_41.390891_-71.615870@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310637,
+    "wof:geomhash":"06bcf7f937f22cf17a8d29c86054893a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":873983429
+        }
+    ],
+    "wof:id":873983429,
+    "wof:lastmodified":1464310637,
+    "wof:name":"Paws Pet Grooming Etc",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.61587,
+    41.390891,
+    -71.61587,
+    41.390891
+],
+  "geometry": {"coordinates":[-71.61587,41.390891],"type":"Point"}
+}

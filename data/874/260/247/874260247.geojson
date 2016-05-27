@@ -1,0 +1,73 @@
+{
+  "id": 874260247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.266965,41.53686,-71.266965,41.53686",
+    "geom:latitude":41.53686,
+    "geom:longitude":-71.266965,
+    "iso:country":"US",
+    "sg:address":"1250 E Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 8564",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E7PhrurcPgH5bJbSvaQSX_41.536860_-71.266965@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313866,
+    "wof:geomhash":"31aa3c27bf2d50026ca5cd6b18099d43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874260247
+        }
+    ],
+    "wof:id":874260247,
+    "wof:lastmodified":1464313866,
+    "wof:name":"Ken Kibry Carpentry",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.266965,
+    41.53686,
+    -71.266965,
+    41.53686
+],
+  "geometry": {"coordinates":[-71.266965,41.53686],"type":"Point"}
+}

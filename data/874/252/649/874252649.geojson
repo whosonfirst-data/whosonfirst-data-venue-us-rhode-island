@@ -1,0 +1,77 @@
+{
+  "id": 874252649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51322,42.017586,-71.51322,42.017586",
+    "geom:latitude":42.017586,
+    "geom:longitude":-71.51322,
+    "iso:country":"US",
+    "sg:address":"7 Farm St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720563,
+        102081597,
+        85849239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LLFuwX5PtytSk7UVfsxuz_42.017586_-71.513220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313618,
+    "wof:geomhash":"4b738994cbb4ca870e0fe48be04c5c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720563,
+            "neighbourhood_id":85849239,
+            "region_id":85688509,
+            "venue_id":874252649
+        }
+    ],
+    "wof:id":874252649,
+    "wof:lastmodified":1464313618,
+    "wof:name":"Central Heating & AC",
+    "wof:parent_id":85849239,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.51322,
+    42.017586,
+    -71.51322,
+    42.017586
+],
+  "geometry": {"coordinates":[-71.51322,42.017586],"type":"Point"}
+}

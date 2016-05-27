@@ -1,0 +1,75 @@
+{
+  "id": 874233847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426068,41.801955,-71.426068,41.801955",
+    "geom:latitude":41.801955,
+    "geom:longitude":-71.426068,
+    "iso:country":"US",
+    "sg:address":"196 Stanwood St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 8413",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DVC7fbB0Z5f0FBMHrg1AS_41.801955_-71.426068@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313217,
+    "wof:geomhash":"8c35a25431d4fdac3b809f7fd81ac549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874233847
+        }
+    ],
+    "wof:id":874233847,
+    "wof:lastmodified":1464313217,
+    "wof:name":"Super Laundry Mat",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -71.426068,
+    41.801955,
+    -71.426068,
+    41.801955
+],
+  "geometry": {"coordinates":[-71.426068,41.801955],"type":"Point"}
+}

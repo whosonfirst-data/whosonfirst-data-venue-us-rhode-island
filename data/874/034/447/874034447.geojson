@@ -1,0 +1,69 @@
+{
+  "id": 874034447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49648,41.597945,-71.49648,41.597945",
+    "geom:latitude":41.597945,
+    "geom:longitude":-71.49648,
+    "iso:country":"US",
+    "sg:address":"3666 Quaker Ln",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 2230",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fHOnTnBnyBWV0vhoAxpld_41.597945_-71.496480@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311089,
+    "wof:geomhash":"657431536e5fef32c6efc38bc575e4dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874034447
+        }
+    ],
+    "wof:id":874034447,
+    "wof:lastmodified":1464311089,
+    "wof:name":"Mitchell Truck & Eqp Repr",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.49648,
+    41.597945,
+    -71.49648,
+    41.597945
+],
+  "geometry": {"coordinates":[-71.49648000000001,41.597945],"type":"Point"}
+}

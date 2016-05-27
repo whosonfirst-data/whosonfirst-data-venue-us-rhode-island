@@ -1,0 +1,71 @@
+{
+  "id": 874232509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536092,41.72626,-71.536092,41.72626",
+    "geom:latitude":41.72626,
+    "geom:longitude":-71.536092,
+    "iso:country":"US",
+    "sg:address":"49 Harris St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 821 2645",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803473,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VBXPdhUaO17xZMo3cPVUB_41.726260_-71.536092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313193,
+    "wof:geomhash":"8526f72f0869736692b2bc75e6e0fca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803473,
+            "region_id":85688509,
+            "venue_id":874232509
+        }
+    ],
+    "wof:id":874232509,
+    "wof:lastmodified":1464313193,
+    "wof:name":"Avon Representative",
+    "wof:parent_id":85803473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -71.536092,
+    41.72626,
+    -71.536092,
+    41.72626
+],
+  "geometry": {"coordinates":[-71.536092,41.72626],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874301557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401268,41.829438,-71.401268,41.829438",
+    "geom:latitude":41.829438,
+    "geom:longitude":-71.401268,
+    "iso:country":"US",
+    "sg:address":"220 Meeting St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 1066",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dessert",
+        "sandwich"
+    ],
+    "sg:website":"www.meetingstreetcafe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71iAjT14ZvUso5UaGK0dst_41.829438_-71.401268@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315449,
+    "wof:geomhash":"fd13751038e15b84ec54a89486e07296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874301557
+        }
+    ],
+    "wof:id":874301557,
+    "wof:lastmodified":1464315449,
+    "wof:name":"Meeting Street Cafe",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dessert",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.401268,
+    41.829438,
+    -71.401268,
+    41.829438
+],
+  "geometry": {"coordinates":[-71.401268,41.829438],"type":"Point"}
+}

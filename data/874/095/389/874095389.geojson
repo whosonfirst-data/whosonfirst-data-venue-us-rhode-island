@@ -1,0 +1,69 @@
+{
+  "id": 874095389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524885,41.983026,-71.524885,41.983026",
+    "geom:latitude":41.983026,
+    "geom:longitude":-71.524885,
+    "iso:country":"US",
+    "sg:address":"6 Golden Blvd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 3930",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23xBzh3kKdnmIFh3PNvvA1_41.983026_-71.524885@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311717,
+    "wof:geomhash":"85ad0623f526b3950fe3630e1c39999a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874095389
+        }
+    ],
+    "wof:id":874095389,
+    "wof:lastmodified":1464311717,
+    "wof:name":"R & R Painting",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -71.524885,
+    41.983026,
+    -71.524885,
+    41.983026
+],
+  "geometry": {"coordinates":[-71.524885,41.983026],"type":"Point"}
+}

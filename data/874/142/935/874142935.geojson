@@ -1,0 +1,69 @@
+{
+  "id": 874142935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469306,41.546976,-71.469306,41.546976",
+    "geom:latitude":41.546976,
+    "geom:longitude":-71.469306,
+    "iso:country":"US",
+    "sg:address":"45 W Allenton Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9661",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "salvage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_469JbBv89kfA50bCl5RzqR_41.546976_-71.469306@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312261,
+    "wof:geomhash":"2408d982e86c3486235b6e357a309096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874142935
+        }
+    ],
+    "wof:id":874142935,
+    "wof:lastmodified":1464312261,
+    "wof:name":"North Atlantic Marine Salvage",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salvage"
+    ]
+},
+  "bbox": [
+    -71.469306,
+    41.546976,
+    -71.469306,
+    41.546976
+],
+  "geometry": {"coordinates":[-71.469306,41.546976],"type":"Point"}
+}

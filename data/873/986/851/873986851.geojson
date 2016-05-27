@@ -1,0 +1,71 @@
+{
+  "id": 873986851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478666,41.654694,-71.478666,41.654694",
+    "geom:latitude":41.654694,
+    "geom:longitude":-71.478666,
+    "iso:country":"US",
+    "sg:address":"274 Old Greenwich Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 732 2545",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "control",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wmDtzdwFWwHR3wyD87XQE_41.654694_-71.478666@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310667,
+    "wof:geomhash":"e8ecef5b36050695d5eb0f9c596011cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":873986851
+        }
+    ],
+    "wof:id":873986851,
+    "wof:lastmodified":1464310667,
+    "wof:name":"Delta Beckwith Elecator Co",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.478666,
+    41.654694,
+    -71.478666,
+    41.654694
+],
+  "geometry": {"coordinates":[-71.478666,41.654694],"type":"Point"}
+}

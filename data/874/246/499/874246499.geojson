@@ -1,0 +1,69 @@
+{
+  "id": 874246499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.692639,41.359734,-71.692639,41.359734",
+    "geom:latitude":41.359734,
+    "geom:longitude":-71.692639,
+    "iso:country":"US",
+    "sg:address":"5510 Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 5007",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Idfxx4kgBlgCk7mGOcf9m_41.359734_-71.692639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313462,
+    "wof:geomhash":"0a764a415026e604d2ecfa06271d795b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874246499
+        }
+    ],
+    "wof:id":874246499,
+    "wof:lastmodified":1464313462,
+    "wof:name":"Equiptech",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.692639,
+    41.359734,
+    -71.692639,
+    41.359734
+],
+  "geometry": {"coordinates":[-71.692639,41.359734],"type":"Point"}
+}

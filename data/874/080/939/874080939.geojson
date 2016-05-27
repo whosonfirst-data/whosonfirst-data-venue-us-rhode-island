@@ -1,0 +1,69 @@
+{
+  "id": 874080939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.274887,41.725757,-71.274887,41.725757",
+    "geom:latitude":41.725757,
+    "geom:longitude":-71.274887,
+    "iso:country":"US",
+    "sg:address":"140 Franklin St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1220",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2n9WqCIi4MRAYcIZ2jazNY_41.725757_-71.274887@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311562,
+    "wof:geomhash":"28449cdb61e05839d960924eb701d91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874080939
+        }
+    ],
+    "wof:id":874080939,
+    "wof:lastmodified":1464311562,
+    "wof:name":"Center Service",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.274887,
+    41.725757,
+    -71.274887,
+    41.725757
+],
+  "geometry": {"coordinates":[-71.27488700000001,41.725757],"type":"Point"}
+}

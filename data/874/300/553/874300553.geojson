@@ -1,0 +1,77 @@
+{
+  "id": 874300553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40074,41.827293,-71.40074,41.827293",
+    "geom:latitude":41.827293,
+    "geom:longitude":-71.40074,
+    "iso:country":"US",
+    "sg:address":"102 Waterman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 0303",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FpOjlmmsnbQTNnO1eJ1YQ_41.827293_-71.400740@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315408,
+    "wof:geomhash":"0ee904b301be007c04908070be507f64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874300553
+        }
+    ],
+    "wof:id":874300553,
+    "wof:lastmodified":1464315408,
+    "wof:name":"Chez Lenore Hair Styling",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -71.40074,
+    41.827293,
+    -71.40074,
+    41.827293
+],
+  "geometry": {"coordinates":[-71.40074,41.827293],"type":"Point"}
+}

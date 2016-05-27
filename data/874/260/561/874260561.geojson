@@ -1,0 +1,69 @@
+{
+  "id": 874260561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.688875,41.533104,-71.688875,41.533104",
+    "geom:latitude":41.533104,
+    "geom:longitude":-71.688875,
+    "iso:country":"US",
+    "sg:address":"9 Pine Shadows Dr",
+    "sg:city":"Hope Valley",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7944",
+    "sg:postcode":"02832",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803369,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dohrxWCG7KyKKqOgUFpDt_41.533104_-71.688875@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313876,
+    "wof:geomhash":"f1b19be8fe4dd5fa164f02b1b9fd1979",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85803369,
+            "region_id":85688509,
+            "venue_id":874260561
+        }
+    ],
+    "wof:id":874260561,
+    "wof:lastmodified":1464313876,
+    "wof:name":"Pauls Plumbing & Heating",
+    "wof:parent_id":85803369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.688875,
+    41.533104,
+    -71.688875,
+    41.533104
+],
+  "geometry": {"coordinates":[-71.688875,41.533104],"type":"Point"}
+}

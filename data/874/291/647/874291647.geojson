@@ -1,0 +1,65 @@
+{
+  "id": 874291647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.437302,41.945499,-71.437302,41.945499",
+    "geom:latitude":41.945499,
+    "geom:longitude":-71.437302,
+    "iso:country":"US",
+    "sg:address":"1754 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 3177",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v7RP2lj5SuDqZPpZ1ZPlW_41.945499_-71.437302@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315078,
+    "wof:geomhash":"fdceefd8b09894e294a7849d50fe4963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291647
+        }
+    ],
+    "wof:id":874291647,
+    "wof:lastmodified":1464315078,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.437302,
+    41.945499,
+    -71.437302,
+    41.945499
+],
+  "geometry": {"coordinates":[-71.437302,41.945499],"type":"Point"}
+}

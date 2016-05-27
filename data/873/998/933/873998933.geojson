@@ -1,0 +1,79 @@
+{
+  "id": 873998933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504395,41.987117,-71.504395,41.987117",
+    "geom:latitude":41.987117,
+    "geom:longitude":-71.504395,
+    "iso:country":"US",
+    "sg:address":"67 Roy Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 1919",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823711,
+        102191575,
+        404488331,
+        85633793,
+        101720563,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IXOwnHjyTnHJFI6y7zw5s_41.987117_-71.504395@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310753,
+    "wof:geomhash":"9dca6eb187d7f51dc8318f5b820d0de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488331,
+            "locality_id":101720563,
+            "neighbourhood_id":85823711,
+            "region_id":85688509,
+            "venue_id":873998933
+        }
+    ],
+    "wof:id":873998933,
+    "wof:lastmodified":1464310753,
+    "wof:name":"A & R Trailer Rental",
+    "wof:parent_id":85823711,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -71.504395,
+    41.987117,
+    -71.504395,
+    41.987117
+],
+  "geometry": {"coordinates":[-71.504395,41.987117],"type":"Point"}
+}

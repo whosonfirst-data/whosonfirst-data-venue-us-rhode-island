@@ -1,0 +1,70 @@
+{
+  "id": 874300249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384938,41.846766,-71.384938,41.846766",
+    "geom:latitude":41.846766,
+    "geom:longitude":-71.384938,
+    "iso:country":"US",
+    "sg:address":"100 Butler Dr",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 626 3913",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cv5EWXv8J6eTCa8D4hyUd_41.846766_-71.384938@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315398,
+    "wof:geomhash":"72aa5d58e8e940d3a4086581c51e4ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874300249
+        }
+    ],
+    "wof:id":874300249,
+    "wof:lastmodified":1464315398,
+    "wof:name":"Robertson Alexander",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.384938,
+    41.846766,
+    -71.384938,
+    41.846766
+],
+  "geometry": {"coordinates":[-71.38493800000001,41.846766],"type":"Point"}
+}

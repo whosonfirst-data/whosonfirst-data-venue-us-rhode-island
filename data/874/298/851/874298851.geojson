@@ -1,0 +1,83 @@
+{
+  "id": 874298851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406019,41.854209,-71.406019,41.854209",
+    "geom:latitude":41.854209,
+    "geom:longitude":-71.406019,
+    "iso:country":"US",
+    "sg:address":"1 Peter Pan Way",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826211,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Unlj5H3weONyGnvGxTDA2_41.854209_-71.406019@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315350,
+    "wof:geomhash":"3beda4b4a288f13db1174bcc7bac3014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874298851
+        }
+    ],
+    "wof:id":874298851,
+    "wof:lastmodified":1464315350,
+    "wof:name":"Bank of America Atm",
+    "wof:parent_id":85826211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.406019,
+    41.854209,
+    -71.406019,
+    41.854209
+],
+  "geometry": {"coordinates":[-71.406019,41.854209],"type":"Point"}
+}

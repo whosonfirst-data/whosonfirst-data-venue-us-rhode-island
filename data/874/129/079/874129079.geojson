@@ -1,0 +1,71 @@
+{
+  "id": 874129079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495811,41.858395,-71.495811,41.858395",
+    "geom:latitude":41.858395,
+    "geom:longitude":-71.495811,
+    "iso:country":"US",
+    "sg:address":"27 Buchanan St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 7755",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gfdvBSyx1ZJlDLSzw2hmd_41.858395_-71.495811@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312123,
+    "wof:geomhash":"d6aef4d98199267de898f7d7e3f3cb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874129079
+        }
+    ],
+    "wof:id":874129079,
+    "wof:lastmodified":1464312123,
+    "wof:name":"Speedy Rooter Service",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.495811,
+    41.858395,
+    -71.495811,
+    41.858395
+],
+  "geometry": {"coordinates":[-71.495811,41.858395],"type":"Point"}
+}

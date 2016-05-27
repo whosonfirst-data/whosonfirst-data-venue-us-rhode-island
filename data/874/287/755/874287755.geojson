@@ -1,0 +1,87 @@
+{
+  "id": 874287755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.302267,41.511164,-71.302267,41.511164",
+    "geom:latitude":41.511164,
+    "geom:longitude":-71.302267,
+    "iso:country":"US",
+    "sg:address":"208 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/234109-newport-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 846 2767",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xGcBo9AJ6mAd7L5QUSgcR_41.510772_-71.302314@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314926,
+    "wof:geomhash":"9ec81c3db4d3faadc30edfb157159473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874287755
+        }
+    ],
+    "wof:id":874287755,
+    "wof:lastmodified":1464314926,
+    "wof:name":"Newport Creamery",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.302267,
+    41.511164,
+    -71.302267,
+    41.511164
+],
+  "geometry": {"coordinates":[-71.302267,41.511164],"type":"Point"}
+}

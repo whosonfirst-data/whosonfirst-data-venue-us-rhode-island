@@ -1,0 +1,78 @@
+{
+  "id": 874288083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.401152,41.829351,-71.401152,41.829351",
+    "geom:latitude":41.829351,
+    "geom:longitude":-71.401152,
+    "iso:country":"US",
+    "sg:address":"272 Thayer Street",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/274684-shanghai/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 0077",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ZX00DuTpONWaubIXyqMt_41.829957_-71.400970@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314939,
+    "wof:geomhash":"5bbf97b8c01246d69af213709c83a786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874288083
+        }
+    ],
+    "wof:id":874288083,
+    "wof:lastmodified":1464314939,
+    "wof:name":"Shanghai",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.401152,
+    41.829351,
+    -71.401152,
+    41.829351
+],
+  "geometry": {"coordinates":[-71.401152,41.829351],"type":"Point"}
+}

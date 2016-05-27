@@ -1,0 +1,78 @@
+{
+  "id": 874283015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409963,41.834211,-71.409963,41.834211",
+    "geom:latitude":41.834211,
+    "geom:longitude":-71.409963,
+    "iso:country":"US",
+    "sg:address":"4 Benefit St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 5050",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "spa",
+        "day"
+    ],
+    "sg:website":"www.christiaansalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FWllPCK5kwlEpqsU6o9g5_41.833720_-71.409904@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314740,
+    "wof:geomhash":"0bdacc9979d8094c440e83c2c4763087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874283015
+        }
+    ],
+    "wof:id":874283015,
+    "wof:lastmodified":1464314740,
+    "wof:name":"Christiaan Salon & Day Spa",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day"
+    ]
+},
+  "bbox": [
+    -71.409963,
+    41.834211,
+    -71.409963,
+    41.834211
+],
+  "geometry": {"coordinates":[-71.409963,41.834211],"type":"Point"}
+}

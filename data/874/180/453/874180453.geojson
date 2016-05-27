@@ -1,0 +1,71 @@
+{
+  "id": 874180453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463693,41.861536,-71.463693,41.861536",
+    "geom:latitude":41.861536,
+    "geom:longitude":-71.463693,
+    "iso:country":"US",
+    "sg:address":"528 Smithfield Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6286",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TwWKQTmGC2epGDcJxOztH_41.861536_-71.463693@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312634,
+    "wof:geomhash":"82f3007078123c433ab5c2b7918befb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874180453
+        }
+    ],
+    "wof:id":874180453,
+    "wof:lastmodified":1464312634,
+    "wof:name":"International Apartments",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.463693,
+    41.861536,
+    -71.463693,
+    41.861536
+],
+  "geometry": {"coordinates":[-71.46369300000001,41.861536],"type":"Point"}
+}

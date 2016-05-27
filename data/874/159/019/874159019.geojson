@@ -1,0 +1,86 @@
+{
+  "id": 874159019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447021,41.71726,-71.447021,41.71726",
+    "geom:latitude":41.71726,
+    "geom:longitude":-71.447021,
+    "iso:country":"US",
+    "sg:address":"1112 Jefferson Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 738 2450",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tile",
+        "retail",
+        "ceramic",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540487,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lGMy3rbrM5s8u75S1TBAo_41.717260_-71.447021@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312422,
+    "wof:geomhash":"259cb335d4a4258cfecbc4a069e55283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540487,
+            "region_id":85688509,
+            "venue_id":874159019
+        }
+    ],
+    "wof:id":874159019,
+    "wof:lastmodified":1464312422,
+    "wof:name":"Boston Tile Co",
+    "wof:parent_id":420540487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "retail",
+        "ceramic",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.447021,
+    41.71726,
+    -71.447021,
+    41.71726
+],
+  "geometry": {"coordinates":[-71.44702100000001,41.71726],"type":"Point"}
+}

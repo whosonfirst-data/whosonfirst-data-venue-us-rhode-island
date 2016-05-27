@@ -1,0 +1,85 @@
+{
+  "id": 874121881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42677,41.802431,-71.42677,41.802431",
+    "geom:latitude":41.802431,
+    "geom:longitude":-71.42677,
+    "iso:country":"US",
+    "sg:address":"35 Greenwich St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 8400",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "drink",
+        "equipment",
+        "beverage",
+        "refrigerated",
+        "syrup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01u0lqikxTLQocO9Es39TK_41.802431_-71.426770@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312058,
+    "wof:geomhash":"71feafc6d1381c8a8816409d4c42c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874121881
+        }
+    ],
+    "wof:id":874121881,
+    "wof:lastmodified":1464312058,
+    "wof:name":"Fountain Dispensers Co Inc",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "drink",
+        "equipment",
+        "beverage",
+        "refrigerated",
+        "syrup"
+    ]
+},
+  "bbox": [
+    -71.42677,
+    41.802431,
+    -71.42677,
+    41.802431
+],
+  "geometry": {"coordinates":[-71.42677,41.802431],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 874169715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458769,41.482212,-71.458769,41.482212",
+    "geom:latitude":41.482212,
+    "geom:longitude":-71.458769,
+    "iso:country":"US",
+    "sg:address":"3510 Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 4483",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.sccoc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85841471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57i3nz5kJIBZiayeoNgICF_41.482212_-71.458769@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312524,
+    "wof:geomhash":"c190e21730a6358ad408bc9c6e4c7dd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874169715
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841471,
+            "region_id":85688509,
+            "venue_id":874169715
+        }
+    ],
+    "wof:id":874169715,
+    "wof:lastmodified":1464312524,
+    "wof:name":"Church Of Christ South County",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.458769,
+    41.482212,
+    -71.458769,
+    41.482212
+],
+  "geometry": {"coordinates":[-71.458769,41.482212],"type":"Point"}
+}

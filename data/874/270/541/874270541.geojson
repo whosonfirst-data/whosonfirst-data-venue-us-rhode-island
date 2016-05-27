@@ -1,0 +1,71 @@
+{
+  "id": 874270541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502014,41.926549,-71.502014,41.926549",
+    "geom:latitude":41.926549,
+    "geom:longitude":-71.502014,
+    "iso:country":"US",
+    "sg:address":"395 Washington Hwy",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 275 4800",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EVHoNuuytP0IqvIX9O45P_41.926549_-71.502014@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314243,
+    "wof:geomhash":"e662322e1bc4ce8203dfafd04a160b8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874270541
+        }
+    ],
+    "wof:id":874270541,
+    "wof:lastmodified":1464314243,
+    "wof:name":"US Army National Guard",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -71.502014,
+    41.926549,
+    -71.502014,
+    41.926549
+],
+  "geometry": {"coordinates":[-71.502014,41.926549],"type":"Point"}
+}

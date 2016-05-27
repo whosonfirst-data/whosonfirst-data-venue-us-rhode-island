@@ -1,0 +1,80 @@
+{
+  "id": 873987819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433578,41.631574,-71.433578,41.631574",
+    "geom:latitude":41.631574,
+    "geom:longitude":-71.433578,
+    "iso:country":"US",
+    "sg:address":"250 Chimney Rock Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 3970",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "installs",
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85837947,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s4tEjtoGvtevzJT7uEeLK_41.631574_-71.433578@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310674,
+    "wof:geomhash":"f4157c746178ce231088fa7a63b93766",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85837947,
+            "region_id":85688509,
+            "venue_id":873987819
+        }
+    ],
+    "wof:id":873987819,
+    "wof:lastmodified":1464310674,
+    "wof:name":"Protect All Security Systems",
+    "wof:parent_id":85837947,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -71.433578,
+    41.631574,
+    -71.433578,
+    41.631574
+],
+  "geometry": {"coordinates":[-71.433578,41.631574],"type":"Point"}
+}

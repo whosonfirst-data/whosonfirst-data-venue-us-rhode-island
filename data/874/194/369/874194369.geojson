@@ -1,0 +1,71 @@
+{
+  "id": 874194369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403,41.929079,-71.403,41.929079",
+    "geom:latitude":41.929079,
+    "geom:longitude":-71.403,
+    "iso:country":"US",
+    "sg:address":"72 N Garden St",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 2561",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oVYIASobktmuS33CZsSQk_41.929079_-71.403000@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312783,
+    "wof:geomhash":"e3dadf082529838b60fe368ebe83ae21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874194369
+        }
+    ],
+    "wof:id":874194369,
+    "wof:lastmodified":1464312783,
+    "wof:name":"Bruno Lareau & Sons Constr",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.403,
+    41.929079,
+    -71.403,
+    41.929079
+],
+  "geometry": {"coordinates":[-71.40300000000001,41.929079],"type":"Point"}
+}

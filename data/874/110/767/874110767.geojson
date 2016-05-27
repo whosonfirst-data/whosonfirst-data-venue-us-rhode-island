@@ -1,0 +1,69 @@
+{
+  "id": 874110767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514689,41.991388,-71.514689,41.991388",
+    "geom:latitude":41.991388,
+    "geom:longitude":-71.514689,
+    "iso:country":"US",
+    "sg:address":"857 Park Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 765 3142",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2doVR47C34ISnvuPlJT01F_41.991388_-71.514689@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311935,
+    "wof:geomhash":"6050461c03a1cf71e4d4bdc2b164589e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874110767
+        }
+    ],
+    "wof:id":874110767,
+    "wof:lastmodified":1464311935,
+    "wof:name":"Park Ave Pizza",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.514689,
+    41.991388,
+    -71.514689,
+    41.991388
+],
+  "geometry": {"coordinates":[-71.514689,41.991388],"type":"Point"}
+}

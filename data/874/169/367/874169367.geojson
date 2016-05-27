@@ -1,0 +1,77 @@
+{
+  "id": 874169367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.360092,41.807468,-71.360092,41.807468",
+    "geom:latitude":41.807468,
+    "geom:longitude":-71.360092,
+    "iso:country":"US",
+    "sg:address":"2464 Pawtucket Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 431 0226",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05QVSMLPcfUnoJDLux8iQm_41.807468_-71.360092@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312520,
+    "wof:geomhash":"2a6f8c08150c87f52c15f8dfdc7ce333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":874169367
+        }
+    ],
+    "wof:id":874169367,
+    "wof:lastmodified":1464312520,
+    "wof:name":"David J Di Santo DC",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.360092,
+    41.807468,
+    -71.360092,
+    41.807468
+],
+  "geometry": {"coordinates":[-71.36009199999999,41.807468],"type":"Point"}
+}

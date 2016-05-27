@@ -1,0 +1,73 @@
+{
+  "id": 874151203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529106,41.990981,-71.529106,41.990981",
+    "geom:latitude":41.990981,
+    "geom:longitude":-71.529106,
+    "iso:country":"US",
+    "sg:address":"590 S Main St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 766 3822",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WIS5M3VDX5AiE3Bf8hTQH_41.990981_-71.529106@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312339,
+    "wof:geomhash":"cdeb2d35d155dad6f3dc4af415f8e794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874151203
+        }
+    ],
+    "wof:id":874151203,
+    "wof:lastmodified":1464312339,
+    "wof:name":"Michael's Animal Inn",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.529106,
+    41.990981,
+    -71.529106,
+    41.990981
+],
+  "geometry": {"coordinates":[-71.529106,41.990981],"type":"Point"}
+}

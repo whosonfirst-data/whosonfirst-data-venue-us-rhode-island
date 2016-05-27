@@ -1,0 +1,71 @@
+{
+  "id": 874079611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457128,41.81836,-71.457128,41.81836",
+    "geom:latitude":41.81836,
+    "geom:longitude":-71.457128,
+    "iso:country":"US",
+    "sg:address":"421 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9727",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "basket",
+        "fruit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UyUW4jY47oaql5SmuhlW4_41.818360_-71.457128@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311548,
+    "wof:geomhash":"39fa55a8f5ff55a50cc02cf54ac10683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874079611
+        }
+    ],
+    "wof:id":874079611,
+    "wof:lastmodified":1464311548,
+    "wof:name":"Corvese Fruit Store",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -71.457128,
+    41.81836,
+    -71.457128,
+    41.81836
+],
+  "geometry": {"coordinates":[-71.457128,41.81836],"type":"Point"}
+}

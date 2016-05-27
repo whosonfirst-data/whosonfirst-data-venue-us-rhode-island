@@ -1,0 +1,77 @@
+{
+  "id": 874292091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452797,41.937,-71.452797,41.937",
+    "geom:latitude":41.937,
+    "geom:longitude":-71.452797,
+    "iso:country":"US",
+    "sg:address":"132 Old River Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 8664",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "throat",
+        "surgeon",
+        "ear",
+        "cosmetic",
+        "nose"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OfIQTgoqbiyP9rSmKTcCT_41.937000_-71.452797@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315092,
+    "wof:geomhash":"01238c64052190044a07eaa090072550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874292091
+        }
+    ],
+    "wof:id":874292091,
+    "wof:lastmodified":1464315092,
+    "wof:name":"Tarro Robt D Phys",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "throat",
+        "surgeon",
+        "ear",
+        "cosmetic",
+        "nose"
+    ]
+},
+  "bbox": [
+    -71.452797,
+    41.937,
+    -71.452797,
+    41.937
+],
+  "geometry": {"coordinates":[-71.452797,41.937],"type":"Point"}
+}

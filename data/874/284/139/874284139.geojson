@@ -1,0 +1,71 @@
+{
+  "id": 874284139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.544701,41.374401,-71.544701,41.374401",
+    "geom:latitude":41.374401,
+    "geom:longitude":-71.544701,
+    "iso:country":"US",
+    "sg:address":"920 Matunuck Beach Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 792 9119",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JeLXbHDgs8ElMXUctUNHk_41.374429_-71.544214@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314778,
+    "wof:geomhash":"1253d8c5da1c4abba1c4391a7e680eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874284139
+        }
+    ],
+    "wof:id":874284139,
+    "wof:lastmodified":1464314778,
+    "wof:name":"Spartina Pizza",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.544701,
+    41.374401,
+    -71.544701,
+    41.374401
+],
+  "geometry": {"coordinates":[-71.544701,41.374401],"type":"Point"}
+}

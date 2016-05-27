@@ -1,0 +1,75 @@
+{
+  "id": 874108545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.39221,41.86999,-71.39221,41.86999",
+    "geom:latitude":41.86999,
+    "geom:longitude":-71.39221,
+    "iso:country":"US",
+    "sg:address":"137 Mulberry St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 726 2763",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50ascMBbb13zdBFIbuWJfV_41.869990_-71.392210@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311899,
+    "wof:geomhash":"967e0eb88beabc8080f2bd436c7b7120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874108545
+        }
+    ],
+    "wof:id":874108545,
+    "wof:lastmodified":1464311899,
+    "wof:name":"M & S Cleaning Svc",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -71.39221,
+    41.86999,
+    -71.39221,
+    41.86999
+],
+  "geometry": {"coordinates":[-71.39221000000001,41.86999],"type":"Point"}
+}

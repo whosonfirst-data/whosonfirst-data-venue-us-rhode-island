@@ -1,0 +1,86 @@
+{
+  "id": 874203487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489794,41.711408,-71.489794,41.711408",
+    "geom:latitude":41.711408,
+    "geom:longitude":-71.489794,
+    "iso:country":"US",
+    "sg:address":"969 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 2080",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TGUb4NJO4ghprN2h3TBqj_41.711408_-71.489794@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312879,
+    "wof:geomhash":"1d61deb904f1eb39846d24d8e8757e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874203487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874203487
+        }
+    ],
+    "wof:id":874203487,
+    "wof:lastmodified":1464312879,
+    "wof:name":"Bickford's Family Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.489794,
+    41.711408,
+    -71.489794,
+    41.711408
+],
+  "geometry": {"coordinates":[-71.489794,41.711408],"type":"Point"}
+}

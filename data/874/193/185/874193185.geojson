@@ -1,0 +1,71 @@
+{
+  "id": 874193185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.268613,41.717379,-71.268613,41.717379",
+    "geom:latitude":41.717379,
+    "geom:longitude":-71.268613,
+    "iso:country":"US",
+    "sg:address":"110 Seymour St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0330",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oz67748J4Lag1nEZz8Guz_41.717379_-71.268613@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312772,
+    "wof:geomhash":"fb2ca1079c71d49f9de6e18278dac5d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874193185
+        }
+    ],
+    "wof:id":874193185,
+    "wof:lastmodified":1464312772,
+    "wof:name":"A-1 Self Storage Inc",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.268613,
+    41.717379,
+    -71.268613,
+    41.717379
+],
+  "geometry": {"coordinates":[-71.268613,41.717379],"type":"Point"}
+}

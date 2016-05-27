@@ -1,0 +1,71 @@
+{
+  "id": 873982457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.536314,41.542019,-71.536314,41.542019",
+    "geom:latitude":41.542019,
+    "geom:longitude":-71.536314,
+    "iso:country":"US",
+    "sg:address":"332 S County Trl",
+    "sg:city":"Exeter",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6448",
+    "sg:postcode":"02822",
+    "sg:province":"RI",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CbmuqadUdjTkgZxXK1eHc_41.542019_-71.536314@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310626,
+    "wof:geomhash":"c6623cca60002d2096e731867c8736f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":873982457
+        }
+    ],
+    "wof:id":873982457,
+    "wof:lastmodified":1464310626,
+    "wof:name":"Shanbri Farms",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.536314,
+    41.542019,
+    -71.536314,
+    41.542019
+],
+  "geometry": {"coordinates":[-71.536314,41.542019],"type":"Point"}
+}

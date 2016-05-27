@@ -1,0 +1,71 @@
+{
+  "id": 874040711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.54407,41.873591,-71.54407,41.873591",
+    "geom:latitude":41.873591,
+    "geom:longitude":-71.54407,
+    "iso:country":"US",
+    "sg:address":"10 Sprague St",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 3205",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ePUx9Dg8WfILdWr1jx622_41.873591_-71.544070@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311150,
+    "wof:geomhash":"7b4e483b10d21fb0e6842bf896fe6fe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874040711
+        }
+    ],
+    "wof:id":874040711,
+    "wof:lastmodified":1464311150,
+    "wof:name":"I Ross Dental Designs",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -71.54407,
+    41.873591,
+    -71.54407,
+    41.873591
+],
+  "geometry": {"coordinates":[-71.54407,41.873591],"type":"Point"}
+}

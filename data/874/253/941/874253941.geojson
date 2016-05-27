@@ -1,0 +1,77 @@
+{
+  "id": 874253941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.535342,41.868033,-71.535342,41.868033",
+    "geom:latitude":41.868033,
+    "geom:longitude":-71.535342,
+    "iso:country":"US",
+    "sg:address":"20 Lark Industrial Dr",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 5565",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heavy",
+        "bridge",
+        "utility",
+        "highway",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mlN41lz5jY66ySfWc9igY_41.868033_-71.535342@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313644,
+    "wof:geomhash":"c67163cd5b4792974b2a796d3420c2d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874253941
+        }
+    ],
+    "wof:id":874253941,
+    "wof:lastmodified":1464313644,
+    "wof:name":"John Rocchio Corp",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "bridge",
+        "utility",
+        "highway",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.535342,
+    41.868033,
+    -71.535342,
+    41.868033
+],
+  "geometry": {"coordinates":[-71.535342,41.868033],"type":"Point"}
+}

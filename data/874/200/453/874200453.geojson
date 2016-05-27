@@ -1,0 +1,81 @@
+{
+  "id": 874200453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.393802,41.827469,-71.393802,41.827469",
+    "geom:latitude":41.827469,
+    "geom:longitude":-71.393802,
+    "iso:country":"US",
+    "sg:address":"189 Governor St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 5080",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "preparation",
+        "test",
+        "standardized",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S8tDKB1prExhJxMz6c463_41.827469_-71.393802@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312848,
+    "wof:geomhash":"3f0a3890be838f09988bdf30abbf7853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874200453
+        }
+    ],
+    "wof:id":874200453,
+    "wof:lastmodified":1464312848,
+    "wof:name":"Princeton Review",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "test",
+        "standardized",
+        "for"
+    ]
+},
+  "bbox": [
+    -71.393802,
+    41.827469,
+    -71.393802,
+    41.827469
+],
+  "geometry": {"coordinates":[-71.39380199999999,41.827469],"type":"Point"}
+}

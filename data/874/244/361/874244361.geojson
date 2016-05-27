@@ -1,0 +1,77 @@
+{
+  "id": 874244361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.384833,41.725496,-71.384833,41.725496",
+    "geom:latitude":41.725496,
+    "geom:longitude":-71.384833,
+    "iso:country":"US",
+    "sg:address":"635 W Shore Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 5560",
+    "sg:postcode":"02889",
+    "sg:province":"RI",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540465,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1n8o1UThkxvCDs6aMrR0qy_41.725496_-71.384833@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313423,
+    "wof:geomhash":"fe86f69c955e0cafe6f214f640bd8444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540465,
+            "region_id":85688509,
+            "venue_id":874244361
+        }
+    ],
+    "wof:id":874244361,
+    "wof:lastmodified":1464313423,
+    "wof:name":"Express Maintenance",
+    "wof:parent_id":420540465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.384833,
+    41.725496,
+    -71.384833,
+    41.725496
+],
+  "geometry": {"coordinates":[-71.384833,41.725496],"type":"Point"}
+}

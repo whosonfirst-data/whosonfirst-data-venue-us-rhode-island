@@ -1,0 +1,101 @@
+{
+  "id": 874071651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457725,41.793324,-71.457725,41.793324",
+    "geom:latitude":41.793324,
+    "geom:longitude":-71.457725,
+    "iso:country":"US",
+    "sg:address":"731 Dyer Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 6622",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fire",
+        "consultant",
+        "installs",
+        "protection",
+        "design",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KqvL3jhG6PH7keumByRWE_41.793324_-71.457725@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311455,
+    "wof:geomhash":"94fdef5c4f5a5cd679dac87b5e5645a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874071651
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874071651
+        }
+    ],
+    "wof:id":874071651,
+    "wof:lastmodified":1464311455,
+    "wof:name":"Cityco Fire Protection Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "consultant",
+        "installs",
+        "protection",
+        "design",
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.457725,
+    41.793324,
+    -71.457725,
+    41.793324
+],
+  "geometry": {"coordinates":[-71.457725,41.793324],"type":"Point"}
+}

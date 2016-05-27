@@ -1,0 +1,75 @@
+{
+  "id": 874065137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.403236,41.787914,-71.403236,41.787914",
+    "geom:latitude":41.787914,
+    "geom:longitude":-71.403236,
+    "iso:country":"US",
+    "sg:address":"1421 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 4438",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DFtvaknl2G0h698BG7pyy_41.787914_-71.403236@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311381,
+    "wof:geomhash":"7795cbb6dd3303275c112f2594aa151b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874065137
+        }
+    ],
+    "wof:id":874065137,
+    "wof:lastmodified":1464311381,
+    "wof:name":"Cafeteria LA Rueda",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -71.403236,
+    41.787914,
+    -71.403236,
+    41.787914
+],
+  "geometry": {"coordinates":[-71.40323600000001,41.787914],"type":"Point"}
+}

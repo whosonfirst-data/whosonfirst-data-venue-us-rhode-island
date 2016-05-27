@@ -1,0 +1,71 @@
+{
+  "id": 874046145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277319,41.692925,-71.277319,41.692925",
+    "geom:latitude":41.692925,
+    "geom:longitude":-71.277319,
+    "iso:country":"US",
+    "sg:address":"11 Gooding Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1614",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CjY7BrATqFfZKghfo5LqP_41.692925_-71.277319@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311208,
+    "wof:geomhash":"b2637d91a31424e52ae9c9bd53c0b0b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874046145
+        }
+    ],
+    "wof:id":874046145,
+    "wof:lastmodified":1464311208,
+    "wof:name":"Riccotti Sandwich Shops",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.277319,
+    41.692925,
+    -71.277319,
+    41.692925
+],
+  "geometry": {"coordinates":[-71.27731900000001,41.692925],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874093189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.504449,41.882281,-71.504449,41.882281",
+    "geom:latitude":41.882281,
+    "geom:longitude":-71.504449,
+    "iso:country":"US",
+    "sg:address":"35 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 5300",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4urUZryPZZQfzFIXOvPKYm_41.882281_-71.504449@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311696,
+    "wof:geomhash":"9b7249eeb2f3038740835188360b5ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874093189
+        }
+    ],
+    "wof:id":874093189,
+    "wof:lastmodified":1464311696,
+    "wof:name":"Chuck & Sons Towing Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.504449,
+    41.882281,
+    -71.504449,
+    41.882281
+],
+  "geometry": {"coordinates":[-71.50444899999999,41.882281],"type":"Point"}
+}

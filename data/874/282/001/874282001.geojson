@@ -1,0 +1,90 @@
+{
+  "id": 874282001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.834161,41.401595,-71.834161,41.401595",
+    "geom:latitude":41.401595,
+    "geom:longitude":-71.834161,
+    "iso:country":"US",
+    "sg:address":"11 Springbrook Rd",
+    "sg:city":"Westerly",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 596 1996",
+    "sg:postcode":"02891",
+    "sg:province":"RI",
+    "sg:tags":[
+        "youth",
+        "organization",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540585,
+        102191575,
+        404488345,
+        85633793,
+        101720625,
+        102081219,
+        85688509,
+        420555689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MfkWX72vOfgB0uIrFkSJr_41.401595_-71.834161@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314707,
+    "wof:geomhash":"8b8fb297e70c6cda1a1db9265b75a46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":420540585,
+            "region_id":85688509,
+            "venue_id":874282001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488345,
+            "locality_id":101720625,
+            "neighbourhood_id":420555689,
+            "region_id":85688509,
+            "venue_id":874282001
+        }
+    ],
+    "wof:id":874282001,
+    "wof:lastmodified":1464314707,
+    "wof:name":"Westerly American Little",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "organization",
+        "center"
+    ]
+},
+  "bbox": [
+    -71.834161,
+    41.401595,
+    -71.834161,
+    41.401595
+],
+  "geometry": {"coordinates":[-71.83416099999999,41.401595],"type":"Point"}
+}

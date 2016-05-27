@@ -1,0 +1,73 @@
+{
+  "id": 874277677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.430035,41.877711,-71.430035,41.877711",
+    "geom:latitude":41.877711,
+    "geom:longitude":-71.430035,
+    "iso:country":"US",
+    "sg:address":"11 Manchester Farm Rd",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 6307",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DwpWMq0qChh0B65j92OHm_41.877711_-71.430035@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314523,
+    "wof:geomhash":"3e251d9f69c1fa30653a13e7fa67ccd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874277677
+        }
+    ],
+    "wof:id":874277677,
+    "wof:lastmodified":1464314523,
+    "wof:name":"Onstate Electrical Inc",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.430035,
+    41.877711,
+    -71.430035,
+    41.877711
+],
+  "geometry": {"coordinates":[-71.430035,41.877711],"type":"Point"}
+}

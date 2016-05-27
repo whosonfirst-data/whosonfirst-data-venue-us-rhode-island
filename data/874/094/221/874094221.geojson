@@ -1,0 +1,71 @@
+{
+  "id": 874094221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469265,41.861557,-71.469265,41.861557",
+    "geom:latitude":41.861557,
+    "geom:longitude":-71.469265,
+    "iso:country":"US",
+    "sg:address":"415 Sunset Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 8521",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MJEQXIPcs0GuNY2i047tr_41.861557_-71.469265@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311705,
+    "wof:geomhash":"b24c7631520c4130099ef89eac0ae60f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874094221
+        }
+    ],
+    "wof:id":874094221,
+    "wof:lastmodified":1464311705,
+    "wof:name":"Sisters Of Mercy",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -71.469265,
+    41.861557,
+    -71.469265,
+    41.861557
+],
+  "geometry": {"coordinates":[-71.46926499999999,41.861557],"type":"Point"}
+}

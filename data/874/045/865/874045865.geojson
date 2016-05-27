@@ -1,0 +1,78 @@
+{
+  "id": 874045865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.439287,41.740708,-71.439287,41.740708",
+    "geom:latitude":41.740708,
+    "geom:longitude":-71.439287,
+    "iso:country":"US",
+    "sg:address":"41 Illinois Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 8500",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "laboratory",
+        "testing"
+    ],
+    "sg:website":"www.rianalytical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wnFurBfX2ZHdwlTryUMIe_41.740708_-71.439287@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311205,
+    "wof:geomhash":"9c1d5ba7f0b07560535db5aa77106faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874045865
+        }
+    ],
+    "wof:id":874045865,
+    "wof:lastmodified":1464311205,
+    "wof:name":"R I Analytical Laboratories",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "testing"
+    ]
+},
+  "bbox": [
+    -71.439287,
+    41.740708,
+    -71.439287,
+    41.740708
+],
+  "geometry": {"coordinates":[-71.43928699999999,41.740708],"type":"Point"}
+}

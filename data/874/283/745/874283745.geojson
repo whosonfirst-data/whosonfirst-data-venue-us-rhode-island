@@ -1,0 +1,77 @@
+{
+  "id": 874283745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.479357,41.834937,-71.479357,41.834937",
+    "geom:latitude":41.834937,
+    "geom:longitude":-71.479357,
+    "iso:country":"US",
+    "sg:address":"8 Forand Cir",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4896",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "housing",
+        "apartment",
+        "authority"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q5Y9XTYz19lstWgiaTARL_41.835090_-71.479450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314764,
+    "wof:geomhash":"6db15b81d2d487825658c4545b4ffdb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874283745
+        }
+    ],
+    "wof:id":874283745,
+    "wof:lastmodified":1464314764,
+    "wof:name":"Johnston Housing Authority",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "housing",
+        "apartment",
+        "authority"
+    ]
+},
+  "bbox": [
+    -71.479357,
+    41.834937,
+    -71.479357,
+    41.834937
+],
+  "geometry": {"coordinates":[-71.47935699999999,41.834937],"type":"Point"}
+}

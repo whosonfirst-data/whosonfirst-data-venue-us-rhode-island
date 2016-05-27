@@ -1,0 +1,88 @@
+{
+  "id": 874092423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.462897,41.781567,-71.462897,41.781567",
+    "geom:latitude":41.781567,
+    "geom:longitude":-71.462897,
+    "iso:country":"US",
+    "sg:address":"100 Calder St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 4732",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "installs",
+        "glass",
+        "fabrication",
+        "store",
+        "front"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X6PNjQt1tRFQQKM2awwve_41.781567_-71.462897@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311690,
+    "wof:geomhash":"ff14f1cc8d274ec5a18a2ebae026b3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874092423
+        }
+    ],
+    "wof:id":874092423,
+    "wof:lastmodified":1464311690,
+    "wof:name":"General Glass Co Inc",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "glass",
+        "fabrication",
+        "store",
+        "front"
+    ]
+},
+  "bbox": [
+    -71.462897,
+    41.781567,
+    -71.462897,
+    41.781567
+],
+  "geometry": {"coordinates":[-71.462897,41.781567],"type":"Point"}
+}

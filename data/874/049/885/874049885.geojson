@@ -1,0 +1,75 @@
+{
+  "id": 874049885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405274,41.767158,-71.405274,41.767158",
+    "geom:latitude":41.767158,
+    "geom:longitude":-71.405274,
+    "iso:country":"US",
+    "sg:address":"343 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 785 1000",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805471,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VPfgs3buPV5eA3ooDXCVR_41.767158_-71.405274@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311239,
+    "wof:geomhash":"e22abc3c9576c3920ca63aa150755839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85805471,
+            "region_id":85688509,
+            "venue_id":874049885
+        }
+    ],
+    "wof:id":874049885,
+    "wof:lastmodified":1464311239,
+    "wof:name":"Ri Animal Medical Ctr 4-Paws",
+    "wof:parent_id":85805471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.405274,
+    41.767158,
+    -71.405274,
+    41.767158
+],
+  "geometry": {"coordinates":[-71.40527400000001,41.767158],"type":"Point"}
+}

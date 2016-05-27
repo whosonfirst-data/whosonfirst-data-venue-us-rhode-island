@@ -1,0 +1,69 @@
+{
+  "id": 874079111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494131,41.900629,-71.494131,41.900629",
+    "geom:latitude":41.900629,
+    "geom:longitude":-71.494131,
+    "iso:country":"US",
+    "sg:address":"37 Maureen Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 724 8282",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36wpaDRTQLq67m0dS6O8g6_41.900629_-71.494131@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311544,
+    "wof:geomhash":"52fbd2bea79904c60b31261a04882288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874079111
+        }
+    ],
+    "wof:id":874079111,
+    "wof:lastmodified":1464311544,
+    "wof:name":"Parente Amusement Co Inc",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -71.494131,
+    41.900629,
+    -71.494131,
+    41.900629
+],
+  "geometry": {"coordinates":[-71.494131,41.900629],"type":"Point"}
+}

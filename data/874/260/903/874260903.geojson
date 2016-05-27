@@ -1,0 +1,73 @@
+{
+  "id": 874260903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510589,41.381128,-71.510589,41.381128",
+    "geom:latitude":41.381128,
+    "geom:longitude":-71.510589,
+    "iso:country":"US",
+    "sg:address":"83 State St",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7797",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "federal",
+        "program",
+        "adm"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21AdwFTceEne4GVq5zyIgZ_41.381128_-71.510589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313888,
+    "wof:geomhash":"aae14ee8e6ccd29772347afdfc9b1e79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874260903
+        }
+    ],
+    "wof:id":874260903,
+    "wof:lastmodified":1464313888,
+    "wof:name":"US Commerce Dept",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program",
+        "adm"
+    ]
+},
+  "bbox": [
+    -71.510589,
+    41.381128,
+    -71.510589,
+    41.381128
+],
+  "geometry": {"coordinates":[-71.510589,41.381128],"type":"Point"}
+}

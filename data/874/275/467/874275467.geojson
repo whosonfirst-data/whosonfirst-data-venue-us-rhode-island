@@ -1,0 +1,71 @@
+{
+  "id": 874275467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.618996,41.945851,-71.618996,41.945851",
+    "geom:latitude":41.945851,
+    "geom:longitude":-71.618996,
+    "iso:country":"US",
+    "sg:address":"200 Pheasant Dr",
+    "sg:city":"Mapleville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 0331",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sporting",
+        "good"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WRtqsMVDyQ4aIEZYYWIqo_41.945851_-71.618996@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314425,
+    "wof:geomhash":"ad711231cc0ebbf1bc700c9300605bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":874275467
+        }
+    ],
+    "wof:id":874275467,
+    "wof:lastmodified":1464314425,
+    "wof:name":"Gun Room",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting",
+        "good"
+    ]
+},
+  "bbox": [
+    -71.618996,
+    41.945851,
+    -71.618996,
+    41.945851
+],
+  "geometry": {"coordinates":[-71.618996,41.945851],"type":"Point"}
+}

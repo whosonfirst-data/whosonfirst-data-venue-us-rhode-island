@@ -1,0 +1,77 @@
+{
+  "id": 874115603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.455254,41.559405,-71.455254,41.559405",
+    "geom:latitude":41.559405,
+    "geom:longitude":-71.455254,
+    "iso:country":"US",
+    "sg:address":"255 Prospect Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 4216",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85805503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hp0el5jDza9UZDqsQZ7Pc_41.559405_-71.455254@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311993,
+    "wof:geomhash":"814147e9da86eb70cfa3aefd356728c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874115603
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874115603
+        }
+    ],
+    "wof:id":874115603,
+    "wof:lastmodified":1464311993,
+    "wof:name":"Holland Construction Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.455254,
+    41.559405,
+    -71.455254,
+    41.559405
+],
+  "geometry": {"coordinates":[-71.455254,41.559405],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874085961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507969,41.868616,-71.507969,41.868616",
+    "geom:latitude":41.868616,
+    "geom:longitude":-71.507969,
+    "iso:country":"US",
+    "sg:address":"270 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2200",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HdaeRFQzHLtmOauPVgsWL_41.868616_-71.507969@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311620,
+    "wof:geomhash":"f6efa2b062e47e98332ae4ae582f152e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874085961
+        }
+    ],
+    "wof:id":874085961,
+    "wof:lastmodified":1464311620,
+    "wof:name":"Sarge's Auto Sales Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.507969,
+    41.868616,
+    -71.507969,
+    41.868616
+],
+  "geometry": {"coordinates":[-71.507969,41.868616],"type":"Point"}
+}

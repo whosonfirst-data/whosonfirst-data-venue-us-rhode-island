@@ -1,0 +1,78 @@
+{
+  "id": 874180599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502782,41.866792,-71.502782,41.866792",
+    "geom:latitude":41.866792,
+    "geom:longitude":-71.502782,
+    "iso:country":"US",
+    "sg:address":"223 Putnam Pike",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7440",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "music",
+        "instruction",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oJrRvLCt506jR8Uq4n9q1_41.866792_-71.502782@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312636,
+    "wof:geomhash":"775bcba57ab339d67a911c014574785c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874180599
+        }
+    ],
+    "wof:id":874180599,
+    "wof:lastmodified":1464312636,
+    "wof:name":"Oasis Music Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "instruction",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -71.502782,
+    41.866792,
+    -71.502782,
+    41.866792
+],
+  "geometry": {"coordinates":[-71.502782,41.866792],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 874292363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.408051,41.904561,-71.408051,41.904561",
+    "geom:latitude":41.904561,
+    "geom:longitude":-71.408051,
+    "iso:country":"US",
+    "sg:address":"178 Front St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 728 6300",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "sg:website":"www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847275,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vmuTja1Hpb6pGC5VvRISl_41.904561_-71.408051@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315102,
+    "wof:geomhash":"a5cdb32e0afcffc7a0594e4e6b9063e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847275,
+            "region_id":85688509,
+            "venue_id":874292363
+        }
+    ],
+    "wof:id":874292363,
+    "wof:lastmodified":1464315102,
+    "wof:name":"Subway",
+    "wof:parent_id":85847275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.408051,
+    41.904561,
+    -71.408051,
+    41.904561
+],
+  "geometry": {"coordinates":[-71.408051,41.904561],"type":"Point"}
+}

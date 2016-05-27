@@ -1,0 +1,82 @@
+{
+  "id": 874106097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474752,41.789225,-71.474752,41.789225",
+    "geom:latitude":41.789225,
+    "geom:longitude":-71.474752,
+    "iso:country":"US",
+    "sg:address":"60 Walnut Grove Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 4450",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540517,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qcSuAcsaLochcrPHZU9CY_41.789225_-71.474752@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311869,
+    "wof:geomhash":"62aa00a99ecc08eeff8dd5052c9e0144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874106097
+        }
+    ],
+    "wof:id":874106097,
+    "wof:lastmodified":1464311869,
+    "wof:name":"Atwood Performing Arts Center",
+    "wof:parent_id":420540517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -71.474752,
+    41.789225,
+    -71.474752,
+    41.789225
+],
+  "geometry": {"coordinates":[-71.474752,41.789225],"type":"Point"}
+}

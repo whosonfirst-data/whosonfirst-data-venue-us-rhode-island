@@ -1,0 +1,91 @@
+{
+  "id": 874284593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.385513,41.87899,-71.385513,41.87899",
+    "geom:latitude":41.87899,
+    "geom:longitude":-71.385513,
+    "iso:country":"US",
+    "sg:address":"23 Summer St",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 7400",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "supply",
+        "electronic",
+        "equipment",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.majorelectricsupply.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e8HAOzCEZ7Pc6MqEgfY0b_41.878742_-71.385012@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314794,
+    "wof:geomhash":"ae02857ea540004afaa475aa7990d9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874284593
+        }
+    ],
+    "wof:id":874284593,
+    "wof:lastmodified":1464314794,
+    "wof:name":"Major-Edwards Electronic Sup",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "electronic",
+        "equipment",
+        "part",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -71.385513,
+    41.87899,
+    -71.385513,
+    41.87899
+],
+  "geometry": {"coordinates":[-71.385513,41.87899],"type":"Point"}
+}

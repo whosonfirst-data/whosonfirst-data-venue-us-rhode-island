@@ -1,0 +1,75 @@
+{
+  "id": 874149499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429249,41.736082,-71.429249,41.736082",
+    "geom:latitude":41.736082,
+    "geom:longitude":-71.429249,
+    "iso:country":"US",
+    "sg:address":"450 Pavilion Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 8887",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SVL8zCAu9ARk3GK1jbGih_41.736082_-71.429249@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312324,
+    "wof:geomhash":"cf4c9328d8bc49d7ee5f3c409c1e0a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874149499
+        }
+    ],
+    "wof:id":874149499,
+    "wof:lastmodified":1464312324,
+    "wof:name":"Jessica Transport Svc",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.429249,
+    41.736082,
+    -71.429249,
+    41.736082
+],
+  "geometry": {"coordinates":[-71.429249,41.736082],"type":"Point"}
+}

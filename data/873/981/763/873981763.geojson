@@ -1,0 +1,71 @@
+{
+  "id": 873981763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.691726,41.8231,-71.691726,41.8231",
+    "geom:latitude":41.8231,
+    "geom:longitude":-71.691726,
+    "iso:country":"US",
+    "sg:address":"10 Danielson Pike",
+    "sg:city":"Foster",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 647 7490",
+    "sg:postcode":"02825",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849685,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59d713rgKcG2SMZloXSVvS_41.823100_-71.691726@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310615,
+    "wof:geomhash":"e201e785b7041efdb8d81a02601fb6f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85849685,
+            "region_id":85688509,
+            "venue_id":873981763
+        }
+    ],
+    "wof:id":873981763,
+    "wof:lastmodified":1464310615,
+    "wof:name":"Best Electric Co",
+    "wof:parent_id":85849685,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.691726,
+    41.8231,
+    -71.691726,
+    41.8231
+],
+  "geometry": {"coordinates":[-71.691726,41.8231],"type":"Point"}
+}

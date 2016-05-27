@@ -1,0 +1,69 @@
+{
+  "id": 874256537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.445322,41.486825,-71.445322,41.486825",
+    "geom:latitude":41.486825,
+    "geom:longitude":-71.445322,
+    "iso:country":"US",
+    "sg:address":"30 Lakeview Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 1000",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kVAL15kTObsOAJIqLD68i_41.486825_-71.445322@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313708,
+    "wof:geomhash":"5da7e33ff1f19da37a9d166798c3bf9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874256537
+        }
+    ],
+    "wof:id":874256537,
+    "wof:lastmodified":1464313708,
+    "wof:name":"Baptista & Brown",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -71.445322,
+    41.486825,
+    -71.445322,
+    41.486825
+],
+  "geometry": {"coordinates":[-71.445322,41.486825],"type":"Point"}
+}

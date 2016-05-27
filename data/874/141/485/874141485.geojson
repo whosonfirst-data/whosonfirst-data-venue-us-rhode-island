@@ -1,0 +1,71 @@
+{
+  "id": 874141485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478679,41.654612,-71.478679,41.654612",
+    "geom:latitude":41.654612,
+    "geom:longitude":-71.478679,
+    "iso:country":"US",
+    "sg:address":"121 Old Greenwich Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 885 7022",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hGcnCLxNhBXoTrFsVfGDW_41.654612_-71.478679@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312247,
+    "wof:geomhash":"1954bafc0507d903ef746d35303430b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874141485
+        }
+    ],
+    "wof:id":874141485,
+    "wof:lastmodified":1464312247,
+    "wof:name":"Sylvander Heating & Air Cond",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.478679,
+    41.654612,
+    -71.478679,
+    41.654612
+],
+  "geometry": {"coordinates":[-71.478679,41.654612],"type":"Point"}
+}

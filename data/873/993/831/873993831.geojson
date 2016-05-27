@@ -1,0 +1,75 @@
+{
+  "id": 873993831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.702362,41.956958,-71.702362,41.956958",
+    "geom:latitude":41.956958,
+    "geom:longitude":-71.702362,
+    "iso:country":"US",
+    "sg:address":"36 Bridge Way",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 7661",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6npdMkTDmbhKGzrFfVAxmD_41.956958_-71.702362@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"99079d6b4db4e057534d8970cf9ec6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":873993831
+        }
+    ],
+    "wof:id":873993831,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Northwest Dental Svc",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.702362,
+    41.956958,
+    -71.702362,
+    41.956958
+],
+  "geometry": {"coordinates":[-71.70236199999999,41.956958],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 873995083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407709,41.796322,-71.407709,41.796322",
+    "geom:latitude":41.796322,
+    "geom:longitude":-71.407709,
+    "iso:country":"US",
+    "sg:address":"148 Pavilion Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 3842",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fu5Xnsk172RivmLA2tlNF_41.796322_-71.407709@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310726,
+    "wof:geomhash":"791f64933eb4c002cf4dcaca571769bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":873995083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":873995083
+        }
+    ],
+    "wof:id":873995083,
+    "wof:lastmodified":1464310726,
+    "wof:name":"R & W Community Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -71.407709,
+    41.796322,
+    -71.407709,
+    41.796322
+],
+  "geometry": {"coordinates":[-71.407709,41.796322],"type":"Point"}
+}

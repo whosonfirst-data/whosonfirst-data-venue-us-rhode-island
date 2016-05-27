@@ -1,0 +1,75 @@
+{
+  "id": 874288687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.62368,41.381329,-71.62368,41.381329",
+    "geom:latitude":41.381329,
+    "geom:longitude":-71.62368,
+    "iso:country":"US",
+    "sg:address":"4 Charlestown Beach Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0070",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:website":"thebakeryisopen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g9Mb4WKXRhvo61mvk54Ph_41.381329_-71.623680@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314965,
+    "wof:geomhash":"0c817163f63bd9c6e792e933de8206fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874288687
+        }
+    ],
+    "wof:id":874288687,
+    "wof:lastmodified":1464314965,
+    "wof:name":"The Bakery",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.62368,
+    41.381329,
+    -71.62368,
+    41.381329
+],
+  "geometry": {"coordinates":[-71.62367999999999,41.381329],"type":"Point"}
+}

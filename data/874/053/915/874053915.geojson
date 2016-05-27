@@ -1,0 +1,82 @@
+{
+  "id": 874053915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.49734,41.703074,-71.49734,41.703074",
+    "geom:latitude":41.703074,
+    "geom:longitude":-71.49734,
+    "iso:country":"US",
+    "sg:address":"80 Universal Blvd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 0600",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:website":"www.homedepot.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85803395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jnTs50MouPloztwdVafoP_41.703074_-71.497340@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311277,
+    "wof:geomhash":"bcf4045cbed5065c67e2a12ccb3512f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874053915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85803395,
+            "region_id":85688509,
+            "venue_id":874053915
+        }
+    ],
+    "wof:id":874053915,
+    "wof:lastmodified":1464311277,
+    "wof:name":"Home Depot",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.49734,
+    41.703074,
+    -71.49734,
+    41.703074
+],
+  "geometry": {"coordinates":[-71.49733999999999,41.703074],"type":"Point"}
+}

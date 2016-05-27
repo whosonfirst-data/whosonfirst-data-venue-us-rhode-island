@@ -1,0 +1,72 @@
+{
+  "id": 874304459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501131,41.900904,-71.501131,41.900904",
+    "geom:latitude":41.900904,
+    "geom:longitude":-71.501131,
+    "iso:country":"US",
+    "sg:address":"32 Orchard Meadows Dr",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 7880",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "promoter",
+        "tours-operators"
+    ],
+    "sg:website":"http://www.rdctours.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fvvRUEjLG9oMOnYOx49uj_41.900904_-71.501131@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315545,
+    "wof:geomhash":"3c7667a4c91029068e35b288b30c11b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874304459
+        }
+    ],
+    "wof:id":874304459,
+    "wof:lastmodified":1464315545,
+    "wof:name":"Rdc Tours",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "promoter",
+        "tours-operators"
+    ]
+},
+  "bbox": [
+    -71.501131,
+    41.900904,
+    -71.501131,
+    41.900904
+],
+  "geometry": {"coordinates":[-71.501131,41.900904],"type":"Point"}
+}

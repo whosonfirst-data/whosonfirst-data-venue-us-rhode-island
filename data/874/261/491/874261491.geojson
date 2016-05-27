@@ -1,0 +1,72 @@
+{
+  "id": 874261491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.496828,41.929187,-71.496828,41.929187",
+    "geom:latitude":41.929187,
+    "geom:longitude":-71.496828,
+    "iso:country":"US",
+    "sg:address":"455 George Washington Hwy",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 2100",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "barrels",
+        "drum"
+    ],
+    "sg:website":"www.americancontainernet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GBkHqHhmWEAAaHBS1GkWD_41.929187_-71.496828@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313907,
+    "wof:geomhash":"c0a4044840d2346a79b8befaa743f39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874261491
+        }
+    ],
+    "wof:id":874261491,
+    "wof:lastmodified":1464313907,
+    "wof:name":"American Container Net",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barrels",
+        "drum"
+    ]
+},
+  "bbox": [
+    -71.496828,
+    41.929187,
+    -71.496828,
+    41.929187
+],
+  "geometry": {"coordinates":[-71.49682799999999,41.929187],"type":"Point"}
+}

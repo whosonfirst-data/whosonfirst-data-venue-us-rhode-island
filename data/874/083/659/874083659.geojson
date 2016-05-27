@@ -1,0 +1,75 @@
+{
+  "id": 874083659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.273995,41.679556,-71.273995,41.679556",
+    "geom:latitude":41.679556,
+    "geom:longitude":-71.273995,
+    "iso:country":"US",
+    "sg:address":"700 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 6225",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lawn",
+        "garden",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KoWnBl3pjVLiGCHejeSDx_41.679556_-71.273995@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311596,
+    "wof:geomhash":"681d378e1b083378eee9e4887854379c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874083659
+        }
+    ],
+    "wof:id":874083659,
+    "wof:lastmodified":1464311596,
+    "wof:name":"Da Pontes Landscaping Services",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "garden",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.273995,
+    41.679556,
+    -71.273995,
+    41.679556
+],
+  "geometry": {"coordinates":[-71.273995,41.679556],"type":"Point"}
+}

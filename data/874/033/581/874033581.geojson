@@ -1,0 +1,71 @@
+{
+  "id": 874033581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.292905,41.533559,-71.292905,41.533559",
+    "geom:latitude":41.533559,
+    "geom:longitude":-71.292905,
+    "iso:country":"US",
+    "sg:address":"1341 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 619 1555",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oOl00YP4ZidjMk9O8DdNJ_41.533559_-71.292905@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311081,
+    "wof:geomhash":"2b7d69c2c7f77bfbb97fcf9be64da67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874033581
+        }
+    ],
+    "wof:id":874033581,
+    "wof:lastmodified":1464311081,
+    "wof:name":"Coastal Property Management",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.292905,
+    41.533559,
+    -71.292905,
+    41.533559
+],
+  "geometry": {"coordinates":[-71.292905,41.533559],"type":"Point"}
+}

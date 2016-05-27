@@ -1,0 +1,71 @@
+{
+  "id": 874062433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.600589,41.682802,-71.600589,41.682802",
+    "geom:latitude":41.682802,
+    "geom:longitude":-71.600589,
+    "iso:country":"US",
+    "sg:address":"5 Eagle Dr",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 2113",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "identification",
+        "card"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85850599,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gqy9u8igGeenZlrNkQaQa_41.682802_-71.600589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311357,
+    "wof:geomhash":"460788609a291a35d5894ec9d8a23b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85850599,
+            "region_id":85688509,
+            "venue_id":874062433
+        }
+    ],
+    "wof:id":874062433,
+    "wof:lastmodified":1464311357,
+    "wof:name":"Identifications Services",
+    "wof:parent_id":85850599,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "identification",
+        "card"
+    ]
+},
+  "bbox": [
+    -71.600589,
+    41.682802,
+    -71.600589,
+    41.682802
+],
+  "geometry": {"coordinates":[-71.600589,41.682802],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874005575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45013,41.567995,-71.45013,41.567995",
+    "geom:latitude":41.567995,
+    "geom:longitude":-71.45013,
+    "iso:country":"US",
+    "sg:address":"35 Gregory Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 2150",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hs9S0kxBYTC2YiNW5GsQn_41.567995_-71.450130@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310820,
+    "wof:geomhash":"197da37cef77cf6039b3792bf35ba395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874005575
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874005575
+        }
+    ],
+    "wof:id":874005575,
+    "wof:lastmodified":1464310820,
+    "wof:name":"Manz Automation Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "industrial",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.45013,
+    41.567995,
+    -71.45013,
+    41.567995
+],
+  "geometry": {"coordinates":[-71.45013,41.567995],"type":"Point"}
+}

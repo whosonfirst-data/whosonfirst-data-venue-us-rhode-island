@@ -1,0 +1,69 @@
+{
+  "id": 874243743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272018,41.731447,-71.272018,41.731447",
+    "geom:latitude":41.731447,
+    "geom:longitude":-71.272018,
+    "iso:country":"US",
+    "sg:address":"57 Everett St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 1250",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FzYMXTqEORDBxzbggegxj_41.731447_-71.272018@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313407,
+    "wof:geomhash":"4d8e536f368d732959a8b3b21359783c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874243743
+        }
+    ],
+    "wof:id":874243743,
+    "wof:lastmodified":1464313407,
+    "wof:name":"Cable TV",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -71.272018,
+    41.731447,
+    -71.272018,
+    41.731447
+],
+  "geometry": {"coordinates":[-71.272018,41.731447],"type":"Point"}
+}

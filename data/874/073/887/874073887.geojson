@@ -1,0 +1,71 @@
+{
+  "id": 874073887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.589108,41.499922,-71.589108,41.499922",
+    "geom:latitude":41.499922,
+    "geom:longitude":-71.589108,
+    "iso:country":"US",
+    "sg:address":"381 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2269",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PxxNpmw1qVVOrs6m8JYgG_41.499922_-71.589108@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311492,
+    "wof:geomhash":"98e8bc1b3af6dd8fe9bd321784e3173e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874073887
+        }
+    ],
+    "wof:id":874073887,
+    "wof:lastmodified":1464311492,
+    "wof:name":"Superstructure Building Co",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.589108,
+    41.499922,
+    -71.589108,
+    41.499922
+],
+  "geometry": {"coordinates":[-71.589108,41.499922],"type":"Point"}
+}

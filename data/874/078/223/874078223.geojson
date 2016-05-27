@@ -1,0 +1,69 @@
+{
+  "id": 874078223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.227377,41.64305,-71.227377,41.64305",
+    "geom:latitude":41.64305,
+    "geom:longitude":-71.227377,
+    "iso:country":"US",
+    "sg:address":"127 Foxboro Ave",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 7812",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868749,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29ro4ZbXQdiLDMmb6Ru22b_41.643050_-71.227377@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311530,
+    "wof:geomhash":"ea69afbcd10dc7f43a030407eaf1e7e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868749,
+            "region_id":85688509,
+            "venue_id":874078223
+        }
+    ],
+    "wof:id":874078223,
+    "wof:lastmodified":1464311530,
+    "wof:name":"Maloney and Company",
+    "wof:parent_id":85868749,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.227377,
+    41.64305,
+    -71.227377,
+    41.64305
+],
+  "geometry": {"coordinates":[-71.227377,41.64305],"type":"Point"}
+}

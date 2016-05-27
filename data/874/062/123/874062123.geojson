@@ -1,0 +1,69 @@
+{
+  "id": 874062123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.499129,41.928952,-71.499129,41.928952",
+    "geom:latitude":41.928952,
+    "geom:longitude":-71.499129,
+    "iso:country":"US",
+    "sg:address":"410 Harris Rd",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 0500",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71YInYhWM4K2vvhJjRoC0S_41.928952_-71.499129@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311354,
+    "wof:geomhash":"5d7b850e235a1199c9d693cea8e6d971",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874062123
+        }
+    ],
+    "wof:id":874062123,
+    "wof:lastmodified":1464311354,
+    "wof:name":"Heidelberg Engineering",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -71.499129,
+    41.928952,
+    -71.499129,
+    41.928952
+],
+  "geometry": {"coordinates":[-71.499129,41.928952],"type":"Point"}
+}

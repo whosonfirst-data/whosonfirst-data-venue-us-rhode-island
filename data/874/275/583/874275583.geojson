@@ -1,0 +1,73 @@
+{
+  "id": 874275583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.541843,42.045189,-71.541843,42.045189",
+    "geom:latitude":42.045189,
+    "geom:longitude":-71.541843,
+    "iso:country":"US",
+    "sg:address":"26 Liberty Hil Dr",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "door",
+        "storm",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688645,
+        85633793,
+        85810765,
+        102084655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l4DhgSRnzoUM7vkYqHp87_42.045189_-71.541843@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314430,
+    "wof:geomhash":"27f036571c92c8c559d4ec2c788be2d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084655,
+            "neighbourhood_id":85810765,
+            "region_id":85688645,
+            "venue_id":874275583
+        }
+    ],
+    "wof:id":874275583,
+    "wof:lastmodified":1464314430,
+    "wof:name":"Beaus Window Co",
+    "wof:parent_id":85810765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "door",
+        "storm",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.541843,
+    42.045189,
+    -71.541843,
+    42.045189
+],
+  "geometry": {"coordinates":[-71.541843,42.045189],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 874282583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.486191,41.44017,-71.486191,41.44017",
+    "geom:latitude":41.44017,
+    "geom:longitude":-71.486191,
+    "iso:country":"US",
+    "sg:address":"45 Patton Ave",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8674",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dentist",
+        "dentists-orthodontists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lTQ0m2sXOhS8LLNqCdv0b_41.440015_-71.486129@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314726,
+    "wof:geomhash":"7e247c76c9662fe80c6901eafd45da80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874282583
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874282583
+        }
+    ],
+    "wof:id":874282583,
+    "wof:lastmodified":1464314726,
+    "wof:name":"Paul D Cashion Dmd",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "dentists-orthodontists"
+    ]
+},
+  "bbox": [
+    -71.486191,
+    41.44017,
+    -71.486191,
+    41.44017
+],
+  "geometry": {"coordinates":[-71.48619100000001,41.44017],"type":"Point"}
+}

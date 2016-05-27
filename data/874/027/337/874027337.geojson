@@ -1,0 +1,71 @@
+{
+  "id": 874027337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.567403,41.681038,-71.567403,41.681038",
+    "geom:latitude":41.681038,
+    "geom:longitude":-71.567403,
+    "iso:country":"US",
+    "sg:address":"825 Tiogue Ave",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 826 1090",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FdiAL1g2dBvg5RqPmWJqp_41.681038_-71.567403@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311019,
+    "wof:geomhash":"03720de58f367d6b7cfc4c6bb1139bec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874027337
+        }
+    ],
+    "wof:id":874027337,
+    "wof:lastmodified":1464311019,
+    "wof:name":"Nu-Lux Cleaners & Shirt Svc",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -71.567403,
+    41.681038,
+    -71.567403,
+    41.681038
+],
+  "geometry": {"coordinates":[-71.567403,41.681038],"type":"Point"}
+}

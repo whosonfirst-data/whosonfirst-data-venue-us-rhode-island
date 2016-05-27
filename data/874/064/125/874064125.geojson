@@ -1,0 +1,71 @@
+{
+  "id": 874064125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.560937,41.382747,-71.560937,41.382747",
+    "geom:latitude":41.382747,
+    "geom:longitude":-71.560937,
+    "iso:country":"US",
+    "sg:address":"383 Matunuck Schoolhouse Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 3653",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communications",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39pNGkk8E4Wgs3be4EdI0F_41.382747_-71.560937@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311372,
+    "wof:geomhash":"70502ad0859535cc929533dfafa078ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874064125
+        }
+    ],
+    "wof:id":874064125,
+    "wof:lastmodified":1464311372,
+    "wof:name":"Commport Communications Inc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -71.560937,
+    41.382747,
+    -71.560937,
+    41.382747
+],
+  "geometry": {"coordinates":[-71.560937,41.382747],"type":"Point"}
+}

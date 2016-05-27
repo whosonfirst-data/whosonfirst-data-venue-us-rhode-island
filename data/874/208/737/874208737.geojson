@@ -1,0 +1,71 @@
+{
+  "id": 874208737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494581,41.582059,-71.494581,41.582059",
+    "geom:latitude":41.582059,
+    "geom:longitude":-71.494581,
+    "iso:country":"US",
+    "sg:address":"1051 Ten Rod Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1755",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ipzhd8RPSgHOe78fSQCxp_41.582059_-71.494581@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312936,
+    "wof:geomhash":"88806901123a1d78612c812ed8a3b3bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":874208737
+        }
+    ],
+    "wof:id":874208737,
+    "wof:lastmodified":1464312936,
+    "wof:name":"Quality Dry Cleaners",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -71.494581,
+    41.582059,
+    -71.494581,
+    41.582059
+],
+  "geometry": {"coordinates":[-71.494581,41.582059],"type":"Point"}
+}

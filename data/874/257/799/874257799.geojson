@@ -1,0 +1,69 @@
+{
+  "id": 874257799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.624863,41.387315,-71.624863,41.387315",
+    "geom:latitude":41.387315,
+    "geom:longitude":-71.624863,
+    "iso:country":"US",
+    "sg:address":"4000 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 213 6432",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51kKq7whoOAFAawErcxPBR_41.387315_-71.624863@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313761,
+    "wof:geomhash":"a066621420d972c01aaa04dda9ec7d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874257799
+        }
+    ],
+    "wof:id":874257799,
+    "wof:lastmodified":1464313761,
+    "wof:name":"Catch A Falling Star",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -71.624863,
+    41.387315,
+    -71.624863,
+    41.387315
+],
+  "geometry": {"coordinates":[-71.624863,41.387315],"type":"Point"}
+}

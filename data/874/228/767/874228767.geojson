@@ -1,0 +1,71 @@
+{
+  "id": 874228767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.565175,41.690571,-71.565175,41.690571",
+    "geom:latitude":41.690571,
+    "geom:longitude":-71.565175,
+    "iso:country":"US",
+    "sg:address":"1155 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 823 3749",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854611,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FJSMTn3ryYsvfcTUk7B7T_41.690571_-71.565175@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313148,
+    "wof:geomhash":"042ee2b3bd584f8a415f87bcf1be0678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85854611,
+            "region_id":85688509,
+            "venue_id":874228767
+        }
+    ],
+    "wof:id":874228767,
+    "wof:lastmodified":1464313148,
+    "wof:name":"Atlas Music Corp",
+    "wof:parent_id":85854611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.565175,
+    41.690571,
+    -71.565175,
+    41.690571
+],
+  "geometry": {"coordinates":[-71.565175,41.690571],"type":"Point"}
+}

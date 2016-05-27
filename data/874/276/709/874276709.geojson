@@ -1,0 +1,71 @@
+{
+  "id": 874276709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424965,41.525267,-71.424965,41.525267",
+    "geom:latitude":41.525267,
+    "geom:longitude":-71.424965,
+    "iso:country":"US",
+    "sg:address":"30 Ellery Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9230",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "woodworking",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868743,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q2glWxQXkiabyS8v5l3KW_41.525267_-71.424965@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314486,
+    "wof:geomhash":"7b7307e28cc0864aad7adff75d85d873",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868743,
+            "region_id":85688509,
+            "venue_id":874276709
+        }
+    ],
+    "wof:id":874276709,
+    "wof:lastmodified":1464314486,
+    "wof:name":"Mattesons Workshop",
+    "wof:parent_id":85868743,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "woodworking",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.424965,
+    41.525267,
+    -71.424965,
+    41.525267
+],
+  "geometry": {"coordinates":[-71.424965,41.525267],"type":"Point"}
+}

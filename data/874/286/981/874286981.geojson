@@ -1,0 +1,72 @@
+{
+  "id": 874286981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434823,41.474783,-71.434823,41.474783",
+    "geom:latitude":41.474783,
+    "geom:longitude":-71.434823,
+    "iso:country":"US",
+    "sg:address":"904 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/narragansett/139896-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 701 792 0005",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hACeu5kBwbS9wnoaaUGxa_41.474783_-71.434823@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314889,
+    "wof:geomhash":"63ae7cb872a752bb3dca5a0f521e19ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874286981
+        }
+    ],
+    "wof:id":874286981,
+    "wof:lastmodified":1464314889,
+    "wof:name":"Subway",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.434823,
+    41.474783,
+    -71.434823,
+    41.474783
+],
+  "geometry": {"coordinates":[-71.43482299999999,41.474783],"type":"Point"}
+}

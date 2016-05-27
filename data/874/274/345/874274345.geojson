@@ -1,0 +1,77 @@
+{
+  "id": 874274345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.42398,41.779399,-71.42398,41.779399",
+    "geom:latitude":41.779399,
+    "geom:longitude":-71.42398,
+    "iso:country":"US",
+    "sg:address":"265 Station St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 5080",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880053,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UCzSQGWCJjnka3ymMHFcU_41.779399_-71.423980@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314380,
+    "wof:geomhash":"df8e8ed14177e4078fbc92a158f3ae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880053,
+            "region_id":85688509,
+            "venue_id":874274345
+        }
+    ],
+    "wof:id":874274345,
+    "wof:lastmodified":1464314380,
+    "wof:name":"Dinos Service Center Inc",
+    "wof:parent_id":85880053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.42398,
+    41.779399,
+    -71.42398,
+    41.779399
+],
+  "geometry": {"coordinates":[-71.42398,41.779399],"type":"Point"}
+}

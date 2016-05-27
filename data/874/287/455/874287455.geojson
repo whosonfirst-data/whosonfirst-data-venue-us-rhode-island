@@ -1,0 +1,83 @@
+{
+  "id": 874287455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.3881,41.829466,-71.3881,41.829466",
+    "geom:latitude":41.829466,
+    "geom:longitude":-71.3881,
+    "iso:country":"US",
+    "sg:address":"199 Wayland Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/274863-edge/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 2227",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854865,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hc3JGwR22hfemGX4GwO2F_41.829466_-71.388100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314911,
+    "wof:geomhash":"119cd4f7c58ad7164053b594a8789159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85854865,
+            "region_id":85688509,
+            "venue_id":874287455
+        }
+    ],
+    "wof:id":874287455,
+    "wof:lastmodified":1464314911,
+    "wof:name":"Edge",
+    "wof:parent_id":85854865,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.3881,
+    41.829466,
+    -71.3881,
+    41.829466
+],
+  "geometry": {"coordinates":[-71.38809999999999,41.829466],"type":"Point"}
+}

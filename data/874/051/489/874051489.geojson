@@ -1,0 +1,71 @@
+{
+  "id": 874051489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.34999,41.745916,-71.34999,41.745916",
+    "geom:latitude":41.745916,
+    "geom:longitude":-71.34999,
+    "iso:country":"US",
+    "sg:address":"261 Narragansett Ave",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 246 0048",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804847,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lba1VJP9DOzZLAS84IMTp_41.745916_-71.349990@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311254,
+    "wof:geomhash":"aa01422804e8ec5146c748fd82bce06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804847,
+            "region_id":85688509,
+            "venue_id":874051489
+        }
+    ],
+    "wof:id":874051489,
+    "wof:lastmodified":1464311254,
+    "wof:name":"W J Mikulski Inc",
+    "wof:parent_id":85804847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.34999,
+    41.745916,
+    -71.34999,
+    41.745916
+],
+  "geometry": {"coordinates":[-71.34999000000001,41.745916],"type":"Point"}
+}

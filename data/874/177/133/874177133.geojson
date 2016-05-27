@@ -1,0 +1,70 @@
+{
+  "id": 874177133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404189,41.789255,-71.404189,41.789255",
+    "geom:latitude":41.789255,
+    "geom:longitude":-71.404189,
+    "iso:country":"US",
+    "sg:address":"1400 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 5410",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GASSL1dvDhfmDL9IVs9Iu_41.789255_-71.404189@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312597,
+    "wof:geomhash":"64ae733788ed8fa8e05b4030dde03908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85817503,
+            "region_id":85688509,
+            "venue_id":874177133
+        }
+    ],
+    "wof:id":874177133,
+    "wof:lastmodified":1464312597,
+    "wof:name":"Nina's Hair Salon",
+    "wof:parent_id":85817503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.404189,
+    41.789255,
+    -71.404189,
+    41.789255
+],
+  "geometry": {"coordinates":[-71.404189,41.789255],"type":"Point"}
+}

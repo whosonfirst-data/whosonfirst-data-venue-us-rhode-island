@@ -1,0 +1,71 @@
+{
+  "id": 874158187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501147,41.97031,-71.501147,41.97031",
+    "geom:latitude":41.97031,
+    "geom:longitude":-71.501147,
+    "iso:country":"US",
+    "sg:address":"675 Old Smithfield Rd",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 762 1135",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2A5KJpkFuSE6DpTspClnuC_41.970310_-71.501147@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312410,
+    "wof:geomhash":"bf2d82465c5d17832f7d905166145d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874158187
+        }
+    ],
+    "wof:id":874158187,
+    "wof:lastmodified":1464312410,
+    "wof:name":"North Smithfield Fire Rescue",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.501147,
+    41.97031,
+    -71.501147,
+    41.97031
+],
+  "geometry": {"coordinates":[-71.501147,41.97031],"type":"Point"}
+}

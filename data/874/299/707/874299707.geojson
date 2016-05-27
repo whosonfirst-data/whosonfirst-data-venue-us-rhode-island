@@ -1,0 +1,86 @@
+{
+  "id": 874299707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.40367,41.848236,-71.40367,41.848236",
+    "geom:latitude":41.848236,
+    "geom:longitude":-71.40367,
+    "iso:country":"US",
+    "sg:address":"987 N Main St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 6622",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHA5ItINvabxzLM6Qr1nP_41.848236_-71.403670@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315379,
+    "wof:geomhash":"e8de7049cb13fbf941b2eaa63c7d7cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874299707
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874299707
+        }
+    ],
+    "wof:id":874299707,
+    "wof:lastmodified":1464315379,
+    "wof:name":"Firestone Tire & Service Centers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -71.40367,
+    41.848236,
+    -71.40367,
+    41.848236
+],
+  "geometry": {"coordinates":[-71.40367000000001,41.848236],"type":"Point"}
+}

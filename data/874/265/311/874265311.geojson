@@ -1,0 +1,71 @@
+{
+  "id": 874265311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485492,41.825634,-71.485492,41.825634",
+    "geom:latitude":41.825634,
+    "geom:longitude":-71.485492,
+    "iso:country":"US",
+    "sg:address":"25 Beacon St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 5820",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23Pjc2V6VLs5Y26hw9RWcY_41.825634_-71.485492@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314048,
+    "wof:geomhash":"53c9209bf12b295ee285fa43a1e5e52e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874265311
+        }
+    ],
+    "wof:id":874265311,
+    "wof:lastmodified":1464314048,
+    "wof:name":"All Phase Tile",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.485492,
+    41.825634,
+    -71.485492,
+    41.825634
+],
+  "geometry": {"coordinates":[-71.48549199999999,41.825634],"type":"Point"}
+}

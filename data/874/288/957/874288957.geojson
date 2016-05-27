@@ -1,0 +1,90 @@
+{
+  "id": 874288957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.534663,41.869253,-71.534663,41.869253",
+    "geom:latitude":41.869253,
+    "geom:longitude":-71.534663,
+    "iso:country":"US",
+    "sg:address":"3 Commerce St Unit 3",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 4899",
+    "sg:postcode":"02828",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "machines-service",
+        "vacuum"
+    ],
+    "sg:website":"http://www.sewandvacri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820331,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xSnSlfCUh089YyejBRZbh_41.869253_-71.534663@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314975,
+    "wof:geomhash":"72446dd5d751aebf6d72af7ea3453398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820331,
+            "region_id":85688509,
+            "venue_id":874288957
+        }
+    ],
+    "wof:id":874288957,
+    "wof:lastmodified":1464314975,
+    "wof:name":"Sew & Vac Shack Inc",
+    "wof:parent_id":85820331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners-household-dealers",
+        "sewing",
+        "system",
+        "equipment",
+        "machines-service",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -71.534663,
+    41.869253,
+    -71.534663,
+    41.869253
+],
+  "geometry": {"coordinates":[-71.53466299999999,41.869253],"type":"Point"}
+}

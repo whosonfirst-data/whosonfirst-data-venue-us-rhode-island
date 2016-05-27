@@ -1,0 +1,71 @@
+{
+  "id": 874004681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.48822,41.40607,-71.48822,41.40607",
+    "geom:latitude":41.40607,
+    "geom:longitude":-71.48822,
+    "iso:country":"US",
+    "sg:address":"119 Daytona Ave",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 8085",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shellfish",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BYu1mgW4kOwbrXPG4UvGP_41.406070_-71.488220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310811,
+    "wof:geomhash":"266eb4977b2aae5d7becbe0ec867bee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874004681
+        }
+    ],
+    "wof:id":874004681,
+    "wof:lastmodified":1464310811,
+    "wof:name":"Fishing Vessel Barbara Ann",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shellfish",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -71.48822,
+    41.40607,
+    -71.48822,
+    41.40607
+],
+  "geometry": {"coordinates":[-71.48822,41.40607],"type":"Point"}
+}

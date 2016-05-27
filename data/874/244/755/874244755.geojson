@@ -1,0 +1,89 @@
+{
+  "id": 874244755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483661,41.442005,-71.483661,41.442005",
+    "geom:latitude":41.442005,
+    "geom:longitude":-71.483661,
+    "iso:country":"US",
+    "sg:address":"121 Old Tower Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 9200",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "sg:website":"www.newportfederal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75bLP1fqJHwv760pU63Xhd_41.442005_-71.483661@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313430,
+    "wof:geomhash":"33d88423be1f7101ae595ef4cbbc9748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874244755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874244755
+        }
+    ],
+    "wof:id":874244755,
+    "wof:lastmodified":1464313430,
+    "wof:name":"Newport Federal Savings Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -71.483661,
+    41.442005,
+    -71.483661,
+    41.442005
+],
+  "geometry": {"coordinates":[-71.483661,41.442005],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874256101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.260119,41.678185,-71.260119,41.678185",
+    "geom:latitude":41.678185,
+    "geom:longitude":-71.260119,
+    "iso:country":"US",
+    "sg:address":"369 Metacom Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 7809",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ynXmrqoujAh6sshmEW9RC_41.678185_-71.260119@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313699,
+    "wof:geomhash":"d7af748bd35ff312085a63602c6251c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874256101
+        }
+    ],
+    "wof:id":874256101,
+    "wof:lastmodified":1464313699,
+    "wof:name":"Fryzel & Son Builders",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.260119,
+    41.678185,
+    -71.260119,
+    41.678185
+],
+  "geometry": {"coordinates":[-71.260119,41.678185],"type":"Point"}
+}

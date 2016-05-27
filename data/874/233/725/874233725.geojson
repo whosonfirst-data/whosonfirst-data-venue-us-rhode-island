@@ -1,0 +1,82 @@
+{
+  "id": 874233725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524625,41.40207,-71.524625,41.40207",
+    "geom:latitude":41.40207,
+    "geom:longitude":-71.524625,
+    "iso:country":"US",
+    "sg:address":"33 Schooner Dr",
+    "sg:city":"South Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2226",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "metalwork",
+        "sheet",
+        "form",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c1NVB4Lul46PeWQqtuvue_41.402070_-71.524625@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313214,
+    "wof:geomhash":"86e3e9341a8d7f75856fb715e75bb378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874233725
+        }
+    ],
+    "wof:id":874233725,
+    "wof:lastmodified":1464313214,
+    "wof:name":"Coastal Concrete Form Co",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "metalwork",
+        "sheet",
+        "form",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.524625,
+    41.40207,
+    -71.524625,
+    41.40207
+],
+  "geometry": {"coordinates":[-71.524625,41.40207],"type":"Point"}
+}

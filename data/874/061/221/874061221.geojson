@@ -1,0 +1,70 @@
+{
+  "id": 874061221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461067,41.867011,-71.461067,41.867011",
+    "geom:latitude":41.867011,
+    "geom:longitude":-71.461067,
+    "iso:country":"US",
+    "sg:address":"7 Marigold Cir",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 1881",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.newenglandambulance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aT5C7nKkg83c74uL89kkA_41.867011_-71.461067@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311346,
+    "wof:geomhash":"f9a11cf55199051a01c9f9bc86395dd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874061221
+        }
+    ],
+    "wof:id":874061221,
+    "wof:lastmodified":1464311346,
+    "wof:name":"New England Ambulance Svc",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -71.461067,
+    41.867011,
+    -71.461067,
+    41.867011
+],
+  "geometry": {"coordinates":[-71.461067,41.867011],"type":"Point"}
+}

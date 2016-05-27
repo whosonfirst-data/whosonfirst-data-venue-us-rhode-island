@@ -1,0 +1,79 @@
+{
+  "id": 874287625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458082,41.800237,-71.458082,41.800237",
+    "geom:latitude":41.800237,
+    "geom:longitude":-71.458082,
+    "iso:country":"US",
+    "sg:address":"492 Dyer Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/224889-dels-frozen-lemonade/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iEKdGq63j8hVWwl6Q1k8K_41.800237_-71.458082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"ed801c65090f1033139d46a1013c9fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874287625
+        }
+    ],
+    "wof:id":874287625,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Del's Frozen Lemonade",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.458082,
+    41.800237,
+    -71.458082,
+    41.800237
+],
+  "geometry": {"coordinates":[-71.458082,41.800237],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874292023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414703,41.925301,-71.414703,41.925301",
+    "geom:latitude":41.925301,
+    "geom:longitude":-71.414703,
+    "iso:country":"US",
+    "sg:address":"573 Mendon Rd Ste 3",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 334 2786",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "management",
+        "property"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10QA1gjJQYv2dH6MpfFjGU_41.925301_-71.414703@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315090,
+    "wof:geomhash":"1f72a7cfe69d55522982185c1d6ae4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874292023
+        }
+    ],
+    "wof:id":874292023,
+    "wof:lastmodified":1464315090,
+    "wof:name":"Cumberland Leased Housing",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "property"
+    ]
+},
+  "bbox": [
+    -71.414703,
+    41.925301,
+    -71.414703,
+    41.925301
+],
+  "geometry": {"coordinates":[-71.414703,41.925301],"type":"Point"}
+}

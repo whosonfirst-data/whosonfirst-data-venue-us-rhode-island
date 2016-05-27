@@ -1,0 +1,73 @@
+{
+  "id": 874283227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.4617,41.8503,-71.4617,41.8503",
+    "geom:latitude":41.8503,
+    "geom:longitude":-71.4617,
+    "iso:country":"US",
+    "sg:address":"1526 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 9776",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaner",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u5dzVVPoX4psQegNdGJ4W_41.850120_-71.461778@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314747,
+    "wof:geomhash":"b9c59c41bc4dd93650f8439c35e915d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874283227
+        }
+    ],
+    "wof:id":874283227,
+    "wof:lastmodified":1464314747,
+    "wof:name":"Luxury Cleaners",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -71.4617,
+    41.8503,
+    -71.4617,
+    41.8503
+],
+  "geometry": {"coordinates":[-71.46169999999999,41.8503],"type":"Point"}
+}

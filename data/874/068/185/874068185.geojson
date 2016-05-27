@@ -1,0 +1,69 @@
+{
+  "id": 874068185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.278305,41.675269,-71.278305,41.675269",
+    "geom:latitude":41.675269,
+    "geom:longitude":-71.278305,
+    "iso:country":"US",
+    "sg:address":"1 Oliver St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1660",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OPxwjJFTmzcoqz9FeFBCN_41.675269_-71.278305@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311415,
+    "wof:geomhash":"d22e59b6132b70bbac45361b705bcbab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874068185
+        }
+    ],
+    "wof:id":874068185,
+    "wof:lastmodified":1464311415,
+    "wof:name":"Oliver Street Bakery",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -71.278305,
+    41.675269,
+    -71.278305,
+    41.675269
+],
+  "geometry": {"coordinates":[-71.278305,41.675269],"type":"Point"}
+}

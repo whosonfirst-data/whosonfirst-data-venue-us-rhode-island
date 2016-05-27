@@ -1,0 +1,71 @@
+{
+  "id": 874287353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514993,41.982771,-71.514993,41.982771",
+    "geom:latitude":41.982771,
+    "geom:longitude":-71.514993,
+    "iso:country":"US",
+    "sg:address":"12 Eddie Dowling Hwy",
+    "sg:city":"North Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/north-smithfield/201238-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02896",
+    "sg:province":"RI",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jTQ2mluog4KXBTKL8m9i0_41.982771_-71.514993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314902,
+    "wof:geomhash":"15c3032a7a6f0c648132c34aadf3be39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874287353
+        }
+    ],
+    "wof:id":874287353,
+    "wof:lastmodified":1464314902,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -71.514993,
+    41.982771,
+    -71.514993,
+    41.982771
+],
+  "geometry": {"coordinates":[-71.514993,41.982771],"type":"Point"}
+}

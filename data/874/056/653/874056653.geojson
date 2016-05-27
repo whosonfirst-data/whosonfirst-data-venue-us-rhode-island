@@ -1,0 +1,69 @@
+{
+  "id": 874056653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433283,41.465595,-71.433283,41.465595",
+    "geom:latitude":41.465595,
+    "geom:longitude":-71.433283,
+    "iso:country":"US",
+    "sg:address":"720 Boston Neck Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 2040",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807435,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49U3QPVV3yIiAvvS4ZivLC_41.465595_-71.433283@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311306,
+    "wof:geomhash":"1d039c23b65535469bced7c578e7bbad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874056653
+        }
+    ],
+    "wof:id":874056653,
+    "wof:lastmodified":1464311306,
+    "wof:name":"Douglas E Couchon",
+    "wof:parent_id":85807435,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.433283,
+    41.465595,
+    -71.433283,
+    41.465595
+],
+  "geometry": {"coordinates":[-71.433283,41.465595],"type":"Point"}
+}

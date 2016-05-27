@@ -1,0 +1,71 @@
+{
+  "id": 873990849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51241,41.553272,-71.51241,41.553272",
+    "geom:latitude":41.553272,
+    "geom:longitude":-71.51241,
+    "iso:country":"US",
+    "sg:address":"250 Dry Bridge Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 1130",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868765,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wTr1tZ2FAe8mUWm8MtHuX_41.553272_-71.512410@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310695,
+    "wof:geomhash":"9863363b2ad01de0c4de143e20abd541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85868765,
+            "region_id":85688509,
+            "venue_id":873990849
+        }
+    ],
+    "wof:id":873990849,
+    "wof:lastmodified":1464310695,
+    "wof:name":"South County Sanitation Inc",
+    "wof:parent_id":85868765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.51241,
+    41.553272,
+    -71.51241,
+    41.553272
+],
+  "geometry": {"coordinates":[-71.51241,41.553272],"type":"Point"}
+}

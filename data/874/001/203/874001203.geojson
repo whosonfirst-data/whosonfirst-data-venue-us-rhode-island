@@ -1,0 +1,75 @@
+{
+  "id": 874001203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.53071,41.910522,-71.53071,41.910522",
+    "geom:latitude":41.910522,
+    "geom:longitude":-71.53071,
+    "iso:country":"US",
+    "sg:address":"10 Appian Way",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 1470",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "street",
+        "general",
+        "highway",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kbJvvojq13gDEmbrVAVwI_41.910522_-71.530710@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310769,
+    "wof:geomhash":"f34bd74c451e9b45d902407d49805dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874001203
+        }
+    ],
+    "wof:id":874001203,
+    "wof:lastmodified":1464310769,
+    "wof:name":"Barlite Construction Inc",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "street",
+        "general",
+        "highway",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.53071,
+    41.910522,
+    -71.53071,
+    41.910522
+],
+  "geometry": {"coordinates":[-71.53071,41.910522],"type":"Point"}
+}

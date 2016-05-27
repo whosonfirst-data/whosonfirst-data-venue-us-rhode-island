@@ -1,0 +1,88 @@
+{
+  "id": 874288843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.646563,41.903572,-71.646563,41.903572",
+    "geom:latitude":41.903572,
+    "geom:longitude":-71.646563,
+    "iso:country":"US",
+    "sg:address":"16 Terry Ln",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 4209",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "etc-retail",
+        "coal",
+        "stoves-wood",
+        "pellet",
+        "stoves-heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540539,
+        102191575,
+        404488365,
+        85633793,
+        101720589,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xcry0WH2SMSzRejOwn3fm_41.903572_-71.646563@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314971,
+    "wof:geomhash":"8b30256a5b7d2886673fdafc637b6eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488365,
+            "locality_id":101720589,
+            "neighbourhood_id":420540539,
+            "region_id":85688509,
+            "venue_id":874288843
+        }
+    ],
+    "wof:id":874288843,
+    "wof:lastmodified":1464314971,
+    "wof:name":"Yankee Stove Shop",
+    "wof:parent_id":420540539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "etc-retail",
+        "coal",
+        "stoves-wood",
+        "pellet",
+        "stoves-heating"
+    ]
+},
+  "bbox": [
+    -71.646563,
+    41.903572,
+    -71.646563,
+    41.903572
+],
+  "geometry": {"coordinates":[-71.646563,41.903572],"type":"Point"}
+}

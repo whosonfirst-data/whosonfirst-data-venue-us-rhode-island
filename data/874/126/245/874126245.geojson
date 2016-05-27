@@ -1,0 +1,88 @@
+{
+  "id": 874126245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.438523,41.791931,-71.438523,41.791931",
+    "geom:latitude":41.791931,
+    "geom:longitude":-71.438523,
+    "iso:country":"US",
+    "sg:address":"26 Russe St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 781 9060",
+    "sg:postcode":"02910",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420558667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jBK27BXvS0NQvDbdJLc96_41.791931_-71.438523@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312096,
+    "wof:geomhash":"d13536f0c6a6464747b6ac2e741eb665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874126245
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420558667,
+            "region_id":85688509,
+            "venue_id":874126245
+        }
+    ],
+    "wof:id":874126245,
+    "wof:lastmodified":1464312096,
+    "wof:name":"Fernco Pump Svc Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.438523,
+    41.791931,
+    -71.438523,
+    41.791931
+],
+  "geometry": {"coordinates":[-71.438523,41.791931],"type":"Point"}
+}

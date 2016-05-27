@@ -1,0 +1,71 @@
+{
+  "id": 874062611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.263197,41.674245,-71.263197,41.674245",
+    "geom:latitude":41.674245,
+    "geom:longitude":-71.263197,
+    "iso:country":"US",
+    "sg:address":"37 Wall St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3171",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XGfpdC7BWEiLDS10SrCA0_41.674245_-71.263197@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311359,
+    "wof:geomhash":"3a7644d372b0bfcfc3756e398960006d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874062611
+        }
+    ],
+    "wof:id":874062611,
+    "wof:lastmodified":1464311359,
+    "wof:name":"Mt Hope Builders Inc",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.263197,
+    41.674245,
+    -71.263197,
+    41.674245
+],
+  "geometry": {"coordinates":[-71.26319700000001,41.674245],"type":"Point"}
+}

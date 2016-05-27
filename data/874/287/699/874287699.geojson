@@ -1,0 +1,83 @@
+{
+  "id": 874287699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450001,41.659679,-71.450001,41.659679",
+    "geom:latitude":41.659679,
+    "geom:longitude":-71.450001,
+    "iso:country":"US",
+    "sg:address":"315 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/58788-audras-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 4441",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ht9yr9v35G89TwAAQFzf6_41.659777_-71.450058@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314919,
+    "wof:geomhash":"bb1833d206cc4c572506e9b83708f0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874287699
+        }
+    ],
+    "wof:id":874287699,
+    "wof:lastmodified":1464314919,
+    "wof:name":"Audra's Cafe",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -71.450001,
+    41.659679,
+    -71.450001,
+    41.659679
+],
+  "geometry": {"coordinates":[-71.450001,41.659679],"type":"Point"}
+}

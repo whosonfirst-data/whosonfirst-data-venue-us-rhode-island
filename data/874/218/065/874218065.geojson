@@ -1,0 +1,77 @@
+{
+  "id": 874218065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459955,41.578439,-71.459955,41.578439",
+    "geom:latitude":41.578439,
+    "geom:longitude":-71.459955,
+    "iso:country":"US",
+    "sg:address":"8150 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 3346",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zVOuFOfvofLcK08WmvHSb_41.578439_-71.459955@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313032,
+    "wof:geomhash":"8e5cf76863e8c24d3575b693002bd486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874218065
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874218065
+        }
+    ],
+    "wof:id":874218065,
+    "wof:lastmodified":1464313032,
+    "wof:name":"North Kingstown Fire Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.459955,
+    41.578439,
+    -71.459955,
+    41.578439
+],
+  "geometry": {"coordinates":[-71.45995499999999,41.578439],"type":"Point"}
+}

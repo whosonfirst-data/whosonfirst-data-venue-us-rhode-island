@@ -1,0 +1,69 @@
+{
+  "id": 874282969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.461725,41.819169,-71.461725,41.819169",
+    "geom:latitude":41.819169,
+    "geom:longitude":-71.461725,
+    "iso:country":"US",
+    "sg:address":"531 Hartford Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 714 0080",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bZAXtIziVdVB1V22oM4Tm_41.818905_-71.461029@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314739,
+    "wof:geomhash":"7c00b5d3e90b9c8e578b6154005cbc5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874282969
+        }
+    ],
+    "wof:id":874282969,
+    "wof:lastmodified":1464314739,
+    "wof:name":"La Vega Market",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.461725,
+    41.819169,
+    -71.461725,
+    41.819169
+],
+  "geometry": {"coordinates":[-71.461725,41.819169],"type":"Point"}
+}

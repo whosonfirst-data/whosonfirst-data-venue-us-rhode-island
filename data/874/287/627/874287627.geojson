@@ -1,0 +1,78 @@
+{
+  "id": 874287627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.446185,41.800853,-71.446185,41.800853",
+    "geom:latitude":41.800853,
+    "geom:longitude":-71.446185,
+    "iso:country":"US",
+    "sg:address":"962 Cranston St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/139897-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 0700",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T3iCBgpV3vH65g4mfSwhg_41.800853_-71.446185@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314917,
+    "wof:geomhash":"5ea13068d65e4cb16c7208f059d9ccb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874287627
+        }
+    ],
+    "wof:id":874287627,
+    "wof:lastmodified":1464314917,
+    "wof:name":"Subway",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.446185,
+    41.800853,
+    -71.446185,
+    41.800853
+],
+  "geometry": {"coordinates":[-71.446185,41.800853],"type":"Point"}
+}

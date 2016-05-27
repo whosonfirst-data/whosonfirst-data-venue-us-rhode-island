@@ -1,0 +1,71 @@
+{
+  "id": 874039967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.267688,41.675723,-71.267688,41.675723",
+    "geom:latitude":41.675723,
+    "geom:longitude":-71.267688,
+    "iso:country":"US",
+    "sg:address":"271 Franklin St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 3447",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yl0u3svMdqGZxWUPXlOq7_41.675723_-71.267688@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311143,
+    "wof:geomhash":"adb7812591224bc72b3c5793c0496225",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874039967
+        }
+    ],
+    "wof:id":874039967,
+    "wof:lastmodified":1464311143,
+    "wof:name":"A Better Place To Store",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -71.267688,
+    41.675723,
+    -71.267688,
+    41.675723
+],
+  "geometry": {"coordinates":[-71.26768800000001,41.675723],"type":"Point"}
+}

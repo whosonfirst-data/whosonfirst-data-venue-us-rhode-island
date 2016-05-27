@@ -1,0 +1,69 @@
+{
+  "id": 874232935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51551,41.985645,-71.51551,41.985645",
+    "geom:latitude":41.985645,
+    "geom:longitude":-71.51551,
+    "iso:country":"US",
+    "sg:address":"40 Hemond Ave",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 769 7718",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RXfcZYkD9MB6DtCU1Akwk_41.985645_-71.515510@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313198,
+    "wof:geomhash":"9b554c29557a0974cc17ced331932aeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874232935
+        }
+    ],
+    "wof:id":874232935,
+    "wof:lastmodified":1464313198,
+    "wof:name":"Alices Beauty Salon",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.51551,
+    41.985645,
+    -71.51551,
+    41.985645
+],
+  "geometry": {"coordinates":[-71.51551000000001,41.985645],"type":"Point"}
+}

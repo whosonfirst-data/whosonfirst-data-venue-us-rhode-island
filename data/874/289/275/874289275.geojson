@@ -1,0 +1,78 @@
+{
+  "id": 874289275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.729404,41.995739,-71.729404,41.995739",
+    "geom:latitude":41.995739,
+    "geom:longitude":-71.729404,
+    "iso:country":"US",
+    "sg:address":"95 Donahue Rd",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Industrial Area",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 8171",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85846229,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65TmwTLEQ7suBn04HZHwzE_41.995739_-71.729404@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314987,
+    "wof:geomhash":"bf11b994763e72f771d3aaea0271762a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85846229,
+            "region_id":85688509,
+            "venue_id":874289275
+        }
+    ],
+    "wof:id":874289275,
+    "wof:lastmodified":1464314987,
+    "wof:name":"Alliance Mold Machine Inc",
+    "wof:parent_id":85846229,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-repairing",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -71.729404,
+    41.995739,
+    -71.729404,
+    41.995739
+],
+  "geometry": {"coordinates":[-71.729404,41.995739],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 874299925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.407181,41.810799,-71.407181,41.810799",
+    "geom:latitude":41.810799,
+    "geom:longitude":-71.407181,
+    "iso:country":"US",
+    "sg:address":"2 Dudley St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 444 3032",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "neurology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49kycU0FcevpP7sDyHtdiu_41.810799_-71.407181@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315386,
+    "wof:geomhash":"d0d197b3ff6315079e76ea640a232bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874299925
+        }
+    ],
+    "wof:id":874299925,
+    "wof:lastmodified":1464315386,
+    "wof:name":"George M Sachs Md",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "neurology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -71.407181,
+    41.810799,
+    -71.407181,
+    41.810799
+],
+  "geometry": {"coordinates":[-71.40718099999999,41.810799],"type":"Point"}
+}

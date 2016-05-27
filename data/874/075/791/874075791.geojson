@@ -1,0 +1,71 @@
+{
+  "id": 874075791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449033,41.857941,-71.449033,41.857941",
+    "geom:latitude":41.857941,
+    "geom:longitude":-71.449033,
+    "iso:country":"US",
+    "sg:address":"87 Prospect St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 621 0346",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MhVWDR7hnLi5MHsDNbpye_41.857941_-71.449033@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311509,
+    "wof:geomhash":"72a2784839aff66ad98d979084f0b16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874075791
+        }
+    ],
+    "wof:id":874075791,
+    "wof:lastmodified":1464311509,
+    "wof:name":"Pembroke College",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -71.449033,
+    41.857941,
+    -71.449033,
+    41.857941
+],
+  "geometry": {"coordinates":[-71.449033,41.857941],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874258845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478532,41.65498,-71.478532,41.65498",
+    "geom:latitude":41.65498,
+    "geom:longitude":-71.478532,
+    "iso:country":"US",
+    "sg:address":"676 Old Greenwich Dr",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 9558",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85836945,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oT6oNQbZE4fx5cQehRROR_41.654980_-71.478532@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313819,
+    "wof:geomhash":"0e4549933a676cfb61ada27c7b834968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85836945,
+            "region_id":85688509,
+            "venue_id":874258845
+        }
+    ],
+    "wof:id":874258845,
+    "wof:lastmodified":1464313819,
+    "wof:name":"Olson Richard E",
+    "wof:parent_id":85836945,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.478532,
+    41.65498,
+    -71.478532,
+    41.65498
+],
+  "geometry": {"coordinates":[-71.478532,41.65498],"type":"Point"}
+}

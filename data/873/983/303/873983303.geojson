@@ -1,0 +1,71 @@
+{
+  "id": 873983303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447315,41.894271,-71.447315,41.894271",
+    "geom:latitude":41.894271,
+    "geom:longitude":-71.447315,
+    "iso:country":"US",
+    "sg:address":"1674 Louisquisset Pike",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 727 0107",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_754Vc1BKnhs9637HsJfhf1_41.894271_-71.447315@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310636,
+    "wof:geomhash":"a6d8057e5577e2d8d2e498ef01ff679e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":873983303
+        }
+    ],
+    "wof:id":873983303,
+    "wof:lastmodified":1464310636,
+    "wof:name":"Perry Excavating Corp",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.447315,
+    41.894271,
+    -71.447315,
+    41.894271
+],
+  "geometry": {"coordinates":[-71.447315,41.894271],"type":"Point"}
+}

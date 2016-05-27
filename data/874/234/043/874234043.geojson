@@ -1,0 +1,72 @@
+{
+  "id": 874234043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452246,41.571199,-71.452246,41.571199",
+    "geom:latitude":41.571199,
+    "geom:longitude":-71.452246,
+    "iso:country":"US",
+    "sg:address":"83 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 6429",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jupv4Au1StKEljkjxaZPg_41.571199_-71.452246@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313222,
+    "wof:geomhash":"868f79c257dc1cf0e870013e5ad03da6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874234043
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874234043
+        }
+    ],
+    "wof:id":874234043,
+    "wof:lastmodified":1464313222,
+    "wof:name":"Elementz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.452246,
+    41.571199,
+    -71.452246,
+    41.571199
+],
+  "geometry": {"coordinates":[-71.452246,41.571199],"type":"Point"}
+}

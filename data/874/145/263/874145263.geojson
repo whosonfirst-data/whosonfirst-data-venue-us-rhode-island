@@ -1,0 +1,93 @@
+{
+  "id": 874145263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409882,41.803387,-71.409882,41.803387",
+    "geom:latitude":41.803387,
+    "geom:longitude":-71.409882,
+    "iso:country":"US",
+    "sg:address":"1 Louisa St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 444 0766",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "youth",
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QGVeODcEbe75sRV6UrVlZ_41.803387_-71.409882@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"22c50704f29f6242d9e3a9745663206f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874145263
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874145263
+        }
+    ],
+    "wof:id":874145263,
+    "wof:lastmodified":1464312282,
+    "wof:name":"South Side Boys & Girls Club",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "youth",
+        "club"
+    ]
+},
+  "bbox": [
+    -71.409882,
+    41.803387,
+    -71.409882,
+    41.803387
+],
+  "geometry": {"coordinates":[-71.409882,41.803387],"type":"Point"}
+}

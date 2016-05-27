@@ -1,0 +1,79 @@
+{
+  "id": 874203153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.68114,41.936677,-71.68114,41.936677",
+    "geom:latitude":41.936677,
+    "geom:longitude":-71.68114,
+    "iso:country":"US",
+    "sg:address":"999 S Main St",
+    "sg:city":"Pascoag",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 3091",
+    "sg:postcode":"02859",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868747,
+        102191575,
+        404488325,
+        85633793,
+        101720593,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LCD0Dduiu16qr5VHI2amq_41.936677_-71.681140@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312876,
+    "wof:geomhash":"beb767f9dca1421fb5c5d2f73afd9491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488325,
+            "locality_id":101720593,
+            "neighbourhood_id":85868747,
+            "region_id":85688509,
+            "venue_id":874203153
+        }
+    ],
+    "wof:id":874203153,
+    "wof:lastmodified":1464312876,
+    "wof:name":"Pine Grove Health Center",
+    "wof:parent_id":85868747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -71.68114,
+    41.936677,
+    -71.68114,
+    41.936677
+],
+  "geometry": {"coordinates":[-71.68114,41.936677],"type":"Point"}
+}

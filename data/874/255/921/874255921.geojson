@@ -1,0 +1,75 @@
+{
+  "id": 874255921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.312191,41.489428,-71.312191,41.489428",
+    "geom:latitude":41.489428,
+    "geom:longitude":-71.312191,
+    "iso:country":"US",
+    "sg:address":"48 Touro St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 5100",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rMLrsFL68tJT4u1ufSopw_41.489428_-71.312191@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313694,
+    "wof:geomhash":"771e6b59cfc0365b3799e3c6bc6c2d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874255921
+        }
+    ],
+    "wof:id":874255921,
+    "wof:lastmodified":1464313694,
+    "wof:name":"Coffey's Texaco",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -71.312191,
+    41.489428,
+    -71.312191,
+    41.489428
+],
+  "geometry": {"coordinates":[-71.312191,41.489428],"type":"Point"}
+}

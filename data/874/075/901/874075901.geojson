@@ -1,0 +1,71 @@
+{
+  "id": 874075901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.410979,41.885228,-71.410979,41.885228",
+    "geom:latitude":41.885228,
+    "geom:longitude":-71.410979,
+    "iso:country":"US",
+    "sg:address":"100 Higginson Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 0469",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "packaging",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29zKPpmqLI4bD7bqfLv27F_41.885228_-71.410979@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311510,
+    "wof:geomhash":"b54c866a89a36adfcccb2abe047e85d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874075901
+        }
+    ],
+    "wof:id":874075901,
+    "wof:lastmodified":1464311510,
+    "wof:name":"Huhtamaki Corp",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "container"
+    ]
+},
+  "bbox": [
+    -71.410979,
+    41.885228,
+    -71.410979,
+    41.885228
+],
+  "geometry": {"coordinates":[-71.410979,41.885228],"type":"Point"}
+}

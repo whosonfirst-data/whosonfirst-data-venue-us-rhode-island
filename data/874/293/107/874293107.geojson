@@ -1,0 +1,90 @@
+{
+  "id": 874293107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.481375,41.422281,-71.481375,41.422281",
+    "geom:latitude":41.422281,
+    "geom:longitude":-71.481375,
+    "iso:country":"US",
+    "sg:address":"210 Point Judith Rd Ste 2",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 5250",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85836307,
+        404488335,
+        101720621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RI4iNjWlas6myNd9JQ4UG_41.422281_-71.481375@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315127,
+    "wof:geomhash":"4340d0f381f51c60c4c74ffc6cd959d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874293107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874293107
+        }
+    ],
+    "wof:id":874293107,
+    "wof:lastmodified":1464315127,
+    "wof:name":"South Bay Veterinary Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.481375,
+    41.422281,
+    -71.481375,
+    41.422281
+],
+  "geometry": {"coordinates":[-71.481375,41.422281],"type":"Point"}
+}

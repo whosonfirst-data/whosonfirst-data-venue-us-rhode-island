@@ -1,0 +1,73 @@
+{
+  "id": 874275403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.679293,41.966463,-71.679293,41.966463",
+    "geom:latitude":41.966463,
+    "geom:longitude":-71.679293,
+    "iso:country":"US",
+    "sg:address":"438 Chapel St",
+    "sg:city":"Harrisville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 568 8271",
+    "sg:postcode":"02830",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720595,
+        102081597,
+        85822541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xSym5S88LME1auVwMV9ZZ_41.966463_-71.679293@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314418,
+    "wof:geomhash":"4aefecc88ec23d8b99c3398baaa91bbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720595,
+            "neighbourhood_id":85822541,
+            "region_id":85688509,
+            "venue_id":874275403
+        }
+    ],
+    "wof:id":874275403,
+    "wof:lastmodified":1464314418,
+    "wof:name":"Pat's Service Station",
+    "wof:parent_id":85822541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.679293,
+    41.966463,
+    -71.679293,
+    41.966463
+],
+  "geometry": {"coordinates":[-71.679293,41.966463],"type":"Point"}
+}

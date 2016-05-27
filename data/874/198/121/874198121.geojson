@@ -1,0 +1,69 @@
+{
+  "id": 874198121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.367172,41.565007,-71.367172,41.565007",
+    "geom:latitude":41.565007,
+    "geom:longitude":-71.367172,
+    "iso:country":"US",
+    "sg:address":"37 Park St",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 0642",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EkWC3llHW1ftzlKZBwxfE_41.565007_-71.367172@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312827,
+    "wof:geomhash":"45d99e4568b360c834ae0f7383133ab9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874198121
+        }
+    ],
+    "wof:id":874198121,
+    "wof:lastmodified":1464312827,
+    "wof:name":"Acupuncture & Herbal Cent",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plan"
+    ]
+},
+  "bbox": [
+    -71.367172,
+    41.565007,
+    -71.367172,
+    41.565007
+],
+  "geometry": {"coordinates":[-71.367172,41.565007],"type":"Point"}
+}

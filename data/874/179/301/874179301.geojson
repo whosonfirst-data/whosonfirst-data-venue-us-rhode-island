@@ -1,0 +1,92 @@
+{
+  "id": 874179301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.283112,41.517334,-71.283112,41.517334",
+    "geom:latitude":41.517334,
+    "geom:longitude":-71.283112,
+    "iso:country":"US",
+    "sg:address":"1079 Aquidneck Ave",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Seafood",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 1544",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cheese",
+        "product",
+        "food",
+        "fish",
+        "specialty",
+        "including",
+        "smoked"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VNK4i7wZvxvJZp7L3n7XI_41.517334_-71.283112@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312623,
+    "wof:geomhash":"5d57e51a5f0e8ee889904d452fe484ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874179301
+        }
+    ],
+    "wof:id":874179301,
+    "wof:lastmodified":1464312623,
+    "wof:name":"Newport Specialty Foods Inc",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "product",
+        "food",
+        "fish",
+        "specialty",
+        "including",
+        "smoked"
+    ]
+},
+  "bbox": [
+    -71.283112,
+    41.517334,
+    -71.283112,
+    41.517334
+],
+  "geometry": {"coordinates":[-71.283112,41.517334],"type":"Point"}
+}

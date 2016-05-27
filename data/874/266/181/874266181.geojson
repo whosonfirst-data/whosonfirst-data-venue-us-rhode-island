@@ -1,0 +1,71 @@
+{
+  "id": 874266181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475089,41.834338,-71.475089,41.834338",
+    "geom:latitude":41.834338,
+    "geom:longitude":-71.475089,
+    "iso:country":"US",
+    "sg:address":"24 Vermont St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 5427",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uVIRSoDEMwwpa6iK1gPdr_41.834338_-71.475089@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314078,
+    "wof:geomhash":"3baa3d797cc0d72ef260d63f11257675",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874266181
+        }
+    ],
+    "wof:id":874266181,
+    "wof:lastmodified":1464314078,
+    "wof:name":"Vermont Home Improvement Inc",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.475089,
+    41.834338,
+    -71.475089,
+    41.834338
+],
+  "geometry": {"coordinates":[-71.475089,41.834338],"type":"Point"}
+}

@@ -1,0 +1,95 @@
+{
+  "id": 874301241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.389749,41.822883,-71.389749,41.822883",
+    "geom:latitude":41.822883,
+    "geom:longitude":-71.389749,
+    "iso:country":"US",
+    "sg:address":"133 Gano St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 831 9515",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"www.dunkindonuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GSbLCpPB2BwAd4ZE57Fhk_41.822883_-71.389749@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315439,
+    "wof:geomhash":"a9e31b30402f0fc25f9cb385e033d541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874301241
+        }
+    ],
+    "wof:id":874301241,
+    "wof:lastmodified":1464315439,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.389749,
+    41.822883,
+    -71.389749,
+    41.822883
+],
+  "geometry": {"coordinates":[-71.38974899999999,41.822883],"type":"Point"}
+}

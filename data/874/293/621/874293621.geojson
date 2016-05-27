@@ -1,0 +1,78 @@
+{
+  "id": 874293621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.51908,41.992534,-71.51908,41.992534",
+    "geom:latitude":41.992534,
+    "geom:longitude":-71.51908,
+    "iso:country":"US",
+    "sg:address":"130 Broad St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 597 0445",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "loan",
+        "processing",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02w49j5EdO6jhB3dGrqNCq_41.992534_-71.519080@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315144,
+    "wof:geomhash":"7691ccb049c1123f37f08c00c0761d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874293621
+        }
+    ],
+    "wof:id":874293621,
+    "wof:lastmodified":1464315144,
+    "wof:name":"1st Choice Processing",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -71.51908,
+    41.992534,
+    -71.51908,
+    41.992534
+],
+  "geometry": {"coordinates":[-71.51908,41.992534],"type":"Point"}
+}

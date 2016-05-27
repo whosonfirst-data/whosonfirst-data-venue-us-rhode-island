@@ -1,0 +1,73 @@
+{
+  "id": 874220231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.510391,41.88686,-71.510391,41.88686",
+    "geom:latitude":41.88686,
+    "geom:longitude":-71.510391,
+    "iso:country":"US",
+    "sg:address":"64 Farnum Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 1060",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "city",
+        "resource",
+        "human"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IvhisNYIEk5f2Cl9MHChN_41.886860_-71.510391@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313064,
+    "wof:geomhash":"348b9ddc11f82c361e806c965f352470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874220231
+        }
+    ],
+    "wof:id":874220231,
+    "wof:lastmodified":1464313064,
+    "wof:name":"Smithfield Welfare Dept",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "resource",
+        "human"
+    ]
+},
+  "bbox": [
+    -71.510391,
+    41.88686,
+    -71.510391,
+    41.88686
+],
+  "geometry": {"coordinates":[-71.510391,41.88686],"type":"Point"}
+}

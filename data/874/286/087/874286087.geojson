@@ -1,0 +1,73 @@
+{
+  "id": 874286087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414001,41.885799,-71.414001,41.885799",
+    "geom:latitude":41.885799,
+    "geom:longitude":-71.414001,
+    "iso:country":"US",
+    "sg:address":"965 Smithfield Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 2255",
+    "sg:postcode":"02865",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repair",
+        "gasoline",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847279,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yMubPAuxncriYqzYmRvVW_41.885665_-71.413814@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314860,
+    "wof:geomhash":"1142b0102a952f7bc94576e1f9205c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85847279,
+            "region_id":85688509,
+            "venue_id":874286087
+        }
+    ],
+    "wof:id":874286087,
+    "wof:lastmodified":1464314860,
+    "wof:name":"Wilson's Arco Serv Sta",
+    "wof:parent_id":85847279,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "gasoline",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.414001,
+    41.885799,
+    -71.414001,
+    41.885799
+],
+  "geometry": {"coordinates":[-71.414001,41.885799],"type":"Point"}
+}

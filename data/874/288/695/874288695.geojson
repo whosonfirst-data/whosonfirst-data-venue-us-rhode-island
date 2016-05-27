@@ -1,0 +1,69 @@
+{
+  "id": 874288695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.664902,41.375401,-71.664902,41.375401",
+    "geom:latitude":41.375401,
+    "geom:longitude":-71.664902,
+    "iso:country":"US",
+    "sg:address":"4808 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 3490",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_559CEa1lrrRQgwUF1tAWwe_41.375401_-71.664902@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314965,
+    "wof:geomhash":"9964d2450dd4dae7829aabbe68815f59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288695
+        }
+    ],
+    "wof:id":874288695,
+    "wof:lastmodified":1464314965,
+    "wof:name":"S & K Electric Inc",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.664902,
+    41.375401,
+    -71.664902,
+    41.375401
+],
+  "geometry": {"coordinates":[-71.664902,41.375401],"type":"Point"}
+}

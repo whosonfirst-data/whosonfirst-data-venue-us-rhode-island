@@ -1,0 +1,81 @@
+{
+  "id": 874304507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400525,41.827262,-71.400525,41.827262",
+    "geom:latitude":41.827262,
+    "geom:longitude":-71.400525,
+    "iso:country":"US",
+    "sg:address":"Thayer St in front of the CIT on Brown's campus",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02918",
+    "sg:province":"RI",
+    "sg:tags":[
+        "stand",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jMQpV6RqT4RtMenqfJnDJ_41.827262_-71.400525@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315547,
+    "wof:geomhash":"976466f530d002f56997f52575cda9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874304507
+        }
+    ],
+    "wof:id":874304507,
+    "wof:lastmodified":1464315547,
+    "wof:name":"Chinese Food Truck",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stand",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -71.400525,
+    41.827262,
+    -71.400525,
+    41.827262
+],
+  "geometry": {"coordinates":[-71.400525,41.827262],"type":"Point"}
+}

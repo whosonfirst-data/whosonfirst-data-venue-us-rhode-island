@@ -1,0 +1,71 @@
+{
+  "id": 873987857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.645386,41.948563,-71.645386,41.948563",
+    "geom:latitude":41.948563,
+    "geom:longitude":-71.645386,
+    "iso:country":"US",
+    "sg:address":"1 New St",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 247 7447",
+    "sg:postcode":"02839",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85857385,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U7bXn4f8bNJ4uim803RsJ_41.948563_-71.645386@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310674,
+    "wof:geomhash":"32e4445b204767ff1db27cb51cc75e21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85857385,
+            "region_id":85688509,
+            "venue_id":873987857
+        }
+    ],
+    "wof:id":873987857,
+    "wof:lastmodified":1464310674,
+    "wof:name":"Newbridge Homes",
+    "wof:parent_id":85857385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.645386,
+    41.948563,
+    -71.645386,
+    41.948563
+],
+  "geometry": {"coordinates":[-71.645386,41.948563],"type":"Point"}
+}

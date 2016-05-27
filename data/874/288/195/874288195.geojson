@@ -1,0 +1,81 @@
+{
+  "id": 874288195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458179,41.764175,-71.458179,41.764175",
+    "geom:latitude":41.764175,
+    "geom:longitude":-71.458179,
+    "iso:country":"US",
+    "sg:address":"22 Midway Rd",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/cranston/54011-cafe-luna/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 1438",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821025,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g1gyr9FfZZuePQiveG0Xe_41.763893_-71.457398@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314942,
+    "wof:geomhash":"3676a494174999e583ba62292c5832e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85821025,
+            "region_id":85688509,
+            "venue_id":874288195
+        }
+    ],
+    "wof:id":874288195,
+    "wof:lastmodified":1464314942,
+    "wof:name":"Cafe' Luna",
+    "wof:parent_id":85821025,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.458179,
+    41.764175,
+    -71.458179,
+    41.764175
+],
+  "geometry": {"coordinates":[-71.458179,41.764175],"type":"Point"}
+}

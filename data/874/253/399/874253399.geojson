@@ -1,0 +1,88 @@
+{
+  "id": 874253399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44036,41.795284,-71.44036,41.795284",
+    "geom:latitude":41.795284,
+    "geom:longitude":-71.44036,
+    "iso:country":"US",
+    "sg:address":"25 Navaho St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 464 9229",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "packaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        85880059,
+        404488375,
+        101720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bayjbjCnyztX3rwwFD1FO_41.795284_-71.440360@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313633,
+    "wof:geomhash":"cb77b804e4e950fb60a0a4eaaa37ed38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874253399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874253399
+        }
+    ],
+    "wof:id":874253399,
+    "wof:lastmodified":1464313633,
+    "wof:name":"N W Packaging LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging"
+    ]
+},
+  "bbox": [
+    -71.44036,
+    41.795284,
+    -71.44036,
+    41.795284
+],
+  "geometry": {"coordinates":[-71.44036,41.795284],"type":"Point"}
+}

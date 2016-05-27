@@ -1,0 +1,77 @@
+{
+  "id": 874147777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.581663,41.884561,-71.581663,41.884561",
+    "geom:latitude":41.884561,
+    "geom:longitude":-71.581663,
+    "iso:country":"US",
+    "sg:address":"14 Stone Bridge Rd",
+    "sg:city":"Chepachet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 949 3130",
+    "sg:postcode":"02814",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540519,
+        102191575,
+        404488381,
+        85633793,
+        101720597,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yLPOgozkkdGy0DDbYrFpU_41.884561_-71.581663@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312309,
+    "wof:geomhash":"87a14b0312ddaba271b7b8f91993304b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488381,
+            "locality_id":101720597,
+            "neighbourhood_id":420540519,
+            "region_id":85688509,
+            "venue_id":874147777
+        }
+    ],
+    "wof:id":874147777,
+    "wof:lastmodified":1464312309,
+    "wof:name":"Walsh's",
+    "wof:parent_id":420540519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.581663,
+    41.884561,
+    -71.581663,
+    41.884561
+],
+  "geometry": {"coordinates":[-71.58166300000001,41.884561],"type":"Point"}
+}

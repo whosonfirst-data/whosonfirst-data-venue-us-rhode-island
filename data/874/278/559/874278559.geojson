@@ -1,0 +1,69 @@
+{
+  "id": 874278559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.546343,41.682351,-71.546343,41.682351",
+    "geom:latitude":41.682351,
+    "geom:longitude":-71.546343,
+    "iso:country":"US",
+    "sg:address":"40 E Shore Dr",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 828 8904",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z4cOEe5PPlnLkq8mzeedt_41.682351_-71.546343@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314558,
+    "wof:geomhash":"d7567ddb529d163a7bd077e1429cb5bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874278559
+        }
+    ],
+    "wof:id":874278559,
+    "wof:lastmodified":1464314558,
+    "wof:name":"Groundskeeper",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -71.546343,
+    41.682351,
+    -71.546343,
+    41.682351
+],
+  "geometry": {"coordinates":[-71.54634299999999,41.682351],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 874304431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.494789,41.87294,-71.494789,41.87294",
+    "geom:latitude":41.87294,
+    "geom:longitude":-71.494789,
+    "iso:country":"US",
+    "sg:address":"293 Waterman Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0730",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oils-fuel",
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mKhcrVD8KWebpTo8zLqEJ_41.872940_-71.494789@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315544,
+    "wof:geomhash":"56635e39883096b0475c9e0ff693f547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304431
+        }
+    ],
+    "wof:id":874304431,
+    "wof:lastmodified":1464315544,
+    "wof:name":"South Providence Oil Co",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oils-fuel",
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -71.494789,
+    41.87294,
+    -71.494789,
+    41.87294
+],
+  "geometry": {"coordinates":[-71.494789,41.87294],"type":"Point"}
+}

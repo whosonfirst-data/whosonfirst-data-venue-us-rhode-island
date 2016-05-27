@@ -1,0 +1,77 @@
+{
+  "id": 874101499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420375,41.853227,-71.420375,41.853227",
+    "geom:latitude":41.853227,
+    "geom:longitude":-71.420375,
+    "iso:country":"US",
+    "sg:address":"627 Charles St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 7611",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880035,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_718us1xzDs7Yeyn3LSSAeh_41.853227_-71.420375@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311812,
+    "wof:geomhash":"957355dfdf1d98177458883715490bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880035,
+            "region_id":85688509,
+            "venue_id":874101499
+        }
+    ],
+    "wof:id":874101499,
+    "wof:lastmodified":1464311812,
+    "wof:name":"Elegance Boutique",
+    "wof:parent_id":85880035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -71.420375,
+    41.853227,
+    -71.420375,
+    41.853227
+],
+  "geometry": {"coordinates":[-71.42037500000001,41.853227],"type":"Point"}
+}

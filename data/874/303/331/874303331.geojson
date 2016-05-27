@@ -1,0 +1,70 @@
+{
+  "id": 874303331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483139,41.85657,-71.483139,41.85657",
+    "geom:latitude":41.85657,
+    "geom:longitude":-71.483139,
+    "iso:country":"US",
+    "sg:address":"660 Woonasquatucket Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4280",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.fergusonanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qmQ53FRO99pSdBiPZvysX_41.856570_-71.483139@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315507,
+    "wof:geomhash":"751bc669c1b29398eea14f4905a5a7c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874303331
+        }
+    ],
+    "wof:id":874303331,
+    "wof:lastmodified":1464315507,
+    "wof:name":"Ferguson Animal Hospital",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -71.483139,
+    41.85657,
+    -71.483139,
+    41.85657
+],
+  "geometry": {"coordinates":[-71.48313899999999,41.85657],"type":"Point"}
+}

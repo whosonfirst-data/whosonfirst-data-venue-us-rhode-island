@@ -1,0 +1,80 @@
+{
+  "id": 873993853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.310363,41.493009,-71.310363,41.493009",
+    "geom:latitude":41.493009,
+    "geom:longitude":-71.310363,
+    "iso:country":"US",
+    "sg:address":"111 Broadway",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 851 6900",
+    "sg:postcode":"02840",
+    "sg:province":"RI",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HdXoNLjvZV7kwidL6I0B7_41.493009_-71.310363@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310717,
+    "wof:geomhash":"c9698cf8e7b107454a245b7c911e73cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":873993853
+        }
+    ],
+    "wof:id":873993853,
+    "wof:lastmodified":1464310717,
+    "wof:name":"Jack & Josie's Coffee Lounge",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -71.310363,
+    41.493009,
+    -71.310363,
+    41.493009
+],
+  "geometry": {"coordinates":[-71.310363,41.493009],"type":"Point"}
+}

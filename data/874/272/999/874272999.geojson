@@ -1,0 +1,69 @@
+{
+  "id": 874272999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463552,41.559946,-71.463552,41.559946",
+    "geom:latitude":41.559946,
+    "geom:longitude":-71.463552,
+    "iso:country":"US",
+    "sg:address":"756 Annaquatucket Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 267 1019",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k0Sst3gihppoHlhu0nv2G_41.559946_-71.463552@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314329,
+    "wof:geomhash":"efe177ae0e8e48bdb20292cadb62fa68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874272999
+        }
+    ],
+    "wof:id":874272999,
+    "wof:lastmodified":1464314329,
+    "wof:name":"Jvc Communications",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -71.463552,
+    41.559946,
+    -71.463552,
+    41.559946
+],
+  "geometry": {"coordinates":[-71.46355200000001,41.559946],"type":"Point"}
+}

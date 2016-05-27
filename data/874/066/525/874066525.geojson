@@ -1,0 +1,81 @@
+{
+  "id": 874066525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453171,41.563777,-71.453171,41.563777",
+    "geom:latitude":41.563777,
+    "geom:longitude":-71.453171,
+    "iso:country":"US",
+    "sg:address":"100 Prospect Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7092",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "related",
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85823665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rV2TRkFxAQYbImWPR8Mg7_41.563777_-71.453171@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311393,
+    "wof:geomhash":"6810890a964b59515e4addf2eaf4fffc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874066525
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874066525
+        }
+    ],
+    "wof:id":874066525,
+    "wof:lastmodified":1464311393,
+    "wof:name":"Integer Dynamics Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "related",
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -71.453171,
+    41.563777,
+    -71.453171,
+    41.563777
+],
+  "geometry": {"coordinates":[-71.453171,41.563777],"type":"Point"}
+}

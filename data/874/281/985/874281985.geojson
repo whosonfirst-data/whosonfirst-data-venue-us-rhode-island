@@ -1,0 +1,71 @@
+{
+  "id": 874281985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.272045,41.673367,-71.272045,41.673367",
+    "geom:latitude":41.673367,
+    "geom:longitude":-71.272045,
+    "iso:country":"US",
+    "sg:address":"479 Wood St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 7616",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "paint",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q6sSDniNKuFQiyKfzNG0L_41.673367_-71.272045@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314706,
+    "wof:geomhash":"4cf417acbda667bbcaacfd84a9f94a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874281985
+        }
+    ],
+    "wof:id":874281985,
+    "wof:lastmodified":1464314706,
+    "wof:name":"Union Commercial Co",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.272045,
+    41.673367,
+    -71.272045,
+    41.673367
+],
+  "geometry": {"coordinates":[-71.27204500000001,41.673367],"type":"Point"}
+}

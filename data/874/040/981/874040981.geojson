@@ -1,0 +1,72 @@
+{
+  "id": 874040981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495671,41.470446,-71.495671,41.470446",
+    "geom:latitude":41.470446,
+    "geom:longitude":-71.495671,
+    "iso:country":"US",
+    "sg:address":"222 Rose Hill Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 788 1088",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "course"
+    ],
+    "sg:website":"www.rosehillri.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BJ1lSqTHwplrjtQ1FppW4_41.470446_-71.495671@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311152,
+    "wof:geomhash":"86e7c3734e47188ab64082fb82ab34d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874040981
+        }
+    ],
+    "wof:id":874040981,
+    "wof:lastmodified":1464311152,
+    "wof:name":"Rose Hill Golf Club",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course"
+    ]
+},
+  "bbox": [
+    -71.495671,
+    41.470446,
+    -71.495671,
+    41.470446
+],
+  "geometry": {"coordinates":[-71.495671,41.470446],"type":"Point"}
+}

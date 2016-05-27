@@ -1,0 +1,77 @@
+{
+  "id": 874059367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449439,41.567318,-71.449439,41.567318",
+    "geom:latitude":41.567318,
+    "geom:longitude":-71.449439,
+    "iso:country":"US",
+    "sg:address":"30 Reynolds St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4072",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AGSOYfXlIMNbexMjAEPoE_41.567318_-71.449439@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311329,
+    "wof:geomhash":"5b927c12c5ee96e1a3e026a36441853d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874059367
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874059367
+        }
+    ],
+    "wof:id":874059367,
+    "wof:lastmodified":1464311329,
+    "wof:name":"North Kingstown Highway Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -71.449439,
+    41.567318,
+    -71.449439,
+    41.567318
+],
+  "geometry": {"coordinates":[-71.449439,41.567318],"type":"Point"}
+}

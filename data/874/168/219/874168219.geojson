@@ -1,0 +1,69 @@
+{
+  "id": 874168219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440589,41.949103,-71.440589,41.949103",
+    "geom:latitude":41.949103,
+    "geom:longitude":-71.440589,
+    "iso:country":"US",
+    "sg:address":"2000 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 0060",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GjqeYJekYhOBHbZC6ztwB_41.949103_-71.440589@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312509,
+    "wof:geomhash":"97fbc7c271eb8204038ef2ed448c552d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874168219
+        }
+    ],
+    "wof:id":874168219,
+    "wof:lastmodified":1464312509,
+    "wof:name":"Ron's Barber Stylist Shop",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.440589,
+    41.949103,
+    -71.440589,
+    41.949103
+],
+  "geometry": {"coordinates":[-71.440589,41.949103],"type":"Point"}
+}

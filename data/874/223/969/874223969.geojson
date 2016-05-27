@@ -1,0 +1,77 @@
+{
+  "id": 874223969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.45222,41.571062,-71.45222,41.571062",
+    "geom:latitude":41.571062,
+    "geom:longitude":-71.45222,
+    "iso:country":"US",
+    "sg:address":"89 Brown St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4681",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O4yQQdP5KEThoJoxGDGfA_41.571062_-71.452220@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313102,
+    "wof:geomhash":"761937dc9418a91d63e4512841e65ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874223969
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874223969
+        }
+    ],
+    "wof:id":874223969,
+    "wof:lastmodified":1464313102,
+    "wof:name":"Wickford Package Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -71.45222,
+    41.571062,
+    -71.45222,
+    41.571062
+],
+  "geometry": {"coordinates":[-71.45222,41.571062],"type":"Point"}
+}

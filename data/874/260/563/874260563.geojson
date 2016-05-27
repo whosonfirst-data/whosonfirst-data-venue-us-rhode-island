@@ -1,0 +1,90 @@
+{
+  "id": 874260563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.421223,41.818927,-71.421223,41.818927",
+    "geom:latitude":41.818927,
+    "geom:longitude":-71.421223,
+    "iso:country":"US",
+    "sg:address":"375 Washington St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 4131",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plate",
+        "glazing",
+        "contractor",
+        "glass",
+        "window",
+        "mirror"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0msdKmb259d9taik1XsBJg_41.818927_-71.421223@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313876,
+    "wof:geomhash":"0c72598df719972e0ff6972282397cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874260563
+        }
+    ],
+    "wof:id":874260563,
+    "wof:lastmodified":1464313876,
+    "wof:name":"Rhode Island Glass Company",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "glazing",
+        "contractor",
+        "glass",
+        "window",
+        "mirror"
+    ]
+},
+  "bbox": [
+    -71.421223,
+    41.818927,
+    -71.421223,
+    41.818927
+],
+  "geometry": {"coordinates":[-71.421223,41.818927],"type":"Point"}
+}

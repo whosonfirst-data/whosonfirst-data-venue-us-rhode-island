@@ -1,0 +1,81 @@
+{
+  "id": 874208677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435448,41.758165,-71.435448,41.758165",
+    "geom:latitude":41.758165,
+    "geom:longitude":-71.435448,
+    "iso:country":"US",
+    "sg:address":"65 Okeefe Ln",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 336 8507",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "disposal",
+        "waste",
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85838523,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wu4jJWu6ychTIlwPttC1l_41.758165_-71.435448@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312935,
+    "wof:geomhash":"976d25c732ce93cd08eaee7b5cccbb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85838523,
+            "region_id":85688509,
+            "venue_id":874208677
+        }
+    ],
+    "wof:id":874208677,
+    "wof:lastmodified":1464312935,
+    "wof:name":"Waste Management Of Ri",
+    "wof:parent_id":85838523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste",
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -71.435448,
+    41.758165,
+    -71.435448,
+    41.758165
+],
+  "geometry": {"coordinates":[-71.43544799999999,41.758165],"type":"Point"}
+}

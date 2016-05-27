@@ -1,0 +1,71 @@
+{
+  "id": 874060519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.157316,41.543212,-71.157316,41.543212",
+    "geom:latitude":41.543212,
+    "geom:longitude":-71.157316,
+    "iso:country":"US",
+    "sg:address":"150 Long Hwy",
+    "sg:city":"Little Compton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 635 4813",
+    "sg:postcode":"02837",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85868745,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bQs07CG5K77iKOOMvGsoR_41.543212_-71.157316@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311339,
+    "wof:geomhash":"bdaed1b42f41ffb467f33de88d6070b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85868745,
+            "region_id":85688509,
+            "venue_id":874060519
+        }
+    ],
+    "wof:id":874060519,
+    "wof:lastmodified":1464311339,
+    "wof:name":"John Ibbotson Excavating",
+    "wof:parent_id":85868745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.157316,
+    41.543212,
+    -71.157316,
+    41.543212
+],
+  "geometry": {"coordinates":[-71.15731599999999,41.543212],"type":"Point"}
+}

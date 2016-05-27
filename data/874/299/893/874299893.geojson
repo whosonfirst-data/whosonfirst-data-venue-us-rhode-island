@@ -1,0 +1,71 @@
+{
+  "id": 874299893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.424144,41.868759,-71.424144,41.868759",
+    "geom:latitude":41.868759,
+    "geom:longitude":-71.424144,
+    "iso:country":"US",
+    "sg:address":"1031 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 7922",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TQW9JA76fP3A8wdk8y21z_41.868759_-71.424144@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315385,
+    "wof:geomhash":"726aad9238fce0c92b3ce7475e308c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299893
+        }
+    ],
+    "wof:id":874299893,
+    "wof:lastmodified":1464315385,
+    "wof:name":"Sam's New York System",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -71.424144,
+    41.868759,
+    -71.424144,
+    41.868759
+],
+  "geometry": {"coordinates":[-71.424144,41.868759],"type":"Point"}
+}

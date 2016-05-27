@@ -1,0 +1,71 @@
+{
+  "id": 874273309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.463617,41.850119,-71.463617,41.850119",
+    "geom:latitude":41.850119,
+    "geom:longitude":-71.463617,
+    "iso:country":"US",
+    "sg:address":"23 Balston St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 6119",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SKjUDV85LfBAu7YCesvim_41.850119_-71.463617@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314339,
+    "wof:geomhash":"6f729fe55ab57a1a6d8f5851a452b0b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874273309
+        }
+    ],
+    "wof:id":874273309,
+    "wof:lastmodified":1464314339,
+    "wof:name":"Nar-Anon Family Group",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -71.463617,
+    41.850119,
+    -71.463617,
+    41.850119
+],
+  "geometry": {"coordinates":[-71.463617,41.850119],"type":"Point"}
+}

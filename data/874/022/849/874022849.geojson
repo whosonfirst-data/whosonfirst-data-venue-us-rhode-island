@@ -1,0 +1,69 @@
+{
+  "id": 874022849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.280312,41.730695,-71.280312,41.730695",
+    "geom:latitude":41.730695,
+    "geom:longitude":-71.280312,
+    "iso:country":"US",
+    "sg:address":"99 Market St",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 8810",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85804999,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jZrOH3VzBg2bYknbJAPyY_41.730695_-71.280312@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310972,
+    "wof:geomhash":"68e7b1a0752d7ef77a26fd7cf80a47c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85804999,
+            "region_id":85688509,
+            "venue_id":874022849
+        }
+    ],
+    "wof:id":874022849,
+    "wof:lastmodified":1464310972,
+    "wof:name":"Market Street Pub",
+    "wof:parent_id":85804999,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.280312,
+    41.730695,
+    -71.280312,
+    41.730695
+],
+  "geometry": {"coordinates":[-71.280312,41.730695],"type":"Point"}
+}

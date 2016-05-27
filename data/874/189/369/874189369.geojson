@@ -1,0 +1,69 @@
+{
+  "id": 874189369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483018,41.543299,-71.483018,41.543299",
+    "geom:latitude":41.543299,
+    "geom:longitude":-71.483018,
+    "iso:country":"US",
+    "sg:address":"58 Cardinal Dr",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 667 2706",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805503,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LKZIcJMkoiiJp9Zsk9jin_41.543299_-71.483018@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312734,
+    "wof:geomhash":"24b48f9371085cda9bb607bfcce69337",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85805503,
+            "region_id":85688509,
+            "venue_id":874189369
+        }
+    ],
+    "wof:id":874189369,
+    "wof:lastmodified":1464312734,
+    "wof:name":"Appraisal Dynamics",
+    "wof:parent_id":85805503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -71.483018,
+    41.543299,
+    -71.483018,
+    41.543299
+],
+  "geometry": {"coordinates":[-71.483018,41.543299],"type":"Point"}
+}

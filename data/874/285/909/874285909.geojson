@@ -1,0 +1,79 @@
+{
+  "id": 874285909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.372538,41.819535,-71.372538,41.819535",
+    "geom:latitude":41.819535,
+    "geom:longitude":-71.372538,
+    "iso:country":"US",
+    "sg:address":"199 Taunton Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 0146",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540531,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OnokLG3a7r6uSNhij3jb9_41.819596_-71.373209@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314854,
+    "wof:geomhash":"3f5d3326bf9ef0c0d2ceea71100daf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":420540531,
+            "region_id":85688509,
+            "venue_id":874285909
+        }
+    ],
+    "wof:id":874285909,
+    "wof:lastmodified":1464314854,
+    "wof:name":"Jordan Beverage Store",
+    "wof:parent_id":420540531,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.372538,
+    41.819535,
+    -71.372538,
+    41.819535
+],
+  "geometry": {"coordinates":[-71.37253800000001,41.819535],"type":"Point"}
+}

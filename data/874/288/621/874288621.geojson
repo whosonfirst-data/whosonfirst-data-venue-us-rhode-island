@@ -1,0 +1,74 @@
+{
+  "id": 874288621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.649696,41.3848,-71.649696,41.3848",
+    "geom:latitude":41.3848,
+    "geom:longitude":-71.649696,
+    "iso:country":"US",
+    "sg:address":"4605 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 0645",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820177,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yrmqY4Nf9lRl05HuIdNDi_41.384800_-71.649696@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314962,
+    "wof:geomhash":"3721e3ebe91ffa868bbe21363fc6822d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85820177,
+            "region_id":85688509,
+            "venue_id":874288621
+        }
+    ],
+    "wof:id":874288621,
+    "wof:lastmodified":1464314962,
+    "wof:name":"Charlestown Early Learning Ctr",
+    "wof:parent_id":85820177,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.649696,
+    41.3848,
+    -71.649696,
+    41.3848
+],
+  "geometry": {"coordinates":[-71.64969600000001,41.3848],"type":"Point"}
+}

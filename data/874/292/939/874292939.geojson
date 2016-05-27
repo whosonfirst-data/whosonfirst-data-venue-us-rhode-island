@@ -1,0 +1,71 @@
+{
+  "id": 874292939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.466922,41.52152,-71.466922,41.52152",
+    "geom:latitude":41.52152,
+    "geom:longitude":-71.466922,
+    "iso:country":"US",
+    "sg:address":"25 Shermantown Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 9518",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802815,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zV8VBazx2xdtJKcazyn4h_41.521520_-71.466922@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315121,
+    "wof:geomhash":"3fbe8fbfcf97da3054cadf8c28ccf67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85802815,
+            "region_id":85688509,
+            "venue_id":874292939
+        }
+    ],
+    "wof:id":874292939,
+    "wof:lastmodified":1464315121,
+    "wof:name":"Wildlife Rehabilitators Assn",
+    "wof:parent_id":85802815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -71.466922,
+    41.52152,
+    -71.466922,
+    41.52152
+],
+  "geometry": {"coordinates":[-71.466922,41.52152],"type":"Point"}
+}

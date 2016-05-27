@@ -1,0 +1,83 @@
+{
+  "id": 874303511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400849,41.828356,-71.400849,41.828356",
+    "geom:latitude":41.828356,
+    "geom:longitude":-71.400849,
+    "iso:country":"US",
+    "sg:address":"244 Thayer Street",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"02912",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rQQsZSxdJo4RqM7A3ujR8_41.828356_-71.400849@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315512,
+    "wof:geomhash":"9a5a2bce37ccca178af59819458409da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874303511
+        }
+    ],
+    "wof:id":874303511,
+    "wof:lastmodified":1464315512,
+    "wof:name":"Urban Dog",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "stand",
+        "dog"
+    ]
+},
+  "bbox": [
+    -71.400849,
+    41.828356,
+    -71.400849,
+    41.828356
+],
+  "geometry": {"coordinates":[-71.40084899999999,41.828356],"type":"Point"}
+}

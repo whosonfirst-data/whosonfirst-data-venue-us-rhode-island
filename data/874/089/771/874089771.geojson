@@ -1,0 +1,71 @@
+{
+  "id": 874089771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.296142,41.529851,-71.296142,41.529851",
+    "geom:latitude":41.529851,
+    "geom:longitude":-71.296142,
+    "iso:country":"US",
+    "sg:address":"2 Corporate Pl",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 8280",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wiring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Gu8Bdns44bB1Wv3b7NhG5_41.529851_-71.296142@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311658,
+    "wof:geomhash":"974ead3c2701cc48cd59c22e8526ca0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874089771
+        }
+    ],
+    "wof:id":874089771,
+    "wof:lastmodified":1464311658,
+    "wof:name":"American Systems",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wiring"
+    ]
+},
+  "bbox": [
+    -71.296142,
+    41.529851,
+    -71.296142,
+    41.529851
+],
+  "geometry": {"coordinates":[-71.296142,41.529851],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874183129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.398808,41.937597,-71.398808,41.937597",
+    "geom:latitude":41.937597,
+    "geom:longitude":-71.398808,
+    "iso:country":"US",
+    "sg:address":"44 Colonial Ave",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 4333",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85805831,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jPlGtZYdSNMBxLNsn6ARd_41.937597_-71.398808@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312661,
+    "wof:geomhash":"71b1ed5e130e3c2879138735d1f82f47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85805831,
+            "region_id":85688509,
+            "venue_id":874183129
+        }
+    ],
+    "wof:id":874183129,
+    "wof:lastmodified":1464312661,
+    "wof:name":"Macs Rotter Service",
+    "wof:parent_id":85805831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.398808,
+    41.937597,
+    -71.398808,
+    41.937597
+],
+  "geometry": {"coordinates":[-71.398808,41.937597],"type":"Point"}
+}

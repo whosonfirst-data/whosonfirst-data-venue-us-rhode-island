@@ -1,0 +1,71 @@
+{
+  "id": 874100827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460419,41.833172,-71.460419,41.833172",
+    "geom:latitude":41.833172,
+    "geom:longitude":-71.460419,
+    "iso:country":"US",
+    "sg:address":"1533 Chalkstone Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 453 0900",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ex4hkNSOLacg9eMHrczi_41.833172_-71.460419@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311804,
+    "wof:geomhash":"6ce8b03aea749cbc867bcb173b2240d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874100827
+        }
+    ],
+    "wof:id":874100827,
+    "wof:lastmodified":1464311804,
+    "wof:name":"Sandbaggers",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.460419,
+    41.833172,
+    -71.460419,
+    41.833172
+],
+  "geometry": {"coordinates":[-71.460419,41.833172],"type":"Point"}
+}

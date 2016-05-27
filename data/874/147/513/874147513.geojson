@@ -1,0 +1,79 @@
+{
+  "id": 874147513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.405892,41.746288,-71.405892,41.746288",
+    "geom:latitude":41.746288,
+    "geom:longitude":-71.405892,
+    "iso:country":"US",
+    "sg:address":"1087 Warwick Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 461 5367",
+    "sg:postcode":"02888",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540459,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HRQSJ0RzwTFr5jtzfqcaN_41.746288_-71.405892@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312306,
+    "wof:geomhash":"4dd1a0b4e9ec78b736262171cfcfc46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":420540459,
+            "region_id":85688509,
+            "venue_id":874147513
+        }
+    ],
+    "wof:id":874147513,
+    "wof:lastmodified":1464312306,
+    "wof:name":"Beverly Myers MD",
+    "wof:parent_id":420540459,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.405892,
+    41.746288,
+    -71.405892,
+    41.746288
+],
+  "geometry": {"coordinates":[-71.40589199999999,41.746288],"type":"Point"}
+}

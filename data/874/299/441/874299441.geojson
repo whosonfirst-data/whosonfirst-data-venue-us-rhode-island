@@ -1,0 +1,69 @@
+{
+  "id": 874299441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457328,41.862326,-71.457328,41.862326",
+    "geom:latitude":41.862326,
+    "geom:longitude":-71.457328,
+    "iso:country":"US",
+    "sg:address":"1778 Mineral Spring Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 5560",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ReBGrkGOlNc3qQbRLp0H4_41.862326_-71.457328@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315369,
+    "wof:geomhash":"24b5a218a6afa6369b73c4cc786e366a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874299441
+        }
+    ],
+    "wof:id":874299441,
+    "wof:lastmodified":1464315369,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.457328,
+    41.862326,
+    -71.457328,
+    41.862326
+],
+  "geometry": {"coordinates":[-71.457328,41.862326],"type":"Point"}
+}

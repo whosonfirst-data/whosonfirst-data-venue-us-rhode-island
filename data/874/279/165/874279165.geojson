@@ -1,0 +1,74 @@
+{
+  "id": 874279165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.193283,41.607127,-71.193283,41.607127",
+    "geom:latitude":41.607127,
+    "geom:longitude":-71.193283,
+    "iso:country":"US",
+    "sg:address":"2698 Main Rd",
+    "sg:city":"Tiverton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 624 2914",
+    "sg:postcode":"02878",
+    "sg:province":"RI",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85885329,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GGGE9EU0zj1K6ghsl7lKz_41.607127_-71.193283@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314577,
+    "wof:geomhash":"a84335cc95916f5647f52488f6d468ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85885329,
+            "region_id":85688509,
+            "venue_id":874279165
+        }
+    ],
+    "wof:id":874279165,
+    "wof:lastmodified":1464314577,
+    "wof:name":"Riverwood Rehabilitative Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -71.193283,
+    41.607127,
+    -71.193283,
+    41.607127
+],
+  "geometry": {"coordinates":[-71.19328299999999,41.607127],"type":"Point"}
+}

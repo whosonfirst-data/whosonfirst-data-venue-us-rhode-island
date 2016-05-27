@@ -1,0 +1,75 @@
+{
+  "id": 874004835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.458409,41.803169,-71.458409,41.803169",
+    "geom:latitude":41.803169,
+    "geom:longitude":-71.458409,
+    "iso:country":"US",
+    "sg:address":"397 Dyer Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 7340",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y8AExp0YiL2pvM5riAPHd_41.803169_-71.458409@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310813,
+    "wof:geomhash":"21ae65dd4f262389c554be18cb24e5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874004835
+        }
+    ],
+    "wof:id":874004835,
+    "wof:lastmodified":1464310813,
+    "wof:name":"Silver Lake Towing",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -71.458409,
+    41.803169,
+    -71.458409,
+    41.803169
+],
+  "geometry": {"coordinates":[-71.458409,41.803169],"type":"Point"}
+}

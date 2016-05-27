@@ -1,0 +1,71 @@
+{
+  "id": 874070535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44331,41.958849,-71.44331,41.958849",
+    "geom:latitude":41.958849,
+    "geom:longitude":-71.44331,
+    "iso:country":"US",
+    "sg:address":"2374 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 658 5100",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12RwzeovGBCXfo3hhSE3co_41.958849_-71.443310@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311436,
+    "wof:geomhash":"d1371faa4ee72b3598ba3db791dc345b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874070535
+        }
+    ],
+    "wof:id":874070535,
+    "wof:lastmodified":1464311436,
+    "wof:name":"Simply Natural Inc",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -71.44331,
+    41.958849,
+    -71.44331,
+    41.958849
+],
+  "geometry": {"coordinates":[-71.44331,41.958849],"type":"Point"}
+}

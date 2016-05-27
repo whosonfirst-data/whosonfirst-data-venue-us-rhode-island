@@ -1,0 +1,77 @@
+{
+  "id": 874265081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.477342,41.752786,-71.477342,41.752786",
+    "geom:latitude":41.752786,
+    "geom:longitude":-71.477342,
+    "iso:country":"US",
+    "sg:address":"763 Oaklawn Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 9711",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "grocery",
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839009,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AFv0iKsiwFa5pae6Z9ahq_41.752786_-71.477342@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314039,
+    "wof:geomhash":"2e45026bad7806469bad64d1b41d43ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85839009,
+            "region_id":85688509,
+            "venue_id":874265081
+        }
+    ],
+    "wof:id":874265081,
+    "wof:lastmodified":1464314039,
+    "wof:name":"Garden Hills Fruit & Deli Inc",
+    "wof:parent_id":85839009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "produce"
+    ]
+},
+  "bbox": [
+    -71.477342,
+    41.752786,
+    -71.477342,
+    41.752786
+],
+  "geometry": {"coordinates":[-71.47734199999999,41.752786],"type":"Point"}
+}

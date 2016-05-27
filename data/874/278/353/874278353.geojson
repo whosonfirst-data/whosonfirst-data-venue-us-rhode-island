@@ -1,0 +1,77 @@
+{
+  "id": 874278353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43099,41.735215,-71.43099,41.735215",
+    "geom:latitude":41.735215,
+    "geom:longitude":-71.43099,
+    "iso:country":"US",
+    "sg:address":"120 Dewey Ave",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 739 9000",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K2rD1P0GyNZuYEqywGRRn_41.735215_-71.430990@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314551,
+    "wof:geomhash":"031ef2f71b8790f32ba2b431469b8878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874278353
+        }
+    ],
+    "wof:id":874278353,
+    "wof:lastmodified":1464314551,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85825603,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -71.43099,
+    41.735215,
+    -71.43099,
+    41.735215
+],
+  "geometry": {"coordinates":[-71.43098999999999,41.735215],"type":"Point"}
+}

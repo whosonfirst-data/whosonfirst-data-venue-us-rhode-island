@@ -1,0 +1,73 @@
+{
+  "id": 874255705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.292905,41.533559,-71.292905,41.533559",
+    "geom:latitude":41.533559,
+    "geom:longitude":-71.292905,
+    "iso:country":"US",
+    "sg:address":"1341 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 847 1224",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720607,
+        102081595,
+        85830033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5msTD2Dic63Xywzw0X5dcU_41.533559_-71.292905@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313690,
+    "wof:geomhash":"2b7d69c2c7f77bfbb97fcf9be64da67b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "locality_id":101720607,
+            "neighbourhood_id":85830033,
+            "region_id":85688509,
+            "venue_id":874255705
+        }
+    ],
+    "wof:id":874255705,
+    "wof:lastmodified":1464313690,
+    "wof:name":"Long Life Massage",
+    "wof:parent_id":85830033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -71.292905,
+    41.533559,
+    -71.292905,
+    41.533559
+],
+  "geometry": {"coordinates":[-71.292905,41.533559],"type":"Point"}
+}

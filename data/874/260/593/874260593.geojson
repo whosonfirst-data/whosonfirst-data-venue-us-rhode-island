@@ -1,0 +1,82 @@
+{
+  "id": 874260593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.359076,41.81061,-71.359076,41.81061",
+    "geom:latitude":41.81061,
+    "geom:longitude":-71.359076,
+    "iso:country":"US",
+    "sg:address":"2375 Pawtucket Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 435 6885",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "oil",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ThyIONeM7nhjTnazaAGPH_41.810610_-71.359076@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313877,
+    "wof:geomhash":"c4cda64c9239491c5c1418d64ae10c83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":874260593
+        }
+    ],
+    "wof:id":874260593,
+    "wof:lastmodified":1464313877,
+    "wof:name":"Rob & Abby Auto Care Center",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.359076,
+    41.81061,
+    -71.359076,
+    41.81061
+],
+  "geometry": {"coordinates":[-71.359076,41.81061],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 874266401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.483401,41.837794,-71.483401,41.837794",
+    "geom:latitude":41.837794,
+    "geom:longitude":-71.483401,
+    "iso:country":"US",
+    "sg:address":"93 George St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 490 6932",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "handyman"
+    ],
+    "sg:website":"www.handymanconnection.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35GdhT6FBaxr7vkalRRFAa_41.837794_-71.483401@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314085,
+    "wof:geomhash":"4bc5f72ede19b19e9bd90a30d9416da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874266401
+        }
+    ],
+    "wof:id":874266401,
+    "wof:lastmodified":1464314085,
+    "wof:name":"Handyman Connection",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -71.483401,
+    41.837794,
+    -71.483401,
+    41.837794
+],
+  "geometry": {"coordinates":[-71.483401,41.837794],"type":"Point"}
+}

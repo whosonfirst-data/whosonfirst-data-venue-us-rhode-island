@@ -1,0 +1,81 @@
+{
+  "id": 874294781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.416014,41.821797,-71.416014,41.821797",
+    "geom:latitude":41.821797,
+    "geom:longitude":-71.416014,
+    "iso:country":"US",
+    "sg:address":"115 Empire St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Music",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 861 9190",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "venue"
+    ],
+    "sg:website":"www.as220.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867165,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b62HcomVy9296wkqx6EsG_41.821797_-71.416014@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315188,
+    "wof:geomhash":"44a2dfb0180fd90f7be954c3815c3490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867165,
+            "region_id":85688509,
+            "venue_id":874294781
+        }
+    ],
+    "wof:id":874294781,
+    "wof:lastmodified":1464315188,
+    "wof:name":"AS220",
+    "wof:parent_id":85867165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venue"
+    ]
+},
+  "bbox": [
+    -71.416014,
+    41.821797,
+    -71.416014,
+    41.821797
+],
+  "geometry": {"coordinates":[-71.416014,41.821797],"type":"Point"}
+}

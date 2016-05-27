@@ -1,0 +1,69 @@
+{
+  "id": 874298739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.469299,41.8615,-71.469299,41.8615",
+    "geom:latitude":41.8615,
+    "geom:longitude":-71.469299,
+    "iso:country":"US",
+    "sg:address":"1920 Mineral Spring Ave Unit 16",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 354 7470",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1REURDesbrExTzpyXmRExM_41.861500_-71.469299@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315346,
+    "wof:geomhash":"7b32d765f81580a3dc7150e3d0838b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874298739
+        }
+    ],
+    "wof:id":874298739,
+    "wof:lastmodified":1464315346,
+    "wof:name":"Leroux Michael Dr Phys",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.469299,
+    41.8615,
+    -71.469299,
+    41.8615
+],
+  "geometry": {"coordinates":[-71.46929900000001,41.8615],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 874218319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.460844,41.57609,-71.460844,41.57609",
+    "geom:latitude":41.57609,
+    "geom:longitude":-71.460844,
+    "iso:country":"US",
+    "sg:address":"8230 Post Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 294 4405",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LNg383SnsqTSdG5GodEsD_41.576090_-71.460844@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313035,
+    "wof:geomhash":"51a431c8ad99d7c5ebe198a543ecf4d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874218319
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874218319
+        }
+    ],
+    "wof:id":874218319,
+    "wof:lastmodified":1464313035,
+    "wof:name":"Honey Dew Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -71.460844,
+    41.57609,
+    -71.460844,
+    41.57609
+],
+  "geometry": {"coordinates":[-71.46084399999999,41.57609],"type":"Point"}
+}

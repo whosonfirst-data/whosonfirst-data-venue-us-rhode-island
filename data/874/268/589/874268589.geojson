@@ -1,0 +1,71 @@
+{
+  "id": 874268589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.502761,41.873936,-71.502761,41.873936",
+    "geom:latitude":41.873936,
+    "geom:longitude":-71.502761,
+    "iso:country":"US",
+    "sg:address":"7 Hill Ave",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 349 4916",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iypnVsoItcfOq7sUpU9en_41.873936_-71.502761@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314175,
+    "wof:geomhash":"9454c6782d8d0b1c75af276466efdeb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874268589
+        }
+    ],
+    "wof:id":874268589,
+    "wof:lastmodified":1464314175,
+    "wof:name":"Shovelin Construction",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.502761,
+    41.873936,
+    -71.502761,
+    41.873936
+],
+  "geometry": {"coordinates":[-71.50276100000001,41.873936],"type":"Point"}
+}

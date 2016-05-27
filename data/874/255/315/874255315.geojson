@@ -1,0 +1,71 @@
+{
+  "id": 874255315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.257087,41.73226,-71.257087,41.73226",
+    "geom:latitude":41.73226,
+    "geom:longitude":-71.257087,
+    "iso:country":"US",
+    "sg:address":"15 Detroit Ave",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 1251",
+    "sg:postcode":"02885",
+    "sg:province":"RI",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85816901,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wHeg3CSMLIqWaUTPHHFVR_41.732260_-71.257087@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313682,
+    "wof:geomhash":"bd6412a20fde0b50b09847c929058172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85816901,
+            "region_id":85688509,
+            "venue_id":874255315
+        }
+    ],
+    "wof:id":874255315,
+    "wof:lastmodified":1464313682,
+    "wof:name":"Lepre Physical Therapy",
+    "wof:parent_id":85816901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.257087,
+    41.73226,
+    -71.257087,
+    41.73226
+],
+  "geometry": {"coordinates":[-71.257087,41.73226],"type":"Point"}
+}

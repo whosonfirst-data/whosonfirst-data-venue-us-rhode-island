@@ -1,0 +1,80 @@
+{
+  "id": 874272683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.550439,41.385568,-71.550439,41.385568",
+    "geom:latitude":41.385568,
+    "geom:longitude":-71.550439,
+    "iso:country":"US",
+    "sg:address":"169 Osprey Rd",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2267",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sales",
+        "program",
+        "direct",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85841411,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bCfpCvRCRgLUFW0LO56Zd_41.385568_-71.550439@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314319,
+    "wof:geomhash":"b1e353ef4250656f4120bb9a077c57df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85841411,
+            "region_id":85688509,
+            "venue_id":874272683
+        }
+    ],
+    "wof:id":874272683,
+    "wof:lastmodified":1464314319,
+    "wof:name":"Northeast Sales Svcs Inc",
+    "wof:parent_id":85841411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sales",
+        "program",
+        "direct",
+        "retail"
+    ]
+},
+  "bbox": [
+    -71.550439,
+    41.385568,
+    -71.550439,
+    41.385568
+],
+  "geometry": {"coordinates":[-71.550439,41.385568],"type":"Point"}
+}

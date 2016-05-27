@@ -1,0 +1,69 @@
+{
+  "id": 874291531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.434998,41.950655,-71.434998,41.950655",
+    "geom:latitude":41.950655,
+    "geom:longitude":-71.434998,
+    "iso:country":"US",
+    "sg:address":"100 Crossing Dr",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 3707",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XekozJY4b3ZJzU4K3OnQI_41.950655_-71.434998@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315072,
+    "wof:geomhash":"1a57e09f477f00f58201ff4750f06742",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291531
+        }
+    ],
+    "wof:id":874291531,
+    "wof:lastmodified":1464315072,
+    "wof:name":"Cumberland Crossing",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.434998,
+    41.950655,
+    -71.434998,
+    41.950655
+],
+  "geometry": {"coordinates":[-71.43499799999999,41.950655],"type":"Point"}
+}

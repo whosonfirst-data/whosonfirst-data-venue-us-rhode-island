@@ -1,0 +1,88 @@
+{
+  "id": 873994799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489617,41.710922,-71.489617,41.710922",
+    "geom:latitude":41.710922,
+    "geom:longitude":-71.489617,
+    "iso:country":"US",
+    "sg:address":"1000 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 2211",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41t1tdnKvy4HkqUp8Vvj4c_41.710922_-71.489617@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310724,
+    "wof:geomhash":"462dec5c13e8f3701bbe0f43ec4a2842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":873994799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":873994799
+        }
+    ],
+    "wof:id":873994799,
+    "wof:lastmodified":1464310724,
+    "wof:name":"GCO Carpet Outlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -71.489617,
+    41.710922,
+    -71.489617,
+    41.710922
+],
+  "geometry": {"coordinates":[-71.489617,41.710922],"type":"Point"}
+}

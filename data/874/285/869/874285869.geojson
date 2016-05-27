@@ -1,0 +1,71 @@
+{
+  "id": 874285869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.277527,41.669159,-71.277527,41.669159",
+    "geom:latitude":41.669159,
+    "geom:longitude":-71.277527,
+    "iso:country":"US",
+    "sg:address":"198 Thames St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 2012",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "lounge",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LOSP141mNXhZSESVvcYXZ_41.669614_-71.277701@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314852,
+    "wof:geomhash":"e25bf34ca6185ffadaad963659376cd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874285869
+        }
+    ],
+    "wof:id":874285869,
+    "wof:lastmodified":1464314852,
+    "wof:name":"Gillary's",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -71.277527,
+    41.669159,
+    -71.277527,
+    41.669159
+],
+  "geometry": {"coordinates":[-71.27752700000001,41.669159],"type":"Point"}
+}

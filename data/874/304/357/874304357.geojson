@@ -1,0 +1,79 @@
+{
+  "id": 874304357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495277,41.894059,-71.495277,41.894059",
+    "geom:latitude":41.894059,
+    "geom:longitude":-71.495277,
+    "iso:country":"US",
+    "sg:address":"475 Douglas Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 2670",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "forwarding",
+        "local",
+        "trucking"
+    ],
+    "sg:website":"http://www.jfmoran.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85821365,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Av8AqkOYsetB9coLBUhdY_41.894059_-71.495277@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315542,
+    "wof:geomhash":"30ba6bc1bc2c482c9a618931be9ec1df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85821365,
+            "region_id":85688509,
+            "venue_id":874304357
+        }
+    ],
+    "wof:id":874304357,
+    "wof:lastmodified":1464315542,
+    "wof:name":"J. F. Moran Trucking Company, Inc.",
+    "wof:parent_id":85821365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -71.495277,
+    41.894059,
+    -71.495277,
+    41.894059
+],
+  "geometry": {"coordinates":[-71.495277,41.894059],"type":"Point"}
+}

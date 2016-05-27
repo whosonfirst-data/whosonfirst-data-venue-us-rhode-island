@@ -1,0 +1,71 @@
+{
+  "id": 874264737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.47779,41.834121,-71.47779,41.834121",
+    "geom:latitude":41.834121,
+    "geom:longitude":-71.47779,
+    "iso:country":"US",
+    "sg:address":"4 Yale Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 265 1545",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrolysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Lab3RchWCZFkbOWn2831_41.834121_-71.477790@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314024,
+    "wof:geomhash":"e5847bb963fcfabccfdafc1fe81fb98c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874264737
+        }
+    ],
+    "wof:id":874264737,
+    "wof:lastmodified":1464314024,
+    "wof:name":"Main Electrology",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrolysis"
+    ]
+},
+  "bbox": [
+    -71.47779,
+    41.834121,
+    -71.47779,
+    41.834121
+],
+  "geometry": {"coordinates":[-71.47779,41.834121],"type":"Point"}
+}

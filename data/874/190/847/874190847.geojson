@@ -1,0 +1,71 @@
+{
+  "id": 874190847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.495985,41.408015,-71.495985,41.408015",
+    "geom:latitude":41.408015,
+    "geom:longitude":-71.495985,
+    "iso:country":"US",
+    "sg:address":"51 Flintstone Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 0462",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85847313,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tfqFLHM0elMtIZYAlcH2y_41.408015_-71.495985@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312748,
+    "wof:geomhash":"3d8d09a2c2151835bfe73cdef9b02357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85847313,
+            "region_id":85688509,
+            "venue_id":874190847
+        }
+    ],
+    "wof:id":874190847,
+    "wof:lastmodified":1464312748,
+    "wof:name":"Alltel",
+    "wof:parent_id":85847313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -71.495985,
+    41.408015,
+    -71.495985,
+    41.408015
+],
+  "geometry": {"coordinates":[-71.495985,41.408015],"type":"Point"}
+}

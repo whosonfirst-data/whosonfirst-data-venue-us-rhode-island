@@ -1,0 +1,90 @@
+{
+  "id": 874275283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.404252,41.846786,-71.404252,41.846786",
+    "geom:latitude":41.846786,
+    "geom:longitude":-71.404252,
+    "iso:country":"US",
+    "sg:address":"26 Rochambeau Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 331 2022",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lcswGk0WS54PzDAWTeNgF_41.846786_-71.404252@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314414,
+    "wof:geomhash":"3eb6af8749792d28d436a5b868f7fa91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874275283
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874275283
+        }
+    ],
+    "wof:id":874275283,
+    "wof:lastmodified":1464314414,
+    "wof:name":"East Side Art Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -71.404252,
+    41.846786,
+    -71.404252,
+    41.846786
+],
+  "geometry": {"coordinates":[-71.404252,41.846786],"type":"Point"}
+}

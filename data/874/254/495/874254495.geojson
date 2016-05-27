@@ -1,0 +1,77 @@
+{
+  "id": 874254495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448335,41.670044,-71.448335,41.670044",
+    "geom:latitude":41.670044,
+    "geom:longitude":-71.448335,
+    "iso:country":"US",
+    "sg:address":"4474 Post Rd",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 2539",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZkMpIntaBcX7ACtKjjflN_41.670044_-71.448335@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313658,
+    "wof:geomhash":"aa5a1ea33a1f64705427b6522bb7e666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874254495
+        }
+    ],
+    "wof:id":874254495,
+    "wof:lastmodified":1464313658,
+    "wof:name":"Pogacar Srecko Physician",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -71.448335,
+    41.670044,
+    -71.448335,
+    41.670044
+],
+  "geometry": {"coordinates":[-71.448335,41.670044],"type":"Point"}
+}

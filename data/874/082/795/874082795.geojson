@@ -1,0 +1,88 @@
+{
+  "id": 874082795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440858,41.728294,-71.440858,41.728294",
+    "geom:latitude":41.728294,
+    "geom:longitude":-71.440858,
+    "iso:country":"US",
+    "sg:address":"60 Alhambra Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 737 5300",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "telephone",
+        "equipment",
+        "system",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        102526855,
+        85825603,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i9rbg4KSm4pOtHfUzvEgc_41.728294_-71.440858@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311587,
+    "wof:geomhash":"b7906201907468c1080568518e011387",
+    "wof:hierarchy":[
+        {
+            "campus_id":102526855,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85825603,
+            "region_id":85688509,
+            "venue_id":874082795
+        }
+    ],
+    "wof:id":874082795,
+    "wof:lastmodified":1464311587,
+    "wof:name":"Computer Telephones",
+    "wof:parent_id":102526855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "equipment",
+        "system",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.440858,
+    41.728294,
+    -71.440858,
+    41.728294
+],
+  "geometry": {"coordinates":[-71.44085800000001,41.728294],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 874037123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.547592,41.699332,-71.547592,41.699332",
+    "geom:latitude":41.699332,
+    "geom:longitude":-71.547592,
+    "iso:country":"US",
+    "sg:address":"40 Boston St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 0363",
+    "sg:postcode":"02816",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803223,
+        102081209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4izFCKGQHHmMVV2H4pU66F_41.699332_-71.547592@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311117,
+    "wof:geomhash":"0056da1b4daa77bf9404f662615606a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081209,
+            "neighbourhood_id":85803223,
+            "region_id":85688509,
+            "venue_id":874037123
+        }
+    ],
+    "wof:id":874037123,
+    "wof:lastmodified":1464311117,
+    "wof:name":"Charlottes Custom Cuisine",
+    "wof:parent_id":85803223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.547592,
+    41.699332,
+    -71.547592,
+    41.699332
+],
+  "geometry": {"coordinates":[-71.54759199999999,41.699332],"type":"Point"}
+}

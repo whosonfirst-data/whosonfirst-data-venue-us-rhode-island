@@ -1,0 +1,73 @@
+{
+  "id": 874139345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.527652,42.015018,-71.527652,42.015018",
+    "geom:latitude":42.015018,
+    "geom:longitude":-71.527652,
+    "iso:country":"US",
+    "sg:address":"3 Main St",
+    "sg:city":"Blackstone",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 508 883 2555",
+    "sg:postcode":"01504",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85854703,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vGuQQxjBkZO1ulgyoYhyQ_42.015018_-71.527652@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312229,
+    "wof:geomhash":"d16873fc9eda405bba16123a0c7ab19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85854703,
+            "region_id":85688509,
+            "venue_id":874139345
+        }
+    ],
+    "wof:id":874139345,
+    "wof:lastmodified":1464312229,
+    "wof:name":"Top Dog Grooming",
+    "wof:parent_id":85854703,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -71.527652,
+    42.015018,
+    -71.527652,
+    42.015018
+],
+  "geometry": {"coordinates":[-71.527652,42.015018],"type":"Point"}
+}

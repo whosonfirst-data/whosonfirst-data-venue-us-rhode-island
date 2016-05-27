@@ -1,0 +1,73 @@
+{
+  "id": 874304905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.470555,41.832705,-71.470555,41.832705",
+    "geom:latitude":41.832705,
+    "geom:longitude":-71.470555,
+    "iso:country":"US",
+    "sg:address":"2 Greenville Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 3859",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "breakfast",
+        "brunch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xM93igtoZmUvTvhTC4FCs_41.832705_-71.470555@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315560,
+    "wof:geomhash":"a5243539650506575659924201c3eae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874304905
+        }
+    ],
+    "wof:id":874304905,
+    "wof:lastmodified":1464315560,
+    "wof:name":"Scramblers II",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breakfast",
+        "brunch"
+    ]
+},
+  "bbox": [
+    -71.470555,
+    41.832705,
+    -71.470555,
+    41.832705
+],
+  "geometry": {"coordinates":[-71.470555,41.832705],"type":"Point"}
+}

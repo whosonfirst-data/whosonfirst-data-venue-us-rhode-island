@@ -1,0 +1,73 @@
+{
+  "id": 874088189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.478287,41.825325,-71.478287,41.825325",
+    "geom:latitude":41.825325,
+    "geom:longitude":-71.478287,
+    "iso:country":"US",
+    "sg:address":"18 Ostend St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 276 0815",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SxVPkZNKyshvzxjidaz9p_41.825325_-71.478287@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311643,
+    "wof:geomhash":"66d94486a670df7844c4107aa2e6a04e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874088189
+        }
+    ],
+    "wof:id":874088189,
+    "wof:lastmodified":1464311643,
+    "wof:name":"Universal Steel Inc",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ]
+},
+  "bbox": [
+    -71.478287,
+    41.825325,
+    -71.478287,
+    41.825325
+],
+  "geometry": {"coordinates":[-71.47828699999999,41.825325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873979951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.590198,41.500332,-71.590198,41.500332",
+    "geom:latitude":41.500332,
+    "geom:longitude":-71.590198,
+    "iso:country":"US",
+    "sg:address":"344 Kingstown Rd",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8658",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LyOGh6MBR5DM12gKnnDBA_41.500332_-71.590198@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310582,
+    "wof:geomhash":"196e28c365fda4863ac69af54ed96e45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":873979951
+        }
+    ],
+    "wof:id":873979951,
+    "wof:lastmodified":1464310582,
+    "wof:name":"Roy B Richmond Inc",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.590198,
+    41.500332,
+    -71.590198,
+    41.500332
+],
+  "geometry": {"coordinates":[-71.590198,41.500332],"type":"Point"}
+}

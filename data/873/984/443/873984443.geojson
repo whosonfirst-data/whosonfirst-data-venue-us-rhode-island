@@ -1,0 +1,71 @@
+{
+  "id": 873984443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.284729,41.696631,-71.284729,41.696631",
+    "geom:latitude":41.696631,
+    "geom:longitude":-71.284729,
+    "iso:country":"US",
+    "sg:address":"2 Chester Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 8744",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hrZgTT7JSYuEKOuavKVyM_41.696631_-71.284729@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310646,
+    "wof:geomhash":"7d921b0a0819cb41d17d437b058dd8de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":873984443
+        }
+    ],
+    "wof:id":873984443,
+    "wof:lastmodified":1464310646,
+    "wof:name":"Govednik Properties",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -71.284729,
+    41.696631,
+    -71.284729,
+    41.696631
+],
+  "geometry": {"coordinates":[-71.284729,41.696631],"type":"Point"}
+}

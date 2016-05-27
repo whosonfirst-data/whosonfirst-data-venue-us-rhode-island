@@ -1,0 +1,79 @@
+{
+  "id": 874283077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.433847,41.837373,-71.433847,41.837373",
+    "geom:latitude":41.837373,
+    "geom:longitude":-71.433847,
+    "iso:country":"US",
+    "sg:address":"50 Maude St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 2145",
+    "sg:postcode":"02908",
+    "sg:province":"RI",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880057,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k6IZ3njbac7TXtnli6CyP_41.837541_-71.433567@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314742,
+    "wof:geomhash":"d5770385ef02a14087d7993fec79f828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880057,
+            "region_id":85688509,
+            "venue_id":874283077
+        }
+    ],
+    "wof:id":874283077,
+    "wof:lastmodified":1464314742,
+    "wof:name":"Macko Michael MD",
+    "wof:parent_id":85880057,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.433847,
+    41.837373,
+    -71.433847,
+    41.837373
+],
+  "geometry": {"coordinates":[-71.433847,41.837373],"type":"Point"}
+}

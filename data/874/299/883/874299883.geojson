@@ -1,0 +1,69 @@
+{
+  "id": 874299883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453288,41.863819,-71.453288,41.863819",
+    "geom:latitude":41.863819,
+    "geom:longitude":-71.453288,
+    "iso:country":"US",
+    "sg:address":"1401 Douglas Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 223 0251",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85859079,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RFaJnOBjy8EK8gYqRkOpS_41.863819_-71.453288@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315385,
+    "wof:geomhash":"a79063c413ba0019e82e26e4e6b42b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85859079,
+            "region_id":85688509,
+            "venue_id":874299883
+        }
+    ],
+    "wof:id":874299883,
+    "wof:lastmodified":1464315385,
+    "wof:name":"Jersey Mike's Subs",
+    "wof:parent_id":85859079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.453288,
+    41.863819,
+    -71.453288,
+    41.863819
+],
+  "geometry": {"coordinates":[-71.453288,41.863819],"type":"Point"}
+}

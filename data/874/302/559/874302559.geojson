@@ -1,0 +1,70 @@
+{
+  "id": 874302559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.43698,41.815105,-71.43698,41.815105",
+    "geom:latitude":41.815105,
+    "geom:longitude":-71.43698,
+    "iso:country":"US",
+    "sg:address":"19 Messer St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 8383",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bgX4PMjmH7OsurMuFpxc2_41.815105_-71.436980@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315482,
+    "wof:geomhash":"79ebf37e29f1203d1e9386cf6d4c4cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874302559
+        }
+    ],
+    "wof:id":874302559,
+    "wof:lastmodified":1464315482,
+    "wof:name":"Rocky's Market",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.43698,
+    41.815105,
+    -71.43698,
+    41.815105
+],
+  "geometry": {"coordinates":[-71.43698000000001,41.815105],"type":"Point"}
+}

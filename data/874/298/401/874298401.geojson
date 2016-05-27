@@ -1,0 +1,75 @@
+{
+  "id": 874298401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.420122,41.818534,-71.420122,41.818534",
+    "geom:latitude":41.818534,
+    "geom:longitude":-71.420122,
+    "iso:country":"US",
+    "sg:address":"717 Westminster St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 432 6222",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867169,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S4kbHdcWFI3GihvJ5JlVN_41.818534_-71.420122@1303262237"
+    },
+    "wof:country":"US",
+    "wof:created":1464315325,
+    "wof:geomhash":"0a4d85e3d6cc0e3e53873fd09f01d1b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867169,
+            "region_id":85688509,
+            "venue_id":874298401
+        }
+    ],
+    "wof:id":874298401,
+    "wof:lastmodified":1464315325,
+    "wof:name":"Ada Books",
+    "wof:parent_id":85867169,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -71.420122,
+    41.818534,
+    -71.420122,
+    41.818534
+],
+  "geometry": {"coordinates":[-71.42012200000001,41.818534],"type":"Point"}
+}

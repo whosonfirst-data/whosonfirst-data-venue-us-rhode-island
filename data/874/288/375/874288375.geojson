@@ -1,0 +1,82 @@
+{
+  "id": 874288375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.271595,41.671448,-71.271595,41.671448",
+    "geom:latitude":41.671448,
+    "geom:longitude":-71.271595,
+    "iso:country":"US",
+    "sg:address":"173 State St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 8808",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "sg:website":"http://www.campagna.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1czC3TWoeZjnXUQUKuXKX3_41.671448_-71.271595@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464314953,
+    "wof:geomhash":"a0bdc8d9a1710e6990c071d68e048d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874288375
+        }
+    ],
+    "wof:id":874288375,
+    "wof:lastmodified":1464314953,
+    "wof:name":"Campagna's Pharmacy",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -71.271595,
+    41.671448,
+    -71.271595,
+    41.671448
+],
+  "geometry": {"coordinates":[-71.271595,41.671448],"type":"Point"}
+}

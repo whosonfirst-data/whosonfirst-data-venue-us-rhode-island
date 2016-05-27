@@ -1,0 +1,71 @@
+{
+  "id": 874114449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.46595,41.82934,-71.46595,41.82934",
+    "geom:latitude":41.82934,
+    "geom:longitude":-71.46595,
+    "iso:country":"US",
+    "sg:address":"22 Elm St",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 274 5409",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PI2P1PuQckQGghsyOoln3_41.829340_-71.465950@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311982,
+    "wof:geomhash":"347427da05c2778efb9e5563f2a25985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874114449
+        }
+    ],
+    "wof:id":874114449,
+    "wof:lastmodified":1464311982,
+    "wof:name":"Elm Shop",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -71.46595,
+    41.82934,
+    -71.46595,
+    41.82934
+],
+  "geometry": {"coordinates":[-71.46595000000001,41.82934],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874274401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.383193,41.53086,-71.383193,41.53086",
+    "geom:latitude":41.53086,
+    "geom:longitude":-71.383193,
+    "iso:country":"US",
+    "sg:address":"3 Ferry St",
+    "sg:city":"Jamestown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 423 3077",
+    "sg:postcode":"02835",
+    "sg:province":"RI",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85827331,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dw0ZoSiWba5gLA1nnxx3n_41.530860_-71.383193@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314382,
+    "wof:geomhash":"30d7491151204de393f6af781b894fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85827331,
+            "region_id":85688509,
+            "venue_id":874274401
+        }
+    ],
+    "wof:id":874274401,
+    "wof:lastmodified":1464314382,
+    "wof:name":"Spinnaker's Cafe",
+    "wof:parent_id":85827331,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -71.383193,
+    41.53086,
+    -71.383193,
+    41.53086
+],
+  "geometry": {"coordinates":[-71.38319300000001,41.53086],"type":"Point"}
+}

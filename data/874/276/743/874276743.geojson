@@ -1,0 +1,71 @@
+{
+  "id": 874276743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.423988,41.865223,-71.423988,41.865223",
+    "geom:latitude":41.865223,
+    "geom:longitude":-71.423988,
+    "iso:country":"US",
+    "sg:address":"1006 Charles St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 1500",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ACsIrY503PVEYxoHh8g8H_41.865223_-71.423988@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314487,
+    "wof:geomhash":"187c723d80cec57e83138a1baf200feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874276743
+        }
+    ],
+    "wof:id":874276743,
+    "wof:lastmodified":1464314487,
+    "wof:name":"Power Move Construction",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.423988,
+    41.865223,
+    -71.423988,
+    41.865223
+],
+  "geometry": {"coordinates":[-71.42398799999999,41.865223],"type":"Point"}
+}

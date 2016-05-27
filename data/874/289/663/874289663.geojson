@@ -1,0 +1,88 @@
+{
+  "id": 874289663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.38508,41.881057,-71.38508,41.881057",
+    "geom:latitude":41.881057,
+    "geom:longitude":-71.38508,
+    "iso:country":"US",
+    "sg:address":"69 Montgomery St Ste 6",
+    "sg:city":"Pawtucket",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 725 5005",
+    "sg:postcode":"02860",
+    "sg:province":"RI",
+    "sg:tags":[
+        "fund",
+        "games",
+        "raising",
+        "merchandise",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85858809,
+        102191575,
+        404488373,
+        85633793,
+        101720569,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pKTmsTX9OH7p9mDprzdYK_41.881057_-71.385080@1303262235"
+    },
+    "wof:country":"US",
+    "wof:created":1464315001,
+    "wof:geomhash":"b4d6f5a5ce35def5267d4a223e0ef96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488373,
+            "locality_id":101720569,
+            "neighbourhood_id":85858809,
+            "region_id":85688509,
+            "venue_id":874289663
+        }
+    ],
+    "wof:id":874289663,
+    "wof:lastmodified":1464315001,
+    "wof:name":"Cbm",
+    "wof:parent_id":85858809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fund",
+        "games",
+        "raising",
+        "merchandise",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.38508,
+    41.881057,
+    -71.38508,
+    41.881057
+],
+  "geometry": {"coordinates":[-71.38508,41.881057],"type":"Point"}
+}

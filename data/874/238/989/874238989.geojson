@@ -1,0 +1,77 @@
+{
+  "id": 874238989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.44146,41.807171,-71.44146,41.807171",
+    "geom:latitude":41.807171,
+    "geom:longitude":-71.44146,
+    "iso:country":"US",
+    "sg:address":"295 Huntington Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 9777",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880059,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49PPKZS6pAakUzcehAfrI8_41.807171_-71.441460@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313321,
+    "wof:geomhash":"8ae53b5d161afc4bd3f36bbe8b879a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874238989
+        }
+    ],
+    "wof:id":874238989,
+    "wof:lastmodified":1464313321,
+    "wof:name":"Donald's Car Corner",
+    "wof:parent_id":85880059,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.44146,
+    41.807171,
+    -71.44146,
+    41.807171
+],
+  "geometry": {"coordinates":[-71.44146000000001,41.807171],"type":"Point"}
+}

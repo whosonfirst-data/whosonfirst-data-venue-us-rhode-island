@@ -1,0 +1,71 @@
+{
+  "id": 874303423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457397,41.848499,-71.457397,41.848499",
+    "geom:latitude":41.848499,
+    "geom:longitude":-71.457397,
+    "iso:country":"US",
+    "sg:address":"1352 Smith St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 4500",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85820781,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eEq0Kqlb5YXS9XtfRP7lf_41.848499_-71.457397@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315510,
+    "wof:geomhash":"b62b089d0a007876438b60873a2685a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85820781,
+            "region_id":85688509,
+            "venue_id":874303423
+        }
+    ],
+    "wof:id":874303423,
+    "wof:lastmodified":1464315510,
+    "wof:name":"Atwood Medical Associates Ltd",
+    "wof:parent_id":85820781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -71.457397,
+    41.848499,
+    -71.457397,
+    41.848499
+],
+  "geometry": {"coordinates":[-71.457397,41.848499],"type":"Point"}
+}

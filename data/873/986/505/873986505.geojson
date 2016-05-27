@@ -1,0 +1,69 @@
+{
+  "id": 873986505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.432548,41.93975,-71.432548,41.93975",
+    "geom:latitude":41.93975,
+    "geom:longitude":-71.432548,
+    "iso:country":"US",
+    "sg:address":"1530 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 333 1424",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FzkWXSY46xYlsa7oPoZGW_41.939750_-71.432548@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310665,
+    "wof:geomhash":"28e066b5afcba809a585448a52b28b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":873986505
+        }
+    ],
+    "wof:id":873986505,
+    "wof:lastmodified":1464310665,
+    "wof:name":"Cumberland Fire Dist Sta 2 Tax",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.432548,
+    41.93975,
+    -71.432548,
+    41.93975
+],
+  "geometry": {"coordinates":[-71.432548,41.93975],"type":"Point"}
+}

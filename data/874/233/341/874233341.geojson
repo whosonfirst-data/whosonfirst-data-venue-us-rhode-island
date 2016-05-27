@@ -1,0 +1,73 @@
+{
+  "id": 874233341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.259639,41.570383,-71.259639,41.570383",
+    "geom:latitude":41.570383,
+    "geom:longitude":-71.259639,
+    "iso:country":"US",
+    "sg:address":"159 Stonegate Dr",
+    "sg:city":"Portsmouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 683 5893",
+    "sg:postcode":"02871",
+    "sg:province":"RI",
+    "sg:tags":[
+        "house",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849973,
+        102081595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Be14BfjTjkRHgQcxgCYP6_41.570383_-71.259639@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313206,
+    "wof:geomhash":"0427a99d4595b9dbe6caa81f971f1b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081595,
+            "neighbourhood_id":85849973,
+            "region_id":85688509,
+            "venue_id":874233341
+        }
+    ],
+    "wof:id":874233341,
+    "wof:lastmodified":1464313206,
+    "wof:name":"Sound Building Corp",
+    "wof:parent_id":85849973,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.259639,
+    41.570383,
+    -71.259639,
+    41.570383
+],
+  "geometry": {"coordinates":[-71.25963900000001,41.570383],"type":"Point"}
+}

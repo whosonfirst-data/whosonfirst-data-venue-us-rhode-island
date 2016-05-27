@@ -1,0 +1,69 @@
+{
+  "id": 874044373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.524681,41.399764,-71.524681,41.399764",
+    "geom:latitude":41.399764,
+    "geom:longitude":-71.524681,
+    "iso:country":"US",
+    "sg:address":"185 Kettle Pond Dr",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 2306",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b0iHfpGqrxflUKOSR0WOO_41.399764_-71.524681@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311188,
+    "wof:geomhash":"573df19370a6e875e262c5fddb4790ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":874044373
+        }
+    ],
+    "wof:id":874044373,
+    "wof:lastmodified":1464311188,
+    "wof:name":"Jon Kimpton",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -71.524681,
+    41.399764,
+    -71.524681,
+    41.399764
+],
+  "geometry": {"coordinates":[-71.524681,41.399764],"type":"Point"}
+}

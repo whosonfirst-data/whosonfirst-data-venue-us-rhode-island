@@ -1,0 +1,82 @@
+{
+  "id": 874162545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.349982,41.808804,-71.349982,41.808804",
+    "geom:latitude":41.808804,
+    "geom:longitude":-71.349982,
+    "iso:country":"US",
+    "sg:address":"895 Warren Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 434 1177",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "footwear",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868717,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kjE40FHYQUGlLyco0Hknd_41.808804_-71.349982@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312455,
+    "wof:geomhash":"435d1b07ef0e018f9e6b1371322a5a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85868717,
+            "region_id":85688509,
+            "venue_id":874162545
+        }
+    ],
+    "wof:id":874162545,
+    "wof:lastmodified":1464312455,
+    "wof:name":"North American Shoe Co Inc",
+    "wof:parent_id":85868717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "footwear",
+        "family"
+    ]
+},
+  "bbox": [
+    -71.349982,
+    41.808804,
+    -71.349982,
+    41.808804
+],
+  "geometry": {"coordinates":[-71.349982,41.808804],"type":"Point"}
+}

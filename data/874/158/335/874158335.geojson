@@ -1,0 +1,89 @@
+{
+  "id": 874158335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448221,41.795679,-71.448221,41.795679",
+    "geom:latitude":41.795679,
+    "geom:longitude":-71.448221,
+    "iso:country":"US",
+    "sg:address":"14 Field St",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 942 7790",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "sg:tags":[
+        "crane"
+    ],
+    "sg:website":"www.imperatorecrane.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        85880059,
+        404488375,
+        101720567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WlvJuliW7NpKfWp4fwIki_41.795679_-71.448221@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312411,
+    "wof:geomhash":"b3f7c7ffd399aeba61fff8182eb1aadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874158335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880059,
+            "region_id":85688509,
+            "venue_id":874158335
+        }
+    ],
+    "wof:id":874158335,
+    "wof:lastmodified":1464312411,
+    "wof:name":"Imperatore Crane Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -71.448221,
+    41.795679,
+    -71.448221,
+    41.795679
+],
+  "geometry": {"coordinates":[-71.448221,41.795679],"type":"Point"}
+}

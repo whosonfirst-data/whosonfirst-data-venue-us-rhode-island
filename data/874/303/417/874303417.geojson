@@ -1,0 +1,66 @@
+{
+  "id": 874303417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.476799,41.844799,-71.476799,41.844799",
+    "geom:latitude":41.844799,
+    "geom:longitude":-71.476799,
+    "iso:country":"US",
+    "sg:address":"1 Humbert St",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 353 7724",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OvMrKHnvJquoL4E32xAJh_41.844799_-71.476799@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315509,
+    "wof:geomhash":"5d77ae3c6e570169d503e9725ed1f44e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874303417
+        }
+    ],
+    "wof:id":874303417,
+    "wof:lastmodified":1464315509,
+    "wof:name":"Sams Food Store",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.476799,
+    41.844799,
+    -71.476799,
+    41.844799
+],
+  "geometry": {"coordinates":[-71.476799,41.844799],"type":"Point"}
+}

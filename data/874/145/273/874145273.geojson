@@ -1,0 +1,88 @@
+{
+  "id": 874145273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.400946,41.848286,-71.400946,41.848286",
+    "geom:latitude":41.848286,
+    "geom:longitude":-71.400946,
+    "iso:country":"US",
+    "sg:address":"104 Edgehill Rd",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 4858",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "hearing",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880047,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85826211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ghL7HGkUNQsN6BGca7rQR_41.848286_-71.400946@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312282,
+    "wof:geomhash":"1c5ee6bba20ff0b5263737e0a9a67b82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880047,
+            "region_id":85688509,
+            "venue_id":874145273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85826211,
+            "region_id":85688509,
+            "venue_id":874145273
+        }
+    ],
+    "wof:id":874145273,
+    "wof:lastmodified":1464312282,
+    "wof:name":"Sandra L Graham",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hearing",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -71.400946,
+    41.848286,
+    -71.400946,
+    41.848286
+],
+  "geometry": {"coordinates":[-71.400946,41.848286],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 874300873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.388454,41.828376,-71.388454,41.828376",
+    "geom:latitude":41.828376,
+    "geom:longitude":-71.388454,
+    "iso:country":"US",
+    "sg:address":"172 Wayland Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 0888",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "barbecue"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867171,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ql12fKbxDmx5fCW8pT02m_41.828376_-71.388454@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315419,
+    "wof:geomhash":"cc2ab9c554cebb0635dc51f3216c406c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85867171,
+            "region_id":85688509,
+            "venue_id":874300873
+        }
+    ],
+    "wof:id":874300873,
+    "wof:lastmodified":1464315419,
+    "wof:name":"Maverick's",
+    "wof:parent_id":85867171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "barbecue"
+    ]
+},
+  "bbox": [
+    -71.388454,
+    41.828376,
+    -71.388454,
+    41.828376
+],
+  "geometry": {"coordinates":[-71.388454,41.828376],"type":"Point"}
+}

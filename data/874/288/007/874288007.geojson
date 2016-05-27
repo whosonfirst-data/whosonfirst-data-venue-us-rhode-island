@@ -1,0 +1,76 @@
+{
+  "id": 874288007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.409386,41.828075,-71.409386,41.828075",
+    "geom:latitude":41.828075,
+    "geom:longitude":-71.409386,
+    "iso:country":"US",
+    "sg:address":"108 N Main St ",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/providence/272681-olives/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 751 1200",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867163,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ZuhNX8Jcj4lO4wYrq95W_41.828136_-71.409447@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314936,
+    "wof:geomhash":"aca92ddb20402b6dbf66d0cc1098df00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867163,
+            "region_id":85688509,
+            "venue_id":874288007
+        }
+    ],
+    "wof:id":874288007,
+    "wof:lastmodified":1464314936,
+    "wof:name":"Olives",
+    "wof:parent_id":85867163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.409386,
+    41.828075,
+    -71.409386,
+    41.828075
+],
+  "geometry": {"coordinates":[-71.409386,41.828075],"type":"Point"}
+}

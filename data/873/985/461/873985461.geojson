@@ -1,0 +1,69 @@
+{
+  "id": 873985461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.629417,41.382973,-71.629417,41.382973",
+    "geom:latitude":41.382973,
+    "geom:longitude":-71.629417,
+    "iso:country":"US",
+    "sg:address":"2370 Matunuck Schoolhouse Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 9117",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SSRBJ68rGJcRpBN0L9LZc_41.382973_-71.629417@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310653,
+    "wof:geomhash":"2728c9aa6ed0c93b97e7fa5e36d695ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":873985461
+        }
+    ],
+    "wof:id":873985461,
+    "wof:lastmodified":1464310653,
+    "wof:name":"Charlestown Fire District",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -71.629417,
+    41.382973,
+    -71.629417,
+    41.382973
+],
+  "geometry": {"coordinates":[-71.629417,41.382973],"type":"Point"}
+}

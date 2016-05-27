@@ -1,0 +1,80 @@
+{
+  "id": 874077907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447502,41.812553,-71.447502,41.812553",
+    "geom:latitude":41.812553,
+    "geom:longitude":-71.447502,
+    "iso:country":"US",
+    "sg:address":"49 Bancroft St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 383 1526",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dWGWXIqXI5w9X13QQpAVk_41.812553_-71.447502@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311527,
+    "wof:geomhash":"086190b67f2c8c67d32e16623f7a71c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874077907
+        }
+    ],
+    "wof:id":874077907,
+    "wof:lastmodified":1464311527,
+    "wof:name":"Honey's Market",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.447502,
+    41.812553,
+    -71.447502,
+    41.812553
+],
+  "geometry": {"coordinates":[-71.447502,41.812553],"type":"Point"}
+}

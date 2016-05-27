@@ -1,0 +1,77 @@
+{
+  "id": 874300251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.396004,41.846298,-71.396004,41.846298",
+    "geom:latitude":41.846298,
+    "geom:longitude":-71.396004,
+    "iso:country":"US",
+    "sg:address":"6 Braman St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 273 3266",
+    "sg:postcode":"02906",
+    "sg:province":"RI",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880033,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q75211uJuES406G0j7imc_41.846298_-71.396004@1303262238"
+    },
+    "wof:country":"US",
+    "wof:created":1464315398,
+    "wof:geomhash":"bbded41bc4dfdfc81660fdccc59c7eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880033,
+            "region_id":85688509,
+            "venue_id":874300251
+        }
+    ],
+    "wof:id":874300251,
+    "wof:lastmodified":1464315398,
+    "wof:name":"Japan Language & Culture Center",
+    "wof:parent_id":85880033,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [
+    -71.396004,
+    41.846298,
+    -71.396004,
+    41.846298
+],
+  "geometry": {"coordinates":[-71.396004,41.846298],"type":"Point"}
+}

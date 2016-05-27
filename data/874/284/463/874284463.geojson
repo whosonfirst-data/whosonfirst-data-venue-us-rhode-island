@@ -1,0 +1,79 @@
+{
+  "id": 874284463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.429782,41.819929,-71.429782,41.819929",
+    "geom:latitude":41.819929,
+    "geom:longitude":-71.429782,
+    "iso:country":"US",
+    "sg:address":"361 Broadway",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 0850",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42OjddXc9kRmdyUYpepfQZ_41.819762_-71.429979@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314790,
+    "wof:geomhash":"89b7e602d8b3588aa3fe01cb36e78a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874284463
+        }
+    ],
+    "wof:id":874284463,
+    "wof:lastmodified":1464314790,
+    "wof:name":"Broadway Liquor",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -71.429782,
+    41.819929,
+    -71.429782,
+    41.819929
+],
+  "geometry": {"coordinates":[-71.429782,41.819929],"type":"Point"}
+}

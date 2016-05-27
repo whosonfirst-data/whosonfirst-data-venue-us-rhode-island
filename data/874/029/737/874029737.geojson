@@ -1,0 +1,71 @@
+{
+  "id": 874029737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.514796,41.501236,-71.514796,41.501236",
+    "geom:latitude":41.501236,
+    "geom:longitude":-71.514796,
+    "iso:country":"US",
+    "sg:address":"44 Stony Fort Rd",
+    "sg:city":"Saunderstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 7377",
+    "sg:postcode":"02874",
+    "sg:province":"RI",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Oc451XlEGyGzGNZyj910Y_41.501236_-71.514796@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311046,
+    "wof:geomhash":"9349a0fd43b994d490de001067926082",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874029737
+        }
+    ],
+    "wof:id":874029737,
+    "wof:lastmodified":1464311046,
+    "wof:name":"Newport Masonry",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.514796,
+    41.501236,
+    -71.514796,
+    41.501236
+],
+  "geometry": {"coordinates":[-71.514796,41.501236],"type":"Point"}
+}

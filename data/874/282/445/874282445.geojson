@@ -1,0 +1,70 @@
+{
+  "id": 874282445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.630997,41.384602,-71.630997,41.384602",
+    "geom:latitude":41.384602,
+    "geom:longitude":-71.630997,
+    "iso:country":"US",
+    "sg:address":"4071 Old Post Rd",
+    "sg:city":"Charlestown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 364 6600",
+    "sg:postcode":"02813",
+    "sg:province":"RI",
+    "sg:tags":[
+        "market"
+    ],
+    "sg:website":"www.charlestownminisuper.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FtKQBcBvzGDUhiw578ALb_41.384160_-71.631379@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314722,
+    "wof:geomhash":"9896586732bb878b2882d88fa98a972c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874282445
+        }
+    ],
+    "wof:id":874282445,
+    "wof:lastmodified":1464314722,
+    "wof:name":"Charlestown Mini-Super",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -71.630997,
+    41.384602,
+    -71.630997,
+    41.384602
+],
+  "geometry": {"coordinates":[-71.63099699999999,41.384602],"type":"Point"}
+}

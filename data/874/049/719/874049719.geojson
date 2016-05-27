@@ -1,0 +1,71 @@
+{
+  "id": 874049719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.550296,41.500434,-71.550296,41.500434",
+    "geom:latitude":41.500434,
+    "geom:longitude":-71.550296,
+    "iso:country":"US",
+    "sg:address":"219 Estelle Dr",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 782 2416",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720617,
+        102081219,
+        85822369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2beuS1ZGi30zdFc2CMGWMc_41.500434_-71.550296@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311238,
+    "wof:geomhash":"4aa24ef51047757c70a8c4064e64975d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720617,
+            "neighbourhood_id":85822369,
+            "region_id":85688509,
+            "venue_id":874049719
+        }
+    ],
+    "wof:id":874049719,
+    "wof:lastmodified":1464311238,
+    "wof:name":"Carecentric",
+    "wof:parent_id":85822369,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software"
+    ]
+},
+  "bbox": [
+    -71.550296,
+    41.500434,
+    -71.550296,
+    41.500434
+],
+  "geometry": {"coordinates":[-71.550296,41.500434],"type":"Point"}
+}

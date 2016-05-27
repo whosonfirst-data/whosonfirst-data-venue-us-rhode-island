@@ -1,0 +1,77 @@
+{
+  "id": 874197573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.428591,41.800035,-71.428591,41.800035",
+    "geom:latitude":41.800035,
+    "geom:longitude":-71.428591,
+    "iso:country":"US",
+    "sg:address":"25 Carter St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 941 2849",
+    "sg:postcode":"02907",
+    "sg:province":"RI",
+    "sg:tags":[
+        "operator",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85817929,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xpyLNNlX9x78fACQE8dAT_41.800035_-71.428591@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312822,
+    "wof:geomhash":"33e4b0d598b726ce02fae041071c16da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85817929,
+            "region_id":85688509,
+            "venue_id":874197573
+        }
+    ],
+    "wof:id":874197573,
+    "wof:lastmodified":1464312822,
+    "wof:name":"RR Fashions",
+    "wof:parent_id":85817929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "line"
+    ]
+},
+  "bbox": [
+    -71.428591,
+    41.800035,
+    -71.428591,
+    41.800035
+],
+  "geometry": {"coordinates":[-71.428591,41.800035],"type":"Point"}
+}

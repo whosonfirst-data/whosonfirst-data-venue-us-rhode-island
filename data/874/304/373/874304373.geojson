@@ -1,0 +1,89 @@
+{
+  "id": 874304373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518645,41.915378,-71.518645,41.915378",
+    "geom:latitude":41.915378,
+    "geom:longitude":-71.518645,
+    "iso:country":"US",
+    "sg:address":"970 Douglas Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 448 3711",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://providence.citysearch.com/profile/external/604249962/smithfield_ri/dunkin_donuts.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OmO5wHPiR0XOSvcsTNXkq_41.915378_-71.518645@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315542,
+    "wof:geomhash":"71a6db7d587b9a3e2aee9db45a02e177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874304373
+        }
+    ],
+    "wof:id":874304373,
+    "wof:lastmodified":1464315542,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -71.518645,
+    41.915378,
+    -71.518645,
+    41.915378
+],
+  "geometry": {"coordinates":[-71.51864500000001,41.915378],"type":"Point"}
+}

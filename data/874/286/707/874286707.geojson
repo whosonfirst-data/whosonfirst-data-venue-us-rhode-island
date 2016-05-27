@@ -1,0 +1,78 @@
+{
+  "id": 874286707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.450055,41.659469,-71.450055,41.659469",
+    "geom:latitude":41.659469,
+    "geom:longitude":-71.450055,
+    "iso:country":"US",
+    "sg:address":"333 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/60064-sandonnas-take-and-bake/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 886 4429",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a6uqKugKIhNUllWshtGkj_41.659469_-71.450055@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314880,
+    "wof:geomhash":"ca04e554665ea22f3fa8c649f4f25c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874286707
+        }
+    ],
+    "wof:id":874286707,
+    "wof:lastmodified":1464314880,
+    "wof:name":"Sandonna's Take And Bake",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.450055,
+    41.659469,
+    -71.450055,
+    41.659469
+],
+  "geometry": {"coordinates":[-71.45005500000001,41.659469],"type":"Point"}
+}

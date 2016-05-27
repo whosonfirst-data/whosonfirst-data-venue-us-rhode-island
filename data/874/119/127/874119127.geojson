@@ -1,0 +1,98 @@
+{
+  "id": 874119127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.501547,41.428915,-71.501547,41.428915",
+    "geom:latitude":41.428915,
+    "geom:longitude":-71.501547,
+    "iso:country":"US",
+    "sg:address":"362 Pond St",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 0783",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "dealer",
+        "marine",
+        "sales",
+        "supply"
+    ],
+    "sg:website":"www.silverspringmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885331,
+        102191575,
+        404488343,
+        85633793,
+        101720623,
+        102081219,
+        85688509,
+        85845577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hXZM0TzD7qGZeWgPtIRnr_41.428915_-71.501547@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312026,
+    "wof:geomhash":"95281b58cd446384fda5b75a02b80e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85885331,
+            "region_id":85688509,
+            "venue_id":874119127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488343,
+            "locality_id":101720623,
+            "neighbourhood_id":85845577,
+            "region_id":85688509,
+            "venue_id":874119127
+        }
+    ],
+    "wof:id":874119127,
+    "wof:lastmodified":1464312026,
+    "wof:name":"Silver Spring Marine Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "marine",
+        "sales",
+        "supply"
+    ]
+},
+  "bbox": [
+    -71.501547,
+    41.428915,
+    -71.501547,
+    41.428915
+],
+  "geometry": {"coordinates":[-71.501547,41.428915],"type":"Point"}
+}

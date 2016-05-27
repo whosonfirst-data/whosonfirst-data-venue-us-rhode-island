@@ -1,0 +1,75 @@
+{
+  "id": 874221819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.475631,41.43284,-71.475631,41.43284",
+    "geom:latitude":41.43284,
+    "geom:longitude":-71.475631,
+    "iso:country":"US",
+    "sg:address":"48 Inez St",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 789 3337",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836307,
+        102191575,
+        404488335,
+        85633793,
+        101720621,
+        102081219,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bV8kDx8sM1VLEAsjppDH6_41.432840_-71.475631@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313082,
+    "wof:geomhash":"305eaa13bb8fc3fc4cc9b439c7222d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081219,
+            "localadmin_id":404488335,
+            "locality_id":101720621,
+            "neighbourhood_id":85836307,
+            "region_id":85688509,
+            "venue_id":874221819
+        }
+    ],
+    "wof:id":874221819,
+    "wof:lastmodified":1464313082,
+    "wof:name":"Camp Glen",
+    "wof:parent_id":85836307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -71.475631,
+    41.43284,
+    -71.475631,
+    41.43284
+],
+  "geometry": {"coordinates":[-71.47563100000001,41.43284],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 874086071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.426494,41.820963,-71.426494,41.820963",
+    "geom:latitude":41.820963,
+    "geom:longitude":-71.426494,
+    "iso:country":"US",
+    "sg:address":"99 Kenyon St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 456 9391",
+    "sg:postcode":"02903",
+    "sg:province":"RI",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867167,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EI402ges2numaJEzJIJFU_41.820963_-71.426494@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311621,
+    "wof:geomhash":"92525b5f157ba44df02c1d99c23d61d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85867167,
+            "region_id":85688509,
+            "venue_id":874086071
+        }
+    ],
+    "wof:id":874086071,
+    "wof:lastmodified":1464311621,
+    "wof:name":"Carl G Lauro Elementary School",
+    "wof:parent_id":85867167,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -71.426494,
+    41.820963,
+    -71.426494,
+    41.820963
+],
+  "geometry": {"coordinates":[-71.42649400000001,41.820963],"type":"Point"}
+}

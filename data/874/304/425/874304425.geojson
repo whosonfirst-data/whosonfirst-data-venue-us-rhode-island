@@ -1,0 +1,77 @@
+{
+  "id": 874304425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.508056,41.868764,-71.508056,41.868764",
+    "geom:latitude":41.868764,
+    "geom:longitude":-71.508056,
+    "iso:country":"US",
+    "sg:address":"305 Putnam Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 233 4009",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "sg:website":"http://www.greenvillegutters.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dpT034Gst80cLQOaUli88_41.868764_-71.508056@1303262239"
+    },
+    "wof:country":"US",
+    "wof:created":1464315544,
+    "wof:geomhash":"23ee81921130d1aa94bbba120b6c90fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874304425
+        }
+    ],
+    "wof:id":874304425,
+    "wof:lastmodified":1464315544,
+    "wof:name":"Greenville Insulation Co Inc",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.508056,
+    41.868764,
+    -71.508056,
+    41.868764
+],
+  "geometry": {"coordinates":[-71.508056,41.868764],"type":"Point"}
+}

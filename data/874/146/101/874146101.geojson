@@ -1,0 +1,71 @@
+{
+  "id": 874146101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.468195,41.835213,-71.468195,41.835213",
+    "geom:latitude":41.835213,
+    "geom:longitude":-71.468195,
+    "iso:country":"US",
+    "sg:address":"65 Fruit Hill Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 272 7118",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720567,
+        102081597,
+        85832215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YbRU6MsvcebzOlQDwVCiV_41.835213_-71.468195@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312294,
+    "wof:geomhash":"9ed3e1de15ab367e7ed9597c68692a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "locality_id":101720567,
+            "neighbourhood_id":85832215,
+            "region_id":85688509,
+            "venue_id":874146101
+        }
+    ],
+    "wof:id":874146101,
+    "wof:lastmodified":1464312294,
+    "wof:name":"St Thomas Church Rectory",
+    "wof:parent_id":85832215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -71.468195,
+    41.835213,
+    -71.468195,
+    41.835213
+],
+  "geometry": {"coordinates":[-71.46819499999999,41.835213],"type":"Point"}
+}

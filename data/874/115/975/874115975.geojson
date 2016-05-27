@@ -1,0 +1,75 @@
+{
+  "id": 874115975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.440934,41.554097,-71.440934,41.554097",
+    "geom:latitude":41.554097,
+    "geom:longitude":-71.440934,
+    "iso:country":"US",
+    "sg:address":"671 Boston Neck Rd",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 5550",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44a62SNlvHsYcnsIDLRoG6_41.554097_-71.440934@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311997,
+    "wof:geomhash":"db6ad60e0727317a16f04eef895b7d18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874115975
+        }
+    ],
+    "wof:id":874115975,
+    "wof:lastmodified":1464311997,
+    "wof:name":"Hunt Video Hut",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.440934,
+    41.554097,
+    -71.440934,
+    41.554097
+],
+  "geometry": {"coordinates":[-71.440934,41.554097],"type":"Point"}
+}

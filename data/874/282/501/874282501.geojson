@@ -1,0 +1,70 @@
+{
+  "id": 874282501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.485603,41.8587,-71.485603,41.8587",
+    "geom:latitude":41.8587,
+    "geom:longitude":-71.485603,
+    "iso:country":"US",
+    "sg:address":"12 Waterman Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 6200",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.truevalue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823211,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IX9HcLn0zVIYLw084Xiqf_41.858961_-71.485997@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314724,
+    "wof:geomhash":"0f8ef0277605f6916277fb160b1c1d92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85823211,
+            "region_id":85688509,
+            "venue_id":874282501
+        }
+    ],
+    "wof:id":874282501,
+    "wof:lastmodified":1464314724,
+    "wof:name":"Ace True Value Hardware Co",
+    "wof:parent_id":85823211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -71.485603,
+    41.8587,
+    -71.485603,
+    41.8587
+],
+  "geometry": {"coordinates":[-71.485603,41.8587],"type":"Point"}
+}

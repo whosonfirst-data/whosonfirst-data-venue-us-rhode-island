@@ -1,0 +1,73 @@
+{
+  "id": 874270343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.472832,41.819431,-71.472832,41.819431",
+    "geom:latitude":41.819431,
+    "geom:longitude":-71.472832,
+    "iso:country":"US",
+    "sg:address":"760 Hartford Ave",
+    "sg:city":"Johnston",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 421 5676",
+    "sg:postcode":"02919",
+    "sg:province":"RI",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85880041,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iAl3aacCfaEVklJDy0fLo_41.819431_-71.472832@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314237,
+    "wof:geomhash":"e2df5e3fb53a3159d736c02ee8208650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85880041,
+            "region_id":85688509,
+            "venue_id":874270343
+        }
+    ],
+    "wof:id":874270343,
+    "wof:lastmodified":1464314237,
+    "wof:name":"City Limit Auto Inc",
+    "wof:parent_id":85880041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -71.472832,
+    41.819431,
+    -71.472832,
+    41.819431
+],
+  "geometry": {"coordinates":[-71.472832,41.819431],"type":"Point"}
+}

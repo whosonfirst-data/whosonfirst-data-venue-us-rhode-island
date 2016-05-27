@@ -1,0 +1,86 @@
+{
+  "id": 874198463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.406669,41.791762,-71.406669,41.791762",
+    "geom:latitude":41.791762,
+    "geom:longitude":-71.406669,
+    "iso:country":"US",
+    "sg:address":"1275 Broad St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 5252",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420558783,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509,
+        85880045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BmtxpJWqh8QBMB013edJZ_41.791762_-71.406669@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312830,
+    "wof:geomhash":"a94e697e7a64d2f721df62d1a1fdf29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":420558783,
+            "region_id":85688509,
+            "venue_id":874198463
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880045,
+            "region_id":85688509,
+            "venue_id":874198463
+        }
+    ],
+    "wof:id":874198463,
+    "wof:lastmodified":1464312830,
+    "wof:name":"Water View Villa Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -71.406669,
+    41.791762,
+    -71.406669,
+    41.791762
+],
+  "geometry": {"coordinates":[-71.40666899999999,41.791762],"type":"Point"}
+}

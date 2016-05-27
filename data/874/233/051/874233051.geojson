@@ -1,0 +1,80 @@
+{
+  "id": 874233051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.310678,41.742063,-71.310678,41.742063",
+    "geom:latitude":41.742063,
+    "geom:longitude":-71.310678,
+    "iso:country":"US",
+    "sg:address":"306 County Rd",
+    "sg:city":"Barrington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 245 0022",
+    "sg:postcode":"02806",
+    "sg:province":"RI",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85855205,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IQhRj4XZCpwNAAnjRs7A7_41.742063_-71.310678@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313200,
+    "wof:geomhash":"43398c9da613dc0177259d516afb7f7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85855205,
+            "region_id":85688509,
+            "venue_id":874233051
+        }
+    ],
+    "wof:id":874233051,
+    "wof:lastmodified":1464313200,
+    "wof:name":"Body Natural Fitness Inc",
+    "wof:parent_id":85855205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -71.310678,
+    41.742063,
+    -71.310678,
+    41.742063
+],
+  "geometry": {"coordinates":[-71.310678,41.742063],"type":"Point"}
+}

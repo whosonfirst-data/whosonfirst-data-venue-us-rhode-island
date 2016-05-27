@@ -1,0 +1,72 @@
+{
+  "id": 874132483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.447388,41.477273,-71.447388,41.477273",
+    "geom:latitude":41.477273,
+    "geom:longitude":-71.447388,
+    "iso:country":"US",
+    "sg:address":"122 N River Dr",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 4538",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85826881,
+        102081219,
+        85807435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PV2d0a7yb8NU9Fs0YiUIS_41.477273_-71.447388@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312168,
+    "wof:geomhash":"a7b110fdfbdcd6e0d7dd1cdef04785bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85826881,
+            "region_id":85688509,
+            "venue_id":874132483
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85807435,
+            "region_id":85688509,
+            "venue_id":874132483
+        }
+    ],
+    "wof:id":874132483,
+    "wof:lastmodified":1464312168,
+    "wof:name":"Salca Property Management Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.447388,
+    41.477273,
+    -71.447388,
+    41.477273
+],
+  "geometry": {"coordinates":[-71.447388,41.477273],"type":"Point"}
+}

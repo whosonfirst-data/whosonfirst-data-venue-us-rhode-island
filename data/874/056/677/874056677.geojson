@@ -1,0 +1,71 @@
+{
+  "id": 874056677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.270658,41.704812,-71.270658,41.704812",
+    "geom:latitude":41.704812,
+    "geom:longitude":-71.270658,
+    "iso:country":"US",
+    "sg:address":"122 Tupelo St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 253 1215",
+    "sg:postcode":"02809",
+    "sg:province":"RI",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85807607,
+        102081221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rZGoWMWwq0HuaQvjVUkUz_41.704812_-71.270658@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311306,
+    "wof:geomhash":"b2b559396522914dadf31bf205487160",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081221,
+            "neighbourhood_id":85807607,
+            "region_id":85688509,
+            "venue_id":874056677
+        }
+    ],
+    "wof:id":874056677,
+    "wof:lastmodified":1464311306,
+    "wof:name":"Scolaro Tool Co",
+    "wof:parent_id":85807607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -71.270658,
+    41.704812,
+    -71.270658,
+    41.704812
+],
+  "geometry": {"coordinates":[-71.270658,41.704812],"type":"Point"}
+}

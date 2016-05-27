@@ -1,0 +1,80 @@
+{
+  "id": 874287759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.30152,41.506322,-71.30152,41.506322",
+    "geom:latitude":41.506322,
+    "geom:longitude":-71.30152,
+    "iso:country":"US",
+    "sg:address":"19 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/middletown/83104-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 849 6940",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nI3wNL7po3JgIJBeb4Eoj_41.506547_-71.301496@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314927,
+    "wof:geomhash":"fb37af59da183fe78b04e6603f60742a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874287759
+        }
+    ],
+    "wof:id":874287759,
+    "wof:lastmodified":1464314927,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -71.30152,
+    41.506322,
+    -71.30152,
+    41.506322
+],
+  "geometry": {"coordinates":[-71.30152,41.506322],"type":"Point"}
+}

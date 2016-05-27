@@ -1,0 +1,83 @@
+{
+  "id": 874291755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.442892,41.958101,-71.442892,41.958101",
+    "geom:latitude":41.958101,
+    "geom:longitude":-71.442892,
+    "iso:country":"US",
+    "sg:address":"2374 Mendon Rd",
+    "sg:city":"Cumberland",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 341 9295",
+    "sg:postcode":"02864",
+    "sg:province":"RI",
+    "sg:tags":[
+        "control",
+        "consultant",
+        "program",
+        "weight",
+        "fitness"
+    ],
+    "sg:website":"http://www.jennycraig.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85803785,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r5fFgfvlJVFUwp53sXWDm_41.958101_-71.442892@1303262236"
+    },
+    "wof:country":"US",
+    "wof:created":1464315081,
+    "wof:geomhash":"1039fcf264e724c0325592c07c3afc3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85803785,
+            "region_id":85688509,
+            "venue_id":874291755
+        }
+    ],
+    "wof:id":874291755,
+    "wof:lastmodified":1464315081,
+    "wof:name":"Jenny Craig",
+    "wof:parent_id":85803785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "consultant",
+        "program",
+        "weight",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -71.442892,
+    41.958101,
+    -71.442892,
+    41.958101
+],
+  "geometry": {"coordinates":[-71.442892,41.958101],"type":"Point"}
+}

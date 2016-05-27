@@ -1,0 +1,69 @@
+{
+  "id": 873999255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.507009,41.384964,-71.507009,41.384964",
+    "geom:latitude":41.384964,
+    "geom:longitude":-71.507009,
+    "iso:country":"US",
+    "sg:address":"294 Great Island Rd",
+    "sg:city":"Narragansett",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 284 0246",
+    "sg:postcode":"02882",
+    "sg:province":"RI",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85849223,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wy8HJ9YO79b0oY0AR4VTT_41.384964_-71.507009@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310755,
+    "wof:geomhash":"281a217a4124c2bc574c2106893253e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85849223,
+            "region_id":85688509,
+            "venue_id":873999255
+        }
+    ],
+    "wof:id":873999255,
+    "wof:lastmodified":1464310755,
+    "wof:name":"Wheelhouse Restaurant",
+    "wof:parent_id":85849223,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.507009,
+    41.384964,
+    -71.507009,
+    41.384964
+],
+  "geometry": {"coordinates":[-71.507009,41.384964],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 874287545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.366843,41.822991,-71.366843,41.822991",
+    "geom:latitude":41.822991,
+    "geom:longitude":-71.366843,
+    "iso:country":"US",
+    "sg:address":"398 Central Ave",
+    "sg:city":"East Providence",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-providence/11060-coppola-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 908 665 0266",
+    "sg:postcode":"02914",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85809611,
+        102191575,
+        404488363,
+        85633793,
+        101720571,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KRZZ4StjJV1Gkqc9hpw30_41.822991_-71.366843@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314914,
+    "wof:geomhash":"ec389421e53814e328b8fcbdaaad401c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488363,
+            "locality_id":101720571,
+            "neighbourhood_id":85809611,
+            "region_id":85688509,
+            "venue_id":874287545
+        }
+    ],
+    "wof:id":874287545,
+    "wof:lastmodified":1464314914,
+    "wof:name":"Coppola Ristorante",
+    "wof:parent_id":85809611,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.366843,
+    41.822991,
+    -71.366843,
+    41.822991
+],
+  "geometry": {"coordinates":[-71.366843,41.822991],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 874266623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.435158,41.550036,-71.435158,41.550036",
+    "geom:latitude":41.550036,
+    "geom:longitude":-71.435158,
+    "iso:country":"US",
+    "sg:address":"1 Cecil Ave",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 7363",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85823665,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xJ3ARNR8GgmvyjCsQpK8W_41.550036_-71.435158@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314093,
+    "wof:geomhash":"38867a719ec7304c48dfcf79438cf475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85823665,
+            "region_id":85688509,
+            "venue_id":874266623
+        }
+    ],
+    "wof:id":874266623,
+    "wof:lastmodified":1464314093,
+    "wof:name":"Dauksis Concrete Co",
+    "wof:parent_id":85823665,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.435158,
+    41.550036,
+    -71.435158,
+    41.550036
+],
+  "geometry": {"coordinates":[-71.435158,41.550036],"type":"Point"}
+}

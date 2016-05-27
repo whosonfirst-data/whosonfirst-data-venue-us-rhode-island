@@ -1,0 +1,71 @@
+{
+  "id": 874156117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.453003,41.863265,-71.453003,41.863265",
+    "geom:latitude":41.863265,
+    "geom:longitude":-71.453003,
+    "iso:country":"US",
+    "sg:address":"1704 Mineral Spring Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 722 4989",
+    "sg:postcode":"02904",
+    "sg:province":"RI",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85832439,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J3pdQ0SyH0A55i81dQBX7_41.863265_-71.453003@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312390,
+    "wof:geomhash":"24c4746672d6043aaccf54b77916652e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85832439,
+            "region_id":85688509,
+            "venue_id":874156117
+        }
+    ],
+    "wof:id":874156117,
+    "wof:lastmodified":1464312390,
+    "wof:name":"Sewing & Vacuum Center",
+    "wof:parent_id":85832439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -71.453003,
+    41.863265,
+    -71.453003,
+    41.863265
+],
+  "geometry": {"coordinates":[-71.453003,41.863265],"type":"Point"}
+}

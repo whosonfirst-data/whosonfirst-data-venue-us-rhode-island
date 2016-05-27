@@ -1,0 +1,86 @@
+{
+  "id": 874128427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.448693,41.806626,-71.448693,41.806626",
+    "geom:latitude":41.806626,
+    "geom:longitude":-71.448693,
+    "iso:country":"US",
+    "sg:address":"325 Union Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 944 1170",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839577,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bzI53a2AH9HTErATLeJ2s_41.806626_-71.448693@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312115,
+    "wof:geomhash":"38ee81d6e3c13ed9529075e7f4f10948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85839577,
+            "region_id":85688509,
+            "venue_id":874128427
+        }
+    ],
+    "wof:id":874128427,
+    "wof:lastmodified":1464312115,
+    "wof:name":"Smokey's Auto Repair",
+    "wof:parent_id":85839577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.448693,
+    41.806626,
+    -71.448693,
+    41.806626
+],
+  "geometry": {"coordinates":[-71.44869300000001,41.806626],"type":"Point"}
+}

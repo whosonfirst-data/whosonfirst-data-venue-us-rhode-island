@@ -1,0 +1,69 @@
+{
+  "id": 874278941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.615069,41.518722,-71.615069,41.518722",
+    "geom:latitude":41.518722,
+    "geom:longitude":-71.615069,
+    "iso:country":"US",
+    "sg:address":"215 James Trl",
+    "sg:city":"West Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 539 7563",
+    "sg:postcode":"02892",
+    "sg:province":"RI",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85853301,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WLSlFtNPu4rALIuhF6aDT_41.518722_-71.615069@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464314570,
+    "wof:geomhash":"08cffd416e87c28ae9f3a28bff7f6018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85853301,
+            "region_id":85688509,
+            "venue_id":874278941
+        }
+    ],
+    "wof:id":874278941,
+    "wof:lastmodified":1464314570,
+    "wof:name":"Cynthia Teferian",
+    "wof:parent_id":85853301,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.615069,
+    41.518722,
+    -71.615069,
+    41.518722
+],
+  "geometry": {"coordinates":[-71.61506900000001,41.518722],"type":"Point"}
+}

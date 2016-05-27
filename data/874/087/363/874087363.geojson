@@ -1,0 +1,81 @@
+{
+  "id": 874087363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.457401,41.796462,-71.457401,41.796462",
+    "geom:latitude":41.796462,
+    "geom:longitude":-71.457401,
+    "iso:country":"US",
+    "sg:address":"80 Lookout Ave",
+    "sg:city":"Cranston",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 943 3935",
+    "sg:postcode":"02920",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880049,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509,
+        420540517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ITqE79mlZ4u9lPvmKtgcO_41.796462_-71.457401@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311635,
+    "wof:geomhash":"693eae4b01a6af199b7f247039814f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":85880049,
+            "region_id":85688509,
+            "venue_id":874087363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540517,
+            "region_id":85688509,
+            "venue_id":874087363
+        }
+    ],
+    "wof:id":874087363,
+    "wof:lastmodified":1464311635,
+    "wof:name":"Underground Chopper Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.457401,
+    41.796462,
+    -71.457401,
+    41.796462
+],
+  "geometry": {"coordinates":[-71.457401,41.796462],"type":"Point"}
+}

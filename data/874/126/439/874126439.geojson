@@ -1,0 +1,79 @@
+{
+  "id": 874126439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.452835,41.568591,-71.452835,41.568591",
+    "geom:latitude":41.568591,
+    "geom:longitude":-71.452835,
+    "iso:country":"US",
+    "sg:address":"1 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 295 0050",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:tags":[
+        "charter",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yWMQbBRRD3C144BQ5v1KD_41.568591_-71.452835@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312098,
+    "wof:geomhash":"ce2271a9bac3e3372fa16dda7b03584a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874126439
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874126439
+        }
+    ],
+    "wof:id":874126439,
+    "wof:lastmodified":1464312098,
+    "wof:name":"Wickford Boat Rentals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charter",
+        "boat"
+    ]
+},
+  "bbox": [
+    -71.452835,
+    41.568591,
+    -71.452835,
+    41.568591
+],
+  "geometry": {"coordinates":[-71.45283499999999,41.568591],"type":"Point"}
+}

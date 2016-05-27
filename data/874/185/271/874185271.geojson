@@ -1,0 +1,71 @@
+{
+  "id": 874185271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.474876,41.855778,-71.474876,41.855778",
+    "geom:latitude":41.855778,
+    "geom:longitude":-71.474876,
+    "iso:country":"US",
+    "sg:address":"14 Dewey Ave",
+    "sg:city":"North Providence",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 231 4883",
+    "sg:postcode":"02911",
+    "sg:province":"RI",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85802791,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f84Bmg63runI2GsKwHxO9_41.855778_-71.474876@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312694,
+    "wof:geomhash":"6cc1624d0b7dabb14e66b0758ea416f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85802791,
+            "region_id":85688509,
+            "venue_id":874185271
+        }
+    ],
+    "wof:id":874185271,
+    "wof:lastmodified":1464312694,
+    "wof:name":"RME Inc",
+    "wof:parent_id":85802791,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.474876,
+    41.855778,
+    -71.474876,
+    41.855778
+],
+  "geometry": {"coordinates":[-71.47487599999999,41.855778],"type":"Point"}
+}

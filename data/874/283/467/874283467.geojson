@@ -1,0 +1,72 @@
+{
+  "id": 874283467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.518645,41.915378,-71.518645,41.915378",
+    "geom:latitude":41.915378,
+    "geom:longitude":-71.518645,
+    "iso:country":"US",
+    "sg:address":"970 Douglas Pike",
+    "sg:city":"Smithfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 232 0990",
+    "sg:postcode":"02917",
+    "sg:province":"RI",
+    "sg:tags":[
+        "money",
+        "order"
+    ],
+    "sg:website":"http://www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85851071,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c3znnMqhO9TsSwupJL62u_41.915663_-71.518961@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464314755,
+    "wof:geomhash":"71a6db7d587b9a3e2aee9db45a02e177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85851071,
+            "region_id":85688509,
+            "venue_id":874283467
+        }
+    ],
+    "wof:id":874283467,
+    "wof:lastmodified":1464314755,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85851071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order"
+    ]
+},
+  "bbox": [
+    -71.518645,
+    41.915378,
+    -71.518645,
+    41.915378
+],
+  "geometry": {"coordinates":[-71.51864500000001,41.915378],"type":"Point"}
+}

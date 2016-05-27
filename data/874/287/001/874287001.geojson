@@ -1,0 +1,87 @@
+{
+  "id": 874287001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.489382,41.711727,-71.489382,41.711727",
+    "geom:latitude":41.711727,
+    "geom:longitude":-71.489382,
+    "iso:country":"US",
+    "sg:address":"1000 Bald Hill Rd",
+    "sg:city":"Warwick",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/warwick/53950-tim-hortons/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 615 3152",
+    "sg:postcode":"02886",
+    "sg:province":"RI",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856797,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509,
+        85816599
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bGQaZUNKIHKSpm87NjKRU_41.711727_-71.489382@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314890,
+    "wof:geomhash":"a53e9b97d36e41a48b0d7f9841f68f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85856797,
+            "region_id":85688509,
+            "venue_id":874287001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85816599,
+            "region_id":85688509,
+            "venue_id":874287001
+        }
+    ],
+    "wof:id":874287001,
+    "wof:lastmodified":1464314890,
+    "wof:name":"Tim Hortons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -71.489382,
+    41.711727,
+    -71.489382,
+    41.711727
+],
+  "geometry": {"coordinates":[-71.48938200000001,41.711727],"type":"Point"}
+}

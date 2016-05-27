@@ -1,0 +1,75 @@
+{
+  "id": 874200207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.300955,41.515617,-71.300955,41.515617",
+    "geom:latitude":41.515617,
+    "geom:longitude":-71.300955,
+    "iso:country":"US",
+    "sg:address":"379 W Main Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 841 5566",
+    "sg:postcode":"02842",
+    "sg:province":"RI",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85857501,
+        102191575,
+        404488347,
+        85633793,
+        101720607,
+        102081595,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45kqSYZhI5gmxy3hYmSC86_41.515617_-71.300955@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464312846,
+    "wof:geomhash":"851826dcf7e4a8eefdcfdb781a7e6933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081595,
+            "localadmin_id":404488347,
+            "locality_id":101720607,
+            "neighbourhood_id":85857501,
+            "region_id":85688509,
+            "venue_id":874200207
+        }
+    ],
+    "wof:id":874200207,
+    "wof:lastmodified":1464312846,
+    "wof:name":"Office Max",
+    "wof:parent_id":85857501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.300955,
+    41.515617,
+    -71.300955,
+    41.515617
+],
+  "geometry": {"coordinates":[-71.300955,41.515617],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 874106269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.456963,41.567744,-71.456963,41.567744",
+    "geom:latitude":41.567744,
+    "geom:longitude":-71.456963,
+    "iso:country":"US",
+    "sg:address":"99 Phillips St",
+    "sg:city":"North Kingstown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 268 6560",
+    "sg:postcode":"02852",
+    "sg:province":"RI",
+    "sg:website":"www.nksd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85811675,
+        102081219,
+        85848555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0W042dpH9eFT84vFFNlr5a_41.567744_-71.456963@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311874,
+    "wof:geomhash":"7d7709e845b34d0d317a506b56683010",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85811675,
+            "region_id":85688509,
+            "venue_id":874106269
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85848555,
+            "region_id":85688509,
+            "venue_id":874106269
+        }
+    ],
+    "wof:id":874106269,
+    "wof:lastmodified":1464311874,
+    "wof:name":"Wickford Elementary School",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.456963,
+    41.567744,
+    -71.456963,
+    41.567744
+],
+  "geometry": {"coordinates":[-71.456963,41.567744],"type":"Point"}
+}

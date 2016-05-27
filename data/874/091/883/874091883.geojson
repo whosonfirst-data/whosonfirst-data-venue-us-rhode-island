@@ -1,0 +1,75 @@
+{
+  "id": 874091883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.414669,41.81148,-71.414669,41.81148",
+    "geom:latitude":41.81148,
+    "geom:longitude":-71.414669,
+    "iso:country":"US",
+    "sg:address":"78 Pearl St",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 521 4545",
+    "sg:postcode":"02905",
+    "sg:province":"RI",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85880055,
+        102191575,
+        404488375,
+        85633793,
+        101720567,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X2ej94qQ2lXmaVJ55Vsj1_41.811480_-71.414669@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464311685,
+    "wof:geomhash":"9eb23a734d88aef2e26c156f31c22269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488375,
+            "locality_id":101720567,
+            "neighbourhood_id":85880055,
+            "region_id":85688509,
+            "venue_id":874091883
+        }
+    ],
+    "wof:id":874091883,
+    "wof:lastmodified":1464311685,
+    "wof:name":"Providence Travel Inc",
+    "wof:parent_id":85880055,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -71.414669,
+    41.81148,
+    -71.414669,
+    41.81148
+],
+  "geometry": {"coordinates":[-71.414669,41.81148],"type":"Point"}
+}

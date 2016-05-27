@@ -1,0 +1,84 @@
+{
+  "id": 874025097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.459081,41.807023,-71.459081,41.807023",
+    "geom:latitude":41.807023,
+    "geom:longitude":-71.459081,
+    "iso:country":"US",
+    "sg:address":"574 Union Ave",
+    "sg:city":"Providence",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 946 8175",
+    "sg:postcode":"02909",
+    "sg:province":"RI",
+    "sg:tags":[
+        "pipe",
+        "fabricated",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        420540503,
+        102191575,
+        404488357,
+        85633793,
+        101720573,
+        102081597,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69XpjFYygwCtrWj1g0nNe0_41.807023_-71.459081@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310998,
+    "wof:geomhash":"34a23e47a67576305fdbb4c6619c333e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081597,
+            "localadmin_id":404488357,
+            "locality_id":101720573,
+            "neighbourhood_id":420540503,
+            "region_id":85688509,
+            "venue_id":874025097
+        }
+    ],
+    "wof:id":874025097,
+    "wof:lastmodified":1464310998,
+    "wof:name":"Northeast Pipe Fabrication Sup",
+    "wof:parent_id":420540503,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "fabricated",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -71.459081,
+    41.807023,
+    -71.459081,
+    41.807023
+],
+  "geometry": {"coordinates":[-71.459081,41.807023],"type":"Point"}
+}

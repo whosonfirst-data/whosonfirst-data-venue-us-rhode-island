@@ -1,0 +1,69 @@
+{
+  "id": 874000669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.529022,41.991012,-71.529022,41.991012",
+    "geom:latitude":41.991012,
+    "geom:longitude":-71.529022,
+    "iso:country":"US",
+    "sg:address":"573 S Main St",
+    "sg:city":"Woonsocket",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 617 929 2097",
+    "sg:postcode":"02895",
+    "sg:province":"RI",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85822053,
+        102081597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34nCbt7I8sJMvyo9cVYQ25_41.991012_-71.529022@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464310765,
+    "wof:geomhash":"6dbbb7ab2ab95c92e17bc9a7a18f7bf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081597,
+            "neighbourhood_id":85822053,
+            "region_id":85688509,
+            "venue_id":874000669
+        }
+    ],
+    "wof:id":874000669,
+    "wof:lastmodified":1464310765,
+    "wof:name":"Boston Globe",
+    "wof:parent_id":85822053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -71.529022,
+    41.991012,
+    -71.529022,
+    41.991012
+],
+  "geometry": {"coordinates":[-71.529022,41.991012],"type":"Point"}
+}

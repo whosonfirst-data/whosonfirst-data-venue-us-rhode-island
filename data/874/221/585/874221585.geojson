@@ -1,0 +1,71 @@
+{
+  "id": 874221585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.604661,41.388105,-71.604661,41.388105",
+    "geom:latitude":41.388105,
+    "geom:longitude":-71.604661,
+    "iso:country":"US",
+    "sg:address":"5 Dartmouth Ln",
+    "sg:city":"Wakefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 783 8836",
+    "sg:postcode":"02879",
+    "sg:province":"RI",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        85810469,
+        102081219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18fSpJJbI1FYOZL3I3n1Ky_41.388105_-71.604661@1294189504"
+    },
+    "wof:country":"US",
+    "wof:created":1464313080,
+    "wof:geomhash":"067e11666398402966801b59f57c34cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "neighbourhood_id":85810469,
+            "region_id":85688509,
+            "venue_id":874221585
+        }
+    ],
+    "wof:id":874221585,
+    "wof:lastmodified":1464313080,
+    "wof:name":"Green Hill Electric",
+    "wof:parent_id":85810469,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.604661,
+    41.388105,
+    -71.604661,
+    41.388105
+],
+  "geometry": {"coordinates":[-71.60466099999999,41.388105],"type":"Point"}
+}

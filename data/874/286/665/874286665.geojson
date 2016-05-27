@@ -1,0 +1,76 @@
+{
+  "id": 874286665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.449993,41.661319,-71.449993,41.661319",
+    "geom:latitude":41.661319,
+    "geom:longitude":-71.449993,
+    "iso:country":"US",
+    "sg:address":"186 Main St",
+    "sg:city":"East Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ri/east-greenwich/55006-frank--johns-italian-family-restaurant--pizzeri/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 401 884 1221",
+    "sg:postcode":"02818",
+    "sg:province":"RI",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810613,
+        102191575,
+        404488313,
+        85633793,
+        101720577,
+        102081209,
+        85688509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29MsabrHhO2kcVseIzXJPx_41.661319_-71.449993@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464314879,
+    "wof:geomhash":"6ee102d699bf1e8c3114d647d87efbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081209,
+            "localadmin_id":404488313,
+            "locality_id":101720577,
+            "neighbourhood_id":85810613,
+            "region_id":85688509,
+            "venue_id":874286665
+        }
+    ],
+    "wof:id":874286665,
+    "wof:lastmodified":1464314879,
+    "wof:name":"Frank & John's Italian Family Restaurant & Pizzeri",
+    "wof:parent_id":85810613,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -71.449993,
+    41.661319,
+    -71.449993,
+    41.661319
+],
+  "geometry": {"coordinates":[-71.44999300000001,41.661319],"type":"Point"}
+}
