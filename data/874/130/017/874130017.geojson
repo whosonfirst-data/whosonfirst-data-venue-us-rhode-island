@@ -2,14 +2,20 @@
   "id": 874130017,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Tiogue Ave Coventry RI 02816",
+    "addr:housenumber":"410",
+    "addr:postcode":"02816",
+    "addr:street":"Tiogue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.545906,41.683993,-71.545906,41.683993",
     "geom:latitude":41.683993,
     "geom:longitude":-71.545906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Tiogue Ave",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803223,
         102081209
     ],
+    "wof:brand_id":420574481,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fG5k4tkMPh8SAPYdapZGI_41.683993_-71.545906@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312136,
-    "wof:geomhash":"64711c1adfdff74c5d0e893d66528270",
+    "wof:geomhash":"239376da7a676e0237a6f49b73c91d22",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874130017,
-    "wof:lastmodified":1467082050,
+    "wof:lastmodified":1510604203,
     "wof:name":"Met Life",
     "wof:parent_id":85803223,
     "wof:placetype":"venue",

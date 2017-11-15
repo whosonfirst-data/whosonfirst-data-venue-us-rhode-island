@@ -2,14 +2,20 @@
   "id": 874033673,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Sockanosset Cross Rd Cranston RI 02920",
+    "addr:housenumber":"151",
+    "addr:postcode":"02920",
+    "addr:street":"Sockanosset Cross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.457201,41.755619,-71.457201,41.755619",
     "geom:latitude":41.755619,
     "geom:longitude":-71.457201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"151 Sockanosset Cross Rd",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SE2B8lpLQufQhFlbfKgbU_41.755619_-71.457201@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311082,
-    "wof:geomhash":"d0153cd0124dee1890e9ada67818c04f",
+    "wof:geomhash":"ac1c56e7b544a61c173c90d8ba1bc8a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874033673,
-    "wof:lastmodified":1467082012,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",

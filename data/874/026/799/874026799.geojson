@@ -2,14 +2,20 @@
   "id": 874026799,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Lloyd Ave Warwick RI 02889",
+    "addr:housenumber":"20",
+    "addr:postcode":"02889",
+    "addr:street":"Lloyd Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.405756,41.701684,-71.405756,41.701684",
     "geom:latitude":41.701684,
     "geom:longitude":-71.405756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Lloyd Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125153127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tY6Ptrsr7KAe7EzEqJ2bc_41.701684_-71.405756@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311014,
-    "wof:geomhash":"55880292c1bebc0c513e246c32e66b49",
+    "wof:geomhash":"cf0d509903b0af9eb0c921a9bc7f3db0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874026799,
-    "wof:lastmodified":1467082010,
+    "wof:lastmodified":1510699544,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":420540485,
     "wof:placetype":"venue",

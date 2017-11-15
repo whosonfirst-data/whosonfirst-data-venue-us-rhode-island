@@ -2,6 +2,10 @@
   "id": 874290275,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 School St Ste 102 Pawtucket RI 02860",
+    "addr:housenumber":"333",
+    "addr:postcode":"02860",
+    "addr:street":"School St Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874290275,
-    "wof:lastmodified":1467082160,
+    "wof:lastmodified":1472644305,
     "wof:name":"Oakland Primary Health Care",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

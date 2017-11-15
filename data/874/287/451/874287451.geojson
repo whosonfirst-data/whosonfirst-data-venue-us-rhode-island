@@ -2,14 +2,20 @@
   "id": 874287451,
   "type": "Feature",
   "properties": {
+    "addr:full":"288 Thayer St Providence RI 02906",
+    "addr:housenumber":"288",
+    "addr:postcode":"02906",
+    "addr:street":"Thayer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.401119,41.82985,-71.401119,41.82985",
     "geom:latitude":41.82985,
     "geom:longitude":-71.401119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"288 Thayer St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DCsLtIsPLIaBfZJNlpQmh_41.829850_-71.401119@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314911,
-    "wof:geomhash":"13c2aa45fa271bc8f937aba1fbfe5720",
+    "wof:geomhash":"03c6ba9ba438c3c91c1e8981aba8c027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874287451,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

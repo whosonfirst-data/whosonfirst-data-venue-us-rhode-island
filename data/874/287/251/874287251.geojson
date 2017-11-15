@@ -2,14 +2,20 @@
   "id": 874287251,
   "type": "Feature",
   "properties": {
+    "addr:full":"957 Main St West Warwick RI 02893",
+    "addr:housenumber":"957",
+    "addr:postcode":"02893",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.523536,41.71616,-71.523536,41.71616",
     "geom:latitude":41.71616,
     "geom:longitude":-71.523536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"957 Main St",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85830837,
         102081209
     ],
+    "wof:brand_id":420574075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o3BOvQN8utLTaZzFliPAs_41.716160_-71.523536@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314899,
-    "wof:geomhash":"12989432329f5c055ce1eefc862aa3bf",
+    "wof:geomhash":"99bc2c2de273a8d89946db99b6ae1892",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874287251,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510604436,
     "wof:name":"Tim Hortons",
     "wof:parent_id":85830837,
     "wof:placetype":"venue",

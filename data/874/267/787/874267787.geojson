@@ -2,14 +2,20 @@
   "id": 874267787,
   "type": "Feature",
   "properties": {
+    "addr:full":"583 Hope St Bristol RI 02809",
+    "addr:housenumber":"583",
+    "addr:postcode":"02809",
+    "addr:street":"Hope St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.277746,41.673472,-71.277746,41.673472",
     "geom:latitude":41.673472,
     "geom:longitude":-71.277746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"583 Hope St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85807607,
         102081221
     ],
+    "wof:brand_id":420575087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uR4aeRgsHGa9KblCKNpbY_41.673472_-71.277746@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314143,
-    "wof:geomhash":"d6fd3dd2f7a0e05ca63c6404083b8d36",
+    "wof:geomhash":"92abc15625e8203bf09b896a0e106894",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874267787,
-    "wof:lastmodified":1467082128,
+    "wof:lastmodified":1510601942,
     "wof:name":"New Look",
     "wof:parent_id":85807607,
     "wof:placetype":"venue",

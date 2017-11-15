@@ -2,6 +2,10 @@
   "id": 874302069,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Promenade St Rm 250 Providence RI 02908",
+    "addr:housenumber":"235;250",
+    "addr:postcode":"02908",
+    "addr:street":"Promenade St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874302069,
-    "wof:lastmodified":1467082177,
+    "wof:lastmodified":1472644309,
     "wof:name":"Foundry Cafe",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

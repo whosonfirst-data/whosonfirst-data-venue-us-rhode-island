@@ -2,14 +2,20 @@
   "id": 874295657,
   "type": "Feature",
   "properties": {
+    "addr:full":"387 W Fountain St Providence RI 02903",
+    "addr:housenumber":"387",
+    "addr:postcode":"02903",
+    "addr:street":"W Fountain St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.42243,41.818891,-71.42243,41.818891",
     "geom:latitude":41.818891,
     "geom:longitude":-71.42243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"387 W Fountain St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125152229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YqYbSN4Gj3FryextQYlqy_41.818891_-71.422430@1303262237"
     },
     "wof:country":"US",
     "wof:created":1464315216,
-    "wof:geomhash":"f87b8a9dbc47250ab4b8e75266300593",
+    "wof:geomhash":"c0e960a1eb33fa0df38897781840346c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874295657,
-    "wof:lastmodified":1467082168,
+    "wof:lastmodified":1510699279,
     "wof:name":"Planet Fitness",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",

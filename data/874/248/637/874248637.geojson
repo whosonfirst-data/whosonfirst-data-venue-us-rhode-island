@@ -2,6 +2,10 @@
   "id": 874248637,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 George M Cohan Blvd Providence RI 02903",
+    "addr:housenumber":"132",
+    "addr:postcode":"02903",
+    "addr:street":"George;Cohan Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874248637,
-    "wof:lastmodified":1467082106,
+    "wof:lastmodified":1472644249,
     "wof:name":"Charles Clark MD",
     "wof:parent_id":85880039,
     "wof:placetype":"venue",

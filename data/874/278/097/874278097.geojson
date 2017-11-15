@@ -2,14 +2,20 @@
   "id": 874278097,
   "type": "Feature",
   "properties": {
+    "addr:full":"2699 Post Rd Warwick RI 02886",
+    "addr:housenumber":"2699",
+    "addr:postcode":"02886",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.449609,41.710585,-71.449609,41.710585",
     "geom:latitude":41.710585,
     "geom:longitude":-71.449609,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2699 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RQ5Y2Uj9M9vh5DbVlBiya_41.710585_-71.449609@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314542,
-    "wof:geomhash":"ec169d0530ccec88b3594cc830beb876",
+    "wof:geomhash":"2467bf5697bffe37ad5bbdc1805feaaf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874278097,
-    "wof:lastmodified":1467082143,
+    "wof:lastmodified":1510695848,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":420540487,
     "wof:placetype":"venue",

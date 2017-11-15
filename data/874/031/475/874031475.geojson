@@ -2,14 +2,20 @@
   "id": 874031475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1341 Elmwood Ave Cranston RI 02910",
+    "addr:housenumber":"1341",
+    "addr:postcode":"02910",
+    "addr:street":"Elmwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.424132,41.769457,-71.424132,41.769457",
     "geom:latitude":41.769457,
     "geom:longitude":-71.424132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1341 Elmwood Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DePDnZ5SktG65akC8hanr_41.769457_-71.424132@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311061,
-    "wof:geomhash":"d432f8781d5d440b1817e0b6f7e83fcf",
+    "wof:geomhash":"27e6547c19b0e5307576d7e4bac6f920",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874031475,
-    "wof:lastmodified":1467082011,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",

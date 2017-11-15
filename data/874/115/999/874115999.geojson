@@ -2,14 +2,20 @@
   "id": 874115999,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Eddy St Providence RI 02903",
+    "addr:housenumber":"110",
+    "addr:postcode":"02903",
+    "addr:street":"Eddy St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411627,41.82286,-71.411627,41.82286",
     "geom:latitude":41.82286,
     "geom:longitude":-71.411627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Eddy St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LHYtBBOxh2FqcZlqbYhyG_41.822860_-71.411627@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311997,
-    "wof:geomhash":"9324c42f59d0b83676b669ded2294fde",
+    "wof:geomhash":"1e4b1c18b09d4e3e9fc205502990fed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874115999,
-    "wof:lastmodified":1467082043,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",

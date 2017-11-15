@@ -2,14 +2,20 @@
   "id": 874043777,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Providence Pl Providence RI 02903",
+    "addr:housenumber":"160",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.420538,41.828114,-71.420538,41.828114",
     "geom:latitude":41.828114,
     "geom:longitude":-71.420538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAQtKdNUiRpKSJvUOwKzs_41.828114_-71.420538@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311183,
-    "wof:geomhash":"b4761758f833950cab595c01ee8712c1",
+    "wof:geomhash":"ca934e595b3fe8bb1ab389e4141d6180",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874043777,
-    "wof:lastmodified":1467082016,
+    "wof:lastmodified":1510602485,
     "wof:name":"Abercrombie & Fitch",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

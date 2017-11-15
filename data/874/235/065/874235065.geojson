@@ -2,14 +2,20 @@
   "id": 874235065,
   "type": "Feature",
   "properties": {
+    "addr:full":"372 Broadway Newport RI 02840",
+    "addr:housenumber":"372",
+    "addr:postcode":"02840",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.305984,41.50018,-71.305984,41.50018",
     "geom:latitude":41.50018,
     "geom:longitude":-71.305984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"372 Broadway",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FPddZGbISTR6nbMci2Udd_41.500180_-71.305984@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313241,
-    "wof:geomhash":"bf7cc22340e60a3f6f97b65889ed6d6c",
+    "wof:geomhash":"b2fec9ee1ad198d1f00a35dec8c16fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874235065,
-    "wof:lastmodified":1467082095,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

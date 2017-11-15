@@ -2,14 +2,20 @@
   "id": 874122861,
   "type": "Feature",
   "properties": {
+    "addr:full":"2337 W Shore Rd Warwick RI 02889",
+    "addr:housenumber":"2337",
+    "addr:postcode":"02889",
+    "addr:street":"W Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.406519,41.702806,-71.406519,41.702806",
     "geom:latitude":41.702806,
     "geom:longitude":-71.406519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2337 W Shore Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125159997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N0B8ws4WwCep0amoDGGBA_41.702806_-71.406519@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312067,
-    "wof:geomhash":"9f6b99c56d285675e37de56f6e2bb2a7",
+    "wof:geomhash":"de41776c78e5077468bda2ea9046e9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874122861,
-    "wof:lastmodified":1467082046,
+    "wof:lastmodified":1510697734,
     "wof:name":"Quality Plumbing",
     "wof:parent_id":420540485,
     "wof:placetype":"venue",

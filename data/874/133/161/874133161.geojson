@@ -2,14 +2,20 @@
   "id": 874133161,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Dorrance St Providence RI 02903",
+    "addr:housenumber":"55",
+    "addr:postcode":"02903",
+    "addr:street":"Dorrance St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.41149,41.823408,-71.41149,41.823408",
     "geom:latitude":41.823408,
     "geom:longitude":-71.41149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Dorrance St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EfHj5i3x8TifEepPijMPg_41.823408_-71.411490@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312174,
-    "wof:geomhash":"47fe0dbb175c2b15ceac3eab0ce2f2aa",
+    "wof:geomhash":"0022f38faa28b2d47cf6e3d0c166b350",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874133161,
-    "wof:lastmodified":1467082051,
+    "wof:lastmodified":1510695180,
     "wof:name":"Charles Schwab & Co",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",

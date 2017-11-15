@@ -2,6 +2,10 @@
   "id": 874302121,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Promenade St Rm 145 Providence RI 02908",
+    "addr:housenumber":"235;145",
+    "addr:postcode":"02908",
+    "addr:street":"Promenade St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874302121,
-    "wof:lastmodified":1467082177,
+    "wof:lastmodified":1472644310,
     "wof:name":"Kforce",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

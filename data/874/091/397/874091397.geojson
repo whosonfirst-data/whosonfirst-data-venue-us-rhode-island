@@ -2,14 +2,20 @@
   "id": 874091397,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 School St Pawtucket RI 02860",
+    "addr:housenumber":"333",
+    "addr:postcode":"02860",
+    "addr:street":"School St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.378129,41.868599,-71.378129,41.868599",
     "geom:latitude":41.868599,
     "geom:longitude":-71.378129,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 School St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125154309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a7Y9RKdWaAgc2504cqvaB_41.868599_-71.378129@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311680,
-    "wof:geomhash":"3753f65a44124238b816af5c54494f5f",
+    "wof:geomhash":"505a94a753feae7a3c922f44dcec2d00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874091397,
-    "wof:lastmodified":1467082034,
+    "wof:lastmodified":1510698640,
     "wof:name":"Gastroenterology Associates",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

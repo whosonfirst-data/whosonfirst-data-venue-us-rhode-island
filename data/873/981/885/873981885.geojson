@@ -2,14 +2,20 @@
   "id": 873981885,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Glen Dr Warwick RI 02889",
+    "addr:housenumber":"1",
+    "addr:postcode":"02889",
+    "addr:street":"Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.404144,41.706009,-71.404144,41.706009",
     "geom:latitude":41.706009,
     "geom:longitude":-71.404144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Glen Dr",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jJL0IjJQikiZqpAYSIZp5_41.706009_-71.404144@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310618,
-    "wof:geomhash":"3a0f22d8f9453732c16ff7679bbaf9e3",
+    "wof:geomhash":"4e0fdea9b7848d047b498518e4d9b6c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873981885,
-    "wof:lastmodified":1467081995,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":420540485,
     "wof:placetype":"venue",

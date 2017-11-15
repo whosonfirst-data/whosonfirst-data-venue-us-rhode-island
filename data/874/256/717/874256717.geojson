@@ -2,14 +2,20 @@
   "id": 874256717,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Hagan St Providence RI 02904",
+    "addr:housenumber":"30",
+    "addr:postcode":"02904",
+    "addr:street":"Hagan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.422102,41.85689,-71.422102,41.85689",
     "geom:latitude":41.85689,
     "geom:longitude":-71.422102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Hagan St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HlRp6VWSbhNQpcCgzOZqQ_41.856890_-71.422102@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313713,
-    "wof:geomhash":"eccab537351c1b2d8be2d87a710e21d1",
+    "wof:geomhash":"6ed3464ac30711178edd4398bea16c48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874256717,
-    "wof:lastmodified":1467082112,
+    "wof:lastmodified":1510698741,
     "wof:name":"Sisters Of St Joseph",
     "wof:parent_id":85880035,
     "wof:placetype":"venue",

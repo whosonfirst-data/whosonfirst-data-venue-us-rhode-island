@@ -2,14 +2,20 @@
   "id": 874278181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Wholesale Way Cranston RI 02920",
+    "addr:housenumber":"1",
+    "addr:postcode":"02920",
+    "addr:street":"Wholesale Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.452721,41.751625,-71.452721,41.751625",
     "geom:latitude":41.751625,
     "geom:longitude":-71.452721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Wholesale Way",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155213,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63kfqltQs0iivONKqDCPaO_41.751625_-71.452721@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314546,
-    "wof:geomhash":"5096e4ef5f9d62ad2a1a9793cdb2e241",
+    "wof:geomhash":"ec3045a43cc964b78166943bd01a7b0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874278181,
-    "wof:lastmodified":1467082143,
+    "wof:lastmodified":1510695369,
     "wof:name":"Allied Building Products Corp",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",

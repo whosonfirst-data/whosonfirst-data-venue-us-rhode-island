@@ -2,14 +2,20 @@
   "id": 873981505,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 Wampanoag Trl Riverside RI 02915",
+    "addr:housenumber":"296",
+    "addr:postcode":"02915",
+    "addr:street":"Wampanoag Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.352478,41.79562,-71.352478,41.79562",
     "geom:latitude":41.79562,
     "geom:longitude":-71.352478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"296 Wampanoag Trl",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159369,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eRkDUJwt4KPSwaTCah8qn_41.795620_-71.352478@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310610,
-    "wof:geomhash":"0e99f1c43440d197c3922de518ff1bf3",
+    "wof:geomhash":"6b47533308ed436ca1928db0a766ba3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873981505,
-    "wof:lastmodified":1467081994,
+    "wof:lastmodified":1510693227,
     "wof:name":"Simplexgrinnell LP",
     "wof:parent_id":420540535,
     "wof:placetype":"venue",

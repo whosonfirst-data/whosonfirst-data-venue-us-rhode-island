@@ -2,14 +2,20 @@
   "id": 874257301,
   "type": "Feature",
   "properties": {
+    "addr:full":"1350 Bald Hill Rd Warwick RI 02886",
+    "addr:housenumber":"1350",
+    "addr:postcode":"02886",
+    "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.496592,41.698467,-71.496592,41.698467",
     "geom:latitude":41.698467,
     "geom:longitude":-71.496592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1350 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85688509,
         85803293
     ],
+    "wof:brand_id":420574789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MCUWDu92IJ5Uapjl7GYIg_41.698467_-71.496592@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313736,
-    "wof:geomhash":"646c1ad9b07bc9c2fda98aa663a0d24a",
+    "wof:geomhash":"18ee7cf9e763e1271d095f59a1452907",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":874257301,
-    "wof:lastmodified":1467082113,
+    "wof:lastmodified":1510604031,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

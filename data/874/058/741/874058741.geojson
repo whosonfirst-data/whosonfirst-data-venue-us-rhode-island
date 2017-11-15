@@ -2,14 +2,20 @@
   "id": 874058741,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Maple Ave Barrington RI 02806",
+    "addr:housenumber":"310",
+    "addr:postcode":"02806",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.318505,41.738828,-71.318505,41.738828",
     "geom:latitude":41.738828,
     "geom:longitude":-71.318505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Maple Ave",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85855205,
         102081221
     ],
+    "wof:brand_id":420574901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tf16LBeDl4B0uetRPn8M4_41.738828_-71.318505@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311324,
-    "wof:geomhash":"cc79784bf7cf3bbd295dbfbe9654e92c",
+    "wof:geomhash":"4d74e24a601ff7fc3d497de6dcda9351",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874058741,
-    "wof:lastmodified":1467082022,
+    "wof:lastmodified":1510604240,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85855205,
     "wof:placetype":"venue",

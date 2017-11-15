@@ -2,14 +2,20 @@
   "id": 874088051,
   "type": "Feature",
   "properties": {
+    "addr:full":"286 Shore Rd Westerly RI 02891",
+    "addr:housenumber":"286",
+    "addr:postcode":"02891",
+    "addr:street":"Shore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.778877,41.341424,-71.778877,41.341424",
     "geom:latitude":41.341424,
     "geom:longitude":-71.778877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"286 Shore Rd",
     "sg:city":"Westerly",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081219,
         85688509
     ],
+    "wof:brand_id":1125159265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6knxVa2sl8X56kx12tFdXT_41.341424_-71.778877@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311642,
-    "wof:geomhash":"a5d8bd4ab466deb0ddabb842a6e34fa1",
+    "wof:geomhash":"f8cb52ef9a86beb0fb484a7119aca623",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874088051,
-    "wof:lastmodified":1467082033,
+    "wof:lastmodified":1510699642,
     "wof:name":"Good Guys",
     "wof:parent_id":85829765,
     "wof:placetype":"venue",

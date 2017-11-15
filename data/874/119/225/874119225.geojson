@@ -2,6 +2,10 @@
   "id": 874119225,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Scarborough Rd Pawtucket RI 02861",
+    "addr:housenumber":"123",
+    "addr:postcode":"02861",
+    "addr:street":"Scarborough Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874119225,
-    "wof:lastmodified":1467082045,
+    "wof:lastmodified":1472644149,
     "wof:name":"M J Collins & Associates",
     "wof:parent_id":420540541,
     "wof:placetype":"venue",

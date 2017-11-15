@@ -2,14 +2,20 @@
   "id": 874125537,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 W River St Providence RI 02904",
+    "addr:housenumber":"333",
+    "addr:postcode":"02904",
+    "addr:street":"W River St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.413258,41.845718,-71.413258,41.845718",
     "geom:latitude":41.845718,
     "geom:longitude":-71.413258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 W River St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125156139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_406UJulJzv5c7YfWknMvuV_41.845718_-71.413258@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312090,
-    "wof:geomhash":"4f86b617c061c6bc4186ed61768930d2",
+    "wof:geomhash":"57b33c790525f528751c773c8b181aec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874125537,
-    "wof:lastmodified":1467082048,
+    "wof:lastmodified":1510695004,
     "wof:name":"Stop & Shop Pharmacy",
     "wof:parent_id":85880035,
     "wof:placetype":"venue",

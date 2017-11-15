@@ -2,14 +2,20 @@
   "id": 874059193,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Dickens St Pawtucket RI 02861",
+    "addr:housenumber":"12",
+    "addr:postcode":"02861",
+    "addr:street":"Dickens St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.367135,41.895213,-71.367135,41.895213",
     "geom:latitude":41.895213,
     "geom:longitude":-71.367135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Dickens St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084407,
         85803891
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RalIB4PZwmUrOBTW9kTvN_41.895213_-71.367135@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311328,
-    "wof:geomhash":"f770a28e77d0b16cc2f71389771a83b3",
+    "wof:geomhash":"3339bae9eb37c8efd643d61971c438a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874059193,
-    "wof:lastmodified":1467082022,
+    "wof:lastmodified":1510694948,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85803891,
     "wof:placetype":"venue",

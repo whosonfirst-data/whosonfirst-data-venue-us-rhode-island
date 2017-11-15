@@ -2,6 +2,10 @@
   "id": 874233217,
   "type": "Feature",
   "properties": {
+    "addr:full":"1345 Narragansett Blvd Providence RI 02905",
+    "addr:housenumber":"1345",
+    "addr:postcode":"02905",
+    "addr:street":"Narragansett Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874233217,
-    "wof:lastmodified":1467082094,
+    "wof:lastmodified":1472644217,
     "wof:name":"Butler Hospital",
     "wof:parent_id":85817503,
     "wof:placetype":"venue",

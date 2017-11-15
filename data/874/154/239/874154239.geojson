@@ -2,14 +2,20 @@
   "id": 874154239,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Esten Ave Pawtucket RI 02860",
+    "addr:housenumber":"25",
+    "addr:postcode":"02860",
+    "addr:street":"Esten Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.402337,41.865603,-71.402337,41.865603",
     "geom:latitude":41.865603,
     "geom:longitude":-71.402337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Esten Ave",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159355,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CtIJLmiTGrDqoATjAPqbC_41.865603_-71.402337@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312369,
-    "wof:geomhash":"44efcb45c5f5a24f282b6c99465d76cf",
+    "wof:geomhash":"9204fef4a2b4e67fda44a712dd628f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874154239,
-    "wof:lastmodified":1467082059,
+    "wof:lastmodified":1510699280,
     "wof:name":"Rooter-Man",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

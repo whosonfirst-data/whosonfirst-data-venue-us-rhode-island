@@ -2,14 +2,20 @@
   "id": 874271557,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Waseca Ave Barrington RI 02806",
+    "addr:housenumber":"188",
+    "addr:postcode":"02806",
+    "addr:street":"Waseca Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.306771,41.738645,-71.306771,41.738645",
     "geom:latitude":41.738645,
     "geom:longitude":-71.306771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"188 Waseca Ave",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85836423,
         102081221
     ],
+    "wof:brand_id":1125159139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29nww6ijAU4WS6urNPSH1X_41.738645_-71.306771@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314276,
-    "wof:geomhash":"881d4b0ba0305454a0b610d900b45bb6",
+    "wof:geomhash":"ba8ccb8f49e6466250fbdf471de9b6a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874271557,
-    "wof:lastmodified":1467082134,
+    "wof:lastmodified":1510699713,
     "wof:name":"All About Nails",
     "wof:parent_id":85836423,
     "wof:placetype":"venue",

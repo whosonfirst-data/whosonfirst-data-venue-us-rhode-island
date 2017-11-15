@@ -2,14 +2,20 @@
   "id": 874168859,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 King Philip St Providence RI 02909",
+    "addr:housenumber":"200",
+    "addr:postcode":"02909",
+    "addr:street":"King Philip St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.465158,41.821549,-71.465158,41.821549",
     "geom:latitude":41.821549,
     "geom:longitude":-71.465158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 King Philip St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85880041,
         102081597
     ],
+    "wof:brand_id":1125159355,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vixxJhW9BoJAQeu2rURuX_41.821549_-71.465158@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312516,
-    "wof:geomhash":"03b6a30acd1eb2bfd2495a94bc035cb8",
+    "wof:geomhash":"aace0ecef255a6f24dfbd9b0406d9e57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874168859,
-    "wof:lastmodified":1467082065,
+    "wof:lastmodified":1510699280,
     "wof:name":"Rooter-Man",
     "wof:parent_id":85880041,
     "wof:placetype":"venue",

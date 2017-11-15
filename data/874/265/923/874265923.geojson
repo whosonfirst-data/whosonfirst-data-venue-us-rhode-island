@@ -2,6 +2,10 @@
   "id": 874265923,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Eaton St Providence RI 02908",
+    "addr:housenumber":"456",
+    "addr:postcode":"02908",
+    "addr:street":"Eaton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874265923,
-    "wof:lastmodified":1467082125,
+    "wof:lastmodified":1472644324,
     "wof:name":"Dss LLC",
     "wof:parent_id":85880037,
     "wof:placetype":"venue",

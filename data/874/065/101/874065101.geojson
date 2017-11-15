@@ -2,6 +2,10 @@
   "id": 874065101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1051 N Main St Providence RI 02904",
+    "addr:housenumber":"1051",
+    "addr:postcode":"02904",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":874065101,
-    "wof:lastmodified":1467082024,
+    "wof:lastmodified":1472644120,
     "wof:name":"Operation Forward March",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874079645,
   "type": "Feature",
   "properties": {
+    "addr:full":"670 George Washington Hwy Lincoln RI 02865",
+    "addr:housenumber":"670",
+    "addr:postcode":"02865",
+    "addr:street":"George Washington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.445089,41.934792,-71.445089,41.934792",
     "geom:latitude":41.934792,
     "geom:longitude":-71.445089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"670 George Washington Hwy",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803785,
         102081597
     ],
+    "wof:brand_id":1125153359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UjUPz1n0RSFoPCPQOc80A_41.934792_-71.445089@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311548,
-    "wof:geomhash":"0e720984d1514b43af0c81e46c5f4a80",
+    "wof:geomhash":"9473fd7a4af8faf27d9b3ed2330c5fa9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874079645,
-    "wof:lastmodified":1467082029,
+    "wof:lastmodified":1510695786,
     "wof:name":"CB Richard Ellis Inc",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",

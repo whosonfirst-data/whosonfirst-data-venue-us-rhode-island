@@ -2,14 +2,20 @@
   "id": 874286881,
   "type": "Feature",
   "properties": {
+    "addr:full":"3492 Mendon Rd Cumberland RI 02864",
+    "addr:housenumber":"3492",
+    "addr:postcode":"02864",
+    "addr:street":"Mendon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.461777,41.979038,-71.461777,41.979038",
     "geom:latitude":41.979038,
     "geom:longitude":-71.461777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3492 Mendon Rd",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lVPmy6IyhTSjIhjBJstuI_41.979038_-71.461777@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314886,
-    "wof:geomhash":"f3d015e096105609f49dc49297b7d4a7",
+    "wof:geomhash":"985696f2ca50aa79863976bce5327f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874286881,
-    "wof:lastmodified":1467082155,
+    "wof:lastmodified":1510700011,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",

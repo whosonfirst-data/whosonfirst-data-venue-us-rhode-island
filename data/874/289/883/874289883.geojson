@@ -2,6 +2,10 @@
   "id": 874289883,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 Pawtucket Ave Unit 402 Pawtucket RI 02860",
+    "addr:housenumber":"545;402",
+    "addr:postcode":"02860",
+    "addr:street":"Pawtucket Ave Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":874289883,
-    "wof:lastmodified":1467082159,
+    "wof:lastmodified":1472644326,
     "wof:name":"Foundation Performance Inc",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

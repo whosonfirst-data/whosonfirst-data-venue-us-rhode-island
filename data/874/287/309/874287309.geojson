@@ -2,14 +2,20 @@
   "id": 874287309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1069 Park Ave Woonsocket RI 02895",
+    "addr:housenumber":"1069",
+    "addr:postcode":"02895",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.515188,41.988543,-71.515188,41.988543",
     "geom:latitude":41.988543,
     "geom:longitude":-71.515188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1069 Park Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85822053,
         102081597
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DOy8pxbcv5AZOW5A344L5_41.988543_-71.515188@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314901,
-    "wof:geomhash":"67ccc6f3eee01227d914cdd4646de52a",
+    "wof:geomhash":"f719c3317907eba770683d413bc91d9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874287309,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85822053,
     "wof:placetype":"venue",

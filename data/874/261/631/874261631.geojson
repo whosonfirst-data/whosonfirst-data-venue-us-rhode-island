@@ -2,14 +2,20 @@
   "id": 874261631,
   "type": "Feature",
   "properties": {
+    "addr:full":"646 Camp Ave North Kingstown RI 02852",
+    "addr:housenumber":"646",
+    "addr:postcode":"02852",
+    "addr:street":"Camp Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437816,41.590978,-71.437816,41.590978",
     "geom:latitude":41.590978,
     "geom:longitude":-71.437816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"646 Camp Ave",
     "sg:city":"North Kingstown",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848555,
         102081219
     ],
+    "wof:brand_id":1125157759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51u4qH6zUr8elvJZWJlNKC_41.590978_-71.437816@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313912,
-    "wof:geomhash":"1a43cb47556529c5a05bbc39f5e77e3a",
+    "wof:geomhash":"f776d9928f223ff697ad909c96aa0d66",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874261631,
-    "wof:lastmodified":1467082119,
+    "wof:lastmodified":1510695829,
     "wof:name":"About Face",
     "wof:parent_id":85848555,
     "wof:placetype":"venue",

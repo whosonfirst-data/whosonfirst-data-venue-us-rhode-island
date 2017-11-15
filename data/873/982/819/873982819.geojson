@@ -2,14 +2,20 @@
   "id": 873982819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1240 Pawtucket Ave Rumford RI 02916",
+    "addr:housenumber":"1240",
+    "addr:postcode":"02916",
+    "addr:street":"Pawtucket Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.349472,41.840608,-71.349472,41.840608",
     "geom:latitude":41.840608,
     "geom:longitude":-71.349472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1240 Pawtucket Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125157027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HFhlHl4ejz2wyptuDBT7W_41.840608_-71.349472@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310630,
-    "wof:geomhash":"cd954f2678fb9be40688b7ad51efc366",
+    "wof:geomhash":"17fe228eb0445ec1b5a7420fcf343486",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873982819,
-    "wof:lastmodified":1467081995,
+    "wof:lastmodified":1510696715,
     "wof:name":"Novastar Home Mortgage",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",

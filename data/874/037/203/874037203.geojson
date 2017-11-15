@@ -2,14 +2,20 @@
   "id": 874037203,
   "type": "Feature",
   "properties": {
+    "addr:full":"237 Bullocks Point Ave Riverside RI 02915",
+    "addr:housenumber":"237",
+    "addr:postcode":"02915",
+    "addr:street":"Bullocks Point Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.362373,41.771647,-71.362373,41.771647",
     "geom:latitude":41.771647,
     "geom:longitude":-71.362373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"237 Bullocks Point Ave",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_249jLSyi2QwFM1Ws5KFP7U_41.771647_-71.362373@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311118,
-    "wof:geomhash":"5fd6c868614f229b565e32337cb8127b",
+    "wof:geomhash":"aec6da5c34dfcd81936c648ea0d12423",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874037203,
-    "wof:lastmodified":1467082014,
+    "wof:lastmodified":1510697281,
     "wof:name":"John's Barber Shop",
     "wof:parent_id":85828117,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874298359,
   "type": "Feature",
   "properties": {
+    "addr:full":"Providence Place Mall, E3 1 Providence Pl Providence RI 02903",
+    "addr:housenumber":"1",
+    "addr:postcode":"02903",
+    "addr:street":"Providence;Mall E3;Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.425887,41.828967,-71.425887,41.828967",
     "geom:latitude":41.828967,
     "geom:longitude":-71.425887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"Providence Place Mall, E3 1 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KKFfzRufF3meYiI9W5YIY_41.828967_-71.425887@1303262237"
     },
     "wof:country":"US",
     "wof:created":1464315323,
-    "wof:geomhash":"78d4085feed4481581d2487dada308ba",
+    "wof:geomhash":"1d43eb4488bab98466de57e7cf2cc7d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874298359,
-    "wof:lastmodified":1467082172,
+    "wof:lastmodified":1510602881,
     "wof:name":"Fancy Nails",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",

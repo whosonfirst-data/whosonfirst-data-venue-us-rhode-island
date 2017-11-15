@@ -2,14 +2,20 @@
   "id": 874046833,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Thurber Blvd Smithfield RI 02917",
+    "addr:housenumber":"1",
+    "addr:postcode":"02917",
+    "addr:street":"Thurber Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.516167,41.9126,-71.516167,41.9126",
     "geom:latitude":41.9126,
     "geom:longitude":-71.516167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Thurber Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851071,
         102081597
     ],
+    "wof:brand_id":1125151165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07umPWBxfM4SP3wt55rgFT_41.912600_-71.516167@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311214,
-    "wof:geomhash":"0b5513c05856fd0395a7ff0d60d1ad82",
+    "wof:geomhash":"af57295adadd89ad07719c3ec75cf1fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874046833,
-    "wof:lastmodified":1467082017,
+    "wof:lastmodified":1510698751,
     "wof:name":"Bankers Life",
     "wof:parent_id":85851071,
     "wof:placetype":"venue",

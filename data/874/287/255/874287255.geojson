@@ -2,14 +2,20 @@
   "id": 874287255,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 Quaker Ln West Warwick RI 02893",
+    "addr:housenumber":"701",
+    "addr:postcode":"02893",
+    "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.49985,41.674924,-71.49985,41.674924",
     "geom:latitude":41.674924,
     "geom:longitude":-71.49985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 Quaker Ln",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85812969,
         102081209
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mSqj2cn1rvk9kOCATuuKi_41.674924_-71.499850@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314899,
-    "wof:geomhash":"7b1a6380cde682e8efe4c518114c161e",
+    "wof:geomhash":"5d7064248cea202593c88cf41a7bb383",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874287255,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700011,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",

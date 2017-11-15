@@ -2,14 +2,20 @@
   "id": 874182889,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Woodland St Lincoln RI 02865",
+    "addr:housenumber":"55",
+    "addr:postcode":"02865",
+    "addr:street":"Woodland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.416029,41.894233,-71.416029,41.894233",
     "geom:latitude":41.894233,
     "geom:longitude":-71.416029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Woodland St",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85847275,
         102081597
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RMRfSe5nNYpf2tYNqP9v9_41.894233_-71.416029@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312659,
-    "wof:geomhash":"e65d764db25aeb592e72a3410ddc3146",
+    "wof:geomhash":"35e2bd873abaaa0ca770f3c3ea5747ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874182889,
-    "wof:lastmodified":1467082072,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85847275,
     "wof:placetype":"venue",

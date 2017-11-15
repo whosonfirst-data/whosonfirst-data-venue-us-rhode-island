@@ -2,14 +2,20 @@
   "id": 874283159,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Smithfield Ave Pawtucket RI 02860",
+    "addr:housenumber":"609",
+    "addr:postcode":"02860",
+    "addr:street":"Smithfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.41498,41.879626,-71.41498,41.879626",
     "geom:latitude":41.879626,
     "geom:longitude":-71.41498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"609 Smithfield Ave",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1q8n98bwMMv6giUBkRY8Oh_41.879261_-71.415489@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314745,
-    "wof:geomhash":"3cccd83256f8edeaae486d686b68ca44",
+    "wof:geomhash":"57cdba8e1baeaf363dc18c5b40adf35f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874283159,
-    "wof:lastmodified":1467082150,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85818545,
     "wof:placetype":"venue",

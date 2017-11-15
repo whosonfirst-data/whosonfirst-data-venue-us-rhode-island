@@ -2,14 +2,20 @@
   "id": 874299939,
   "type": "Feature",
   "properties": {
+    "addr:full":"840 Allens Ave Providence RI 02905",
+    "addr:housenumber":"840",
+    "addr:postcode":"02905",
+    "addr:street":"Allens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.397022,41.792193,-71.397022,41.792193",
     "geom:latitude":41.792193,
     "geom:longitude":-71.397022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"840 Allens Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         404488357,
         101720573
     ],
+    "wof:brand_id":1125153795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27oIVTh5S89r7lHeO1h9P2_41.792193_-71.397022@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315387,
-    "wof:geomhash":"0ba2aca362993a5a183062bbf4b81881",
+    "wof:geomhash":"4e322ce4f9b8c902b0d1e6914b257668",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":874299939,
-    "wof:lastmodified":1467082174,
+    "wof:lastmodified":1510699993,
     "wof:name":"Oriental Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

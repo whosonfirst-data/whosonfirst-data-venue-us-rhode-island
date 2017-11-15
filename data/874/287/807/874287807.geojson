@@ -2,14 +2,20 @@
   "id": 874287807,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Dexter St Central Falls RI 02863",
+    "addr:housenumber":"650",
+    "addr:postcode":"02863",
+    "addr:street":"Dexter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.396544,41.886249,-71.396544,41.886249",
     "geom:latitude":41.886249,
     "geom:longitude":-71.396544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Dexter St",
     "sg:city":"Central Falls",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85847275,
         102081597
     ],
+    "wof:brand_id":1125155869,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CeVdWV8bIdHJ0AE8xGeSV_41.885938_-71.396433@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314928,
-    "wof:geomhash":"c60bbe4825c72f403dc2881b27ae8321",
+    "wof:geomhash":"228c86fbe62360cb64a9e28893894786",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874287807,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510694711,
     "wof:name":"Village Pizza",
     "wof:parent_id":85847275,
     "wof:placetype":"venue",

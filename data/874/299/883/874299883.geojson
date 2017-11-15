@@ -2,14 +2,20 @@
   "id": 874299883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Douglas Ave North Providence RI 02904",
+    "addr:housenumber":"1401",
+    "addr:postcode":"02904",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.453288,41.863819,-71.453288,41.863819",
     "geom:latitude":41.863819,
     "geom:longitude":-71.453288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Douglas Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85859079,
         102081597
     ],
+    "wof:brand_id":1125154655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RFaJnOBjy8EK8gYqRkOpS_41.863819_-71.453288@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315385,
-    "wof:geomhash":"a79063c413ba0019e82e26e4e6b42b78",
+    "wof:geomhash":"c3a765616e1e34d07c8feba723dace78",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874299883,
-    "wof:lastmodified":1467082174,
+    "wof:lastmodified":1510694717,
     "wof:name":"Jersey Mike's Subs",
     "wof:parent_id":85859079,
     "wof:placetype":"venue",

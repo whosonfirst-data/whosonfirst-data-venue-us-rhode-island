@@ -2,14 +2,20 @@
   "id": 874179415,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Kingstown Rd Wakefield RI 02879",
+    "addr:housenumber":"730",
+    "addr:postcode":"02879",
+    "addr:street":"Kingstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.489367,41.443235,-71.489367,41.443235",
     "geom:latitude":41.443235,
     "geom:longitude":-71.489367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"730 Kingstown Rd",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688509,
         85845577
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kvxRq47YoCRLIVxITw6Vp_41.443235_-71.489367@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312624,
-    "wof:geomhash":"c7af5779b232735a1327ae1d7a2d3539",
+    "wof:geomhash":"f358f9612d6481c8b1627cb4dec9256d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":874179415,
-    "wof:lastmodified":1467082071,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874154747,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Bald Hill Rd Warwick RI 02886",
+    "addr:housenumber":"1500",
+    "addr:postcode":"02886",
+    "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.497665,41.696264,-71.497665,41.696264",
     "geom:latitude":41.696264,
     "geom:longitude":-71.497665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85812969,
         102081209
     ],
+    "wof:brand_id":1125158855,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OpgQXMLuOZLXNoNN9NKAR_41.696264_-71.497665@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312374,
-    "wof:geomhash":"f0155822bf9f80917e6f5ae8538297b3",
+    "wof:geomhash":"24a9085905b61925667a8e152e98744f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874154747,
-    "wof:lastmodified":1467082060,
+    "wof:lastmodified":1510695065,
     "wof:name":"Shaw's Supermarket",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",

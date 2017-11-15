@@ -2,14 +2,20 @@
   "id": 874251013,
   "type": "Feature",
   "properties": {
+    "addr:full":"575 Centerville Rd Warwick RI 02886",
+    "addr:housenumber":"575",
+    "addr:postcode":"02886",
+    "addr:street":"Centerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.479296,41.697539,-71.479296,41.697539",
     "geom:latitude":41.697539,
     "geom:longitude":-71.479296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"575 Centerville Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125157127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n6yIxoBT9c6ZT229p74MM_41.697539_-71.479296@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313586,
-    "wof:geomhash":"783dadfc1b3248581e073c6ac744c43c",
+    "wof:geomhash":"f5401c49e8d53379f9f20b2af00a569c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874251013,
-    "wof:lastmodified":1467082107,
+    "wof:lastmodified":1510697055,
     "wof:name":"Chartwells",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874251361,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Longue Vue Ave North Providence RI 02904",
+    "addr:housenumber":"17",
+    "addr:postcode":"02904",
+    "addr:street":"Longue Vue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.460106,41.858008,-71.460106,41.858008",
     "geom:latitude":41.858008,
     "geom:longitude":-71.460106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 Longue Vue Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85820781,
         102081597
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q9pULm10T1NnW53IKfxLU_41.858008_-71.460106@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313592,
-    "wof:geomhash":"3826eb5d448e92063eb96d386b174e8c",
+    "wof:geomhash":"4891842b38b1718424b906e17bf7a7af",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874251361,
-    "wof:lastmodified":1467082108,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85820781,
     "wof:placetype":"venue",

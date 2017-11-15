@@ -2,14 +2,20 @@
   "id": 874057565,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Cedar Ave Riverside RI 02915",
+    "addr:housenumber":"55",
+    "addr:postcode":"02915",
+    "addr:street":"Cedar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.363642,41.768764,-71.363642,41.768764",
     "geom:latitude":41.768764,
     "geom:longitude":-71.363642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Cedar Ave",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125152539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WUoEUK5iRPQ2SCDkYoQxu_41.768764_-71.363642@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311314,
-    "wof:geomhash":"a9f4069b74690a1911b00c022888d63a",
+    "wof:geomhash":"6d79ed3d6600c3df1dc72fbd8f8a6108",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874057565,
-    "wof:lastmodified":1467082021,
+    "wof:lastmodified":1510696764,
     "wof:name":"New England Financial",
     "wof:parent_id":85828117,
     "wof:placetype":"venue",

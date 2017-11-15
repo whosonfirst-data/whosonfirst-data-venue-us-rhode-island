@@ -2,14 +2,20 @@
   "id": 874240091,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Rose St Newport RI 02840",
+    "addr:housenumber":"5",
+    "addr:postcode":"02840",
+    "addr:street":"Rose St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.31571,41.469744,-71.31571,41.469744",
     "geom:latitude":41.469744,
     "geom:longitude":-71.31571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Rose St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lACI1eaI5yOgOtXDw5Vej_41.469744_-71.315710@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313342,
-    "wof:geomhash":"a78a781d3cf5b590e25e642d7f8f2102",
+    "wof:geomhash":"a4a4dfafbdb34b99ac8ebe83747b136e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874240091,
-    "wof:lastmodified":1467082099,
+    "wof:lastmodified":1510696062,
     "wof:name":"Speedee Oil Change & Tune Up",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

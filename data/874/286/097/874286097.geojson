@@ -2,14 +2,20 @@
   "id": 874286097,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Allens Ave Providence RI 02903",
+    "addr:housenumber":"170",
+    "addr:postcode":"02903",
+    "addr:street":"Allens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.403784,41.808689,-71.403784,41.808689",
     "geom:latitude":41.808689,
     "geom:longitude":-71.403784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 Allens Ave",
     "sg:city":"Providence",
     "sg:classifiers":[],
@@ -31,13 +37,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125156529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z7R3dcrA3NSCjSktdwCUR_41.808689_-71.403784@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314860,
-    "wof:geomhash":"a98eff7106ae4c605a3079eda0496ef5",
+    "wof:geomhash":"fe1eee8f28c9290121d9f375e86735e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874286097,
-    "wof:lastmodified":1467082154,
+    "wof:lastmodified":1510696821,
     "wof:name":"Cargill",
     "wof:parent_id":85880055,
     "wof:placetype":"venue",

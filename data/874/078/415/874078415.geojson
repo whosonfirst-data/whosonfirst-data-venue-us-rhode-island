@@ -2,14 +2,20 @@
   "id": 874078415,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Providence Pl Providence RI 02903",
+    "addr:housenumber":"42",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.41774,41.827434,-71.41774,41.827434",
     "geom:latitude":41.827434,
     "geom:longitude":-71.41774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"42 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q5EilDMRSxjGcgPz46fyW_41.827434_-71.417740@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311532,
-    "wof:geomhash":"8f152b29fc238edaf6ccd5eb866ebb79",
+    "wof:geomhash":"3ee5d7628adbb3732eb5b6a1f05e2c68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874078415,
-    "wof:lastmodified":1467082029,
+    "wof:lastmodified":1510699916,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

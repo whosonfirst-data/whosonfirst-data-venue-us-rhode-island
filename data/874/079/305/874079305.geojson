@@ -2,14 +2,20 @@
   "id": 874079305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1372 W Main Rd Middletown RI 02842",
+    "addr:housenumber":"1372",
+    "addr:postcode":"02842",
+    "addr:street":"W Main Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.29338,41.532595,-71.29338,41.532595",
     "geom:latitude":41.532595,
     "geom:longitude":-71.29338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1372 W Main Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081595,
         85830033
     ],
+    "wof:brand_id":1125152575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Cl0yDwljfc6GUgWNVVaOX_41.532595_-71.293380@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311545,
-    "wof:geomhash":"7e6334a96baaf19c7c58ca75d88f0263",
+    "wof:geomhash":"596d41973d128f63680315716f8f3c57",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":874079305,
-    "wof:lastmodified":1467082029,
+    "wof:lastmodified":1510698840,
     "wof:name":"Best Cuts",
     "wof:parent_id":85830033,
     "wof:placetype":"venue",

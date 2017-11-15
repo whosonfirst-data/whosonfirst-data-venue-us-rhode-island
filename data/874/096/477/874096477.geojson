@@ -2,14 +2,20 @@
   "id": 874096477,
   "type": "Feature",
   "properties": {
+    "addr:full":"2430 Warwick Ave Warwick RI 02889",
+    "addr:housenumber":"2430",
+    "addr:postcode":"02889",
+    "addr:street":"Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.398052,41.709935,-71.398052,41.709935",
     "geom:latitude":41.709935,
     "geom:longitude":-71.398052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2430 Warwick Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125158195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iFn7lCWCOFGngoECzwyUW_41.709935_-71.398052@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311735,
-    "wof:geomhash":"f17a1e2597fa757cc127cf2fff054556",
+    "wof:geomhash":"f36e95cd268971da86b2a422bdc214c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874096477,
-    "wof:lastmodified":1467082036,
+    "wof:lastmodified":1510613172,
     "wof:name":"Super Stop & Shop",
     "wof:parent_id":85868715,
     "wof:placetype":"venue",

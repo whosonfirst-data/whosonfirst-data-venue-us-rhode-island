@@ -2,6 +2,10 @@
   "id": 874294971,
   "type": "Feature",
   "properties": {
+    "addr:full":"158 Providence Pl 3rd Fl Providence RI 02903",
+    "addr:housenumber":"158;3rd fl",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":874294971,
-    "wof:lastmodified":1467082167,
+    "wof:lastmodified":1472644325,
     "wof:name":"Neighborhoodies",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

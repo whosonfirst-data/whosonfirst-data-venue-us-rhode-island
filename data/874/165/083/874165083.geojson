@@ -2,14 +2,20 @@
   "id": 874165083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 Douglas Pike Smithfield RI 02917",
+    "addr:housenumber":"1010",
+    "addr:postcode":"02917",
+    "addr:street":"Douglas Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.521124,41.91803,-71.521124,41.91803",
     "geom:latitude":41.91803,
     "geom:longitude":-71.521124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 Douglas Pike",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851071,
         102081597
     ],
+    "wof:brand_id":1125150253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x8NA5IgTS9iOFDSFzYds1_41.918030_-71.521124@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312480,
-    "wof:geomhash":"65b76b279b5bbf7880ba47bac995f1de",
+    "wof:geomhash":"06d9ac519e6c5e7c9eda8ccea9f855d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874165083,
-    "wof:lastmodified":1467082064,
+    "wof:lastmodified":1510697559,
     "wof:name":"Comfort Suites",
     "wof:parent_id":85851071,
     "wof:placetype":"venue",

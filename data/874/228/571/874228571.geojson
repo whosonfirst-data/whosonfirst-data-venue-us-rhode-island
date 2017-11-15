@@ -2,14 +2,20 @@
   "id": 874228571,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Main St East Greenwich RI 02818",
+    "addr:housenumber":"36",
+    "addr:postcode":"02818",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.450028,41.663771,-71.450028,41.663771",
     "geom:latitude":41.663771,
     "geom:longitude":-71.450028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36 Main St",
     "sg:city":"East Greenwich",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125157245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UI22m6J8ceTMyAho9a8Fc_41.663771_-71.450028@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313147,
-    "wof:geomhash":"aff8ad7d179535f68956ed4c9a9a7bef",
+    "wof:geomhash":"d60f174915bc2384c86a729fd2d13cb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874228571,
-    "wof:lastmodified":1467082092,
+    "wof:lastmodified":1510693845,
     "wof:name":"Robin's Nest",
     "wof:parent_id":85810613,
     "wof:placetype":"venue",

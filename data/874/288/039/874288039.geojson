@@ -2,6 +2,10 @@
   "id": 874288039,
   "type": "Feature",
   "properties": {
+    "addr:full":"649 N Main St Providence RI 02904",
+    "addr:housenumber":"649",
+    "addr:postcode":"02904",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874288039,
-    "wof:lastmodified":1467082157,
+    "wof:lastmodified":1472644295,
     "wof:name":"McDonald's",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874017555,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 County Rd Barrington RI 02806",
+    "addr:housenumber":"231",
+    "addr:postcode":"02806",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.305522,41.738,-71.305522,41.738",
     "geom:latitude":41.738,
     "geom:longitude":-71.305522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 County Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85836423,
         102081221
     ],
+    "wof:brand_id":420574787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OuI7mc1qWwCMicEHk3bTv_41.738000_-71.305522@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310920,
-    "wof:geomhash":"da19dbd8b1d959edb57e6d9aae738cd2",
+    "wof:geomhash":"cab63877cb7d6c2850034615cb3cf266",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874017555,
-    "wof:lastmodified":1467082007,
+    "wof:lastmodified":1510603992,
     "wof:name":"American Cancer Society",
     "wof:parent_id":85836423,
     "wof:placetype":"venue",

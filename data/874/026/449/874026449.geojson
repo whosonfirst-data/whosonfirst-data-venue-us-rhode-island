@@ -2,6 +2,10 @@
   "id": 874026449,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Viceroy Rd Warwick RI 02886",
+    "addr:housenumber":"123",
+    "addr:postcode":"02886",
+    "addr:street":"Viceroy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":874026449,
-    "wof:lastmodified":1467082010,
+    "wof:lastmodified":1472644105,
     "wof:name":"Hamilton Graphics Inc",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874296341,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 George M Cohan Blvd Fl 2 Providence RI 02903",
+    "addr:housenumber":"132;2",
+    "addr:postcode":"02903",
+    "addr:street":"George;Cohan Blvd Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":874296341,
-    "wof:lastmodified":1467082169,
+    "wof:lastmodified":1472644313,
     "wof:name":"Cwe Providence",
     "wof:parent_id":85880039,
     "wof:placetype":"venue",

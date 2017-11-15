@@ -2,14 +2,20 @@
   "id": 874304255,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Newman Ave Rumford RI 02916",
+    "addr:housenumber":"225",
+    "addr:postcode":"02916",
+    "addr:street":"Newman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.349144,41.84137,-71.349144,41.84137",
     "geom:latitude":41.84137,
     "geom:longitude":-71.349144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"225 Newman Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YRLiTckUDONrVvjeBezi4_41.841370_-71.349144@1303262239"
     },
     "wof:country":"US",
     "wof:created":1464315539,
-    "wof:geomhash":"2a8caadf4f867c8b962e4bc41c879a35",
+    "wof:geomhash":"bb3a004012721ee60f8f9293b66efa69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874304255,
-    "wof:lastmodified":1467082180,
+    "wof:lastmodified":1510695784,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873981291,
   "type": "Feature",
   "properties": {
+    "addr:full":"1300 Bald Hill Rd Warwick RI 02886",
+    "addr:housenumber":"1300",
+    "addr:postcode":"02886",
+    "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.496428,41.69911,-71.496428,41.69911",
     "geom:latitude":41.69911,
     "geom:longitude":-71.496428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1300 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688509,
         85803293
     ],
+    "wof:brand_id":1125154373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22ez4YPCwHUrhUAmxFLlL7_41.699110_-71.496428@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310607,
-    "wof:geomhash":"40c98afe7813fb760a0abaf2f123d6a5",
+    "wof:geomhash":"8b615dc01baaebfa9e26d1927aeea908",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":873981291,
-    "wof:lastmodified":1467081994,
+    "wof:lastmodified":1510699698,
     "wof:name":"Tweeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

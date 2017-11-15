@@ -2,6 +2,10 @@
   "id": 874224607,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Butler Dr Providence RI 02906",
+    "addr:housenumber":"100",
+    "addr:postcode":"02906",
+    "addr:street":"Butler Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874224607,
-    "wof:lastmodified":1467082090,
+    "wof:lastmodified":1472644215,
     "wof:name":"Neurosurgery Foundation",
     "wof:parent_id":85880033,
     "wof:placetype":"venue",

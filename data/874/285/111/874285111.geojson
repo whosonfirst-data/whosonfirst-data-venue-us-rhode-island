@@ -2,14 +2,20 @@
   "id": 874285111,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Narragansett Park Dr Rumford RI 02916",
+    "addr:housenumber":"86",
+    "addr:postcode":"02916",
+    "addr:street":"Narragansett Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.351984,41.858164,-71.351984,41.858164",
     "geom:latitude":41.858164,
     "geom:longitude":-71.351984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"86 Narragansett Park Dr",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AVpwPxbpASPtiJfJ5WLiM_41.858157_-71.352744@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314816,
-    "wof:geomhash":"a123c91373b72ee445bc3085a8273b76",
+    "wof:geomhash":"a8a8c1eb04357f97a3adbf12f5e4e337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874285111,
-    "wof:lastmodified":1467082153,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":420540541,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874293659,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Mendon Rd Woonsocket RI 02895",
+    "addr:housenumber":"",
+    "addr:postcode":"2345;02895",
+    "addr:street":"Mendon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":874293659,
-    "wof:lastmodified":1467082165,
+    "wof:lastmodified":1472644309,
     "wof:name":"Tougas Steven M Chiropractor",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",

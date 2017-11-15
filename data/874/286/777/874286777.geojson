@@ -2,14 +2,20 @@
   "id": 874286777,
   "type": "Feature",
   "properties": {
+    "addr:full":"343 Thames St Newport RI 02840",
+    "addr:housenumber":"343",
+    "addr:postcode":"02840",
+    "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.314634,41.484028,-71.314634,41.484028",
     "geom:latitude":41.484028,
     "geom:longitude":-71.314634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"343 Thames St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01ifqOlNoaeSsL3cOxba9H_41.484028_-71.314634@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314882,
-    "wof:geomhash":"d1aa9481094a180ea6cd8ac09ec27579",
+    "wof:geomhash":"8daf921afab2eee4d1c65eb7dbbdacf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874286777,
-    "wof:lastmodified":1467082155,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

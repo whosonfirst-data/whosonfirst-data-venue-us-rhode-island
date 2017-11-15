@@ -2,14 +2,20 @@
   "id": 874288243,
   "type": "Feature",
   "properties": {
+    "addr:full":"186 County Rd Barrington RI 02806",
+    "addr:housenumber":"186",
+    "addr:postcode":"02806",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.303968,41.737245,-71.303968,41.737245",
     "geom:latitude":41.737245,
     "geom:longitude":-71.303968,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"186 County Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         85836423,
         102081221
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AUjcrTvn4WGNBlQ2bG7tm_41.737245_-71.303968@1303262235"
     },
     "wof:country":"US",
     "wof:created":1464314944,
-    "wof:geomhash":"31836ce344c697ce32add6166f36dc59",
+    "wof:geomhash":"7e66c1a1f6b6ef30f553676240de7652",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":874288243,
-    "wof:lastmodified":1467082157,
+    "wof:lastmodified":1510699689,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85836423,
     "wof:placetype":"venue",

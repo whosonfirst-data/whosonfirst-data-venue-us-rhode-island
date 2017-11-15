@@ -2,14 +2,20 @@
   "id": 874121647,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Rogers Ln Middletown RI 02842",
+    "addr:housenumber":"203",
+    "addr:postcode":"02842",
+    "addr:street":"Rogers Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.298684,41.543238,-71.298684,41.543238",
     "geom:latitude":41.543238,
     "geom:longitude":-71.298684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Rogers Ln",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081595,
         85830033
     ],
+    "wof:brand_id":1125155459,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TIwl4dThw0YyGAMOHal3f_41.543238_-71.298684@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312055,
-    "wof:geomhash":"0e7206162ab05fbbf40a18220393e3ce",
+    "wof:geomhash":"c8cc0281c227a145148727d292c5a52e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874121647,
-    "wof:lastmodified":1467082046,
+    "wof:lastmodified":1510697789,
     "wof:name":"Amway Products Distributors",
     "wof:parent_id":85830033,
     "wof:placetype":"venue",

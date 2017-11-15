@@ -2,14 +2,20 @@
   "id": 874157629,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Kilvert St Warwick RI 02886",
+    "addr:housenumber":"500",
+    "addr:postcode":"02886",
+    "addr:street":"Kilvert St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.451912,41.729087,-71.451912,41.729087",
     "geom:latitude":41.729087,
     "geom:longitude":-71.451912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Kilvert St",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sNBm7fcaAU1nym4kOoj9A_41.729087_-71.451912@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312405,
-    "wof:geomhash":"98fc1d4def8fd6ac256c219068019a71",
+    "wof:geomhash":"44b820d923321df1533ee1a692c3d770",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874157629,
-    "wof:lastmodified":1467082061,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":85825603,
     "wof:placetype":"venue",

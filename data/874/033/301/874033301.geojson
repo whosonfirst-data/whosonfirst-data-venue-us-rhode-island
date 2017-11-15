@@ -2,14 +2,20 @@
   "id": 874033301,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Lawrence Ln Lincoln RI 02865",
+    "addr:housenumber":"4",
+    "addr:postcode":"02865",
+    "addr:street":"Lawrence Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.436483,41.924629,-71.436483,41.924629",
     "geom:latitude":41.924629,
     "geom:longitude":-71.436483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Lawrence Ln",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85843525,
         102081597
     ],
+    "wof:brand_id":1125154347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OmOIGbmUtelP8gADKVEma_41.924629_-71.436483@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311078,
-    "wof:geomhash":"0691f80c38ff20b2aebc5d305c45a145",
+    "wof:geomhash":"53de9e15f6822e3ccfc2ba960005b0da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874033301,
-    "wof:lastmodified":1467082012,
+    "wof:lastmodified":1510698937,
     "wof:name":"Owens Corning",
     "wof:parent_id":85843525,
     "wof:placetype":"venue",

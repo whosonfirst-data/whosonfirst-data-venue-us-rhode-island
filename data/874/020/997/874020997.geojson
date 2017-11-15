@@ -2,14 +2,20 @@
   "id": 874020997,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Sandy Ln Warwick RI 02889",
+    "addr:housenumber":"1000",
+    "addr:postcode":"02889",
+    "addr:street":"Sandy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.416871,41.706098,-71.416871,41.706098",
     "geom:latitude":41.706098,
     "geom:longitude":-71.416871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Sandy Ln",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125153611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KNvAPiU1X99TEh48R8laC_41.706098_-71.416871@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310956,
-    "wof:geomhash":"fa528780487a1ac0bed7058b05ddcc29",
+    "wof:geomhash":"89ca34f470eb5d9a5c44f97ecface8b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874020997,
-    "wof:lastmodified":1467082008,
+    "wof:lastmodified":1510697973,
     "wof:name":"Honey Dew Donuts",
     "wof:parent_id":85857733,
     "wof:placetype":"venue",

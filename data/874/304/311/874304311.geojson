@@ -2,14 +2,20 @@
   "id": 874304311,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Newport Ave Rumford RI 02916",
+    "addr:housenumber":"150",
+    "addr:postcode":"02916",
+    "addr:street":"Newport Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.354209,41.855079,-71.354209,41.855079",
     "geom:latitude":41.855079,
     "geom:longitude":-71.354209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Newport Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WT9RJRMC2f0vjP7sZHERx_41.855079_-71.354209@1303262239"
     },
     "wof:country":"US",
     "wof:created":1464315540,
-    "wof:geomhash":"fce11be091abf490a520de32797d3b0e",
+    "wof:geomhash":"5b738fc8f3fb77ca44233c4aef52bbba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874304311,
-    "wof:lastmodified":1467082180,
+    "wof:lastmodified":1510602539,
     "wof:name":"Lovely Nails",
     "wof:parent_id":420540541,
     "wof:placetype":"venue",

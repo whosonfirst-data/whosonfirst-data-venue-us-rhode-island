@@ -2,14 +2,20 @@
   "id": 874097371,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Congress Ave Providence RI 02907",
+    "addr:housenumber":"157",
+    "addr:postcode":"02907",
+    "addr:street":"Congress Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.426039,41.798647,-71.426039,41.798647",
     "geom:latitude":41.798647,
     "geom:longitude":-71.426039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"157 Congress Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125154987,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TbdsQMX9j4giwhUM1xL1D_41.798647_-71.426039@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311747,
-    "wof:geomhash":"372988fd9d003d197ca5c225ad867678",
+    "wof:geomhash":"e479999b28910b7c8986b333ebf31d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874097371,
-    "wof:lastmodified":1467082036,
+    "wof:lastmodified":1510695872,
     "wof:name":"Dominican Sisters",
     "wof:parent_id":85817929,
     "wof:placetype":"venue",

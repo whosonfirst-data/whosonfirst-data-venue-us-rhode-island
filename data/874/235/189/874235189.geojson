@@ -2,14 +2,20 @@
   "id": 874235189,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Elm Ave Rumford RI 02916",
+    "addr:housenumber":"40",
+    "addr:postcode":"02916",
+    "addr:street":"Elm Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.35553,41.840927,-71.35553,41.840927",
     "geom:latitude":41.840927,
     "geom:longitude":-71.35553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Elm Ave",
     "sg:city":"Rumford",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tgu9AINz2FrtIBmzLNxPw_41.840927_-71.355530@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313243,
-    "wof:geomhash":"a9ed9fc6ce5bc929be8b3adf6708a322",
+    "wof:geomhash":"be48290cc9cac04c0425e9fec29a56f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874235189,
-    "wof:lastmodified":1467082095,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",

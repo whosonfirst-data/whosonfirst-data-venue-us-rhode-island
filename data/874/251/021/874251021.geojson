@@ -2,14 +2,20 @@
   "id": 874251021,
   "type": "Feature",
   "properties": {
+    "addr:full":"623 Atwells Ave Providence RI 02909",
+    "addr:housenumber":"623",
+    "addr:postcode":"02909",
+    "addr:street":"Atwells Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.437536,41.824566,-71.437536,41.824566",
     "geom:latitude":41.824566,
     "geom:longitude":-71.437536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"623 Atwells Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150329,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58OnbFGSY7ekavmPkMJOkw_41.824566_-71.437536@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313586,
-    "wof:geomhash":"1de3def38ceb4d91a879f129e53c4aa4",
+    "wof:geomhash":"4a2690ab9bfa3301193c5b441e58c0e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874251021,
-    "wof:lastmodified":1467082107,
+    "wof:lastmodified":1510694575,
     "wof:name":"Mattress Giant",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",

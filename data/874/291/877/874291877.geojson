@@ -2,6 +2,10 @@
   "id": 874291877,
   "type": "Feature",
   "properties": {
+    "addr:full":"1725 Mendon Rd Unit 209 Cumberland RI 02864",
+    "addr:housenumber":"1725;209",
+    "addr:postcode":"02864",
+    "addr:street":"Mendon Rd Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874291877,
-    "wof:lastmodified":1467082162,
+    "wof:lastmodified":1472644318,
     "wof:name":"Bigos & Partington",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",

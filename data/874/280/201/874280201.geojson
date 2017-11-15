@@ -2,14 +2,20 @@
   "id": 874280201,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Frederick St Warwick RI 02888",
+    "addr:housenumber":"86",
+    "addr:postcode":"02888",
+    "addr:street":"Frederick St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.431399,41.751734,-71.431399,41.751734",
     "geom:latitude":41.751734,
     "geom:longitude":-71.431399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"86 Frederick St",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QVW8EEQSJJjfplTxfLWBF_41.751734_-71.431399@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314618,
-    "wof:geomhash":"6ef4fa510d5d847300bc71dba3f277b0",
+    "wof:geomhash":"23ab127b822d09d482b05e5370427d1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874280201,
-    "wof:lastmodified":1467082146,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85838523,
     "wof:placetype":"venue",

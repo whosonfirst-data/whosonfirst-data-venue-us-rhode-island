@@ -2,14 +2,20 @@
   "id": 874246997,
   "type": "Feature",
   "properties": {
+    "addr:full":"275 W Natick Rd Warwick RI 02886",
+    "addr:housenumber":"275",
+    "addr:postcode":"02886",
+    "addr:street":"W Natick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.482701,41.728269,-71.482701,41.728269",
     "geom:latitude":41.728269,
     "geom:longitude":-71.482701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"275 W Natick Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68oVhyqL6TyDHG1J7gAztN_41.728269_-71.482701@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313471,
-    "wof:geomhash":"da24fb165c585b85043851e0648881bb",
+    "wof:geomhash":"68936b8c652c1cfb3740482c28644516",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874246997,
-    "wof:lastmodified":1467082105,
+    "wof:lastmodified":1510699351,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85842689,
     "wof:placetype":"venue",

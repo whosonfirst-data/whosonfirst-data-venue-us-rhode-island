@@ -2,14 +2,20 @@
   "id": 874287177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1565 Warwick Ave Warwick RI 02889",
+    "addr:housenumber":"1565",
+    "addr:postcode":"02889",
+    "addr:street":"Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.407558,41.73499,-71.407558,41.73499",
     "geom:latitude":41.73499,
     "geom:longitude":-71.407558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1565 Warwick Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FdbulYvNsQQPyyMPOaLJq_41.734990_-71.407558@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314896,
-    "wof:geomhash":"e916eb63ffcf2aa726b76d8a9d2e3b1e",
+    "wof:geomhash":"8ae29228f50365e315d33d50e20d8454",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":874287177,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85826377,
     "wof:placetype":"venue",

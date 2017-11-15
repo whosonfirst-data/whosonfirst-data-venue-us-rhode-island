@@ -2,14 +2,20 @@
   "id": 874143359,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Quaker Ln West Warwick RI 02893",
+    "addr:housenumber":"325",
+    "addr:postcode":"02893",
+    "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.501185,41.688319,-71.501185,41.688319",
     "geom:latitude":41.688319,
     "geom:longitude":-71.501185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 Quaker Ln",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85812969,
         102081209
     ],
+    "wof:brand_id":1125155161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TGe4gJf3gUynlSLSwPdY1_41.688319_-71.501185@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312265,
-    "wof:geomhash":"30a3a3e64284915123b714b182370eb8",
+    "wof:geomhash":"ecaf54c2ab6844d471e0298993e5484c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874143359,
-    "wof:lastmodified":1467082055,
+    "wof:lastmodified":1510698906,
     "wof:name":"Mattress Giant Corporation",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",

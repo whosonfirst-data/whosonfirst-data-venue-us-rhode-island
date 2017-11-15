@@ -2,14 +2,20 @@
   "id": 874008311,
   "type": "Feature",
   "properties": {
+    "addr:full":"454 Washington St Coventry RI 02816",
+    "addr:housenumber":"454",
+    "addr:postcode":"02816",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.538783,41.695285,-71.538783,41.695285",
     "geom:latitude":41.695285,
     "geom:longitude":-71.538783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"454 Washington St",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85803223,
         102081209
     ],
+    "wof:brand_id":1125155581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21hDf1htKk69m1liFdrKCM_41.695285_-71.538783@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310843,
-    "wof:geomhash":"2f919ad57a6eb785267e54de6b18c7e4",
+    "wof:geomhash":"8c819e9fcbae87b108491bbd6ab5acbc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874008311,
-    "wof:lastmodified":1467082004,
+    "wof:lastmodified":1510694030,
     "wof:name":"Certa Pro Painters",
     "wof:parent_id":85803223,
     "wof:placetype":"venue",

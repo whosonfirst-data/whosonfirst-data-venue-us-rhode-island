@@ -2,14 +2,20 @@
   "id": 874018459,
   "type": "Feature",
   "properties": {
+    "addr:full":"191 County Rd Barrington RI 02806",
+    "addr:housenumber":"191",
+    "addr:postcode":"02806",
+    "addr:street":"County Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.302919,41.73595,-71.302919,41.73595",
     "geom:latitude":41.73595,
     "geom:longitude":-71.302919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"191 County Rd",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85836423,
         102081221
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZdfFUnp5F4ChjJw2DzFGZ_41.735950_-71.302919@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310932,
-    "wof:geomhash":"6e373d6a4543c305dcc1ee14adc38788",
+    "wof:geomhash":"4a2bbc8dcf6d46d4b7f35e83c3f024c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874018459,
-    "wof:lastmodified":1467082007,
+    "wof:lastmodified":1510696880,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85836423,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874304675,
   "type": "Feature",
   "properties": {
+    "addr:full":"622 Killingly St Ste A Johnston RI 02919",
+    "addr:housenumber":"622",
+    "addr:postcode":"02919",
+    "addr:street":"Killingly St Ste A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.472879,41.828679,-71.472879,41.828679",
     "geom:latitude":41.828679,
     "geom:longitude":-71.472879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"622 Killingly St Ste A",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102081597,
         85832215
     ],
+    "wof:brand_id":1125156265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pUO6ht7eMeyxKtxdZhoW9_41.828679_-71.472879@1303262239"
     },
     "wof:country":"US",
     "wof:created":1464315553,
-    "wof:geomhash":"4871561e63cdee5a177a708eb9b85eb0",
+    "wof:geomhash":"f3f19c0400a7699126de833c3e688a7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":874304675,
-    "wof:lastmodified":1467082181,
+    "wof:lastmodified":1510699967,
     "wof:name":"Kim's Nails",
     "wof:parent_id":85832215,
     "wof:placetype":"venue",

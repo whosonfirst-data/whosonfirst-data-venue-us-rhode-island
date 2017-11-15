@@ -2,14 +2,20 @@
   "id": 874056277,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Narragansett Ave Narragansett RI 02882",
+    "addr:housenumber":"93",
+    "addr:postcode":"02882",
+    "addr:street":"Narragansett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.463623,41.433368,-71.463623,41.433368",
     "geom:latitude":41.433368,
     "geom:longitude":-71.463623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"93 Narragansett Ave",
     "sg:city":"Narragansett",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081219,
         85688509
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dCzi91uTmuAFYWN5EJKVv_41.433368_-71.463623@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311303,
-    "wof:geomhash":"13d3dd53c405127a05b09a2c4fbda40a",
+    "wof:geomhash":"d9538bb0a4bfb2fd3967be00d8c2ac08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874056277,
-    "wof:lastmodified":1467082021,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85836307,
     "wof:placetype":"venue",

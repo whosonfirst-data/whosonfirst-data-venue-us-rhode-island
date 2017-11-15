@@ -2,14 +2,20 @@
   "id": 874271057,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Carroll Ave Newport RI 02840",
+    "addr:housenumber":"2",
+    "addr:postcode":"02840",
+    "addr:street":"Carroll Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.314117,41.47247,-71.314117,41.47247",
     "geom:latitude":41.47247,
     "geom:longitude":-71.314117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Carroll Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W1PWMbQPyR2HkRPmJPrwb_41.472470_-71.314117@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314260,
-    "wof:geomhash":"0a84c0c2bb13d92956197ee3e4e13178",
+    "wof:geomhash":"74e538e17a93e2cb86cdee88bdeba685",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874271057,
-    "wof:lastmodified":1467082133,
+    "wof:lastmodified":1510695848,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874195069,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Reservoir Ave Cranston RI 02907",
+    "addr:housenumber":"400",
+    "addr:postcode":"02907",
+    "addr:street":"Reservoir Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.43301,41.787004,-71.43301,41.787004",
     "geom:latitude":41.787004,
     "geom:longitude":-71.43301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Reservoir Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IgxVeGrYB4v9LXbjoU42H_41.787004_-71.433010@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312795,
-    "wof:geomhash":"9fcb9dee343364f2e307a84587e6aa1f",
+    "wof:geomhash":"fc6c72ecf879718cc6b437072f82a0b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874195069,
-    "wof:lastmodified":1467082077,
+    "wof:lastmodified":1510693742,
     "wof:name":"National City Mortgage Co",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",

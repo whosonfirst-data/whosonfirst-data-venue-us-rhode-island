@@ -2,14 +2,20 @@
   "id": 874259959,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Houston Ave Newport RI 02840",
+    "addr:housenumber":"112",
+    "addr:postcode":"02840",
+    "addr:street":"Houston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.317216,41.472326,-71.317216,41.472326",
     "geom:latitude":41.472326,
     "geom:longitude":-71.317216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 Houston Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125155701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35aXLXODi9M7MtG3qZQDqP_41.472326_-71.317216@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313857,
-    "wof:geomhash":"a1f1f9e927c26858935c7c95ef21aacc",
+    "wof:geomhash":"10708d5999ba6ef44bc4ed77c3026fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874259959,
-    "wof:lastmodified":1467082117,
+    "wof:lastmodified":1510694622,
     "wof:name":"Unisys Corp",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

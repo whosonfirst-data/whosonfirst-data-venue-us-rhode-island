@@ -2,14 +2,20 @@
   "id": 874075057,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Angelwood Rd Coventry RI 02816",
+    "addr:housenumber":"13",
+    "addr:postcode":"02816",
+    "addr:street":"Angelwood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.563519,41.675834,-71.563519,41.675834",
     "geom:latitude":41.675834,
     "geom:longitude":-71.563519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Angelwood Rd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850599,
         102081209
     ],
+    "wof:brand_id":420575447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_091d15aKld9iAgqr8vBH8f_41.675834_-71.563519@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311503,
-    "wof:geomhash":"befd4022412e5cec71401634f5df504e",
+    "wof:geomhash":"07976556fd681385d4d76291885e389b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874075057,
-    "wof:lastmodified":1467082028,
+    "wof:lastmodified":1510602788,
     "wof:name":"International Assoc of LI",
     "wof:parent_id":85850599,
     "wof:placetype":"venue",

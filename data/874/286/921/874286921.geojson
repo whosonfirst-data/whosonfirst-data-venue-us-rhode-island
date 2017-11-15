@@ -2,14 +2,20 @@
   "id": 874286921,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Old Tower Hill Rd Wakefield RI 02879",
+    "addr:housenumber":"49",
+    "addr:postcode":"02879",
+    "addr:street":"Old Tower Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.485793,41.441838,-71.485793,41.441838",
     "geom:latitude":41.441838,
     "geom:longitude":-71.485793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49 Old Tower Hill Rd",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688509,
         85845577
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NvDDEUyBBPAZYf2l4yw3z_41.441838_-71.485793@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314887,
-    "wof:geomhash":"a59c983e17a4b2768905d129e0e65a6a",
+    "wof:geomhash":"521b7fb2359685fcfe9144ecfc878a72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":874286921,
-    "wof:lastmodified":1467082155,
+    "wof:lastmodified":1510700011,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874133511,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Pratt Ave Providence RI 02906",
+    "addr:housenumber":"123",
+    "addr:postcode":"02906",
+    "addr:street":"Pratt Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874133511,
-    "wof:lastmodified":1467082051,
+    "wof:lastmodified":1472644162,
     "wof:name":"Hope Hirsch",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

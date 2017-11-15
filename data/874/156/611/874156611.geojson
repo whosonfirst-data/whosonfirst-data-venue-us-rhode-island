@@ -2,14 +2,20 @@
   "id": 874156611,
   "type": "Feature",
   "properties": {
+    "addr:full":"999 Bald Hill Rd Warwick RI 02886",
+    "addr:housenumber":"999",
+    "addr:postcode":"02886",
+    "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.489419,41.712074,-71.489419,41.712074",
     "geom:latitude":41.712074,
     "geom:longitude":-71.489419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"999 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85688509,
         85816599
     ],
+    "wof:brand_id":420574957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62QqMbka88afrV6a5Ps32Q_41.712074_-71.489419@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312395,
-    "wof:geomhash":"03d2678e2e00e177f285c3b850368c2e",
+    "wof:geomhash":"1ab8932061cc84b2f0ee12e30c415875",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":874156611,
-    "wof:lastmodified":1467082060,
+    "wof:lastmodified":1510604338,
     "wof:name":"Midas Muffler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

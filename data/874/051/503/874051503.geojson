@@ -2,14 +2,20 @@
   "id": 874051503,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 Manning St Warwick RI 02889",
+    "addr:housenumber":"178",
+    "addr:postcode":"02889",
+    "addr:street":"Manning St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.401666,41.691404,-71.401666,41.691404",
     "geom:latitude":41.691404,
     "geom:longitude":-71.401666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"178 Manning St",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GqF6Fhyqhbn5nXccjS8EQ_41.691404_-71.401666@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311255,
-    "wof:geomhash":"6b0eecdc527434673d240bb8892d6d2a",
+    "wof:geomhash":"2775e76b801a48c9289deaf574da6819",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874051503,
-    "wof:lastmodified":1467082019,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85838995,
     "wof:placetype":"venue",

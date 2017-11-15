@@ -2,14 +2,20 @@
   "id": 874099735,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Putnam Pike Greenville RI 02828",
+    "addr:housenumber":"445",
+    "addr:postcode":"02828",
+    "addr:street":"Putnam Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.52805,41.870134,-71.52805,41.870134",
     "geom:latitude":41.870134,
     "geom:longitude":-71.52805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"445 Putnam Pike",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85820331,
         102081597
     ],
+    "wof:brand_id":1125156335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xc8aPXeph981yBrsa3kQY_41.870134_-71.528050@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311789,
-    "wof:geomhash":"65c5fdaa6d1f9264ac481ff507bf28a1",
+    "wof:geomhash":"252f3182b51821f75b01886be10a7871",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874099735,
-    "wof:lastmodified":1467082037,
+    "wof:lastmodified":1510697029,
     "wof:name":"Affordable Dentures",
     "wof:parent_id":85820331,
     "wof:placetype":"venue",

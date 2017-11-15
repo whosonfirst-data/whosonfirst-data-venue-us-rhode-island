@@ -2,14 +2,20 @@
   "id": 874247277,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Universal Blvd Warwick RI 02886",
+    "addr:housenumber":"21",
+    "addr:postcode":"02886",
+    "addr:street":"Universal Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.495655,41.70269,-71.495655,41.70269",
     "geom:latitude":41.70269,
     "geom:longitude":-71.495655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Universal Blvd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688509,
         85803395
     ],
+    "wof:brand_id":1125154373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UxZ0WBkQFnkbBqnkUJUZy_41.702690_-71.495655@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313477,
-    "wof:geomhash":"51d4f3a3a3c4022510216dbf1778d2b9",
+    "wof:geomhash":"d1e5e96dd1768b54e29a46ef69f81bb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":874247277,
-    "wof:lastmodified":1467082105,
+    "wof:lastmodified":1510699698,
     "wof:name":"Tweeter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

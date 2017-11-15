@@ -2,6 +2,10 @@
   "id": 874301359,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Highland Ave Ste 302 Providence RI 02906",
+    "addr:housenumber":"100",
+    "addr:postcode":"02906",
+    "addr:street":"Highland Ave Ste 302",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":874301359,
-    "wof:lastmodified":1467082176,
+    "wof:lastmodified":1472644318,
     "wof:name":"STD Test Express Providence",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

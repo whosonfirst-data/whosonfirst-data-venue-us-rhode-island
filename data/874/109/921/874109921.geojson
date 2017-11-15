@@ -2,14 +2,20 @@
   "id": 874109921,
   "type": "Feature",
   "properties": {
+    "addr:full":"3751 Mendon Rd Cumberland RI 02864",
+    "addr:housenumber":"",
+    "addr:postcode":"3751;02864",
+    "addr:street":"Mendon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.468829,41.981762,-71.468829,41.981762",
     "geom:latitude":41.981762,
     "geom:longitude":-71.468829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3751 Mendon Rd",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05Yxnr45T1a8hPu1BQvCvK_41.981762_-71.468829@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311918,
-    "wof:geomhash":"357f2d66b3f3e77a9fa7637db77ec0f8",
+    "wof:geomhash":"5505cb85e3f5b5d2a8cc8c706739b850",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874109921,
-    "wof:lastmodified":1467082041,
+    "wof:lastmodified":1510699386,
     "wof:name":"Powerhouse Gym",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",

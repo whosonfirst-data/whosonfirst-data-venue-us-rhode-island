@@ -2,14 +2,20 @@
   "id": 873990777,
   "type": "Feature",
   "properties": {
+    "addr:full":"1046 Tiogue Ave Coventry RI 02816",
+    "addr:housenumber":"1046",
+    "addr:postcode":"02816",
+    "addr:street":"Tiogue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.587086,41.67862,-71.587086,41.67862",
     "geom:latitude":41.67862,
     "geom:longitude":-71.587086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1046 Tiogue Ave",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85850599,
         102081209
     ],
+    "wof:brand_id":420574337,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42TuOnapLnM8frYx9RHwxZ_41.678620_-71.587086@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310695,
-    "wof:geomhash":"37122eeaa61098cb79cc934594530e29",
+    "wof:geomhash":"9507b635a01506d410b15b7c60c330d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873990777,
-    "wof:lastmodified":1467081998,
+    "wof:lastmodified":1510604655,
     "wof:name":"Fantastic Sam's",
     "wof:parent_id":85850599,
     "wof:placetype":"venue",

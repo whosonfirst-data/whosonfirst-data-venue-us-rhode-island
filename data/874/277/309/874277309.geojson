@@ -2,14 +2,20 @@
   "id": 874277309,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 Kingstown Rd South Kingstown RI 02879",
+    "addr:housenumber":"456",
+    "addr:postcode":"02879",
+    "addr:street":"Kingstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.485956,41.437634,-71.485956,41.437634",
     "geom:latitude":41.437634,
     "geom:longitude":-71.485956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"456 Kingstown Rd",
     "sg:city":"South Kingstown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85688509,
         85845577
     ],
+    "wof:brand_id":1125156165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f1ksvdkylbb7pdX2OLykB_41.437634_-71.485956@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314511,
-    "wof:geomhash":"beba6dc7d062d6858da41dda83bca65c",
+    "wof:geomhash":"247fa51d7da9238fe1ce58a9fad5def2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":874277309,
-    "wof:lastmodified":1467082142,
+    "wof:lastmodified":1510613145,
     "wof:name":"Vital Signs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

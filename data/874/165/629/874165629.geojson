@@ -2,14 +2,20 @@
   "id": 874165629,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Bradford Rd Bradford RI 02808",
+    "addr:housenumber":"336",
+    "addr:postcode":"02808",
+    "addr:street":"Bradford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.749485,41.395745,-71.749485,41.395745",
     "geom:latitude":41.395745,
     "geom:longitude":-71.749485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"336 Bradford Rd",
     "sg:city":"Bradford",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081219,
         85688509
     ],
+    "wof:brand_id":1125158921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lnRVdM4kpnKZAVVxYOTkD_41.395745_-71.749485@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312486,
-    "wof:geomhash":"ed87143c88477af9a3abb30092727b59",
+    "wof:geomhash":"4b773d0d12a5ce28c257fc2549f4b746",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874165629,
-    "wof:lastmodified":1467082064,
+    "wof:lastmodified":1510695734,
     "wof:name":"Autoworks",
     "wof:parent_id":420540589,
     "wof:placetype":"venue",

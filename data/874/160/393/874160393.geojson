@@ -2,6 +2,10 @@
   "id": 874160393,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Promenade St Providence RI 02908",
+    "addr:housenumber":"405",
+    "addr:postcode":"02908",
+    "addr:street":"Promenade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":874160393,
-    "wof:lastmodified":1467082062,
+    "wof:lastmodified":1472644182,
     "wof:name":"Healthcare Provider Svc",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",

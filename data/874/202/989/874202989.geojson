@@ -2,14 +2,20 @@
   "id": 874202989,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 Warwick Ave Warwick RI 02889",
+    "addr:housenumber":"2515",
+    "addr:postcode":"02889",
+    "addr:street":"Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.397551,41.708461,-71.397551,41.708461",
     "geom:latitude":41.708461,
     "geom:longitude":-71.397551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2515 Warwick Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125152575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X92E4lKuZCZZ21asfuM7p_41.708461_-71.397551@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312874,
-    "wof:geomhash":"3b093d3258c978a391d70823058326b2",
+    "wof:geomhash":"3a571c3c766a2239bd40037fe741e5fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874202989,
-    "wof:lastmodified":1467082080,
+    "wof:lastmodified":1510698840,
     "wof:name":"Best Cuts",
     "wof:parent_id":420540485,
     "wof:placetype":"venue",

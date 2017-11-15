@@ -2,6 +2,10 @@
   "id": 874305123,
   "type": "Feature",
   "properties": {
+    "addr:full":"Greenwich Mills Suite 316, 42 Ladd St. East Greenwich RI 02818",
+    "addr:housenumber":"suite;42",
+    "addr:postcode":"02818",
+    "addr:street":"316;Ladd St.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874305123,
-    "wof:lastmodified":1467082181,
+    "wof:lastmodified":1472644314,
     "wof:name":"EPAC Software Technologies",
     "wof:parent_id":85810613,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874293567,
   "type": "Feature",
   "properties": {
+    "addr:full":"240 Post Rd Westerly RI 02891",
+    "addr:housenumber":"240",
+    "addr:postcode":"02891",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.764343,41.351822,-71.764343,41.351822",
     "geom:latitude":41.351822,
     "geom:longitude":-71.764343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"240 Post Rd",
     "sg:city":"Westerly",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         85815497,
         102081219
     ],
+    "wof:brand_id":1125155191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vT66Xloo6gj1N9TSCneDS_41.351822_-71.764343@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315142,
-    "wof:geomhash":"7030a22a3a1274c50765fdee549fb310",
+    "wof:geomhash":"80e71a16e4f9e8dff9c50c618a7544fc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":874293567,
-    "wof:lastmodified":1467082165,
+    "wof:lastmodified":1510699649,
     "wof:name":"Tim Horton's",
     "wof:parent_id":85815497,
     "wof:placetype":"venue",

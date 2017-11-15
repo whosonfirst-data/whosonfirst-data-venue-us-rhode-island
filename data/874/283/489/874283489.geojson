@@ -2,6 +2,10 @@
   "id": 874283489,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Thomas Olney Cmn Providence RI 02904",
+    "addr:housenumber":"1",
+    "addr:postcode":"02904",
+    "addr:street":"Thomas;Cmn",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":874283489,
-    "wof:lastmodified":1467082150,
+    "wof:lastmodified":1472644256,
     "wof:name":"University Heights Apartments",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874002449,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Canonicus St Tiverton RI 02878",
+    "addr:housenumber":"188",
+    "addr:postcode":"02878",
+    "addr:street":"Canonicus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.188383,41.670457,-71.188383,41.670457",
     "geom:latitude":41.670457,
     "geom:longitude":-71.188383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"188 Canonicus St",
     "sg:city":"Tiverton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125150465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lc02vyd1BjVjoPVfTNIq4_41.670457_-71.188383@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310779,
-    "wof:geomhash":"fd75a496e3a36b79452e3ef000fc0671",
+    "wof:geomhash":"233b6f394d0819259259e58e62d36fb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874002449,
-    "wof:lastmodified":1467082002,
+    "wof:lastmodified":1510694143,
     "wof:name":"Pre-Paid Legal Svc Inc",
     "wof:parent_id":85838113,
     "wof:placetype":"venue",

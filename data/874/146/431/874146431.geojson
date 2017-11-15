@@ -2,14 +2,20 @@
   "id": 874146431,
   "type": "Feature",
   "properties": {
+    "addr:full":"645 New London Ave Cranston RI 02920",
+    "addr:housenumber":"645",
+    "addr:postcode":"02920",
+    "addr:street":"New London Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.468253,41.748443,-71.468253,41.748443",
     "geom:latitude":41.748443,
     "geom:longitude":-71.468253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"645 New London Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125154013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58qdYPFZn3p1KfRYElXKrI_41.748443_-71.468253@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312297,
-    "wof:geomhash":"4c51ace9aeda3dfa6e37856374fa6fd4",
+    "wof:geomhash":"8c398db00f3d6d0928ceaf4c3e744ebd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874146431,
-    "wof:lastmodified":1467082056,
+    "wof:lastmodified":1510695148,
     "wof:name":"US Army Dept",
     "wof:parent_id":85839009,
     "wof:placetype":"venue",

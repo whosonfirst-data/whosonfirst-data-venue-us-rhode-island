@@ -2,14 +2,20 @@
   "id": 874265155,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Mayfair Rd Warwick RI 02888",
+    "addr:housenumber":"116",
+    "addr:postcode":"02888",
+    "addr:street":"Mayfair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.392408,41.754691,-71.392408,41.754691",
     "geom:latitude":41.754691,
     "geom:longitude":-71.392408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Mayfair Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dRJWaqIgGtfJBqI6wRHRT_41.754691_-71.392408@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314043,
-    "wof:geomhash":"6af511388c3c83aadd28a768f5344d7d",
+    "wof:geomhash":"d3c8a7d5bdf787f54ecd88d43af96a28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874265155,
-    "wof:lastmodified":1467082124,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85840949,
     "wof:placetype":"venue",

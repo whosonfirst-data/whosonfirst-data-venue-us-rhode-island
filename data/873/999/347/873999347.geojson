@@ -2,14 +2,20 @@
   "id": 873999347,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Thurber Blvd Smithfield RI 02917",
+    "addr:housenumber":"25",
+    "addr:postcode":"02917",
+    "addr:street":"Thurber Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.518384,41.911733,-71.518384,41.911733",
     "geom:latitude":41.911733,
     "geom:longitude":-71.518384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Thurber Blvd",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85851071,
         102081597
     ],
+    "wof:brand_id":1125154931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SEq4MaczUzFQulMaF5IUf_41.911733_-71.518384@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310756,
-    "wof:geomhash":"3400533e6a9f4381ea981caec9d6a3eb",
+    "wof:geomhash":"50a31c114887cf339e2c86b796b80ffb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873999347,
-    "wof:lastmodified":1467082001,
+    "wof:lastmodified":1510613314,
     "wof:name":"Thyssen Krupp Elevator",
     "wof:parent_id":85851071,
     "wof:placetype":"venue",

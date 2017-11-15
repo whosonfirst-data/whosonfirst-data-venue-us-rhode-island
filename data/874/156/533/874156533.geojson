@@ -2,14 +2,20 @@
   "id": 874156533,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Park Ave Cranston RI 02910",
+    "addr:housenumber":"604",
+    "addr:postcode":"02910",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.423661,41.776419,-71.423661,41.776419",
     "geom:latitude":41.776419,
     "geom:longitude":-71.423661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 Park Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cZ759v6mrjP7sZCEL9hC7_41.776419_-71.423661@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312394,
-    "wof:geomhash":"17c8a70fc895d6e03ea99ff70d2144e4",
+    "wof:geomhash":"edf4f5ba389220e9a5923155b876001d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874156533,
-    "wof:lastmodified":1467082060,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",

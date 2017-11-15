@@ -2,14 +2,20 @@
   "id": 874297345,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Providence Pl Providence RI 02903",
+    "addr:housenumber":"143",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.424219,41.82906,-71.424219,41.82906",
     "geom:latitude":41.82906,
     "geom:longitude":-71.424219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155891,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63ZxCbntEr1pNMcPTaPhLk_41.829060_-71.424219@1303262237"
     },
     "wof:country":"US",
     "wof:created":1464315279,
-    "wof:geomhash":"e47aca61ee84af63b99dd0f9259600d4",
+    "wof:geomhash":"a89c60954c2bb565c3bffcbfb6470c0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874297345,
-    "wof:lastmodified":1467082170,
+    "wof:lastmodified":1510699290,
     "wof:name":"Brighton Collectibles",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874047235,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Quaker Ln Warwick RI 02886",
+    "addr:housenumber":"24",
+    "addr:postcode":"02886",
+    "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.501509,41.695567,-71.501509,41.695567",
     "geom:latitude":41.695567,
     "geom:longitude":-71.501509,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 Quaker Ln",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         404488313,
         101720577
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a61SVo5DdiOemq0I4H2CV_41.695567_-71.501509@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311217,
-    "wof:geomhash":"6612fe1894de6927f6f22544163d63b6",
+    "wof:geomhash":"ae1cc9ca0504727199d6655a5a99bfae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":874047235,
-    "wof:lastmodified":1467082017,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

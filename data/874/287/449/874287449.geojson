@@ -2,14 +2,20 @@
   "id": 874287449,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Doyle Ave Providence RI 02906",
+    "addr:housenumber":"110",
+    "addr:postcode":"02906",
+    "addr:street":"Doyle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.404333,41.838792,-71.404333,41.838792",
     "geom:latitude":41.838792,
     "geom:longitude":-71.404333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Doyle Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688509,
         85867163
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CSwdzESd365JEN8ZBU1bf_41.838792_-71.404333@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314911,
-    "wof:geomhash":"9c2bc41dc16d1a9fce8aa73f475beab0",
+    "wof:geomhash":"8b83fbc0dd7ea102fad93e971bf6b4af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":874287449,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700011,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874290697,
   "type": "Feature",
   "properties": {
+    "addr:full":"683 Beverage Hill Ave Pawtucket RI 02861",
+    "addr:housenumber":"683",
+    "addr:postcode":"02861",
+    "addr:street":"Beverage Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.350601,41.861,-71.350601,41.861",
     "geom:latitude":41.861,
     "geom:longitude":-71.350601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"683 Beverage Hill Ave",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j5TjaT0aiJqQ00AHMFUUo_41.861000_-71.350601@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315035,
-    "wof:geomhash":"a838dda3cb692ce5c8aef07e4bd6d5ab",
+    "wof:geomhash":"069d8e3d1a5ff0ab2bdde505f5079446",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874290697,
-    "wof:lastmodified":1467082160,
+    "wof:lastmodified":1510696023,
     "wof:name":"General Nutrition Center",
     "wof:parent_id":420540541,
     "wof:placetype":"venue",

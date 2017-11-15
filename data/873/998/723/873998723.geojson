@@ -2,6 +2,10 @@
   "id": 873998723,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 N Main St North Smithfield RI 02896",
+    "addr:housenumber":"111",
+    "addr:postcode":"02896",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873998723,
-    "wof:lastmodified":1467082001,
+    "wof:lastmodified":1472644107,
     "wof:name":"North American Label",
     "wof:parent_id":85836347,
     "wof:placetype":"venue",

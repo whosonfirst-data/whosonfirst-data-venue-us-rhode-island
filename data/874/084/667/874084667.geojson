@@ -2,14 +2,20 @@
   "id": 874084667,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Providence Pl Providence RI 02903",
+    "addr:housenumber":"20",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.417893,41.827422,-71.417893,41.827422",
     "geom:latitude":41.827422,
     "geom:longitude":-71.417893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4j0nSgweYPVHw9AJt7O8Za_41.827422_-71.417893@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311606,
-    "wof:geomhash":"880998dfb3887f435bfb4b2a5c4a9ce2",
+    "wof:geomhash":"8c5ed079cf0455e47b9b9b63ab832411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874084667,
-    "wof:lastmodified":1467082031,
+    "wof:lastmodified":1510699956,
     "wof:name":"Bailey Banks & Biddle",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

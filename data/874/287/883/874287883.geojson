@@ -2,14 +2,20 @@
   "id": 874287883,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Quaker Ln Warwick RI 02886",
+    "addr:housenumber":"300",
+    "addr:postcode":"02886",
+    "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.500878,41.687863,-71.500878,41.687863",
     "geom:latitude":41.687863,
     "geom:longitude":-71.500878,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Quaker Ln",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85812969,
         102081209
     ],
+    "wof:brand_id":1125151503,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qnSzJKrJ7S5MSoEG2F6D3_41.687590_-71.501030@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314931,
-    "wof:geomhash":"8e7db4002874fc611698a966f68318b3",
+    "wof:geomhash":"72f0cc667098180798e691de362f4934",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":874287883,
-    "wof:lastmodified":1467082157,
+    "wof:lastmodified":1510699688,
     "wof:name":"D'Angelo Sandwich Shops",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",

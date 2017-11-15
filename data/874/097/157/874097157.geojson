@@ -2,14 +2,20 @@
   "id": 874097157,
   "type": "Feature",
   "properties": {
+    "addr:full":"1705 Main St West Warwick RI 02893",
+    "addr:housenumber":"1705",
+    "addr:postcode":"02893",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.523727,41.68441,-71.523727,41.68441",
     "geom:latitude":41.68441,
     "geom:longitude":-71.523727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1705 Main St",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85812969,
         102081209
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fc33Bqwg1k4aX1EO3lwlt_41.684410_-71.523727@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311745,
-    "wof:geomhash":"3f67c243a3d9341439ecf06b0261e4bd",
+    "wof:geomhash":"9b6cde6455160b413e0336e5b2b00592",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874097157,
-    "wof:lastmodified":1467082036,
+    "wof:lastmodified":1510695340,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",

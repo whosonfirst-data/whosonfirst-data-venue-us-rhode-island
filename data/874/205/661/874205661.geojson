@@ -2,14 +2,20 @@
   "id": 874205661,
   "type": "Feature",
   "properties": {
+    "addr:full":"84 Broadway Newport RI 02840",
+    "addr:housenumber":"84",
+    "addr:postcode":"02840",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.311272,41.492266,-71.311272,41.492266",
     "geom:latitude":41.492266,
     "geom:longitude":-71.311272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"84 Broadway",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gqIejbeGAEPJEqThEBjeF_41.492266_-71.311272@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312901,
-    "wof:geomhash":"58e013abd5cd51359f72db6bc54d7964",
+    "wof:geomhash":"d551ba6550c919a7c053dd6108d1aa75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874205661,
-    "wof:lastmodified":1467082082,
+    "wof:lastmodified":1510697264,
     "wof:name":"Angel Nails",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

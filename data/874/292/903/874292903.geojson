@@ -2,6 +2,10 @@
   "id": 874292903,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Narragansett Blvd Portsmouth RI 02871",
+    "addr:housenumber":"222",
+    "addr:postcode":"02871",
+    "addr:street":"Narragansett Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":874292903,
-    "wof:lastmodified":1467082164,
+    "wof:lastmodified":1472644326,
     "wof:name":"Brewers Sakonnet Marina",
     "wof:parent_id":85868749,
     "wof:placetype":"venue",

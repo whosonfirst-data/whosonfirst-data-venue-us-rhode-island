@@ -2,14 +2,20 @@
   "id": 874301207,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Richmond Square Providence RI 02906",
+    "addr:housenumber":"1",
+    "addr:postcode":"02906",
+    "addr:street":"Richmond Square",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.381969,41.827084,-71.381969,41.827084",
     "geom:latitude":41.827084,
     "geom:longitude":-71.381969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Richmond Square",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,13 +54,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48ZIyQAvYxKa1hHGW7iAy0_41.827084_-71.381969@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315438,
-    "wof:geomhash":"3655f0a0e49220b36c18d657b9381179",
+    "wof:geomhash":"1e0c91bd59d9e3ef89d56bf35aec8eea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":874301207,
-    "wof:lastmodified":1467082176,
+    "wof:lastmodified":1510698675,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",

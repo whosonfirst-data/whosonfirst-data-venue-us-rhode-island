@@ -2,14 +2,20 @@
   "id": 873996857,
   "type": "Feature",
   "properties": {
+    "addr:full":"440 Smithfield Ave Providence RI 02904",
+    "addr:housenumber":"440",
+    "addr:postcode":"02904",
+    "addr:street":"Smithfield Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411005,41.858107,-71.411005,41.858107",
     "geom:latitude":41.858107,
     "geom:longitude":-71.411005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"440 Smithfield Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CONaUtNieho89v4GAmlnO_41.858107_-71.411005@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310738,
-    "wof:geomhash":"711e49bb93e587d9e4daee922be924f0",
+    "wof:geomhash":"540b5a6fece4764315bee0c17d4c15f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873996857,
-    "wof:lastmodified":1467082000,
+    "wof:lastmodified":1510608457,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":85880035,
     "wof:placetype":"venue",

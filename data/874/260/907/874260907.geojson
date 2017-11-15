@@ -2,14 +2,20 @@
   "id": 874260907,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Mineral Spring Ave Pawtucket RI 02860",
+    "addr:housenumber":"250",
+    "addr:postcode":"02860",
+    "addr:street":"Mineral Spring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.39974,41.874106,-71.39974,41.874106",
     "geom:latitude":41.874106,
     "geom:longitude":-71.39974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Mineral Spring Ave",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HN7gxbLX3f86AK6b9NqBX_41.874106_-71.399740@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313888,
-    "wof:geomhash":"43f41c97897901986f79cf6499d74508",
+    "wof:geomhash":"f909c80cd047fa224161b19abe88bc11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874260907,
-    "wof:lastmodified":1467082118,
+    "wof:lastmodified":1510698882,
     "wof:name":"Amerada Hess Corporation",
     "wof:parent_id":85818545,
     "wof:placetype":"venue",

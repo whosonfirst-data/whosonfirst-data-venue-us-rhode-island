@@ -2,14 +2,20 @@
   "id": 874041265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1085 Waterman Ave East Providence RI 02914",
+    "addr:housenumber":"1085",
+    "addr:postcode":"02914",
+    "addr:street":"Waterman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.340294,41.808445,-71.340294,41.808445",
     "geom:latitude":41.808445,
     "geom:longitude":-71.340294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1085 Waterman Ave",
     "sg:city":"East Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SBS1eBzcdCCFnMZGIrArq_41.808445_-71.340294@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311155,
-    "wof:geomhash":"488f6309a2a8bac0bf7e9689f9473627",
+    "wof:geomhash":"5f0b0bcf9e4560bceadbf2a4e76df7ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874041265,
-    "wof:lastmodified":1467082015,
+    "wof:lastmodified":1510697972,
     "wof:name":"Honey Dew Donuts",
     "wof:parent_id":420540531,
     "wof:placetype":"venue",

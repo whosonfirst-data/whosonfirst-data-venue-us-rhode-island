@@ -2,14 +2,20 @@
   "id": 874076801,
   "type": "Feature",
   "properties": {
+    "addr:full":"681 Park Ave Providence RI 02910",
+    "addr:housenumber":"681",
+    "addr:postcode":"02910",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.428158,41.77747,-71.428158,41.77747",
     "geom:latitude":41.77747,
     "geom:longitude":-71.428158,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"681 Park Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RM9Ch3B3Z2TICAGYMfoO0_41.777470_-71.428158@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311518,
-    "wof:geomhash":"848d0bcd736aa9fe3b0c83e32c3860d7",
+    "wof:geomhash":"b9cfef4e893525705154f5177e5d79ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874076801,
-    "wof:lastmodified":1467082028,
+    "wof:lastmodified":1510699709,
     "wof:name":"Leukemia & Lymphoma Society",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",

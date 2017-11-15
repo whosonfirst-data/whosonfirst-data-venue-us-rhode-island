@@ -2,14 +2,20 @@
   "id": 874293433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1287 Post Rd Warwick RI 02888",
+    "addr:housenumber":"1287",
+    "addr:postcode":"02888",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.428308,41.744749,-71.428308,41.744749",
     "geom:latitude":41.744749,
     "geom:longitude":-71.428308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1287 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125152347,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P4gYutTLimlTx0dmbeX5A_41.744749_-71.428308@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315138,
-    "wof:geomhash":"045b9ec5c8e16518422f2fe4a58c27ad",
+    "wof:geomhash":"773b2214e90d5b7cc7648f33299e838f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":874293433,
-    "wof:lastmodified":1467082164,
+    "wof:lastmodified":1510613374,
     "wof:name":"Fish Window Cleaning",
     "wof:parent_id":85838523,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874183353,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Bellevue Ave Newport RI 02840",
+    "addr:housenumber":"174",
+    "addr:postcode":"02840",
+    "addr:street":"Bellevue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.30843,41.48351,-71.30843,41.48351",
     "geom:latitude":41.48351,
     "geom:longitude":-71.30843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 Bellevue Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125152929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zWW1C0HCCdCPj7HVEKBwn_41.483510_-71.308430@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312669,
-    "wof:geomhash":"dd35d12030401395b012ff953ffb87ae",
+    "wof:geomhash":"c28ac6773b06bc8f746975dae67f0a12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874183353,
-    "wof:lastmodified":1467082072,
+    "wof:lastmodified":1510695335,
     "wof:name":"Avaya Inc",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

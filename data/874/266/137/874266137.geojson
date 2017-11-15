@@ -2,14 +2,20 @@
   "id": 874266137,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Pawtucket Ave Pawtucket RI 02860",
+    "addr:housenumber":"600",
+    "addr:postcode":"02860",
+    "addr:street":"Pawtucket Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.399161,41.857357,-71.399161,41.857357",
     "geom:latitude":41.857357,
     "geom:longitude":-71.399161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Pawtucket Ave",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125158111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7auAfIPAnrSYLaBoNgbXlL_41.857357_-71.399161@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314076,
-    "wof:geomhash":"0ff28f7ff3c62344b95385e9c12f5af6",
+    "wof:geomhash":"1a763b7a24f0140d11b8f7bacd149952",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874266137,
-    "wof:lastmodified":1467082126,
+    "wof:lastmodified":1510696727,
     "wof:name":"ICI Dulux Paint Centers",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

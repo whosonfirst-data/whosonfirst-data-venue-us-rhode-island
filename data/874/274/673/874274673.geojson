@@ -2,6 +2,10 @@
   "id": 874274673,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Jefferson Blvd Warwick RI 02888",
+    "addr:housenumber":"222",
+    "addr:postcode":"02888",
+    "addr:street":"Jefferson Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874274673,
-    "wof:lastmodified":1467082138,
+    "wof:lastmodified":1472644270,
     "wof:name":"Hobson & Coutu LTD",
     "wof:parent_id":85838523,
     "wof:placetype":"venue",

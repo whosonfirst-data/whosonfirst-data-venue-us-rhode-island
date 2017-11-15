@@ -2,14 +2,20 @@
   "id": 874285415,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 Thayer St Providence RI 02906",
+    "addr:housenumber":"212",
+    "addr:postcode":"02906",
+    "addr:street":"Thayer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.400398,41.8274,-71.400398,41.8274",
     "geom:latitude":41.8274,
     "geom:longitude":-71.400398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"212 Thayer St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rn5n7ZOwMZ45v1qZxQw4I_41.827628_-71.400581@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314828,
-    "wof:geomhash":"c17aa6534a2c414eb679bf4a07a6848f",
+    "wof:geomhash":"3b928ae73ba966dd496e41c8383c55ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874285415,
-    "wof:lastmodified":1467082153,
+    "wof:lastmodified":1510604908,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

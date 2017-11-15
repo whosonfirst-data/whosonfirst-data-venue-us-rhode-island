@@ -2,14 +2,20 @@
   "id": 874269479,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Greene St Pawtucket RI 02860",
+    "addr:housenumber":"71",
+    "addr:postcode":"02860",
+    "addr:street":"Greene St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.374025,41.885271,-71.374025,41.885271",
     "geom:latitude":41.885271,
     "geom:longitude":-71.374025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Greene St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hVvyCrsHHjn0QmjrQBnHJ_41.885271_-71.374025@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314208,
-    "wof:geomhash":"3cc8c5fe268e09d6a0d5fdd4586fcf3a",
+    "wof:geomhash":"cd612dd71d9f63ceeb04553d04adf75d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874269479,
-    "wof:lastmodified":1467082131,
+    "wof:lastmodified":1510695387,
     "wof:name":"Immanuel Baptist Church",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

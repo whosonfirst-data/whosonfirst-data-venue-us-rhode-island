@@ -2,14 +2,20 @@
   "id": 874034589,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Tyndall Ave Providence RI 02908",
+    "addr:housenumber":"125",
+    "addr:postcode":"02908",
+    "addr:street":"Tyndall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.432174,41.841093,-71.432174,41.841093",
     "geom:latitude":41.841093,
     "geom:longitude":-71.432174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Tyndall Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tUrLqlIzB5MezLG8Ioygc_41.841093_-71.432174@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311090,
-    "wof:geomhash":"b0ef24f8e7d1cb5af829be9eb9f2a807",
+    "wof:geomhash":"024bfdb54af037712057ca50fee174a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874034589,
-    "wof:lastmodified":1467082013,
+    "wof:lastmodified":1510694948,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85880037,
     "wof:placetype":"venue",

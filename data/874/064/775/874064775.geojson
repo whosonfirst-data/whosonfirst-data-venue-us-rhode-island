@@ -2,14 +2,20 @@
   "id": 874064775,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Metro Center Blvd Warwick RI 02886",
+    "addr:housenumber":"301",
+    "addr:postcode":"02886",
+    "addr:street":"Metro Center Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.456662,41.724522,-71.456662,41.724522",
     "geom:latitude":41.724522,
     "geom:longitude":-71.456662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Metro Center Blvd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125152519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FuaBszaq0e2Swo1NXltkb_41.724522_-71.456662@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311377,
-    "wof:geomhash":"c30e94eb0c22225c78307d208f5b3ed7",
+    "wof:geomhash":"e57152354cdbd561b881537002ca05b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":874064775,
-    "wof:lastmodified":1467082024,
+    "wof:lastmodified":1510613238,
     "wof:name":"Computer Sciences Corporation",
     "wof:parent_id":85825603,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874299319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1128 Mineral Spring Ave North Providence RI 02904",
+    "addr:housenumber":"1128",
+    "addr:postcode":"02904",
+    "addr:street":"Mineral Spring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.430397,41.868198,-71.430397,41.868198",
     "geom:latitude":41.868198,
     "geom:longitude":-71.430397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1128 Mineral Spring Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85832439,
         102081597
     ],
+    "wof:brand_id":1125158639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oYfwP87zlJQtrzRImTI9t_41.868198_-71.430397@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315365,
-    "wof:geomhash":"1c21d284e4ba8763a1347d8ecd302328",
+    "wof:geomhash":"5827ce4bc761e30d0c64e76e862042ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874299319,
-    "wof:lastmodified":1467082173,
+    "wof:lastmodified":1510699375,
     "wof:name":"Stop & Shop Supermarket",
     "wof:parent_id":85832439,
     "wof:placetype":"venue",

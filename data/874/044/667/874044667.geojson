@@ -2,14 +2,20 @@
   "id": 874044667,
   "type": "Feature",
   "properties": {
+    "addr:full":"16 Midway Rd Cranston RI 02920",
+    "addr:housenumber":"16",
+    "addr:postcode":"02920",
+    "addr:street":"Midway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.457097,41.763679,-71.457097,41.763679",
     "geom:latitude":41.763679,
     "geom:longitude":-71.457097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"16 Midway Rd",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575057,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21rz9Vscj53PIJArb04ZyU_41.763679_-71.457097@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311190,
-    "wof:geomhash":"b7bbbd4960f4e82d2fa8dafc95f22627",
+    "wof:geomhash":"2f243ef0478deb69549433cfbcd2395b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874044667,
-    "wof:lastmodified":1467082016,
+    "wof:lastmodified":1510607768,
     "wof:name":"Banana Republic",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",

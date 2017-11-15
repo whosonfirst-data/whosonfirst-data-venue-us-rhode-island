@@ -2,14 +2,20 @@
   "id": 874172213,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Academy Ave Providence RI 02908",
+    "addr:housenumber":"262",
+    "addr:postcode":"02908",
+    "addr:street":"Academy Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.444552,41.832065,-71.444552,41.832065",
     "geom:latitude":41.832065,
     "geom:longitude":-71.444552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"262 Academy Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WOT7UHrCrFwLpm2zvupoq_41.832065_-71.444552@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312551,
-    "wof:geomhash":"47c0aef04fb340ea6ba0517630c5c76c",
+    "wof:geomhash":"15f67792d9592e28f019af83c5f2c8ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874172213,
-    "wof:lastmodified":1467082067,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",

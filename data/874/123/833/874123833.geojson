@@ -2,14 +2,20 @@
   "id": 874123833,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Hallene Rd Warwick RI 02886",
+    "addr:housenumber":"205",
+    "addr:postcode":"02886",
+    "addr:street":"Hallene Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.429091,41.733618,-71.429091,41.733618",
     "geom:latitude":41.733618,
     "geom:longitude":-71.429091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Hallene Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LUr8wKEEljzfbzwpdS8Sx_41.733618_-71.429091@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312075,
-    "wof:geomhash":"f300419c990536e2b030f676af2f3231",
+    "wof:geomhash":"e2be76824b200d7b9f92e7c70c54917e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874123833,
-    "wof:lastmodified":1467082047,
+    "wof:lastmodified":1510695303,
     "wof:name":"Pulte Homes Corp",
     "wof:parent_id":85825603,
     "wof:placetype":"venue",

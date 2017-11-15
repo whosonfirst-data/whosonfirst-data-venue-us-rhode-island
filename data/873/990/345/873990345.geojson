@@ -2,6 +2,10 @@
   "id": 873990345,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 N Main St Providence RI 02904",
+    "addr:housenumber":"825",
+    "addr:postcode":"02904",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":873990345,
-    "wof:lastmodified":1467081998,
+    "wof:lastmodified":1472644093,
     "wof:name":"Radiation Oncology Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

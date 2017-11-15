@@ -2,14 +2,20 @@
   "id": 874296313,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Providence Pl Providence RI 02903",
+    "addr:housenumber":"44",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.417777,41.827694,-71.417777,41.827694",
     "geom:latitude":41.827694,
     "geom:longitude":-71.417777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"44 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125157157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uszsmcniqLYsgVmI1rlgt_41.827694_-71.417777@1303262237"
     },
     "wof:country":"US",
     "wof:created":1464315244,
-    "wof:geomhash":"942c5fee33b6bbdd0f5572a399a5a414",
+    "wof:geomhash":"07c1acffbb8415fc0f238c5871821a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874296313,
-    "wof:lastmodified":1467082169,
+    "wof:lastmodified":1510694090,
     "wof:name":"Feet First",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",

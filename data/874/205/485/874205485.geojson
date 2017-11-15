@@ -2,14 +2,20 @@
   "id": 874205485,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 Stony Ln Exeter RI 02822",
+    "addr:housenumber":"144",
+    "addr:postcode":"02822",
+    "addr:street":"Stony Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.550256,41.593905,-71.550256,41.593905",
     "geom:latitude":41.593905,
     "geom:longitude":-71.550256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"144 Stony Ln",
     "sg:city":"Exeter",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85868765,
         102081219
     ],
+    "wof:brand_id":420574015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PvoehIzJ1c0YY3oCmBdRE_41.593905_-71.550256@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312899,
-    "wof:geomhash":"04eeb08bfea6feb8c81e844d2f834e06",
+    "wof:geomhash":"833166b4050b504387520a4632776bf8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874205485,
-    "wof:lastmodified":1467082082,
+    "wof:lastmodified":1510603864,
     "wof:name":"Re/Max",
     "wof:parent_id":85868765,
     "wof:placetype":"venue",

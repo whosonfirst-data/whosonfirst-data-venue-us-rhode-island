@@ -2,14 +2,20 @@
   "id": 874265855,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Douglas Pike Smithfield RI 02917",
+    "addr:housenumber":"550",
+    "addr:postcode":"02917",
+    "addr:street":"Douglas Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.502197,41.900042,-71.502197,41.900042",
     "geom:latitude":41.900042,
     "geom:longitude":-71.502197,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Douglas Pike",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85821365,
         102081597
     ],
+    "wof:brand_id":1125158323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kAnz0YCxn2fB0DLGrAVUG_41.900042_-71.502197@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314067,
-    "wof:geomhash":"941fb87e02dd06397728e429d3f9fc70",
+    "wof:geomhash":"36c29df3d942c54f05baa1dbc224aa54",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874265855,
-    "wof:lastmodified":1467082125,
+    "wof:lastmodified":1510700028,
     "wof:name":"Imagine",
     "wof:parent_id":85821365,
     "wof:placetype":"venue",

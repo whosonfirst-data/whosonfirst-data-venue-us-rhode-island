@@ -2,14 +2,20 @@
   "id": 874283089,
   "type": "Feature",
   "properties": {
+    "addr:full":"19 W Warwick Ave West Warwick RI 02893",
+    "addr:housenumber":"19",
+    "addr:postcode":"02893",
+    "addr:street":"W Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.530403,41.695606,-71.530403,41.695606",
     "geom:latitude":41.695606,
     "geom:longitude":-71.530403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 W Warwick Ave",
     "sg:city":"West Warwick",
     "sg:classifiers":[],
@@ -30,13 +36,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KTmLFjloGiiPNu0njccuM_41.695606_-71.530403@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314743,
-    "wof:geomhash":"d62c62c872d61535371f44e52848ce4a",
+    "wof:geomhash":"78539cd6db5d7724b45fbbdc64ddb688",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874283089,
-    "wof:lastmodified":1467082150,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85803395,
     "wof:placetype":"venue",

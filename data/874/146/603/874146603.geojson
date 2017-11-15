@@ -2,14 +2,20 @@
   "id": 874146603,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 Carolyn St Warwick RI 02886",
+    "addr:housenumber":"202",
+    "addr:postcode":"02886",
+    "addr:street":"Carolyn St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.433661,41.708137,-71.433661,41.708137",
     "geom:latitude":41.708137,
     "geom:longitude":-71.433661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 Carolyn St",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zhGFBsLwpQ7JcOVzKN2uC_41.708137_-71.433661@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312298,
-    "wof:geomhash":"9a82d3249d9a521006acf54f64efb9c4",
+    "wof:geomhash":"9de87f65410c4099613d9f3cea5bcfd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874146603,
-    "wof:lastmodified":1467082056,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":420540487,
     "wof:placetype":"venue",

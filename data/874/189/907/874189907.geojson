@@ -2,14 +2,20 @@
   "id": 874189907,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 Park Ave Cranston RI 02910",
+    "addr:housenumber":"1016",
+    "addr:postcode":"02910",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.443331,41.781955,-71.443331,41.781955",
     "geom:latitude":41.781955,
     "geom:longitude":-71.443331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1016 Park Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85688509,
         420558667
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ImQ1eTLWITw96Sa79yFl5_41.781955_-71.443331@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312739,
-    "wof:geomhash":"811c1ae928c33276dc154f166fecdff2",
+    "wof:geomhash":"dadc0e2400312c7c8d83640cf20f1891",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":874189907,
-    "wof:lastmodified":1467082075,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

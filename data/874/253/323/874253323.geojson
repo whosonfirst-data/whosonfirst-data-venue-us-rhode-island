@@ -2,14 +2,20 @@
   "id": 874253323,
   "type": "Feature",
   "properties": {
+    "addr:full":"88 Silva Ln Middletown RI 02842",
+    "addr:housenumber":"88",
+    "addr:postcode":"02842",
+    "addr:street":"Silva Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.283224,41.499728,-71.283224,41.499728",
     "geom:latitude":41.499728,
     "geom:longitude":-71.283224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"88 Silva Ln",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125156977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NlnO6IBLXRtoNmR4B7n9V_41.499728_-71.283224@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313632,
-    "wof:geomhash":"da2f3e9483b5bd83496d908b2d93e425",
+    "wof:geomhash":"5c688b67ce7677998b8886f7c390cf32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874253323,
-    "wof:lastmodified":1467082109,
+    "wof:lastmodified":1510699774,
     "wof:name":"IBM Corp",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

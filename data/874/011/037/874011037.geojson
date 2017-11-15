@@ -2,14 +2,20 @@
   "id": 874011037,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 Lafayette St Pawtucket RI 02860",
+    "addr:housenumber":"141",
+    "addr:postcode":"02860",
+    "addr:street":"Lafayette St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.395469,41.857494,-71.395469,41.857494",
     "geom:latitude":41.857494,
     "geom:longitude":-71.395469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"141 Lafayette St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64boLtg2VxP1JftG0KFSCz_41.857494_-71.395469@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310863,
-    "wof:geomhash":"ebcd594d18cf720822e19a937a03b3d9",
+    "wof:geomhash":"6708b83cc1a8b730731c4ec40a758120",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874011037,
-    "wof:lastmodified":1467082004,
+    "wof:lastmodified":1510694949,
     "wof:name":"Sisters Of Mercy",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874287273,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Washington St West Warwick RI 02893",
+    "addr:housenumber":"77",
+    "addr:postcode":"02893",
+    "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.525604,41.703107,-71.525604,41.703107",
     "geom:latitude":41.703107,
     "geom:longitude":-71.525604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77 Washington St",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125150125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1teobYi9C2SKScISw5eUtT_41.703107_-71.525604@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314899,
-    "wof:geomhash":"ff8ccaa419f6ac3a4d39eee92eb8391a",
+    "wof:geomhash":"6c46c10b889b77a9e6477cb137c21fbe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874287273,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510696632,
     "wof:name":"Hong Kong Restaurant",
     "wof:parent_id":85803395,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874257689,
   "type": "Feature",
   "properties": {
+    "addr:full":"1237 Kingstown Rd Wakefield RI 02879",
+    "addr:housenumber":"1237",
+    "addr:postcode":"02879",
+    "addr:street":"Kingstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.500229,41.451273,-71.500229,41.451273",
     "geom:latitude":41.451273,
     "geom:longitude":-71.500229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1237 Kingstown Rd",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081219,
         85688509
     ],
+    "wof:brand_id":1125153611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41lzVpSRMjZlCpYEyi9JZD_41.451273_-71.500229@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313757,
-    "wof:geomhash":"1999e8a818d9ff3cbdb4d931a0822899",
+    "wof:geomhash":"325fbf98e086b640b99eafe59499bcf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874257689,
-    "wof:lastmodified":1467082113,
+    "wof:lastmodified":1510697973,
     "wof:name":"Honey Dew Donuts",
     "wof:parent_id":85845577,
     "wof:placetype":"venue",

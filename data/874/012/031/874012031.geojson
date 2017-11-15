@@ -2,6 +2,10 @@
   "id": 874012031,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Berry St Cranston RI 02920",
+    "addr:housenumber":"123",
+    "addr:postcode":"02920",
+    "addr:street":"Berry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874012031,
-    "wof:lastmodified":1467082005,
+    "wof:lastmodified":1472644089,
     "wof:name":"Feel Safe Public Mini Storage",
     "wof:parent_id":420540517,
     "wof:placetype":"venue",

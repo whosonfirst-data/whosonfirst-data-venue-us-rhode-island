@@ -2,6 +2,10 @@
   "id": 874289519,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Main St Unit 1201 Pawtucket RI 02860",
+    "addr:housenumber":"1005",
+    "addr:postcode":"1201;02860",
+    "addr:street":"Main St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":874289519,
-    "wof:lastmodified":1467082159,
+    "wof:lastmodified":1472644317,
     "wof:name":"Blackstone At Hope",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

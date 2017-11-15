@@ -2,14 +2,20 @@
   "id": 874152197,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Miranda Dr West Kingston RI 02892",
+    "addr:housenumber":"3",
+    "addr:postcode":"02892",
+    "addr:street":"Miranda Dr West",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.620876,41.511693,-71.620876,41.511693",
     "geom:latitude":41.511693,
     "geom:longitude":-71.620876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Miranda Dr",
     "sg:city":"West Kingston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85853301,
         102081219
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OrtcOB4uMOPMgi0cpacjc_41.511693_-71.620876@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312349,
-    "wof:geomhash":"3e4a6d95933baf3ec447e21cb7f44d08",
+    "wof:geomhash":"f92d081c13326b564fff685fab144bd2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874152197,
-    "wof:lastmodified":1467082058,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85853301,
     "wof:placetype":"venue",

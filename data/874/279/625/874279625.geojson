@@ -2,6 +2,10 @@
   "id": 874279625,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Elm St Providence RI 02903",
+    "addr:housenumber":"100",
+    "addr:postcode":"02903",
+    "addr:street":"Elm St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":874279625,
-    "wof:lastmodified":1467082145,
+    "wof:lastmodified":1472644273,
     "wof:name":"St Francis Food Ctr",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874163299,
   "type": "Feature",
   "properties": {
+    "addr:full":"278 Silver Spring St Providence RI 02904",
+    "addr:housenumber":"278",
+    "addr:postcode":"02904",
+    "addr:street":"Silver Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.413407,41.850122,-71.413407,41.850122",
     "geom:latitude":41.850122,
     "geom:longitude":-71.413407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"278 Silver Spring St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153257,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JSol0A1g04fd4hMWeWf7w_41.850122_-71.413407@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312463,
-    "wof:geomhash":"196d7a20d66ed37501645573d26515ea",
+    "wof:geomhash":"12071aa62fc8128f0cb720609a248895",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874163299,
-    "wof:lastmodified":1467082063,
+    "wof:lastmodified":1510697118,
     "wof:name":"United Food & Commercial Wrkrs",
     "wof:parent_id":85880035,
     "wof:placetype":"venue",

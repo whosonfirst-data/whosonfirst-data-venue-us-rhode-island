@@ -2,14 +2,20 @@
   "id": 874291497,
   "type": "Feature",
   "properties": {
+    "addr:full":"1704 Mendon Rd Cumberland RI 02864",
+    "addr:housenumber":"1704",
+    "addr:postcode":"02864",
+    "addr:street":"Mendon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.434428,41.941704,-71.434428,41.941704",
     "geom:latitude":41.941704,
     "geom:longitude":-71.434428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1704 Mendon Rd",
     "sg:city":"Cumberland",
     "sg:classifiers":[],
@@ -25,13 +31,14 @@
         85803785,
         102081597
     ],
+    "wof:brand_id":1125155311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yvDhQrkm2hXcsRATk0PSq_41.941704_-71.434428@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315070,
-    "wof:geomhash":"f493801f78125071f57372527a65e439",
+    "wof:geomhash":"2b6e55e36f0cdcdc1ff6f8049a1a3b74",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -42,7 +49,7 @@
         }
     ],
     "wof:id":874291497,
-    "wof:lastmodified":1467082162,
+    "wof:lastmodified":1510696061,
     "wof:name":"Speedee Oil Change & Tune Up",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",

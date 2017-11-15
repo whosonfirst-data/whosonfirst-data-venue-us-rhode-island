@@ -2,14 +2,20 @@
   "id": 874298029,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Providence Pl Providence RI 02903",
+    "addr:housenumber":"106",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.424666,41.828857,-71.424666,41.828857",
     "geom:latitude":41.828857,
     "geom:longitude":-71.424666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xLA4d0udmqAYnvEOgGxGX_41.828857_-71.424666@1303262237"
     },
     "wof:country":"US",
     "wof:created":1464315311,
-    "wof:geomhash":"ea822fb996065d6e4f51a9f8ac3a3cd0",
+    "wof:geomhash":"55e32f35a305eecdc87572969a4f7f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874298029,
-    "wof:lastmodified":1467082171,
+    "wof:lastmodified":1510698728,
     "wof:name":"Build-A-Bear Workshop",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",

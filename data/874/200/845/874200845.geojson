@@ -2,6 +2,10 @@
   "id": 874200845,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Main St Providence RI 02904",
+    "addr:housenumber":"501",
+    "addr:postcode":"02904",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874200845,
-    "wof:lastmodified":1467082080,
+    "wof:lastmodified":1472644208,
     "wof:name":"Fleet",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",

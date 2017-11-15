@@ -2,14 +2,20 @@
   "id": 874270319,
   "type": "Feature",
   "properties": {
+    "addr:full":"703 Douglas Ave Providence RI 02908",
+    "addr:housenumber":"703",
+    "addr:postcode":"02908",
+    "addr:street":"Douglas Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.43206,41.848878,-71.43206,41.848878",
     "geom:latitude":41.848878,
     "geom:longitude":-71.43206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"703 Douglas Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JdiubeeTukSBowdd3aK07_41.848878_-71.432060@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314236,
-    "wof:geomhash":"3d7962773109792a80f785884bfa08be",
+    "wof:geomhash":"04728496fca167ae01a942ff143018a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874270319,
-    "wof:lastmodified":1467082132,
+    "wof:lastmodified":1510602556,
     "wof:name":"Finishing Touch",
     "wof:parent_id":85854453,
     "wof:placetype":"venue",

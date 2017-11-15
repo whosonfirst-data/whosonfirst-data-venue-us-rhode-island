@@ -2,6 +2,10 @@
   "id": 874289309,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 Pawtucket Ave Unit 103 Pawtucket RI 02860",
+    "addr:housenumber":"545;103",
+    "addr:postcode":"02860",
+    "addr:street":"Pawtucket Ave Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":874289309,
-    "wof:lastmodified":1467082159,
+    "wof:lastmodified":1472644310,
     "wof:name":"R I Computer Consulting Inc",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",

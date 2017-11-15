@@ -2,6 +2,10 @@
   "id": 874290089,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 West Ave Unit 4 Pawtucket RI 02860",
+    "addr:housenumber":"210;4",
+    "addr:postcode":"02860",
+    "addr:street":"West Ave Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":874290089,
-    "wof:lastmodified":1467082160,
+    "wof:lastmodified":1472644301,
     "wof:name":"Pawtucket Citizens Development Corporation",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

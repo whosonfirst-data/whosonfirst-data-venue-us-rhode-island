@@ -2,14 +2,20 @@
   "id": 874149299,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 White Horn Dr Kingston RI 02881",
+    "addr:housenumber":"50",
+    "addr:postcode":"02881",
+    "addr:street":"White Horn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.534771,41.467289,-71.534771,41.467289",
     "geom:latitude":41.467289,
     "geom:longitude":-71.534771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 White Horn Dr",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081219,
         85822369
     ],
+    "wof:brand_id":1125155945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hbLnetbMTL7fDZHq3xWR2_41.467289_-71.534771@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312323,
-    "wof:geomhash":"e4152196d6769758545b77f13f01c112",
+    "wof:geomhash":"c196f668789d7928e52389260461ff4b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874149299,
-    "wof:lastmodified":1467082057,
+    "wof:lastmodified":1510699781,
     "wof:name":"L P L Financial Services",
     "wof:parent_id":85822369,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874293331,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 Centerville Rd Warwick RI 02886",
+    "addr:housenumber":"535",
+    "addr:postcode":"02886",
+    "addr:street":"Centerville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.479002,41.697409,-71.479002,41.697409",
     "geom:latitude":41.697409,
     "geom:longitude":-71.479002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"535 Centerville Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YvMTICreeYdikisMZOGBA_41.697409_-71.479002@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315134,
-    "wof:geomhash":"9e390ac30a70f08b74d8f4aa04689374",
+    "wof:geomhash":"dd0328fcc38f05446d900300d0bce0d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":874293331,
-    "wof:lastmodified":1467082164,
+    "wof:lastmodified":1510698675,
     "wof:name":"JK Harris & Company",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",

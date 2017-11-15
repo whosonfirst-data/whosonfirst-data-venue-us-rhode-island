@@ -2,6 +2,10 @@
   "id": 874289545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1005 Main St Unit 2225 Pawtucket RI 02860",
+    "addr:housenumber":"1005",
+    "addr:postcode":"2225;02860",
+    "addr:street":"Main St Unit",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874289545,
-    "wof:lastmodified":1467082159,
+    "wof:lastmodified":1472644318,
     "wof:name":"The Game Keeper",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874040399,
   "type": "Feature",
   "properties": {
+    "addr:full":"399 Bald Hill Rd Warwick RI 02886",
+    "addr:housenumber":"399",
+    "addr:postcode":"02886",
+    "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.48028,41.72519,-71.48028,41.72519",
     "geom:latitude":41.72519,
     "geom:longitude":-71.48028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"399 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42SRQJbi5CYVb9tHmyo3eZ_41.725190_-71.480280@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311147,
-    "wof:geomhash":"aebcf7ae86e5e172f8715db120e5757c",
+    "wof:geomhash":"85f369e35e26e5cfaae87229fbb4c943",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874040399,
-    "wof:lastmodified":1467082015,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85842689,
     "wof:placetype":"venue",

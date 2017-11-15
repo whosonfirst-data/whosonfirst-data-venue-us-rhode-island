@@ -2,14 +2,20 @@
   "id": 874219341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2736 Post Rd Warwick RI 02886",
+    "addr:housenumber":"2736",
+    "addr:postcode":"02886",
+    "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.449952,41.709847,-71.449952,41.709847",
     "geom:latitude":41.709847,
     "geom:longitude":-71.449952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2736 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IN4jXgbSSrMuHeIbv3M0u_41.709847_-71.449952@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313048,
-    "wof:geomhash":"b87bd477484509c31125a7885a570231",
+    "wof:geomhash":"e417661d8243ac36467e9099b19acc96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874219341,
-    "wof:lastmodified":1467082087,
+    "wof:lastmodified":1510613251,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":420540487,
     "wof:placetype":"venue",

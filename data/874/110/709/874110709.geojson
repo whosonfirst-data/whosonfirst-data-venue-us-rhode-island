@@ -2,6 +2,10 @@
   "id": 874110709,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Main St East Greenwich RI 02818",
+    "addr:housenumber":"555",
+    "addr:postcode":"02818",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":874110709,
-    "wof:lastmodified":1467082041,
+    "wof:lastmodified":1472644172,
     "wof:name":"Starbucks",
     "wof:parent_id":85810613,
     "wof:placetype":"venue",

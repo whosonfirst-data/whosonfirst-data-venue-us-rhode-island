@@ -2,14 +2,20 @@
   "id": 874145613,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Sunnyside Dr Cumberland RI 02864",
+    "addr:housenumber":"4",
+    "addr:postcode":"02864",
+    "addr:street":"Sunnyside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.446784,41.974112,-71.446784,41.974112",
     "geom:latitude":41.974112,
     "geom:longitude":-71.446784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Sunnyside Dr",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125156161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54kD4X33RaU0K1nsc1WM6G_41.974112_-71.446784@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312285,
-    "wof:geomhash":"9b940980a8208f0056e52ad67468d7e4",
+    "wof:geomhash":"4fcca7e81e92f7892d28f49ffa552997",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874145613,
-    "wof:lastmodified":1467082056,
+    "wof:lastmodified":1510613148,
     "wof:name":"Van Heusen",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",

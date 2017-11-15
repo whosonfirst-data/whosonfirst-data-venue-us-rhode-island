@@ -2,14 +2,20 @@
   "id": 874285775,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 Kingstown Rd Wakefield RI 02879",
+    "addr:housenumber":"621",
+    "addr:postcode":"02879",
+    "addr:street":"Kingstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.488373,41.441551,-71.488373,41.441551",
     "geom:latitude":41.441551,
     "geom:longitude":-71.488373,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"621 Kingstown Rd",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         85688509,
         85845577
     ],
+    "wof:brand_id":1125155191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g65FCqOsIdBXHWicLmnFe_41.441938_-71.488579@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314849,
-    "wof:geomhash":"72d177131c1defff51995ebd59113761",
+    "wof:geomhash":"419ce7d6f28aca3ab5c5a4037b6d7610",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":874285775,
-    "wof:lastmodified":1467082154,
+    "wof:lastmodified":1510699650,
     "wof:name":"Tim Horton's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

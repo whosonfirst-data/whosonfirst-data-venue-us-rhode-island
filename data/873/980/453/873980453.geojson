@@ -2,14 +2,20 @@
   "id": 873980453,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 Atwood Ave Cranston RI 02920",
+    "addr:housenumber":"244",
+    "addr:postcode":"02920",
+    "addr:street":"Atwood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.47247,41.780983,-71.47247,41.780983",
     "geom:latitude":41.780983,
     "geom:longitude":-71.47247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"244 Atwood Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575469,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xIIkktHF3NFNx4kLTGsVk_41.780983_-71.472470@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310592,
-    "wof:geomhash":"e7c68b3b3d0e2ebf9ab89b9b6a365db4",
+    "wof:geomhash":"f1c9c88e556ae908cb17bd8702bb5d93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":873980453,
-    "wof:lastmodified":1467081994,
+    "wof:lastmodified":1510603004,
     "wof:name":"Game Crazy",
     "wof:parent_id":420540517,
     "wof:placetype":"venue",

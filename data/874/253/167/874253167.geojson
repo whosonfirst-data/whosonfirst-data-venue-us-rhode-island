@@ -2,14 +2,20 @@
   "id": 874253167,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Miller St Warren RI 02885",
+    "addr:housenumber":"5",
+    "addr:postcode":"02885",
+    "addr:street":"Miller St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.284053,41.731158,-71.284053,41.731158",
     "geom:latitude":41.731158,
     "geom:longitude":-71.284053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Miller St",
     "sg:city":"Warren",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85804999,
         102081221
     ],
+    "wof:brand_id":1125158323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NSoUmr0ekX3IopMXoVPln_41.731158_-71.284053@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313630,
-    "wof:geomhash":"91bc333f0f324e35857f1c9818ddff24",
+    "wof:geomhash":"f5a0d388950a0b6bc602fefc7d57bbe8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874253167,
-    "wof:lastmodified":1467082109,
+    "wof:lastmodified":1510700028,
     "wof:name":"Imagine",
     "wof:parent_id":85804999,
     "wof:placetype":"venue",

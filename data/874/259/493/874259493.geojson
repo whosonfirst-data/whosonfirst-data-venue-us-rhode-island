@@ -2,14 +2,20 @@
   "id": 874259493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1305 W Main Rd Middletown RI 02842",
+    "addr:housenumber":"1305",
+    "addr:postcode":"02842",
+    "addr:street":"W Main Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.292383,41.535139,-71.292383,41.535139",
     "geom:latitude":41.535139,
     "geom:longitude":-71.292383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1305 W Main Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102081595,
         85830033
     ],
+    "wof:brand_id":1125153995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0anX0i2UHLhGoEKvSIt2UL_41.535139_-71.292383@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313841,
-    "wof:geomhash":"6b6a2afa020a57ab07e4c928540bee63",
+    "wof:geomhash":"e5dfc2187222ffb0527e08e6b07bcdda",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874259493,
-    "wof:lastmodified":1467082116,
+    "wof:lastmodified":1510697402,
     "wof:name":"Sleepy's",
     "wof:parent_id":85830033,
     "wof:placetype":"venue",

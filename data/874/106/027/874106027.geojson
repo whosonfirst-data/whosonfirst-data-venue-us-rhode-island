@@ -2,14 +2,20 @@
   "id": 874106027,
   "type": "Feature",
   "properties": {
+    "addr:full":"178 High St Bristol RI 02809",
+    "addr:housenumber":"178",
+    "addr:postcode":"02809",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.272958,41.668616,-71.272958,41.668616",
     "geom:latitude":41.668616,
     "geom:longitude":-71.272958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"178 High St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85807607,
         102081221
     ],
+    "wof:brand_id":1125152475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zm9tWun6wgDS2gWaJSMLU_41.668616_-71.272958@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311868,
-    "wof:geomhash":"59af8e2aec03da04534b9506fe347a47",
+    "wof:geomhash":"e0d30bf6904e75dce5899888d1910eaf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874106027,
-    "wof:lastmodified":1467082039,
+    "wof:lastmodified":1510696661,
     "wof:name":"Independent Order-Odd Fellows",
     "wof:parent_id":85807607,
     "wof:placetype":"venue",

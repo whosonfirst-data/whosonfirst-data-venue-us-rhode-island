@@ -2,6 +2,10 @@
   "id": 874251025,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Howland Ave Middletown RI 02842",
+    "addr:housenumber":"123",
+    "addr:postcode":"02842",
+    "addr:street":"Howland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":874251025,
-    "wof:lastmodified":1467082107,
+    "wof:lastmodified":1472644215,
     "wof:name":"Newport Memorial Park",
     "wof:parent_id":85846565,
     "wof:placetype":"venue",

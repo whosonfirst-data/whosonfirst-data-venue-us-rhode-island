@@ -2,14 +2,20 @@
   "id": 874278789,
   "type": "Feature",
   "properties": {
+    "addr:full":"142 Bellevue Ave North Smithfield RI 02896",
+    "addr:housenumber":"142",
+    "addr:postcode":"02896",
+    "addr:street":"Bellevue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.53191,41.986229,-71.53191,41.986229",
     "geom:latitude":41.986229,
     "geom:longitude":-71.53191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"142 Bellevue Ave",
     "sg:city":"North Smithfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85822053,
         102081597
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WhOfqaBllVzcMpb0Pg75L_41.986229_-71.531910@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314566,
-    "wof:geomhash":"245ef3993a508383d45696679a75adee",
+    "wof:geomhash":"79a49eecca9509aa9e96dd7880ed364a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874278789,
-    "wof:lastmodified":1467082144,
+    "wof:lastmodified":1510602633,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85822053,
     "wof:placetype":"venue",

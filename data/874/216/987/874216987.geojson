@@ -2,14 +2,20 @@
   "id": 874216987,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Connell Hwy Newport RI 02840",
+    "addr:housenumber":"199",
+    "addr:postcode":"02840",
+    "addr:street":"Connell Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.317661,41.512519,-71.317661,41.512519",
     "geom:latitude":41.512519,
     "geom:longitude":-71.317661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"199 Connell Hwy",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125158195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTQJ7mvOCVFAlZzt7MuOS_41.512519_-71.317661@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313022,
-    "wof:geomhash":"d750ede2bd0e38eb2a1fff63b2e3befa",
+    "wof:geomhash":"d168dd83e725107bcedec1f222a72cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874216987,
-    "wof:lastmodified":1467082086,
+    "wof:lastmodified":1510613172,
     "wof:name":"Super Stop & Shop",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

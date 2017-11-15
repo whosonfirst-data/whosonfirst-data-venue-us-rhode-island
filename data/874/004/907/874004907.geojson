@@ -2,14 +2,20 @@
   "id": 874004907,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Larch St Smithfield RI 02917",
+    "addr:housenumber":"10",
+    "addr:postcode":"02917",
+    "addr:street":"Larch St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.507991,41.867284,-71.507991,41.867284",
     "geom:latitude":41.867284,
     "geom:longitude":-71.507991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Larch St",
     "sg:city":"Smithfield",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85823211,
         102081597
     ],
+    "wof:brand_id":1125159355,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10vrLu3YlU4dBlEvtC1czF_41.867284_-71.507991@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310813,
-    "wof:geomhash":"9c1f39f2ae90b47fcae78be7a0181164",
+    "wof:geomhash":"c22ed67248fec2169878fc435bfb3d4a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874004907,
-    "wof:lastmodified":1467082003,
+    "wof:lastmodified":1510699280,
     "wof:name":"Rooter-Man",
     "wof:parent_id":85823211,
     "wof:placetype":"venue",

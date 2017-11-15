@@ -2,14 +2,20 @@
   "id": 874186935,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Armistice Blvd Pawtucket RI 02860",
+    "addr:housenumber":"110",
+    "addr:postcode":"02860",
+    "addr:street":"Armistice Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.371148,41.879441,-71.371148,41.879441",
     "geom:latitude":41.879441,
     "geom:longitude":-71.371148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Armistice Blvd",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125152645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZQHAeLQcAY4ToCPFCwoBm_41.879441_-71.371148@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312709,
-    "wof:geomhash":"6802d30033332b7bd8013fb27010f437",
+    "wof:geomhash":"838f80c016243ca39c19c81283a018bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874186935,
-    "wof:lastmodified":1467082074,
+    "wof:lastmodified":1510699628,
     "wof:name":"Computer Doctor",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

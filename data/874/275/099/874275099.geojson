@@ -2,6 +2,10 @@
   "id": 874275099,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 High St Bristol RI 02809",
+    "addr:housenumber":"42",
+    "addr:postcode":"02809",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":874275099,
-    "wof:lastmodified":1467082138,
+    "wof:lastmodified":1472644240,
     "wof:name":"Miller Design",
     "wof:parent_id":85807603,
     "wof:placetype":"venue",

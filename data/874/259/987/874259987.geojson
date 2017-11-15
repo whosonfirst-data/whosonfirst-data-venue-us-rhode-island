@@ -2,14 +2,20 @@
   "id": 874259987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 Waterman Ave East Providence RI 02914",
+    "addr:housenumber":"1031",
+    "addr:postcode":"02914",
+    "addr:street":"Waterman Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.342409,41.809205,-71.342409,41.809205",
     "geom:latitude":41.809205,
     "geom:longitude":-71.342409,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1031 Waterman Ave",
     "sg:city":"East Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125151951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ogq02RIQh1zuawRdyuYPy_41.809205_-71.342409@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313858,
-    "wof:geomhash":"bda5bda4f88ea8ac94311c9d23ecb4ea",
+    "wof:geomhash":"02f7b17df173ba0e838d5b6dc039659e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874259987,
-    "wof:lastmodified":1467082117,
+    "wof:lastmodified":1510699563,
     "wof:name":"Mobile Solution Corp",
     "wof:parent_id":420540531,
     "wof:placetype":"venue",

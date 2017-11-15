@@ -2,14 +2,20 @@
   "id": 874129913,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Sockanosset Cross Rd Cranston RI 02920",
+    "addr:housenumber":"75",
+    "addr:postcode":"02920",
+    "addr:street":"Sockanosset Cross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.454285,41.753846,-71.454285,41.753846",
     "geom:latitude":41.753846,
     "geom:longitude":-71.454285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"75 Sockanosset Cross Rd",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ah8AQ2QXtuxlRu2nBBScG_41.753846_-71.454285@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312135,
-    "wof:geomhash":"81cc758f4c9a21d99fcfce2227bbb637",
+    "wof:geomhash":"820f214828f0cc8c1965dc508f086ddd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":874129913,
-    "wof:lastmodified":1467082049,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874244935,
   "type": "Feature",
   "properties": {
+    "addr:full":"928 Main St West Warwick RI 02893",
+    "addr:housenumber":"928",
+    "addr:postcode":"02893",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.523542,41.717419,-71.523542,41.717419",
     "geom:latitude":41.717419,
     "geom:longitude":-71.523542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"928 Main St",
     "sg:city":"West Warwick",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85844759,
         102081209
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PzDJzkMGIe7Fj5eXuXB1b_41.717419_-71.523542@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313433,
-    "wof:geomhash":"b82df94ef61448ab61e1eef67f67cce6",
+    "wof:geomhash":"de8cc46c095d4a302ac59b67d86a3104",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":874244935,
-    "wof:lastmodified":1467082103,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85844759,
     "wof:placetype":"venue",

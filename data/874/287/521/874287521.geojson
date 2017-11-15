@@ -2,14 +2,20 @@
   "id": 874287521,
   "type": "Feature",
   "properties": {
+    "addr:full":"48 Rolfe Sq Cranston RI 02910",
+    "addr:housenumber":"48",
+    "addr:postcode":"02910",
+    "addr:street":"Rolfe Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.436334,41.777208,-71.436334,41.777208",
     "geom:latitude":41.777208,
     "geom:longitude":-71.436334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"48 Rolfe Sq",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85688509,
         420558667
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4exVNNJCP0kvSV25aFoApy_41.777208_-71.436334@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314913,
-    "wof:geomhash":"0af8789dc2ae7b9376d83f4e6c8f3395",
+    "wof:geomhash":"0ca19eb28443155cc9b56f4acb2c71b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +76,7 @@
         }
     ],
     "wof:id":874287521,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 874289059,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 Main St Apt 218 Hope Valley RI 02832",
+    "addr:housenumber":"805;218",
+    "addr:postcode":"02832",
+    "addr:street":"Main St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":874289059,
-    "wof:lastmodified":1467082158,
+    "wof:lastmodified":1472644301,
     "wof:name":"Canonchet Cliffs II",
     "wof:parent_id":85809305,
     "wof:placetype":"venue",

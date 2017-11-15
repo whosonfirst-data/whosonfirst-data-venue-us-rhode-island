@@ -2,14 +2,20 @@
   "id": 874298967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1270 Mineral Spring Ave North Providence RI 02904",
+    "addr:housenumber":"1270",
+    "addr:postcode":"02904",
+    "addr:street":"Mineral Spring Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.435379,41.867926,-71.435379,41.867926",
     "geom:latitude":41.867926,
     "geom:longitude":-71.435379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1270 Mineral Spring Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85832439,
         102081597
     ],
+    "wof:brand_id":1125158653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HWkCcCUlJjowOyJkdj6DP_41.867926_-71.435379@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315353,
-    "wof:geomhash":"6b48a482fbd6ccb28c8e54c66faffbac",
+    "wof:geomhash":"a6b63113ce91bec8d119acea31367274",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874298967,
-    "wof:lastmodified":1467082172,
+    "wof:lastmodified":1510696842,
     "wof:name":"Tip Top Nails",
     "wof:parent_id":85832439,
     "wof:placetype":"venue",

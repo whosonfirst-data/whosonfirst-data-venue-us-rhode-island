@@ -2,14 +2,20 @@
   "id": 874182979,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Cannon St Cranston RI 02920",
+    "addr:housenumber":"200",
+    "addr:postcode":"02920",
+    "addr:street":"Cannon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.475357,41.789789,-71.475357,41.789789",
     "geom:latitude":41.789789,
     "geom:longitude":-71.475357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Cannon St",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420574821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uBpFcyoe5PlfL7633LeH4_41.789789_-71.475357@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312660,
-    "wof:geomhash":"ca6a4c31aeb785be7798d842a215f12f",
+    "wof:geomhash":"73c3d28418d5600bbd22e1979d1a2a92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874182979,
-    "wof:lastmodified":1467082072,
+    "wof:lastmodified":1510604632,
     "wof:name":"Gymboree",
     "wof:parent_id":420540517,
     "wof:placetype":"venue",

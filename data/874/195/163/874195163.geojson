@@ -2,14 +2,20 @@
   "id": 874195163,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 Seven Mile Rd Hope RI 02831",
+    "addr:housenumber":"182",
+    "addr:postcode":"02831",
+    "addr:street":"Seven Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.550062,41.742542,-71.550062,41.742542",
     "geom:latitude":41.742542,
     "geom:longitude":-71.550062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"182 Seven Mile Rd",
     "sg:city":"Hope",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02Q3aQSpzNomcCpFnoKua4_41.742542_-71.550062@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312796,
-    "wof:geomhash":"609fc54a19b830cc80eb59d5861715b7",
+    "wof:geomhash":"2fbc9c84277e02f9f36f8319c850129f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874195163,
-    "wof:lastmodified":1467082077,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85827227,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874267291,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Old Greenwich Dr East Greenwich RI 02818",
+    "addr:housenumber":"41",
+    "addr:postcode":"02818",
+    "addr:street":"Old Greenwich Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.478536,41.654561,-71.478536,41.654561",
     "geom:latitude":41.654561,
     "geom:longitude":-71.478536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 Old Greenwich Dr",
     "sg:city":"East Greenwich",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85836945,
         102081209
     ],
+    "wof:brand_id":1125150619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rn5kIaq0LeDgJkLRSGjuQ_41.654561_-71.478536@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314118,
-    "wof:geomhash":"509c65792e4f9eba3327bb3e444dc64c",
+    "wof:geomhash":"70af00b51c463b9276f6eb46086cedc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874267291,
-    "wof:lastmodified":1467082127,
+    "wof:lastmodified":1510604907,
     "wof:name":"Allegra Print & Imaging",
     "wof:parent_id":85836945,
     "wof:placetype":"venue",

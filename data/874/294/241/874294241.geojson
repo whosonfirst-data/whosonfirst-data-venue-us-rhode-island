@@ -2,14 +2,20 @@
   "id": 874294241,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Providence Pl Providence RI 02903",
+    "addr:housenumber":"200",
+    "addr:postcode":"02903",
+    "addr:street":"Providence Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.423659,41.828683,-71.423659,41.828683",
     "geom:latitude":41.828683,
     "geom:longitude":-71.423659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Providence Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420573885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QiNh0BA8XhCjycFr8Hki6_41.828683_-71.423659@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315165,
-    "wof:geomhash":"ee8414c01a4ae7c96cf87104231a533c",
+    "wof:geomhash":"1fb39dd5b4ac12f472e8a646dd108188",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":874294241,
-    "wof:lastmodified":1467082165,
+    "wof:lastmodified":1510603235,
     "wof:name":"T-Mobile",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",

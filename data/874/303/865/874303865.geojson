@@ -2,6 +2,10 @@
   "id": 874303865,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 John St East Providence RI 02914",
+    "addr:housenumber":"47",
+    "addr:postcode":"02914",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874303865,
-    "wof:lastmodified":1467082179,
+    "wof:lastmodified":1472644333,
     "wof:name":"Acme Auto Center",
     "wof:parent_id":420540531,
     "wof:placetype":"venue",

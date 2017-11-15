@@ -2,14 +2,20 @@
   "id": 874287347,
   "type": "Feature",
   "properties": {
+    "addr:full":"547 Cumberland Hill Rd Woonsocket RI 02895",
+    "addr:housenumber":"547",
+    "addr:postcode":"02895",
+    "addr:street":"Cumberland Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.489458,41.996652,-71.489458,41.996652",
     "geom:latitude":41.996652,
     "geom:longitude":-71.489458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"547 Cumberland Hill Rd",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64DHByuidePGd4yKRYc03u_41.996652_-71.489458@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314902,
-    "wof:geomhash":"dc91b158b25530d85e53be4839bcc2f4",
+    "wof:geomhash":"4e96a706525f8dfda0698c0d5b5aeb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874287347,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85823711,
     "wof:placetype":"venue",

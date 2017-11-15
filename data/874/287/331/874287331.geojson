@@ -2,14 +2,20 @@
   "id": 874287331,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Providence St Woonsocket RI 02895",
+    "addr:housenumber":"800",
+    "addr:postcode":"02895",
+    "addr:street":"Providence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.522233,41.98632,-71.522233,41.98632",
     "geom:latitude":41.98632,
     "geom:longitude":-71.522233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Providence St",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85822053,
         102081597
     ],
+    "wof:brand_id":1125153951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jnjWPi2Xs5Gnwn0Xu1wyf_41.986320_-71.522233@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464314901,
-    "wof:geomhash":"b218e505d143b4fd595c28f4cdcdfdaa",
+    "wof:geomhash":"1f5c2c9f78c5e6b78e96d9ea3312e0a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874287331,
-    "wof:lastmodified":1467082156,
+    "wof:lastmodified":1510700010,
     "wof:name":"Del's Frozen Lemonade",
     "wof:parent_id":85822053,
     "wof:placetype":"venue",

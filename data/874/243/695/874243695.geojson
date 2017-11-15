@@ -2,14 +2,20 @@
   "id": 874243695,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Toll Gate Rd Warwick RI 02886",
+    "addr:housenumber":"215",
+    "addr:postcode":"02886",
+    "addr:street":"Toll Gate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.473709,41.702253,-71.473709,41.702253",
     "geom:latitude":41.702253,
     "geom:longitude":-71.473709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Toll Gate Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43sDPGkp2xBxKZoP092GFR_41.702253_-71.473709@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313407,
-    "wof:geomhash":"5bcc93918f7118260a2d1b929dc8716e",
+    "wof:geomhash":"ecfc59b615c18220210f7e83d02323ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874243695,
-    "wof:lastmodified":1467082102,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874100225,
   "type": "Feature",
   "properties": {
+    "addr:full":"1182 High St Cumberland RI 02864",
+    "addr:housenumber":"1182",
+    "addr:postcode":"02864",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.399585,41.925814,-71.399585,41.925814",
     "geom:latitude":41.925814,
     "geom:longitude":-71.399585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1182 High St",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85805831,
         102081597
     ],
+    "wof:brand_id":1125150545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UCGskN5ni9FjorwVVkyof_41.925814_-71.399585@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311796,
-    "wof:geomhash":"60c343fb8a0afadb628741659e554885",
+    "wof:geomhash":"fb3c2a013beb31f7e48b6290861e196f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":874100225,
-    "wof:lastmodified":1467082037,
+    "wof:lastmodified":1510695847,
     "wof:name":"Dairy Mart Convenience Store",
     "wof:parent_id":85805831,
     "wof:placetype":"venue",

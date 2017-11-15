@@ -2,14 +2,20 @@
   "id": 874301611,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Mount Vernon St Providence RI 02907",
+    "addr:housenumber":"15",
+    "addr:postcode":"02907",
+    "addr:street":"Mount Vernon St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.416865,41.80679,-71.416865,41.80679",
     "geom:latitude":41.80679,
     "geom:longitude":-71.416865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Mount Vernon St",
     "sg:city":"Providence",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420573767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LInFiH5M9jfY228305Use_41.806790_-71.416865@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315451,
-    "wof:geomhash":"fa8c0a97ac1bd5c0cd8878e85c799cbb",
+    "wof:geomhash":"b7698bb15e92b12b29dbd5984da6f384",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":874301611,
-    "wof:lastmodified":1467082176,
+    "wof:lastmodified":1510603325,
     "wof:name":"7-Eleven",
     "wof:parent_id":85817929,
     "wof:placetype":"venue",

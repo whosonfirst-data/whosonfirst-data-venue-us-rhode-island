@@ -2,14 +2,20 @@
   "id": 874116895,
   "type": "Feature",
   "properties": {
+    "addr:full":"839 Broad St Providence RI 02907",
+    "addr:housenumber":"839",
+    "addr:postcode":"02907",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.418404,41.801579,-71.418404,41.801579",
     "geom:latitude":41.801579,
     "geom:longitude":-71.418404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"839 Broad St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qMzSoRCzrDg8kFl6MKd2p_41.801579_-71.418404@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312005,
-    "wof:geomhash":"141f10e5745e1d4352fa9f62148216e6",
+    "wof:geomhash":"3d45272ce73d362f7a077b5f5e8b85b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874116895,
-    "wof:lastmodified":1467082044,
+    "wof:lastmodified":1510693876,
     "wof:name":"Family Life Ctr",
     "wof:parent_id":85817929,
     "wof:placetype":"venue",

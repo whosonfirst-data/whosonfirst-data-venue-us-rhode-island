@@ -2,14 +2,20 @@
   "id": 874014857,
   "type": "Feature",
   "properties": {
+    "addr:full":"474 Chapel St Harrisville RI 02830",
+    "addr:housenumber":"474",
+    "addr:postcode":"02830",
+    "addr:street":"Chapel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.678201,41.966336,-71.678201,41.966336",
     "geom:latitude":41.966336,
     "geom:longitude":-71.678201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"474 Chapel St",
     "sg:city":"Harrisville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102081597,
         85822541
     ],
+    "wof:brand_id":1125152639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vm9gEGfZhguMo9WTuLSPl_41.966336_-71.678201@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310889,
-    "wof:geomhash":"754a6a70116721327ebe8f28f7436691",
+    "wof:geomhash":"ceeae4d8fbf0763887c1f0f95da278bf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":874014857,
-    "wof:lastmodified":1467082006,
+    "wof:lastmodified":1510697378,
     "wof:name":"Berean Baptist Church",
     "wof:parent_id":85822541,
     "wof:placetype":"venue",

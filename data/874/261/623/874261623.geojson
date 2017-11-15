@@ -2,6 +2,10 @@
   "id": 874261623,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Chestnut St Providence RI 02903",
+    "addr:housenumber":"222",
+    "addr:postcode":"02903",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":874261623,
-    "wof:lastmodified":1467082119,
+    "wof:lastmodified":1472644295,
     "wof:name":"Bismarc Properties",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",

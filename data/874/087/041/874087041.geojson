@@ -2,14 +2,20 @@
   "id": 874087041,
   "type": "Feature",
   "properties": {
+    "addr:full":"197 Broad St Pawtucket RI 02860",
+    "addr:housenumber":"197",
+    "addr:postcode":"02860",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.386551,41.881378,-71.386551,41.881378",
     "geom:latitude":41.881378,
     "geom:longitude":-71.386551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"197 Broad St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":420575173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GujFSszXsFCAjP52B1OI1_41.881378_-71.386551@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311631,
-    "wof:geomhash":"51711a5a910d2bffd4bb4f57b6d5c5f1",
+    "wof:geomhash":"c3f257e603cbcab5bc2958e8429b01b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874087041,
-    "wof:lastmodified":1467082032,
+    "wof:lastmodified":1510602718,
     "wof:name":"United States Postal Service",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

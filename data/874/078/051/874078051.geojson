@@ -2,14 +2,20 @@
   "id": 874078051,
   "type": "Feature",
   "properties": {
+    "addr:full":"30 Quaker Ln Warwick RI 02886",
+    "addr:housenumber":"30",
+    "addr:postcode":"02886",
+    "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.501526,41.695778,-71.501526,41.695778",
     "geom:latitude":41.695778,
     "geom:longitude":-71.501526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Quaker Ln",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         404488313,
         101720577
     ],
+    "wof:brand_id":1125155067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PG2y79NXpITqj6RWbKgOs_41.695778_-71.501526@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311529,
-    "wof:geomhash":"15a59c78318529598404450a6a75173f",
+    "wof:geomhash":"73cb2e34c9b7d0979d33ec72c4eca88b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":874078051,
-    "wof:lastmodified":1467082029,
+    "wof:lastmodified":1510695204,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

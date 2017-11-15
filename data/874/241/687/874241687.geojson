@@ -2,14 +2,20 @@
   "id": 874241687,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Hillside Rd Cranston RI 02920",
+    "addr:housenumber":"75",
+    "addr:postcode":"02920",
+    "addr:street":"Hillside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.458525,41.764488,-71.458525,41.764488",
     "geom:latitude":41.764488,
     "geom:longitude":-71.458525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"75 Hillside Rd",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125150171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OPt9QNlN0tadSVyt23Xdu_41.764488_-71.458525@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313372,
-    "wof:geomhash":"95f1e5e19ef9743f3b43f32f373425e4",
+    "wof:geomhash":"c48d50326753392fdca07c3e51fcbb91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874241687,
-    "wof:lastmodified":1467082100,
+    "wof:lastmodified":1510694918,
     "wof:name":"Yankee Candle Co",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",

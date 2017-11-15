@@ -2,14 +2,20 @@
   "id": 874228493,
   "type": "Feature",
   "properties": {
+    "addr:full":"2038 Warwick Ave Warwick RI 02889",
+    "addr:housenumber":"2038",
+    "addr:postcode":"02889",
+    "addr:street":"Warwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.40392,41.721043,-71.40392,41.721043",
     "geom:latitude":41.721043,
     "geom:longitude":-71.40392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2038 Warwick Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22jNX1an1jd3m5RAsS93ER_41.721043_-71.403920@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313146,
-    "wof:geomhash":"f1b7a4876a4c75b76b29175bf5ec319e",
+    "wof:geomhash":"2b2fe9974084464aa7ed0df458f8e3c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":874228493,
-    "wof:lastmodified":1467082092,
+    "wof:lastmodified":1510604912,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85868715,
     "wof:placetype":"venue",

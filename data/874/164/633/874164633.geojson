@@ -2,14 +2,20 @@
   "id": 874164633,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 High St Central Falls RI 02863",
+    "addr:housenumber":"320",
+    "addr:postcode":"02863",
+    "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.383906,41.883407,-71.383906,41.883407",
     "geom:latitude":41.883407,
     "geom:longitude":-71.383906,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 High St",
     "sg:city":"Central Falls",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125159011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kKj6la90rQfF0CRxc46L9_41.883407_-71.383906@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312475,
-    "wof:geomhash":"86004e9fdd5781c555d638821f8fccd8",
+    "wof:geomhash":"5a5926d9e47a1af415f3a93e99e5ba21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":874164633,
-    "wof:lastmodified":1467082064,
+    "wof:lastmodified":1510696616,
     "wof:name":"Holy Cross Catholic Church",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",

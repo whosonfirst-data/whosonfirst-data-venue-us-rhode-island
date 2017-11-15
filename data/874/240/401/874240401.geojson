@@ -2,14 +2,20 @@
   "id": 874240401,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Juniper Dr North Kingstown RI 02852",
+    "addr:housenumber":"111",
+    "addr:postcode":"02852",
+    "addr:street":"Juniper Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.461681,41.575483,-71.461681,41.575483",
     "geom:latitude":41.575483,
     "geom:longitude":-71.461681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Juniper Dr",
     "sg:city":"North Kingstown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85811675,
         102081219
     ],
+    "wof:brand_id":1125159497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t1o8VbG3IAu8n3bT2yC4q_41.575483_-71.461681@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313348,
-    "wof:geomhash":"45b01ddf07e0c6667f68487afac33d73",
+    "wof:geomhash":"8757ba9bd44a8a45cb2725c72ab9df18",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874240401,
-    "wof:lastmodified":1467082099,
+    "wof:lastmodified":1510695423,
     "wof:name":"Chase Home Finance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 874278563,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 America's Cup Ave Newport RI 02840",
+    "addr:housenumber":"36",
+    "addr:postcode":"02840",
+    "addr:street":"America'S Cup Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.315397,41.487739,-71.315397,41.487739",
     "geom:latitude":41.487739,
     "geom:longitude":-71.315397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36 America's Cup Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":1125150171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32dCHNambrzTQRA57kpLxl_41.487739_-71.315397@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314558,
-    "wof:geomhash":"8a36fa01ee4bc004b6c3f560763c79bc",
+    "wof:geomhash":"f04a643c1b61a5a95d6fa1c633b5e82e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874278563,
-    "wof:lastmodified":1467082143,
+    "wof:lastmodified":1510694918,
     "wof:name":"Yankee Candle Co",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",

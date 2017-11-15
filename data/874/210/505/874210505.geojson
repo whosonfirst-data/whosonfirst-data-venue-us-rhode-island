@@ -2,14 +2,20 @@
   "id": 874210505,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Woodruff Ave Narragansett RI 02882",
+    "addr:housenumber":"5",
+    "addr:postcode":"02882",
+    "addr:street":"Woodruff Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.481749,41.430938,-71.481749,41.430938",
     "geom:latitude":41.430938,
     "geom:longitude":-71.481749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Woodruff Ave",
     "sg:city":"Narragansett",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         404488335,
         101720621
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IWte2gVqdspkX4FU1p4mP_41.430938_-71.481749@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312955,
-    "wof:geomhash":"616a1a297b72f2f9309d4807710f9d48",
+    "wof:geomhash":"e006b912f785a9dad8726b03945100c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":874210505,
-    "wof:lastmodified":1467082084,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

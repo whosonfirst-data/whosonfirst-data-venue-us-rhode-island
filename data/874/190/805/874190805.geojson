@@ -2,14 +2,20 @@
   "id": 874190805,
   "type": "Feature",
   "properties": {
+    "addr:full":"81 S Angell St Providence RI 02906",
+    "addr:housenumber":"81",
+    "addr:postcode":"02906",
+    "addr:street":"S Angell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.382622,41.829014,-71.382622,41.829014",
     "geom:latitude":41.829014,
     "geom:longitude":-71.382622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"81 S Angell St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78ZiiH19NwZeDC4Jo1k65P_41.829014_-71.382622@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312747,
-    "wof:geomhash":"694450550d36bd39897ba651a8dbb0a9",
+    "wof:geomhash":"5dbfdaee185339a4cc339ccbf7298d80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874190805,
-    "wof:lastmodified":1467082075,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",

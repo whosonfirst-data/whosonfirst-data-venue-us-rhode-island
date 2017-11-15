@@ -2,14 +2,20 @@
   "id": 874207589,
   "type": "Feature",
   "properties": {
+    "addr:full":"324 E Main Rd Portsmouth RI 02871",
+    "addr:housenumber":"324",
+    "addr:postcode":"02871",
+    "addr:street":"E Main Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.26003,41.546471,-71.26003,41.546471",
     "geom:latitude":41.546471,
     "geom:longitude":-71.26003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"324 E Main Rd",
     "sg:city":"Portsmouth",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85849973,
         102081595
     ],
+    "wof:brand_id":1125157255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nGeixyVIU92h5GowYg66U_41.546471_-71.260030@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312925,
-    "wof:geomhash":"b050bcc940c1a95f26736e20c79d5a78",
+    "wof:geomhash":"a74efe053a61cdda37c40ab7740cf597",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":874207589,
-    "wof:lastmodified":1467082082,
+    "wof:lastmodified":1510697180,
     "wof:name":"St Mary's Episcopal Church",
     "wof:parent_id":85849973,
     "wof:placetype":"venue",

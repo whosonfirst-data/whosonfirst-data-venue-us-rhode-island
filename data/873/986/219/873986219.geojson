@@ -2,14 +2,20 @@
   "id": 873986219,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 Steele Ave Slatersville RI 02889",
+    "addr:housenumber":"21",
+    "addr:postcode":"02889",
+    "addr:street":"Steele Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.381238,41.722268,-71.381238,41.722268",
     "geom:latitude":41.722268,
     "geom:longitude":-71.381238,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Steele Ave",
     "sg:city":"Slatersville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081209,
         85688509
     ],
+    "wof:brand_id":1125151959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EwZpIRbM6OzfIcWFXdw5W_41.722268_-71.381238@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464310663,
-    "wof:geomhash":"87df471fe63dc15b0f7e77822e39462e",
+    "wof:geomhash":"114835e7807ce8170c3ad07f02123378",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873986219,
-    "wof:lastmodified":1467081997,
+    "wof:lastmodified":1510699564,
     "wof:name":"Praxair Inc",
     "wof:parent_id":420540465,
     "wof:placetype":"venue",

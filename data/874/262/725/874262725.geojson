@@ -2,14 +2,20 @@
   "id": 874262725,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Goldsmith St Providence RI 02904",
+    "addr:housenumber":"49",
+    "addr:postcode":"02904",
+    "addr:street":"Goldsmith St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.444467,41.858746,-71.444467,41.858746",
     "geom:latitude":41.858746,
     "geom:longitude":-71.444467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49 Goldsmith St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125158115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wFPv7i81msh6ZGYMWo4rz_41.858746_-71.444467@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313949,
-    "wof:geomhash":"a27c9359379b53a57f6790e84c18bc8d",
+    "wof:geomhash":"e5785ae91b6115b0e5c8a9bae60c40c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":874262725,
-    "wof:lastmodified":1467082121,
+    "wof:lastmodified":1510696725,
     "wof:name":"International Assoc of FI",
     "wof:parent_id":85854453,
     "wof:placetype":"venue",

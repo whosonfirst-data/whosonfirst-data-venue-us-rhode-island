@@ -2,14 +2,20 @@
   "id": 874232095,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 Taunton Ave East Providence RI 02914",
+    "addr:housenumber":"585",
+    "addr:postcode":"02914",
+    "addr:street":"Taunton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.360985,41.821205,-71.360985,41.821205",
     "geom:latitude":41.821205,
     "geom:longitude":-71.360985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"585 Taunton Ave",
     "sg:city":"East Providence",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102081597,
         85688509
     ],
+    "wof:brand_id":1125152455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24j18K5nheK6nD1BHXEoor_41.821205_-71.360985@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313188,
-    "wof:geomhash":"99928ddb88d215e90001c91cabc8f0c9",
+    "wof:geomhash":"81815491d15f397f63d53bee917cd9e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":874232095,
-    "wof:lastmodified":1467082093,
+    "wof:lastmodified":1510695961,
     "wof:name":"Catalina Marketing Corp",
     "wof:parent_id":420540531,
     "wof:placetype":"venue",

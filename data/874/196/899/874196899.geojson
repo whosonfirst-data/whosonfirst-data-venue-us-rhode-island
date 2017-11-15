@@ -2,14 +2,20 @@
   "id": 874196899,
   "type": "Feature",
   "properties": {
+    "addr:full":"654 Thames St Newport RI 02840",
+    "addr:housenumber":"654",
+    "addr:postcode":"02840",
+    "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.31374,41.474262,-71.31374,41.474262",
     "geom:latitude":41.474262,
     "geom:longitude":-71.31374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"654 Thames St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102081595,
         85688509
     ],
+    "wof:brand_id":420574965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E0G3Me0K8yUF2fqGsMxTL_41.474262_-71.313740@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312814,
-    "wof:geomhash":"e898d4d3559dc913b0909092761884c3",
+    "wof:geomhash":"cddb1ac50b5141691ec959e919579caa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":874196899,
-    "wof:lastmodified":1467082078,
+    "wof:lastmodified":1510604742,
     "wof:name":"Allied Home Mortgage Capital",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",
