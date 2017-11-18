@@ -7,13 +7,16 @@
     "addr:postcode":"02903",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.405357,41.822701,-71.405357,41.822701",
     "geom:latitude":41.822701,
     "geom:longitude":-71.405357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"226 S Main St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314730,
-    "wof:geomhash":"2c89ffcf305a97ce668b44cb2ae021d5",
+    "wof:geomhash":"19516e0c545a2df61f66f0973d329153",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":874282697,
-    "wof:lastmodified":1472644278,
+    "wof:lastmodified":1510942094,
     "wof:name":"Coia & Lepore LTD",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874295749
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "employee",

@@ -7,13 +7,16 @@
     "addr:postcode":"02908",
     "addr:street":"Promenade St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.423045,41.829262,-71.423045,41.829262",
     "geom:latitude":41.829262,
     "geom:longitude":-71.423045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"291 Promenade St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312637,
-    "wof:geomhash":"49b2046e75a0ee60ce2d29a1c3a1648c",
+    "wof:geomhash":"888f2d738e990ba932bfd3cd156dedbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":874180769,
-    "wof:lastmodified":1472644213,
+    "wof:lastmodified":1510941883,
     "wof:name":"Individual Sewage Disposal",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874301927
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tank",

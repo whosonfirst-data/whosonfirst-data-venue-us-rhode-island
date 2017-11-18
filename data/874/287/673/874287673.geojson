@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.291901,41.73465,-71.291901,41.73465",
     "geom:latitude":41.73465,
     "geom:longitude":-71.291901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Barton Ave",
     "sg:city":"Barrington",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314918,
-    "wof:geomhash":"cfae90d26ea6b95f86fa61a6c6f3b54e",
+    "wof:geomhash":"e0389dc7a5c292b67f790e50fd1fbaef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":874287673,
-    "wof:lastmodified":1472644311,
+    "wof:lastmodified":1510944012,
     "wof:name":"Tyler Point Grille",
     "wof:parent_id":85804999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874288321
+    ],
     "wof:tags":[
         "italian"
     ]

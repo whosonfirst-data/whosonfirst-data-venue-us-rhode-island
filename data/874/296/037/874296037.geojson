@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.41051,41.821067,-71.41051,41.821067",
     "geom:latitude":41.821067,
     "geom:longitude":-71.41051,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Friendship St Ste 1",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315234,
-    "wof:geomhash":"ab4482656559e6481bfed40303cd967c",
+    "wof:geomhash":"d2eacda2ed6c939e5782c51afad4d1b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":874296037,
-    "wof:lastmodified":1472644301,
+    "wof:lastmodified":1510944069,
     "wof:name":"Kiernan Plunkett & Redihan",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874258411
+    ],
     "wof:tags":[]
 },
   "bbox": [

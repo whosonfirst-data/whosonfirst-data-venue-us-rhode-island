@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.489909,41.71077,-71.489909,41.71077",
     "geom:latitude":41.71077,
     "geom:longitude":-71.489909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1020 Bald Hill Rd Ste 3",
     "sg:city":"Warwick",
     "sg:classifiers":[],
@@ -39,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315135,
-    "wof:geomhash":"68642b1de29d57e032533dc67589c6c2",
+    "wof:geomhash":"74da745f0e53c419d6a968c65dfd4d82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":874293349,
-    "wof:lastmodified":1472644302,
+    "wof:lastmodified":1510942617,
     "wof:name":"P C Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874268927
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"02842",
     "addr:street":"Aquidneck Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.282637,41.507414,-71.282637,41.507414",
     "geom:latitude":41.507414,
     "geom:longitude":-71.282637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"700 Aquidneck Ave",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311201,
-    "wof:geomhash":"5cbf33188af91e793b6911b117843c5a",
+    "wof:geomhash":"37ecf4dd18f4b60a60a24f818ab284a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":874045473,
-    "wof:lastmodified":1472644118,
+    "wof:lastmodified":1510942252,
     "wof:name":"Arnold Art Center",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874090621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"

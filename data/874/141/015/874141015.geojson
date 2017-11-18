@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.408653,41.810593,-71.408653,41.810593",
     "geom:latitude":41.810593,
     "geom:longitude":-71.408653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Dudley St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312243,
-    "wof:geomhash":"96c2aa0b0bf87d3ca145d75a06ddcbb1",
+    "wof:geomhash":"076e56c8a0688c9e8f283323c053502f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":874141015,
-    "wof:lastmodified":1472644154,
+    "wof:lastmodified":1510943095,
     "wof:name":"University Surgical Associates",
     "wof:parent_id":85880055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874026611
+    ],
     "wof:tags":[
         "physician",
         "medical",

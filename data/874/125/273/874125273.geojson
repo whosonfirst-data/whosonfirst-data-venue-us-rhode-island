@@ -7,6 +7,7 @@
     "addr:postcode":"02864",
     "addr:street":"Mendon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-71.436692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1704 Mendon Rd",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":874125273,
-    "wof:lastmodified":1510696062,
+    "wof:lastmodified":1510943385,
     "wof:name":"Speedee Oil Change & Tune Up",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874291497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

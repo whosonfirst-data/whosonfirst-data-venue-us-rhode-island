@@ -7,13 +7,16 @@
     "addr:postcode":"02879",
     "addr:street":"Old Tower Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.483758,41.442141,-71.483758,41.442141",
     "geom:latitude":41.442141,
     "geom:longitude":-71.483758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"140 Old Tower Hill Rd",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313617,
-    "wof:geomhash":"79bccca39ef5564e1a9a3eea13d2968a",
+    "wof:geomhash":"ebf521b9a230a0e1b08ce7271a7eabaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,12 +74,14 @@
         }
     ],
     "wof:id":874252625,
-    "wof:lastmodified":1472644250,
+    "wof:lastmodified":1510942657,
     "wof:name":"McDonalds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874286941
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fast"

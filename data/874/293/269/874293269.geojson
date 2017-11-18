@@ -7,13 +7,16 @@
     "addr:postcode":"02886",
     "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.480295,41.72889,-71.480295,41.72889",
     "geom:latitude":41.72889,
     "geom:longitude":-71.480295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"336 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315132,
-    "wof:geomhash":"37dcdb774528c37f0273cae65917034f",
+    "wof:geomhash":"1bdcdac0bc8edcf29a29cffba04d7e00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":874293269,
-    "wof:lastmodified":1472644302,
+    "wof:lastmodified":1510942243,
     "wof:name":"Twist Restaurant",
     "wof:parent_id":85842689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874287885
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.387888,41.868055,-71.387888,41.868055",
     "geom:latitude":41.868055,
     "geom:longitude":-71.387888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 East Ave Ste 110",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314992,
-    "wof:geomhash":"df6140caa8b2295f7b93b311f63a1e2a",
+    "wof:geomhash":"3e8243630afecd7e95fa18175a1bd28d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":874289395,
-    "wof:lastmodified":1472644310,
+    "wof:lastmodified":1510942377,
     "wof:name":"University Internal Medicine",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874192637
+    ],
     "wof:tags":[
         "medicine",
         "internal"

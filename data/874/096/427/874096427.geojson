@@ -7,13 +7,16 @@
     "addr:postcode":"02842",
     "addr:street":"E Main Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.292348,41.519101,-71.292348,41.519101",
     "geom:latitude":41.519101,
     "geom:longitude":-71.292348,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"288 E Main Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311734,
-    "wof:geomhash":"b09b1f9868dc6f72e7e724227980976a",
+    "wof:geomhash":"a089b961442dd1b897684a16b2746e91",
     "wof:hierarchy":[
         {
             "campus_id":102522713,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":874096427,
-    "wof:lastmodified":1472644150,
+    "wof:lastmodified":1510941876,
     "wof:name":"McDonalds",
     "wof:parent_id":102522713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874286805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

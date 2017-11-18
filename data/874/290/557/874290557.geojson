@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.367043,41.868999,-71.367043,41.868999",
     "geom:latitude":41.868999,
     "geom:longitude":-71.367043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Memorial Dr",
     "sg:city":"Pawtucket",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315030,
-    "wof:geomhash":"8e90bb878f426d7766369e41df0da58c",
+    "wof:geomhash":"cd529c7de452cbe2dda54d750d31c271",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +54,15 @@
         }
     ],
     "wof:id":874290557,
-    "wof:lastmodified":1472644318,
+    "wof:lastmodified":1510943507,
     "wof:name":"Grupo Amigos De Terceira Inc",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874279595
+    ],
     "wof:tags":[]
 },
   "bbox": [

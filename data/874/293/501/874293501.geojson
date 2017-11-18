@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.407943,41.733431,-71.407943,41.733431",
     "geom:latitude":41.733431,
     "geom:longitude":-71.407943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Airport Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315140,
-    "wof:geomhash":"866da00c087c3b3a115dee25a5ca593d",
+    "wof:geomhash":"86d1de6cc5efd833f31f7ec41dafdb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":874293501,
-    "wof:lastmodified":1472644306,
+    "wof:lastmodified":1510943414,
     "wof:name":"Tuffys Aquarium & Pet Center",
     "wof:parent_id":85826377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873982201
+    ],
     "wof:tags":[]
 },
   "bbox": [

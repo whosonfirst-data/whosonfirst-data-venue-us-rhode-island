@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411499,41.818802,-71.411499,41.818802",
     "geom:latitude":41.818802,
     "geom:longitude":-71.411499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 Chestnut St Ste 6",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315212,
-    "wof:geomhash":"eec9234c445033c1d7b6bff704c41401",
+    "wof:geomhash":"ffc0df2efc077e4e90f74ac000b5e64b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":874295535,
-    "wof:lastmodified":1472644321,
+    "wof:lastmodified":1510943812,
     "wof:name":"Verri Law Offices",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874173417
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"02905",
     "addr:street":"Dudley St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411209,41.810226,-71.411209,41.810226",
     "geom:latitude":41.810226,
     "geom:longitude":-71.411209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"120 Dudley St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312646,
-    "wof:geomhash":"9fa1a7f4abd6effe03e7659ec82f1d06",
+    "wof:geomhash":"31e97cd49fc42429e42d197e4bd958e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":874181477,
-    "wof:lastmodified":1472644199,
+    "wof:lastmodified":1510943796,
     "wof:name":"Richard B Turner MD",
     "wof:parent_id":85880055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874299989
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

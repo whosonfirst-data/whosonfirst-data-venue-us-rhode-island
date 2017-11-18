@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.439729,41.78085,-71.439729,41.78085",
     "geom:latitude":41.78085,
     "geom:longitude":-71.439729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"935 Park Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312010,
-    "wof:geomhash":"3b30f409d19551439a5ae4dde1d68c96",
+    "wof:geomhash":"bad5eb7a9cac08d9c32cd0d1aa55dcc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +73,15 @@
         }
     ],
     "wof:id":874117383,
-    "wof:lastmodified":1472644161,
+    "wof:lastmodified":1510941202,
     "wof:name":"Boric's Haircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874275767
+    ],
     "wof:tags":[
         "establishment"
     ]

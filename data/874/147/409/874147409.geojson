@@ -7,13 +7,16 @@
     "addr:postcode":"02904",
     "addr:street":"Charles St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.423988,41.865223,-71.423988,41.865223",
     "geom:latitude":41.865223,
     "geom:longitude":-71.423988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1006 Charles St",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312306,
-    "wof:geomhash":"187c723d80cec57e83138a1baf200feb",
+    "wof:geomhash":"ecee2cb46afe23665bfb6ac451930224",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":874147409,
-    "wof:lastmodified":1472644168,
+    "wof:lastmodified":1510942303,
     "wof:name":"F J Concepts LLC",
     "wof:parent_id":85832439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874299143
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "website",

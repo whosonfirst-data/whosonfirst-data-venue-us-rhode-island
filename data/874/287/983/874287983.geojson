@@ -7,13 +7,16 @@
     "addr:postcode":"02903",
     "addr:street":"Imperial Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411687,41.817033,-71.411687,41.817033",
     "geom:latitude":41.817033,
     "geom:longitude":-71.411687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"14 Imperial Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314935,
-    "wof:geomhash":"27b94f882acbc6023b8496d672c11306",
+    "wof:geomhash":"e49c0bb0551012efa0da053e71eae8c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":874287983,
-    "wof:lastmodified":1472644318,
+    "wof:lastmodified":1510942832,
     "wof:name":"CAV",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874296849
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

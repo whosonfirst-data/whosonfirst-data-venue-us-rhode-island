@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.291833,41.537482,-71.291833,41.537482",
     "geom:latitude":41.537482,
     "geom:longitude":-71.291833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1425 W Main Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314884,
-    "wof:geomhash":"025a06b8d75cc2d60f59a0efb1d0d64f",
+    "wof:geomhash":"b0a7446f0e89ba0d1dd98e60fb2be2e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":874286817,
-    "wof:lastmodified":1472644307,
+    "wof:lastmodified":1510941960,
     "wof:name":"McDonald's",
     "wof:parent_id":85830033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874028603
+    ],
     "wof:tags":[
         "burger",
         "american"

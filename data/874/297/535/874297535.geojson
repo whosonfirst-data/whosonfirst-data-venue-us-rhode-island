@@ -7,13 +7,16 @@
     "addr:postcode":"02903",
     "addr:street":"Citizens Plz Ste 700",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.408699,41.827,-71.408699,41.827",
     "geom:latitude":41.827,
     "geom:longitude":-71.408699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Citizens Plz Ste 700",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315286,
-    "wof:geomhash":"ec1907e284c5c34abc355f0ad4e7a743",
+    "wof:geomhash":"10a9adf8b6835ea51400428cb3086910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":874297535,
-    "wof:lastmodified":1472644325,
+    "wof:lastmodified":1510943451,
     "wof:name":"Nixon Peabody Llp",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874295989
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

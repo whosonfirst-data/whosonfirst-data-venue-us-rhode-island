@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.433932,41.827017,-71.433932,41.827017",
     "geom:latitude":41.827017,
     "geom:longitude":-71.433932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"532 Kinsley Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314561,
-    "wof:geomhash":"fb7dddc11649b5b5f4d50c0d6ad1f6e9",
+    "wof:geomhash":"f2a0727d0fa73582124bafe2c253e2d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":874278669,
-    "wof:lastmodified":1472644268,
+    "wof:lastmodified":1510941597,
     "wof:name":"M&R Fashions",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874267771
+    ],
     "wof:tags":[
         "precious",
         "metal",

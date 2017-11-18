@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.460503,41.861801,-71.460503,41.861801",
     "geom:latitude":41.861801,
     "geom:longitude":-71.460503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1825 Mineral Spring Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315367,
-    "wof:geomhash":"bc3a53b77e93b4c2d3f0a92e174b8215",
+    "wof:geomhash":"4b0f0171e66ed6ddf7a045433284f4cd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":874299387,
-    "wof:lastmodified":1472644320,
+    "wof:lastmodified":1510943634,
     "wof:name":"Northeast Floor Covering",
     "wof:parent_id":85820781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873986437
+    ],
     "wof:tags":[
         "carpeting"
     ]

@@ -7,13 +7,16 @@
     "addr:postcode":"02904",
     "addr:street":"High Service Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.457695,41.854144,-71.457695,41.854144",
     "geom:latitude":41.854144,
     "geom:longitude":-71.457695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 High Service Ave",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -37,11 +40,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":229097742,
         "sg:id":"SG_6Y7s5Bl9ewzMnf4OnlmhGS_41.854144_-71.457695@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312335,
-    "wof:geomhash":"6759e9a0d3217235d6fec0fdcf4ca5f0",
+    "wof:geomhash":"09ff4cb62e3cb29da8095c7e8a47ee39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,13 +56,17 @@
         }
     ],
     "wof:id":874150719,
-    "wof:lastmodified":1472644167,
+    "wof:lastmodified":1510944003,
     "wof:name":"Our Lady Of Fatima Hospital",
     "wof:parent_id":85820781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        874298951
+    ],
+    "wof:supersedes":[
+        874298951
+    ],
     "wof:tags":[]
 },
   "bbox": [

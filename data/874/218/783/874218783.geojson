@@ -7,13 +7,16 @@
     "addr:postcode":"02907",
     "addr:street":"Reservoir Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.43301,41.787004,-71.43301,41.787004",
     "geom:latitude":41.787004,
     "geom:longitude":-71.43301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Reservoir Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313041,
-    "wof:geomhash":"9fcb9dee343364f2e307a84587e6aa1f",
+    "wof:geomhash":"fc6c72ecf879718cc6b437072f82a0b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":874218783,
-    "wof:lastmodified":1472644240,
+    "wof:lastmodified":1510944174,
     "wof:name":"Moneywatch Limited",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874249827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor",

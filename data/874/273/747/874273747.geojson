@@ -7,13 +7,16 @@
     "addr:postcode":"02895",
     "addr:street":"Hamlet Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.500717,42.002159,-71.500717,42.002159",
     "geom:latitude":42.002159,
     "geom:longitude":-71.500717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"153 Hamlet Ave",
     "sg:city":"Woonsocket",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314359,
-    "wof:geomhash":"ceb111eb45cdc62569a417c59d82db00",
+    "wof:geomhash":"b508c7020505b6e8ff9e562ed2a2edad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":874273747,
-    "wof:lastmodified":1472644275,
+    "wof:lastmodified":1510941599,
     "wof:name":"Gian Carlo's Ristorante",
     "wof:parent_id":85823711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874293711
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

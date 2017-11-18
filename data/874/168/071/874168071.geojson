@@ -7,13 +7,16 @@
     "addr:postcode":"02878",
     "addr:street":"Main Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.20503,41.637876,-71.20503,41.637876",
     "geom:latitude":41.637876,
     "geom:longitude":-71.20503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1320 Main Rd",
     "sg:city":"Tiverton",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312507,
-    "wof:geomhash":"fde5f0611d51460c3a60677b0a61bbb4",
+    "wof:geomhash":"58892ec3febf9301310b4d6217acb52c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":874168071,
-    "wof:lastmodified":1472644170,
+    "wof:lastmodified":1510942863,
     "wof:name":"Sakonnet Veterinary Hospital",
     "wof:parent_id":85868751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874292945
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital",

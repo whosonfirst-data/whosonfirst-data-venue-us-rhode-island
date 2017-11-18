@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.411323,41.817333,-71.411323,41.817333",
     "geom:latitude":41.817333,
     "geom:longitude":-71.411323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Imperial Pl Unit 101",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315261,
-    "wof:geomhash":"970ad1577d71864eee4b3f0adc2e0d53",
+    "wof:geomhash":"fbdcc9e9b56308358c8dbdd12056ab2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":874296849,
-    "wof:lastmodified":1472644326,
+    "wof:lastmodified":1510942832,
     "wof:name":"CAV",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874287983
+    ],
     "wof:tags":[
         "traditional",
         "american"

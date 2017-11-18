@@ -7,13 +7,16 @@
     "addr:postcode":"02886",
     "addr:street":"Quaker Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.500641,41.684251,-71.500641,41.684251",
     "geom:latitude":41.684251,
     "geom:longitude":-71.500641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"444 Quaker Ln",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314930,
-    "wof:geomhash":"8db72f4a160495d750f437ff3d7165f8",
+    "wof:geomhash":"4280b50301163ea634821cedbc34b415",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":874287861,
-    "wof:lastmodified":1472644315,
+    "wof:lastmodified":1510942708,
     "wof:name":"Denny's",
     "wof:parent_id":85812969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874293365
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

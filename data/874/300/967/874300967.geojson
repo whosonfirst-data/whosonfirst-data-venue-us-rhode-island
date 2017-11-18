@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.389302,41.829783,-71.389302,41.829783",
     "geom:latitude":41.829783,
     "geom:longitude":-71.389302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"457 Angell St.",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315422,
-    "wof:geomhash":"2b7bb01a32f0744073fa744bc0ca82e6",
+    "wof:geomhash":"b5dd5119c0608459da35be55e9a86a65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":874300967,
-    "wof:lastmodified":1472644331,
+    "wof:lastmodified":1510941700,
     "wof:name":"Bank of America",
     "wof:parent_id":85854865,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874094873
+    ],
     "wof:tags":[]
 },
   "bbox": [

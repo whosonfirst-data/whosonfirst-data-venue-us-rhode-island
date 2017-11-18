@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.443161,41.779819,-71.443161,41.779819",
     "geom:latitude":41.779819,
     "geom:longitude":-71.443161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 Reservoir Ave Ste 305",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315502,
-    "wof:geomhash":"49dda5ca497a63126dd4866c61a5ed7c",
+    "wof:geomhash":"cbc8cbd5af63e6c5f11b551f27f6974a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,13 +91,15 @@
         }
     ],
     "wof:id":874303201,
-    "wof:lastmodified":1472644316,
+    "wof:lastmodified":1510944176,
     "wof:name":"Aesthetic Laser Treatment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874281653
+    ],
     "wof:tags":[
         "spa",
         "medical",

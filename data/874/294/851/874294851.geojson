@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.414101,41.825298,-71.414101,41.825298",
     "geom:latitude":41.825298,
     "geom:longitude":-71.414101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Exchange Ter Ste 3",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315190,
-    "wof:geomhash":"604444e0645915955a8264a90dfaca12",
+    "wof:geomhash":"b136dc641871a39fe4a7e216c3eaae76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":874294851,
-    "wof:lastmodified":1472644323,
+    "wof:lastmodified":1510942529,
     "wof:name":"Blish & Cavanagh",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874284801
+    ],
     "wof:tags":[]
 },
   "bbox": [

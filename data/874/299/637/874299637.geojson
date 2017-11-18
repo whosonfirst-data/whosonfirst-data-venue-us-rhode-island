@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.410257,41.836242,-71.410257,41.836242",
     "geom:latitude":41.836242,
     "geom:longitude":-71.410257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"528 N Main St Unit 3",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315376,
-    "wof:geomhash":"2dac99c37088a286b11795f3e06f9004",
+    "wof:geomhash":"7655116a4ee3dc247af382d3438a105f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":874299637,
-    "wof:lastmodified":1472644326,
+    "wof:lastmodified":1510942125,
     "wof:name":"Breast Health",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874252097
+    ],
     "wof:tags":[]
 },
   "bbox": [
