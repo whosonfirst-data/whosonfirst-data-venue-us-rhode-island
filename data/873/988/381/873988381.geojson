@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Turks Head Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.411096,41.824467,-71.411096,41.824467",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.411096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Turks Head Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310678,
-    "wof:geomhash":"bc8da160fd65f62ab45fa5829cc44ba0",
+    "wof:geomhash":"8b875858cdd97e03ffac7e74431d4a28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":873988381,
-    "wof:lastmodified":1472644094,
+    "wof:lastmodified":1534439180,
     "wof:name":"Reilly & Co",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874096567
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

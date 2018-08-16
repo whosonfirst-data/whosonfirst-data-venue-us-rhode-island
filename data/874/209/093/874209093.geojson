@@ -7,6 +7,7 @@
     "addr:postcode":"02919",
     "addr:street":"Hartford Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.488659,41.822701,-71.488659,41.822701",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.488659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Hartford Ave",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -31,22 +33,26 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420540509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EG9igRCVEV8QT6dLpgzfg_41.822701_-71.488659@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312940,
-    "wof:geomhash":"09f5bea61220d6693de0cf695271199f",
+    "wof:geomhash":"b65697d3d7baba00d4c98cdf90abe503",
     "wof:hierarchy":[],
     "wof:id":874209093,
-    "wof:lastmodified":1472644192,
+    "wof:lastmodified":1534439186,
     "wof:name":"Donald F De Ciccio",
     "wof:parent_id":420540509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874304575
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -14,6 +14,7 @@
     "geom:longitude":-71.428973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"331 Broadway",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312839,
-    "wof:geomhash":"73ccdc53f34e2a01e687df37846d42b9",
+    "wof:geomhash":"634a60f539b89469ba9d77cf611faaf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":874199495,
-    "wof:lastmodified":1472644202,
+    "wof:lastmodified":1534439180,
     "wof:name":"Alfred A Veltri",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874302919,
+        874096017
+    ],
     "wof:tags":[
         "attorney"
     ]

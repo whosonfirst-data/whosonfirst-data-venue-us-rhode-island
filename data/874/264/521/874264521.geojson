@@ -14,6 +14,7 @@
     "geom:longitude":-71.310449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62 Newport Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314012,
-    "wof:geomhash":"271cd7541a9ff1a0f43fca4279d78799",
+    "wof:geomhash":"0bfc51d09a3cf8267714851995bdc1e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874264521,
-    "wof:lastmodified":1472644290,
+    "wof:lastmodified":1534439181,
     "wof:name":"Furtado-Medeiros Constr Co",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874142661
+    ],
     "wof:tags":[
         "general",
         "contractor"

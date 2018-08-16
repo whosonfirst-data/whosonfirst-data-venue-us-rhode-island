@@ -7,6 +7,7 @@
     "addr:postcode":"02864",
     "addr:street":"Nate Whipple Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.457241,41.976444,-71.457241,41.976444",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.457241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"10 Nate Whipple Hwy",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314027,
-    "wof:geomhash":"9dbf444577d3ad94942687e02b32de23",
+    "wof:geomhash":"f46a4db04164a2dbee387f4915c724c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":874264791,
-    "wof:lastmodified":1472644312,
+    "wof:lastmodified":1534439178,
     "wof:name":"Personal Home Health Svc Inc",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874005491
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home"

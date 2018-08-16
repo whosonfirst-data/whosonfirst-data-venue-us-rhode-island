@@ -14,6 +14,7 @@
     "geom:longitude":-71.409798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 Benefit St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315337,
-    "wof:geomhash":"40316b4b12b2349303228a8abde46c97",
+    "wof:geomhash":"3f9d2bcbe1d6622e82d00f9ea4e94e54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874298653,
-    "wof:lastmodified":1472644324,
+    "wof:lastmodified":1534439185,
     "wof:name":"Serinsky Robert L Dr",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874187359
+    ],
     "wof:tags":[]
 },
   "bbox": [

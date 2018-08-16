@@ -7,6 +7,7 @@
     "addr:postcode":"02816",
     "addr:street":"Tiogue Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-71.585102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1100 Tiogue Ave",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":874016553,
-    "wof:lastmodified":1512142917,
+    "wof:lastmodified":1534439183,
     "wof:name":"McDonalds",
     "wof:parent_id":85850599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874286621
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

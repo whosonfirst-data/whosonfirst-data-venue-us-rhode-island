@@ -7,6 +7,7 @@
     "addr:postcode":"02891",
     "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.813355,41.362308,-71.813355,41.362308",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.813355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"105 Franklin St",
     "sg:city":"Westerly",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1464312107,
-    "wof:geomhash":"9eb52bd1454d0740ab5e800d8d789be7",
+    "wof:geomhash":"3fa03ab506f1b5db43f2f86fa42c098e",
     "wof:hierarchy":[],
     "wof:id":874127535,
-    "wof:lastmodified":1472644164,
+    "wof:lastmodified":1534439180,
     "wof:name":"Mc Quade's Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874226233
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,23 @@
   "id": 874149287,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Ferry Rd Bristol RI 02809",
+    "addr:city":"Bristol",
+    "addr:full":"101 Ferry Road Bristol, Ri 02809-2902",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
-    "addr:postcode":"02809",
+    "addr:postcode":"02809-2902",
+    "addr:road":"Ferry Road",
+    "addr:state":"RI",
     "addr:street":"Ferry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.265056,41.65512,-71.265056,41.65512",
-    "geom:latitude":41.65512,
-    "geom:longitude":-71.265056,
+    "geom:bbox":"-71.26606,41.65752,-71.26606,41.65752",
+    "geom:latitude":41.65752,
+    "geom:longitude":-71.26606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 Ferry Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -39,20 +44,24 @@
         "garden"
     ],
     "sg:website":"www.blithewold.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526855
+    ],
     "wof:belongsto":[
-        85688509,
+        102081595,
         85633793,
-        85807603,
-        102081595
+        85688509,
+        85807603
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501977,
         "sg:id":"SG_73EMpyyLvQKMPAFodtMc2R_41.655120_-71.265056@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312322,
-    "wof:geomhash":"92f5f60e26b8d1339fe8baadb5432b4e",
+    "wof:geomhash":"e09eb313303cf6dc55c86d56657e97dc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":874149287,
-    "wof:lastmodified":1472644163,
-    "wof:name":"Blithewold Mansion & Gardens",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Blithewold Mansion Gardens & Arboretum",
     "wof:parent_id":85807603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -78,10 +87,10 @@
     ]
 },
   "bbox": [
-    -71.265056,
-    41.65512,
-    -71.265056,
-    41.65512
+    -71.26606,
+    41.65752,
+    -71.26606,
+    41.65752
 ],
-  "geometry": {"coordinates":[-71.265056,41.65512],"type":"Point"}
+  "geometry": {"coordinates":[-71.26606,41.65752],"type":"Point"}
 }

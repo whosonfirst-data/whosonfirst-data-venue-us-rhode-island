@@ -7,6 +7,7 @@
     "addr:postcode":"02809",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.277152,41.670294,-71.277152,41.670294",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.277152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"31 State St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312987,
-    "wof:geomhash":"7b23c05c546b2212c0c4be685f58bf2a",
+    "wof:geomhash":"588d2d2e91ed88be188385506145d243",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":874213333,
-    "wof:lastmodified":1472644206,
+    "wof:lastmodified":1534439183,
     "wof:name":"Persimmon Restaurant",
     "wof:parent_id":85807607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874288471
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

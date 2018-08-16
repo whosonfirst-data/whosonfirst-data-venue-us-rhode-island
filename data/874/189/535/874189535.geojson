@@ -14,6 +14,7 @@
     "geom:longitude":-71.427382,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 Wellington Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312735,
-    "wof:geomhash":"0371968886477095a4c58ebe7691293e",
+    "wof:geomhash":"30c228724fc94f8a9135c8f043506ba5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":874189535,
-    "wof:lastmodified":1472644203,
+    "wof:lastmodified":1534439181,
     "wof:name":"Consumers Moving Co Inc",
     "wof:parent_id":420558667,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874099833
+    ],
     "wof:tags":[
         "storage",
         "trucking",

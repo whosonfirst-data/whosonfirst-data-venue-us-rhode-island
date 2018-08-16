@@ -2,18 +2,24 @@
   "id": 874138695,
   "type": "Feature",
   "properties": {
-    "addr:full":"64 College St Providence RI 02903",
+    "addr:city":"Providence",
+    "addr:full":"64 College St Providence, Ri 02912",
+    "addr:house_number":"64",
     "addr:housenumber":"64",
-    "addr:postcode":"02903",
+    "addr:phone":"+1 401-863-2932",
+    "addr:postcode":"02912",
+    "addr:road":"College St",
+    "addr:state":"RI",
     "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.405481,41.826129,-71.405481,41.826129",
-    "geom:latitude":41.826129,
-    "geom:longitude":-71.405481,
+    "geom:bbox":"-71.3833,41.82923,-71.3833,41.82923",
+    "geom:latitude":41.82923,
+    "geom:longitude":-71.3833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"64 College St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -32,7 +38,11 @@
         "gallery",
         "dealer"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85867163,
         102191575,
@@ -44,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503043,
         "sg:id":"SG_6TZPX2sMrFsMzSb3Jjl5a0_41.826129_-71.405481@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312224,
-    "wof:geomhash":"4fea594d43820e10960efd97f3076983",
+    "wof:geomhash":"d7fe802e99a086611588dcacf9697a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +73,7 @@
         }
     ],
     "wof:id":874138695,
-    "wof:lastmodified":1472644171,
+    "wof:lastmodified":1534439187,
     "wof:name":"David Winton Bell Gallery",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
@@ -76,10 +87,10 @@
     ]
 },
   "bbox": [
-    -71.405481,
-    41.826129,
-    -71.405481,
-    41.826129
+    -71.3833,
+    41.82923,
+    -71.3833,
+    41.82923
 ],
-  "geometry": {"coordinates":[-71.40548099999999,41.826129],"type":"Point"}
+  "geometry": {"coordinates":[-71.38330000000001,41.82923],"type":"Point"}
 }

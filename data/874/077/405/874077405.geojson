@@ -7,6 +7,7 @@
     "addr:postcode":"02882",
     "addr:street":"Judith Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-71.483488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"91 Judith Ave",
     "sg:city":"Narragansett",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":874077405,
-    "wof:lastmodified":1511318647,
+    "wof:lastmodified":1534439180,
     "wof:name":"West Marine",
     "wof:parent_id":85847313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874123345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "equipment",

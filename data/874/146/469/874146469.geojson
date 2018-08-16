@@ -14,6 +14,7 @@
     "geom:longitude":-71.376282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"145 Taunton Ave",
     "sg:city":"East Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312297,
-    "wof:geomhash":"9e2e64449cd3d14286536c53c16b484c",
+    "wof:geomhash":"d82b8b71cbff2f76762724986abaf240",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874146469,
-    "wof:lastmodified":1472644174,
+    "wof:lastmodified":1534439180,
     "wof:name":"City Engineering",
     "wof:parent_id":420540531,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874207805
+    ],
     "wof:tags":[
         "village"
     ]

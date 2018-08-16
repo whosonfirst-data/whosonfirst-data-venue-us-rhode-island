@@ -14,6 +14,7 @@
     "geom:longitude":-71.444598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Smith St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315458,
-    "wof:geomhash":"8457c6f75416b950b01cb00cc4137a17",
+    "wof:geomhash":"9c9f999d47c2e33e21e428641aa83a54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874301839,
-    "wof:lastmodified":1472644331,
+    "wof:lastmodified":1534439186,
     "wof:name":"Boezi Henry V III Atty",
     "wof:parent_id":85880037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874076665
+    ],
     "wof:tags":[]
 },
   "bbox": [

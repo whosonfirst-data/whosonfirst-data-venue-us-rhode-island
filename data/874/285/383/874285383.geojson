@@ -2,18 +2,24 @@
   "id": 874285383,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 South St Providence RI 02903",
+    "addr:city":"Providence",
+    "addr:full":"100 South St Providence, Ri 02903-4749",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"02903",
+    "addr:phone":"+1 401-273-5437",
+    "addr:postcode":"02903-4749",
+    "addr:road":"South St",
+    "addr:state":"RI",
     "addr:street":"South St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.409595,41.816651,-71.409595,41.816651",
-    "geom:latitude":41.816651,
-    "geom:longitude":-71.409595,
+    "geom:bbox":"-71.4094,41.81683,-71.4094,41.81683",
+    "geom:latitude":41.81683,
+    "geom:longitude":-71.4094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 South St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"02903",
     "sg:province":"RI",
     "sg:website":"www.childrenmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85867169,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400063,
         "sg:id":"SG_5OVzVTONVQXQOx577clHfF_41.816541_-71.410074@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464314826,
-    "wof:geomhash":"2601672b7c370cdd5a1e369e413e8fa3",
+    "wof:geomhash":"a458260d82aee1cf73316c6c03e3822a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":874285383,
-    "wof:lastmodified":1472644289,
-    "wof:name":"Providence Children's Museum",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Providence Children'S Museum",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.409595,
-    41.816651,
-    -71.409595,
-    41.816651
+    -71.4094,
+    41.81683,
+    -71.4094,
+    41.81683
 ],
-  "geometry": {"coordinates":[-71.409595,41.816651],"type":"Point"}
+  "geometry": {"coordinates":[-71.40940000000001,41.81683],"type":"Point"}
 }

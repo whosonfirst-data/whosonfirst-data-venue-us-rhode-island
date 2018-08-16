@@ -7,6 +7,7 @@
     "addr:postcode":"02889",
     "addr:street":"Warwick Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.391842,41.705164,-71.391842,41.705164",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.391842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2650 Warwick Ave",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312348,
-    "wof:geomhash":"231e77c79f3c6be47186a5b4f8fa4d26",
+    "wof:geomhash":"d0165629c6b2e0fdfe567d0cd5567c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874152107,
-    "wof:lastmodified":1472644160,
+    "wof:lastmodified":1534439184,
     "wof:name":"Dennis Diffley Sewer Cleaning",
     "wof:parent_id":420540469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874293477
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sewer",

@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Financial Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.409203,41.825199,-71.409203,41.825199",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.409203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Financial Plz",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315218,
-    "wof:geomhash":"07651e9f5551347f21db864d0448d127",
+    "wof:geomhash":"47d355db11395143abcacfb43d832d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":874295709,
-    "wof:lastmodified":1472644325,
+    "wof:lastmodified":1534439186,
     "wof:name":"Orchard Scott E Lwyr",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874295779
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "divorce",

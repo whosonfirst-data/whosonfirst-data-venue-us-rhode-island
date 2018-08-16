@@ -2,17 +2,22 @@
   "id": 874303499,
   "type": "Feature",
   "properties": {
-    "addr:full":"Brown University 21 Brown Street Providence RI 02912",
+    "addr:city":"Providence",
+    "addr:full":"21 Brown Street Providence, Ri 02912",
+    "addr:house_number":"21",
     "addr:housenumber":"21",
+    "addr:phone":"+1 401-863-2942",
     "addr:postcode":"02912",
+    "addr:road":"Brown Street",
+    "addr:state":"RI",
     "addr:street":"Brown Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-71.402651,41.824042,-71.402651,41.824042",
-    "geom:latitude":41.824042,
-    "geom:longitude":-71.402651,
+    "geom:bbox":"-71.3833,41.82923,-71.3833,41.82923",
+    "geom:latitude":41.82923,
+    "geom:longitude":-71.3833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -46,7 +51,11 @@
         "historical"
     ],
     "sg:website":"dl.lib.brown.edu/libweb/about/amb/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85867163,
         102191575,
@@ -58,12 +67,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501318,
         "osm:node":1875433569,
         "sg:id":"SG_79t1BVoDAGvbCgwXTWVxZd_41.824042_-71.402651@1303262239"
     },
     "wof:country":"US",
     "wof:created":1464315512,
-    "wof:geomhash":"5a59c2f2e53aeedebb23a09bc96cd227",
+    "wof:geomhash":"d7fe802e99a086611588dcacf9697a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +87,7 @@
         }
     ],
     "wof:id":874303499,
-    "wof:lastmodified":1510943197,
+    "wof:lastmodified":1534439187,
     "wof:name":"Annmary Brown Memorial",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
@@ -92,10 +102,10 @@
     ]
 },
   "bbox": [
-    -71.402651,
-    41.824042,
-    -71.402651,
-    41.824042
+    -71.3833,
+    41.82923,
+    -71.3833,
+    41.82923
 ],
-  "geometry": {"coordinates":[-71.40265100000001,41.824042],"type":"Point"}
+  "geometry": {"coordinates":[-71.38330000000001,41.82923],"type":"Point"}
 }

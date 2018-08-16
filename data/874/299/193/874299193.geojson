@@ -14,6 +14,7 @@
     "geom:longitude":-71.412102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Orms St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315360,
-    "wof:geomhash":"bd5fa0a3e6a0e999a6726def630f23b0",
+    "wof:geomhash":"f7ab76f47146afd950ca3a5205d7bd0d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":874299193,
-    "wof:lastmodified":1472644306,
+    "wof:lastmodified":1534439187,
     "wof:name":"Tlc Laser Eye Centers",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874266791,
+        874298665
+    ],
     "wof:tags":[
         "ophthalmologist"
     ]

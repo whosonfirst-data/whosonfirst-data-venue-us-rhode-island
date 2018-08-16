@@ -14,6 +14,7 @@
     "geom:longitude":-71.424797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Broadway",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315245,
-    "wof:geomhash":"9f3ee594c311d2e82d88b8fc78d0e7ce",
+    "wof:geomhash":"16148f4f7dfd75d4382acc34c6e87566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874296367,
-    "wof:lastmodified":1472644313,
+    "wof:lastmodified":1534439186,
     "wof:name":"Dimaio Paul J Lwyr",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874286477
+    ],
     "wof:tags":[
         "personal",
         "injury"

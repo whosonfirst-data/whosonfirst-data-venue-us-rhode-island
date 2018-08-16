@@ -14,6 +14,7 @@
     "geom:longitude":-71.386733,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 Blackstone Blvd",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312785,
-    "wof:geomhash":"ea1382aa52b080c96a8a03445596a06e",
+    "wof:geomhash":"084f111477733877ed54583c7beff982",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874194505,
-    "wof:lastmodified":1472644210,
+    "wof:lastmodified":1534439179,
     "wof:name":"Benjamin D Greenberg MD",
     "wof:parent_id":85880033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874300087
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

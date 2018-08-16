@@ -14,6 +14,7 @@
     "geom:longitude":-71.411096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Turks Head Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312781,
-    "wof:geomhash":"bc8da160fd65f62ab45fa5829cc44ba0",
+    "wof:geomhash":"8b875858cdd97e03ffac7e74431d4a28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874194143,
-    "wof:lastmodified":1472644188,
+    "wof:lastmodified":1534439179,
     "wof:name":"Thomas J Mc Andrew",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874281227
+    ],
     "wof:tags":[
         "attorney"
     ]

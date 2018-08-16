@@ -14,6 +14,7 @@
     "geom:longitude":-71.421926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Peace St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312733,
-    "wof:geomhash":"b7f270cd35a167b094959617bdcbb9eb",
+    "wof:geomhash":"7fd90c9fb3fafe10edecfb1d8e25713b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874189231,
-    "wof:lastmodified":1472644187,
+    "wof:lastmodified":1534439179,
     "wof:name":"Badway Dr Joachim E",
     "wof:parent_id":85880059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874116095
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

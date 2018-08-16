@@ -14,6 +14,7 @@
     "geom:longitude":-71.375298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Brewster St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315022,
-    "wof:geomhash":"1a279b1ca6c3d7379ad03d7d473a6d2e",
+    "wof:geomhash":"2867185cdf53dab73e4caba22f4adb60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874290287,
-    "wof:lastmodified":1472644308,
+    "wof:lastmodified":1534439183,
     "wof:name":"Occupational Health At Memorial Hospital",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874088321
+    ],
     "wof:tags":[]
 },
   "bbox": [

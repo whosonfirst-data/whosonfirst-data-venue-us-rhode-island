@@ -14,6 +14,7 @@
     "geom:longitude":-71.410614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Chestnut St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314415,
-    "wof:geomhash":"1ea4266436939a332d726733035baab6",
+    "wof:geomhash":"c8529fd5f3f81a0f906c4f73e812f40a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874275323,
-    "wof:lastmodified":1472644259,
+    "wof:lastmodified":1534439182,
     "wof:name":"John Clark Studio",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874098445
+    ],
     "wof:tags":[
         "artist"
     ]

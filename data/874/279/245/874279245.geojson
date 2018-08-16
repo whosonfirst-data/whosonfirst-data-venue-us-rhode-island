@@ -2,18 +2,24 @@
   "id": 874279245,
   "type": "Feature",
   "properties": {
-    "addr:full":"416 Thames St Newport RI 02840",
+    "addr:city":"Newport",
+    "addr:full":"416 Thames St Newport, Ri 02840",
+    "addr:house_number":"416",
     "addr:housenumber":"416",
+    "addr:phone":"+1 401-847-2448",
     "addr:postcode":"02840",
+    "addr:road":"Thames St",
+    "addr:state":"RI",
     "addr:street":"Thames St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.314399,41.48195,-71.314399,41.48195",
-    "geom:latitude":41.48195,
-    "geom:longitude":-71.314399,
+    "geom:bbox":"-71.31437,41.48177,-71.31437,41.48177",
+    "geom:latitude":41.48177,
+    "geom:longitude":-71.31437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"416 Thames St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85857501,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400007,
         "sg:id":"SG_2cnDfg09SiQqfJXEJqSpwV_41.481950_-71.314399@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314580,
-    "wof:geomhash":"97fc063795aebf88dc028498ab22895c",
+    "wof:geomhash":"21e6878bc2008d5ef89f498f7a755fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":874279245,
-    "wof:lastmodified":1472644250,
-    "wof:name":"Samuel White Horne Museum",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Samuel Whitehorne House",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -71.314399,
-    41.48195,
-    -71.314399,
-    41.48195
+    -71.31437,
+    41.48177,
+    -71.31437,
+    41.48177
 ],
-  "geometry": {"coordinates":[-71.31439899999999,41.48195],"type":"Point"}
+  "geometry": {"coordinates":[-71.31437,41.48177],"type":"Point"}
 }

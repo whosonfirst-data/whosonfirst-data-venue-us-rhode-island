@@ -14,6 +14,7 @@
     "geom:longitude":-71.421926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 Peace St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312648,
-    "wof:geomhash":"b7f270cd35a167b094959617bdcbb9eb",
+    "wof:geomhash":"7fd90c9fb3fafe10edecfb1d8e25713b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874181701,
-    "wof:lastmodified":1472644208,
+    "wof:lastmodified":1534439178,
     "wof:name":"Help Lead Safe Center Inc",
     "wof:parent_id":85880059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874260985
+    ],
     "wof:tags":[
         "center"
     ]

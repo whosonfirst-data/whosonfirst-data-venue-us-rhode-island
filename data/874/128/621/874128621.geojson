@@ -7,6 +7,7 @@
     "addr:postcode":"02907",
     "addr:street":"Peace St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.421926,41.806667,-71.421926,41.806667",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.421926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"21 Peace St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312116,
-    "wof:geomhash":"b7f270cd35a167b094959617bdcbb9eb",
+    "wof:geomhash":"7fd90c9fb3fafe10edecfb1d8e25713b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874128621,
-    "wof:lastmodified":1472644157,
+    "wof:lastmodified":1534439180,
     "wof:name":"Nri Community Services",
     "wof:parent_id":85880059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874051541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "specialty",

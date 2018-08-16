@@ -14,6 +14,7 @@
     "geom:longitude":-71.457298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Blackstone Valley Pl",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315099,
-    "wof:geomhash":"c553621de151a2be444fb1eb354f3969",
+    "wof:geomhash":"b68440ca49ad86c5b29ea473db5c7942",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":874292271,
-    "wof:lastmodified":1472644304,
+    "wof:lastmodified":1534439184,
     "wof:name":"Tetreault Tutoring & Training Services",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874086761
+    ],
     "wof:tags":[
         "tutoring"
     ]

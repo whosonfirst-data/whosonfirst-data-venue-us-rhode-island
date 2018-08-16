@@ -7,6 +7,7 @@
     "addr:postcode":"02908",
     "addr:street":"Chalkstone Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.436911,41.833286,-71.436911,41.833286",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.436911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"877 Chalkstone Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312354,
-    "wof:geomhash":"c8f271a8b94531989699cc114d630875",
+    "wof:geomhash":"f05398fca08e3faa2caa012a5ecd4dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874152777,
-    "wof:lastmodified":1472644179,
+    "wof:lastmodified":1534439184,
     "wof:name":"Oscar Bernal MD",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874302265
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

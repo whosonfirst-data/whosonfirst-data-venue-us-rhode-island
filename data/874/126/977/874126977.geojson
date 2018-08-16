@@ -14,6 +14,7 @@
     "geom:longitude":-71.45511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1150 Reservoir Ave",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312102,
-    "wof:geomhash":"211452c44e80a6e05c25ca68d1d4d87d",
+    "wof:geomhash":"7b0c162d4a8a079dacc1c82f7566a041",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":874126977,
-    "wof:lastmodified":1472644180,
+    "wof:lastmodified":1534439180,
     "wof:name":"Pulmonary Diagnostics",
     "wof:parent_id":85821025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874219953
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

@@ -14,6 +14,7 @@
     "geom:longitude":-71.494458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 Kenyon Ave",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314711,
-    "wof:geomhash":"8deec46c0f96134897ea52a15d9cbc9d",
+    "wof:geomhash":"cd161c24412b1cf185a2516c02d3fbda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,13 +72,15 @@
         }
     ],
     "wof:id":874282093,
-    "wof:lastmodified":1472644246,
+    "wof:lastmodified":1534439183,
     "wof:name":"Bandola J Jeffrys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874180583
+    ],
     "wof:tags":[
         "medical"
     ]

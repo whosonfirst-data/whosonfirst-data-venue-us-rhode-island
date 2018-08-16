@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Richmond St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.411859,41.820628,-71.411859,41.820628",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.411859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Richmond St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311848,
-    "wof:geomhash":"05cfefa8926ad743e8a1dd815fdf2eac",
+    "wof:geomhash":"ea75074357923e448f4ca1669f1ad925",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":874104285,
-    "wof:lastmodified":1472644146,
+    "wof:lastmodified":1534439182,
     "wof:name":"Warren Co",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874276215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

@@ -2,18 +2,24 @@
   "id": 874292587,
   "type": "Feature",
   "properties": {
-    "addr:full":"757 Great Rd Lincoln RI 02865",
+    "addr:city":"Lincoln",
+    "addr:full":"757 Great Rd Lincoln, Ri 02865-3820",
+    "addr:house_number":"757",
     "addr:housenumber":"757",
-    "addr:postcode":"02865",
+    "addr:phone":"+1 401-726-0597",
+    "addr:postcode":"02865-3820",
+    "addr:road":"Great Rd",
+    "addr:state":"RI",
     "addr:street":"Great Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.432712,41.909406,-71.432712,41.909406",
-    "geom:latitude":41.909406,
-    "geom:longitude":-71.432712,
+    "geom:bbox":"-71.43374,41.9102,-71.43374,41.9102",
+    "geom:latitude":41.9102,
+    "geom:longitude":-71.43374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"757 Great Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -28,20 +34,25 @@
     "sg:postcode":"02865",
     "sg:province":"RI",
     "sg:website":"www.hearthsidehouse.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
-        85688509,
+        102081597,
         85633793,
-        85847275,
-        102081597
+        85688509,
+        85847275
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400125,
         "sg:id":"SG_1tk2fjx7AVBixEORPQUcJa_41.909406_-71.432712@1303262236"
     },
     "wof:country":"US",
     "wof:created":1464315109,
-    "wof:geomhash":"aa36c30b382d4c649b6ba875746ec82e",
+    "wof:geomhash":"c5e641dd9ff1dc27d46c5c72d97454a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,8 +63,8 @@
         }
     ],
     "wof:id":874292587,
-    "wof:lastmodified":1472644313,
-    "wof:name":"The Hearthside",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Hearthside",
     "wof:parent_id":85847275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -62,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.432712,
-    41.909406,
-    -71.432712,
-    41.909406
+    -71.43374,
+    41.9102,
+    -71.43374,
+    41.9102
 ],
-  "geometry": {"coordinates":[-71.432712,41.909406],"type":"Point"}
+  "geometry": {"coordinates":[-71.43374,41.9102],"type":"Point"}
 }

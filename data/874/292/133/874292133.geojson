@@ -7,6 +7,7 @@
     "addr:postcode":"02865",
     "addr:street":"Old River Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.452797,41.937,-71.452797,41.937",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.452797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"132 Old River Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315094,
-    "wof:geomhash":"01238c64052190044a07eaa090072550",
+    "wof:geomhash":"3195089e2aa3a7ddbb43be866076cdb7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":874292133,
-    "wof:lastmodified":1472644299,
+    "wof:lastmodified":1534439184,
     "wof:name":"Tarro John M Phys",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874292091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "throat",

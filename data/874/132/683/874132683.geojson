@@ -7,6 +7,7 @@
     "addr:postcode":"02816",
     "addr:street":"Centre Of New;Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.570998,41.661763,-71.570998,41.661763",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.570998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"825 Centre of New England Blvd",
     "sg:city":"Coventry",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312169,
-    "wof:geomhash":"bf7c3ca3b8ff8016a6d28286ac5bc322",
+    "wof:geomhash":"49ac7ffd2bd15146aecb7afb827e5dec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":874132683,
-    "wof:lastmodified":1472644165,
+    "wof:lastmodified":1534439183,
     "wof:name":"Cracker Barrel Old Country Str",
     "wof:parent_id":85850599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874286615
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

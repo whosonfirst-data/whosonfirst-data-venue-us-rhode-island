@@ -2,18 +2,24 @@
   "id": 874258151,
   "type": "Feature",
   "properties": {
-    "addr:full":"657 Bellevue Ave Newport RI 02840",
+    "addr:city":"Newport",
+    "addr:full":"657 Bellevue Ave Newport, Ri 02840-4280",
+    "addr:house_number":"657",
     "addr:housenumber":"657",
-    "addr:postcode":"02840",
+    "addr:phone":"+1 401-846-0669",
+    "addr:postcode":"02840-4280",
+    "addr:road":"Bellevue Ave",
+    "addr:state":"RI",
     "addr:street":"Bellevue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.30667,41.455576,-71.30667,41.455576",
-    "geom:latitude":41.455576,
-    "geom:longitude":-71.30667,
+    "geom:bbox":"-71.30629,41.45741,-71.30629,41.45741",
+    "geom:latitude":41.45741,
+    "geom:longitude":-71.30629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"657 Bellevue Ave",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -28,18 +34,20 @@
     "sg:postcode":"02840",
     "sg:province":"RI",
     "sg:website":"www.belcourtcastle.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400058,
         "sg:id":"SG_5Ghdgvp12LCy76n7EAA6JN_41.455576_-71.306670@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313774,
-    "wof:geomhash":"80eaf46c2c4ee5ad5b4e02833275d5bd",
+    "wof:geomhash":"b9cc989b96805a1f03370fefe298c55a",
     "wof:hierarchy":[],
     "wof:id":874258151,
-    "wof:lastmodified":1472644233,
+    "wof:lastmodified":1534439187,
     "wof:name":"Belcourt Castle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -49,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.30667,
-    41.455576,
-    -71.30667,
-    41.455576
+    -71.30629,
+    41.45741,
+    -71.30629,
+    41.45741
 ],
-  "geometry": {"coordinates":[-71.30667,41.455576],"type":"Point"}
+  "geometry": {"coordinates":[-71.30629,41.45741],"type":"Point"}
 }

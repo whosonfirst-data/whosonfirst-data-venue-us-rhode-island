@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.405869,41.823193,-71.405869,41.823193",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.405869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"180 S Main St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310845,
-    "wof:geomhash":"76eaa9092b572200a01dd6a45ffe1cc4",
+    "wof:geomhash":"b0975681fc4b6e7a660660d4431f3a30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874008583,
-    "wof:lastmodified":1472644103,
+    "wof:lastmodified":1534439185,
     "wof:name":"Partridge Snow & Hahn LLP",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874294627
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

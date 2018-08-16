@@ -14,6 +14,7 @@
     "geom:longitude":-71.483488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Judith Ave",
     "sg:city":"Narragansett",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314188,
-    "wof:geomhash":"91ea99105842221b2251143617b4f2dd",
+    "wof:geomhash":"7cadf62c9e8753a330a09bdfd9a045f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":874268929,
-    "wof:lastmodified":1472644273,
+    "wof:lastmodified":1534439182,
     "wof:name":"Photo Plus",
     "wof:parent_id":85847313,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874097983
+    ],
     "wof:tags":[
         "photo",
         "finishing"

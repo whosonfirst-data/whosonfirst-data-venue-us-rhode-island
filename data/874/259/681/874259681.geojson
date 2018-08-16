@@ -14,6 +14,7 @@
     "geom:longitude":-71.467773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Centerville Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313848,
-    "wof:geomhash":"a6639969aa1413d349c3ef6b1e7065df",
+    "wof:geomhash":"b240ac535d39c249b72b0fa091503c03",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874259681,
-    "wof:lastmodified":1472644294,
+    "wof:lastmodified":1534439181,
     "wof:name":"Christopher Kehoe",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874151947
+    ],
     "wof:tags":[
         "attorney"
     ]

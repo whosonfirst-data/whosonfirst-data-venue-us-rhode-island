@@ -14,6 +14,7 @@
     "geom:longitude":-71.492511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1130 Ten Rod Rd",
     "sg:city":"North Kingstown",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312820,
-    "wof:geomhash":"535777561721f6d46d15d8b3b6a72067",
+    "wof:geomhash":"f48e3d49fe99fc3a05798ffeac022116",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":874197379,
-    "wof:lastmodified":1472644189,
+    "wof:lastmodified":1534439179,
     "wof:name":"Whole Self",
     "wof:parent_id":85868765,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874202781
+    ],
     "wof:tags":[
         "holistic",
         "practitioner"

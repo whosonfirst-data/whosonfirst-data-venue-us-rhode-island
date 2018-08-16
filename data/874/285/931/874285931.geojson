@@ -14,6 +14,7 @@
     "geom:longitude":-71.410133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"127 Dorrance St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314854,
-    "wof:geomhash":"0fa4c5d247393fb231bde5608b763ad8",
+    "wof:geomhash":"4dab92155698b7b8bc85efcf4de4ae81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874285931,
-    "wof:lastmodified":1472644292,
+    "wof:lastmodified":1534439182,
     "wof:name":"Susan M Pires Atty",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874040693
+    ],
     "wof:tags":[
         "attorney"
     ]

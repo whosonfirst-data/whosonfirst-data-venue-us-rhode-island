@@ -14,6 +14,7 @@
     "geom:longitude":-71.415171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"380 Westminster St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314592,
-    "wof:geomhash":"70224eb235ff7c01cd7630d7e1ed8483",
+    "wof:geomhash":"a0091b7036588e13d1f67dcd425cc327",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874279571,
-    "wof:lastmodified":1472644270,
+    "wof:lastmodified":1534439183,
     "wof:name":"US General Services ADM",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874258125
+    ],
     "wof:tags":[
         "general"
     ]

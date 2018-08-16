@@ -2,18 +2,24 @@
   "id": 874281183,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Putnam Pike Johnston RI 02919",
+    "addr:city":"Johnston",
+    "addr:full":"101 Putnam Pike Johnston, Ri 02919-2075",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
-    "addr:postcode":"02919",
+    "addr:phone":"+1 401-231-3380",
+    "addr:postcode":"02919-2075",
+    "addr:road":"Putnam Pike",
+    "addr:state":"RI",
     "addr:street":"Putnam Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.493209,41.862339,-71.493209,41.862339",
-    "geom:latitude":41.862339,
-    "geom:longitude":-71.493209,
+    "geom:bbox":"-71.49378,41.86277,-71.49378,41.86277",
+    "geom:latitude":41.86277,
+    "geom:longitude":-71.49378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 Putnam Pike",
     "sg:city":"Johnston",
     "sg:classifiers":[
@@ -30,20 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
-        85688509,
+        102081597,
         85633793,
-        85823211,
-        102081597
+        85688509,
+        85823211
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400147,
         "sg:id":"SG_5qqTlwBJIEkSOPV5ySZPB0_41.862339_-71.493209@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464314675,
-    "wof:geomhash":"2fe9e765b262390a347a541687f2c4b1",
+    "wof:geomhash":"3c14d8ed155d326722d7676edf897732",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":874281183,
-    "wof:lastmodified":1472644247,
+    "wof:lastmodified":1534439187,
     "wof:name":"Johnston Historical Society",
     "wof:parent_id":85823211,
     "wof:placetype":"venue",
@@ -66,10 +77,10 @@
     ]
 },
   "bbox": [
-    -71.493209,
-    41.862339,
-    -71.493209,
-    41.862339
+    -71.49378,
+    41.86277,
+    -71.49378,
+    41.86277
 ],
-  "geometry": {"coordinates":[-71.49320899999999,41.862339],"type":"Point"}
+  "geometry": {"coordinates":[-71.49378,41.86277],"type":"Point"}
 }

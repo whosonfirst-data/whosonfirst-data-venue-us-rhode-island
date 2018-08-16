@@ -7,6 +7,7 @@
     "addr:postcode":"02886",
     "addr:street":"College Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.485619,41.713349,-71.485619,41.713349",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.485619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"33 College Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310937,
-    "wof:geomhash":"c53f236fc95cfb0cb8bdded0249979a5",
+    "wof:geomhash":"933c4d7cfdd98231d4ff96ea0df5f72b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":874019001,
-    "wof:lastmodified":1472644092,
+    "wof:lastmodified":1534439179,
     "wof:name":"Hayes & Co",
     "wof:parent_id":85816599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874042747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

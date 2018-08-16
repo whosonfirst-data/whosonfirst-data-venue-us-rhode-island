@@ -14,6 +14,7 @@
     "geom:longitude":-71.453304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Nate Whipple Hwy",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314488,
-    "wof:geomhash":"5dfc7b3c068cee7133ee4f619d6fb9bb",
+    "wof:geomhash":"c2402093ca3e69673e0f25271de9bddd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874276765,
-    "wof:lastmodified":1472644276,
+    "wof:lastmodified":1534439182,
     "wof:name":"Constantine Pagonis MD",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874235135
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

@@ -2,18 +2,23 @@
   "id": 874221691,
   "type": "Feature",
   "properties": {
-    "addr:full":"3259 Post Rd Warwick RI 02886",
+    "addr:city":"Warwick",
+    "addr:full":"3259 Post Rd Warwick, Ri 02886-7145",
+    "addr:house_number":"3259",
     "addr:housenumber":"3259",
-    "addr:postcode":"02886",
+    "addr:postcode":"02886-7145",
+    "addr:road":"Post Rd",
+    "addr:state":"RI",
     "addr:street":"Post Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.459244,41.698786,-71.459244,41.698786",
-    "geom:latitude":41.698786,
-    "geom:longitude":-71.459244,
+    "geom:bbox":"-71.45929,41.69886,-71.45929,41.69886",
+    "geom:latitude":41.69886,
+    "geom:longitude":-71.45929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3259 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -27,7 +32,11 @@
     "sg:phone":"+1 401 737 0010",
     "sg:postcode":"02886",
     "sg:province":"RI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85803293,
         102191575,
@@ -39,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400060,
         "sg:id":"SG_6kdHX9WdvLs6FUvrrIaLgs_41.698786_-71.459244@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313081,
-    "wof:geomhash":"e299f0861ae603bbaecb7c79cc452732",
+    "wof:geomhash":"c8fd5387b86789abc6173d2e78165315",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":874221691,
-    "wof:lastmodified":1472644227,
+    "wof:lastmodified":1534439187,
     "wof:name":"Warwick Museum",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.459244,
-    41.698786,
-    -71.459244,
-    41.698786
+    -71.45929,
+    41.69886,
+    -71.45929,
+    41.69886
 ],
-  "geometry": {"coordinates":[-71.459244,41.698786],"type":"Point"}
+  "geometry": {"coordinates":[-71.45929,41.69886],"type":"Point"}
 }

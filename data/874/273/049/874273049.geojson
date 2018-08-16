@@ -7,6 +7,7 @@
     "addr:postcode":"02860",
     "addr:street":"Armistice Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.369594,41.879836,-71.369594,41.879836",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.369594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"174 Armistice Blvd",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314330,
-    "wof:geomhash":"7957088493e3d3c04cb7b8f7adc7bd57",
+    "wof:geomhash":"b7c2c29faece2c0295296ea57205bc92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,15 @@
         }
     ],
     "wof:id":874273049,
-    "wof:lastmodified":1472644235,
+    "wof:lastmodified":1534439183,
     "wof:name":"Coppola Medical Assoc",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874283503,
+        874290315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

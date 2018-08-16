@@ -7,6 +7,7 @@
     "addr:postcode":"02886",
     "addr:street":"Toll Gate Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.473709,41.702253,-71.473709,41.702253",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.473709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 Toll Gate Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311546,
-    "wof:geomhash":"5bcc93918f7118260a2d1b929dc8716e",
+    "wof:geomhash":"ecfc59b615c18220210f7e83d02323ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874079371,
-    "wof:lastmodified":1472644138,
+    "wof:lastmodified":1534439180,
     "wof:name":"Stephen L Matarese DO",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874111649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

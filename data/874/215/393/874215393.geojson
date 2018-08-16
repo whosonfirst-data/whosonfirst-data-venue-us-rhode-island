@@ -2,18 +2,24 @@
   "id": 874215393,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Roger Williams Cir Warwick RI 02888",
+    "addr:city":"Warwick",
+    "addr:full":"25 Roger Williams Circle Warwick, Ri 02888",
+    "addr:house_number":"25",
     "addr:housenumber":"25",
+    "addr:phone":"+1 401-467-7647",
     "addr:postcode":"02888",
+    "addr:road":"Roger Williams Circle",
+    "addr:state":"RI",
     "addr:street":"Roger Williams Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.39879,41.754465,-71.39879,41.754465",
-    "geom:latitude":41.754465,
-    "geom:longitude":-71.39879,
+    "geom:bbox":"-71.40912,41.74952,-71.40912,41.74952",
+    "geom:latitude":41.74952,
+    "geom:longitude":-71.40912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 Roger Williams Cir",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 401 467 7647",
     "sg:postcode":"02888",
     "sg:province":"RI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85840949,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400174,
         "sg:id":"SG_5JcaL34FNpUGOoXrJl0yEd_41.754465_-71.398790@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464313008,
-    "wof:geomhash":"09e0c438f454ccdd76a7d999d85f9774",
+    "wof:geomhash":"0b8b6d49169f963b4355bc53193a2e1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":874215393,
-    "wof:lastmodified":1472644203,
+    "wof:lastmodified":1534439187,
     "wof:name":"Warwick Historical Society",
     "wof:parent_id":85840949,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.39879,
-    41.754465,
-    -71.39879,
-    41.754465
+    -71.40912,
+    41.74952,
+    -71.40912,
+    41.74952
 ],
-  "geometry": {"coordinates":[-71.39879000000001,41.754465],"type":"Point"}
+  "geometry": {"coordinates":[-71.40912,41.74952],"type":"Point"}
 }

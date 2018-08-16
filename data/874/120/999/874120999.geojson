@@ -2,18 +2,24 @@
   "id": 874120999,
   "type": "Feature",
   "properties": {
-    "addr:full":"82 Touro St Newport RI 02840",
+    "addr:city":"Newport",
+    "addr:full":"82 Touro St Newport, Ri 02840-2931",
+    "addr:house_number":"82",
     "addr:housenumber":"82",
-    "addr:postcode":"02840",
+    "addr:phone":"+1 401-846-0813",
+    "addr:postcode":"02840-2931",
+    "addr:road":"Touro St",
+    "addr:state":"RI",
     "addr:street":"Touro St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.311725,41.489155,-71.311725,41.489155",
-    "geom:latitude":41.489155,
-    "geom:longitude":-71.311725,
+    "geom:bbox":"-71.31201,41.48932,-71.31201,41.48932",
+    "geom:latitude":41.48932,
+    "geom:longitude":-71.31201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"82 Touro St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:postcode":"02840",
     "sg:province":"RI",
     "sg:website":"www.newporthistorical.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85857501,
         102191575,
@@ -40,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400050,
         "sg:id":"SG_1TMzLrWIW3YMgr7vrehpZW_41.489155_-71.311725@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312050,
-    "wof:geomhash":"caeccc0905890e1c19d4d8439ee64c9b",
+    "wof:geomhash":"c684b4f7adea2e5fdda70e894683e9d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":874120999,
-    "wof:lastmodified":1472644187,
+    "wof:lastmodified":1534439187,
     "wof:name":"Newport Historical Society",
     "wof:parent_id":85857501,
     "wof:placetype":"venue",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.311725,
-    41.489155,
-    -71.311725,
-    41.489155
+    -71.31201,
+    41.48932,
+    -71.31201,
+    41.48932
 ],
-  "geometry": {"coordinates":[-71.311725,41.489155],"type":"Point"}
+  "geometry": {"coordinates":[-71.31201,41.48932],"type":"Point"}
 }

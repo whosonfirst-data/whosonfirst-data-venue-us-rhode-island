@@ -14,6 +14,7 @@
     "geom:longitude":-71.411102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 Westminster St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314816,
-    "wof:geomhash":"aed1c2f6b991174391f9e6e82a6613a8",
+    "wof:geomhash":"ac79499980befef094822d2c0940bdf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874285127,
-    "wof:lastmodified":1472644287,
+    "wof:lastmodified":1534439182,
     "wof:name":"Kalander Shaw & Janney Ltd",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874004073
+    ],
     "wof:tags":[
         "attorney"
     ]

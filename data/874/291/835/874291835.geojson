@@ -14,6 +14,7 @@
     "geom:longitude":-71.402222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1464 Diamond Hill Rd",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315084,
-    "wof:geomhash":"8972401b687cd5461ceb251cd0045e3b",
+    "wof:geomhash":"142924e912e55f6f3e1a8b84a08bd63c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":874291835,
-    "wof:lastmodified":1472644311,
+    "wof:lastmodified":1534439184,
     "wof:name":"Landau Lesley Ph.D.",
     "wof:parent_id":85805831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874291389
+    ],
     "wof:tags":[
         "psychologist"
     ]

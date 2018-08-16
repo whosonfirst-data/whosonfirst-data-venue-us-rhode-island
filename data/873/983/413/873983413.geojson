@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Park Row",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.41069,41.828468,-71.41069,41.828468",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.41069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Park Row",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310637,
-    "wof:geomhash":"0a1d33fec048aa1747fdafec3d6031bd",
+    "wof:geomhash":"09eb26d8d0aed5361f4f133f6ecd053d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,15 @@
         }
     ],
     "wof:id":873983413,
-    "wof:lastmodified":1472644090,
+    "wof:lastmodified":1534439186,
     "wof:name":"Mandell Mark S",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874296161,
+        874296455
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

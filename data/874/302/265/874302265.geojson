@@ -14,6 +14,7 @@
     "geom:longitude":-71.436599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"877 Chalkstone Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315473,
-    "wof:geomhash":"c4e6a1ac5fb535bb7c10af02d0f76deb",
+    "wof:geomhash":"74ca7b6e4aaf7827d7bc7f2c2ba4e5c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874302265,
-    "wof:lastmodified":1472644317,
+    "wof:lastmodified":1534439184,
     "wof:name":"Bernal Oscar MD",
     "wof:parent_id":85880057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874152777
+    ],
     "wof:tags":[]
 },
   "bbox": [

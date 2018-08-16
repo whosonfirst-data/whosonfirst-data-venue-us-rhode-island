@@ -7,6 +7,7 @@
     "addr:postcode":"02906",
     "addr:street":"Ives St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.393082,41.827767,-71.393082,41.827767",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.393082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"362 Ives St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315406,
-    "wof:geomhash":"3774aa5d0bf89b02e9f45e79abcc56c3",
+    "wof:geomhash":"02748bcb18b59a84aa417b13b5a6cb33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":874300493,
-    "wof:lastmodified":1472644320,
+    "wof:lastmodified":1534439185,
     "wof:name":"Ducoff Robt J Dr",
     "wof:parent_id":85867171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874300647
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

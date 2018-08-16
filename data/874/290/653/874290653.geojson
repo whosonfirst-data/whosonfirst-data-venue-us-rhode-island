@@ -7,6 +7,7 @@
     "addr:postcode":"02860",
     "addr:street":"School St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.37748,41.867716,-71.37748,41.867716",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.37748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 School St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315034,
-    "wof:geomhash":"b4f3bfdaca3291e9ae6c62783d46c0a7",
+    "wof:geomhash":"ebabcd449c3fa717fe9c3a12fbf6fd59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":874290653,
-    "wof:lastmodified":1472644324,
+    "wof:lastmodified":1534439183,
     "wof:name":"Samir Shah",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874289811
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sleep",

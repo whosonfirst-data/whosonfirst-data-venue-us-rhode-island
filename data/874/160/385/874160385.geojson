@@ -2,18 +2,24 @@
   "id": 874160385,
   "type": "Feature",
   "properties": {
-    "addr:full":"92 Narragansett Ave Jamestown RI 02835",
+    "addr:city":"Jamestown",
+    "addr:full":"92 Narragansett Ave Jamestown, Ri 02835",
+    "addr:house_number":"92",
     "addr:housenumber":"92",
+    "addr:phone":"+1 401-423-0784",
     "addr:postcode":"02835",
+    "addr:road":"Narragansett Ave",
+    "addr:state":"RI",
     "addr:street":"Narragansett Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.376381,41.496126,-71.376381,41.496126",
-    "geom:latitude":41.496126,
-    "geom:longitude":-71.376381,
+    "geom:bbox":"-71.37286,41.49626,-71.37286,41.49626",
+    "geom:latitude":41.49626,
+    "geom:longitude":-71.37286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"92 Narragansett Ave",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -30,19 +36,23 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526855
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400023,
         "sg:id":"SG_1jda7I65Gx87a2MB8a09mm_41.496126_-71.376381@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464312436,
-    "wof:geomhash":"6d6296653a774e0c29c52428d1c5c672",
+    "wof:geomhash":"68d58fe78bc54459885fc16bf7ecc3cb",
     "wof:hierarchy":[],
     "wof:id":874160385,
-    "wof:lastmodified":1472644181,
-    "wof:name":"Jamestown Historical Society",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Jamestown Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -71.376381,
-    41.496126,
-    -71.376381,
-    41.496126
+    -71.37286,
+    41.49626,
+    -71.37286,
+    41.49626
 ],
-  "geometry": {"coordinates":[-71.37638099999999,41.496126],"type":"Point"}
+  "geometry": {"coordinates":[-71.37286,41.49626],"type":"Point"}
 }

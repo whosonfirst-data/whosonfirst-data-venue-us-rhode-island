@@ -7,6 +7,7 @@
     "addr:postcode":"02865",
     "addr:street":"Wake Robin Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.473845,41.934185,-71.473845,41.934185",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.473845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3 Wake Robin Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464315100,
-    "wof:geomhash":"8134fa4de9b6c11d35c38fe73e63e71b",
+    "wof:geomhash":"9a46355347f9fd0bc4a5cb474433a640",
     "wof:hierarchy":[],
     "wof:id":874292299,
-    "wof:lastmodified":1472644304,
+    "wof:lastmodified":1534439184,
     "wof:name":"Trattoria Romana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874292511
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "italian"

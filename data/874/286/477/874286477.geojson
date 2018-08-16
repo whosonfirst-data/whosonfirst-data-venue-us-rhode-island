@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.424797,41.820801,-71.424797,41.820801",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.424797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"215 Broadway",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314872,
-    "wof:geomhash":"9f3ee594c311d2e82d88b8fc78d0e7ce",
+    "wof:geomhash":"16148f4f7dfd75d4382acc34c6e87566",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":874286477,
-    "wof:lastmodified":1472644296,
+    "wof:lastmodified":1534439186,
     "wof:name":"Grilli & Dimaio",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874296367
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

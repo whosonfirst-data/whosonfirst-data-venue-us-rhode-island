@@ -14,6 +14,7 @@
     "geom:longitude":-71.406799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 S Main St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315256,
-    "wof:geomhash":"09b91dcf9bc2021f045392c1316641ff",
+    "wof:geomhash":"f220c77272e9ab69b49320145ce9cef0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":874296707,
-    "wof:lastmodified":1472644320,
+    "wof:lastmodified":1534439186,
     "wof:name":"Lovell Chas A Lwyr",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874294511
+    ],
     "wof:tags":[]
 },
   "bbox": [

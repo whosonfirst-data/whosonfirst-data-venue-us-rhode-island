@@ -14,6 +14,7 @@
     "geom:longitude":-71.3974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"164 Summit Ave",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315420,
-    "wof:geomhash":"62cc95150fcb0cb6a6fdb4059bfd499f",
+    "wof:geomhash":"6b11de9c8c3fa2801f57ab45dfe658d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874300907,
-    "wof:lastmodified":1472644331,
+    "wof:lastmodified":1534439186,
     "wof:name":"Womens Cardiac Center the",
     "wof:parent_id":85826211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874076021
+    ],
     "wof:tags":[
         "cardiologist"
     ]

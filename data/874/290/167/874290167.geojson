@@ -7,6 +7,7 @@
     "addr:postcode":"02860",
     "addr:street":"School St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.380816,41.873061,-71.380816,41.873061",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.380816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"123 School St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315018,
-    "wof:geomhash":"fd73752fc05220f453584f254929357f",
+    "wof:geomhash":"ec57a68e17bb92a21d108c5be04d8664",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":874290167,
-    "wof:lastmodified":1472644301,
+    "wof:lastmodified":1534439184,
     "wof:name":"University Oral & Maxillofacial Surgery Associated Limited",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        874290227
+    ],
+    "wof:supersedes":[
+        873997289
+    ],
     "wof:tags":[
         "dentists-oral",
         "maxillofacial",

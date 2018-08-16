@@ -14,6 +14,7 @@
     "geom:longitude":-71.424759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Atwells Ave",
     "sg:city":"Providence",
     "sg:classifiers":[],
@@ -38,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315266,
-    "wof:geomhash":"2fb8b1f934c65492b66473824145296c",
+    "wof:geomhash":"d3573a8c61877508f2690011a40aec00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,13 +53,15 @@
         }
     ],
     "wof:id":874296965,
-    "wof:lastmodified":1472644328,
+    "wof:lastmodified":1534439185,
     "wof:name":"Blue Grotto",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874284145
+    ],
     "wof:tags":[]
 },
   "bbox": [

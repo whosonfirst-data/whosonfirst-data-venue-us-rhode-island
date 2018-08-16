@@ -7,6 +7,7 @@
     "addr:postcode":"02905",
     "addr:street":"Dudley St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.408653,41.810593,-71.408653,41.810593",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.408653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Dudley St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313452,
-    "wof:geomhash":"96c2aa0b0bf87d3ca145d75a06ddcbb1",
+    "wof:geomhash":"076e56c8a0688c9e8f283323c053502f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874245903,
-    "wof:lastmodified":1472644291,
+    "wof:lastmodified":1534439178,
     "wof:name":"Women & Infants Hosp Research",
     "wof:parent_id":85880055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874181249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

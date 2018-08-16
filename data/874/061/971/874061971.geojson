@@ -7,6 +7,7 @@
     "addr:postcode":"02886",
     "addr:street":"Bald Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.479987,41.726538,-71.479987,41.726538",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.479987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Bald Hill Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311353,
-    "wof:geomhash":"446513722eb01baab967611bf23c0bd6",
+    "wof:geomhash":"d0018b7a18b2152b99eba23803142919",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,15 @@
         }
     ],
     "wof:id":874061971,
-    "wof:lastmodified":1472644137,
+    "wof:lastmodified":1534439181,
     "wof:name":"Foot & Ankle Inst-New England",
     "wof:parent_id":85842689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874242637,
+        874250605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

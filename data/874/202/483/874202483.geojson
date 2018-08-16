@@ -7,6 +7,7 @@
     "addr:postcode":"02905",
     "addr:street":"Plain St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.410892,41.809188,-71.410892,41.809188",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.410892,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"235 Plain St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312869,
-    "wof:geomhash":"65d473e3ca0c8dd07c5a3c075f92db24",
+    "wof:geomhash":"3e6f73135c49a242b9ff67881147b9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":874202483,
-    "wof:lastmodified":1472644201,
+    "wof:lastmodified":1534439180,
     "wof:name":"Radiology Associates Inc",
     "wof:parent_id":85880055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874109775
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "x"

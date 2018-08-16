@@ -7,6 +7,7 @@
     "addr:postcode":"02865",
     "addr:street":"George Washington Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.443114,41.935031,-71.443114,41.935031",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.443114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"642 George Washington Hwy",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312410,
-    "wof:geomhash":"c0abe470f576cef2846b117463bf2dac",
+    "wof:geomhash":"be3373b9b715849dff2f4765a5df37f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":874158277,
-    "wof:lastmodified":1472644174,
+    "wof:lastmodified":1534439184,
     "wof:name":"Wave Federal Credit Union",
     "wof:parent_id":85803785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874292845
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"02865",
     "addr:street":"Princess Pine Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.461469,41.891276,-71.461469,41.891276",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.461469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"11 Princess Pine Rd",
     "sg:city":"Lincoln",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314058,
-    "wof:geomhash":"582609fa1190aaa44adfb90433e6f762",
+    "wof:geomhash":"7b93006876ecbbe2e11ad6bb263701e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":874265609,
-    "wof:lastmodified":1472644293,
+    "wof:lastmodified":1534439184,
     "wof:name":"Mays Electrical Maint Const Co",
     "wof:parent_id":85847279,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874292747
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electric",

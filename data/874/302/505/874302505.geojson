@@ -14,6 +14,7 @@
     "geom:longitude":-71.424698,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"395 Smith St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315480,
-    "wof:geomhash":"4e580ed0a353e42d2548f8d6f27f5c08",
+    "wof:geomhash":"d9d11f095d4fe777da423a83f84ce9d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":874302505,
-    "wof:lastmodified":1472644323,
+    "wof:lastmodified":1534439186,
     "wof:name":"Attorney Louis W Grande & Associates",
     "wof:parent_id":85880051,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874283257
+    ],
     "wof:tags":[
         "personal",
         "injury",

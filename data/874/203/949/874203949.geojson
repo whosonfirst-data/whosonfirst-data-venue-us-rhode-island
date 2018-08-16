@@ -7,6 +7,7 @@
     "addr:postcode":"02915",
     "addr:street":"Wampanoag Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.353779,41.795949,-71.353779,41.795949",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.353779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"250 Wampanoag Trl",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312883,
-    "wof:geomhash":"cd24e2cdfbeb1c44e6d48249b5575a80",
+    "wof:geomhash":"6ccdf7f12ccec3f4cf2560b861ac3fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":874203949,
-    "wof:lastmodified":1472644209,
+    "wof:lastmodified":1534439181,
     "wof:name":"East Providence Fmly Eye Care",
     "wof:parent_id":85868717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874263289
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

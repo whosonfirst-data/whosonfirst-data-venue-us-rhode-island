@@ -14,6 +14,7 @@
     "geom:longitude":-71.369598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 Armistice Blvd",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314756,
-    "wof:geomhash":"9d1d344d85c5eecb0c6a78033fb340b9",
+    "wof:geomhash":"283b02c12d3118ccb33f39a9c068b4d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":874283503,
-    "wof:lastmodified":1472644257,
+    "wof:lastmodified":1534439183,
     "wof:name":"Coppola Joyce MD",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874273049,
+        874290315
+    ],
     "wof:tags":[
         "medical"
     ]

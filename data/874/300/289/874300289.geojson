@@ -14,6 +14,7 @@
     "geom:longitude":-71.395302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"154 Waterman St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315399,
-    "wof:geomhash":"3974212108b765c97a8acbbfe9051399",
+    "wof:geomhash":"cb9e83645e9ef6889c87090abf7cc50d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,16 @@
         }
     ],
     "wof:id":874300289,
-    "wof:lastmodified":1472644315,
+    "wof:lastmodified":1534439186,
     "wof:name":"Sturam Jorge H Inc Phys",
     "wof:parent_id":85867163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874117271,
+        873991379
+    ],
     "wof:tags":[]
 },
   "bbox": [

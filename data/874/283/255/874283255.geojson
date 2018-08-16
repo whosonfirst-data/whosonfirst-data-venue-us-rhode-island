@@ -14,6 +14,7 @@
     "geom:longitude":-71.406998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 S Main St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314748,
-    "wof:geomhash":"a6f3e28c03518dcf8e87eca74d04c56f",
+    "wof:geomhash":"e4d4fce9d330a27fba45d0b0451de9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874283255,
-    "wof:lastmodified":1472644246,
+    "wof:lastmodified":1534439183,
     "wof:name":"Asquith & Mahoney Llp",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874114005
+    ],
     "wof:tags":[
         "attorney"
     ]

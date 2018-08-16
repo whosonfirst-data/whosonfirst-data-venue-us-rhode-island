@@ -2,18 +2,24 @@
   "id": 874097187,
   "type": "Feature",
   "properties": {
-    "addr:full":"1351 Cranston St Cranston RI 02920",
+    "addr:city":"Cranston",
+    "addr:full":"1351 Cranston St Cranston, Ri 02920-6721",
+    "addr:house_number":"1351",
     "addr:housenumber":"1351",
-    "addr:postcode":"02920",
+    "addr:phone":"+1 401-944-9226",
+    "addr:postcode":"02920-6721",
+    "addr:road":"Cranston St",
+    "addr:state":"RI",
     "addr:street":"Cranston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.457042,41.79048,-71.457042,41.79048",
-    "geom:latitude":41.79048,
-    "geom:longitude":-71.457042,
+    "geom:bbox":"-71.45641,41.79056,-71.45641,41.79056",
+    "geom:latitude":41.79056,
+    "geom:longitude":-71.45641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1351 Cranston St",
     "sg:city":"Cranston",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 401 944 9226",
     "sg:postcode":"02920",
     "sg:province":"RI",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85880049,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400130,
         "sg:id":"SG_6OzHL41GsEEjidtwjNge56_41.790480_-71.457042@1294189504"
     },
     "wof:country":"US",
     "wof:created":1464311746,
-    "wof:geomhash":"af7b473b4df5572941d7242bc27b518f",
+    "wof:geomhash":"1de16c4d783f67a3c68ee5d47281c1c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +79,8 @@
         }
     ],
     "wof:id":874097187,
-    "wof:lastmodified":1472644138,
-    "wof:name":"Cranston Historical Soc",
+    "wof:lastmodified":1534439187,
+    "wof:name":"Cranston Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
@@ -78,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.457042,
-    41.79048,
-    -71.457042,
-    41.79048
+    -71.45641,
+    41.79056,
+    -71.45641,
+    41.79056
 ],
-  "geometry": {"coordinates":[-71.457042,41.79048],"type":"Point"}
+  "geometry": {"coordinates":[-71.45641000000001,41.79056],"type":"Point"}
 }

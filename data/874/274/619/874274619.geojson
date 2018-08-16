@@ -7,6 +7,7 @@
     "addr:postcode":"02860",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.382504,41.875633,-71.382504,41.875633",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.382504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Main St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314390,
-    "wof:geomhash":"bf325bb79a81e5251bdbcb3104c3cf50",
+    "wof:geomhash":"7a9d18278150ec5e70dc37ba308c2913",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":874274619,
-    "wof:lastmodified":1472644273,
+    "wof:lastmodified":1534439183,
     "wof:name":"Motor Vehicle Registry",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874289307
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "state",

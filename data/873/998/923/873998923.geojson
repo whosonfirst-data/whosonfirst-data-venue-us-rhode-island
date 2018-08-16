@@ -14,6 +14,7 @@
     "geom:longitude":-71.207695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"343 Highland Rd",
     "sg:city":"Tiverton",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464310753,
-    "wof:geomhash":"56d5bbde38f84f079ce53ec1c6f15404",
+    "wof:geomhash":"0e8658f9f2d233410ea19335ed5acb4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":873998923,
-    "wof:lastmodified":1472644115,
+    "wof:lastmodified":1534439179,
     "wof:name":"Tiverton Town Administration",
     "wof:parent_id":85868751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874257377
+    ],
     "wof:tags":[
         "village"
     ]

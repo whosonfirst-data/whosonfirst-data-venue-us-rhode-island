@@ -2,18 +2,24 @@
   "id": 874298593,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Edward St North Providence RI 02904",
+    "addr:city":"Providence",
+    "addr:full":"4 Edward St Providence, Ri 02904",
+    "addr:house_number":"4",
     "addr:housenumber":"4",
+    "addr:phone":"+1 401-274-0999",
     "addr:postcode":"02904",
+    "addr:road":"Edward St",
+    "addr:state":"RI",
     "addr:street":"Edward St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-71.413399,41.851898,-71.413399,41.851898",
-    "geom:latitude":41.851898,
-    "geom:longitude":-71.413399,
+    "geom:bbox":"-71.41362,41.85226,-71.41362,41.85226",
+    "geom:latitude":41.85226,
+    "geom:longitude":-71.41362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4 Edward St",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -28,7 +34,11 @@
     "sg:postcode":"02904",
     "sg:province":"RI",
     "sg:website":"www.providencejewelrymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530117,
+        102526855
+    ],
     "wof:belongsto":[
         85880035,
         102191575,
@@ -40,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404400075,
         "sg:id":"SG_0SfqmQ6ScQACm918L9pIS9_41.851898_-71.413399@1303262238"
     },
     "wof:country":"US",
     "wof:created":1464315335,
-    "wof:geomhash":"7af0ff34fc2af7d89a34aa67b39a5088",
+    "wof:geomhash":"b025bf3d38eb4321748602ea09753ef9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +69,7 @@
         }
     ],
     "wof:id":874298593,
-    "wof:lastmodified":1472644322,
+    "wof:lastmodified":1534439187,
     "wof:name":"Providence Jewelry Museum",
     "wof:parent_id":85880035,
     "wof:placetype":"venue",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -71.413399,
-    41.851898,
-    -71.413399,
-    41.851898
+    -71.41362,
+    41.85226,
+    -71.41362,
+    41.85226
 ],
-  "geometry": {"coordinates":[-71.413399,41.851898],"type":"Point"}
+  "geometry": {"coordinates":[-71.41361999999999,41.85226],"type":"Point"}
 }

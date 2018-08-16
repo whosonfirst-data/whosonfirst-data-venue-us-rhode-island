@@ -14,6 +14,7 @@
     "geom:longitude":-71.411437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 Imperial Pl",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312763,
-    "wof:geomhash":"2e9fecadd681c61b53bc6b24bb7d8340",
+    "wof:geomhash":"dfd32e4fbccf67e75e8a11b87bc71ab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874192431,
-    "wof:lastmodified":1472644196,
+    "wof:lastmodified":1534439179,
     "wof:name":"AMD",
     "wof:parent_id":85867169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874083409
+    ],
     "wof:tags":[
         "illustration"
     ]

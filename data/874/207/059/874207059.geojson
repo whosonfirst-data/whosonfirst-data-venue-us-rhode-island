@@ -7,6 +7,7 @@
     "addr:postcode":"02882",
     "addr:street":"Kingstown Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.482136,41.434556,-71.482136,41.434556",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.482136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"360 Kingstown Rd",
     "sg:city":"Narragansett",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312920,
-    "wof:geomhash":"fa2c90d4e9b22376092cd17eb71ef74d",
+    "wof:geomhash":"b6963ced30a78431e2d88ae5eeb6edb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,12 +77,14 @@
         }
     ],
     "wof:id":874207059,
-    "wof:lastmodified":1472644189,
+    "wof:lastmodified":1534439180,
     "wof:name":"Narragansett Med Bldg Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874208815
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

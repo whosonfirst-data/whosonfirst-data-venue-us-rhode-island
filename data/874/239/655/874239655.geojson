@@ -7,6 +7,7 @@
     "addr:postcode":"02842",
     "addr:street":"Corporate Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.296142,41.529851,-71.296142,41.529851",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.296142,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Corporate Pl",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313333,
-    "wof:geomhash":"974ead3c2701cc48cd59c22e8526ca0b",
+    "wof:geomhash":"fdfc061f308f1737dd6fe8a3ea363da3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":874239655,
-    "wof:lastmodified":1472644287,
+    "wof:lastmodified":1534439182,
     "wof:name":"Caci Systems Inc",
     "wof:parent_id":85830033,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874269623
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineering",

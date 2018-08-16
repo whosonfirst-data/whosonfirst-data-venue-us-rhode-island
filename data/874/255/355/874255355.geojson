@@ -14,6 +14,7 @@
     "geom:longitude":-71.443918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2374 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313683,
-    "wof:geomhash":"1f121ad9bfe67de657f7174e16a4c6a3",
+    "wof:geomhash":"e12ffb936faa51706da68ede96483dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":874255355,
-    "wof:lastmodified":1472644239,
+    "wof:lastmodified":1534439182,
     "wof:name":"Healthcare Automation Inc",
     "wof:parent_id":420540487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874272237
+    ],
     "wof:tags":[
         "software"
     ]

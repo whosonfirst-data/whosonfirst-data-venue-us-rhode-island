@@ -14,6 +14,7 @@
     "geom:longitude":-71.47229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Toll Gate Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464312809,
-    "wof:geomhash":"9c3bbd49905c1419ae6aa755bbec0d0e",
+    "wof:geomhash":"cf54112ab29bc5605dbc507551495b19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874196373,
-    "wof:lastmodified":1472644195,
+    "wof:lastmodified":1534439179,
     "wof:name":"Carlos H Nieto MD Inc",
     "wof:parent_id":85803293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874234335
+    ],
     "wof:tags":[
         "medical"
     ]

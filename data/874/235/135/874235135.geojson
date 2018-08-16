@@ -7,6 +7,7 @@
     "addr:postcode":"02864",
     "addr:street":"Nate Whipple Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.453304,41.977738,-71.453304,41.977738",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.453304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"106 Nate Whipple Hwy",
     "sg:city":"Cumberland",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313242,
-    "wof:geomhash":"5dfc7b3c068cee7133ee4f619d6fb9bb",
+    "wof:geomhash":"c2402093ca3e69673e0f25271de9bddd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":874235135,
-    "wof:lastmodified":1472644208,
+    "wof:lastmodified":1534439182,
     "wof:name":"C P Pagonis MD Inc",
     "wof:parent_id":85813219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874276765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

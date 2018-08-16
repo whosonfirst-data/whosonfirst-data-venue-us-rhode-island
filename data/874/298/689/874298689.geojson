@@ -14,6 +14,7 @@
     "geom:longitude":-71.459702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 High Service Ave",
     "sg:city":"N Providence",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315339,
-    "wof:geomhash":"a367a316990af05978ab146dd1dba0b4",
+    "wof:geomhash":"8661a6cc30598a47e485f9632149071a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":874298689,
-    "wof:lastmodified":1472644325,
+    "wof:lastmodified":1534439185,
     "wof:name":"St Joseph Hospital Cardiology Foundation Ltd",
     "wof:parent_id":85820781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874145701
+    ],
     "wof:tags":[
         "cardiologist"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-71.409523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"56 Pine St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311179,
-    "wof:geomhash":"7e3aeffe2b485c31ff37e9af332daaf6",
+    "wof:geomhash":"3bf4f7367addce1f2bbf9ffea674dbf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874043407,
-    "wof:lastmodified":1472644107,
+    "wof:lastmodified":1534439179,
     "wof:name":"Metropark Ltd Inc",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874169255
+    ],
     "wof:tags":[
         "automobile"
     ]

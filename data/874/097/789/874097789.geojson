@@ -7,6 +7,7 @@
     "addr:postcode":"02911",
     "addr:street":"Smith St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.460837,41.849823,-71.460837,41.849823",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.460837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1515 Smith St",
     "sg:city":"North Providence",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464311754,
-    "wof:geomhash":"81f549e567bebbfa1ef83614037dcbdd",
+    "wof:geomhash":"462895d47846ce8097575436e91b94fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":874097789,
-    "wof:lastmodified":1472644149,
+    "wof:lastmodified":1534439186,
     "wof:name":"Frank M D'Alessandro MD",
     "wof:parent_id":85820781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874303301
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

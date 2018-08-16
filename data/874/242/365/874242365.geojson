@@ -14,6 +14,7 @@
     "geom:longitude":-71.457634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 Main St",
     "sg:city":"East Greenwich",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313383,
-    "wof:geomhash":"950f43b05d69f99dc41d637933b8d141",
+    "wof:geomhash":"cc777db78a1086465dc0c82884e1b34a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874242365,
-    "wof:lastmodified":1472644223,
+    "wof:lastmodified":1534439181,
     "wof:name":"Robert J Curran & Assoc",
     "wof:parent_id":85810613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874112057
+    ],
     "wof:tags":[
         "surveyor"
     ]

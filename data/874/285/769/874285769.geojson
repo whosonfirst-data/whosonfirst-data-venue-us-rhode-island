@@ -14,6 +14,7 @@
     "geom:longitude":-71.383461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Main St",
     "sg:city":"Pawtucket",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314849,
-    "wof:geomhash":"23ec155e627c6667cf3ddb3c15b3d316",
+    "wof:geomhash":"9840c7ca061923128b84ae8fc6d9e4f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":874285769,
-    "wof:lastmodified":1472644291,
+    "wof:lastmodified":1534439182,
     "wof:name":"Blais Cunningham & Crowe Chester",
     "wof:parent_id":85858809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874270727
+    ],
     "wof:tags":[
         "attorney",
         "planning",

@@ -14,6 +14,7 @@
     "geom:longitude":-71.408537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Dyer St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315264,
-    "wof:geomhash":"b12b935d584383ff66b65c8af4d067d8",
+    "wof:geomhash":"736e093645b59923ddfbaa7233c6aa07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":874296915,
-    "wof:lastmodified":1472644326,
+    "wof:lastmodified":1534439185,
     "wof:name":"A Louise Herman Atty",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874240167
+    ],
     "wof:tags":[
         "offense",
         "attorney",

@@ -7,6 +7,7 @@
     "addr:postcode":"02903",
     "addr:street":"Pine St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-16",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.410004,41.822601,-71.410004,41.822601",
@@ -14,6 +15,7 @@
     "geom:longitude":-71.410004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"72 Pine St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464315274,
-    "wof:geomhash":"d28cae623d606973cf9b0e8cee4fd07b",
+    "wof:geomhash":"186c65b654eb8e281c2da5e068c9ed13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":874297207,
-    "wof:lastmodified":1472644313,
+    "wof:lastmodified":1534439182,
     "wof:name":"Quinn Thomas H Jr Lwyr",
     "wof:parent_id":85867165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        874297209
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

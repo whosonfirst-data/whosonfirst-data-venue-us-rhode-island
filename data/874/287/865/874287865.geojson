@@ -14,6 +14,7 @@
     "geom:longitude":-71.43643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 Post Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464314930,
-    "wof:geomhash":"96afc8bcb8a4156bd21a997440118dfe",
+    "wof:geomhash":"3b730ae401e96abfd353e309a0c96c91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":874287865,
-    "wof:lastmodified":1472644315,
+    "wof:lastmodified":1534439183,
     "wof:name":"Walts Roast Beef",
     "wof:parent_id":85825603,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874248163
+    ],
     "wof:tags":[
         "wrap",
         "american",

@@ -14,6 +14,7 @@
     "geom:longitude":-71.42338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"260 W Exchange St",
     "sg:city":"Providence",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464313554,
-    "wof:geomhash":"ee27d009bbddf9823c98b14cdbeea96e",
+    "wof:geomhash":"45926c33ea6c93c329c7c58003437e83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":874249567,
-    "wof:lastmodified":1472644227,
+    "wof:lastmodified":1534439181,
     "wof:name":"Capitol City Group",
     "wof:parent_id":85867167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ri",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        874246705
+    ],
     "wof:tags":[
         "attorney"
     ]
